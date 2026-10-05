@@ -13,7 +13,7 @@ key_accomplishments:
   - "Founded a library and schools; promoted book learning and the copying of books"
   - "Dynastic marriages of his children with the rulers of France, Norway, Hungary and other countries"
 birthplace_name: "Unknown"
-image_alt: "A seal attributed to Yaroslav the Wise (drawing)"
+image_alt: "Imagined portrait of Prince Yaroslav the Wise, an illustration from Mykola Arkas’s History of Ukraine-Rus’, 1912"
 reviewed: true
 ---
 

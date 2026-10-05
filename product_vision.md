@@ -454,8 +454,8 @@ Everything needed before the repo moves to a personal account and the site goes 
   | maksym-kryvtsov | unknown author, via «Рівне 1» | permission from the family or the photographer |
   | yurii-ruf | his own Facebook photo, via UNIAN (copyright now with his heirs) | permission from the family |
 
-  | ~~volodymyr-velykyi~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** his own silver coin (srebrenyk) with the tryzub, Odesa Numismatic Museum, PD (to be upgraded to a portrait painting) (Commons) |
-  | ~~yaroslav-mudryi~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** a seal attributed to him (drawing), PD (to be upgraded to a portrait painting) (Commons) |
+  | ~~volodymyr-velykyi~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** imagined portrait from Mykola Arkas's *Історія України-Русі* (1912), PD (Commons) |
+  | ~~yaroslav-mudryi~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** imagined portrait from Mykola Arkas's *Історія України-Русі* (1912), PD; the uk.wikipedia image (a 1989 Zoloti Vorota metro mosaic) was not used, since the artists' copyright still applies (Commons) |
   | ~~roman-shukhevych~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** 1944 photograph, SBU archive, PD (Commons) |
   | ~~lesya-ukrainka~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** Johann Krzanowski's 1901 photograph (the original, not colorized), PD (Commons) |
   | ~~mykola-khvylovyi~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** O. Korenevych's 1928 photograph, PD (Commons) |

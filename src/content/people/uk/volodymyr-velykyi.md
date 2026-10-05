@@ -17,11 +17,11 @@ misconception:
 birthplace: { name: "Невідомо", region: unknown, country: UA }
 image:
   src: ./images/volodymyr-velykyi.jpg
-  alt: "Володимир Великий на троні, поруч - тризуб: срібник кінця X - початку XI століття (Одеський музей нумізматики)"
+  alt: "Уявний портрет князя Володимира Великого, ілюстрація з «Історії України-Русі» Миколи Аркаса, 1912"
   position: "50% 30%"
-  author: "Влад Федченко (фото монети, Одеський музей нумізматики)"
+  author: "Невідомий автор, ілюстрація з книги Миколи Аркаса «Історія України-Русі» (1912)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Odessa_numismatic_museum_photo_05.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-%D0%A0%D1%83%D1%81%D1%96._1912._%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg"
 key_accomplishments:
   - Хрещення Русі (традиційно - 988 рік) і запровадження християнства як державної релігії
   - Об'єднання та розширення руських земель, оборонні лінії й фортеці проти печенігів по Стугні, Трубежу й Сулі
