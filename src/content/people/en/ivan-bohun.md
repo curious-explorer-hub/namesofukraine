@@ -10,6 +10,7 @@ key_accomplishments:
   - "Victories over Polish forces at Vinnytsia (1651) and Monastyryshche (1653); took part in the siege at Zhvanets in 1653"
   - "Refused to swear allegiance to the Muscovite tsar after the Pereiaslav Council of 1654"
 birthplace_name: "Unknown"
+image_alt: "Mykola Ivasiuk, “Bohun at the Crossing” (Ivan Bohun at Berestechko, 1651)"
 reviewed: true
 ---
 

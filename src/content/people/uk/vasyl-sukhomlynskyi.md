@@ -11,6 +11,13 @@ role: "Педагог-гуманіст"
 summary: "Педагог і письменник, який понад двадцять років очолював сільську школу в Павлиші й перетворив її на педагогічну лабораторію. Його книжка «Серце віддаю дітям» поставила в центр навчання особистість дитини й вийшла за кордоном 25 мовами."
 fun_fact: "Крім педагогічних праць, Сухомлинський написав близько 1200 оповідань, казок і есе для дітей."
 birthplace: { name: "Василівка", region: kirovohrad, country: UA, lat: 48.838, lon: 33.289 }
+image:
+  src: ./images/vasyl-sukhomlynskyi.jpg
+  alt: "Портрет Василя Сухомлинського на пам'ятній монеті НБУ «Серце віддаю дітям» (2018)"
+  position: "50% 35%"
+  author: "Національний банк України"
+  license: "Public domain"
+  source_url: "https://bank.gov.ua/ua/news/all/pamyatna-moneta-sertse-viddayu-dityam-do-100-richchya-vid-dnya-narodjennya-v-o-suhomlinskogo-vvoditsya-v-obig-z-03-veresnya-2018-roku"
 key_accomplishments:
   - "Директор Павлиської середньої школи (1948–1970)"
   - "Книжка «Серце віддаю дітям» (1969) - Державна премія УРСР (1974)"
