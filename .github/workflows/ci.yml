@@ -37,6 +37,15 @@ jobs:
       - name: Lighthouse budget
         run: npx --yes @lhci/cli@0.15 autorun
       # Deploys only from main, and only once Cloudflare secrets are configured.
+      # The first deploy creates the Pages project if it doesn't exist yet (the token's "Pages: Edit"
+      # permission allows it), then lists projects so the assigned *.pages.dev address shows in the log.
+      - name: Create the Cloudflare Pages project if missing
+        if: github.ref == 'refs/heads/main' && env.CLOUDFLARE_API_TOKEN != ''
+        run: |
+          if ! npx wrangler@4 pages project list | grep -qw namesofukraine; then
+            npx wrangler@4 pages project create namesofukraine --production-branch=main
+          fi
+          npx wrangler@4 pages project list
       - name: Deploy to Cloudflare Pages
         if: github.ref == 'refs/heads/main' && env.CLOUDFLARE_API_TOKEN != ''
-        run: npx wrangler@latest pages deploy dist --project-name=namesofukraine --branch=main
+        run: npx wrangler@4 pages deploy dist --project-name=namesofukraine --branch=main
