@@ -1,6 +1,6 @@
 # People backlog
 
-Everyone we plan to add, in one table. The site's selection criteria and editorial rules are in [product_vision.md](product_vision.md) §7; the authoring workflow is in the README. People already on the site are not listed.
+Everyone we plan to add, in one table. The site's selection criteria and editorial rules are in [product_vision.md](../product_vision.md) §7; the authoring workflow is in the README. People already on the site are not listed.
 
 **Sources** (the `Source` column)
 - **NV**: [НВ: 100 великих українців](https://nv.ua/ukr/ukraine/events/100-velikih-ukrajinciv-nv-nazivaye-tih-hto-viznachav-perebig-istoriji-50265222.html) (the site blocks automated access; the list was read from the [Internet Archive copy of 9 Sep 2026](http://web.archive.org/web/20260909133250/https://nv.ua/ukr/ukraine/events/100-velikih-ukrajinciv-nv-nazivaye-tih-hto-viznachav-perebig-istoriji-50265222.html). 99 of 100 entries were parsed; one needs a manual check.)

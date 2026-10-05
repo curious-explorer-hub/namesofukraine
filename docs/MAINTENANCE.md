@@ -1,6 +1,6 @@
 # Maintenance
 
-Recurring work that keeps the site accurate and alive. Publishing mechanics are in [docs/PUBLISHING.md](docs/PUBLISHING.md); the post-launch checks in [docs/post-launch.md](docs/post-launch.md).
+Recurring work that keeps the site accurate and alive. Publishing mechanics are in [docs/PUBLISHING.md](PUBLISHING.md); the post-launch checks in [docs/post-launch.md](post-launch.md).
 
 ## Weekly: review feedback (about 30–60 minutes, e.g. every Monday)
 
@@ -37,7 +37,7 @@ The script (`scripts/pull-feedback.mjs`) reads the Tally API key from `$TALLY_AP
 npm run check && npm test && npm run test:e2e
 ```
 
-  Every push to `main` deploys after CI passes ([docs/PUBLISHING.md](docs/PUBLISHING.md)).
+  Every push to `main` deploys after CI passes ([docs/PUBLISHING.md](PUBLISHING.md)).
 - Record the week in the log below: date, submission ids, outcome. No personal data.
 - If the sender left an email and asked for a reply, answer (`--show-email`).
 
@@ -49,7 +49,7 @@ Ask in this repository:
 
 ## Monthly (about 15 minutes)
 
-- Traffic and search: Cloudflare Web Analytics and Search Console (see [docs/post-launch.md](docs/post-launch.md), "Every month").
+- Traffic and search: Cloudflare Web Analytics and Search Console (see [docs/post-launch.md](post-launch.md), "Every month").
 - Dependabot pull requests: review and merge; CI fails on new, unreviewed advisories (`scripts/check-audit.mjs`).
 - Portraits still missing (product_vision.md §11 L15): follow up on permission requests.
 

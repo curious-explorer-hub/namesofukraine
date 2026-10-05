@@ -82,7 +82,7 @@ Names only; the values live in GitHub and Cloudflare, never in this repository.
 | `public/_headers` | — | Security headers (CSP and others), applied by Cloudflare Pages |
 | `public/_redirects` | — | Redirects (`/` → `/uk/`), applied by Cloudflare Pages |
 
-Repository protections (protected `main`, approval for outside contributors' workflows, secret scanning) are described in [SECURITY.md](../SECURITY.md). Never commit tokens, `.env` files or keys; CI fails if `dist/` contains repository files or secrets (`scripts/check-dist.mjs`).
+Repository protections (protected `main`, approval for outside contributors' workflows, secret scanning) are described in [SECURITY.md](SECURITY.md). Never commit tokens, `.env` files or keys; CI fails if `dist/` contains repository files or secrets (`scripts/check-dist.mjs`).
 
 ## Moving to the real domain
 

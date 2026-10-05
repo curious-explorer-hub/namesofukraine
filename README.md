@@ -2,7 +2,7 @@
 
 **«Знай своїх»** (Know Your Own). A free static website about the people who made Ukraine, for the young generation.
 
-Product vision, requirements, decisions, and current progress: see [product_vision.md](product_vision.md) (start with §0 to resume work). How changes go live (CI, Cloudflare Pages, rollback): [docs/PUBLISHING.md](docs/PUBLISHING.md). Weekly feedback review and other recurring work: [MAINTENANCE.md](MAINTENANCE.md). People we plan to add: [CANDIDATES.md](CANDIDATES.md).
+Product vision, requirements, decisions, and current progress: see [product_vision.md](product_vision.md) (start with §0 to resume work). How changes go live (CI, Cloudflare Pages, rollback): [docs/PUBLISHING.md](docs/PUBLISHING.md). Weekly feedback review and other recurring work: [MAINTENANCE.md](docs/MAINTENANCE.md). People we plan to add: [CANDIDATES.md](docs/CANDIDATES.md).
 
 ## Development
 
@@ -25,4 +25,4 @@ Pages exist in both languages at the same depth: Ukrainian under `/uk/`, English
 
 ## License
 
-Code: [MIT](LICENSE). Site text: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Images: each under its own free license, credited on the site. Details: [LICENSE-CONTENT.md](LICENSE-CONTENT.md).
+Code: [MIT](LICENSE). Site text: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Images: each under its own free license, credited on the site. Details: [LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md).

@@ -1,6 +1,6 @@
 # Content license
 
-The code in this repository is licensed under the MIT License (see [LICENSE](LICENSE)). Everything else is licensed as follows (product_vision.md §7.8):
+The code in this repository is licensed under the MIT License (see [LICENSE](../LICENSE)). Everything else is licensed as follows (product_vision.md §7.8):
 
 | What | Where | License |
 |---|---|---|

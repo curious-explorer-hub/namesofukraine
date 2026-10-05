@@ -13,7 +13,7 @@
 
 **Feature backlog:** §10 (items 16–18, added 2026-10-04: views per person / "most read"; cross-profile links; home page that stays short). Items 3–9 are done; open are 1–2 (social and support links) and 10–11 (SEO, security).
 
-**People backlog:** [CANDIDATES.md](CANDIDATES.md): batch 2 done, recommended batch 3 (20; women and early eras), and the rest of the NV «100 великих українців» list, with decisions pending.
+**People backlog:** [CANDIDATES.md](docs/CANDIDATES.md): batch 2 done, recommended batch 3 (20; women and early eras), and the rest of the NV «100 великих українців» list, with decisions pending.
 
 **Owner priority (2026-09-29):** site idea, layout, and features come first; text and dates are refined later.
 
@@ -461,7 +461,7 @@ Everything needed before the repo moves to a personal account and the site goes 
   | ~~mykola-khvylovyi~~ ✅ | was: all-rights-reserved image | **resolved 2026-10-04:** O. Korenevych's 1928 photograph, PD (Commons) |
 
   Lower risk, worth confirming: Kotliarevskyi's Commons file is tagged public domain, but the painting's date and the artist's dates are unknown (a Tropinin portrait is a safe alternative); Hryntsevych and Ratushnyi use photos from government sites (CC BY 4.0 "unless stated otherwise") that may originally be family or unit photos.
-- [x] **L5. License files** (§7.8) — ✅ done 2026-10-03: `LICENSE` (MIT, code), `LICENSE-CONTENT.md` (CC BY-SA 4.0 for text; per-file licenses for images; OFL for fonts), a README section, and a text-license line on the credits page in both languages.
+- [x] **L5. License files** (§7.8) — ✅ done 2026-10-03: `LICENSE` (MIT, code), `docs/LICENSE-CONTENT.md` (CC BY-SA 4.0 for text; per-file licenses for images; OFL for fonts), a README section, and a text-license line on the credits page in both languages.
 
 ### Should land at launch (code; see §10 items 10, 11, 14)
 - [x] **L6. Security** (item 11) — ✅ code done 2026-10-03; CSP tested against a full draft build with no violations. Owner part moves to L2 (secret scanning, Dependabot alerts). Scope was: `public/_headers` (CSP, HSTS, nosniff, Referrer-Policy, Permissions-Policy, frame-ancestors), escape `<` in the Daily Hero `set:html` JSON, CI check that `dist/` holds no repo files or secrets, `npm audit` in CI, Dependabot config.

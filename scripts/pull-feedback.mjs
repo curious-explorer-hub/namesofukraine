@@ -1,4 +1,4 @@
-// Prints a Markdown summary of feedback-form submissions (Tally) for the weekly review in MAINTENANCE.md.
+// Prints a Markdown summary of feedback-form submissions (Tally) for the weekly review in docs/MAINTENANCE.md.
 // Reads the API key from $TALLY_API_KEY or ~/.tally-key. Prints to the terminal only: submissions contain
 // personal data, so never commit the output to this public repository.
 //
