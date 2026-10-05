@@ -3,7 +3,7 @@ name: Ліна Костенко
 born: 1930-03-19
 living: true
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: literature
 tags: [poet]
@@ -16,11 +16,11 @@ misconception:
 birthplace: { name: "Ржищів", region: kyiv, country: UA, lat: 49.961, lon: 31.044 }
 image:
   src: ./images/lina-kostenko.jpg
-  alt: "Фотографія Ліни Костенко"
-  position: "60% 30%"
-  author: "Невідомий автор, опубліковано «Король Данило»"
-  license: "Усі права захищено"
-  source_url: "https://www.koroldanylo.com.ua/news/slova_shho_ne_movcat_sucasniki_pro_linu_kostenko_2476"
+  alt: "Ліна Костенко, фотографія 2006 року"
+  position: "40% 30%"
+  author: "keymaster (Вікісховище)"
+  license: "GFDL 1.2"
+  source_url: "https://commons.wikimedia.org/wiki/File:Lina_Kostenko_(cropped).jpg"
 key_accomplishments:
   - Збірки «Проміння землі» (1957), «Вітрила» (1958) і «Мандрівки серця» (1961)
   - Історичний роман у віршах «Маруся Чурай» (1979) і Шевченківська премія (1987)
@@ -36,7 +36,7 @@ sources:
   - title: Wikipedia (EN) - Lina Kostenko
     url: https://en.wikipedia.org/wiki/Lina_Kostenko
 related: [vasyl-stus, viacheslav-chornovil]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

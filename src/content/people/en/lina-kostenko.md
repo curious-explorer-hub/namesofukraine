@@ -13,8 +13,8 @@ key_accomplishments:
   - "The novel in verse Berestechko, written mostly in the late 1960s and published in 1999"
   - "The novel Notes of a Ukrainian Madman (2011)"
 birthplace_name: "Rzhyshchiv"
-image_alt: "Photograph of Lina Kostenko"
-reviewed: false
+image_alt: "Lina Kostenko, photograph, 2006"
+reviewed: true
 ---
 
 ## Who she is
