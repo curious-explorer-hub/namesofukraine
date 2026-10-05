@@ -11,7 +11,7 @@
 
 **Launch readiness:** §11 is the single checklist of everything that must happen before the repo migrates and the site goes public (added 2026-10-03). Check it first.
 
-**Feature backlog:** §10 (item 16, added 2026-10-04: views per person / "most read"). Items 3–9 are done; open are 1–2 (social and support links) and 10–11 (SEO, security).
+**Feature backlog:** §10 (items 16–17, added 2026-10-04: views per person / "most read"; cross-profile links). Items 3–9 are done; open are 1–2 (social and support links) and 10–11 (SEO, security).
 
 **People backlog:** [CANDIDATES.md](CANDIDATES.md): batch 2 done, recommended batch 3 (20; women and early eras), and the rest of the NV «100 великих українців» list, with decisions pending.
 
@@ -489,3 +489,10 @@ Everything needed before the repo moves to a personal account and the site goes 
       | C. Privacy-friendly analytics with an API (GoatCounter / Plausible) | Replace or complement Cloudflare; read their API at build time | Event support too (e.g. "read to the end"); good dashboards | Another third party, a CSP change, and Plausible costs ~$9/mo |
 
       **Recommendation:** start with (a) now (nothing to build), and add option A when there's enough traffic for a "most read" list to be meaningful (for example, a few hundred profile views a week), so it doesn't spotlight random early clicks. Revisit B only if real-time counts become a real need. Privacy: all options count pages, not people; no cookies; mention the public list on the About page.
+17. **Cross-profile links: every profile links the people it talks about.** *(Added 2026-10-04.)* When one profile mentions another person who has a profile, readers should be able to jump there, in both directions. Example: Valerii Lobanovskyi's story is also Andriy Shevchenko's (Lobanovskyi coached him at Dynamo); Shevchenko's profile links to Lobanovskyi, but Lobanovskyi's doesn't link back.
+    *Where we are (scan of all 86 profiles, 2026-10-04):* 78 profiles have a `related:` list, but **79 links are one-way** (A lists B, B doesn't list A). A rough name search finds about 160 places where a profile mentions another profiled person without linking; many are false matches (e.g. «Шевченко» can be Taras or Andriy; «Українка» also appears as an ordinary word), so automatic matching needs an explicit list of name forms per person.
+    *Plan:*
+    - **A. Crawl and curate (do first).** Go through every profile, list each mention of another profiled person (by name forms and case endings, checked by hand or by an agent), and add the missing `related:` entries, both directions. Make links reciprocal unless the connection is trivial (a passing mention of Shevchenko's name doesn't make two people "related").
+    - **B. Keep it true with a test.** A content test that fails when a `related:` link is one-way (unless marked as intentionally one-way) and that lists unlinked mentions of profiled people, using a small alias file (`src/content/aliases.json`: name forms per slug, including declined forms like «Лобановського», «Шевченка»).
+    - **C. Inline links in the long-read (later).** Turn the first mention of each profiled person in the story text into a link, at build time (a small remark plugin using the same alias file), in both languages. Only exact alias matches, first mention per section, never inside quotes.
+    *Notes:* "Related people" on the profile already hides people the reader has read (item 3), so more links don't clutter the page. Order of work: A + B in one pass, C once the alias file proves reliable.
