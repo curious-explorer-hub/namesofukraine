@@ -30,64 +30,64 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Володимир Мономах | | State (statehood)                    | Kyivan Rus' | | Backlog | ВУ [58] | |
 | Іван Федоров | бл. 1520–1583 | Printer                              | Lithuanian-Polish | 🌍 | Backlog | NV | |
 | Памво Беринда | бл. 1550/1570–1632 | Publisher (literature)               | Cossack | | Backlog | NV | |
-| Іван Сірко | | Military (statehood)                 | Cossack | | Backlog | ВУ [53] | |
-| Іван Богун | | Military (statehood)                 | Cossack | | Backlog | ВУ [85] | |
+| Іван Сірко | | Military (statehood)                 | Cossack | | Batch 4 (drafting) | ВУ [53] | |
+| Іван Богун | | Military (statehood)                 | Cossack | | Batch 4 (drafting) | ВУ [85] | |
 | Феофан Прокопович | 1681–1736 | Theologian (faith)                   | Cossack | ⚖️ | Backlog | NV | Architect of Peter I's church reform |
-| Кирило Розумовський | 1728–1803 | State (statehood)                    | Cossack | ⚖️ | Backlog | NV | Last hetman |
+| Кирило Розумовський | 1728–1803 | State (statehood)                    | Cossack | ⚖️ | Batch 4 (drafting) | NV | Last hetman |
 | Максим Березовський | 1745–1777 | Composer (performing-arts)           | Cossack | | Backlog | NV | |
 | Микола Пирогов | 1810–1881 | Surgeon (science)                    | 19th c. | 🌍 ⚖️ | Backlog | NV | Russian-born; worked in Kyiv and Vinnytsia |
 | Микола Костомаров | 1817–1885 | Historian (science)                  | 19th c. | | Backlog | NV | |
 | Нікола Терещенко | 1819–1903 | Industrialist and patron (civic)     | 19th c. | | Backlog | NV | |
-| Михайло Драгоманов | 1841–1895 | Historian and thinker (civic)        | 19th c. | | Backlog | NV | |
-| Ілля Мечников | 1845–1916 | Biologist, Nobel Prize (science)     | 19th c. | 🌍 | Backlog | NV | |
+| Михайло Драгоманов | 1841–1895 | Historian and thinker (civic)        | 19th c. | | Batch 4 (drafting) | NV | |
+| Ілля Мечников | 1845–1916 | Biologist, Nobel Prize (science)     | 19th c. | 🌍 | Batch 4 (drafting) | NV | |
 | Іван Пулюй | 1845–1918 | Physicist (science)                  | 19th c. | 🌍 | Backlog | NV | |
 | Ілля Рєпін | | Painter (visual-arts)                | 19th c. | 🌍 ⚖️ | Backlog | ВУ [65] | Born in Chuhuiv; usually counted as a Russian painter |
 | Богдан Ханенко | 1849–1917 | Patron (civic)                       | 19th c. | 👥 | Backlog | NV | NV lists him with Варвара Ханенко (1852–1922): one joint profile or two? |
 | Шолом-Алейхем | 1859–1916 | Writer (literature)                  | 19th c. | 🌍 | Backlog | NV | Ukrainian-born Yiddish writer |
 | Владислав Городецький | 1863–1930 | Architect (visual-arts)              | 19th c. | 🌍 | Backlog | NV | |
-| Михайло Коцюбинський | 1864–1913 | Writer (literature)                  | 19th c. | | Backlog | NV | |
+| Михайло Коцюбинський | 1864–1913 | Writer (literature)                  | 19th c. | | Batch 4 (drafting) | NV | |
 | Євген Патон | 1870–1953 | Engineer (science)                   | 19th c. | | Backlog | NV | Father of Борис Патон (on the site) |
 | Агатангел Кримський | 1871–1942 | Orientalist (science)                | 19th c. | | Backlog | NV | |
-| Павло Скоропадський | 1873–1945 | Hetman (statehood)                   | 20th c. | ⚖️ | Backlog | NV | |
-| Симон Петлюра | 1879–1926 | State (statehood)                    | 20th c. | ⚖️ | Backlog | NV | The 1919 pogroms debate |
+| Павло Скоропадський | 1873–1945 | Hetman (statehood)                   | 20th c. | ⚖️ | Batch 4 (drafting) | NV | |
+| Симон Петлюра | 1879–1926 | State (statehood)                    | 20th c. | ⚖️ | Batch 4 (drafting) | NV | The 1919 pogroms debate |
 | Володимир Винниченко | 1880–1951 | State and letters (statehood)        | 20th c. | | Backlog | NV | |
 | Олександр Богомолець | 1881–1946 | Physiologist (science)               | 20th c. | | Backlog | NV | |
 | Михайло Бойчук | 1882–1937 | Painter (visual-arts)                | 20th c. | | Backlog | NV | |
 | Георгій Нарбут | 1886–1920 | Graphic artist (visual-arts)         | 20th c. | | Backlog | NV | Designed the 1918 banknote on the era ribbon |
-| Лесь Курбас | 1887–1937 | Theatre director (performing-arts)   | 20th c. | | Backlog | NV | |
+| Лесь Курбас | 1887–1937 | Theatre director (performing-arts)   | 20th c. | | Batch 4 (drafting) | NV | |
 | Микола Зеров | 1890–1937 | Poet (literature)                    | 20th c. | | Backlog | NV | |
-| Олександр Довженко | 1894–1956 | Film director (performing-arts)      | 20th c. | | Backlog | NV | |
+| Олександр Довженко | 1894–1956 | Film director (performing-arts)      | 20th c. | | Batch 4 (drafting) | NV | |
 | Василь Вишиваний (Wilhelm von Habsburg) | 1895–1948 or 1954 | State (statehood)                    | 20th c. | 🌍 ⚖️ | Backlog | NV | |
 | Юрій Кондратюк | 1897–1942 | Space-flight pioneer (science)       | 20th c. | | Backlog | NV | |
-| Нестор Махно | | Military (statehood)                 | 20th c. | ⚖️ | Backlog | ВУ [32] | |
+| Нестор Махно | | Military (statehood)                 | 20th c. | ⚖️ | Batch 4 (drafting) | ВУ [32] | |
 | Йосип Сліпий | | UGCC patriarch (faith)               | 20th c. | | Backlog | ВУ [48] | 18 years in Soviet camps |
 | Олег Антонов | 1906–1984 | Aircraft designer (science)          | 20th c. | 🌍 | Backlog | NV | |
-| Остап Вишня | | Writer (literature)                  | 20th c. | | Backlog | ВУ [96] | |
-| Олесь Гончар | | Writer (literature)                  | 20th c. | | Backlog | ВУ [71] | |
-| Василь Симоненко | | Poet (literature)                    | 20th c. | | Backlog | ВУ [72] | |
-| Василь Сухомлинський | | Educator (science)                   | 20th c. | | Backlog | ВУ [86] | |
+| Остап Вишня | | Writer (literature)                  | 20th c. | | Batch 4 (drafting) | ВУ [96] | |
+| Олесь Гончар | | Writer (literature)                  | 20th c. | | Batch 4 (drafting) | ВУ [71] | |
+| Василь Симоненко | | Poet (literature)                    | 20th c. | | Batch 4 (drafting) | ВУ [72] | |
+| Василь Сухомлинський | | Educator (science)                   | 20th c. | | Batch 4 (drafting) | ВУ [86] | |
 | Антон Макаренко | | Educator (science)                   | 20th c. | 🌍 ⚖️ | Backlog | ВУ [87] | |
 | Віктор Глушков | 1923–1982 | Computer science (science)           | 20th c. | 🌍 | Backlog | NV | |
-| Леонід Биков | | Actor and director (performing-arts) | 20th c. | | Backlog | ВУ [27] | |
+| Леонід Биков | | Actor and director (performing-arts) | 20th c. | | Batch 4 (drafting) | ВУ [27] | |
 | Микола Гринько | | Actor (performing-arts)              | 20th c. | | Backlog | ВУ [59] | |
-| Левко Лук'яненко | | Dissident (civic)                    | 20th c. | | Backlog | ВУ [38] | Author of the Act of Declaration of Independence |
+| Левко Лук'яненко | | Dissident (civic)                    | 20th c. | | Batch 4 (drafting) | ВУ [38] | Author of the Act of Declaration of Independence |
 | Мирослав Попович | 1930–2018 | Philosopher (science)                | 20th c. | | Backlog | NV | |
 | Анатолій Солов'яненко | 1932–1999 | Opera singer (performing-arts)       | 20th c. | | Backlog | NV | |
 | Любомир Гузар | 1933–2017 | UGCC head (faith)                    | 20th c. | | Backlog | NV | |
 | Вадим Гетьман | 1935–1998 | Financier (statehood)                | 20th c. | | Backlog | NV | |
 | Валентин Сильвестров | b. 1937 | Composer (performing-arts)            | 20th c. | 🟢 | Backlog | NV | |
-| Раїса Кириченко | | Singer (performing-arts)             | 20th c. | 👩 | Backlog | ВУ [74] | |
+| Раїса Кириченко | | Singer (performing-arts)             | 20th c. | 👩 | Batch 4 (drafting) | ВУ [74] | |
 | Борис Баранов | 1940–2005 | Chornobyl liquidator (civic)         | 20th c. | | Backlog | NV | |
-| Іван Миколайчук | 1941–1987 | Actor and director (performing-arts) | 20th c. | | Backlog | NV | |
-| Богдан Ступка | 1941–2012 | Actor (performing-arts)              | 20th c. | | Backlog | NV | |
+| Іван Миколайчук | 1941–1987 | Actor and director (performing-arts) | 20th c. | | Batch 4 (drafting) | NV | |
+| Богдан Ступка | 1941–2012 | Actor (performing-arts)              | 20th c. | | Batch 4 (drafting) | NV | |
 | Мустафа Джемілєв | b. 1943 | Crimean Tatar leader (civic)         | 20th c. | 🟢 | Backlog | NV | |
-| Ніна Матвієнко | | Singer (performing-arts)             | 20th c. | 👩 | Backlog | ВУ [60] | |
+| Ніна Матвієнко | | Singer (performing-arts)             | 20th c. | 👩 | Batch 4 (drafting) | ВУ [60] | |
 | В'ячеслав Брюховецький | b. 1947 | Educator (civic)                     | 20th c. | 🟢 | Backlog | NV | Verify he is living |
 | Софія Ротару | | Singer (performing-arts)             | 20th c. | 👩 🟢 ⚖️ | Backlog | ВУ [54], Heroes | Career in Russia after 2014 is debated |
 | Олег Блохін | | Footballer (sport)                   | 20th c. | 🟢 | Backlog | ВУ [56] | |
 | Володимир Івасюк | 1949–1979 | Composer (performing-arts)           | 20th c. | | Backlog | NV, Heroes | |
-| Назарій Яремчук | | Singer (performing-arts)             | 20th c. | | Backlog | ВУ [75] | |
-| Леонід Каденюк | 1951–2018 | Astronaut (science)                  | Independence | | Backlog | Heroes | First and only astronaut of independent Ukraine; Hero of Ukraine (1999) |
+| Назарій Яремчук | | Singer (performing-arts)             | 20th c. | | Batch 4 (drafting) | ВУ [75] | |
+| Леонід Каденюк | 1951–2018 | Astronaut (science)                  | Independence | | Batch 4 (drafting) | Heroes | First and only astronaut of independent Ukraine; Hero of Ukraine (1999) |
 | Іван Дзюба | 1931–2022 | Dissident, literary scholar (civic)  | 20th c. | | Backlog | Heroes | Hero of Ukraine (2001). Author of «Інтернаціоналізм чи русифікація?» (to verify) |
 | Леонід Кравчук | | State (statehood)                    | Independence | ⚖️ | Backlog | ВУ [51] | First president; Soviet party career |
 | Володимир Бойко | | Industrialist (civic)                | Independence | | Backlog | ВУ [50] | Verify which person the poll meant |
@@ -96,13 +96,13 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Кузьма Скрябін (Андрій Кузьменко) | 1968–2015 | Musician (performing-arts)           | Independence | | Backlog | Heroes | Leader of the band «Скрябін»; Hero of Ukraine (2020, posthumously): verify the award |
 | Сергій Жадан | b. 1974 | Writer (literature)                  | Independence | 🟢 | Backlog | NV | |
 | Олег Сенцов | b. 1976 | Film director (performing-arts)      | Independence | 🟢 | Backlog | NV | |
-| Андрій Шевченко | | Footballer (sport)                   | Independence | 🟢 | Backlog | ВУ [33], Heroes | |
-| Руслана Лижичко | | Singer (performing-arts)             | Independence | 👩 🟢 | Backlog | ВУ [76] | |
+| Андрій Шевченко | | Footballer (sport)                   | Independence | 🟢 | Batch 4 (drafting) | ВУ [33], Heroes | |
+| Руслана Лижичко | | Singer (performing-arts)             | Independence | 👩 🟢 | Batch 4 (drafting) | ВУ [76] | |
 | Святослав Вакарчук | | Singer (performing-arts)             | Independence | 🟢 | Backlog | ВУ [64] | |
 | Олег Скрипка | | Musician (performing-arts)           | Independence | 🟢 | Backlog | ВУ [90] | |
-| Василь Вірастюк | | Strongman (sport)                    | Independence | 🟢 | Backlog | ВУ [68] | |
-| Павло Петриченко | | Military (defenders)                 | Independence | | Backlog | Heroes | Sergeant, civic activist, aerial reconnaissance; Hero of Ukraine (2025, posthumously). Not yet identified in reliable sources |
-| Максим Яловцов («Регбіст») | 1990–2022 | Athlete, soldier (defenders)         | Independence | | Removed | Defenders | Drafted, then removed on 2026-09-30: sources conflict on birthplace (Kyiv or Russia) and unit (Kyiv volunteer formation «Мрія» or military intelligence). Not a Hero of Ukraine: Order for Courage, 3rd class (decree 81/2023). No MMA record found (grappling, jiu-jitsu, pankration) |
+| Василь Вірастюк | | Strongman (sport)                    | Independence | 🟢 | Batch 4 (drafting) | ВУ [68] | |
+| Павло Петриченко | | Military (defenders)                 | Independence | | Batch 4 (drafting) | Heroes | Sergeant, civic activist, aerial reconnaissance; Hero of Ukraine (2025, posthumously). Not yet identified in reliable sources |
+| Максим Яловцов («Регбіст») | 1990–2022 | Athlete, soldier (defenders)         | Independence | | Excluded | Defenders | Owner decision, 2026-10-04: skipped. Re-checked for batch 4: agreed facts are born 05.08.1990, died 21.09.2022, Order for Courage 3rd class (decree 81/2023, National Guard); sources still conflict on birthplace (Kyiv / Russia / mid-air in the USSR) and unit (National Guard vs ГУР). Revisit if a family or unit statement settles them |
 | Костянтин-Василь Острозький | 1526–1608 | State, patron (statehood)            | Lithuanian-Polish | 👥 | Decision | NV | The NV entry also covers his father Костянтин (1460–1530): one joint profile or two? |
 | Володимир Зеленський | | State (statehood)                    | Independence | 🟢 | Decision | | Current leader (see editorial notes) |
 | Валерій Залужний | | Military (statehood)                 | Independence | 🟢 | Decision | Heroes | Serving leader |
