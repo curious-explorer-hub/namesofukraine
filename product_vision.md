@@ -35,10 +35,10 @@
 2. Fact-check batch 1: ✅ research and fixes done, date choices accepted (2026-09-29), see [docs/fact-check/batch-1.md](docs/fact-check/batch-1.md). Per-profile approval (`reviewed: true`) is deferred until before launch.
 3. ~~Home page design v1~~ ✅ · ~~Person page design v1~~ ✅ (two-column long-read with sticky fact panel, fun-fact block, cross-stitch accomplishment bullets, related people). ~~D13 `/new/` page + RSS~~ ✅ (`/new/` groups people by `added` date; `/rss.xml` with autodiscovery; verified by simulating a post-launch addition). ~~Favicon~~ ✅ (stitch rhombus, `public/favicon.svg` + `apple-touch-icon.png`) · ~~Filter tests~~ ✅ (`npm test`: 19 Vitest unit + DOM tests for `src/scripts/filter.ts`, also run in CI).
 4. English: ✅ structure, interface, card-level text, and long bios for all 28 (2026-09-29). American spelling throughout. Remaining: review both languages before launch.
-5. Next: migrate and deploy (§11 L2), then publish.
+5. ~~Migrate and deploy~~ ✅ live at https://namesofukraine.pages.dev (soft launch, 2026-10-05). Next: post-launch checks ([docs/post-launch.md](docs/post-launch.md)), then reach 20 reviewed profiles.
 
 ### Phase checklist
-- [ ] **Phase 0 — Setup** — code done; deploy pending (§11 L2)
+- [ ] **Phase 0 — Setup** — ✅ done; deployed 2026-10-05
 - [ ] **Phase 1 — MVP / public launch** (§6)
 - [ ] **Phase 2 — Growth** (§6)
 - [ ] **Phase 3 — Engagement** (§6)
@@ -156,7 +156,7 @@ Accounts/logins, comments, a full CMS or database, monetization, native apps.
 | Images | Astro image optimization; responsive formats (AVIF/WebP) | ⏳ |
 | Map (Phase 3) | See D15 | ⏳ |
 | Forms | See D17 | ⏳ |
-| Hosting | Cloudflare Pages ($0) | ⏳ first deploy pending (§11 L2) |
+| Hosting | Cloudflare Pages ($0) | ✅ live at namesofukraine.pages.dev (2026-10-05) |
 | Analytics | Cloudflare Web Analytics (no cookies) | ⏳ |
 
 ```
@@ -436,7 +436,7 @@ Everything needed before the repo moves to a personal account and the site goes 
 
 ### Blockers: without these the site is empty, broken, or not deployed
 - [ ] **L1. Review at least 20 profiles in both languages** (Phase 1 exit, AC8, D3-R). **15 of 59 reviewed** (2026-10-03: owner approved groups A and C of batches 2–3; the production build now publishes them in both languages). 5 more needed for the 20-profile launch threshold. Batch 1 (28) is fact-checked ([docs/fact-check/batch-1.md](docs/fact-check/batch-1.md)); the other 31 (batches 2–3, including 9 Defenders) were fact-checked on 2026-10-03 ([docs/fact-check/batch-2-3.md](docs/fact-check/batch-2-3.md)): 22 definite errors found, fixes applied for all 31 (2026-10-03), and **10 portraits flagged as "all rights reserved"** (must be replaced or permitted before those profiles are published, see L15). After the fact-check, the owner reads each page and approves it; only then is `reviewed: true` set. Use the per-profile review checklist in §7. *Owner.*
-- [ ] **L2. Migrate the repo and deploy** (§8, D7). Move to a personal GitHub account as a fresh repository (one initial commit, decided 2026-10-04), with automatic CI runs on push and pull requests (`.github/workflows/ci.yml`, ✅ re-enabled), add `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID` secrets (token scoped to Pages edit), turn on GitHub secret scanning and Dependabot alerts. *Owner.*
+- [x] **L2. Migrate the repo and deploy** — ✅ done 2026-10-05. Code at [github.com/curious-explorer-hub/namesofukraine](https://github.com/curious-explorer-hub/namesofukraine) (fresh repository, decided 2026-10-04); CI runs on every push and PR and deploys `main` to Cloudflare Pages (project `namesofukraine`, created by CI on the first deploy). Live at **https://namesofukraine.pages.dev** (soft launch, L3); verified: root redirect, both languages, 404 page, all security headers. Still to switch on in GitHub settings: secret scanning and Dependabot alerts. *Owner.*
 - [ ] **L3. Real domain: `namesofukraine.org`** (chosen 2026-10-04; alternatives considered: znaisvoikh.org, knowyourown.org, imenaukrainy.org). **Soft launch first (owner, 2026-10-04):** the site runs on the free `https://namesofukraine.pages.dev`, and `site` in `astro.config.mjs` points there. Don't submit to Search Console during the soft launch. Before promoting widely: register the `.org` at Cloudflare Registrar (~$10–12/yr), attach it in the Pages project (Custom domains), set `site` to `https://namesofukraine.org`, redeploy, then follow the domain section of [docs/post-launch.md](docs/post-launch.md). Also pick the social handle.
 - [ ] **L4. Suggest / report-an-error form** (AC13–14, D17, §7.7). Create the Tally (or Google) form with a "Report an error" option and paste its URL into `SUGGEST_FORM_URL` in `src/site.ts`. Also the channel for living people's correction and removal requests (§7.6). *Owner.*
 - [ ] **L15. Image licenses: 10 portraits were "all rights reserved" (legal risk, open since 2026-10-03; 5 resolved, 5 open: Kostenko, Prymachenko, Tsybukh, Kryvtsov, Ruf).** Found by the batch 2–3 fact-check ([report](docs/fact-check/batch-2-3.md)). Decision D6 allows only public-domain or freely licensed (CC) images with attribution, and the site text is CC BY-SA, so none of these may go live as is. Until each is resolved, that profile must stay `reviewed: false` (or fall back to the monogram). *Owner.*
