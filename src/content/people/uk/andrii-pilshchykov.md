@@ -3,7 +3,7 @@ name: Андрій Пільщиков
 born: 1993-02-03
 died: 2023-08-25
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: independence
 group: defenders
 tags: [warrior]
@@ -39,7 +39,7 @@ sources:
   - title: Вікіпедія - Пільщиков Андрій Борисович
     url: https://uk.wikipedia.org/wiki/Пільщиков_Андрій_Борисович
 related: [valerii-chybinieiev, dmytro-kotsiubailo]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

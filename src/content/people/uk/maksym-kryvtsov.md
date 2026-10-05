@@ -3,7 +3,7 @@ name: Максим Кривцов
 born: 1990-01-22
 died: 2024-01-07
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: independence
 group: defenders
 tags: [warrior, poet, artist]
@@ -40,7 +40,7 @@ sources:
   - title: Вікіпедія - Кривцов Максим Олександрович
     url: https://uk.wikipedia.org/wiki/Кривцов_Максим_Олександрович
 related: [yurii-ruf, vasyl-stus]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

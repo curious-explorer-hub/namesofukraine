@@ -12,7 +12,7 @@ key_accomplishments:
   - "Order for Courage, 3rd class (posthumously, 2022)"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Roman Ratushnyi in military uniform"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

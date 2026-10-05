@@ -3,7 +3,7 @@ name: Валерій Чибінєєв
 born: 1988-03-03
 died: 2022-03-03
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: independence
 group: defenders
 tags: [warrior]
@@ -38,7 +38,7 @@ sources:
   - title: "Вікіпедія - Чибінєєв Валерій Вікторович"
     url: "https://uk.wikipedia.org/wiki/Чибінєєв_Валерій_Вікторович"
 related: [dmytro-kotsiubailo, oleksandr-matsiievskyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

@@ -3,7 +3,7 @@ name: Роман Ратушний
 born: 1997-07-05
 died: 2022-06-09
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: independence
 group: defenders
 tags: [warrior, human-rights]
@@ -40,7 +40,7 @@ sources:
   - title: Вікіпедія - Ратушний Роман Тарасович
     url: https://uk.wikipedia.org/wiki/Ратушний_Роман_Тарасович
 related: [viacheslav-chornovil, kazymyr-malevych, iryna-tsybukh]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

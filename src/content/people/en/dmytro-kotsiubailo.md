@@ -11,7 +11,7 @@ key_accomplishments:
   - "Named to Forbes Ukraine’s “30 Under 30” list (2022)"
 birthplace_name: "Zadnistrianske, Ivano-Frankivsk region"
 image_alt: "Dmytro Kotsiubailo receiving the Gold Star order in the Verkhovna Rada, 1 December 2021"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

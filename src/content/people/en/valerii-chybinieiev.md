@@ -11,7 +11,7 @@ key_accomplishments:
   - "Officer of Ukraine’s Defence Intelligence (HUR), took part in the defense of the Kyiv region in 2022"
 birthplace_name: "Berdiansk"
 image_alt: "Portrait of Valerii Chybinieiev"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

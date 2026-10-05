@@ -3,7 +3,7 @@ name: Олександр Мацієвський
 born: 1980-05-10
 died: 2022-12-30
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: independence
 group: defenders
 tags: [warrior]
@@ -34,7 +34,7 @@ sources:
   - title: Вікіпедія - Мацієвський Олександр Ігорович
     url: https://uk.wikipedia.org/wiki/Мацієвський_Олександр_Ігорович
 related: [nazarii-hryntsevych]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

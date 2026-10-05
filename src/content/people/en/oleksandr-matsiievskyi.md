@@ -11,7 +11,7 @@ key_accomplishments:
   - "Streets in Nizhyn, Chernihiv, Kramatorsk and Izium, and a lane in Hrebinky (Kyiv region), are named after him"
 birthplace_name: "Chișinău, Moldova"
 image_alt: "Photograph of Oleksandr Matsiievskyi in military uniform, 2022"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

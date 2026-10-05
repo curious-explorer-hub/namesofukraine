@@ -14,7 +14,7 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, 2024)"
 birthplace_name: "Kharkiv"
 image_alt: "Andrii Pilshchykov holding his flight helmet"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was
