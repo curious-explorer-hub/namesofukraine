@@ -18,7 +18,7 @@ image:
   src: ./images/lina-kostenko.jpg
   alt: "Ліна Костенко, фотографія 2006 року"
   position: "40% 30%"
-  author: "keymaster (Вікісховище)"
+  author: "keymaster"
   license: "GFDL 1.2"
   source_url: "https://commons.wikimedia.org/wiki/File:Lina_Kostenko_(cropped).jpg"
 key_accomplishments:
