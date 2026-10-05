@@ -6,7 +6,7 @@ summary: "A product of Dynamo Kyiv who won the Champions League with AC Milan an
 fun_fact: "The 2003 Champions League final against Juventus ended goalless after 120 minutes, and the winner was decided by a penalty shoot-out. The decisive kick for Milan was taken by Shevchenko."
 key_accomplishments:
   - "Five Ukrainian league titles with Dynamo Kyiv"
-  - "Champions League winner in 2003 and Italian champion with AC Milan; twice top scorer of Serie A and three times of the Champions League"
+  - "Champions League winner in 2003 and Italian champion with AC Milan; twice top scorer of Serie A"
   - "Ballon d'Or 2004; Hero of Ukraine (2004, Decree No. 1591/2004)"
   - "All-time top scorer of Ukraine's national team (48 goals); captain of the team that reached the quarterfinals of the 2006 World Cup"
   - "Head coach of Ukraine's national team (2016–2021): reached the quarterfinals of Euro 2020"
@@ -26,7 +26,7 @@ In 1999 Shevchenko moved to AC Milan in Italy and in his very first season becam
 
 Shevchenko was the first player to make 100 appearances for Ukraine's national team and became its all-time top scorer, with 48 goals. As captain he led the team to the quarterfinals of the 2006 World Cup. In 2016–2021 he was the national team's head coach, and under him the team reached the quarterfinals of Euro 2020; he then briefly coached Genoa in Italy (2021–2022).
 
-In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada on the list of the Ukraine – Forward! party, and since 2023 he has been a non-staff adviser to the President of Ukraine. After Russia's full-scale invasion in 2022 he became the first ambassador of the UNITED24 fundraising platform. On 25 January 2024 the Congress of the Ukrainian Association of Football elected him president of the UAF: 93 of the 94 delegates voted for him, and the candidate himself did not take part in the vote. As of October 2026 he holds this post.
+In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada on the list of the Ukraine – Forward! party, and since September 2023 (as of October 2026) he has been a non-staff adviser to the President of Ukraine. After Russia's full-scale invasion in 2022 he became the first ambassador of the UNITED24 fundraising platform. On 25 January 2024 the Congress of the Ukrainian Association of Football elected him president of the UAF: 93 of the 94 delegates voted for him, and the candidate himself did not take part in the vote. As of October 2026 he holds this post.
 
 ## Why it matters today
 

@@ -6,7 +6,7 @@ summary: "Civic leader, historian and political thinker, one of the leaders of t
 fun_fact: "Drahomanov signed his writings with more than ten pen names, among them “Ukrainets” (The Ukrainian), “Volynets”, “Chudak” (The Eccentric) and “Kyrylo Vasylenko”."
 key_accomplishments:
   - "Hromada, the first Ukrainian political journal (Geneva, 1878–1882)"
-  - "Founded the Free Ukrainian Press in Geneva and the Geneva Circle, the seed of the Ukrainian socialist movement"
+  - "Founded the Free Ukrainian Press in Geneva and, with Serhii Podolynskyi and Mykhailo Pavlyk, the Geneva Circle, the seed of the Ukrainian socialist movement"
   - "A concept of a federal state with self-governing communities and cultural-national autonomy for Ukraine"
   - "Political Songs of the Ukrainian People in the 18th–19th Centuries and other works on folklore and history"
 birthplace_name: "Hadiach"

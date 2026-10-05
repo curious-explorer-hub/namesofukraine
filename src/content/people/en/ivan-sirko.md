@@ -6,7 +6,7 @@ summary: "The most celebrated kish otaman (chief commander) of the Zaporozhian S
 fun_fact: "In 1672 Sirko was exiled to Tobolsk in Siberia on the Muscovite tsar’s orders, but in 1673, at the demand of the Polish side, he was brought back to Ukraine - and the Zaporozhians elected him kish otaman once again."
 misconception:
   claim: "The famous “Letter of the Zaporozhian Cossacks to the Turkish Sultan” was written by Ivan Sirko and is a genuine 17th-century document."
-  truth: "Many versions of the letter are known, with different dates, signatures and addressees; researchers regard it as a literary work in the spirit of the anti-Turkish pamphlets of the time, not a diplomatic document. Sirko’s real letters also survive - including those to Hetman Petro Doroshenko (1673) and the Crimean khan (1679); the letter to the khan is written in ordinary diplomatic style."
+  truth: "Many versions of the letter are known, with different dates, signatures and addressees; most researchers regard it as a literary work in the spirit of the anti-Turkish pamphlets of the time, not a diplomatic document. Sirko’s real letters also survive - including those to Hetman Petro Doroshenko (1673) and the Crimean khan (1679); the letter to the khan is written in ordinary diplomatic style."
 key_accomplishments:
   - "Elected kish otaman of the Zaporozhian Sich many times (first in the autumn of 1662, last in 1673, holding the post until his death)"
   - "A campaign against Kaffa (Feodosiia) in 1667 that freed about 2,000 Christian captives"
@@ -31,7 +31,7 @@ Sirko changed his political alliances often. He opposed the pro-Polish policies 
 
 Legends grew up around Sirko during his lifetime and especially after his death. He is the hero of folk tales and dumas; according to legend, he was a kharakternyk, a Cossack with supernatural powers. These stories are part of folklore, not documented facts.
 
-The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by Ilya Repin’s painting (1891). Many versions of the text are known, with different dates and signatures; researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also assessed in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians interpret his motives differently.
+The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by Ilya Repin’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also assessed in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians interpret his motives differently.
 
 ## Why it matters today
 

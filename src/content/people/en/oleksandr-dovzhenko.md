@@ -3,7 +3,7 @@
 name: "Oleksandr Dovzhenko"
 role: "Director of the film Earth"
 summary: "Film director, screenwriter and writer, one of the creators of Ukrainian poetic cinema. In 1958 his Earth (1930) was named among the twelve best films of all time. Stalin banned his film novel Ukraine in Flames, and Dovzhenko lived outside Ukraine until his death."
-fun_fact: "Dovzhenko’s only screen role was in his own film The Diplomatic Courier’s Bag (1927), as a ship’s stoker."
+fun_fact: "Dovzhenko’s only screen role was in his own film The Diplomatic Courier’s Bag (1927), as a stoker."
 key_accomplishments:
   - "The films Zvenyhora (1927), Arsenal (1929) and Earth (1930)"
   - "Earth was named among the 12 best films of all time in a critics’ poll in Brussels (1958)"
@@ -27,7 +27,7 @@ During the Second World War he worked as a front-line correspondent and made doc
 
 ## Debates and assessments
 
-Dovzhenko’s career fell in the Stalin era, and scholars assess him in different ways. Some of his films were state commissions: Shchors glorified Bolshevik commanders in the war against Ukrainian forces, and the director himself wrote that Stalin had “saved his life.” At the same time, Dovzhenko was hounded for “nationalism,” his works were banned, and his diaries, published only decades after his death, testify to his pain over the fate of the Ukrainian people. So some scholars stress the artist’s compromises with the regime, while others see him as a tragic figure who kept his own artistic voice despite censorship.
+Dovzhenko’s career fell in the Stalin era, and scholars assess him in different ways. Some of his films were state commissions: Shchors glorified Bolshevik commanders in the war against Ukrainian forces, and the director himself wrote that Stalin had “saved his life.” At the same time, Dovzhenko was hounded for “nationalism,” his works were banned, and his diaries, published in full only in 1990, testify to his pain over the fate of the Ukrainian people. So some scholars stress the artist’s compromises with the regime, while others see him as a tragic figure who kept his own artistic voice despite censorship.
 
 ## Why it matters today
 

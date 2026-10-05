@@ -2,10 +2,10 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/leonid-kadeniuk.md
 name: "Leonid Kadeniuk"
 role: "First astronaut of independent Ukraine"
-summary: "A test pilot from Bukovyna who flew into space on the US Space Shuttle Columbia in 1997 and became the first astronaut of independent Ukraine. During the nearly 16-day mission he ran joint Ukrainian-American experiments with plants in weightlessness. Hero of Ukraine."
+summary: "A test pilot from Chernivtsi Oblast who flew into space on the US Space Shuttle Columbia in 1997 and became the first astronaut of independent Ukraine. During the nearly 16-day mission he ran joint Ukrainian-American experiments with plants in weightlessness. Hero of Ukraine."
 fun_fact: "Kadeniuk took a copy of Shevchenko's Kobzar and the national flag with him on Columbia: thanks to him, the Ukrainian flag was unfurled in space for the first time."
 key_accomplishments:
-  - "Test cosmonaut in the Soviet Buran reusable spacecraft program (from 1976); flew more than 50 types and variants of aircraft"
+  - "In the cosmonaut group of the Soviet Buran reusable spacecraft program from 1976, later a test cosmonaut; flew more than 50 types and variants of aircraft"
   - "First astronaut of independent Ukraine: flight on the Space Shuttle Columbia (mission STS-87), 19 November - 5 December 1997"
   - "A joint Ukrainian-American biological experiment with three plant species in weightlessness"
   - "Major general (1998); Hero of Ukraine (1999, Decree No. 1526/99)"
@@ -21,7 +21,7 @@ Leonid Kadeniuk was born in 1951 in the village of Klishkivtsi in the Khotyn are
 
 ## His story
 
-In 1976 Kadeniuk was selected for the cosmonaut group being trained for the Soviet reusable spacecraft Buran. He qualified as a test pilot and test cosmonaut, worked at the State Research Institute of the Soviet Air Force, took part in testing the Su-27, MiG-29 and MiG-31 fighters, and in all flew more than 50 types and variants of aircraft. In 1989 he graduated from the Moscow Aviation Institute, and until 1992 he trained as a commander of the Buran and Soyuz TM spacecraft.
+In 1976 Kadeniuk was selected for the cosmonaut group being trained for the Soviet reusable spacecraft Buran. He qualified as a test pilot and test cosmonaut, worked at the State Research Institute of the Soviet Air Force, took part in testing fighter aircraft, and in all flew more than 50 types and variants of aircraft. In 1989 he graduated from the Moscow Aviation Institute, and until 1992 he trained as a commander of the Buran and Soyuz TM spacecraft.
 
 In 1995 Kadeniuk joined the astronaut group of the National Space Agency of Ukraine and trained at NASA. From 19 November to 5 December 1997 he flew as a payload specialist on the Space Shuttle Columbia (mission STS-87) as part of an international crew. On board, Kadeniuk carried out a joint Ukrainian-American biological experiment with three plant species: scientists studied how weightlessness affects photosynthesis, fertilization and embryo development.
 

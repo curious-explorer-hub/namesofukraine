@@ -15,7 +15,7 @@ image:
   src: ./images/ivan-mykolaichuk.jpg
   alt: "Поштова марка України «Іван Миколайчук. 1941–1987» (2016)"
   position: "72% 40%"
-  author: "Укрпошта"
+  author: "Укрпошта (художник Микола Кочубей)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Stamp_of_Ukraine_s1512.jpg"
 key_accomplishments:
