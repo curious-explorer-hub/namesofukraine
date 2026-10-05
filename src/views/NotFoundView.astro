@@ -20,7 +20,7 @@ const other: Lang = lang === 'uk' ? 'en' : 'uk';
 
   <div class="page-body prose">
     <p><a href={localePath(lang, '/')}>{t('notfound.home', lang)}</a></p>
-    <p><a href={localePath(lang, '/suggest/')}>{t('notfound.suggest', lang)}</a></p>
+    <p><a href={localePath(lang, '/feedback/')}>{t('notfound.suggest', lang)}</a></p>
     <p lang={other}><a href={localePath(other, '/')} hreflang={other}>{t('notfound.other', other)}</a></p>
   </div>
 </BaseLayout>

@@ -1,2 +1,5 @@
 # Cloudflare Pages: send the bare root to the Ukrainian home page
 /  /uk/  302
+# Old address of the feedback page
+/uk/suggest/*  /uk/feedback/:splat  301
+/en/suggest/*  /en/feedback/:splat  301

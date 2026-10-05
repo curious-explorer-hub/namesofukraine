@@ -143,7 +143,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
           )
         }
         {data.living && <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>}
-        <p class="profile-report"><a href={localePath(lang, `/suggest/?type=correction&profile=${person.slug}`)}>{t('person.report', lang)}</a></p>
+        <p class="profile-report"><a href={localePath(lang, `/feedback/?type=correction&profile=${person.slug}`)}>{t('person.report', lang)}</a></p>
       </footer>
     </div>
   </article>

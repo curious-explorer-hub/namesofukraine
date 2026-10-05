@@ -63,7 +63,7 @@ const { Content } = await render(entry);
 </BaseLayout>
 
 <script>
-  // A "Report a mistake" link on a profile opens /suggest/?type=correction&profile=<slug>: pass that on
+  // A "Report a mistake" link on a profile opens /feedback/?type=correction&profile=<slug>: pass that on
   // to the embedded form, so the message arrives tagged with the profile.
   import { suggestEmbedUrl } from '../lib/suggest';
   const frame = document.querySelector<HTMLIFrameElement>('[data-suggest-form]');

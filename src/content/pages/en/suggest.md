@@ -1,6 +1,6 @@
 ---
-title: Suggest or correct
-description: Tell us who to add, or report a mistake in a profile.
+title: Feedback
+description: Suggest a person, report a mistake, or send us an addition.
 ---
 
 Readers help make this site. Here you can:

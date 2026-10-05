@@ -88,21 +88,14 @@ Repository protections (protected `main`, approval for outside contributors' wor
 
 See the domain section of [post-launch.md](post-launch.md): register `namesofukraine.org`, add it under the Pages project's **Custom domains**, set `site` in `astro.config.mjs`, push, and redirect the `pages.dev` address to it.
 
-## The suggest form (Tally)
+## The feedback form (Tally)
 
-The page `/uk/suggest/` («Запропонувати або виправити») embeds a Tally form; every profile ends with a "Report a mistake" link that opens the page with the profile filled in. Until `SUGGEST_FORM_URL` in `src/site.ts` is set, the page says the form is coming soon.
+The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/en/feedback/`; the old `/suggest/` addresses redirect) embeds one bilingual Tally form: **<https://tally.so/r/A7Vpkl>**, in the owner's Tally workspace (free plan). Every profile ends with a "Report a mistake" link that opens the page as `/feedback/?type=correction&profile=<slug>`; the page passes `lang`, `type` and `profile` into the form as **hidden fields** (`src/lib/suggest.ts`), so each response shows which profile it's about.
 
-**One-time setup (about 30 minutes, at <https://tally.so>, free plan):**
-1. Create a form, for example "Знай своїх: пропозиції та виправлення". Write questions in Ukrainian with English in brackets, or make a second form for English later.
-2. Add **hidden fields** (block type *Hidden fields*) named exactly `lang`, `type` and `profile`. The site fills them in: `lang` is `uk` or `en`; `type` is `correction` when someone comes from a profile; `profile` is the profile's slug (e.g. `les-kurbas`).
-3. Add the questions:
-   - *Про що ваше повідомлення?* (multiple choice): Нова людина / Виправлення в профілі / Фото чи доповнення / Інше. Optionally use Tally's conditional logic to pre-select "Виправлення" when the hidden field `type` is `correction`.
-   - For a new person: *Ім'я*, *Чому ця людина важлива?*, *Джерела (необов'язково)*.
-   - For a correction: *Що не так?*, *Як правильно і звідки це відомо (джерело)?* The profile comes in through the hidden field, so there's no need to ask.
-   - For a photo: *Опишіть фото й хто має на нього права* (and how to reach them).
-   - *Ваш e-mail (необов'язково, якщо хочете відповідь)*.
-4. **Settings:** turn on spam protection (Tally has it built in; reCAPTCHA is optional), and email notifications for new responses. Optionally connect a Google Sheet to collect answers.
-5. **Publish** the form, copy its share link (`https://tally.so/r/…`), paste it into `SUGGEST_FORM_URL` in `src/site.ts`, and push. The site turns it into an embed link and passes the hidden fields. The Content-Security-Policy already allows `tally.so` in frames.
-6. Test: open any profile on the live site → "Report a mistake" → send a test message; check that the response shows `profile` and `type`.
+**Questions** (bilingual labels): what the message is about (new person / correction to a profile / photo or other addition / something else, required) · who it's about (optional) · the message (required) · sources or links (optional) · email for a reply (optional) · reCAPTCHA. Email notifications for new responses go to the owner's Tally account.
 
-Answer corrections from living people (or about them) promptly (product_vision.md §7.6).
+**Editing:** change questions in the Tally dashboard; keep the three hidden fields with exactly these names. Responses are under the form's **Submissions** tab (they can also go to a Google Sheet via Integrations).
+
+**Turning the form off:** set `SUGGEST_FORM_URL` in `src/site.ts` to `''` and push; the page then says the form is coming soon.
+
+Answer corrections from or about living people promptly (product_vision.md §7.6).

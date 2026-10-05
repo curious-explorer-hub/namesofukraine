@@ -1,8 +1,9 @@
 // Site-wide settings the owner may change.
 
-// "Suggest a person" form (decision D17: Tally or Google Forms). Paste the form's public URL here,
-// e.g. 'https://tally.so/r/abc123'. Leave empty until the form exists; the page then says so.
-export const SUGGEST_FORM_URL = '';
+// Feedback form «Зворотний зв'язок» / "Feedback" (decision D17: Tally), created on 2026-10-04 in the
+// owner's Tally workspace. It has hidden fields `lang`, `type` and `profile`, which the site fills in
+// (src/lib/suggest.ts). Set to '' to hide the form; the page then says it's coming soon.
+export const SUGGEST_FORM_URL = 'https://tally.so/r/A7Vpkl';
 
 // AI-animated portraits (backlog item 15). Off: every profile shows the static photo. The clips in
 // public/portraits/ and the per-person `animate: true` flags are kept, so switching back on is one line.
