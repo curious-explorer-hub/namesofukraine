@@ -36,7 +36,7 @@ sources:
   - title: Wikipedia (EN) - Kirill Razumovsky
     url: https://en.wikipedia.org/wiki/Kirill_Razumovsky
 related: [ivan-mazepa, petro-kalnyshevskyi, pavlo-skoropadskyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

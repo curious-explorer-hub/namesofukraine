@@ -10,7 +10,7 @@ key_accomplishments:
   - "Roles in the films Maksym Perepelytsia (1956) and Tamer of Tigers (1954)"
   - "People’s Artist of the Ukrainian SSR (1974)"
 birthplace_name: "Znamianka (now part of Cherkaske)"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

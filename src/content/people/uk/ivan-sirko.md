@@ -43,7 +43,7 @@ sources:
   - title: Wikipedia (EN) - Ivan Sirko
     url: https://en.wikipedia.org/wiki/Ivan_Sirko
 related: [ivan-bohun, bohdan-khmelnytskyi, petro-kalnyshevskyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

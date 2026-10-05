@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Bohdan Stupka
     url: https://en.wikipedia.org/wiki/Bohdan_Stupka
 related: [ivan-mykolaichuk, ivan-franko, lesya-ukrainka]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

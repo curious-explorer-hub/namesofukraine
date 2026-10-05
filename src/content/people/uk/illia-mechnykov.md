@@ -34,7 +34,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Мечников_Ілля_Ілліч
   - title: Wikipedia (EN) - Élie Metchnikoff
     url: https://en.wikipedia.org/wiki/Élie_Metchnikoff
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

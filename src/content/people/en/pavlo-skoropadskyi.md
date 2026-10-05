@@ -11,7 +11,7 @@ key_accomplishments:
   - "In exile, initiated the founding of the Ukrainian Scientific Institute in Berlin (1926)"
 birthplace_name: "Wiesbaden (Germany)"
 image_alt: "Pavlo Skoropadskyi in Cossack dress with the St. George Cross, about 1918–1920"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

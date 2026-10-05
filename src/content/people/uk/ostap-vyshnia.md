@@ -37,7 +37,7 @@ sources:
   - title: Wikipedia (EN) - Ostap Vyshnia
     url: https://en.wikipedia.org/wiki/Ostap_Vyshnia
 related: [mykola-khvylovyi, les-kurbas]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

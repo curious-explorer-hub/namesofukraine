@@ -11,7 +11,7 @@ key_accomplishments:
   - "Headed the Prosvita society in Chernihiv (1906–1908)"
 birthplace_name: "Vinnytsia"
 image_alt: "Photograph of Mykhailo Kotsiubynskyi, Chernihiv, before 1913"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

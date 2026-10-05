@@ -10,7 +10,7 @@ key_accomplishments:
   - "The works The Spiritual World of the Schoolchild, The Unique Human Being and others"
   - "Corresponding member of the USSR Academy of Pedagogical Sciences (1968)"
 birthplace_name: "Vasylivka"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

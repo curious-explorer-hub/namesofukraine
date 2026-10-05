@@ -39,7 +39,7 @@ sources:
   - title: Wikipedia (EN) - Alexander Dovzhenko
     url: https://en.wikipedia.org/wiki/Alexander_Dovzhenko
 related: [les-kurbas, oleksandr-arkhypenko, ivan-mykolaichuk]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

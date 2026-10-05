@@ -11,7 +11,7 @@ key_accomplishments:
   - "Translations of Nikolai Gogol, Anton Chekhov, Jaroslav Hašek and Mark Twain"
 birthplace_name: "Chechva farmstead (now the village of Hrun)"
 image_alt: "Ostap Vyshnia, photograph by O. Korenevych, 1928"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

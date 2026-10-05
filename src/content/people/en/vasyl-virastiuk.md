@@ -12,7 +12,7 @@ key_accomplishments:
   - "Honorary president of the Strongman Federation of Ukraine"
 birthplace_name: "Ivano-Frankivsk"
 image_alt: "Vasyl Virastiuk in a dark jacket, 2016"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he is

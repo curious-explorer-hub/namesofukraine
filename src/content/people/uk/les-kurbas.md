@@ -37,7 +37,7 @@ sources:
   - title: Wikipedia (EN) - Les Kurbas
     url: https://en.wikipedia.org/wiki/Les_Kurbas
 related: [oleksandr-dovzhenko, lesya-ukrainka, mykola-khvylovyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

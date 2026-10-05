@@ -43,7 +43,7 @@ sources:
   - title: Wikipedia (EN) - Andriy Shevchenko
     url: https://en.wikipedia.org/wiki/Andriy_Shevchenko
 related: [valerii-lobanovskyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

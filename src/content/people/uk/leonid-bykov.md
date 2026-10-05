@@ -26,7 +26,7 @@ sources:
   - title: Wikipedia (EN) - Leonid Bykov
     url: https://en.wikipedia.org/wiki/Leonid_Bykov
 related: [ivan-mykolaichuk, oleksandr-dovzhenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

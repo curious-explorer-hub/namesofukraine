@@ -11,7 +11,7 @@ key_accomplishments:
   - "Made Baturyn the capital again; planned to found a university in Baturyn"
 birthplace_name: "Lemeshi"
 image_alt: "Portrait of Kyrylo Rozumovskyi by an unknown artist, mid-19th century (Sumy Art Museum)"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

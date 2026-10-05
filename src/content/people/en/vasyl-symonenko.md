@@ -10,7 +10,7 @@ key_accomplishments:
   - "Excerpts from his diary, Crusts of Thoughts, published in the journal Suchasnist in 1965"
   - "Posthumously awarded the Taras Shevchenko State Prize of Ukraine (1995)"
 birthplace_name: "Biivtsi"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

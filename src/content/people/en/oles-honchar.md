@@ -10,7 +10,7 @@ key_accomplishments:
   - "Head of the board of the Writers’ Union of Ukraine (1959–1971); member of the Academy of Sciences of the Ukrainian SSR (1978)"
   - "Posthumously awarded the title Hero of Ukraine (2005)"
 birthplace_name: "Sukha"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

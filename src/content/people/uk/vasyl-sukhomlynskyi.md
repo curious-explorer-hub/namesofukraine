@@ -29,7 +29,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Сухомлинський_Василь_Олександрович
   - title: Wikipedia (EN) - Vasyl Sukhomlynsky
     url: https://en.wikipedia.org/wiki/Vasyl_Sukhomlynsky
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

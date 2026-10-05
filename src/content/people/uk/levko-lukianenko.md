@@ -40,7 +40,7 @@ sources:
   - title: Вікіпедія - Лук'яненко Левко Григорович
     url: https://uk.wikipedia.org/wiki/Лук'яненко_Левко_Григорович
 related: [viacheslav-chornovil, vasyl-stus]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

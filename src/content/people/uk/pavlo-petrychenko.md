@@ -37,7 +37,7 @@ sources:
   - title: Вікіпедія - Петриченко Павло Вікторович
     url: https://uk.wikipedia.org/wiki/Петриченко_Павло_Вікторович
 related: [roman-ratushnyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

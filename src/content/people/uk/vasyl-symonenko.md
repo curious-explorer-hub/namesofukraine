@@ -26,7 +26,7 @@ sources:
   - title: Wikipedia (EN) - Vasyl Symonenko
     url: https://en.wikipedia.org/wiki/Vasyl_Symonenko
 related: [vasyl-stus, lina-kostenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

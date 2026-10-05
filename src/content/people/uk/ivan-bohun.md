@@ -32,7 +32,7 @@ sources:
   - title: Wikipedia (EN) - Ivan Bohun
     url: https://en.wikipedia.org/wiki/Ivan_Bohun
 related: [bohdan-khmelnytskyi, ivan-sirko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

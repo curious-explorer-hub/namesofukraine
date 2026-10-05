@@ -35,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Mykhailo Drahomanov
     url: https://en.wikipedia.org/wiki/Mykhailo_Drahomanov
 related: [lesya-ukrainka, ivan-franko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

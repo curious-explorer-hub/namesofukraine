@@ -33,7 +33,7 @@ sources:
   - title: Wikipedia (EN) - Mykhailo Kotsiubynsky
     url: https://en.wikipedia.org/wiki/Mykhailo_Kotsiubynsky
 related: [ivan-franko, serhii-paradzhanov]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

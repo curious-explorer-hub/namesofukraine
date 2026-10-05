@@ -12,7 +12,7 @@ key_accomplishments:
   - "Title of Hero of Ukraine (2011)"
 birthplace_name: "Kulykiv"
 image_alt: "Photographic portrait of Bohdan Stupka in a hat"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

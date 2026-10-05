@@ -12,7 +12,7 @@ key_accomplishments:
   - "The Kyiv feature film studio was named after him in 1957"
 birthplace_name: "Viunyshche hamlet (now part of Sosnytsia)"
 image_alt: "Photographic portrait of Oleksandr Dovzhenko by Danylo Demutskyi"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

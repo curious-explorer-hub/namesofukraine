@@ -45,7 +45,7 @@ sources:
   - title: Wikipedia (EN) - Pavlo Skoropadskyi
     url: https://en.wikipedia.org/wiki/Pavlo_Skoropadskyi
 related: [symon-petliura, mykhailo-hrushevskyi, volodymyr-vernadskyi, nestor-makhno]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

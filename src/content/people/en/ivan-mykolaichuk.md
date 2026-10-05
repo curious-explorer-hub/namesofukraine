@@ -11,7 +11,7 @@ key_accomplishments:
   - "Taras Shevchenko State Prize of Ukraine (1988, posthumously)"
 birthplace_name: "Chortoryia"
 image_alt: "Ukrainian postage stamp “Ivan Mykolaichuk. 1941–1987” (2016)"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

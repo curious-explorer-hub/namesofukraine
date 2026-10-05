@@ -11,7 +11,7 @@ key_accomplishments:
   - "Founded the weekly Tryzub in Paris and led the UPR government in exile"
 birthplace_name: "Poltava"
 image_alt: "Symon Petliura in Kamianets-Podilskyi, summer 1919"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

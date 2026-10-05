@@ -36,7 +36,7 @@ sources:
   - title: Wikipedia (EN) - Vasyl Virastyuk
     url: https://en.wikipedia.org/wiki/Vasyl_Virastyuk
 related: [ivan-piddubnyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

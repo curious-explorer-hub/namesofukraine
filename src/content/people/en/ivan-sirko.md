@@ -14,7 +14,7 @@ key_accomplishments:
   - "Together with the forces of Hetman Ivan Samoilovych, halted the Turkish and Tatar offensive during the Chyhyryn campaigns (1677–1678)"
 birthplace_name: "Unknown (according to different versions, Merefa in the Kharkiv region or Murafa in Podillia)"
 image_alt: "Otaman Ivan Sirko as imagined by Ilya Repin: a study for the painting Reply of the Zaporozhian Cossacks, 1889"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

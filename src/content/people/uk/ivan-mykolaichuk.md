@@ -33,7 +33,7 @@ sources:
   - title: Wikipedia (EN) - Ivan Mykolaichuk
     url: https://en.wikipedia.org/wiki/Ivan_Mykolaichuk
 related: [serhii-paradzhanov, leonid-bykov, bohdan-stupka, oleksandr-dovzhenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

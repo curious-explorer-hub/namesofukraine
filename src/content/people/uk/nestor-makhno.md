@@ -40,7 +40,7 @@ sources:
   - title: Wikipedia (EN) - Nestor Makhno
     url: https://en.wikipedia.org/wiki/Nestor_Makhno
 related: [symon-petliura, pavlo-skoropadskyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

@@ -29,7 +29,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Гончар_Олесь_Терентійович
   - title: Wikipedia (EN) - Oles Honchar
     url: https://en.wikipedia.org/wiki/Oles_Honchar
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

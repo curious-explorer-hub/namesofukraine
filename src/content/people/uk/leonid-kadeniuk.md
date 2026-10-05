@@ -40,7 +40,7 @@ sources:
   - title: Вікіпедія - Каденюк Леонід Костянтинович
     url: https://uk.wikipedia.org/wiki/Каденюк_Леонід_Костянтинович
 related: [serhii-korolov]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він
