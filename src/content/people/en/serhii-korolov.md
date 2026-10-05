@@ -13,7 +13,7 @@ key_accomplishments:
   - "First human spaceflight, by Yuri Gagarin (12 April 1961)"
 birthplace_name: "Zhytomyr"
 image_alt: "Photograph of Serhii Korolov"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

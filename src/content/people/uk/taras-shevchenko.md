@@ -3,7 +3,7 @@ name: Тарас Шевченко
 born: 1814-03-09
 died: 1861-03-10
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 19th-century
 group: literature
 tags: [poet, artist, philosopher]
@@ -35,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Taras Shevchenko
     url: https://en.wikipedia.org/wiki/Taras_Shevchenko
 related: [ivan-franko, lesya-ukrainka, mykola-lysenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

@@ -13,7 +13,7 @@ key_accomplishments:
   - "A distinctive “poetic cinema” style that influenced filmmaking"
 birthplace_name: "Tbilisi (Georgia)"
 image_alt: "Photograph of Sergei Parajanov"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

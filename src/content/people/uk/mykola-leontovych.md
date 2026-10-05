@@ -3,7 +3,7 @@ name: Микола Леонтович
 born: 1877-12-13
 died: 1921-01-23
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: performing-arts
 tags: [musician]
@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Mykola Leontovych
     url: https://en.wikipedia.org/wiki/Mykola_Leontovych
 related: [mykola-lysenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

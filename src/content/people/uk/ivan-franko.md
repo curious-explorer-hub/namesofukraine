@@ -3,7 +3,7 @@ name: Іван Франко
 born: 1856-08-27
 died: 1916-05-28
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 19th-century
 group: literature
 tags: [writer, poet, scientist, philosopher]
@@ -34,7 +34,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Ivan_Franko
 related: [taras-shevchenko, lesya-ukrainka]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

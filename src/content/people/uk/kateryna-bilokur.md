@@ -3,7 +3,7 @@ name: Катерина Білокур
 born: 1900-12-07
 died: 1961-06-09
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -33,7 +33,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Kateryna_Bilokur
 related: [taras-shevchenko]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

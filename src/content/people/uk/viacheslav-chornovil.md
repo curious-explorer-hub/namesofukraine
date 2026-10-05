@@ -3,7 +3,7 @@ name: В'ячеслав Чорновіл
 born: 1937-12-24
 died: 1999-03-25
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: independence
 group: civic
 tags: [human-rights, politician, writer]
@@ -42,7 +42,7 @@ sources:
   - title: "Північ - До 80-річчя з дня народження В'ячеслава Чорновола"
     url: "http://pivnich.org.ua/355-do-80-richchya-z-dnya-narodzhennya-vyacheslava-chornovola.html"
 related: [vasyl-stus, bohdan-havrylyshyn]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

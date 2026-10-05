@@ -3,7 +3,7 @@ name: Володимир Вернадський
 born: 1863-03-12
 died: 1945-01-06
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: science
 tags: [scientist, philosopher]
@@ -36,7 +36,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Vladimir_Vernadsky
 related: [serhii-korolov, mykola-amosov]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

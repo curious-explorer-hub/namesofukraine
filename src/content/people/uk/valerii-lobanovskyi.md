@@ -3,7 +3,7 @@ name: Валерій Лобановський
 born: 1939-01-06
 died: 2002-05-13
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: sport
 tags: [athlete]
@@ -34,7 +34,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi
 related: []
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

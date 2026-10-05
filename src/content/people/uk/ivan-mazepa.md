@@ -4,7 +4,7 @@ born: 1639-01-01
 born_circa: true
 died: 1709-10-03
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: cossack
 group: statehood
 tags: [politician, warrior]
@@ -36,7 +36,7 @@ sources:
   - title: Wikipedia (EN) - Ivan Mazepa
     url: https://en.wikipedia.org/wiki/Ivan_Mazepa
 related: [petro-sahaidachnyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

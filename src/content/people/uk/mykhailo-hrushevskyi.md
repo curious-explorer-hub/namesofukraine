@@ -3,7 +3,7 @@ name: Михайло Грушевський
 born: 1866-09-29
 died: 1934-11-24
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: statehood
 tags: [politician, scientist, writer]
@@ -34,7 +34,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky
 related: [ivan-franko, volodymyr-vernadskyi]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

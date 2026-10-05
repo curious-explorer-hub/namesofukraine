@@ -14,7 +14,7 @@ key_accomplishments:
   - "Translated from 14 languages; researcher of folklore and literary history"
 birthplace_name: "Nahuievychi"
 image_alt: "Photograph of Ivan Franko"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

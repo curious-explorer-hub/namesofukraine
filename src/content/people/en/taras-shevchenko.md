@@ -14,7 +14,7 @@ key_accomplishments:
   - "More than 800 paintings and drawings"
 birthplace_name: "Moryntsi"
 image_alt: "Posthumous portrait of Taras Shevchenko by Ivan Kramskoi, 1871"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

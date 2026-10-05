@@ -3,7 +3,7 @@ name: Сергій Параджанов
 born: 1924-01-09
 died: 1990-07-20
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: performing-arts
 tags: [filmmaker, artist]
@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Sergei Parajanov
     url: https://en.wikipedia.org/wiki/Sergei_Parajanov
 related: [vasyl-stus]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

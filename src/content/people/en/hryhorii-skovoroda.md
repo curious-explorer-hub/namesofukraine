@@ -13,7 +13,7 @@ key_accomplishments:
   - "Kharkiv Fables and philosophical dialogues"
 birthplace_name: "Chornukhy"
 image_alt: "Portrait of Hryhorii Skovoroda"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

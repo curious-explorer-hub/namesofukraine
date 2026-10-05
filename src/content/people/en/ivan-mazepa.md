@@ -14,7 +14,7 @@ key_accomplishments:
   - "Alliance with Sweden in 1708 to free Ukraine from dependence on Moscow"
 birthplace_name: "Mazepyntsi (near Bila Tserkva)"
 image_alt: "Portrait of Ivan Mazepa"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

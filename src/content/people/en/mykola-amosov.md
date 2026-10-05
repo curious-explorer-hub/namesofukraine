@@ -14,7 +14,7 @@ key_accomplishments:
   - "Books Thoughts and the Heart and Reflections on Health; the “limits and loads” health system"
 birthplace_name: "Olkhove (Russia)"
 image_alt: "Photograph of Mykola Amosov, 1984"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

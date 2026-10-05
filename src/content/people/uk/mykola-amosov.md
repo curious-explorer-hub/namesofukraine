@@ -3,7 +3,7 @@ name: Микола Амосов
 born: 1913-12-06
 died: 2002-12-12
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: science
 tags: [physician, scientist, writer]
@@ -36,7 +36,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Nikolai_Amosov
 related: [volodymyr-vernadskyi]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

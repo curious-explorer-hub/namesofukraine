@@ -3,7 +3,7 @@ name: Микола Лисенко
 born: 1842-03-22
 died: 1912-11-06
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 19th-century
 group: performing-arts
 tags: [musician]
@@ -35,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Mykola Lysenko
     url: https://en.wikipedia.org/wiki/Mykola_Lysenko
 related: [mykola-leontovych, taras-shevchenko, lesya-ukrainka]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

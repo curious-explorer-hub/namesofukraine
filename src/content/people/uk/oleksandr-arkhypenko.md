@@ -3,7 +3,7 @@ name: Олександр Архипенко
 born: 1887-05-30
 died: 1964-02-25
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -35,7 +35,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Alexander_Archipenko
 related: [kateryna-bilokur]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

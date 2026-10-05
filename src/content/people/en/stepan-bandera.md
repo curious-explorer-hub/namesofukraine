@@ -10,7 +10,7 @@ key_accomplishments:
   - "For refusing to revoke the Act, held by the Nazis in Berlin and then in the Zellenbau block of Sachsenhausen concentration camp (1941–1944)"
 birthplace_name: "Staryi Uhryniv"
 image_alt: "Photograph of Stepan Bandera"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

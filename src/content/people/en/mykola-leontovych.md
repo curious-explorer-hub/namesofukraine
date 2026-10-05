@@ -13,7 +13,7 @@ key_accomplishments:
   - "Teacher and organizer of the choral movement in Ukraine"
 birthplace_name: "Monastyrok"
 image_alt: "Photograph of Mykola Leontovych"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

@@ -59,6 +59,8 @@ Bandera's brothers in Auschwitz (1942) · the Konovalets–Sudoplatov method (at
 
 ## 5. Owner approval checklist
 
+**2026-10-04:** owner approved batch 1. 23 profiles are now `reviewed: true`. Held back until their portraits are freely licensed (product_vision.md §11 L15): volodymyr-velykyi, yaroslav-mudryi, roman-shukhevych, lesya-ukrainka, mykola-khvylovyi.
+
 For each profile, read the page at `http://localhost:4321/people/<slug>/` and reply "approve <slug>" (or "approve all"). Then Claude sets `reviewed: true` and `last_reviewed`.
 
 | Group | Profiles | Needs your decision |

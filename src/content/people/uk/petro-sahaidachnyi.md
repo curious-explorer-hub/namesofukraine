@@ -4,7 +4,7 @@ born: 1582-01-01
 born_circa: true
 died: 1622-04-20
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: cossack
 group: statehood
 tags: [warrior, politician]
@@ -36,7 +36,7 @@ sources:
   - title: Wikipedia (EN) - Petro Konashevych-Sahaidachny
     url: https://en.wikipedia.org/wiki/Petro_Konashevych-Sahaidachny
 related: [ivan-mazepa]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

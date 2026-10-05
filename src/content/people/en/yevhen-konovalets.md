@@ -13,7 +13,7 @@ key_accomplishments:
   - "Head of the Leadership of Ukrainian Nationalists (from 1927) and first leader of the OUN (1929–1938)"
 birthplace_name: "Zashkiv"
 image_alt: "Photograph of Yevhen Konovalets"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he was

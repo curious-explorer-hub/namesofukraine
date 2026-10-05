@@ -3,7 +3,7 @@ name: Микола Гоголь
 born: 1809-04-01
 died: 1852-03-04
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 19th-century
 group: literature
 tags: [writer]
@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Nikolai Gogol
     url: https://en.wikipedia.org/wiki/Nikolai_Gogol
 related: [taras-shevchenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

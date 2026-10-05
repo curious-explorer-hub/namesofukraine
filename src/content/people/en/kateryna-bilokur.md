@@ -13,7 +13,7 @@ key_accomplishments:
   - "People’s Artist of the Ukrainian SSR (1956)"
 birthplace_name: "Bohdanivka"
 image_alt: "Photograph of Kateryna Bilokur, 1954"
-reviewed: false
+reviewed: true
 ---
 
 ## Who she was

@@ -3,7 +3,7 @@ name: Григорій Сковорода
 born: 1722-12-03
 died: 1794-11-09
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: cossack
 group: literature
 tags: [philosopher, poet]
@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Hryhorii Skovoroda
     url: https://en.wikipedia.org/wiki/Hryhorii_Skovoroda
 related: [ivan-franko, taras-shevchenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

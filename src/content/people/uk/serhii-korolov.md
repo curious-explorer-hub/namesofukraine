@@ -3,7 +3,7 @@ name: Сергій Корольов
 born: 1907-01-12
 died: 1966-01-14
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: science
 tags: [scientist, inventor]
@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Sergei Korolev
     url: https://en.wikipedia.org/wiki/Sergei_Korolev
 related: [ihor-sikorskyi, volodymyr-vernadskyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

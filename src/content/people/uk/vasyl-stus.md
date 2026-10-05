@@ -3,7 +3,7 @@ name: Василь Стус
 born: 1938-01-06
 died: 1985-09-04
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: literature
 tags: [poet, human-rights]
@@ -35,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Vasyl Stus
     url: https://en.wikipedia.org/wiki/Vasyl_Stus
 related: [mykola-khvylovyi, ivan-franko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він
