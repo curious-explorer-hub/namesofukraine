@@ -17,12 +17,6 @@ key_accomplishments:
   - "З 2022 року - кулеметник 3-го окремого полку спеціальних операцій ЗСУ"
   - "Герой України (посмертно, указ № 608/2025 від 22 серпня 2025 року)"
 birthplace: { name: "Рівне", region: rivne, country: UA, lat: 50.62, lon: 26.252 }
-image:
-  src: ./images/maksym-kryvtsov.jpg
-  alt: "Чорно-біла фотографія Максима Кривцова у військовому спорядженні"
-  author: "Невідомий автор, опубліковано «Рівне 1»"
-  license: "Усі права захищено"
-  source_url: "https://rivne1.tv/news/151279-poet-i-viyskovosluzhbovets-z-rivnoho-maksim-krivtsov-iz-pozivnim-dali-zahinuv-na-viyni"
 quotes:
   - text: "«Я поверну собі своє життя / обіцяю»"
     source: "Максим Кривцов, вірш «Я поверну собі своє життя…» (опубліковано «Буквами», 2024)"

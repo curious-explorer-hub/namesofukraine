@@ -10,7 +10,6 @@ key_accomplishments:
   - "Shevchenko Republican Prize (1966); People’s Artist of the Ukrainian SSR (1988)"
   - "UNESCO declared 2009 the Year of Mariia Prymachenko"
 birthplace_name: "Bolotnia"
-image_alt: "Photographic portrait of Mariia Prymachenko against her paintings, a collage"
 reviewed: false
 ---
 
