@@ -12,8 +12,8 @@ key_accomplishments:
   - "Head of the General Secretariat of the Ukrainian Supreme Liberation Council (UHVR)"
   - "Led the armed underground against Soviet rule for almost six years (1944–1950)"
 birthplace_name: "Lviv (other sources: Krakovets)"
-image_alt: "Photograph of Roman Shukhevych, 1945 (modern colourization)"
-reviewed: false
+image_alt: "Roman Shukhevych, photograph, 1944"
+reviewed: true
 ---
 
 ## Who he was

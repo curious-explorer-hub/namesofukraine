@@ -13,8 +13,8 @@ key_accomplishments:
   - "Founded a library and schools; promoted book learning and the copying of books"
   - "Dynastic marriages of his children with the rulers of France, Norway, Hungary and other countries"
 birthplace_name: "Unknown"
-image_alt: "Imagined portrait of Yaroslav the Wise holding a model of a church, modern drawing"
-reviewed: false
+image_alt: "A seal attributed to Yaroslav the Wise (drawing)"
+reviewed: true
 ---
 
 ## Who he was

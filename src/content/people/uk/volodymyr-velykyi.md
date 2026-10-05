@@ -4,7 +4,7 @@ born: 0958-01-01
 born_circa: true
 died: 1015-07-15
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: kyivan-rus
 group: statehood
 tags: [politician, religious]
@@ -17,10 +17,11 @@ misconception:
 birthplace: { name: "Невідомо", region: unknown, country: UA }
 image:
   src: ./images/volodymyr-velykyi.jpg
-  alt: "Святий князь Володимир з хрестом і моделлю храму, сучасна ікона"
-  author: "Невідомий автор, опубліковано Alatyr History Club"
-  license: "Усі права захищено"
-  source_url: "https://www.alatyr-history.club/?page_id=114"
+  alt: "Володимир Великий на троні, поруч - тризуб: срібник кінця X - початку XI століття (Одеський музей нумізматики)"
+  position: "50% 30%"
+  author: "Влад Федченко (фото монети, Одеський музей нумізматики)"
+  license: "Public domain"
+  source_url: "https://commons.wikimedia.org/wiki/File:Odessa_numismatic_museum_photo_05.jpg"
 key_accomplishments:
   - Хрещення Русі (традиційно - 988 рік) і запровадження християнства як державної релігії
   - Об'єднання та розширення руських земель, оборонні лінії й фортеці проти печенігів по Стугні, Трубежу й Сулі
@@ -36,7 +37,7 @@ sources:
   - title: Wikipedia (EN) - Vladimir the Great
     url: https://en.wikipedia.org/wiki/Vladimir_the_Great
 related: [yaroslav-mudryi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

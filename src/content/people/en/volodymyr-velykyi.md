@@ -13,8 +13,8 @@ key_accomplishments:
   - "The first coins of Rus’, gold and silver, bearing the trident"
   - "Built the Church of the Tithes in Kyiv (996), the first monumental masonry church of Rus’"
 birthplace_name: "Unknown"
-image_alt: "Saint Prince Volodymyr with a cross and a model of a church, modern icon"
-reviewed: false
+image_alt: "Volodymyr the Great enthroned, with the tryzub beside him: a silver coin (srebrenyk) of the late 10th to early 11th century, Odesa Numismatic Museum"
+reviewed: true
 ---
 
 ## Who he was

@@ -3,7 +3,7 @@ name: Микола Хвильовий
 born: 1893-12-13
 died: 1933-05-13
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: literature
 tags: [writer]
@@ -13,10 +13,11 @@ fun_fact: "Хвильовий - це псевдонім; справжнє прі
 birthplace: { name: "Тростянець", region: sumy, country: UA, lat: 50.481, lon: 34.965 }
 image:
   src: ./images/mykola-khvylovyi.jpg
-  alt: "Кольоризований фотопортрет Миколи Хвильового"
-  author: "Невідомий автор кольоризації, опубліковано «Наш Формат»"
-  license: "Усі права захищено"
-  source_url: "https://nashformat.ua/authors/mykola-hvylovyj-books"
+  alt: "Микола Хвильовий, фотографія О. Кореневича, 1928"
+  position: "50% 30%"
+  author: "О. Кореневич"
+  license: "Public domain"
+  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Khvylovy.jpg"
 key_accomplishments:
   - Збірки новел «Сині етюди» та «Осінь», новела «Я (Романтика)»
   - Ідейний провідник і один з ініціаторів літературної організації ВАПЛІТЕ (1925)
@@ -31,7 +32,7 @@ sources:
   - title: Wikipedia (EN) - Mykola Khvylovy
     url: https://en.wikipedia.org/wiki/Mykola_Khvylovy
 related: [vasyl-stus]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

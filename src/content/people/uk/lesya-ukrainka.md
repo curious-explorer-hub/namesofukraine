@@ -3,7 +3,7 @@ name: Леся Українка
 born: 1871-02-25
 died: 1913-08-01
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 19th-century
 group: literature
 tags: [poet, writer]
@@ -16,10 +16,11 @@ misconception:
 birthplace: { name: "Звягель", region: zhytomyr, country: UA, lat: 50.583, lon: 27.633 }
 image:
   src: ./images/lesya-ukrainka.jpg
-  alt: "Кольоризований фотопортрет Лесі Українки в намисті"
-  author: "Невідомий автор кольоризації, опубліковано Бібліотекою ТНМУ"
-  license: "Усі права захищено"
-  source_url: "https://www.tdmu.edu.ua/library/2026/02/23/lesya-ukrayinka-golos-nezlamnoyi-dushi-do-155-richchya-vid-dnya-narodzhennya/"
+  alt: "Леся Українка, фотографія Йогана Кшановського, 1901"
+  position: "50% 30%"
+  author: "Йоган Кшановський"
+  license: "Public domain"
+  source_url: "https://commons.wikimedia.org/wiki/File:Lesya_Ukrainka_1901_(facecrop).jpg"
 key_accomplishments:
   - Драма-феєрія «Лісова пісня» (1911)
   - Драми «Камінний господар», «Бояриня», «Кассандра», «Одержима»
@@ -33,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Lesya Ukrainka
     url: https://en.wikipedia.org/wiki/Lesya_Ukrainka
 related: [ivan-franko, taras-shevchenko, mykola-lysenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

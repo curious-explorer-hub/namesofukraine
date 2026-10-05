@@ -13,8 +13,8 @@ key_accomplishments:
   - "Poetry collections On the Wings of Songs, Thoughts and Dreams and Echoes"
   - "Translations from many European languages; recordings of Volhynian folklore"
 birthplace_name: "Zviahel"
-image_alt: "Colourised photographic portrait of Lesya Ukrainka wearing a necklace"
-reviewed: false
+image_alt: "Lesya Ukrainka, photograph by Johann Krzanowski, 1901"
+reviewed: true
 ---
 
 ## Who she was

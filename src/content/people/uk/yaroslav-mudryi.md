@@ -4,7 +4,7 @@ born: 0978-01-01
 born_circa: true
 died: 1054-02-20
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: kyivan-rus
 group: statehood
 tags: [politician]
@@ -17,10 +17,11 @@ misconception:
 birthplace: { name: "Невідомо", region: unknown, country: UA }
 image:
   src: ./images/yaroslav-mudryi.jpg
-  alt: "Уявний портрет Ярослава Мудрого з моделлю храму, сучасна графіка"
-  author: "Невідомий автор, опубліковано Portal History UA"
-  license: "Усі права захищено"
-  source_url: "https://portalhistoryua.com/personality/yaroslav-mudryj/"
+  alt: "Печатка, яку приписують Ярославові Мудрому (прорисовка)"
+  position: "50% 45%"
+  author: "Невідомий автор (прорисовка печатки)"
+  license: "Public domain"
+  source_url: "https://commons.wikimedia.org/wiki/File:YaroslavWiseSeal.jpg"
 key_accomplishments:
   - Звід законів «Руська правда» - перший писаний закон Русі
   - Спорудження Софійського собору та Золотих воріт у Києві
@@ -36,7 +37,7 @@ sources:
   - title: Wikipedia (EN) - Yaroslav the Wise
     url: https://en.wikipedia.org/wiki/Yaroslav_the_Wise
 related: [volodymyr-velykyi]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

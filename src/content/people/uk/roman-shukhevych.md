@@ -3,7 +3,7 @@ name: Роман Шухевич
 born: 1907-06-30
 died: 1950-03-05
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: statehood
 tags: [warrior]
@@ -16,10 +16,11 @@ misconception:
 birthplace: { name: "Львів (за іншими даними - Краковець)", region: lviv, country: UA, lat: 49.842, lon: 24.032 }
 image:
   src: ./images/roman-shukhevych.jpg
-  alt: "Фотопортрет Романа Шухевича, 1945 (сучасне розфарбування)"
-  author: "Невідомий автор, опубліковано Надвірнянською міською радою"
-  license: "Усі права захищено"
-  source_url: "https://nadrada.gov.ua/pochesni-gromadyany/shuhevych-roman-osypovych/"
+  alt: "Роман Шухевич, фотографія 1944 року"
+  position: "50% 35%"
+  author: "Невідомий автор (Архів СБУ)"
+  license: "Public domain"
+  source_url: "https://commons.wikimedia.org/wiki/File:Rom%C3%A1n_Shuj%C3%A9vych.jpg"
 key_accomplishments:
   - Головнокомандувач УПА (1943–1950)
   - Голова Генерального секретаріату Української головної визвольної ради (УГВР)
@@ -34,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Roman Shukhevych
     url: https://en.wikipedia.org/wiki/Roman_Shukhevych
 related: [stepan-bandera, yevhen-konovalets]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він
