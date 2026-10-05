@@ -11,7 +11,7 @@
 
 **Launch readiness:** §11 is the single checklist of everything that must happen before the repo migrates and the site goes public (added 2026-10-03). Check it first.
 
-**Feature backlog:** §10. Items 3–9 are done; open are 1–2 (social and support links) and 10–11 (SEO, security).
+**Feature backlog:** §10 (item 16, added 2026-10-04: views per person / "most read"). Items 3–9 are done; open are 1–2 (social and support links) and 10–11 (SEO, security).
 
 **People backlog:** [CANDIDATES.md](CANDIDATES.md): batch 2 done, recommended batch 3 (20; women and early eras), and the rest of the NV «100 великих українців» list, with decisions pending.
 
@@ -476,3 +476,16 @@ Everything needed before the repo moves to a personal account and the site goes 
 - [ ] **L13.** Telegram/Instagram posts per batch (D13-E).
 - [ ] **L14.** Balance targets for content growth (§7.2): recount after batch 3 (59 profiles); targets are ≥ 25% women, every era, ≥ 10% living, diaspora included.
 
+
+### Insights (added 2026-10-04)
+16. **Views per person: which profiles are read most.** The owner wants to see which people are viewed most, and possibly show a "most read" list on the site. Two separate needs:
+    - **(a) Private stats for the owner — available today, no database.** Cloudflare Web Analytics (L10, enabled 2026-10-04) already counts page views per URL. Dashboard → Web Analytics → `namesofukraine.pages.dev` → "Top paths": each `/uk/people/<slug>/` and `/en/people/<slug>/` row is one profile. Gaps: no per-person total across both languages (add the two rows), visitors with ad blockers aren't counted, and data is sampled at high volume.
+    - **(b) A public "Most read" section on the site.** Needs the numbers at build time or at request time. Options:
+
+      | Option | How | Pros | Cons |
+      |---|---|---|---|
+      | **A. Build-time from Cloudflare's analytics API** *(recommended)* | A scheduled GitHub Action (e.g. nightly) queries the Web Analytics GraphQL API (`rumPageloadEventsAdaptiveGroups`, grouped by path, last 30 days), sums uk + en per slug, writes `src/content/popular.json`, and rebuilds. The home page shows a "Most read this month" row. | No database, no server code, stays fully static; free; one read-only API token (Account Analytics: Read) as a CI secret | Numbers update once a day; ad-blocked visits missing; depends on Cloudflare's API |
+      | B. Own counter: Pages Function + Cloudflare D1 (SQLite) or KV | Each profile view calls `/api/view/<slug>`, which increments a row; the page (or a nightly build) reads the counts | Real-time, exact counts we own; free tier is ample | First server code on the site (conflicts with "no server" in §4 and widens the security surface: rate limiting, bot filtering, CSP `connect-src`); more to maintain |
+      | C. Privacy-friendly analytics with an API (GoatCounter / Plausible) | Replace or complement Cloudflare; read their API at build time | Event support too (e.g. "read to the end"); good dashboards | Another third party, a CSP change, and Plausible costs ~$9/mo |
+
+      **Recommendation:** start with (a) now (nothing to build), and add option A when there's enough traffic for a "most read" list to be meaningful (for example, a few hundred profile views a week), so it doesn't spotlight random early clicks. Revisit B only if real-time counts become a real need. Privacy: all options count pages, not people; no cookies; mention the public list on the About page.
