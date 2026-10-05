@@ -3,7 +3,7 @@ name: Іван Котляревський
 born: 1769-09-09
 died: 1838-11-10
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: imperial
 group: literature
 tags: [poet, writer]
@@ -35,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Ivan Kotliarevsky
     url: https://en.wikipedia.org/wiki/Ivan_Kotliarevsky
 related: [taras-shevchenko, hryhorii-skovoroda]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

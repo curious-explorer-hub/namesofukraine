@@ -11,7 +11,7 @@ key_accomplishments:
   - "The “National Legend of Ukraine” award (2021)"
 birthplace_name: "Moskalivka"
 image_alt: "Photograph of Ivan Marchuk at the opening of his solo exhibition in Rome, 2025"
-reviewed: false
+reviewed: true
 ---
 
 ## Who he is

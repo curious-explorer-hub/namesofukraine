@@ -3,7 +3,7 @@ name: Іван Марчук
 born: 1936-05-12
 living: true
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -34,7 +34,7 @@ sources:
   - title: Wikipedia (EN) - Ivan Marchuk
     url: https://en.wikipedia.org/wiki/Ivan_Marchuk
 related: [taras-shevchenko, kateryna-bilokur]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

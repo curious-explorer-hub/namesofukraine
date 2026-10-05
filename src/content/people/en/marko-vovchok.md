@@ -14,7 +14,7 @@ key_accomplishments:
   - "Edited the journal Translations of the Best Foreign Writers"
 birthplace_name: "Katerynyne estate, Yelets district, Oryol province (now Lipetsk Oblast, Russia)"
 image_alt: "Photograph of Marko Vovchok (Mariia Vilinska)"
-reviewed: false
+reviewed: true
 ---
 
 ## Who she was

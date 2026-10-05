@@ -3,7 +3,7 @@ name: Марко Вовчок
 born: 1833-12-22
 died: 1907-08-10
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: 19th-century
 group: literature
 tags: [writer]
@@ -39,7 +39,7 @@ sources:
   - title: Вікіпедія - Марко Вовчок
     url: https://uk.wikipedia.org/wiki/Марко_Вовчок
 related: [taras-shevchenko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

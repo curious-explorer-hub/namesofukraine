@@ -3,7 +3,7 @@ name: Олена Теліга
 born: 1906-07-21
 died: 1942-02-21
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: 20th-century
 group: literature
 tags: [poet, writer]
@@ -36,7 +36,7 @@ sources:
   - title: Wikipedia (EN) - Olena Teliha
     url: https://en.wikipedia.org/wiki/Olena_Teliha
 related: [lesya-ukrainka, yevhen-konovalets]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

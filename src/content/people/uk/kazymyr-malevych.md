@@ -3,7 +3,7 @@ name: Казимир Малевич
 born: 1879-02-23
 died: 1935-05-15
 added: 2026-09-29
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-04
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -40,7 +40,7 @@ sources:
     url: "https://publicdomainreview.org/essay/black-squares-before-malevich/"
 related: [oleksandr-arkhypenko]
 animate: true
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він
