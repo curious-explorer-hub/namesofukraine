@@ -3,7 +3,7 @@ name: Юрій Руф
 born: 1980-09-26
 died: 2022-04-01
 added: 2026-09-30
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 era: independence
 group: defenders
 tags: [warrior, poet, scientist]
@@ -17,13 +17,6 @@ key_accomplishments:
   - "Кандидат технічних наук (2008), доцент кафедри технологій лісопиляння Національного лісотехнічного університету України"
   - "Орден «За мужність» III ступеня (посмертно, указ № 334/2022 від 14 травня 2022 року)"
 birthplace: { name: "Бережани", region: ternopil, country: UA, lat: 49.446, lon: 24.936 }
-image:
-  src: ./images/yurii-ruf.jpg
-  alt: "Юрій Руф в окопі на Луганщині, 2022"
-  position: "50% 35%"
-  author: "Юрій Руф (Facebook), опубліковано УНІАН"
-  license: "Усі права захищено"
-  source_url: "https://www.unian.ua/society/yuriy-ruf-u-boyah-na-luganshchini-zaginuv-pismennik-yuriy-ruf-novini-ukrajini-11770924.html"
 quotes:
   - text: "Ми лише дрова у вогні великої Ідеї"
     source: "Юрій Руф (цит. за Науково-технічною бібліотекою НЛТУ України)"
@@ -51,7 +44,7 @@ sources:
   - title: Wikipedia (EN) - Yuriy Ruf
     url: https://en.wikipedia.org/wiki/Yuriy_Ruf
 related: [maksym-kryvtsov]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

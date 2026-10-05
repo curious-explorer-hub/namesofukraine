@@ -11,8 +11,7 @@ key_accomplishments:
   - "Order of Merit, 3rd class (2023) and Order for Courage, 3rd class (posthumously, 2024)"
   - "Hero of Ukraine (posthumously, Decree No. 144/2025)"
 birthplace_name: "Lviv"
-image_alt: "Iryna Tsybukh in military uniform"
-reviewed: false
+reviewed: true
 ---
 
 ## Who she was
