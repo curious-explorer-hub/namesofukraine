@@ -11,7 +11,7 @@ key_accomplishments:
   - "Euromaidan activist (2013–2014); Vasyl Stus Prize (2014)"
 birthplace_name: "Lviv"
 image_alt: "Ruslana at the US Embassy in Kyiv, July 2014"
-reviewed: false
+reviewed: true
 ---
 
 ## Who she is

@@ -37,7 +37,7 @@ sources:
   - title: Wikipedia (EN) - Ruslana
     url: https://en.wikipedia.org/wiki/Ruslana
 related: [nazarii-yaremchuk, nina-matviienko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

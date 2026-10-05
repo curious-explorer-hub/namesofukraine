@@ -20,7 +20,7 @@ image:
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%93_2008_(cropped).jpg"
 key_accomplishments:
   - Солістка Українського народного хору імені Григорія Верьовки (1968–1991) і тріо «Золоті ключі»
-  - Перша виконавиця творів, написаних спеціально для неї, зокрема фольк-опери Євгена Станковича «Цвіт папороті»
+  - Перша виконавиця творів, написаних спеціально для неї, зокрема пісень Євгена Станковича, що ввійшли до фольк-опери «Цвіт папороті»
   - Шевченківська премія (1988), звання Героя України (2006)
   - Посмертна відзнака Президента України «Національна легенда України» (2024)
 sources:
@@ -35,7 +35,7 @@ sources:
   - title: Wikipedia (EN) - Nina Matviienko
     url: https://en.wikipedia.org/wiki/Nina_Matviienko
 related: [raisa-kyrychenko, nazarii-yaremchuk, kateryna-bilokur]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

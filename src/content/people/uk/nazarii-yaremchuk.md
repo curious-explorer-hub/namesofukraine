@@ -28,7 +28,7 @@ sources:
   - title: Wikipedia (EN) - Nazariy Yaremchuk
     url: https://en.wikipedia.org/wiki/Nazariy_Yaremchuk
 related: [nina-matviienko, raisa-kyrychenko, ruslana-lyzhychko]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто він

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/raisa-kyrychenko.md
 name: "Raisa Kyrychenko"
 role: "Singer, “guardian of Ukrainian song”"
-summary: "A singer from a Poltava-region village who started out in a car factory choir and became one of the best-loved performers of Ukrainian song. She sang with the Cherkasy Folk Choir and founded the ensemble Churaivna in Poltava. A Hero of Ukraine."
+summary: "A singer from a Poltava-region village who started out in a car factory choir and became one of the best-loved performers of Ukrainian song. She sang with the Cherkasy Folk Choir and initiated the ensemble Churaivna in Poltava. A Hero of Ukraine."
 fun_fact: "In 1983 Raisa Kyrychenko received a diploma as an honorary citizen of the American city of Baltimore."
 key_accomplishments:
   - "Soloist of the Cherkasy Folk Choir (1968–1983)"
@@ -10,7 +10,7 @@ key_accomplishments:
   - "Shevchenko Prize (1986) and the title Hero of Ukraine (2003)"
   - "The autobiographical book I Am Your Cossack Woman, Ukraine (2003)"
 birthplace_name: "Koreshchyna"
-reviewed: false
+reviewed: true
 ---
 
 ## Who she was

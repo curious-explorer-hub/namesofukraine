@@ -6,12 +6,12 @@ summary: "A singer who for more than half a century performed Ukrainian folk son
 fun_fact: "Before she reached the stage, Nina Matviienko worked at the Khimmash plant in Korosten as a timekeeper, a trainee crane operator and a copyist."
 key_accomplishments:
   - "Soloist of the Hryhorii Veriovka Ukrainian Folk Choir (1968–1991) and the trio Zoloti Kliuchi (Golden Keys)"
-  - "First performer of works written especially for her, including songs for Yevhen Stankovych’s folk opera The Fern Flower"
+  - "First performer of works written especially for her, including Yevhen Stankovych’s songs that became part of his folk opera The Fern Flower"
   - "Shevchenko Prize (1988) and the title Hero of Ukraine (2006)"
   - "Posthumously given the presidential distinction National Legend of Ukraine (2024)"
 birthplace_name: "Nedilyshche"
 image_alt: "Nina Matviienko singing at the Young Halychyna festival, 2008"
-reviewed: false
+reviewed: true
 ---
 
 ## Who she was

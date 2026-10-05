@@ -8,7 +8,7 @@ era: 20th-century
 group: performing-arts
 tags: [singer]
 role: "Співачка, «берегиня української пісні»"
-summary: "Співачка з полтавського села, яка почала з хору автозаводу, а стала однією з найулюбленіших виконавиць української пісні. Співала в Черкаському народному хорі, створила в Полтаві ансамбль «Чураївна». Герой України."
+summary: "Співачка з полтавського села, яка почала з хору автозаводу, а стала однією з найулюбленіших виконавиць української пісні. Співала в Черкаському народному хорі, з її ініціативи в Полтаві виник ансамбль «Чураївна». Герой України."
 fun_fact: "1983 року Раїса Кириченко отримала диплом почесної громадянки американського міста Балтимор."
 birthplace: { name: "Корещина", region: poltava, country: UA, lat: 49.465, lon: 33.363 }
 key_accomplishments:
@@ -20,13 +20,13 @@ sources:
   - title: "Енциклопедія сучасної України - Кириченко Раїса Панасівна"
     url: "https://esu.com.ua/article-6435"
   - title: "Енциклопедія історії України - Кириченко Раїса Опанасівна"
-    url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Kyrychenko_R"
+    url: "https://www.history.org.ua/?termin=Kyrychenko_R"
   - title: Вікіпедія - Кириченко Раїса Опанасівна
     url: https://uk.wikipedia.org/wiki/Кириченко_Раїса_Опанасівна
   - title: Wikipedia (EN) - Raisa Kyrychenko
     url: https://en.wikipedia.org/wiki/Raisa_Kyrychenko
 related: [nina-matviienko, nazarii-yaremchuk]
-reviewed: false
+reviewed: true
 ---
 
 ## Хто вона

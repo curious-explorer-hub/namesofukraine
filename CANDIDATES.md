@@ -76,17 +76,14 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Любомир Гузар | 1933–2017 | UGCC head (faith)                    | 20th c. | | Backlog | NV | |
 | Вадим Гетьман | 1935–1998 | Financier (statehood)                | 20th c. | | Backlog | NV | |
 | Валентин Сильвестров | b. 1937 | Composer (performing-arts)            | 20th c. | 🟢 | Backlog | NV | |
-| Раїса Кириченко | | Singer (performing-arts)             | 20th c. | 👩 | Batch 4 (drafting) | ВУ [74] | |
 | Борис Баранов | 1940–2005 | Chornobyl liquidator (civic)         | 20th c. | | Backlog | NV | |
 | Іван Миколайчук | 1941–1987 | Actor and director (performing-arts) | 20th c. | | Batch 4 (drafting) | NV | |
 | Богдан Ступка | 1941–2012 | Actor (performing-arts)              | 20th c. | | Batch 4 (drafting) | NV | |
 | Мустафа Джемілєв | b. 1943 | Crimean Tatar leader (civic)         | 20th c. | 🟢 | Backlog | NV | |
-| Ніна Матвієнко | | Singer (performing-arts)             | 20th c. | 👩 | Batch 4 (drafting) | ВУ [60] | |
 | В'ячеслав Брюховецький | b. 1947 | Educator (civic)                     | 20th c. | 🟢 | Backlog | NV | Verify he is living |
 | Софія Ротару | | Singer (performing-arts)             | 20th c. | 👩 🟢 ⚖️ | Backlog | ВУ [54], Heroes | Career in Russia after 2014 is debated |
 | Олег Блохін | | Footballer (sport)                   | 20th c. | 🟢 | Backlog | ВУ [56] | |
 | Володимир Івасюк | 1949–1979 | Composer (performing-arts)           | 20th c. | | Backlog | NV, Heroes | |
-| Назарій Яремчук | | Singer (performing-arts)             | 20th c. | | Batch 4 (drafting) | ВУ [75] | |
 | Леонід Каденюк | 1951–2018 | Astronaut (science)                  | Independence | | Batch 4 (drafting) | Heroes | First and only astronaut of independent Ukraine; Hero of Ukraine (1999) |
 | Іван Дзюба | 1931–2022 | Dissident, literary scholar (civic)  | 20th c. | | Backlog | Heroes | Hero of Ukraine (2001). Author of «Інтернаціоналізм чи русифікація?» (to verify) |
 | Леонід Кравчук | | State (statehood)                    | Independence | ⚖️ | Backlog | ВУ [51] | First president; Soviet party career |
@@ -97,7 +94,6 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Сергій Жадан | b. 1974 | Writer (literature)                  | Independence | 🟢 | Backlog | NV | |
 | Олег Сенцов | b. 1976 | Film director (performing-arts)      | Independence | 🟢 | Backlog | NV | |
 | Андрій Шевченко | | Footballer (sport)                   | Independence | 🟢 | Batch 4 (drafting) | ВУ [33], Heroes | |
-| Руслана Лижичко | | Singer (performing-arts)             | Independence | 👩 🟢 | Batch 4 (drafting) | ВУ [76] | |
 | Святослав Вакарчук | | Singer (performing-arts)             | Independence | 🟢 | Backlog | ВУ [64] | |
 | Олег Скрипка | | Musician (performing-arts)           | Independence | 🟢 | Backlog | ВУ [90] | |
 | Василь Вірастюк | | Strongman (sport)                    | Independence | 🟢 | Batch 4 (drafting) | ВУ [68] | |
