@@ -40,8 +40,9 @@ export default defineConfig({
       assetsInlineLimit: (file) => (file.endsWith('.js') ? false : undefined),
     },
   },
-  // The public domain (decided 2026-10-04): canonical, hreflang, sitemap, robots.txt, JSON-LD and share-card URLs.
-  site: 'https://namesofukraine.org',
+  // Soft launch on Cloudflare's free address (2026-10-04); switch to https://namesofukraine.org when it's
+  // registered (product_vision.md §11 L3). Drives canonical, hreflang, sitemap, robots.txt, JSON-LD and share-card URLs.
+  site: 'https://namesofukraine.pages.dev',
   i18n: {
     defaultLocale: 'uk',
     locales: ['uk', 'en'],
