@@ -10,7 +10,8 @@
     "check": "astro check",
     "test": "vitest run",
     "revitalize": "node --env-file-if-exists=.env scripts/revitalize-photos.mjs",
-    "test:e2e": "npm run build && playwright test"
+    "test:e2e": "npm run build && playwright test",
+    "feedback": "node scripts/pull-feedback.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
