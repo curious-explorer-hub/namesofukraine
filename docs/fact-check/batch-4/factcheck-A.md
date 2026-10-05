@@ -26,4 +26,4 @@
 - Makhno born 07.11.1888 (ESU, ЕІУ; IEU 1889).
 
 ## Owner decision
-- **Skoropadskyi's photo** (File:Pavlo_Skoropadsky_1.jpg) has only a PD-US-not-renewed tag on Commons; EU/UA status unstated. Safer alternatives: File:Pavlo_Skoropadsky.jpg (PD-Ukraine, c. 1920) or File:Skoropadski.jpg (PD-Polish, 1918 photo published 1933).
+- **Skoropadskyi's photo** (File:Pavlo_Skoropadsky_1.jpg) has only a PD-US-not-renewed tag on Commons; EU/UA status unstated. Safer alternatives: File:Pavlo_Skoropadsky.jpg (PD-Ukraine, c. 1920) or File:Skoropadski.jpg (PD-Polish, 1918 photo published 1933). **Owner decision (2026-10-04): swapped to File:Pavlo_Skoropadsky.jpg** (PD-Ukraine, 882×1197).

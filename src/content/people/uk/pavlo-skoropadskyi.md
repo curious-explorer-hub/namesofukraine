@@ -17,11 +17,11 @@ places:
   - { name: "Меттен (Баварія)", lat: 48.855, lon: 12.917, note: "місце смерті, 1945" }
 image:
   src: ./images/pavlo-skoropadskyi.jpg
-  alt: "Фотопортрет Павла Скоропадського у військовому однострої"
-  position: "45% 20%"
+  alt: "Павло Скоропадський у козацькому строї з Георгіївським хрестом, близько 1918–1920 років"
+  position: "50% 18%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Pavlo_Skoropadsky_1.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Pavlo_Skoropadsky.jpg"
 key_accomplishments:
   - "Українізував 34-й армійський корпус у 1-й Український корпус і в грудні 1917 року не допустив збільшовичені частини до Києва"
   - "Гетьман Української Держави (29 квітня - 14 грудня 1918)"

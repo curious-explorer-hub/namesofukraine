@@ -10,7 +10,7 @@ key_accomplishments:
   - "His government founded the Ukrainian Academy of Sciences, Ukrainian state universities in Kyiv and Kamianets-Podilskyi, the National Library, and opened or Ukrainianized more than 150 gymnasiums"
   - "In exile, initiated the founding of the Ukrainian Scientific Institute in Berlin (1926)"
 birthplace_name: "Wiesbaden (Germany)"
-image_alt: "Photograph of Pavlo Skoropadskyi in military uniform"
+image_alt: "Pavlo Skoropadskyi in Cossack dress with the St. George Cross, about 1918–1920"
 reviewed: false
 ---
 

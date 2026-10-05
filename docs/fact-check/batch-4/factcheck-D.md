@@ -21,4 +21,4 @@ ESU via Wayback; IEU, KNPU, Istpravda, decrees 665/2005, 1526/99, 298/2025, 688/
 - Virastiuk: WSM 2004 + IFSA 2007 (ESU's "2005" unsupported).
 
 ## Owner decision
-- **Lukianenko:** IEU says that in his later years he "was harshly criticized for making a variety of xenophobic statements and for his close ties with … MAUP", which it calls "one of the most persistent anti-Semitic institutions in Eastern Europe". Policy §7 calls for a «Дискусії та оцінки» section for contested figures; the profile has none. Proposed short section (uk/en) is in the checker's report; it needs a second source.
+- **Lukianenko:** IEU says that in his later years he "was harshly criticized for making a variety of xenophobic statements and for his close ties with … MAUP", which it calls "one of the most persistent anti-Semitic institutions in Eastern Europe". Policy §7 calls for a «Дискусії та оцінки» section for contested figures; the profile has none. Proposed short section (uk/en) is in the checker's report; it needs a second source. **Owner decision (2026-10-04): added**, worded after IEU, with the KHPG dissident-museum biography as a second source for MAUP publishing his works.

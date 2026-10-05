@@ -22,5 +22,5 @@ ESU read via Wayback snapshots (live site HTTP 429); all other sources and image
 - Mechnikov at Odesa from 1870 (ESU, IEU); left Odesa 1887, Paris from 1888.
 
 ## Owner decisions
-- **Vyshnia's photo** (Korenevych, 1928): Commons tag PD-old-auto uses 1928 as the "death year", but that's the photo date; the photographer's death year is unknown. PD in the US; PD in Ukraine not demonstrated. **Same photographer and source as the already published Khvylovyi portrait.**
-- **Honchar's photo** (298 px, author and date unknown, Commons source link dead): weak license basis; checker recommends initials until an archival photo is found.
+- **Vyshnia's photo** (Korenevych, 1928): Commons tag PD-old-auto uses 1928 as the "death year", but that's the photo date; the photographer's death year is unknown. PD in the US; PD in Ukraine not demonstrated. **Same photographer and source as the already published Khvylovyi portrait.** **Owner decision (2026-10-04): keep both (low risk).**
+- **Honchar's photo** (298 px, author and date unknown, Commons source link dead): weak license basis; checker recommends initials until an archival photo is found. **Owner decision (2026-10-04): initials; image removed.**

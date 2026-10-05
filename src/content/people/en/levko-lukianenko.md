@@ -27,6 +27,10 @@ Released in 1976, he settled in Chernihiv, worked as an electrician, and that sa
 
 In 1990 Lukianenko became head of the Ukrainian Republican Party, a member of parliament, and a co-author of the Declaration of State Sovereignty of Ukraine. He wrote the Act of Declaration of Independence of Ukraine, adopted by the Verkhovna Rada on 24 August 1991. In the first presidential election later that year he came third. In 1992–1993 he was Ukraine's first ambassador to Canada, and he was later elected to parliament three more times. He was made a Hero of Ukraine in 2005 and received the Shevchenko Prize in 2016. He died in Kyiv on 7 July 2018.
 
+## Debates and assessments
+
+In his later years Lukianenko was harshly criticized for xenophobic statements and for close ties with the Interregional Academy of Personnel Management (MAUP), which published his works and which researchers regarded as one of the most persistent centers of antisemitism in Eastern Europe.
+
 ## Why it matters today
 
 Lukianenko defended Ukraine's right to leave the USSR at a time when it could cost him his life. Three decades after his death sentence, he was the one who wrote the document with which independent Ukraine began.
