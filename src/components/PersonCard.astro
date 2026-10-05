@@ -1,0 +1,46 @@
+---
+import { personUrl, tagLabel, lifespan, isNew, searchText, type Person } from '../lib/people';
+import Portrait from './Portrait.astro';
+import { t } from '../i18n';
+
+interface Props {
+  person: Person;
+  headingLevel?: 'h2' | 'h3' | 'h4';
+  // Beyond the home-page preview: hidden until a filter is active.
+  overflow?: boolean;
+  // "Read next" backup suggestion: hidden unless the read-marks script needs it.
+  fallback?: boolean;
+}
+
+const { person, headingLevel: Heading = 'h3', overflow = false, fallback = false } = Astro.props;
+const { data, lang } = person;
+const fresh = isNew(person);
+---
+
+<li
+  class:list={['person-item', { 'is-overflow': overflow }]}
+  data-slug={person.slug}
+  data-fallback={fallback || undefined}
+  hidden={fallback || undefined}
+  data-group={data.group}
+  data-era={data.era}
+  data-region={data.birthplace.region}
+  data-search={searchText(person)}
+>
+  <article class="person">
+    <Portrait person={person} class="person-portrait" widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" />
+    <p class="person-years">{lifespan(person)}</p>
+    <Heading class="person-name">
+      <a href={personUrl(person)}>{data.name}</a>
+    </Heading>
+    <p class="person-role">{data.role}</p>
+    <p class="person-summary">{data.summary}</p>
+    <p class="person-tags">{data.tags.map((tag) => tagLabel(tag, lang)).join(', ')}</p>
+    {fresh && <span class="badge-new">{t('home.new_badge', lang)}</span>}
+    {/* Shown by the read-marks script for people already read (stored in this browser only). */}
+    <span class="badge-read" title={t('read.badge', lang)}>
+      <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+      <span class="visually-hidden">{t('read.badge', lang)}</span>
+    </span>
+  </article>
+</li>

@@ -1,0 +1,104 @@
+---
+import '../styles/global.css';
+import { t, languages, type Lang } from '../i18n';
+import { localePath } from '../lib/people';
+import { jsonForScript } from '../lib/json';
+// Same mark as the favicon, inlined so it scales crisply and needs no extra request.
+import mark from '../../public/favicon.svg?raw';
+
+interface Props {
+  lang: Lang;
+  title?: string;
+  description?: string;
+  // Path of the share card; defaults to the site card for this language.
+  ogImage?: string;
+  // Error pages: kept out of search results, with no canonical or language alternates.
+  noindex?: boolean;
+  // schema.org objects (src/lib/structured-data.ts), emitted as JSON-LD.
+  structuredData?: object[];
+}
+
+const { lang, title, description = t('site.description', lang), ogImage: ogPath = `/og/${lang}/site.jpg`, noindex = false, structuredData = [] } = Astro.props;
+// Share preview: a generated 1200×630 card (src/lib/og.ts).
+const ogImage = new URL(ogPath, Astro.site);
+const fullTitle = title ? `${title} - ${t('site.title', lang)}` : `${t('site.title', lang)}: ${t('home.title', lang)}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+
+// Every page exists in both languages at the same path under /uk/ or /en/.
+const basePath = Astro.url.pathname.replace(/^\/(uk|en)(?=\/|$)/, '') || '/';
+const pathIn = (l: Lang) => localePath(l, basePath);
+const other: Lang = lang === 'uk' ? 'en' : 'uk';
+const home = localePath(lang, '/');
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {
+      noindex ? (
+        <meta name="robots" content="noindex" />
+      ) : (
+        <>
+          <link rel="canonical" href={canonical} />
+          {languages.map((l) => <link rel="alternate" hreflang={l} href={new URL(pathIn(l), Astro.site)} />)}
+          <link rel="alternate" hreflang="x-default" href={new URL(pathIn('uk'), Astro.site)} />
+        </>
+      )
+    }
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content={lang === 'uk' ? 'uk_UA' : 'en_GB'} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="alternate" type="application/rss+xml" title={t('site.title', lang)} href={new URL(localePath(lang, '/rss.xml'), Astro.site)} />
+    <slot name="head" />
+    <!-- The filter bar needs JavaScript. It is visible from the first paint (no layout shift when the
+         script starts) and hidden only for visitors without JavaScript. -->
+    <noscript><style>.filters { display: none !important; }</style></noscript>
+    {structuredData.map((item) => <script is:inline type="application/ld+json" set:html={jsonForScript(item)} />)}
+    <link rel="preload" href="/fonts/FixelDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/FixelText-Regular.woff2" as="font" type="font/woff2" crossorigin />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container site-header-inner">
+        <a class="logo" href={home} aria-label={t('nav.home_label', lang)}>
+          <span class="logo-mark" aria-hidden="true" set:html={mark} />
+          <span class="logo-text">{t('site.title', lang)}</span>
+        </a>
+        <nav class="site-nav" aria-label={t('nav.label', lang)}>
+          <a class="nav-link lang-switch" href={pathIn(other)} hreflang={other} lang={other} aria-label={t('lang.switch_label', lang)}><span class="lang-long">{t('lang.switch', lang)}</span><span class="lang-short" aria-hidden="true">{t('lang.switch_short', lang)}</span></a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container site-footer-inner">
+        <p class="site-footer-note">{t('footer.note', lang)}</p>
+        <nav aria-label={t('footer.label', lang)}>
+          <a href={localePath(lang, '/about/')}>{t('footer.about', lang)}</a>
+          <a href={localePath(lang, '/suggest/')}>{t('footer.suggest', lang)}</a>
+          <a href={localePath(lang, '/new/')}>{t('nav.new', lang)}</a>
+          <a href={localePath(lang, '/credits/')}>{t('footer.credits', lang)}</a>
+          <a href={localePath(lang, '/rss.xml')}>RSS</a>
+        </nav>
+      </div>
+    </footer>
+    <script>
+      import { initReadMarks } from '../scripts/read-marks';
+      initReadMarks();
+    </script>
+  </body>
+</html>

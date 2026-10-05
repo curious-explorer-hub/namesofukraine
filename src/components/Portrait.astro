@@ -1,0 +1,81 @@
+---
+import { Image, getImage } from 'astro:assets';
+import { portraitVideo, type Person } from '../lib/people';
+import { t } from '../i18n';
+
+interface Props {
+  person: Person;
+  sizes: string;
+  widths: number[];
+  class?: string;
+  loading?: 'lazy' | 'eager';
+  // Offer the AI-animated clip if one exists (profile page only; cards stay static).
+  animated?: boolean;
+}
+
+const { person, sizes, widths, class: className, loading = 'lazy', animated = false } = Astro.props;
+const image = person.data.image;
+// Faces sit in the upper part of most portraits.
+const position = image?.position ?? '50% 22%';
+const words = person.data.name.split(/\s+/);
+const initials = [words[0], words.length > 1 ? words.at(-1) : undefined].map((w) => w?.[0] ?? '').join('');
+const video = animated && image ? portraitVideo(person) : null;
+const poster = video && image ? await getImage({ src: image.src, width: 720, format: 'webp' }) : null;
+---
+
+{
+  video && image && poster ? (
+    // Static by default; plays once on hover or on tap/click/keyboard, then returns to the photo.
+    <div class:list={['portrait', 'portrait-live', className]}>
+      <button type="button" data-portrait-live aria-label={`${image.alt}. ${t('person.portrait_play', person.lang)}`}>
+        <video
+          src={video}
+          poster={poster.src}
+          muted
+          playsinline
+          preload="none"
+          aria-hidden="true"
+          style={`object-position: ${position}`}
+        />
+        <span class="portrait-live-badge" aria-hidden="true">{t('person.portrait_live', person.lang)}</span>
+      </button>
+    </div>
+  ) : image ? (
+    <div class:list={['portrait', className]}>
+      <Image
+        src={image.src}
+        alt={image.alt}
+        widths={widths}
+        sizes={sizes}
+        loading={loading}
+        style={`object-position: ${position}`}
+      />
+    </div>
+  ) : (
+    // No freely licensed portrait: the name is already next to it, so the monogram is decorative.
+    <div class:list={['portrait', 'portrait-monogram', className]} aria-hidden="true">
+      <span>{initials}</span>
+    </div>
+  )
+}
+
+<script>
+  const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const canHover = matchMedia('(hover: hover)');
+  document.querySelectorAll<HTMLButtonElement>('[data-portrait-live]').forEach((button) => {
+    const video = button.querySelector('video')!;
+    const stop = () => {
+      video.pause();
+      video.load(); // back to the poster photo
+      button.removeAttribute('data-playing');
+    };
+    const play = () => {
+      button.setAttribute('data-playing', '');
+      video.play().catch(stop);
+    };
+    video.addEventListener('ended', stop);
+    button.addEventListener('click', () => (video.paused ? play() : stop()));
+    button.addEventListener('mouseenter', () => canHover.matches && !reduceMotion.matches && play());
+    button.addEventListener('mouseleave', () => canHover.matches && !video.paused && stop());
+  });
+</script>

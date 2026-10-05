@@ -1,0 +1,17 @@
+---
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  claim: string;
+  truth: string;
+  lang: Lang;
+}
+
+const { claim, truth, lang } = Astro.props;
+---
+
+<aside class="misconception" aria-labelledby="misconception-title">
+  <h2 id="misconception-title">{t('person.misconception', lang)}</h2>
+  <p class="misconception-claim">{claim}</p>
+  <p class="misconception-truth"><strong>{t('person.misconception_truth', lang)}:</strong> {truth}</p>
+</aside>

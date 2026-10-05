@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { localePath } from '../lib/people';
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+// Visitors may land on the wrong language's error page, so one line points to the other version.
+const other: Lang = lang === 'uk' ? 'en' : 'uk';
+---
+
+<BaseLayout lang={lang} title={t('notfound.title', lang)} description={t('notfound.lead', lang)} noindex>
+  <header class="page-head">
+    <h1 class="page-title">{t('notfound.title', lang)}</h1>
+    <p class="page-lead">{t('notfound.lead', lang)}</p>
+  </header>
+
+  <div class="page-body prose">
+    <p><a href={localePath(lang, '/')}>{t('notfound.home', lang)}</a></p>
+    <p><a href={localePath(lang, '/suggest/')}>{t('notfound.suggest', lang)}</a></p>
+    <p lang={other}><a href={localePath(other, '/')} hreflang={other}>{t('notfound.other', other)}</a></p>
+  </div>
+</BaseLayout>

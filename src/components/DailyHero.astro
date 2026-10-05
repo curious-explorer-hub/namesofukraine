@@ -1,0 +1,54 @@
+---
+import { getImage } from 'astro:assets';
+import { lifespan, personUrl, type Person } from '../lib/people';
+import { t, type Lang } from '../i18n';
+import { jsonForScript } from '../lib/json';
+
+interface Props {
+  people: Person[];
+  lang: Lang;
+}
+
+const { people, lang } = Astro.props;
+const md = (d: Date) => `${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
+// Everyone is embedded so the browser can pick by the visitor's local date (no server needed).
+const entries = await Promise.all(
+  people.map(async (p) => ({
+    slug: p.slug,
+    born: p.data.born_circa ? null : md(p.data.born),
+    died: p.data.died ? md(p.data.died) : null,
+    name: p.data.name,
+    role: p.data.role,
+    years: lifespan(p),
+    url: personUrl(p),
+    img: p.data.image ? (await getImage({ src: p.data.image.src, width: 240, format: 'webp' })).src : null,
+    alt: p.data.image?.alt ?? null,
+  })),
+);
+---
+
+<!-- Filled in by the script for the visitor's date; hidden without JS. -->
+<aside class="daily-hero" data-daily-hero hidden aria-labelledby="daily-hero-label">
+  <a class="daily-hero-card" data-hero-link href="#">
+    <span class="daily-hero-portrait portrait"><img data-hero-img src="" alt="" width="120" height="120" /></span>
+    <span class="daily-hero-text">
+      <span class="daily-hero-label" id="daily-hero-label">
+        <span
+          data-hero-label
+          data-born={t('hero.born', lang)}
+          data-died={t('hero.died', lang)}
+          data-featured={t('hero.featured', lang)}></span>
+        <span class="daily-hero-date" data-hero-date></span>
+      </span>
+      <span class="daily-hero-name" data-hero-name></span>
+      <span class="daily-hero-role" data-hero-role></span>
+      <span class="daily-hero-years" data-hero-years></span>
+    </span>
+  </a>
+</aside>
+<script is:inline type="application/json" id="daily-hero-data" set:html={jsonForScript(entries)} />
+
+<script>
+  import { initDailyHero } from '../scripts/daily-hero';
+  initDailyHero();
+</script>

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.env
+.DS_Store
+.playwright-mcp/
+.lighthouseci/
+test-results/
+playwright-report/

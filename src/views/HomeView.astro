@@ -1,0 +1,95 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EraRibbon from '../components/EraRibbon.astro';
+import FilterBar from '../components/FilterBar.astro';
+import PersonCard from '../components/PersonCard.astro';
+import DailyHero from '../components/DailyHero.astro';
+import { getPeople, groups, recentlyAdded, byBirth, GROUP_PREVIEW, groupUrl, localePath } from '../lib/people';
+import { getImage } from 'astro:assets';
+import heroImage from '../assets/hero/independence-monument.jpg';
+import { t, type Lang } from '../i18n';
+import { websiteLd } from '../lib/structured-data';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const people = (await getPeople(lang)).sort(byBirth);
+const sections = groups
+  .map((g) => ({ ...g, people: people.filter((p) => p.data.group === g.id) }))
+  .filter((s) => s.people.length > 0);
+const recent = recentlyAdded(people);
+// Hero background (credit: src/content/hero.json, shown on the About page). It is the largest
+// element on first paint, so it is preloaded; phones show it small and faint, so they get a lighter file.
+const heroBg = (await getImage({ src: heroImage, width: 1400, format: 'webp', quality: 60 })).src;
+const heroBgSmall = (await getImage({ src: heroImage, width: 700, format: 'webp', quality: 60 })).src;
+const phone = '(max-width: 47.99rem)';
+---
+
+<BaseLayout
+  lang={lang}
+  structuredData={[websiteLd(t('site.title', lang), new URL(localePath(lang, '/'), Astro.site), lang, t('site.description', lang))]}
+>
+  <Fragment slot="head">
+    <link rel="preload" as="image" href={heroBgSmall} type="image/webp" media={phone} fetchpriority="high" />
+    <link rel="preload" as="image" href={heroBg} type="image/webp" media={`not all and ${phone}`} fetchpriority="high" />
+  </Fragment>
+  <header class="hero" style={`--hero-bg: url(${heroBg}); --hero-bg-small: url(${heroBgSmall})`}>
+    <h1 class="hero-title">{t('home.title', lang)}</h1>
+    <p class="hero-lead">{t('home.lead', lang)}</p>
+  </header>
+
+  <DailyHero people={people} lang={lang} />
+  <EraRibbon people={people} lang={lang} />
+  <FilterBar people={people} lang={lang} />
+
+  {
+    recent.length > 0 && (
+      <section class="recent" aria-labelledby="recent-title">
+        <h2 id="recent-title" class="section-title">{t('home.recent', lang)}</h2>
+        <ul class="shelf" role="list">
+          {recent.map((p) => (
+            <PersonCard person={p} />
+          ))}
+        </ul>
+        <p class="recent-more"><a href={localePath(lang, '/new/')}>{t('home.recent_all', lang)}</a></p>
+      </section>
+    )
+  }
+
+  <div class="catalogue" data-preview={GROUP_PREVIEW}>
+    {
+      sections.map((s) => (
+        <section class="group" aria-labelledby={`group-${s.id}`}>
+          <div class="section-head">
+            <h2 id={`group-${s.id}`} class="section-title">{s.label[lang]}</h2>
+            {/* The only place the section size is shown; always present so every section has it. */}
+            <a
+              class="section-all"
+              href={groupUrl(s.id, lang)}
+              aria-label={t('home.group_all_label', lang, { group: s.label[lang], n: s.people.length })}
+              data-label={t('home.group_all', lang, { n: '{n}' })}
+              data-aria-label={t('home.group_all_label', lang, { group: s.label[lang], n: '{n}' })}>
+              {t('home.group_all', lang, { n: s.people.length })}
+            </a>
+          </div>
+          <ul class="shelf shelf-preview" role="list">
+            {/* All cards stay in the page so search and filters cover everyone; extras show only while filtering. */}
+            {s.people.map((p, i) => (
+              <PersonCard person={p} overflow={i >= GROUP_PREVIEW} />
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+    <p class="catalogue-empty" hidden data-all-read={t('filter.all_read', lang)}>
+      {t('filter.empty', lang)}
+    </p>
+  </div>
+</BaseLayout>
+
+<script>
+  import { initFilters } from '../scripts/filter';
+  initFilters();
+</script>

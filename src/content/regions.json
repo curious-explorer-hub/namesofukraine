@@ -1,0 +1,205 @@
+[
+  {
+    "id": "kyiv-city",
+    "label": {
+      "uk": "Київ",
+      "en": "Kyiv"
+    }
+  },
+  {
+    "id": "vinnytsia",
+    "label": {
+      "uk": "Вінницька область",
+      "en": "Vinnytsia Oblast"
+    }
+  },
+  {
+    "id": "volyn",
+    "label": {
+      "uk": "Волинська область",
+      "en": "Volyn Oblast"
+    }
+  },
+  {
+    "id": "dnipropetrovsk",
+    "label": {
+      "uk": "Дніпропетровська область",
+      "en": "Dnipropetrovsk Oblast"
+    }
+  },
+  {
+    "id": "donetsk",
+    "label": {
+      "uk": "Донецька область",
+      "en": "Donetsk Oblast"
+    }
+  },
+  {
+    "id": "zhytomyr",
+    "label": {
+      "uk": "Житомирська область",
+      "en": "Zhytomyr Oblast"
+    }
+  },
+  {
+    "id": "zakarpattia",
+    "label": {
+      "uk": "Закарпатська область",
+      "en": "Zakarpattia Oblast"
+    }
+  },
+  {
+    "id": "zaporizhzhia",
+    "label": {
+      "uk": "Запорізька область",
+      "en": "Zaporizhzhia Oblast"
+    }
+  },
+  {
+    "id": "ivano-frankivsk",
+    "label": {
+      "uk": "Івано-Франківська область",
+      "en": "Ivano-Frankivsk Oblast"
+    }
+  },
+  {
+    "id": "kyiv",
+    "label": {
+      "uk": "Київська область",
+      "en": "Kyiv Oblast"
+    }
+  },
+  {
+    "id": "kirovohrad",
+    "label": {
+      "uk": "Кіровоградська область",
+      "en": "Kirovohrad Oblast"
+    }
+  },
+  {
+    "id": "luhansk",
+    "label": {
+      "uk": "Луганська область",
+      "en": "Luhansk Oblast"
+    }
+  },
+  {
+    "id": "lviv",
+    "label": {
+      "uk": "Львівська область",
+      "en": "Lviv Oblast"
+    }
+  },
+  {
+    "id": "mykolaiv",
+    "label": {
+      "uk": "Миколаївська область",
+      "en": "Mykolaiv Oblast"
+    }
+  },
+  {
+    "id": "odesa",
+    "label": {
+      "uk": "Одеська область",
+      "en": "Odesa Oblast"
+    }
+  },
+  {
+    "id": "poltava",
+    "label": {
+      "uk": "Полтавська область",
+      "en": "Poltava Oblast"
+    }
+  },
+  {
+    "id": "rivne",
+    "label": {
+      "uk": "Рівненська область",
+      "en": "Rivne Oblast"
+    }
+  },
+  {
+    "id": "sumy",
+    "label": {
+      "uk": "Сумська область",
+      "en": "Sumy Oblast"
+    }
+  },
+  {
+    "id": "ternopil",
+    "label": {
+      "uk": "Тернопільська область",
+      "en": "Ternopil Oblast"
+    }
+  },
+  {
+    "id": "kharkiv",
+    "label": {
+      "uk": "Харківська область",
+      "en": "Kharkiv Oblast"
+    }
+  },
+  {
+    "id": "kherson",
+    "label": {
+      "uk": "Херсонська область",
+      "en": "Kherson Oblast"
+    }
+  },
+  {
+    "id": "khmelnytskyi",
+    "label": {
+      "uk": "Хмельницька область",
+      "en": "Khmelnytskyi Oblast"
+    }
+  },
+  {
+    "id": "cherkasy",
+    "label": {
+      "uk": "Черкаська область",
+      "en": "Cherkasy Oblast"
+    }
+  },
+  {
+    "id": "chernivtsi",
+    "label": {
+      "uk": "Чернівецька область",
+      "en": "Chernivtsi Oblast"
+    }
+  },
+  {
+    "id": "chernihiv",
+    "label": {
+      "uk": "Чернігівська область",
+      "en": "Chernihiv Oblast"
+    }
+  },
+  {
+    "id": "crimea",
+    "label": {
+      "uk": "Автономна Республіка Крим",
+      "en": "Autonomous Republic of Crimea"
+    }
+  },
+  {
+    "id": "sevastopol",
+    "label": {
+      "uk": "Севастополь",
+      "en": "Sevastopol"
+    }
+  },
+  {
+    "id": "abroad",
+    "label": {
+      "uk": "За межами України",
+      "en": "Outside Ukraine"
+    }
+  },
+  {
+    "id": "unknown",
+    "label": {
+      "uk": "Невідомо",
+      "en": "Unknown"
+    }
+  }
+]

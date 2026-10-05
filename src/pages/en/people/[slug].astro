@@ -1,0 +1,8 @@
+---
+import PersonView from '../../../views/PersonView.astro';
+import { personPaths } from '../../../lib/paths';
+
+export const getStaticPaths = () => personPaths('en');
+---
+
+<PersonView {...Astro.props} />

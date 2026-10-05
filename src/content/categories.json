@@ -1,0 +1,34 @@
+{
+  "groups": [
+    { "id": "statehood", "label": { "uk": "Державні й військові діячі", "en": "Statesmen & military leaders" } },
+    { "id": "literature", "label": { "uk": "Література", "en": "Literature" } },
+    { "id": "visual-arts", "label": { "uk": "Художники й скульптори", "en": "Painters & sculptors" } },
+    { "id": "performing-arts", "label": { "uk": "Музика, театр і кіно", "en": "Music, stage & screen" } },
+    { "id": "science", "label": { "uk": "Наука й техніка", "en": "Science & technology" } },
+    { "id": "civic", "label": { "uk": "Громадські діячі й правозахисники", "en": "Activists & human-rights defenders" } },
+    { "id": "faith", "label": { "uk": "Релігійні діячі", "en": "Religious leaders" } },
+    { "id": "sport", "label": { "uk": "Спорт", "en": "Sports" } },
+    { "id": "defenders", "label": { "uk": "Захисники", "en": "Defenders" } }
+  ],
+  "tags": [
+    { "id": "politician", "label": { "uk": "Державний діяч", "en": "Statesman" } },
+    { "id": "warrior", "label": { "uk": "Військовий", "en": "Soldier" } },
+    { "id": "poet", "label": { "uk": "Поет", "en": "Poet" } },
+    { "id": "writer", "label": { "uk": "Письменник", "en": "Writer" } },
+    { "id": "artist", "label": { "uk": "Митець", "en": "Artist" } },
+    { "id": "musician", "label": { "uk": "Композитор / музикант", "en": "Composer / musician" } },
+    { "id": "dancer", "label": { "uk": "Танцівник / хореограф", "en": "Dancer / choreographer" } },
+    { "id": "singer", "label": { "uk": "Співак / співачка", "en": "Singer" } },
+    { "id": "economist", "label": { "uk": "Економіст", "en": "Economist" } },
+    { "id": "filmmaker", "label": { "uk": "Кінематографіст", "en": "Filmmaker" } },
+    { "id": "actor", "label": { "uk": "Актор / акторка", "en": "Actor" } },
+    { "id": "scientist", "label": { "uk": "Науковець", "en": "Scientist" } },
+    { "id": "inventor", "label": { "uk": "Винахідник / інженер", "en": "Inventor / engineer" } },
+    { "id": "physician", "label": { "uk": "Лікар", "en": "Physician" } },
+    { "id": "philosopher", "label": { "uk": "Філософ", "en": "Philosopher" } },
+    { "id": "human-rights", "label": { "uk": "Правозахисник", "en": "Human rights defender" } },
+    { "id": "religious", "label": { "uk": "Релігійний діяч", "en": "Religious leader" } },
+    { "id": "athlete", "label": { "uk": "Спортсмен", "en": "Athlete" } },
+    { "id": "entrepreneur", "label": { "uk": "Підприємець", "en": "Entrepreneur" } }
+  ]
+}

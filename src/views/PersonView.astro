@@ -1,0 +1,166 @@
+---
+import { render } from 'astro:content';
+import { getImage } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PersonCard from '../components/PersonCard.astro';
+import Portrait from '../components/Portrait.astro';
+import MisconceptionCard from '../components/MisconceptionCard.astro';
+import {
+  tagLabel,
+  groupLabel,
+  eraLabel,
+  regionLabel,
+  lifespan,
+  fullDate,
+  groupUrl,
+  localePath,
+  portraitVideo,
+  type Person,
+} from '../lib/people';
+import { t } from '../i18n';
+import { personLd, breadcrumbLd } from '../lib/structured-data';
+
+interface Props {
+  person: Person;
+  people: Person[];
+}
+
+const { person, people } = Astro.props;
+const { data, lang } = person;
+const { Content } = await render(person.body);
+// Only link related people that are published in this build.
+const related = data.related
+  .map((slug) => people.find((p) => p.slug === slug))
+  .filter((p): p is Person => Boolean(p));
+// Backup "read next" suggestions: people from the same group, closest in time. They stay hidden
+// unless every related person is already read (decided in the browser, see read-marks.ts).
+const years = (p: Person) => Math.abs(p.data.born.getTime() - data.born.getTime());
+const fallback = people
+  .filter((p) => p.data.group === data.group && p.slug !== person.slug && !data.related.includes(p.slug))
+  .sort((a, b) => years(a) - years(b))
+  .slice(0, 8);
+const pageUrl = new URL(Astro.url.pathname, Astro.site);
+const ldImage = data.image ? new URL((await getImage({ src: data.image.src, width: 720, format: 'jpg' })).src, Astro.site) : undefined;
+const structuredData = [
+  personLd(person, pageUrl, ldImage),
+  breadcrumbLd([
+    { name: t('site.title', lang), url: new URL(localePath(lang, '/'), Astro.site) },
+    { name: groupLabel(data.group, lang), url: new URL(groupUrl(data.group, lang), Astro.site) },
+    { name: data.name, url: pageUrl },
+  ]),
+];
+const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birthplace.region, lang);
+---
+
+<BaseLayout lang={lang} title={data.name} description={data.summary} ogImage={`/og/${lang}/${person.slug}.jpg`} structuredData={structuredData}>
+
+  <article class="profile" data-read-slug={person.slug}>
+    <header class="profile-head">
+      <p class="profile-years">{lifespan(person)}</p>
+      <h1 class="profile-name">{data.name}</h1>
+      <p class="profile-role">{data.role}</p>
+      <p class="profile-tags">{data.tags.map((tag) => tagLabel(tag, lang)).join(', ')}</p>
+    </header>
+
+    <aside class="profile-facts" aria-labelledby="facts-title">
+      <Portrait person={person} class="profile-portrait" widths={[320, 480, 720]} sizes="(min-width: 64rem) 20rem, 100vw" loading="eager" animated />
+      <h2 id="facts-title" class="visually-hidden">{t('person.facts', lang)}</h2>
+      <button
+        type="button"
+        class="read-toggle"
+        data-read-toggle
+        hidden
+        aria-pressed="false"
+        data-label-read={t('read.done', lang)}
+        data-label-unread={t('read.mark', lang)}></button>
+      <dl>
+        <div>
+          <dt>{t('person.born', lang)}</dt>
+          <dd>{fullDate(data.born, data.born_circa, lang)}</dd>
+        </div>
+        {
+          data.died && (
+            <div>
+              <dt>{t('person.died', lang)}</dt>
+              <dd>{fullDate(data.died, data.died_circa, lang)}</dd>
+            </div>
+          )
+        }
+        <div>
+          <dt>{t('person.birthplace', lang)}</dt>
+          <dd>{data.birthplace.name}{region && <span class="profile-region">{region}</span>}</dd>
+        </div>
+        <div>
+          <dt>{t('person.era', lang)}</dt>
+          <dd><a href={localePath(lang, `/?era=${data.era}`)}>{eraLabel(data.era, lang)}</a></dd>
+        </div>
+        <div>
+          <dt>{t('person.group', lang)}</dt>
+          <dd><a href={groupUrl(data.group, lang)}>{groupLabel(data.group, lang)}</a></dd>
+        </div>
+      </dl>
+    </aside>
+
+    <div class="profile-body">
+      <p class="profile-summary">{data.summary}</p>
+
+      <aside class="fun-fact" aria-labelledby="fun-fact-title">
+        <h2 id="fun-fact-title">{t('person.fun_fact', lang)}</h2>
+        <p>{data.fun_fact}</p>
+      </aside>
+
+      {
+        data.misconception && (
+          <MisconceptionCard claim={data.misconception.claim} truth={data.misconception.truth} lang={lang} />
+        )
+      }
+
+      <section aria-labelledby="accomplishments-title">
+        <h2 id="accomplishments-title">{t('person.accomplishments', lang)}</h2>
+        <ul class="accomplishments">
+          {data.key_accomplishments.map((a) => <li>{a}</li>)}
+        </ul>
+      </section>
+
+      {person.bodyFallback && <p class="translation-note">{t('person.translation_pending', lang)}</p>}
+      <div class="prose" lang={person.bodyFallback ? 'uk' : undefined}>
+        <Content />
+      </div>
+
+      <footer class="profile-sources" data-read-end>
+        <h2>{t('person.sources', lang)}</h2>
+        <ul>
+          {data.sources.map((s) => (
+            <li><a href={s.url}>{s.title}</a></li>
+          ))}
+        </ul>
+        {
+          data.image && (
+            <p>
+              {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, {data.image.license}
+              {portraitVideo(person) && `; ${t('person.image_animated', lang)}`}
+            </p>
+          )
+        }
+        {data.living && <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>}
+      </footer>
+    </div>
+  </article>
+
+  {
+    (related.length > 0 || fallback.length > 0) && (
+      // Without JS: shows the related people (or nothing if there are none).
+      <section class="related" aria-labelledby="related-title" data-read-next hidden={related.length === 0 || undefined}>
+        <h2 id="related-title" class="section-title">{t('person.related', lang)}</h2>
+        <ul class="shelf" role="list">
+          {related.map((p) => (
+            <PersonCard person={p} />
+          ))}
+          {fallback.map((p) => (
+            <PersonCard person={p} fallback />
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</BaseLayout>

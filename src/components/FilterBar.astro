@@ -1,0 +1,58 @@
+---
+import { groups, eras, regionLabel, type Person } from '../lib/people';
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  people: Person[];
+  lang: Lang;
+  // On a category page the group is fixed, so the group dropdown is not shown.
+  hideGroup?: boolean;
+}
+
+const { people, lang, hideGroup = false } = Astro.props;
+// Only offer options that actually have people, so no filter leads to an empty page.
+const used = (key: (p: Person) => string) => new Set(people.map(key));
+const usedGroups = used((p) => p.data.group);
+const usedEras = used((p) => p.data.era);
+const regionIds = [...used((p) => p.data.birthplace.region)].sort((a, b) =>
+  regionLabel(a, lang).localeCompare(regionLabel(b, lang), lang),
+);
+---
+
+<!-- Needs JavaScript; hidden without it (noscript style in BaseLayout), where the full list is shown instead. -->
+<form class="filters" role="search" aria-label={t('filter.label', lang)}>
+  <input
+    class="filters-search"
+    type="search"
+    name="q"
+    placeholder={t('filter.search', lang)}
+    aria-label={t('filter.search', lang)}
+    autocomplete="off"
+  />
+  {
+    hideGroup ? (
+      <input type="hidden" name="group" value="" />
+    ) : (
+      <select name="group" aria-label={t('filter.group_all', lang)}>
+        <option value="">{t('filter.group_all', lang)}</option>
+        {groups.filter((g) => usedGroups.has(g.id)).map((g) => <option value={g.id}>{g.label[lang]}</option>)}
+      </select>
+    )
+  }
+  <select name="era" aria-label={t('filter.era_all', lang)}>
+    <option value="">{t('filter.era_all', lang)}</option>
+    {eras.filter((e) => usedEras.has(e.id)).map((e) => <option value={e.id}>{e.label[lang]}</option>)}
+  </select>
+  <select name="region" aria-label={t('filter.region_all', lang)}>
+    <option value="">{t('filter.region_all', lang)}</option>
+    {regionIds.map((id) => <option value={id}>{regionLabel(id, lang)}</option>)}
+  </select>
+  <label class="filters-unread">
+    <input type="checkbox" name="unread" value="1" />
+    <span>{t('filter.unread', lang)}</span>
+  </label>
+  <button type="reset" class="filters-reset">{t('filter.reset', lang)}</button>
+  {/* Filled in by the filter script from this browser's read marks. */}
+  <p class="read-progress" data-template={t('read.progress', lang)} aria-live="polite"></p>
+  <p class="filters-status" role="status" aria-live="polite" data-found={t('filter.found', lang)}></p>
+</form>

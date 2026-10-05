@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PersonCard from '../components/PersonCard.astro';
+import { getPeople, additionBatches, fullDate, localePath } from '../lib/people';
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const batches = additionBatches(await getPeople(lang));
+---
+
+<BaseLayout lang={lang} title={t('new.title', lang)} description={t('new.lead', lang)}>
+  <header class="page-head">
+    <h1 class="page-title">{t('new.title', lang)}</h1>
+    <p class="page-lead">
+      {t('new.lead', lang)} <a href={localePath(lang, '/rss.xml')}>{t('new.rss', lang)}</a>
+    </p>
+  </header>
+
+  {
+    batches.map((b) => (
+      <section class="batch" aria-labelledby={`batch-${b.date.getTime()}`}>
+        <h2 id={`batch-${b.date.getTime()}`} class="section-title">
+          {b.atLaunch ? t('new.at_launch', lang) : t('new.added_on', lang, { date: fullDate(b.date, false, lang) })}{' '}
+          <span class="section-count">{b.people.length}</span>
+        </h2>
+        <ul class="shelf shelf-wrap" role="list">
+          {b.people.map((p) => (
+            <PersonCard person={p} />
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</BaseLayout>

@@ -1,0 +1,20 @@
+---
+// The site root sends visitors to the Ukrainian home page (/uk/).
+// On Cloudflare Pages, public/_redirects does this as a real HTTP redirect; this page is the
+// fallback for other hosts (instant meta refresh, plus plain links if that is blocked).
+const target = '/uk/';
+---
+
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={new URL(target, Astro.site)} />
+    <title>Знай своїх</title>
+  </head>
+  <body>
+    <p><a href={target}>Знай своїх</a> · <a href="/en/">Know Your Own</a></p>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+name: CI
+
+# Every push to main and every pull request runs all checks; main also deploys to Cloudflare Pages.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Dependency advisories (fails on any not yet reviewed)
+        run: node scripts/check-audit.mjs
+      - run: npm run check
+      - run: npm test
+      - run: npm run build
+      - name: Nothing private in the deploy folder
+        run: node scripts/check-dist.mjs dist
+      # AC10 on mobile: performance >= 90, accessibility >= 95, best practices and SEO >= 90
+      # (lighthouserc.json, which includes one published profile page).
+      # Smoke tests in a real browser against dist/ served with the production headers (e2e/).
+      - name: Browser smoke tests
+        run: |
+          npx playwright install --with-deps chromium
+          npx playwright test
+      - name: Lighthouse budget
+        run: npx --yes @lhci/cli@0.15 autorun
+      # Deploys only from main, and only once Cloudflare secrets are configured.
+      - name: Deploy to Cloudflare Pages
+        if: github.ref == 'refs/heads/main' && env.CLOUDFLARE_API_TOKEN != ''
+        run: npx wrangler@latest pages deploy dist --project-name=namesofukraine --branch=main
