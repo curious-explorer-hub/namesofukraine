@@ -79,5 +79,6 @@
   "notfound.lead": "There is no page at this address: it may have a typo, or the link may be out of date.",
   "notfound.home": "Go to the home page",
   "notfound.suggest": "Looking for someone who isn't here yet? Suggest them",
-  "notfound.other": "Page not found. Go to the English version"
+  "notfound.other": "Page not found. Go to the English version",
+  "person.report": "Spotted a mistake or have something to add? Tell us"
 }

@@ -2,6 +2,7 @@
 import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SUGGEST_FORM_URL } from '../site';
+import { suggestEmbedUrl } from '../lib/suggest';
 import eras from '../content/eras.json';
 import hero from '../content/hero.json';
 import { t, type Lang } from '../i18n';
@@ -50,7 +51,7 @@ const { Content } = await render(entry);
       <section class="suggest-form" aria-label={t('suggest.form_label', lang)}>
         {SUGGEST_FORM_URL ? (
           <>
-            <iframe src={SUGGEST_FORM_URL} title={t('suggest.form_label', lang)} loading="lazy" />
+            <iframe src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} data-suggest-form data-lang={lang} title={t('suggest.form_label', lang)} loading="lazy" />
             <p><a href={SUGGEST_FORM_URL}>{t('suggest.open_form', lang)}</a></p>
           </>
         ) : (
@@ -60,3 +61,14 @@ const { Content } = await render(entry);
     )
   }
 </BaseLayout>
+
+<script>
+  // A "Report a mistake" link on a profile opens /suggest/?type=correction&profile=<slug>: pass that on
+  // to the embedded form, so the message arrives tagged with the profile.
+  import { suggestEmbedUrl } from '../lib/suggest';
+  const frame = document.querySelector<HTMLIFrameElement>('[data-suggest-form]');
+  const params = new URLSearchParams(location.search);
+  if (frame && (params.has('profile') || params.has('type'))) {
+    frame.src = suggestEmbedUrl(frame.src, { lang: frame.dataset.lang ?? 'uk', type: params.get('type'), profile: params.get('profile') });
+  }
+</script>
