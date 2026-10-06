@@ -27,8 +27,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 // Every page exists in both languages at the same path under /uk/ or /en/.
 const basePath = Astro.url.pathname.replace(/^\/(uk|en)(?=\/|$)/, '') || '/';
 const pathIn = (l: Lang) => localePath(l, basePath);
-const other: Lang = lang === 'uk' ? 'en' : 'uk';
 const home = localePath(lang, '/');
+const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
 ---
 
 <!doctype html>
@@ -79,11 +79,19 @@ const home = localePath(lang, '/');
           <span class="logo-text">{t('site.title', lang)}</span>
         </a>
         <nav class="site-nav" aria-label={t('nav.label', lang)}>
-          <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label={t('theme.dark', lang)} title={t('theme.dark', lang)}>
-            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z" /></svg>
-            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.5" /><path d="M12 1.5v2.5M12 20v2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M1.5 12H4M20 12h2.5M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8" /></svg>
+          <!-- Two pill switches with a thumb that slides to the active option (styles: global.css, "Header switches") -->
+          <button class="switch theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label={t('theme.dark', lang)} title={t('theme.dark', lang)}>
+            <span class="switch-thumb" aria-hidden="true"></span>
+            <span class="switch-option" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5" /><path d="M12 1.5v2.5M12 20v2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M1.5 12H4M20 12h2.5M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8" /></svg></span>
+            <span class="switch-option" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z" /></svg></span>
           </button>
-          <a class="nav-link lang-switch" href={pathIn(other)} hreflang={other} lang={other} aria-label={t('lang.switch_label', lang)}><span class="lang-long">{t('lang.switch', lang)}</span><span class="lang-short" aria-hidden="true">{t('lang.switch_short', lang)}</span></a>
+          <!-- Plain links, so it works without JavaScript; the thumb slides across the page change (view transition) -->
+          <div class="switch lang-toggle" role="group" aria-label={t('lang.label', lang)} data-active={lang}>
+            <span class="switch-thumb" aria-hidden="true"></span>
+            {languages.map((l) => (
+              <a class="switch-option" href={pathIn(l)} hreflang={l} lang={l} aria-current={l === lang ? 'true' : undefined} aria-label={l === lang ? undefined : t('lang.switch_label', lang)}>{langShort[l]}</a>
+            ))}
+          </div>
         </nav>
       </div>
     </header>

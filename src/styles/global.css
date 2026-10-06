@@ -74,6 +74,9 @@
 @media (prefers-reduced-motion: no-preference) {
   @view-transition { navigation: auto; }
   .site-header { view-transition-name: site-header; }
+  /* The language thumb slides from one option to the other across the page change */
+  .lang-toggle .switch-thumb { view-transition-name: lang-thumb; }
+  ::view-transition-group(lang-thumb) { animation-duration: 320ms; animation-timing-function: cubic-bezier(0.3, 0.7, 0.2, 1.15); }
   .profile-portrait { view-transition-name: portrait; }
   ::view-transition-old(root),
   ::view-transition-new(root) { animation-duration: 220ms; }
@@ -105,22 +108,73 @@ a { color: var(--cobalt); }
 .nav-link { font-weight: 500; color: var(--ink); text-decoration-thickness: 1.5px; text-underline-offset: 0.2em; }
 .nav-link:hover { color: var(--cobalt); }
 .site-nav { display: flex; gap: 1.25rem; align-items: center; white-space: nowrap; }
-.lang-short { display: none; }
-/* Theme toggle: a moon in the light theme, a sun in the dark one */
 :root[data-theme='light'] { color-scheme: light; }
 :root[data-theme='dark'] { color-scheme: dark; }
-.theme-toggle { display: inline-grid; place-items: center; padding: 0.55rem; margin: -0.55rem; border: 0; background: none; color: var(--ink); cursor: pointer; border-radius: 999px; }
-.theme-toggle:hover { color: var(--cobalt); }
-.theme-toggle svg { width: 1.25rem; height: 1.25rem; }
-.theme-toggle .icon-sun { display: none; }
-:root[data-theme='dark'] .theme-toggle .icon-sun { display: block; }
-:root[data-theme='dark'] .theme-toggle .icon-moon { display: none; }
-/* A 44×44 px tap area (it is a short "EN" on phones); the negative margin keeps the layout unchanged */
-.lang-switch { display: inline-block; padding: 0.65rem 0.75rem; margin: -0.65rem -0.75rem; }
+
+/* Header switches: theme (sun | moon) and language (УКР | EN). Both options are always shown; a thumb
+   slides to the active one. 44 px tall, so each option is a full tap target. */
+.switch {
+  position: relative;
+  display: inline-grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  padding: 3px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--mist);
+  color: var(--slate);
+  font: inherit;
+}
+.switch-option {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  min-width: 2.6rem;
+  height: 2.375rem;
+  padding: 0 0.7rem;
+  border-radius: 999px;
+  color: inherit;
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  transition: color 250ms ease;
+}
+.switch-option svg { width: 1.15rem; height: 1.15rem; }
+.switch-thumb {
+  position: absolute;
+  top: 3px;
+  bottom: 3px;
+  left: 3px;
+  width: calc(50% - 3px);
+  border-radius: 999px;
+  background: var(--ink);
+  box-shadow: 0 1px 4px color-mix(in srgb, var(--ink) 25%, transparent);
+  transition: transform 320ms cubic-bezier(0.3, 0.7, 0.2, 1.15);
+}
+.theme-toggle { cursor: pointer; }
+:root[data-theme='dark'] .theme-toggle .switch-thumb,
+.lang-toggle[data-active='en'] .switch-thumb { transform: translateX(100%); }
+:root:not([data-theme='dark']) .theme-toggle .switch-option:nth-child(2),
+:root[data-theme='dark'] .theme-toggle .switch-option:nth-child(3),
+.lang-toggle .switch-option[aria-current] { color: var(--paper); }
+.theme-toggle:hover .switch-option,
+.lang-toggle .switch-option:not([aria-current]):hover { color: var(--ink); }
+:root:not([data-theme='dark']) .theme-toggle:hover .switch-option:nth-child(2),
+:root[data-theme='dark'] .theme-toggle:hover .switch-option:nth-child(3) { color: var(--paper); }
+@media (prefers-reduced-motion: reduce) {
+  .switch-thumb, .switch-option { transition: none; }
+}
 @media (max-width: 30rem) {
-  .site-nav { gap: 0.9rem; }
-  .lang-long { display: none; }
-  .lang-short { display: inline; }
+  .site-nav { gap: 0.5rem; }
+  .logo-text { white-space: nowrap; }
+  .switch-option { min-width: 2.2rem; padding: 0 0.45rem; font-size: 0.8125rem; }
+  .switch-option svg { width: 1.05rem; height: 1.05rem; }
+}
+/* The smallest phones: the mark alone (the link keeps its label) */
+@media (max-width: 21rem) {
+  .logo-text { display: none; }
 }
 .nav-link[aria-current='page'] { color: var(--cobalt); text-decoration-color: var(--wheat); text-decoration-thickness: 3px; }
 .recent-more { margin: 0.75rem 0 0; font-weight: 500; }

@@ -24,11 +24,11 @@ test('filters and search narrow the list, and going back from a profile keeps th
 
 test('the language switch keeps the same person', async ({ page }) => {
   await page.goto('/uk/people/roksolana/');
-  await page.locator('.lang-switch').click();
+  await page.locator('.lang-toggle a:not([aria-current])').click();
   await expect(page).toHaveURL(/\/en\/people\/roksolana\/$/);
   await expect(page.locator('html')).toHaveAttribute('lang', 'en');
 
-  await page.locator('.lang-switch').click();
+  await page.locator('.lang-toggle a:not([aria-current])').click();
   await expect(page).toHaveURL(/\/uk\/people\/roksolana\/$/);
   await expect(page.locator('html')).toHaveAttribute('lang', 'uk');
 });

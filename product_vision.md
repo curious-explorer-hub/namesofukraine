@@ -67,7 +67,7 @@ Then: key accomplishments · the story · why it matters today · debates and as
 - **Content files:** one Markdown file per person per language (`src/content/people/{uk,en}/<slug>.md`). Facts that don't depend on language (dates, places, group, sources, image) live only in the Ukrainian file. Schema: `src/content.config.ts`. Name forms for cross-links: `src/content/aliases.json`.
 
 ### 3.4 Two languages
-- **AC7** Every page exists in Ukrainian (`/uk/…`) and English (`/en/…`), with a switcher that keeps the page, and `hreflang` tags. `/` redirects to `/uk/`.
+- **AC7** Every page exists in Ukrainian (`/uk/…`) and English (`/en/…`), with a УКР | EN switch in the header that keeps the page (plain links, so it works without JavaScript), and `hreflang` tags. `/` redirects to `/uk/`.
 - **AC8** A profile is public only when **both** languages are reviewed (D3-R).
 - **AC9** English uses the official Ukrainian transliteration (Kyiv, Kharkiv, Mykola, surnames in -skyi) and adds context a foreigner needs.
 
@@ -75,7 +75,7 @@ Then: key accomplishments · the story · why it matters today · debates and as
 - Editorial and minimalist: white space, strong type (self-hosted Fixel, full Cyrillic), restrained colour. Ukrainian heritage as accents (cobalt, wheat gold, the stitch-rhombus mark), not flag clichés. A colour per field and per era.
 - **Portraits** in full colour; black-and-white or damaged photos colorized or restored with AI and credited as such (D6, D16).
 - Subtle motion (portrait transition from card to profile, hover light, sliding highlights) that respects `prefers-reduced-motion`.
-- **AC18 Light and dark theme** on every page: follows the system until the visitor picks one with the header toggle (saved in this browser); no flash on load.
+- **AC18 Light and dark theme** on every page: follows the system until the visitor picks one with the sun | moon switch in the header (saved in this browser); no flash on load. Both header switches show both options, with a thumb that slides to the active one.
 - **AC10** Lighthouse on mobile: Performance ≥ 90, Accessibility ≥ 95, SEO ≥ 90, Best Practices ≥ 90 (enforced in CI).
 - **AC11** WCAG 2.2 AA in both themes: contrast, keyboard use, focus, alt text, `lang` per page.
 
