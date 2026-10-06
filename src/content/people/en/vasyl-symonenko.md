@@ -10,7 +10,7 @@ key_accomplishments:
   - "Excerpts from his diary, Crusts of Thoughts, published in the journal Suchasnist in 1965"
   - "Posthumously awarded the Taras Shevchenko State Prize of Ukraine (1995)"
 birthplace_name: "Biivtsi"
-image_alt: "Ukrainian postage stamp “Vasyl Symonenko. 1935–1963” (2015)"
+image_alt: "Photo portrait of Vasyl Symonenko"
 reviewed: true
 ---
 

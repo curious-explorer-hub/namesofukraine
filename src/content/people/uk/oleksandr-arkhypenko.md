@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Олександра Архипенка"
   author: "Los Angeles Times"
   license: "CC BY 4.0"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Alexander_Archipenko.jpg"
 key_accomplishments:
   - Одним із перших використав порожнину й отвір як виразний елемент скульптури

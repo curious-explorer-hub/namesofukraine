@@ -13,11 +13,11 @@ fun_fact: "Симоненко писав і для дітей: його казк
 birthplace: { name: "Біївці", region: poltava, country: UA, lat: 50.144, lon: 32.904 }
 image:
   src: ./images/vasyl-symonenko.jpg
-  alt: "Поштова марка України «Василь Симоненко. 1935–1963» (2015)"
-  position: "41% 45%"
-  author: "Укрпошта (художник Василь Василенко)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Stamp_of_Ukraine_s1421.jpg"
+  alt: "Фотопортрет Василя Симоненка"
+  author: "Невідомий автор"
+  license: "Public domain (Ukraine)"
+  ai_edit: colorized
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE.jpg"
 key_accomplishments:
   - Єдина прижиттєва збірка поезій «Тиша і грім» (1962)
   - Самвидавні вірші, з яких значною мірою почався український опозиційний рух 1960–1970-х років
