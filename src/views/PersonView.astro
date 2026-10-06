@@ -64,7 +64,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
     </header>
 
     <aside class="profile-facts" aria-labelledby="facts-title">
-      <Portrait person={person} class="profile-portrait" widths={[320, 480, 720]} sizes="(min-width: 64rem) 20rem, 100vw" loading="eager" fairUse />
+      <Portrait person={person} class="profile-portrait" widths={[320, 480, 720]} sizes="(min-width: 64rem) 20rem, 100vw" loading="eager" />
       <h2 id="facts-title" class="visually-hidden">{t('person.facts', lang)}</h2>
       <button
         type="button"

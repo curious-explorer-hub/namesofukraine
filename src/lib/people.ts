@@ -58,7 +58,7 @@ export const getPeople = async (lang: Lang = 'uk'): Promise<Person[]> => {
 
 // Paths: Ukrainian at the root, English under /en.
 // Both languages live under their own prefix: /uk/… and /en/… (the site root redirects to /uk/).
-// The portrait for every use outside the person's own page: fair-use images are left out there.
+// The portrait for uses that copy it off the site (share cards, structured data): fair-use images are left out.
 export const freeImage = (p: Person) => (p.data.image?.fair_use ? undefined : p.data.image);
 
 export const localePath = (lang: Lang, path: string) => `/${lang}${path}`;

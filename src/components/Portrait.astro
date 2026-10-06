@@ -1,6 +1,6 @@
 ---
 import { Image } from 'astro:assets';
-import { freeImage, type Person } from '../lib/people';
+import type { Person } from '../lib/people';
 
 interface Props {
   person: Person;
@@ -8,12 +8,10 @@ interface Props {
   widths: number[];
   class?: string;
   loading?: 'lazy' | 'eager';
-  // Profile page only: also show a fair-use portrait (elsewhere it falls back to the monogram).
-  fairUse?: boolean;
 }
 
-const { person, sizes, widths, class: className, loading = 'lazy', fairUse = false } = Astro.props;
-const image = fairUse ? person.data.image : freeImage(person);
+const { person, sizes, widths, class: className, loading = 'lazy' } = Astro.props;
+const image = person.data.image;
 // Faces sit in the upper part of most portraits.
 const position = image?.position ?? '50% 22%';
 const words = person.data.name.split(/\s+/);
@@ -33,7 +31,7 @@ const initials = [words[0], words.length > 1 ? words.at(-1) : undefined].map((w)
       />
     </div>
   ) : (
-    // No portrait that may be shown here: the name is already next to it, so the monogram is decorative.
+    // No freely licensed portrait: the name is already next to it, so the monogram is decorative.
     <div class:list={['portrait', 'portrait-monogram', className]} aria-hidden="true">
       <span>{initials}</span>
     </div>
