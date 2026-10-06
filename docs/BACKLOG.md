@@ -48,7 +48,6 @@ Not scheduled. IDs (I…) keep the numbers they had in the vision doc's old feat
   - **B. Test:** fail on one-way links (unless marked intentional) and list unlinked mentions, using `src/content/aliases.json` (name forms per slug, including declined forms).
   - **C. Later:** link the first mention of each profiled person in the story text at build time (remark plugin, same alias file, never inside quotes).
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked, then was removed pending refinement. `places[]` and `quotes[]` exist in the schema but are empty everywhere. Open: keeping a timeline in sync with the prose; real map vs a list of OpenStreetMap links; whether every profile needs all three.
-- **I15. Animated portraits** ⏸️ paused 2026-10-03 (some clips read as disrespectful); `ANIMATED_PORTRAITS = false` in `src/site.ts`. 12 clips and their `animate: true` flags are kept; approved motion and workflow in [prompts/revitalize-portraits.md](prompts/revitalize-portraits.md). Resume only with an owner opt-in per person.
 
 ### Home page
 - **I18. Home page that stays short as the catalogue grows.** Goal: one or two screens on desktop, easy to scan on a phone.

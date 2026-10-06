@@ -16,11 +16,12 @@ misconception:
 birthplace: { name: "Звягель", region: zhytomyr, country: UA, lat: 50.583, lon: 27.633 }
 image:
   src: ./images/lesya-ukrainka.jpg
-  alt: "Леся Українка, фотографія Йогана Кшановського, 1901"
+  alt: "Фотопортрет Лесі Українки, 1886"
   position: "50% 30%"
-  author: "Йоган Кшановський"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Lesya_Ukrainka_1901_(facecrop).jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Lesya_Ukrainka_portrait.jpg"
 key_accomplishments:
   - Драма-феєрія «Лісова пісня» (1911)
   - Драми «Камінний господар», «Бояриня», «Кассандра», «Одержима»

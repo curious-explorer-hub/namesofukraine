@@ -1,11 +1,8 @@
-import { existsSync } from 'node:fs';
-import { join } from 'node:path';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import categories from '../content/categories.json';
 import eras from '../content/eras.json';
 import regions from '../content/regions.json';
 import { t, type Lang } from '../i18n';
-import { ANIMATED_PORTRAITS } from '../site';
 
 type Profile = CollectionEntry<'people'>;
 type Translation = CollectionEntry<'people_en'>;
@@ -61,11 +58,6 @@ export const getPeople = async (lang: Lang = 'uk'): Promise<Person[]> => {
 
 // Paths: Ukrainian at the root, English under /en.
 // Both languages live under their own prefix: /uk/… and /en/… (the site root redirects to /uk/).
-// The animated portrait, if animation is on site-wide, this person opted in, and the clip has been generated.
-export const portraitVideo = (p: Person) =>
-  ANIMATED_PORTRAITS &&
-  p.data.animate && existsSync(join(process.cwd(), 'public/portraits', `${p.slug}.mp4`)) ? `/portraits/${p.slug}.mp4` : null;
-
 export const localePath = (lang: Lang, path: string) => `/${lang}${path}`;
 export const personUrl = (p: Person) => localePath(p.lang, `/people/${p.slug}/`);
 export const groupUrl = (id: string, lang: Lang = 'uk') => localePath(lang, `/groups/${id}/`);

@@ -33,7 +33,6 @@ sources:
   - title: Wikipedia (EN) - Valeriy Lobanovskyi
     url: https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi
 related: []
-animate: true
 reviewed: true
 ---
 

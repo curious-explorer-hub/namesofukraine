@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Марка Вовчка (Марії Вілінської)"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Marko_Vovchok.jpg"
 key_accomplishments:
   - "Збірка «Народні оповідання» (1857; другий том - 1862) про життя кріпацького селянства"

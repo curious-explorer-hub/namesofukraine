@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Івана Франка"
   author: "M. Nikopoli"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D0%B2%D0%B0%D0%BD_%D0%AF%D0%BA%D0%BE%D0%B2%D0%B8%D1%87_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE.jpg"
 key_accomplishments:
   - Поема «Мойсей», повісті «Захар Беркут», «Борислав сміється», вірш «Каменярі»
@@ -33,7 +34,6 @@ sources:
   - title: Wikipedia (EN) - Ivan Franko
     url: https://en.wikipedia.org/wiki/Ivan_Franko
 related: [taras-shevchenko, lesya-ukrainka]
-animate: true
 reviewed: true
 ---
 

@@ -33,7 +33,6 @@ sources:
   - title: Wikipedia (EN) - Mykhailo Hrushevsky
     url: https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky
 related: [ivan-franko, volodymyr-vernadskyi]
-animate: true
 reviewed: true
 ---
 

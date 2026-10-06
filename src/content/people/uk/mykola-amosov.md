@@ -35,7 +35,6 @@ sources:
   - title: Wikipedia (EN) - Nikolai Amosov
     url: https://en.wikipedia.org/wiki/Nikolai_Amosov
 related: [volodymyr-vernadskyi]
-animate: true
 reviewed: true
 ---
 

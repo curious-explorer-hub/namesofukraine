@@ -34,7 +34,6 @@ sources:
   - title: Wikipedia (EN) - Alexander Archipenko
     url: https://en.wikipedia.org/wiki/Alexander_Archipenko
 related: [kateryna-bilokur]
-animate: true
 reviewed: true
 ---
 

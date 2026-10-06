@@ -9,7 +9,7 @@ key_accomplishments:
   - "Guiding spirit and a co-founder of the literary organization VAPLITE (1925)"
   - "Pamphlets of 1925–1926 calling for a “psychological Europe”"
 birthplace_name: "Trostianets"
-image_alt: "Mykola Khvylovyi, photograph by O. Korenevych, 1928"
+image_alt: "Photo portrait of Mykola Khvylovyi, before 1933"
 reviewed: true
 ---
 

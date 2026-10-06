@@ -13,11 +13,12 @@ fun_fact: "Хвильовий - це псевдонім; справжнє прі
 birthplace: { name: "Тростянець", region: sumy, country: UA, lat: 50.481, lon: 34.965 }
 image:
   src: ./images/mykola-khvylovyi.jpg
-  alt: "Микола Хвильовий, фотографія О. Кореневича, 1928"
+  alt: "Фотопортрет Миколи Хвильового, до 1933"
   position: "50% 30%"
-  author: "О. Кореневич"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Khvylovy.jpg"
+  ai_edit: restored
+  source_url: "https://commons.wikimedia.org/wiki/File:MykolaHvylovyukraine.jpg"
 key_accomplishments:
   - Збірки новел «Сині етюди» та «Осінь», новела «Я (Романтика)»
   - Ідейний провідник і один з ініціаторів літературної організації ВАПЛІТЕ (1925)

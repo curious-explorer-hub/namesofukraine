@@ -32,7 +32,6 @@ sources:
   - title: Вікіпедія - Марія Заньковецька
     url: https://uk.wikipedia.org/wiki/Марія_Заньковецька
 related: [solomiia-krushelnytska, vira-kholodna]
-animate: true
 reviewed: true
 ---
 

@@ -35,7 +35,6 @@ sources:
   - title: Wikipedia (EN) - Vladimir Vernadsky
     url: https://en.wikipedia.org/wiki/Vladimir_Vernadsky
 related: [serhii-korolov, mykola-amosov]
-animate: true
 reviewed: true
 ---
 

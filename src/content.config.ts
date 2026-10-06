@@ -48,13 +48,12 @@ const people = defineCollection({
           .array(z.object({ name: z.string(), lat: z.number(), lon: z.number(), note: z.string() }))
           .default([]),
         // `position` is the CSS object-position used to crop to the face (default: centred, upper third)
-        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ...credit }).optional(),
+        // `ai_edit`: the photo was colorized or restored with AI (Gemini); the credit says so.
+        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored']).optional(), ...credit }).optional(),
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
         gallery: z.array(z.object({ src: image(), caption: z.string(), ...credit })).default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),
-        // Opt-in AI-animated portrait (public/portraits/<slug>.mp4, made by scripts/revitalize-photos.mjs)
-        animate: z.boolean().default(false),
         reviewed: z.boolean().default(false),
       })
       .refine((p) => p.living || p.died, { message: 'Set `died` or `living: true`' }),

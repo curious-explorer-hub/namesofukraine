@@ -39,7 +39,6 @@ sources:
   - title: "The Public Domain Review - Black Squares before Malevich"
     url: "https://publicdomainreview.org/essay/black-squares-before-malevich/"
 related: [oleksandr-arkhypenko]
-animate: true
 reviewed: true
 ---
 

@@ -32,7 +32,6 @@ sources:
   - title: Wikipedia (EN) - Kateryna Bilokur
     url: https://en.wikipedia.org/wiki/Kateryna_Bilokur
 related: [taras-shevchenko]
-animate: true
 reviewed: true
 ---
 

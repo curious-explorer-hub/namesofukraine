@@ -17,6 +17,7 @@ image:
   position: "50% 30%"
   author: "Володимир Гольдфайн"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%86%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE.jpg"
 key_accomplishments:
   - Повість «Тіні забутих предків» (1911) про життя гуцулів

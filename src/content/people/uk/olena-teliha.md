@@ -17,6 +17,7 @@ image:
   position: "50% 35%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Теліга_О.jpg"
 key_accomplishments:
   - "Вірші й публіцистика у «Віснику» Дмитра Донцова (з 1933); посмертна збірка «Душа на сторожі» (1946)"

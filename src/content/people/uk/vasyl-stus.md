@@ -19,6 +19,7 @@ image:
   alt: "Фото Василя Стуса з кримінальної справи КДБ, 1980"
   author: "Official KGB photo from Stus file after arrest 1972"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Stus_KGB_photo_1980_(cropped).jpg"
 key_accomplishments:
   - Збірки «Зимові дерева», «Свіча в свічаді», «Палімпсести»

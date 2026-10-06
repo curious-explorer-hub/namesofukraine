@@ -35,7 +35,6 @@ sources:
   - title: Wikipedia (EN) - Andrey Sheptytsky
     url: https://en.wikipedia.org/wiki/Andrey_Sheptytsky
 related: [ivan-franko]
-animate: true
 reviewed: true
 ---
 

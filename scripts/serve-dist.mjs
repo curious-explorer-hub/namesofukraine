@@ -27,7 +27,6 @@ const types = {
   '.woff2': 'font/woff2',
   '.xml': 'application/xml',
   '.txt': 'text/plain; charset=utf-8',
-  '.mp4': 'video/mp4',
 };
 
 createServer((req, res) => {

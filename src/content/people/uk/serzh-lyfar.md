@@ -39,7 +39,6 @@ sources:
   - title: Wikipedia (EN) - Serge Lifar
     url: https://en.wikipedia.org/wiki/Serge_Lifar
 related: []
-animate: true
 reviewed: true
 ---
 

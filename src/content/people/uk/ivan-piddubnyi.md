@@ -33,7 +33,6 @@ sources:
   - title: Wikipedia (EN) - Ivan Poddubny
     url: https://en.wikipedia.org/wiki/Ivan_Poddubny
 related: []
-animate: true
 reviewed: true
 ---
 

@@ -134,8 +134,9 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | 2026-09-29 | — | **Date rule:** new style (Gregorian) from 1582; earlier dates as in the sources (Julian). |
 | 2026-09-29 | — | **URLs:** Ukrainian under `/uk/` (`uk` is the ISO 639-1 language code; `ua` is the country). |
 | 2026-10-03 | — | **English surnames: official -skyi** (Hrushevskyi, Khmelnytskyi). Exceptions: established personal spellings (Igor Sikorsky, Bohdan Hawrylyshyn, Zelenskyy), official names of things (the *Akademik Vernadsky* station), and non-Ukrainians. Feminine forms keep -ska. |
-| 2026-10-03 | — | **Animated portraits paused** (some clips read as disrespectful); kept behind `ANIMATED_PORTRAITS` in `src/site.ts` ([docs/BACKLOG.md](docs/BACKLOG.md), I15). |
+| 2026-10-05 | — | **Animated portraits removed** (paused 2026-10-03: some clips read as disrespectful; dropped as a feature, clips and scripts deleted; see git history). |
 | 2026-10-04 | — | **Domain:** `namesofukraine.org`, bought before wide promotion. A рушник border and the «вишиванка імен» tagline were tried and rolled back. |
+| 2026-10-05 | — | **AI-colorized portraits allowed**, made by hand in the Gemini app from the same free source photo. Mark it with `ai_edit: colorized` (or `restored`) in the profile's `image:` block; the credit keeps the original author, license and source and adds "colorized with AI (Gemini)" (or "restored…"). A result that shows a different photo than the credited one is not used. |
 
 ---
 
