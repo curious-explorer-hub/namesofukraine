@@ -6,19 +6,17 @@ import { t } from '../i18n';
 interface Props {
   person: Person;
   headingLevel?: 'h2' | 'h3' | 'h4';
-  // Beyond the home-page preview: hidden until a filter is active.
-  overflow?: boolean;
   // "Read next" backup suggestion: hidden unless the read-marks script needs it.
   fallback?: boolean;
 }
 
-const { person, headingLevel: Heading = 'h3', overflow = false, fallback = false } = Astro.props;
+const { person, headingLevel: Heading = 'h3', fallback = false } = Astro.props;
 const { data, lang } = person;
 const fresh = isNew(person);
 ---
 
 <li
-  class:list={['person-item', { 'is-overflow': overflow }]}
+  class="person-item"
   data-slug={person.slug}
   data-fallback={fallback || undefined}
   hidden={fallback || undefined}

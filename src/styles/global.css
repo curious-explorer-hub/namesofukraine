@@ -95,7 +95,7 @@ a { color: var(--cobalt); }
 .site-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
 .nav-link { font-weight: 500; color: var(--ink); text-decoration-thickness: 1.5px; text-underline-offset: 0.2em; }
 .nav-link:hover { color: var(--cobalt); }
-.site-nav { display: flex; gap: 1.25rem; align-items: baseline; white-space: nowrap; }
+.site-nav { display: flex; gap: 1.25rem; align-items: center; white-space: nowrap; }
 .lang-short { display: none; }
 /* A 44×44 px tap area (it is a short "EN" on phones); the negative margin keeps the layout unchanged */
 .lang-switch { display: inline-block; padding: 0.65rem 0.75rem; margin: -0.65rem -0.75rem; }
@@ -106,6 +106,86 @@ a { color: var(--cobalt); }
 }
 .nav-link[aria-current='page'] { color: var(--cobalt); text-decoration-color: var(--wheat); text-decoration-thickness: 3px; }
 .recent-more { margin: 0.75rem 0 0; font-weight: 500; }
+/* Site search: a header button opens a dialog (src/scripts/search.ts) */
+.search-open {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  padding: 0 0.6rem 0 0.85rem;
+  font: inherit;
+  font-weight: 500;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1.5px solid var(--ink);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.search-open:hover { background: var(--ink); color: var(--paper); }
+.search-key { padding: 0 0.4rem; font: 500 0.8125rem/1.5 var(--font-text); border: 1px solid currentColor; border-radius: 4px; opacity: 0.75; }
+@media (hover: none) { .search-key { display: none; } }
+@media (max-width: 30rem) {
+  .search-open { width: 2.75rem; padding: 0; justify-content: center; }
+  .search-key { display: none; }
+  /* Icon only, but the label still names the button for screen readers */
+  .search-open-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+}
+.search {
+  width: min(40rem, calc(100vw - 2rem));
+  max-height: min(34rem, calc(100dvh - 4rem));
+  margin: 12vh auto auto;
+  padding: 0;
+  color: var(--ink);
+  background: var(--paper);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 0 30px 60px -20px rgb(21 34 59 / 0.5);
+  overflow: hidden;
+}
+.search::backdrop { background: rgb(21 34 59 / 0.45); backdrop-filter: blur(4px); }
+.search-panel { display: flex; flex-direction: column; max-height: inherit; }
+.search-form { display: flex; align-items: center; gap: 0.75rem; padding: 0 0.5rem 0 1.1rem; color: var(--slate); border-bottom: 1.5px solid var(--mist); }
+.search-form:focus-within { box-shadow: inset 0 -3px 0 var(--wheat); }
+.search-input { flex: 1; min-width: 0; padding: 1rem 0; font: inherit; font-size: var(--step-1); color: var(--ink); background: none; border: 0; outline: none; }
+.search-close { min-width: 2.75rem; min-height: 2.75rem; font: inherit; color: var(--slate); background: none; border: 0; cursor: pointer; }
+.search-close kbd { padding: 0.1rem 0.45rem; font: 500 0.8125rem var(--font-text); border: 1px solid currentColor; border-radius: 4px; }
+.search-close:hover { color: var(--ink); }
+.search-results { list-style: none; margin: 0; padding: 0.4rem; overflow-y: auto; }
+.search-results:empty { display: none; }
+.search-results a { display: flex; align-items: center; gap: 0.85rem; padding: 0.5rem 0.6rem; color: inherit; text-decoration: none; border-radius: 6px; }
+.search-results [aria-selected='true'] a { background: var(--accent); color: var(--paper); }
+.search-face {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  overflow: hidden;
+  font: 700 0.95rem var(--font-display);
+  color: var(--paper);
+  background: var(--accent);
+  border-radius: 50%;
+}
+.search-face img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.search-text { display: grid; min-width: 0; line-height: 1.3; }
+.search-name { font-family: var(--font-display); font-weight: 700; }
+.search-role { overflow: hidden; font-size: 0.9375rem; color: var(--accent); white-space: nowrap; text-overflow: ellipsis; }
+.search-years { font-size: 0.8125rem; color: var(--slate); font-variant-numeric: tabular-nums; }
+.search-results [aria-selected='true'] .search-role { color: var(--paper); }
+.search-results [aria-selected='true'] .search-years { color: var(--mist); }
+.search-status { margin: 0; padding: 0.75rem 1.1rem; font-size: 0.875rem; color: var(--slate); }
+.search-status:empty { display: none; }
+@media (prefers-reduced-motion: no-preference) {
+  .search[open] { animation: pop 220ms cubic-bezier(0.2, 0.7, 0.3, 1); }
+  .search[open]::backdrop { animation: fade 220ms ease; }
+  @keyframes pop {
+    from { opacity: 0; transform: translateY(-8px) scale(0.98); }
+  }
+  @keyframes fade {
+    from { opacity: 0; }
+  }
+}
+
 /* Logo: the stitch-rhombus mark (same as the favicon) + wordmark; always links home */
 .logo {
   display: inline-flex;
@@ -376,6 +456,87 @@ a { color: var(--cobalt); }
 .filters-reset:hover { background: var(--ink); color: var(--paper); }
 .filters-status { margin: 0; font-size: 0.875rem; color: var(--slate); min-height: 1.3em; }
 
+/* Group tiles (home): one per category in its colour, with three faces that fan out on hover.
+   Phones: a compact row (faces, then name and count); from tablet up: a card. */
+.tiles { margin-bottom: clamp(2.5rem, 2rem + 2vw, 4rem); }
+.tiles-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+}
+.tile {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: 'faces name' 'faces count';
+  align-items: center;
+  column-gap: 1rem;
+  height: 100%;
+  padding: 0.9rem 1rem;
+  color: var(--ink);
+  text-decoration: none;
+  background: var(--accent-soft);
+  border-radius: 6px;
+  box-shadow: inset 0 -4px 0 var(--accent);
+}
+/* A large rhombus, the logo's motif, half hidden in the corner */
+.tile::after {
+  content: '';
+  position: absolute;
+  right: -2.5rem;
+  bottom: -2.5rem;
+  z-index: -1;
+  width: 7rem;
+  height: 7rem;
+  background: var(--accent);
+  opacity: 0.12;
+  transform: rotate(45deg);
+}
+.tile-faces { grid-area: faces; display: flex; width: 7.2rem; } /* room for three faces, so names line up */
+.tile-face { flex: none; width: 3rem; height: 3rem; border-radius: 50%; border: 3px solid var(--paper); }
+.tile-face + .tile-face { margin-left: -0.9rem; }
+.tile-name { grid-area: name; align-self: end; font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.15; }
+.tile-count { grid-area: count; align-self: start; font-weight: 500; color: var(--accent); }
+.tile:hover { background: var(--accent); color: var(--paper); }
+.tile:hover .tile-count { color: var(--paper); }
+.tile:hover::after { background: var(--paper); opacity: 0.14; }
+@media (min-width: 48rem) {
+  .tile {
+    grid-template-columns: 1fr;
+    grid-template-areas: 'faces' 'name' 'count';
+    align-content: end;
+    row-gap: 0.35rem;
+    min-height: 13rem;
+    padding: 1.25rem;
+  }
+  .tile-faces { width: auto; align-self: start; margin-bottom: auto; padding-bottom: 1rem; }
+  .tile-face { width: 4.5rem; height: 4.5rem; }
+  .tile-face + .tile-face { margin-left: -1.3rem; }
+  .tile-name { font-size: var(--step-2); }
+  .tile::after { width: 9rem; height: 9rem; right: -3rem; bottom: -3rem; }
+}
+/* Nine groups: three rows of three */
+@media (min-width: 64rem) { .tiles-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .tile { transition: transform 250ms cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 250ms ease, background-color 250ms ease, color 250ms ease; }
+  .tile:hover {
+    transform: translateY(-3px);
+    box-shadow: inset 0 -4px 0 var(--accent), 0 14px 28px -14px color-mix(in srgb, var(--accent) 70%, transparent);
+  }
+  .tile::after { transition: transform 500ms cubic-bezier(0.2, 0.7, 0.3, 1), opacity 250ms ease; }
+  .tile:hover::after { transform: rotate(45deg) scale(1.35); }
+  .tile-face { transition: transform 350ms cubic-bezier(0.2, 0.7, 0.3, 1), margin 350ms cubic-bezier(0.2, 0.7, 0.3, 1); }
+  .tile:hover .tile-face + .tile-face { margin-left: -0.5rem; }
+  .tile:hover .tile-face:nth-child(1) { transform: rotate(-8deg); }
+  .tile:hover .tile-face:nth-child(2) { transform: translateY(-6px); }
+  .tile:hover .tile-face:nth-child(3) { transform: rotate(8deg); }
+}
+
 /* Sections */
 .recent, .group { margin-bottom: clamp(2.5rem, 2rem + 2vw, 4rem); }
 .section-title {
@@ -386,31 +547,6 @@ a { color: var(--cobalt); }
   letter-spacing: -0.02em;
   margin: 0 0 1rem;
 }
-.section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin: 0 0 1rem; }
-.section-head .section-title { margin: 0; }
-/* Each home section is marked with its group colour: a rhombus before the title, a coloured "all" link */
-.group[data-group] .section-title::before {
-  content: '';
-  display: inline-block;
-  width: 0.5em;
-  height: 0.5em;
-  margin: 0 0.45em 0.12em 0.1em;
-  background: var(--accent);
-  transform: rotate(45deg);
-}
-.section-all {
-  flex: none;
-  font-weight: 500;
-  color: var(--accent);
-  padding: 0.35rem 0.9rem;
-  border: 1.5px solid var(--accent);
-  border-radius: 999px;
-  text-decoration: none;
-}
-.section-all:hover { background: var(--accent); color: var(--paper); }
-/* Home sections preview the first few people; the rest appear while filtering. Once the
-   filter script runs it decides visibility itself (it also skips read cards in "unread only"). */
-html:not(.has-filters) .catalogue .is-overflow { display: none; }
 .section-count { font-family: var(--font-text); font-weight: 400; font-size: var(--step-1); color: var(--slate); letter-spacing: 0; }
 
 /* Shelf: swipe row on phones, grid from tablet up */
@@ -433,11 +569,6 @@ html:not(.has-filters) .catalogue .is-overflow { display: none; }
     grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
     overflow: visible;
   }
-  /* Home previews stay on one line: a swipe row until four cards fit side by side */
-  .shelf-preview { grid-auto-flow: column; grid-template-columns: none; grid-auto-columns: 16rem; overflow-x: auto; }
-}
-@media (min-width: 64rem) {
-  .shelf-preview { grid-auto-flow: row; grid-template-columns: repeat(4, minmax(0, 1fr)); overflow: visible; }
 }
 
 /* While filtering, sections dissolve into one results grid */
@@ -448,7 +579,8 @@ html:not(.has-filters) .catalogue .is-overflow { display: none; }
 }
 .catalogue[data-filtering] .group,
 .catalogue[data-filtering] .shelf { display: contents; }
-.catalogue[data-filtering] .section-head { display: none; }
+/* Home: the results grid appears only while a filter narrows the list; the group tiles stand in otherwise */
+.catalogue-results:not([data-filtering]) .group { display: none; }
 .catalogue-empty { grid-column: 1 / -1; font-size: var(--step-1); color: var(--slate); max-width: var(--measure); }
 
 /* Portrait: shown as it is, in full colour and without effects, on cards and profiles alike.

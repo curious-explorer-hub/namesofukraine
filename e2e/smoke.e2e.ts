@@ -41,8 +41,26 @@ test('a category page lists its people and filters within them', async ({ page }
   await expect(page.locator('.shelf > li:visible')).toHaveCount(1);
 });
 
+test('the site search opens from the keyboard on any page and goes to the person', async ({ page }) => {
+  await page.goto('/uk/about/');
+  await page.keyboard.press('/');
+  await expect(page.locator('dialog.search')).toBeVisible();
+  await page.keyboard.type('роксолана');
+  await expect(page.locator('.search-results [role="option"]').first()).toContainText('Роксолана');
+  await page.keyboard.press('Enter');
+  await expect(page).toHaveURL(/\/uk\/people\/roksolana\/$/);
+});
+
 test.describe('without JavaScript', () => {
   test.use({ javaScriptEnabled: false });
+
+  test('the home page shows the group tiles, each linking to its category page', async ({ page }) => {
+    await page.goto('/uk/');
+    await expect(page.locator('.search-open')).toBeHidden();
+    await expect(page.locator('.tile')).not.toHaveCount(0);
+    await page.locator('.tile').first().click();
+    await expect(page).toHaveURL(/\/uk\/groups\/[a-z-]+\/$/);
+  });
 
   test('the full list is shown and the filter bar is hidden', async ({ page }) => {
     await page.goto('/uk/groups/statehood/');

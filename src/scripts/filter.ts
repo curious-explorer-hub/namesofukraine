@@ -28,14 +28,15 @@ export function initFilters() {
   if (!form || !catalogue) return;
 
   const recent = document.querySelector<HTMLElement>('.recent');
+  // Home page: group tiles stand in for the sections until a filter narrows the list.
+  const tiles = document.querySelector<HTMLElement>('.tiles');
+  const tileItems = [...(tiles?.querySelectorAll<HTMLElement>('.tile-item') ?? [])];
   const empty = catalogue.querySelector<HTMLElement>('.catalogue-empty')!;
   const status = form.querySelector<HTMLElement>('.filters-status')!;
   const progress = form.querySelector<HTMLElement>('.read-progress');
   const items = [...catalogue.querySelectorAll<HTMLElement>('.person-item')];
   const sections = [...catalogue.querySelectorAll<HTMLElement>('.group')];
   const recentItems = [...(recent?.querySelectorAll<HTMLElement>('.person-item') ?? [])];
-  // Home sections show a preview of N people; category pages have no limit.
-  const preview = Number(catalogue.dataset.preview) || Infinity;
   const emptyText = { none: empty.textContent, allRead: empty.dataset.allRead ?? empty.textContent };
   const eraButtons = [...document.querySelectorAll<HTMLButtonElement>('.era[data-era]')];
   const field = (k: Key) => form.elements.namedItem(k) as HTMLInputElement | HTMLSelectElement;
@@ -66,21 +67,20 @@ export function initFilters() {
       }
       for (const section of sections) section.hidden = false;
     } else {
-      // Grouped layout: each section previews its first N people (unread ones, if filtering).
+      // Grouped layout (each section, or its tile on the home page), leaving out read people if asked.
       for (const section of sections) {
-        let shown = 0;
         let remaining = 0;
         for (const item of section.querySelectorAll<HTMLElement>('.person-item')) {
-          const keep = !state.unread || !read.has(item.dataset.slug ?? '');
-          if (keep) remaining++;
-          item.hidden = !keep || shown >= preview;
-          if (!item.hidden) shown++;
+          item.hidden = !!state.unread && read.has(item.dataset.slug ?? '');
+          if (!item.hidden) remaining++;
         }
         found += remaining;
         section.hidden = remaining === 0;
-        updateSectionLink(section, remaining, !!state.unread);
+        const tile = tileItems.find((t) => t.dataset.group === section.dataset.group);
+        if (tile) updateTile(tile, remaining, !!state.unread);
       }
     }
+    if (tiles) tiles.hidden = narrowing || tileItems.every((t) => t.hidden);
     for (const item of recentItems) item.hidden = !!state.unread && read.has(item.dataset.slug ?? '');
     catalogue.toggleAttribute('data-filtering', narrowing);
     form.toggleAttribute('data-active', active);
@@ -101,16 +101,15 @@ export function initFilters() {
     history.replaceState(null, '', query ? `?${query}` : location.pathname);
   };
 
-  // "All N" links: in unread mode they count and open only the unread people of that group.
-  function updateSectionLink(section: HTMLElement, remaining: number, unread: boolean) {
-    const link = section.querySelector<HTMLAnchorElement>('.section-all');
-    if (!link?.dataset.label) return;
-    link.dataset.total ??= String(section.querySelectorAll('.person-item').length);
+  // Group tiles: in unread mode they count and open only the unread people of that group.
+  function updateTile(item: HTMLElement, remaining: number, unread: boolean) {
+    const link = item.querySelector<HTMLAnchorElement>('.tile')!;
+    const count = link.querySelector<HTMLElement>('.tile-count')!;
     link.dataset.baseHref ??= link.getAttribute('href') ?? '';
     const n = String(unread ? remaining : link.dataset.total);
-    link.textContent = link.dataset.label.replace('{n}', n);
-    link.setAttribute('aria-label', (link.dataset.ariaLabel ?? '').replace('{n}', n));
+    count.textContent = link.dataset.label!.replace('{n}', n);
     link.setAttribute('href', unread ? `${link.dataset.baseHref}?unread=1` : link.dataset.baseHref);
+    item.hidden = remaining === 0;
   }
 
   // Restore state from the URL.

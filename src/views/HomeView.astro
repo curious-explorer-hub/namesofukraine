@@ -4,7 +4,8 @@ import EraRibbon from '../components/EraRibbon.astro';
 import FilterBar from '../components/FilterBar.astro';
 import PersonCard from '../components/PersonCard.astro';
 import DailyHero from '../components/DailyHero.astro';
-import { getPeople, groups, recentlyAdded, byBirth, GROUP_PREVIEW, groupUrl, localePath } from '../lib/people';
+import GroupTiles from '../components/GroupTiles.astro';
+import { getPeople, groups, recentlyAdded, byBirth, localePath } from '../lib/people';
 import { getImage } from 'astro:assets';
 import heroImage from '../assets/hero/independence-monument.jpg';
 import { t, type Lang } from '../i18n';
@@ -43,6 +44,7 @@ const phone = '(max-width: 47.99rem)';
   <DailyHero people={people} lang={lang} />
   <EraRibbon people={people} lang={lang} />
   <FilterBar people={people} lang={lang} />
+  <GroupTiles people={people} lang={lang} />
 
   {
     recent.length > 0 && (
@@ -58,26 +60,16 @@ const phone = '(max-width: 47.99rem)';
     )
   }
 
-  <div class="catalogue" data-preview={GROUP_PREVIEW}>
+
+  {/* Search and filter results. Without a narrowing filter the group tiles stand in for these sections;
+      every card stays in the page so search and filters cover everyone. */}
+  <div class="catalogue catalogue-results">
     {
       sections.map((s) => (
-        <section class="group" data-group={s.id} aria-labelledby={`group-${s.id}`}>
-          <div class="section-head">
-            <h2 id={`group-${s.id}`} class="section-title">{s.label[lang]}</h2>
-            {/* The only place the section size is shown; always present so every section has it. */}
-            <a
-              class="section-all"
-              href={groupUrl(s.id, lang)}
-              aria-label={t('home.group_all_label', lang, { group: s.label[lang], n: s.people.length })}
-              data-label={t('home.group_all', lang, { n: '{n}' })}
-              data-aria-label={t('home.group_all_label', lang, { group: s.label[lang], n: '{n}' })}>
-              {t('home.group_all', lang, { n: s.people.length })}
-            </a>
-          </div>
-          <ul class="shelf shelf-preview" role="list">
-            {/* All cards stay in the page so search and filters cover everyone; extras show only while filtering. */}
-            {s.people.map((p, i) => (
-              <PersonCard person={p} overflow={i >= GROUP_PREVIEW} />
+        <section class="group" data-group={s.id} aria-label={s.label[lang]}>
+          <ul class="shelf" role="list">
+            {s.people.map((p) => (
+              <PersonCard person={p} />
             ))}
           </ul>
         </section>

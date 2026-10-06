@@ -69,8 +69,6 @@ const label = (items: { id: string; label: Record<string, string> }[], id: strin
   items.find((i) => i.id === id)?.label[lang] ?? id;
 
 export const groups = categories.groups;
-// How many people each home-page section shows before linking to the full category page.
-export const GROUP_PREVIEW = 4;
 export const groupLabel = (id: string, lang: Lang = 'uk') => label(categories.groups, id, lang);
 export const tagLabel = (id: string, lang: Lang = 'uk') => label(categories.tags, id, lang);
 export const regionLabel = (id: string, lang: Lang = 'uk') => label(regions, id, lang);

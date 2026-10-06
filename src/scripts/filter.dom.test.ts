@@ -3,11 +3,14 @@ import { beforeEach, describe, expect, it } from 'vitest';
 import { initFilters } from './filter';
 import { setRead } from './read-marks';
 
-// Mirrors the markup produced by FilterBar, EraRibbon, PersonCard, and the home page.
+// Mirrors the markup produced by FilterBar, EraRibbon, GroupTiles, PersonCard, and the home page.
 // Keeps Cyrillic letters (JS \W would treat them as separators and collapse every name).
 const slugOf = (name: string) => name.toLowerCase().replace(/[\s']+/g, '-');
 const person = (name: string, group: string, era: string, region: string) =>
   `<li class="person-item" data-slug="${slugOf(name)}" data-group="${group}" data-era="${era}" data-region="${region}" data-search="${name}">${name}</li>`;
+
+const tile = (group: string, n: number) =>
+  `<li class="tile-item" data-group="${group}"><a class="tile" href="/groups/${group}/" data-label="All {n}" data-total="${n}"><span class="tile-count">All ${n}</span></a></li>`;
 
 const fixture = `
   <button type="button" class="era" data-era="19th-century" aria-pressed="false">XIX</button>
@@ -23,17 +26,19 @@ const fixture = `
     <p class="read-progress" data-template="Прочитано {n} з {total}"></p>
   </form>
   <section class="recent"><ul>${person('Іван Франко', 'literature', '19th-century', 'lviv')}</ul></section>
-  <div class="catalogue" data-preview="2">
-    <section class="group" id="literature">
-      <div class="section-head"><a class="section-all" href="/groups/literature/" data-label="All {n}" data-aria-label="All literature: {n}">All 3</a></div>
+  <section class="tiles"><ul>
+    ${tile('literature', 3)}
+    ${tile('science', 1)}
+  </ul></section>
+  <div class="catalogue">
+    <section class="group" id="literature" data-group="literature">
       <ul>
         ${person('Іван Франко', 'literature', '19th-century', 'lviv')}
         ${person('Леся Українка', 'literature', '19th-century', 'zhytomyr')}
         ${person("В'ячеслав Чорновіл", 'literature', 'independence', 'cherkasy')}
       </ul>
     </section>
-    <section class="group" id="science">
-      <div class="section-head"><a class="section-all" href="/groups/science/" data-label="All {n}" data-aria-label="All science: {n}">All 1</a></div>
+    <section class="group" id="science" data-group="science">
       <ul>${person('Ігор Сікорський', 'science', '20th-century', 'kyiv-city')}</ul>
     </section>
     <p class="catalogue-empty" hidden data-all-read="all read">empty</p>
@@ -67,8 +72,9 @@ describe('initFilters', () => {
     expect($('form.filters').hidden).toBe(false);
   });
 
-  it('previews the first N people of each section when no filter is active', () => {
-    expect(visibleNames()).toEqual(['Іван Франко', 'Леся Українка', 'Ігор Сікорський']);
+  it('shows the group tiles, not the results grid, when no filter is active', () => {
+    expect($('.tiles').hidden).toBe(false);
+    expect(visibleNames()).toHaveLength(4); // the sections themselves are hidden by CSS on the home page
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(false);
     expect($('.recent').hidden).toBe(false);
     expect($('.filters-status').textContent).toBe('');
@@ -81,6 +87,7 @@ describe('initFilters', () => {
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(true);
     expect($('form.filters').hasAttribute('data-active')).toBe(true);
     expect($('.recent').hidden).toBe(true);
+    expect($('.tiles').hidden).toBe(true);
   });
 
   it('writes the active filters to the URL', () => {
@@ -113,7 +120,8 @@ describe('initFilters', () => {
     expect($('.era[data-era="19th-century"]').getAttribute('aria-pressed')).toBe('false');
 
     band.click();
-    expect(visibleNames()).toHaveLength(3); // back to the grouped preview
+    expect(visibleNames()).toHaveLength(4); // back to the grouped layout
+    expect($('.tiles').hidden).toBe(false);
     expect(band.getAttribute('aria-pressed')).toBe('false');
     expect(location.search).toBe('');
   });
@@ -123,7 +131,7 @@ describe('initFilters', () => {
     type('region', 'lviv');
     $<HTMLFormElement>('form.filters').reset();
     await new Promise((resolve) => setTimeout(resolve)); // reset handler re-applies on the next tick
-    expect(visibleNames()).toHaveLength(3);
+    expect(visibleNames()).toHaveLength(4);
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(false);
     expect(location.search).toBe('');
   });
@@ -141,7 +149,7 @@ describe('initFilters', () => {
     box.dispatchEvent(new Event('input', { bubbles: true }));
   };
 
-  it('"unread only" keeps the grouped layout, refilling each preview with unread people', () => {
+  it('"unread only" keeps the grouped layout, leaving out people already read', () => {
     setRead(slugOf('Іван Франко'), true);
     tickUnread();
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(false); // sections stay
@@ -149,26 +157,28 @@ describe('initFilters', () => {
     expect(new URLSearchParams(location.search).get('unread')).toBe('1');
   });
 
-  it('"unread only" updates each "All N" link to the unread count and keeps the filter', () => {
+  it('"unread only" updates each tile to the unread count and keeps the filter', () => {
     setRead(slugOf('Іван Франко'), true);
     tickUnread();
-    const link = $<HTMLAnchorElement>('#literature .section-all');
-    expect(link.textContent).toBe('All 2');
+    const link = $<HTMLAnchorElement>('.tile-item[data-group="literature"] .tile');
+    const count = link.querySelector('.tile-count')!;
+    expect(count.textContent).toBe('All 2');
     expect(link.getAttribute('href')).toBe('/groups/literature/?unread=1');
     $<HTMLFormElement>('form.filters').reset();
     return new Promise<void>((resolve) =>
       setTimeout(() => {
-        expect(link.textContent).toBe('All 3');
+        expect(count.textContent).toBe('All 3');
         expect(link.getAttribute('href')).toBe('/groups/literature/');
         resolve();
       }),
     );
   });
 
-  it('"unread only" hides a section whose people are all read, and says when everyone is read', () => {
+  it('"unread only" hides a section and its tile when all its people are read, and says when everyone is read', () => {
     setRead(slugOf('Ігор Сікорський'), true);
     tickUnread();
     expect($('#science').hidden).toBe(true);
+    expect($('.tile-item[data-group="science"]').hidden).toBe(true);
     expect($('#literature').hidden).toBe(false);
     for (const n of ['Іван Франко', 'Леся Українка', "В'ячеслав Чорновіл"]) setRead(slugOf(n), true);
     tickUnread();

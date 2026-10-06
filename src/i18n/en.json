@@ -45,7 +45,6 @@
   "new.feed_description": "New profiles of prominent Ukrainians",
   "home.recent_all": "All new people",
   "home.group_all": "All {n}",
-  "home.group_all_label": "All people in “{group}”: {n}",
   "group.lead": "Everyone in “{group}”. Search by name or narrow down by era and region.",
   "group.count": "{n} in this field",
   "nav.label": "Main navigation",
@@ -80,5 +79,13 @@
   "notfound.home": "Go to the home page",
   "notfound.suggest": "Looking for someone who isn't here yet? Suggest them",
   "notfound.other": "Page not found. Go to the English version",
-  "person.report": "Spotted a mistake or have something to add? Tell us"
+  "person.report": "Spotted a mistake or have something to add? Tell us",
+  "home.groups": "Fields",
+  "search.open": "Search",
+  "search.label": "Search people",
+  "search.placeholder": "Name, role or keyword",
+  "search.empty": "No one found",
+  "search.close": "Close",
+  "search.loading": "Loading…",
+  "search.error": "Search couldn't load. Please try again."
 }

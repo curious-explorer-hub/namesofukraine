@@ -50,15 +50,7 @@ Not scheduled. IDs (I…) keep the numbers they had in the vision doc's old feat
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked, then was removed pending refinement. `places[]` and `quotes[]` exist in the schema but are empty everywhere. Open: keeping a timeline in sync with the prose; real map vs a list of OpenStreetMap links; whether every profile needs all three.
 
 ### Home page
-- **I18. Home page that stays short as the catalogue grows.** Goal: one or two screens on desktop, easy to scan on a phone.
-
-  | Option | Home page shows | Pros | Cons |
-  |---|---|---|---|
-  | **A. Category tiles + tag cloud** *(recommended)* | Hero, Daily Hero, search; tiles for the 9 groups (name, count, 2–3 portraits); tag cloud by count; era ribbon; one "newly added" row | Fixed height; two ways to browse; reuses group pages and filters | Fewer faces up front; needs `?tag=` |
-  | B. One shelf with group tabs | One card row with tabs | Faces up front; short | Hides most groups; tabs fiddly on phones |
-  | C. Collapsed sections | Today's sections, collapsed | Smallest change | Still a long list of headings |
-
-  Keep the no-JS fallback. Measure page height at 1280 px and 390 px, and Lighthouse, before and after.
+- **I18. Home page that stays short as the catalogue grows.** Option A is in (group tiles, site search; see Done). Open: the tag cloud by count, which needs a `?tag=` filter. Every card is still in the home page for the filters (~297 KB HTML at 86 people); past ~200 people, consider filtering from `search.json` instead.
 
 ### Insights
 - **I16. Views per person / "most read".**
@@ -79,3 +71,5 @@ Interactive map (D15) · personality quiz · timeline view · printable teacher 
 | 2026-10-03 | Security headers and CI checks (L6); SEO code (L7); Lighthouse budget in CI (L8); 404 page (L9); Playwright smoke tests (L12); license files (L5); batch 2–3 fact-check |
 | 2026-10-04 | All 86 profiles reviewed in both languages (L1); copyrighted portraits replaced or removed (L15, mostly); feedback form on Tally (L4); Web Analytics enabled |
 | 2026-10-05 | Migrated to GitHub and deployed (L2); secret scanning and Dependabot alerts on; stale `*.workers.dev` Worker deleted; real-phone mobile pass (I14) |
+| 2026-10-05 | Group colours and motion (card → profile portrait transition, hover light, headline shimmer, stitch band); portraits in full colour (D16) |
+| 2026-10-05 | Home page tiles for the 9 groups instead of sections (I18 option A): height 8672 → 3171 px at 1280 px, 8216 → 2972 px at 390 px; site-wide search dialog (header, `/`, Ctrl/⌘+K) on `/<lang>/search.json` |
