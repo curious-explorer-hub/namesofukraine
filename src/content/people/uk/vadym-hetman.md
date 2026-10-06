@@ -16,6 +16,7 @@ image:
   alt: "Вадим Гетьман, офіційне фото народного депутата I скликання, 1990"
   author: "Верховна Рада України"
   license: "Attribution"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%94%D0%A3_2_%D0%93%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD_%D0%92%D0%B0%D0%B4%D0%B8%D0%BC_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg"
 key_accomplishments:
   - "Голова правління Національного банку України (березень - грудень 1992)"
