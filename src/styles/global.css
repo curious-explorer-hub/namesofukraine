@@ -19,13 +19,22 @@
 }
 
 :root {
-  --paper: #f6f8fb;
-  --ink: #15223b;
-  --cobalt: #1f4ba5;
+  /* Light and dark themes: light-dark(<light>, <dark>) follows color-scheme, which follows the system
+     unless the visitor picked a theme with the header toggle (data-theme, src/scripts/theme.ts).
+     Dark colours keep the same rule as light: accent text on paper and tints, paper text on accents, AA. */
+  color-scheme: light dark;
+  --paper: light-dark(#f6f8fb, #0e1524);
+  --ink: light-dark(#15223b, #e6ebf3);
+  --cobalt: light-dark(#1f4ba5, #8eb0ff);
   --wheat: #e2b13c;
-  --mist: #e6ecf5;
-  --slate: #566077;
+  --mist: light-dark(#e6ecf5, #1b2537);
+  --slate: light-dark(#566077, #a2acbf);
   --accent: var(--cobalt);
+  --fact-bg: light-dark(#e3f3e1, #16301c);
+  --fact-line: #5a9e4d;
+  --myth-bg: light-dark(#fbe9e7, #3a1a17);
+  --myth-line: light-dark(#c0392b, #e0675a);
+  --myth-ink: light-dark(#8f2a1e, #ff9f93);
 
   --font-display: 'Fixel Display', system-ui, sans-serif;
   --font-text: 'Fixel Text', system-ui, sans-serif;
@@ -49,14 +58,14 @@
 
 /* Group colours: each category has its own accent, used on its cards (tint, hover),
    section marks and the profile role. All pass WCAG AA: accent text on its tint, paper text on the accent. */
-[data-group='literature'] { --accent: #a3262e; }
-[data-group='visual-arts'] { --accent: #a1450c; }
-[data-group='performing-arts'] { --accent: #7a2d73; }
-[data-group='science'] { --accent: #0d6670; }
-[data-group='civic'] { --accent: #2e6930; }
-[data-group='faith'] { --accent: #7d5a0a; }
-[data-group='sport'] { --accent: #a8234f; }
-[data-group='defenders'] { --accent: #4c5a1e; }
+[data-group='literature'] { --accent: light-dark(#a3262e, #ff9494); }
+[data-group='visual-arts'] { --accent: light-dark(#a1450c, #f5a36b); }
+[data-group='performing-arts'] { --accent: light-dark(#7a2d73, #e6a0df); }
+[data-group='science'] { --accent: light-dark(#0d6670, #5ccad4); }
+[data-group='civic'] { --accent: light-dark(#2e6930, #8ccc86); }
+[data-group='faith'] { --accent: light-dark(#7d5a0a, #e2bd5e); }
+[data-group='sport'] { --accent: light-dark(#a8234f, #ff92b6); }
+[data-group='defenders'] { --accent: light-dark(#4c5a1e, #bccb73); }
 /* Recomputed on each group element, so the tint follows that element's accent */
 :root, [data-group] { --accent-soft: color-mix(in srgb, var(--accent) 10%, var(--paper)); }
 
@@ -97,6 +106,15 @@ a { color: var(--cobalt); }
 .nav-link:hover { color: var(--cobalt); }
 .site-nav { display: flex; gap: 1.25rem; align-items: center; white-space: nowrap; }
 .lang-short { display: none; }
+/* Theme toggle: a moon in the light theme, a sun in the dark one */
+:root[data-theme='light'] { color-scheme: light; }
+:root[data-theme='dark'] { color-scheme: dark; }
+.theme-toggle { display: inline-grid; place-items: center; padding: 0.55rem; margin: -0.55rem; border: 0; background: none; color: var(--ink); cursor: pointer; border-radius: 999px; }
+.theme-toggle:hover { color: var(--cobalt); }
+.theme-toggle svg { width: 1.25rem; height: 1.25rem; }
+.theme-toggle .icon-sun { display: none; }
+:root[data-theme='dark'] .theme-toggle .icon-sun { display: block; }
+:root[data-theme='dark'] .theme-toggle .icon-moon { display: none; }
 /* A 44×44 px tap area (it is a short "EN" on phones); the negative margin keeps the layout unchanged */
 .lang-switch { display: inline-block; padding: 0.65rem 0.75rem; margin: -0.65rem -0.75rem; }
 @media (max-width: 30rem) {
@@ -345,13 +363,13 @@ a { color: var(--cobalt); }
 /* Era ribbon: one band per era in its own colour, with its head count, a share bar and a picture.
    Colours run through time from Rus' red to Independence blue; all pass WCAG AA (paper on the colour,
    the colour on paper). */
-[data-era='kyivan-rus'] { --era: #9a322a; }
-[data-era='lithuanian-polish'] { --era: #8a4b0b; }
-[data-era='cossack'] { --era: #855a00; }
-[data-era='imperial'] { --era: #296a3b; }
-[data-era='19th-century'] { --era: #006a6a; }
-[data-era='20th-century'] { --era: #00618f; }
-[data-era='independence'] { --era: #1e4eac; }
+[data-era='kyivan-rus'] { --era: light-dark(#9a322a, #f39486); }
+[data-era='lithuanian-polish'] { --era: light-dark(#8a4b0b, #eaa660); }
+[data-era='cossack'] { --era: light-dark(#855a00, #e3b94e); }
+[data-era='imperial'] { --era: light-dark(#296a3b, #7fc993); }
+[data-era='19th-century'] { --era: light-dark(#006a6a, #52c9c9); }
+[data-era='20th-century'] { --era: light-dark(#00618f, #72c0ef); }
+[data-era='independence'] { --era: light-dark(#1e4eac, #93b4ff); }
 .ribbon { margin: 0; }
 /* Era cards in rows: two per row on phones, four from tablet up (seven eras: 4 + 3) */
 .ribbon-bands {
@@ -403,7 +421,7 @@ a { color: var(--cobalt); }
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(to top, rgb(246 248 251 / 0.94) 0 32%, rgb(246 248 251 / 0.45) 58%, rgb(246 248 251 / 0.1) 100%);
+  background: linear-gradient(to top, color-mix(in srgb, var(--paper) 94%, transparent) 0 32%, color-mix(in srgb, var(--paper) 45%, transparent) 58%, color-mix(in srgb, var(--paper) 10%, transparent) 100%);
 }
 /* Selected: the picture shows through the era colour, with solid colour behind the text */
 .era[aria-pressed='true'] { color: var(--paper); background: var(--era-c); }
@@ -972,6 +990,13 @@ a { color: var(--cobalt); }
 .suggest-form { max-width: 42rem; margin-top: 2rem; }
 .suggest-form iframe { width: 100%; min-height: 36rem; border: 0; background: var(--surface, #fff); border-radius: 4px; }
 .suggest-pending { padding: 1rem 1.25rem; background: var(--mist); border-radius: 4px; }
+/* About / Support: links to support, join, and the social pages */
+.prose .link-buttons { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; padding: 0; margin: 1.25rem 0 0; }
+.prose .link-buttons li { margin: 0; }
+.prose .link-button { display: inline-block; padding: 0.7rem 1.2rem; border: 2px solid var(--ink); border-radius: 999px; color: var(--ink); font-weight: 600; text-decoration: none; transition: background-color 150ms, color 150ms; }
+.prose .link-button:hover { background: var(--ink); color: var(--paper); }
+.prose .link-button-primary { background: var(--cobalt); border-color: var(--cobalt); color: var(--paper); }
+.prose .link-button-primary:hover { background: var(--ink); border-color: var(--ink); }
 
 /* Simple pages (/new/) */
 .page-head { padding-block: clamp(1.5rem, 1rem + 3vw, 3.5rem) 2rem; }
@@ -1070,8 +1095,8 @@ a { color: var(--cobalt); }
 .fun-fact {
   margin-top: 2rem;
   padding: 1rem 1.25rem 1.1rem;
-  background: #e3f3e1;
-  border-left: 6px solid #5a9e4d;
+  background: var(--fact-bg);
+  border-left: 6px solid var(--fact-line);
 }
 .profile-body .fun-fact h2 { font-family: var(--font-text); font-weight: 500; font-size: 1rem; letter-spacing: 0; margin: 0 0 0.25rem; }
 .fun-fact p { margin: 0; font-size: 1.0625rem; }
@@ -1079,11 +1104,11 @@ a { color: var(--cobalt); }
 .misconception {
   margin-top: 1.25rem;
   padding: 1rem 1.25rem 1.1rem;
-  background: #fbe9e7;
-  border-left: 6px solid #c0392b;
+  background: var(--myth-bg);
+  border-left: 6px solid var(--myth-line);
 }
-.profile-body .misconception h2 { font-family: var(--font-text); font-weight: 500; font-size: 1rem; letter-spacing: 0; margin: 0 0 0.35rem; color: #8f2a1e; }
-.misconception-claim { margin: 0 0 0.4rem; font-size: 1.0625rem; text-decoration: line-through; text-decoration-color: #c0392b; text-decoration-thickness: 1px; color: var(--slate); }
+.profile-body .misconception h2 { font-family: var(--font-text); font-weight: 500; font-size: 1rem; letter-spacing: 0; margin: 0 0 0.35rem; color: var(--myth-ink); }
+.misconception-claim { margin: 0 0 0.4rem; font-size: 1.0625rem; text-decoration: line-through; text-decoration-color: var(--myth-line); text-decoration-thickness: 1px; color: var(--slate); }
 .misconception-truth { margin: 0; font-size: 1.0625rem; }
 
 /* Cross-stitch bullets: the site's stitch motif, as in the logo */

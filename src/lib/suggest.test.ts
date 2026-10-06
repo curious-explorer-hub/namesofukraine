@@ -10,6 +10,11 @@ describe('suggestEmbedUrl', () => {
     expect(url.searchParams.get('profile')).toBe('les-kurbas');
   });
 
+  it('passes the "join the team" kind through', () => {
+    const url = new URL(suggestEmbedUrl('https://tally.so/r/abc123', { lang: 'uk', type: 'volunteer' }));
+    expect(url.searchParams.get('type')).toBe('volunteer');
+  });
+
   it('drops unknown kinds and anything that is not a slug', () => {
     const url = new URL(suggestEmbedUrl('https://tally.so/r/abc123', { lang: 'en', type: 'spam', profile: '<script>' }));
     expect(url.searchParams.has('type')).toBe(false);

@@ -1,21 +1,33 @@
 ---
 import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { SUGGEST_FORM_URL } from '../site';
+import { SOCIAL_LINKS, SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
 import { suggestEmbedUrl } from '../lib/suggest';
+import { localePath } from '../lib/people';
 import eras from '../content/eras.json';
 import hero from '../content/hero.json';
 import { t, type Lang } from '../i18n';
 
 interface Props {
   lang: Lang;
-  page: 'about' | 'suggest' | 'credits';
+  page: 'about' | 'suggest' | 'credits' | 'support';
 }
 
 const { lang, page } = Astro.props;
 const entry = await getEntry('pages', `${lang}/${page}`);
 if (!entry) throw new Error(`Missing page content: src/content/pages/${lang}/${page}.md`);
 const { Content } = await render(entry);
+
+// Only accounts whose URL is set in src/site.ts are shown.
+const social = [
+  { name: 'Instagram', url: SOCIAL_LINKS.instagram },
+  { name: 'Threads', url: SOCIAL_LINKS.threads },
+].filter((l) => l.url);
+const donate = [
+  { name: 'Patreon', url: SUPPORT_LINKS.patreon },
+  { name: 'Buy Me a Coffee', url: SUPPORT_LINKS.buymeacoffee },
+].filter((l) => l.url);
+const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
 ---
 
 <BaseLayout lang={lang} title={entry.data.title} description={entry.data.description}>
@@ -27,6 +39,57 @@ const { Content } = await render(entry);
   <div class="page-body prose">
     <Content />
   </div>
+
+  {
+    page === 'about' && (
+      <section class="page-body prose community" aria-labelledby="community">
+        <h2 id="community">{t('community.title', lang)}</h2>
+        <p>{t('community.lead', lang)}</p>
+        <ul class="link-buttons">
+          <li><a class="link-button link-button-primary" href={localePath(lang, '/support/')}>{t('community.support_link', lang)}</a></li>
+          <li><a class="link-button" href={joinUrl}>{t('community.join_link', lang)}</a></li>
+        </ul>
+        <h2>{t('community.social_title', lang)}</h2>
+        <p>{t('community.social_lead', lang)}</p>
+        {social.length ? (
+          <ul class="link-buttons">
+            {social.map((l) => <li><a class="link-button" href={l.url} rel="me noopener">{l.name}</a></li>)}
+          </ul>
+        ) : (
+          <p class="suggest-pending">{t('community.social_pending', lang)}</p>
+        )}
+      </section>
+    )
+  }
+
+  {
+    page === 'support' && (
+      <section class="page-body prose community">
+        <h2>{t('support.donate_title', lang)}</h2>
+        {donate.length ? (
+          <ul class="link-buttons">
+            {donate.map((l) => <li><a class="link-button link-button-primary" href={l.url} rel="noopener">{l.name}</a></li>)}
+          </ul>
+        ) : (
+          <p class="suggest-pending">{t('support.donate_pending', lang)}</p>
+        )}
+        <h2>{t('support.join_title', lang)}</h2>
+        <p>{t('support.join_lead', lang)}</p>
+        <ul class="link-buttons">
+          <li><a class="link-button" href={joinUrl}>{t('community.join_link', lang)}</a></li>
+        </ul>
+        <h2>{t('community.social_title', lang)}</h2>
+        <p>{t('community.social_lead', lang)}</p>
+        {social.length ? (
+          <ul class="link-buttons">
+            {social.map((l) => <li><a class="link-button" href={l.url} rel="me noopener">{l.name}</a></li>)}
+          </ul>
+        ) : (
+          <p class="suggest-pending">{t('community.social_pending', lang)}</p>
+        )}
+      </section>
+    )
+  }
 
   {
     page === 'credits' && (
@@ -51,7 +114,7 @@ const { Content } = await render(entry);
 
   {
     page === 'suggest' && (
-      <section class="suggest-form" aria-label={t('suggest.form_label', lang)}>
+      <section class="suggest-form" id="form" aria-label={t('suggest.form_label', lang)}>
         {SUGGEST_FORM_URL ? (
           <>
             <iframe src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} data-suggest-form data-lang={lang} title={t('suggest.form_label', lang)} loading="lazy" />

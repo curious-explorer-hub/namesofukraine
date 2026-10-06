@@ -58,13 +58,15 @@ const home = localePath(lang, '/');
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
+    <!-- Light or dark theme before the first paint (public/theme.js; no inline scripts under the CSP) -->
+    <script is:inline src="/theme.js"></script>
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="alternate" type="application/rss+xml" title={t('site.title', lang)} href={new URL(localePath(lang, '/rss.xml'), Astro.site)} />
     <slot name="head" />
     <!-- The filter bar, the explore tabs and the map's region list need JavaScript. They are visible from
          the first paint (no layout shift when the script starts) and hidden only for visitors without it. -->
-    <noscript><style>.filters, .map-side, .explore-tabs, .progress-card, .daily-hero { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
+    <noscript><style>.theme-toggle, .filters, .map-side, .explore-tabs, .progress-card, .daily-hero { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
     {structuredData.map((item) => <script is:inline type="application/ld+json" set:html={jsonForScript(item)} />)}
     <link rel="preload" href="/fonts/FixelDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/FixelText-Regular.woff2" as="font" type="font/woff2" crossorigin />
@@ -77,6 +79,10 @@ const home = localePath(lang, '/');
           <span class="logo-text">{t('site.title', lang)}</span>
         </a>
         <nav class="site-nav" aria-label={t('nav.label', lang)}>
+          <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label={t('theme.dark', lang)} title={t('theme.dark', lang)}>
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z" /></svg>
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.5" /><path d="M12 1.5v2.5M12 20v2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M1.5 12H4M20 12h2.5M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8" /></svg>
+          </button>
           <a class="nav-link lang-switch" href={pathIn(other)} hreflang={other} lang={other} aria-label={t('lang.switch_label', lang)}><span class="lang-long">{t('lang.switch', lang)}</span><span class="lang-short" aria-hidden="true">{t('lang.switch_short', lang)}</span></a>
         </nav>
       </div>
@@ -90,6 +96,7 @@ const home = localePath(lang, '/');
         <nav aria-label={t('footer.label', lang)}>
           <a href={localePath(lang, '/about/')}>{t('footer.about', lang)}</a>
           <a href={localePath(lang, '/feedback/')}>{t('footer.suggest', lang)}</a>
+          <a href={localePath(lang, '/support/')}>{t('footer.support', lang)}</a>
           <a href={localePath(lang, '/new/')}>{t('nav.new', lang)}</a>
           <a href={localePath(lang, '/credits/')}>{t('footer.credits', lang)}</a>
           <a href={localePath(lang, '/rss.xml')}>RSS</a>
@@ -100,6 +107,8 @@ const home = localePath(lang, '/');
       import { initReadMarks } from '../scripts/read-marks';
       import { initPortraitTransitions, initCardSpotlight } from '../scripts/motion';
       import { initEraIndicator } from '../scripts/era-ribbon';
+      import { initThemeToggle } from '../scripts/theme';
+      initThemeToggle();
       initReadMarks();
       initEraIndicator();
       initPortraitTransitions();

@@ -1,7 +1,7 @@
 // The "Suggest or correct" form (Tally, decision D17). Builds the URL of the embedded form, passing
 // hidden fields so each message arrives tagged with its language, kind and profile.
 
-export const SUGGEST_TYPES = ['person', 'correction', 'photo', 'other'] as const;
+export const SUGGEST_TYPES = ['person', 'correction', 'photo', 'volunteer', 'other'] as const;
 export type SuggestType = (typeof SUGGEST_TYPES)[number];
 
 export interface SuggestFields {

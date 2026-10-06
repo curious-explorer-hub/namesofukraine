@@ -19,3 +19,18 @@ describe('profile portraits', () => {
     expect(existsSync(join(dir, src!)), `${src} not found`).toBe(true);
   });
 });
+
+// Name forms for finding mentions of profiled people (BACKLOG I17); one entry per profile, both languages.
+describe('aliases.json', () => {
+  const aliases = JSON.parse(readFileSync(join(dir, '..', '..', 'aliases.json'), 'utf8')) as Record<string, { uk: string[]; en: string[] }>;
+  const slugs = Object.keys(aliases).filter((k) => !k.startsWith('$'));
+
+  it('has an entry for every profile and none for missing ones', () => {
+    expect(slugs.sort()).toEqual(profiles.map((f) => f.slice(0, -3)).sort());
+  });
+
+  it.each(slugs)('%s: has at least one name form in each language', (slug) => {
+    expect(aliases[slug].uk.length).toBeGreaterThan(0);
+    expect(aliases[slug].en.length).toBeGreaterThan(0);
+  });
+});
