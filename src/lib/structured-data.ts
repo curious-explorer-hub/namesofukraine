@@ -1,4 +1,4 @@
-// schema.org JSON-LD for search engines (backlog item 10). Rendered by BaseLayout.
+// schema.org JSON-LD for search engines (docs/BACKLOG.md, L7). Rendered by BaseLayout.
 import type { Person } from './people';
 
 // Uncertain dates ("бл. 1595") are given as the year only, as schema.org allows.

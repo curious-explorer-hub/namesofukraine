@@ -24,7 +24,7 @@ The script (`scripts/pull-feedback.mjs`) reads the Tally API key from `$TALLY_AP
 |---|---|
 | **New person** | Check against the selection criteria (product_vision.md §7). If it fits, add a row to [CANDIDATES.md](CANDIDATES.md) (status Backlog, source "Reader suggestion"); if not, note why in the log. |
 | **Correction** | Treat as a claim to verify, not a fact: check the profile against ≥ 2 reputable sources (encyclopedias first; product_vision.md §7.3). Fix if confirmed, in **both** `uk` and `en` files. If the sources disagree, follow the same approach as in `docs/fact-check/`: keep the better-sourced value and mention the other. |
-| **Photo or addition** | Use only images that are public domain or freely licensed, or with written permission from the rights holder (§11 L15). Keep the permission (email) privately; credit as agreed. |
+| **Photo or addition** | Use only images that are public domain or freely licensed, or with written permission from the rights holder ([BACKLOG.md](BACKLOG.md), L15). Keep the permission (email) privately; credit as agreed. |
 | **Living people** | Removal or correction requests by or about a living person go first and are answered within days (§7.6). |
 | **Spam or abuse** | Delete in Tally. |
 
@@ -51,7 +51,7 @@ Ask in this repository:
 
 - Traffic and search: Cloudflare Web Analytics and Search Console (see [docs/post-launch.md](post-launch.md), "Every month").
 - Dependabot pull requests: review and merge; CI fails on new, unreviewed advisories (`scripts/check-audit.mjs`).
-- Portraits still missing (product_vision.md §11 L15): follow up on permission requests.
+- Portraits still missing ([BACKLOG.md](BACKLOG.md), L15): follow up on permission requests.
 
 ## Feedback log
 

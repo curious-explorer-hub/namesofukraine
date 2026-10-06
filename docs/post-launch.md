@@ -1,6 +1,6 @@
 # Post-launch checklist
 
-Do these once the site is live on Cloudflare Pages (product_vision.md §11, L2) and, where noted, on its real domain (L3). During the soft launch the site runs on `https://namesofukraine.pages.dev`; use that address for the launch-day steps and skip the domain section until `namesofukraine.org` is registered. Each step is free and takes minutes. Tick them here as they're done.
+Do these once the site is live on Cloudflare Pages ([BACKLOG.md](BACKLOG.md), L2) and, where noted, on its real domain (L3). During the soft launch the site runs on `https://namesofukraine.pages.dev`; use that address for the launch-day steps and skip the domain section until `namesofukraine.org` is registered. Each step is free and takes minutes. Tick them here as they're done.
 
 ## Launch day
 

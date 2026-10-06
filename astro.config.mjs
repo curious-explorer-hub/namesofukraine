@@ -41,7 +41,7 @@ export default defineConfig({
     },
   },
   // Soft launch on Cloudflare's free address (2026-10-04); switch to https://namesofukraine.org when it's
-  // registered (product_vision.md §11 L3). Drives canonical, hreflang, sitemap, robots.txt, JSON-LD and share-card URLs.
+  // registered (docs/BACKLOG.md, L3). Drives canonical, hreflang, sitemap, robots.txt, JSON-LD and share-card URLs.
   site: 'https://namesofukraine.pages.dev',
   i18n: {
     defaultLocale: 'uk',

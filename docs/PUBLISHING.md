@@ -2,7 +2,7 @@
 
 How content gets from this repository to the live site, and what to do when it doesn't.
 
-**Live site:** <https://namesofukraine.pages.dev> (soft launch; `namesofukraine.org` later, see product_vision.md §11 L3).
+**Live site:** <https://namesofukraine.pages.dev> (soft launch; `namesofukraine.org` later, see [BACKLOG.md](BACKLOG.md), L3).
 **Hosting:** Cloudflare **Pages** project `namesofukraine`.
 **Deploys:** GitHub Actions, workflow `.github/workflows/ci.yml`.
 

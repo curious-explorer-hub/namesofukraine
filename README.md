@@ -2,7 +2,7 @@
 
 **«Знай своїх»** (Know Your Own). A free static website about the people who made Ukraine, for the young generation.
 
-Product vision, requirements, decisions, and current progress: see [product_vision.md](product_vision.md) (start with §0 to resume work). How changes go live (CI, Cloudflare Pages, rollback): [docs/PUBLISHING.md](docs/PUBLISHING.md). Weekly feedback review and other recurring work: [MAINTENANCE.md](docs/MAINTENANCE.md). People we plan to add: [CANDIDATES.md](docs/CANDIDATES.md).
+Product vision, requirements, and decisions: see [product_vision.md](product_vision.md). Status, priorities and the ideas backlog: [docs/BACKLOG.md](docs/BACKLOG.md) (start there to resume work). How changes go live (CI, Cloudflare Pages, rollback): [docs/PUBLISHING.md](docs/PUBLISHING.md). Weekly feedback review and other recurring work: [MAINTENANCE.md](docs/MAINTENANCE.md). People we plan to add: [CANDIDATES.md](docs/CANDIDATES.md).
 
 ## Development
 
