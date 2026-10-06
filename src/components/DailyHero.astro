@@ -1,6 +1,6 @@
 ---
 import { getImage } from 'astro:assets';
-import { lifespan, personUrl, type Person } from '../lib/people';
+import { freeImage, lifespan, personUrl, type Person } from '../lib/people';
 import { t, type Lang } from '../i18n';
 import { jsonForScript } from '../lib/json';
 
@@ -21,8 +21,8 @@ const entries = await Promise.all(
     role: p.data.role,
     years: lifespan(p),
     url: personUrl(p),
-    img: p.data.image ? (await getImage({ src: p.data.image.src, width: 240, format: 'webp' })).src : null,
-    alt: p.data.image?.alt ?? null,
+    img: freeImage(p) ? (await getImage({ src: freeImage(p)!.src, width: 240, format: 'webp' })).src : null,
+    alt: freeImage(p)?.alt ?? null,
   })),
 );
 ---

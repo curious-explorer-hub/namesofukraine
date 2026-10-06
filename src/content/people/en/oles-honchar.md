@@ -10,7 +10,7 @@ key_accomplishments:
   - "Head of the board of the Writers’ Union of Ukraine (1959–1971); member of the Academy of Sciences of the Ukrainian SSR (1978)"
   - "Posthumously awarded the title Hero of Ukraine (2005)"
 birthplace_name: "Sukha"
-image_alt: "Stamp from the Ukrposhta stamped envelope “100th anniversary of the birth of Oles Honchar” (2018)"
+image_alt: "Photo portrait of Oles Honchar, c. 1945–1950"
 reviewed: true
 ---
 

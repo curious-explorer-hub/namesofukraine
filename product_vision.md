@@ -136,6 +136,7 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | 2026-10-03 | — | **English surnames: official -skyi** (Hrushevskyi, Khmelnytskyi). Exceptions: established personal spellings (Igor Sikorsky, Bohdan Hawrylyshyn, Zelenskyy), official names of things (the *Akademik Vernadsky* station), and non-Ukrainians. Feminine forms keep -ska. |
 | 2026-10-05 | — | **Animated portraits removed** (paused 2026-10-03: some clips read as disrespectful; dropped as a feature, clips and scripts deleted; see git history). |
 | 2026-10-04 | — | **Domain:** `namesofukraine.org`, bought before wide promotion. A рушник border and the «вишиванка імен» tagline were tried and rolled back. |
+| 2026-10-05 | — | **Fair-use portraits, as an exception to D6** (owner decision, against the recommendation): Mykolaichuk and Sukhomlynskyi, AI-colorized from uk.wikipedia fair-use files. `fair_use: true` limits them to the profile page (cards show initials; share cards and structured data leave them out), the credit says they aren't CC BY-SA, and they come down at once on a rights holder's request. Risk: Ukraine has no general fair use, and a modified copy is weaker under US law (§8). |
 | 2026-10-05 | — | **AI-colorized portraits allowed**, made by hand in the Gemini app from the same free source photo. Mark it with `ai_edit: colorized` (or `restored`) in the profile's `image:` block; the credit keeps the original author, license and source and adds "colorized with AI (Gemini)" (or "restored…"). A result that shows a different photo than the credited one is not used. |
 
 ---
@@ -176,7 +177,7 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | Content effort stalls the project | High | Batches of 20–25; AI drafts + human review; invite contributors |
 | Bilingual requirement doubles content effort | High | D3-R; draft in Ukrainian, AI-assisted translation + human review |
 | Controversy (selection, contested figures, "Ukrainian" claims) | Medium | Published criteria, neutral tone, debates sections, precise-origin rule |
-| Image copyright | Medium | D6: only free or permitted images; per-file licenses; initials placeholder until resolved (BACKLOG L15) |
+| Image copyright | Medium | D6: only free or permitted images; per-file licenses; initials placeholder until resolved (BACKLOG L15). Exception: 2 fair-use portraits (§5), profile page only, removed on request |
 | Inconsistent portrait quality breaks the unified style | Medium | D16 automatic treatment; illustrations later |
 | Form spam / abuse | Medium | Tally spam protection + reCAPTCHA |
 | Deploy pipeline unavailable (GitHub Actions outage, expired Cloudflare token) | Low | Manual deploy from a laptop ([docs/PUBLISHING.md](docs/PUBLISHING.md)) |

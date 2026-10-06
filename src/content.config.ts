@@ -49,7 +49,9 @@ const people = defineCollection({
           .default([]),
         // `position` is the CSS object-position used to crop to the face (default: centred, upper third)
         // `ai_edit`: the photo was colorized or restored with AI (Gemini); the credit says so.
-        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored']).optional(), ...credit }).optional(),
+        // `fair_use`: not freely licensed (owner decision); shown on the profile page only, never on
+        // cards, share images or structured data, and excluded from the site's CC BY-SA license.
+        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored']).optional(), fair_use: z.boolean().optional(), ...credit }).optional(),
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
         gallery: z.array(z.object({ src: image(), caption: z.string(), ...credit })).default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),

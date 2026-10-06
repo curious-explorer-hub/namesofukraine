@@ -13,11 +13,12 @@ fun_fact: "Ще студентом Миколайчук зіграв Тарас�
 birthplace: { name: "Чортория", region: chernivtsi, country: UA, lat: 48.371, lon: 25.566 }
 image:
   src: ./images/ivan-mykolaichuk.jpg
-  alt: "Поштова марка України «Іван Миколайчук. 1941–1987» (2016)"
-  position: "72% 40%"
-  author: "Укрпошта (художник Микола Кочубей)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Stamp_of_Ukraine_s1512.jpg"
+  alt: "Фотопортрет Івана Миколайчука"
+  author: "Невідомий автор"
+  license: "Fair use"
+  ai_edit: colorized
+  fair_use: true
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D1%87%D1%83%D0%BA_%D0%86%D0%B2%D0%B0%D0%BD.jpg"
 key_accomplishments:
   - "Роль Івана Палійчука у фільмі «Тіні забутих предків» (1964)"
   - "Ролі у фільмах «Білий птах з чорною ознакою» (1971, співавтор сценарію), «Захар Беркут» і «Пропала грамота» (обидва 1972)"

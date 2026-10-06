@@ -14,6 +14,7 @@ import {
   fullDate,
   groupUrl,
   localePath,
+  freeImage,
   type Person,
 } from '../lib/people';
 import { t } from '../i18n';
@@ -39,7 +40,8 @@ const fallback = people
   .sort((a, b) => years(a) - years(b))
   .slice(0, 8);
 const pageUrl = new URL(Astro.url.pathname, Astro.site);
-const ldImage = data.image ? new URL((await getImage({ src: data.image.src, width: 720, format: 'jpg' })).src, Astro.site) : undefined;
+const ldSource = freeImage(person);
+const ldImage = ldSource ? new URL((await getImage({ src: ldSource.src, width: 720, format: 'jpg' })).src, Astro.site) : undefined;
 const structuredData = [
   personLd(person, pageUrl, ldImage),
   breadcrumbLd([
@@ -62,7 +64,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
     </header>
 
     <aside class="profile-facts" aria-labelledby="facts-title">
-      <Portrait person={person} class="profile-portrait" widths={[320, 480, 720]} sizes="(min-width: 64rem) 20rem, 100vw" loading="eager" />
+      <Portrait person={person} class="profile-portrait" widths={[320, 480, 720]} sizes="(min-width: 64rem) 20rem, 100vw" loading="eager" fairUse />
       <h2 id="facts-title" class="visually-hidden">{t('person.facts', lang)}</h2>
       <button
         type="button"
@@ -138,6 +140,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
             <p>
               {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, {data.image.license}
               {data.image.ai_edit && `; ${t(`person.image_${data.image.ai_edit}`, lang)}`}
+              {data.image.fair_use && `; ${t('person.image_fair_use', lang)}`}
             </p>
           )
         }

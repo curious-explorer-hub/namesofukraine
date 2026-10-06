@@ -5,6 +5,7 @@
   "person.sources": "Sources",
   "person.image_credit": "Image",
   "person.image_colorized": "colorized with AI (Gemini)",
+  "person.image_fair_use": "used under fair use, not covered by the CC BY-SA license",
   "person.image_restored": "restored with AI (Gemini)",
   "person.last_reviewed": "As of",
   "person.fun_fact": "Fun fact",

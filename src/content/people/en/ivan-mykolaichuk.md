@@ -10,7 +10,7 @@ key_accomplishments:
   - "Director of the films Babylon XX (1979) and Such a Late, Such a Warm Autumn (1982)"
   - "Taras Shevchenko State Prize of Ukraine (1988, posthumously)"
 birthplace_name: "Chortoryia"
-image_alt: "Ukrainian postage stamp “Ivan Mykolaichuk. 1941–1987” (2016)"
+image_alt: "Photo portrait of Ivan Mykolaichuk"
 reviewed: true
 ---
 

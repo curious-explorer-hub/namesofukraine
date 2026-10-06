@@ -13,11 +13,11 @@ fun_fact: "У середині 1960-х Гончар був одним з іні�
 birthplace: { name: "Суха (нині Сухе)", region: poltava, country: UA, lat: 49.087, lon: 34.077 }
 image:
   src: ./images/oles-honchar.jpg
-  alt: "Марка маркованого конверта Укрпошти «100 років від дня народження Олеся Гончара» (2018)"
-  position: "38% 40%"
-  author: "Укрпошта (художник Миколай Кочубей)"
+  alt: "Фотопортрет Олеся Гончара, близько 1945–1950"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%9E%D0%9C_316_%C2%AB100_%D1%80%D0%BE%D0%BA%D1%96%D0%B2_%D0%B2%D1%96%D0%B4_%D0%B4%D0%BD%D1%8F_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%9E%D0%BB%D0%B5%D1%81%D1%8F_%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%B0%C2%BB.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BB%D0%B5%D1%81%D1%8C_%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80.jpg"
 key_accomplishments:
   - Трилогія «Прапороносці» (1946–1948) про Другу світову війну
   - Романи «Людина і зброя» (1960), «Тронка» (1963), «Собор» (1968), «Циклон» (1970)

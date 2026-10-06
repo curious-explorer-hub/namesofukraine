@@ -13,11 +13,12 @@ fun_fact: "Крім педагогічних праць, Сухомлинськ�
 birthplace: { name: "Василівка", region: kirovohrad, country: UA, lat: 48.838, lon: 33.289 }
 image:
   src: ./images/vasyl-sukhomlynskyi.jpg
-  alt: "Портрет Василя Сухомлинського на пам'ятній монеті НБУ «Серце віддаю дітям» (2018)"
-  position: "50% 35%"
-  author: "Національний банк України"
-  license: "Public domain"
-  source_url: "https://bank.gov.ua/ua/news/all/pamyatna-moneta-sertse-viddayu-dityam-do-100-richchya-vid-dnya-narodjennya-v-o-suhomlinskogo-vvoditsya-v-obig-z-03-veresnya-2018-roku"
+  alt: "Фотопортрет Василя Сухомлинського"
+  author: "Невідомий автор"
+  license: "Fair use"
+  ai_edit: colorized
+  fair_use: true
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%83%D1%85%D0%BE%D0%BC%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%92.jpg"
 key_accomplishments:
   - "Директор Павлиської середньої школи (1948–1970)"
   - "Книжка «Серце віддаю дітям» (1969) - Державна премія УРСР (1974)"

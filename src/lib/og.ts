@@ -5,7 +5,7 @@ import { join } from 'node:path';
 import satori from 'satori';
 import { Resvg } from '@resvg/resvg-js';
 import sharp from 'sharp';
-import { lifespan, type Person } from './people';
+import { freeImage, lifespan, type Person } from './people';
 import { t, type Lang } from '../i18n';
 
 const W = 1200;
@@ -56,7 +56,7 @@ const render = async (tree: Node) => {
 };
 
 export async function personCard(p: Person) {
-  const img = p.data.image ? await tintedPortrait(p.slug, 480, H) : null;
+  const img = freeImage(p) ? await tintedPortrait(p.slug, 480, H) : null;
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', width: W, height: H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
@@ -76,7 +76,7 @@ export async function personCard(p: Person) {
 
 export async function siteCard(lang: Lang, people: Person[]) {
   const faces = await Promise.all(
-    people.filter((p) => p.data.image).slice(0, 6).map((p) => tintedPortrait(p.slug, 180, 180)),
+    people.filter((p) => freeImage(p)).slice(0, 6).map((p) => tintedPortrait(p.slug, 180, 180)),
   );
   return render(
     h('div', { display: 'flex', flexDirection: 'column', width: W, height: H, background: C.paper, padding: '64px 72px', fontFamily: 'Fixel Text', color: C.ink, borderBottom: `12px solid ${C.wheat}` }, [

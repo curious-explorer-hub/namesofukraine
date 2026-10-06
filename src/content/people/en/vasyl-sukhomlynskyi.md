@@ -10,7 +10,7 @@ key_accomplishments:
   - "The works The Spiritual World of the Schoolchild, The Unique Human Being and others"
   - "Corresponding member of the USSR Academy of Pedagogical Sciences (1968)"
 birthplace_name: "Vasylivka"
-image_alt: "Portrait of Vasyl Sukhomlynskyi on the National Bank of Ukraine commemorative coin “I Give My Heart to Children” (2018)"
+image_alt: "Photo portrait of Vasyl Sukhomlynskyi"
 reviewed: true
 ---
 
