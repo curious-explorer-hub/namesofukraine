@@ -35,7 +35,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Костенко_Ліна_Василівна
   - title: Wikipedia (EN) - Lina Kostenko
     url: https://en.wikipedia.org/wiki/Lina_Kostenko
-related: [vasyl-stus, viacheslav-chornovil]
+related: [vasyl-stus, viacheslav-chornovil, vasyl-symonenko]
 reviewed: true
 ---
 

@@ -32,7 +32,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Микола_Хвильовий
   - title: Wikipedia (EN) - Mykola Khvylovy
     url: https://en.wikipedia.org/wiki/Mykola_Khvylovy
-related: [vasyl-stus]
+related: [vasyl-stus, les-kurbas, ostap-vyshnia]
 reviewed: true
 ---
 

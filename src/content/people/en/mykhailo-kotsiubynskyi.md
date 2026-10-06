@@ -20,7 +20,7 @@ Mykhailo Kotsiubynskyi was born in Vinnytsia, the son of a minor civil servant, 
 
 ## His story
 
-In the 1890s Kotsiubynskyi spent several years working for the phylloxera commission in Bessarabia and Crimea, and in 1898 he moved to Chernihiv, where he worked as a zemstvo statistician and in 1906–1908 headed the local Prosvita society. Early on he got to know Galician public figures, including Ivan Franko, and published in Galician periodicals.
+In the 1890s Kotsiubynskyi spent several years working for the phylloxera commission in Bessarabia and Crimea, and in 1898 he moved to Chernihiv, where he worked as a zemstvo statistician and in 1906–1908 headed the local Prosvita society. Early on he got to know Galician public figures, including [Ivan Franko](/en/people/ivan-franko/), and published in Galician periodicals.
 
 He began as a realist writer but grew into one of the most gifted Ukrainian modernists: the impressionist stories “On the Rock”, “The Apple Blossom” and “Intermezzo” combine subtle psychology with lyricism. The novella Fata Morgana depicts the Ukrainian village during the revolution of 1905–1907, and Shadows of Forgotten Ancestors (1911), written after a stay in the Carpathians, portrays the life of the Hutsuls with their beliefs and legends. Because of heart disease he went for treatment to the island of Capri. He died in Kyiv in 1913 and was buried in Chernihiv.
 

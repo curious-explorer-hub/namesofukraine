@@ -25,7 +25,7 @@ Ivan Kotliarevskyi was born in 1769 in Poltava into the family of a minor offici
 
 In 1796 Kotliarevskyi entered military service. He took part in the Russo-Turkish War of 1806–1812, and during the war of 1812 he raised the 5th Cossack Regiment and was made a major. From 1810 he ran a home in Poltava for the education of children of poor nobles, and in 1819–1821 he headed the Poltava theater. For its stage he wrote the plays Natalka Poltavka and Moskal-Charivnyk (“The Soldier-Sorcerer”, 1819), with which modern Ukrainian drama began.
 
-Kotliarevskyi’s main work is the Eneida, a comic reworking (travesty) of Virgil’s poem in which the Trojans became Cossacks and the gods spoke the language of a Poltava village. The first three parts came out in 1798 in St. Petersburg without the author’s permission. He worked on the poem for more than twenty years after that, and the complete edition appeared only after his death, in 1842. It is Kotliarevskyi, not Shevchenko, who is traditionally called the father of modern Ukrainian literature: the Eneida showed that the vernacular was fit for great literature.
+Kotliarevskyi’s main work is the Eneida, a comic reworking (travesty) of Virgil’s poem in which the Trojans became Cossacks and the gods spoke the language of a Poltava village. The first three parts came out in 1798 in St. Petersburg without the author’s permission. He worked on the poem for more than twenty years after that, and the complete edition appeared only after his death, in 1842. It is Kotliarevskyi, not [Shevchenko](/en/people/taras-shevchenko/), who is traditionally called the father of modern Ukrainian literature: the Eneida showed that the vernacular was fit for great literature.
 
 ## Why it matters today
 

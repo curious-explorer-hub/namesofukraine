@@ -35,7 +35,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Василь_Стус
   - title: Wikipedia (EN) - Vasyl Stus
     url: https://en.wikipedia.org/wiki/Vasyl_Stus
-related: [mykola-khvylovyi, ivan-franko]
+related: [mykola-khvylovyi, ivan-franko, viacheslav-chornovil, lina-kostenko, serhii-paradzhanov]
 reviewed: true
 ---
 

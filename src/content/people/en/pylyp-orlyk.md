@@ -19,7 +19,7 @@ reviewed: true
 
 ## Who he was
 
-Pylyp Orlyk was born in 1672 in the village of Kosuta in the Vilnius region (now Belarus) into a noble family. He studied at the Jesuit academy in Vilnius and in 1694 graduated from the Kyiv-Mohyla Collegium. He worked in the chancellery of the Kyiv Metropolitanate, then in the General Military Chancellery of the Hetmanate, and rose to the post of general chancellor, the closest aide of Hetman Ivan Mazepa. He also wrote poetry, including panegyrics in Mazepa’s honor.
+Pylyp Orlyk was born in 1672 in the village of Kosuta in the Vilnius region (now Belarus) into a noble family. He studied at the Jesuit academy in Vilnius and in 1694 graduated from the Kyiv-Mohyla Collegium. He worked in the chancellery of the Kyiv Metropolitanate, then in the General Military Chancellery of the Hetmanate, and rose to the post of general chancellor, the closest aide of Hetman [Ivan Mazepa](/en/people/ivan-mazepa/). He also wrote poetry, including panegyrics in Mazepa’s honor.
 
 ## His story
 

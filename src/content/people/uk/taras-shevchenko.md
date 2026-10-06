@@ -34,7 +34,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Тарас_Шевченко
   - title: Wikipedia (EN) - Taras Shevchenko
     url: https://en.wikipedia.org/wiki/Taras_Shevchenko
-related: [ivan-franko, lesya-ukrainka, mykola-lysenko, marko-vovchok]
+related: [ivan-franko, lesya-ukrainka, mykola-lysenko, marko-vovchok, ivan-kotliarevskyi]
 reviewed: true
 ---
 

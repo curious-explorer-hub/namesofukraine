@@ -33,7 +33,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Євген_Коновалець
   - title: Wikipedia (EN) - Yevhen Konovalets
     url: https://en.wikipedia.org/wiki/Yevhen_Konovalets
-related: [stepan-bandera, roman-shukhevych]
+related: [stepan-bandera, roman-shukhevych, olena-teliha]
 reviewed: true
 ---
 

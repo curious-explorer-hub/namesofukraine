@@ -20,7 +20,7 @@ Ivan Mykolaichuk was born in the village of Chortoryia in Bukovyna. He first tra
 
 ## His story
 
-Before he had even graduated, Mykolaichuk played [Taras Shevchenko](/en/people/taras-shevchenko/) in the film The Dream and Ivan in Sergei Parajanov’s Shadows of Forgotten Ancestors (both 1964). These roles made him one of the faces of Ukrainian poetic cinema. Following the aesthetic traditions of Oleksandr Dovzhenko, he created vivid characters in The Stone Cross, A White Bird with a Black Mark, Zakhar Berkut, The Lost Letter and many other films. Mykolaichuk also wrote screenplays, including the one for Yurii Illienko’s To Dream and to Live (1975).
+Before he had even graduated, Mykolaichuk played [Taras Shevchenko](/en/people/taras-shevchenko/) in the film The Dream and Ivan in [Sergei Parajanov](/en/people/serhii-paradzhanov/)’s Shadows of Forgotten Ancestors (both 1964). These roles made him one of the faces of Ukrainian poetic cinema. Following the aesthetic traditions of Oleksandr Dovzhenko, he created vivid characters in The Stone Cross, A White Bird with a Black Mark, Zakhar Berkut, The Lost Letter and many other films. Mykolaichuk also wrote screenplays, including the one for Yurii Illienko’s To Dream and to Live (1975).
 
 As a director he made Babylon XX (1979), based on a novel by Vasyl Zemliak, and Such a Late, Such a Warm Autumn (1982). In both he was a co-writer, arranged the music and played one of the roles. Mykolaichuk died in Kyiv on 3 August 1987, and the following year he was posthumously awarded the Taras Shevchenko State Prize.
 

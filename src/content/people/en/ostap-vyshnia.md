@@ -20,7 +20,7 @@ Ostap Vyshnia was the pen name of Pavlo Hubenko. He was born on the Chechva farm
 
 ## His story
 
-From 1921, as Ostap Vyshnia, he published in Kharkiv periodicals such as Visti VUTsVK, Selianska Pravda and Chervonyi Perets. His feuilletons and “smiles” about the village, language and culture, Ukrainization and Russian great-power chauvinism had enormous print runs. Together with Maik Yohansen and Mykola Khvylovy he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
+From 1921, as Ostap Vyshnia, he published in Kharkiv periodicals such as Visti VUTsVK, Selianska Pravda and Chervonyi Perets. His feuilletons and “smiles” about the village, language and culture, Ukrainization and Russian great-power chauvinism had enormous print runs. Together with Maik Yohansen and [Mykola Khvylovy](/en/people/mykola-khvylovyi/) he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
 
 From the late 1920s official critics began to hound the writer. On 25 December 1933 he was groundlessly arrested on charges of nationalism and plotting terrorism and sentenced to ten years in labor camps. He served his sentence in the North, in Ukhta (Komi ASSR). Released in 1943, he lived in Kyiv from 1944 and returned to literature, completing his cycle Hunting Smiles. Some of his works from this period, including pamphlets against “Ukrainian bourgeois nationalists”, followed official Party guidelines. He was rehabilitated in 1955 and died in Kyiv in 1956.
 

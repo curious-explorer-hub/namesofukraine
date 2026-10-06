@@ -22,7 +22,7 @@ Mykhailo Drahomanov was born in Hadiach in the Poltava region into a gentry fami
 
 In 1875 the tsarist authorities dismissed Drahomanov from the university for his part in the Hromada’s activities. In 1876 he emigrated to Geneva to be the Hromada’s voice in Western Europe. There he founded the Free Ukrainian Press and published the journal Hromada (1878–1882), the first Ukrainian political journal, as well as pamphlets meant to inform the European public about the situation of Ukrainians in the Russian Empire. Together with Serhii Podolynskyi and Mykhailo Pavlyk he founded the Geneva Circle, the seed of the Ukrainian socialist movement.
 
-Drahomanov kept close ties with young Galicians, including Ivan Franko, and became the intellectual mentor of the Ruthenian-Ukrainian Radical Party, founded in 1890. After a break with the Kyiv Hromada (1886) he lost its financial support, and in 1889 he accepted an invitation to head the Department of General History at Sofia University. He died and was buried in Sofia.
+Drahomanov kept close ties with young Galicians, including [Ivan Franko](/en/people/ivan-franko/), and became the intellectual mentor of the Ruthenian-Ukrainian Radical Party, founded in 1890. After a break with the Kyiv Hromada (1886) he lost its financial support, and in 1889 he accepted an invitation to head the Department of General History at Sofia University. He died and was buried in Sofia.
 
 Drahomanov’s political ideal was a federal state with broad self-government for communities and regions, with cultural-national autonomy for Ukraine and respect for the principle of its unity. He did not believe that Ukrainian independence was achievable in his time, so he called for the democratization and federalization of states.
 

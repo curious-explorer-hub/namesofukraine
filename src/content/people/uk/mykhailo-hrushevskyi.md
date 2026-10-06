@@ -32,7 +32,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Грушевський_Михайло_Сергійович
   - title: Wikipedia (EN) - Mykhailo Hrushevsky
     url: https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky
-related: [ivan-franko, volodymyr-vernadskyi]
+related: [ivan-franko, volodymyr-vernadskyi, pavlo-skoropadskyi, symon-petliura]
 reviewed: true
 ---
 

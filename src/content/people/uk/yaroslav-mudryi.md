@@ -36,7 +36,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Ярослав_Мудрий
   - title: Wikipedia (EN) - Yaroslav the Wise
     url: https://en.wikipedia.org/wiki/Yaroslav_the_Wise
-related: [volodymyr-velykyi, anna-yaroslavna]
+related: [volodymyr-velykyi, anna-yaroslavna, kniahynia-olha]
 reviewed: true
 ---
 

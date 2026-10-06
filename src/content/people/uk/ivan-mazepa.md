@@ -35,7 +35,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Іван_Мазепа
   - title: Wikipedia (EN) - Ivan Mazepa
     url: https://en.wikipedia.org/wiki/Ivan_Mazepa
-related: [petro-sahaidachnyi]
+related: [petro-sahaidachnyi, pylyp-orlyk]
 reviewed: true
 ---
 

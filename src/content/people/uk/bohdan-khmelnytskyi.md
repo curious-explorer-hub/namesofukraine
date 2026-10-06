@@ -35,7 +35,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Богдан_Хмельницький
   - title: Wikipedia (EN) - Bohdan Khmelnytsky
     url: https://en.wikipedia.org/wiki/Bohdan_Khmelnytsky
-related: [petro-sahaidachnyi, ivan-mazepa]
+related: [petro-sahaidachnyi, ivan-mazepa, ivan-bohun, ivan-sirko]
 reviewed: true
 ---
 

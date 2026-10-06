@@ -36,7 +36,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Володимир_Святославич
   - title: Wikipedia (EN) - Vladimir the Great
     url: https://en.wikipedia.org/wiki/Vladimir_the_Great
-related: [yaroslav-mudryi, kniahynia-olha]
+related: [yaroslav-mudryi, kniahynia-olha, anna-yaroslavna]
 reviewed: true
 ---
 

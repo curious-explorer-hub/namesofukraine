@@ -33,7 +33,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Сергій_Параджанов
   - title: Wikipedia (EN) - Sergei Parajanov
     url: https://en.wikipedia.org/wiki/Sergei_Parajanov
-related: [vasyl-stus, mykhailo-kotsiubynskyi]
+related: [vasyl-stus, mykhailo-kotsiubynskyi, ivan-mykolaichuk]
 reviewed: true
 ---
 
