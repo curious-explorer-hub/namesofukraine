@@ -19,6 +19,7 @@ image:
   alt: "Серж Лифар на репетиції Нідерландського балету, фото 1961"
   author: "Herbert Behrens / Anefo"
   license: "CC0"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Serge_Lifar_1961.jpg"
 key_accomplishments:
   - Соліст «Російського балету» Сергія Дягілєва (1923–1929)

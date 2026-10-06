@@ -12,7 +12,7 @@ key_accomplishments:
   - "About 150 choral arrangements of folk songs"
   - "Teacher and organizer of the choral movement in Ukraine"
 birthplace_name: "Monastyrok"
-image_alt: "Photograph of Mykola Leontovych"
+image_alt: "Mykola Leontovych in uniform with an order, a photograph from before 1921"
 reviewed: true
 ---
 

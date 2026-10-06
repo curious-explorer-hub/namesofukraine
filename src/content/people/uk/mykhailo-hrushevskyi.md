@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Михайла Грушевського"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Hrushevskyi_Mykhailo_XX.jpg"
 key_accomplishments:
   - Фундаментальна «Історія України-Руси» в 10 томах

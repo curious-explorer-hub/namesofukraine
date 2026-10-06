@@ -18,9 +18,10 @@ places:
   - { name: "Козин", lat: 50.216, lon: 30.659, note: "місце смерті й поховання, музей співака" }
 image:
   src: ./images/anatolii-solovianenko.jpg
-  alt: "Анатолій Солов'яненко, фото з журналу «Soviet Life», 1984"
+  alt: "Анатолій Солов'яненко: фото з журналу «Soviet Life» (1984) перетворено ШІ на фотореалістичне зображення"
   author: "Невідомий фотограф (журнал «Soviet Life»)"
   license: "Public domain"
+  ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:Anatoliy_Solovianenko_-_Soviet_Life,_October_1984.jpg"
 key_accomplishments:
   - "Соліст Київського театру опери та балету імені Т. Шевченка (1962–1992)"

@@ -13,11 +13,13 @@ fun_fact: "У 1920-х роках 23 книжки Остапа Вишні вит�
 birthplace: { name: "хутір Чечва (нині село Грунь)", region: sumy, country: UA, lat: 50.238, lon: 34.603 }
 image:
   src: ./images/ostap-vyshnia.jpg
-  alt: "Остап Вишня, фотографія О. Кореневича, 1928"
-  position: "50% 35%"
-  author: "О. Кореневич"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ostap_Vyshnya.jpg"
+  alt: "Остап Вишня в останні роки життя; зображення створено ШІ, вихідну світлину не встановлено"
+  position: "50% 30%"
+  author: "Невідомий автор (вихідну світлину не встановлено)"
+  license: "Невідомо"
+  ai_edit: rendered
+  fair_use: true
+  source_url: "https://commons.wikimedia.org/wiki/Category:Ostap_Vyshnia"
 key_accomplishments:
   - Цикли «Вишневі усмішки» (сільські, кримські, літературні, закордонні та інші)
   - Збірка «Українізуємось» і сатира на російський великодержавний шовінізм

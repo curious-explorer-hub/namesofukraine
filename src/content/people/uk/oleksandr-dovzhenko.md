@@ -13,10 +13,11 @@ fun_fact: "Єдину роль у кіно Довженко зіграв у вл
 birthplace: { name: "Хутір В'юнище (нині в межах Сосниці)", region: chernihiv, country: UA, lat: 51.531, lon: 32.500 }
 image:
   src: ./images/oleksandr-dovzhenko.jpg
-  alt: "Фотопортрет Олександра Довженка роботи Данила Демуцького"
+  alt: "Олександр Довженко: світлину Данила Демуцького перетворено ШІ на фотореалістичне зображення з вигаданим тлом"
   position: "45% 35%"
   author: "Данило Демуцький"
   license: "Public domain"
+  ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:Oleksandr_Dovzhenko.jpg"
 key_accomplishments:
   - "Фільми «Звенигора» (1927), «Арсенал» (1929) і «Земля» (1930)"

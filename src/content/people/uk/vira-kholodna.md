@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Віри Холодної, 1910-ті"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:VeraKholodna.jpg"
 key_accomplishments:
   - "Одна з перших великих зірок німого кіно в Російській імперії, «королева екрана»"

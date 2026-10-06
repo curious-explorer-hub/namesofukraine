@@ -16,10 +16,11 @@ misconception:
 birthplace: { name: "Монастирок", region: vinnytsia, country: UA, lat: 48.973, lon: 28.862 }
 image:
   src: ./images/mykola-leontovych.jpg
-  alt: "Фотопортрет Миколи Леонтовича"
+  alt: "Микола Леонтович у формі з орденом, світлина до 1921 року"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_leontovych.jpg"
+  license: "CC BY-SA 4.0"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Dmytrovych_Leontovych.png"
 key_accomplishments:
   - Хорова обробка «Щедрика», вперше виконана в Києві 1916 року
   - Близько 150 хорових обробок народних пісень

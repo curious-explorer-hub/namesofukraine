@@ -17,6 +17,7 @@ image:
   position: "50% 25%"
   author: "Невідомий автор (репродукція з видання: М. Попович, «Культура: ілюстрована енциклопедія України», 2009)"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D1%81%D1%8C_%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D1%81._Les%27_Kurbas.jpg"
 key_accomplishments:
   - "Заснував «Молодий театр» у Києві (1917) і мистецьке об'єднання «Березіль» (1922)"

@@ -17,11 +17,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "Лук'янівська в'язниця, місце смерті" }
 image:
   src: ./images/vasyl-vyshyvanyi.jpg
-  alt: "Василь Вишиваний у військовому однострої, світлина з його автографом, 1920 рік"
-  position: "50% 10%"
+  alt: "Василь Вишиваний у вишиванці та кожусі, світлина близько 1918 року"
+  position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Василь_Вишиваний,_1920.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Vyshyvanyi_01.jpg"
 key_accomplishments:
   - "Командир Легіону Українських січових стрільців (з квітня 1918 року)"
   - "Як член верхньої палати австрійського парламенту співпрацював з українськими депутатами й домагався поділу Галичини на українську і польську частини"

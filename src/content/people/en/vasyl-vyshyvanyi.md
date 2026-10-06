@@ -10,7 +10,7 @@ key_accomplishments:
   - "Colonel of the UPR Army (from 1919), worked in the foreign relations department of the UPR war ministry"
   - "Author of the collection of Ukrainian poems Days Go By (Vienna, 1921)"
 birthplace_name: "Pula (Austria-Hungary, now Croatia)"
-image_alt: "Vasyl Vyshyvanyi in military uniform, a photograph with his autograph, 1920"
+image_alt: "Vasyl Vyshyvanyi in an embroidered shirt and sheepskin coat, a photograph from about 1918"
 reviewed: true
 ---
 

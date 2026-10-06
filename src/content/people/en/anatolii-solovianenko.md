@@ -10,7 +10,7 @@ key_accomplishments:
   - "Roles including the Duke (Rigoletto), Alfredo (La Traviata), Rodolfo (La Bohème), Lensky (Eugene Onegin) and Andrii (Zaporozhian Cossack beyond the Danube)"
   - "People’s Artist of the USSR (1975), Shevchenko Prize (1997), Hero of Ukraine (2008, posthumously, Decree No. 615/2008)"
 birthplace_name: "Stalino (now Donetsk)"
-image_alt: "Anatolii Solovianenko, photo from the magazine Soviet Life, 1984"
+image_alt: "Anatolii Solovianenko: a photo from Soviet Life (1984) turned by AI into a photo-like image"
 reviewed: true
 ---
 

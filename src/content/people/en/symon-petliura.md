@@ -10,7 +10,7 @@ key_accomplishments:
   - "Led the UPR Army in the war against the Bolsheviks and Denikin’s forces; ordered the start of the First Winter Campaign (1919)"
   - "Founded the weekly Tryzub in Paris and led the UPR government in exile"
 birthplace_name: "Poltava"
-image_alt: "Symon Petliura in Kamianets-Podilskyi, summer 1919"
+image_alt: "Symon Petliura in Kamianets-Podilskyi, 1919: the photograph turned by AI into a photo-like image; uniform and insignia changed"
 reviewed: true
 ---
 

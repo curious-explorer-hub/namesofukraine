@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Євгена Коновальця"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%84%D0%B2%D0%B3%D0%B5%D0%BD_%D0%9A%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D1%86%D1%8C.jpg"
 key_accomplishments:
   - Співзасновник і командир формації Січових стрільців у Києві (1917–1919)

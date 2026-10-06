@@ -21,6 +21,7 @@ image:
   position: "50% 18%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Pavlo_Skoropadsky.jpg"
 key_accomplishments:
   - "Українізував 34-й армійський корпус у 1-й Український корпус і в грудні 1917 року не допустив збільшовичені частини до Києва"

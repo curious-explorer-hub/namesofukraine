@@ -23,6 +23,7 @@ image:
   position: "50% 20%"
   author: "Український інститут національної пам'яті"
   license: "CC BY 4.0"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Володимир_Івасюк.jpg"
 key_accomplishments:
   - "«Червона рута» й «Водограй» (1970): перемоги на всесоюзних телефестивалях «Пісня-71» і «Пісня-72»"

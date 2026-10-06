@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Соломії Крушельницької роботи Маріо Нунеса Ваїса, бл. 1905–1910"
   author: "Mario Nunes Vais"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Solomiya_Krushelnytska_06.jpg"
 key_accomplishments:
   - Виступала в міланському «Ла Скала», паризькій «Ґранд-опера», театрі «Колон» у Буенос-Айресі та на інших провідних сценах

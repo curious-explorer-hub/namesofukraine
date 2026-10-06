@@ -16,11 +16,12 @@ places:
   - { name: "Париж", lat: 48.857, lon: 2.352, note: "еміграція, спогади; похований на цвинтарі Пер-Лашез" }
 image:
   src: ./images/nestor-makhno.jpg
-  alt: "Фотопортрет Нестора Махна, 1919"
-  position: "45% 25%"
+  alt: "Нестор Махно в таборі для інтернованих у Румунії, 1921"
+  position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Makhno-1919.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:1921._%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80_%D0%9C%D0%B0%D1%85%D0%BD%D0%BE_%D0%B2_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BB%D0%B8%D1%86_%D0%B2_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8.jpg"
 key_accomplishments:
   - "Як голова Гуляйпільської ради підписав 1917 року декрет про конфіскацію поміщицької землі й поділ її між селянами"
   - "Очолив повстання проти австро-німецьких військ і влади гетьмана Скоропадського (1918)"

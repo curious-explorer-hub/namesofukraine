@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Володимира Вернадського, 1934"
   author: "АН СССР"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:1934-V_I_Vernadsky.jpg"
 key_accomplishments:
   - Перший президент Української академії наук (1918)
