@@ -28,7 +28,7 @@ In order. Pick from the top.
 
 ## Launch checklist
 
-- [ ] **L3. Real domain `namesofukraine.org`.** Register at Cloudflare Registrar (~$10–12/yr), add it under the Pages project's Custom domains, set `site` in `astro.config.mjs`, redeploy, then the domain section of [post-launch.md](post-launch.md). Pick the social handle (`@znaisvoikh` or `@namesofukraine`). *Owner.*
+- [ ] **L3. Real domain `namesofukraine.com`.** Register at Cloudflare Registrar (~$10–12/yr), add it under the Pages project's Custom domains, set `site` in `astro.config.mjs`, redeploy, then the domain section of [post-launch.md](post-launch.md). Pick the social handle (`@znaisvoikh` or `@namesofukraine`). *Owner.*
 - [ ] **L7. Search engines.** Code done. Open: Google Search Console + Bing Webmaster Tools and sitemap submission, **after L3** (don't submit the `pages.dev` address). *Owner.*
 - [ ] **L10. Monitoring.** Confirm Web Analytics data arrives; UptimeRobot on `/uk/`. Routines in [post-launch.md](post-launch.md). Custom events ("read to the end") would need GoatCounter or Plausible: later, once there are readers. *Owner.*
 - [ ] **L11. Social and support accounts.** Code done. Open: create Instagram, Threads, Patreon and Buy Me a Coffee, and set their URLs in `src/site.ts` (`SOCIAL_LINKS`, `SUPPORT_LINKS`); until then the pages say "coming soon". In Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*

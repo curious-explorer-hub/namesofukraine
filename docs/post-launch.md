@@ -1,6 +1,6 @@
 # Post-launch checklist
 
-Do these once the site is live on Cloudflare Pages (done 2026-10-05, [product_vision.md](../product_vision.md) §10) and, where noted, on its real domain (L3). During the soft launch the site runs on `https://namesofukraine.pages.dev`; use that address for the launch-day steps and skip the domain section until `namesofukraine.org` is registered. Each step is free and takes minutes. Tick them here as they're done.
+Do these once the site is live on Cloudflare Pages (done 2026-10-05, [product_vision.md](../product_vision.md) §10) and, where noted, on its real domain (L3). During the soft launch the site runs on `https://namesofukraine.pages.dev`; use that address for the launch-day steps and skip the domain section until `namesofukraine.com` is registered. Each step is free and takes minutes. Tick them here as they're done.
 
 ## Launch day
 
@@ -11,9 +11,9 @@ Do these once the site is live on Cloudflare Pages (done 2026-10-05, [product_vi
 
 ## Once the real domain is set (L3)
 
-- [ ] **Register `namesofukraine.org`** at Cloudflare Registrar and add it under the Pages project's **Custom domains** (Cloudflare creates the DNS record and certificate). Add `www.namesofukraine.org` too, redirecting to the bare domain.
+- [ ] **Register `namesofukraine.com`** at Cloudflare Registrar and add it under the Pages project's **Custom domains** (Cloudflare creates the DNS record and certificate). Add `www.namesofukraine.com` too, redirecting to the bare domain.
 - [ ] **Redirect the soft-launch address.** Make `namesofukraine.pages.dev` send visitors to the `.org` (a Cloudflare Bulk Redirect, or a `_redirects` rule), so early links keep working.
-- [ ] **`site` points to the domain** in `astro.config.mjs` (`https://namesofukraine.org`), and the site is redeployed. Check that `https://namesofukraine.org/robots.txt` lists `https://namesofukraine.org/sitemap-index.xml` and that a page's `<link rel="canonical">` uses the domain.
+- [ ] **`site` points to the domain** in `astro.config.mjs` (`https://namesofukraine.com`), and the site is redeployed. Check that `https://namesofukraine.com/robots.txt` lists `https://namesofukraine.com/sitemap-index.xml` and that a page's `<link rel="canonical">` uses the domain.
 - [ ] **Google Search Console** (L7). Add a *Domain* property, verify it with the DNS TXT record (Cloudflare DNS → Add record), then **Sitemaps → submit `sitemap-index.xml`**. Use **URL inspection** on the home page and one profile, and press *Request indexing*.
 - [ ] **Bing Webmaster Tools.** Sign in at <https://www.bing.com/webmasters> and import the site from Search Console. This also covers DuckDuckGo and Yahoo.
 - [ ] **Share previews.** Paste a profile URL into a Telegram chat and into <https://www.opengraph.xyz>, and check that the share card shows the portrait, name, and role.

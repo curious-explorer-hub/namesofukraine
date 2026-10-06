@@ -1,4 +1,4 @@
-# Names of Ukraine — namesofukraine.org
+# Names of Ukraine — namesofukraine.com
 
 **«Знай своїх»** (Know Your Own). A free static website about the people who made Ukraine, for the young generation.
 

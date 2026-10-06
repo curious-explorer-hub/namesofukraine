@@ -2,7 +2,7 @@
 
 How content gets from this repository to the live site, and what to do when it doesn't.
 
-**Live site:** <https://namesofukraine.pages.dev> (soft launch; `namesofukraine.org` later, see [BACKLOG.md](BACKLOG.md), L3).
+**Live site:** <https://namesofukraine.pages.dev> (soft launch; `namesofukraine.com` later, see [BACKLOG.md](BACKLOG.md), L3).
 **Hosting:** Cloudflare **Pages** project `namesofukraine`.
 **Deploys:** GitHub Actions, workflow `.github/workflows/ci.yml`.
 
@@ -86,7 +86,7 @@ Repository protections (protected `main`, approval for outside contributors' wor
 
 ## Moving to the real domain
 
-See the domain section of [post-launch.md](post-launch.md): register `namesofukraine.org`, add it under the Pages project's **Custom domains**, set `site` in `astro.config.mjs`, push, and redirect the `pages.dev` address to it.
+See the domain section of [post-launch.md](post-launch.md): register `namesofukraine.com`, add it under the Pages project's **Custom domains**, set `site` in `astro.config.mjs`, push, and redirect the `pages.dev` address to it.
 
 ## The feedback form (Tally)
 

@@ -40,7 +40,7 @@ export default defineConfig({
       assetsInlineLimit: (file) => (file.endsWith('.js') ? false : undefined),
     },
   },
-  // Soft launch on Cloudflare's free address (2026-10-04); switch to https://namesofukraine.org when it's
+  // Soft launch on Cloudflare's free address (2026-10-04); switch to https://namesofukraine.com when it's
   // registered (docs/BACKLOG.md, L3). Drives canonical, hreflang, sitemap, robots.txt, JSON-LD and share-card URLs.
   site: 'https://namesofukraine.pages.dev',
   i18n: {
