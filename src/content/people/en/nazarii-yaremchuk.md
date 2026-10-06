@@ -10,6 +10,7 @@ key_accomplishments:
   - "The songs “Stozhary,” “Smerekova Khata” (The Spruce Cottage), “Hai, Zelenyi Hai” (Grove, Green Grove) and “Batko i Maty” (Father and Mother)"
   - "Shevchenko Prize (1996, posthumously) and the title Hero of Ukraine (2021, posthumously)"
 birthplace_name: "Rivnia (now part of Vyzhnytsia)"
+image_alt: "Nazarii Yaremchuk at a VIA Smerichka concert, 1984"
 reviewed: true
 ---
 
