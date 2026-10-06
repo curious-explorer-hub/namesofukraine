@@ -11,7 +11,8 @@
     "test": "vitest run",
     "revitalize": "node --env-file-if-exists=.env scripts/revitalize-photos.mjs",
     "test:e2e": "npm run build && playwright test",
-    "feedback": "node scripts/pull-feedback.mjs"
+    "feedback": "node scripts/pull-feedback.mjs",
+    "enhance": "node --env-file-if-exists=.env scripts/enhance-photos.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
+    "@google/genai": "^2.27.0",
     "@playwright/test": "^1.63.0",
     "@resvg/resvg-js": "^2.6.2",
     "happy-dom": "^20.14.5",
