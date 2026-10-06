@@ -1,7 +1,8 @@
 // Birthplace map on the home page (src/components/BirthMap.astro). Clicking a region (on the map or
 // in the list) sets the region filter. The map follows the other filters (search, field, era, unread):
 // shades, dots and counts show who they let through, in every region, so another region is one click
-// away; with a region selected, the dots elsewhere step back.
+// away; with a region selected, the dots elsewhere step back. The continent cards under the map show
+// the people born abroad the same way; clicking a card picks "abroad".
 
 import { matches } from './filter';
 import { getRead } from './read-marks';
@@ -12,7 +13,9 @@ export function initBirthMap() {
   const select = form?.elements.namedItem('region');
   if (!root || !form || !(select instanceof HTMLSelectElement)) return;
 
-  const svg = root.querySelector<SVGSVGElement>('.map-svg')!;
+  const svg = root.querySelector<SVGSVGElement>('.map-svg:not(.map-svg-world)')!;
+  const worlds = [...root.querySelectorAll<SVGSVGElement>('.map-svg-world')];
+  const cards = [...root.querySelectorAll<HTMLElement>('.map-world-card')];
   const canvas = root.querySelector<HTMLElement>('.map-canvas')!;
   const tip = root.querySelector<HTMLElement>('.map-tip')!;
   const regions = [...root.querySelectorAll<SVGPathElement>('.map-region')];
@@ -66,6 +69,12 @@ export function initBirthMap() {
       const text = d.querySelector('text');
       if (text) text.textContent = String(n || d.dataset.slugs!.split(' ').length);
     }
+    for (const c of cards) {
+      const n = c.dataset.slugs!.split(' ').filter((s) => shown.has(s)).length;
+      c.querySelector('.map-world-count')!.textContent = String(n);
+      c.classList.toggle('is-empty', n === 0);
+      c.classList.toggle('is-picked', select.value === 'abroad');
+    }
     for (const b of picks) {
       b.setAttribute('aria-pressed', String(select.value === b.dataset.region));
       const n = counts.get(b.dataset.region!) ?? 0;
@@ -85,15 +94,16 @@ export function initBirthMap() {
     tip.dataset.side = e.clientX - box.left > box.width / 2 ? 'end' : 'start';
     tip.hidden = false;
   };
-  svg.addEventListener('pointermove', show);
-  svg.addEventListener('pointerleave', () => (tip.hidden = true));
-
-  svg.addEventListener('click', (e) => {
-    const dot = (e.target as Element).closest<SVGGElement>('.map-dot');
-    if (dot?.dataset.href && !dot.classList.contains('is-out')) return void (location.href = dot.dataset.href);
-    const region = dot?.dataset.region ?? (e.target as Element).closest<SVGElement>('.map-region.is-active')?.dataset.region;
-    if (region && offered.has(region)) pick(region);
-  });
+  for (const s of [svg, ...worlds]) {
+    s.addEventListener('pointermove', show);
+    s.addEventListener('pointerleave', () => (tip.hidden = true));
+    s.addEventListener('click', (e) => {
+      const dot = (e.target as Element).closest<SVGGElement>('.map-dot');
+      if (dot?.dataset.href && !dot.classList.contains('is-out')) return void (location.href = dot.dataset.href);
+      const region = s === svg ? (dot?.dataset.region ?? (e.target as Element).closest<SVGElement>('.map-region.is-active')?.dataset.region) : 'abroad';
+      if (region && offered.has(region)) pick(region);
+    });
+  }
   svg.addEventListener('keydown', (e) => {
     const region = (e.target as Element).closest<SVGElement>('.map-region.is-active');
     if (!region || (e.key !== 'Enter' && e.key !== ' ')) return;

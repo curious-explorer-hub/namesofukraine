@@ -753,6 +753,27 @@ a { color: var(--cobalt); }
 }
 .map-tip[data-side='end'] { transform: translate(calc(-100% - 0.75rem), calc(-100% - 0.5rem)); }
 .map-side { margin-top: 1rem; max-width: 60rem; }
+/* Born outside Ukraine: a small card per continent (coastlines only, Ukraine shaded), the same dots */
+.map-world { margin-top: 1.25rem; }
+.map-world-cards { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; margin: 0; padding: 0; }
+.map-world-card {
+  flex: 1 1 9.5rem;
+  max-width: 19rem;
+  padding: 0.5rem 0.5rem 0.4rem;
+  border: 1px solid var(--mist);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--cobalt) 4%, var(--paper));
+  outline: 2px solid transparent;
+  transition: outline-color 200ms ease, opacity 300ms ease;
+}
+.map-world-card .map-svg { cursor: pointer; overflow: hidden; border-radius: 4px; }
+.map-world-card:hover { outline-color: color-mix(in srgb, var(--wheat) 70%, transparent); }
+.map-world-card.is-picked { outline-color: var(--wheat); }
+.map-world-card.is-empty { opacity: 0.5; }
+.map-land { fill: color-mix(in srgb, var(--slate) 20%, var(--paper)); }
+.map-home { fill: color-mix(in srgb, var(--cobalt) 45%, var(--paper)); }
+.map-world-name { display: flex; justify-content: space-between; margin: 0.35rem 0.15rem 0; font-size: 0.875rem; font-weight: 500; }
+.map-world-count { font-weight: 700; color: var(--cobalt); font-variant-numeric: tabular-nums; }
 .map-side-title { margin: 0 0 0.5rem; font-size: 1rem; font-weight: 500; }
 /* Every region as a compact row, in columns */
 .map-list { list-style: none; margin: 0; padding: 0; columns: 4 9.5rem; column-gap: 1.5rem; }

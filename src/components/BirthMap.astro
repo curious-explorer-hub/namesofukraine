@@ -1,7 +1,8 @@
 ---
 import { regions, project, WIDTH, HEIGHT } from '../lib/map';
+import { CONTINENTS, continentOf, frame } from '../lib/world';
 import { personUrl, regionLabel, type Person } from '../lib/people';
-import { t, type Lang } from '../i18n';
+import { t, type Key, type Lang } from '../i18n';
 
 interface Props {
   people: Person[];
@@ -39,6 +40,27 @@ const list = [...totals]
   // Short names in the list ("Полтавська", not "Полтавська область"); the map's labels keep the full name.
   .map(([id, n]) => ({ id, n, label: regionLabel(id, lang).replace(/ (область|Oblast)$/, '') }));
 const level = (n: number) => (n ? Math.ceil((n / most) * 4) : 0);
+
+// Born outside Ukraine: a small card per continent that has someone (src/lib/world.ts), same dots.
+const dotsIn = (group: Person[][], proj: (lon: number, lat: number) => [number, number], width: number) =>
+  group
+    .map((g) => {
+      const [x, y] = proj(g[0].data.birthplace.lon!, g[0].data.birthplace.lat!);
+      return { x, y, group: g, names: g.map((p) => p.data.name).join(', '), delay: Math.round((x / width) * 600) };
+    })
+    .sort((a, b) => b.group.length - a.group.length);
+const abroad = people.filter((p) => p.data.birthplace.region === 'abroad' && p.data.birthplace.lat !== undefined && p.data.birthplace.lon !== undefined);
+const cards = CONTINENTS.map(({ id }) => {
+  const here = abroad.filter((p) => continentOf(p.data.birthplace.lon!, p.data.birthplace.lat!) === id);
+  if (!here.length) return null;
+  const f = frame(id);
+  const byPlace = new Map<string, Person[]>();
+  for (const p of here) {
+    const key = `${p.data.birthplace.lat!.toFixed(2)},${p.data.birthplace.lon!.toFixed(2)}`;
+    byPlace.set(key, [...(byPlace.get(key) ?? []), p]);
+  }
+  return { ...f, name: t(`map.continent.${id}` as Key, lang), people: here, dots: dotsIn([...byPlace.values()], f.project, f.width) };
+}).filter((c) => c !== null);
 ---
 
 <section class="map" data-map data-most={most} data-label={t('map.region_label', lang, { region: '{region}', n: '{n}' })} data-empty={t('map.region_empty', lang, { region: '{region}' })} aria-labelledby="map-title">
@@ -78,6 +100,39 @@ const level = (n: number) => (n ? Math.ceil((n / most) * 4) : 0);
           ))}
         </g>
       </svg>
+      {
+        cards.length > 0 && (
+          <div class="map-world">
+            <h3 class="map-side-title">{t('map.abroad_title', lang)}</h3>
+            <ul class="map-world-cards" role="list">
+              {cards.map((c) => (
+                <li class="map-world-card" data-slugs={c.people.map((p) => p.slug).join(' ')}>
+                  <svg class="map-svg map-svg-world" viewBox={`0 0 ${c.width} ${c.height}`} role="img" aria-label={`${c.name}: ${c.people.map((p) => p.data.name).join(', ')}`}>
+                    <path class="map-land" d={c.land} />
+                    {c.ukraine && <path class="map-home" d={c.ukraine} />}
+                    <g class="map-dots" aria-hidden="true">
+                      {c.dots.map((d) => (
+                        <g
+                          class:list={['map-dot', { 'map-dot-many': d.group.length > 1 }]}
+                          data-group={d.group.length === 1 ? d.group[0].data.group : undefined}
+                          data-slugs={d.group.map((p) => p.slug).join(' ')}
+                          data-region="abroad"
+                          data-names={d.names}
+                          data-href={d.group.length === 1 ? personUrl(d.group[0]) : undefined}
+                          style={`--d: ${d.delay}ms`}>
+                          <circle cx={d.x.toFixed(1)} cy={d.y.toFixed(1)} r={d.group.length > 1 ? 7 + Math.sqrt(d.group.length) * 2.5 : 6} />
+                          {d.group.length > 1 && <text x={d.x.toFixed(1)} y={d.y.toFixed(1)} dy="0.35em">{d.group.length}</text>}
+                        </g>
+                      ))}
+                    </g>
+                  </svg>
+                  <p class="map-world-name">{c.name} <span class="map-world-count">{c.people.length}</span></p>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )
+      }
       <div class="map-tip" hidden></div>
     </div>
     <div class="map-side">

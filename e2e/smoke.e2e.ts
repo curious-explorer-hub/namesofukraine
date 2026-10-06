@@ -83,7 +83,8 @@ test.describe('without JavaScript', () => {
   test('the home page shows the group tiles, each linking to its category page', async ({ page }) => {
     await page.goto('/uk/');
     await expect(page.locator('.tile')).not.toHaveCount(0);
-    await expect(page.locator('.map-svg')).toBeVisible(); // every panel is shown, one after another
+    await expect(page.locator('.map-svg:not(.map-svg-world)')).toBeVisible(); // every panel is shown, one after another
+    await expect(page.locator('.map-world-card')).not.toHaveCount(0); // and the continent cards, as pictures
     await page.locator('.tile').first().click();
     await expect(page).toHaveURL(/\/uk\/groups\/[a-z-]+\/$/);
   });
