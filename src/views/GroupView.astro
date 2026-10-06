@@ -34,7 +34,7 @@ const { lang, label, members } = Astro.props;
   <FilterBar people={members} lang={lang} hideGroup />
 
   <div class="catalogue">
-    <section class="group" aria-label={label}>
+    <section class="group" data-group={members[0]?.data.group} aria-label={label}>
       <ul class="shelf shelf-wrap" role="list">
         {members.map((p) => (
           <PersonCard person={p} headingLevel="h2" />

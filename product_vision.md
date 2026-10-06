@@ -127,7 +127,7 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | 2026-09-29 | D13 | **New-additions feed:** home row + `/new/` + "Нове" badge + RSS at launch; Telegram/Instagram posts per batch after launch (D13-E). |
 | 2026-09-29 | D14 | **Categories:** one `group` per person + many `tags`. Groups: `statehood`, `literature`, `visual-arts`, `performing-arts`, `science`, `civic`, `faith`, `sport`, `defenders` (labels in `src/content/categories.json`). |
 | 2026-09-29 | D15 | **Map (Phase 3):** Leaflet/MapLibre + OSM-based tiles; birthplace coordinates collected now. |
-| 2026-09-29 | D16 | **Portraits:** free portraits with one automatic visual treatment (grayscale over cobalt on cards, full colour on the profile); commissioned illustrations for featured figures later, if possible. |
+| 2026-09-29 | D16 | **Portraits:** free portraits with one automatic visual treatment (grayscale over cobalt on cards, full colour on the profile); commissioned illustrations for featured figures later, if possible. *Changed 2026-10-05:* the site shows portraits in full colour everywhere; the cobalt treatment remains only on share images (OG). |
 | 2026-09-29 | D17 | **Feedback form:** Tally (free, spam protection, no login). |
 | 2026-09-29 | G4 | Selection criteria per §7. |
 | 2026-09-29 | — | **Content before promotion:** review locally until ready; soft launch on `pages.dev` before buying the domain and promoting. |

@@ -34,7 +34,7 @@ const stitch = (color: string) =>
 const stitchRow = (n: number, size = 22) =>
   h('div', { display: 'flex', gap: 6 }, Array.from({ length: n }, (_, i) => h('img', { width: size, height: size }, undefined, { src: stitch(i === 0 ? C.wheat : C.cobalt), width: size, height: size })));
 
-// Same treatment as the site's CSS: grayscale screened over cobalt, cropped towards the face.
+// Share images only (the site shows portraits in full colour): grayscale screened over cobalt, cropped towards the face.
 const tintedPortrait = async (slug: string, width: number, height: number) => {
   const gray = await sharp(join(root, 'src/content/people/uk/images', `${slug}.jpg`))
     .resize(width, height, { fit: 'cover', position: 'north' })

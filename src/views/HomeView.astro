@@ -61,7 +61,7 @@ const phone = '(max-width: 47.99rem)';
   <div class="catalogue" data-preview={GROUP_PREVIEW}>
     {
       sections.map((s) => (
-        <section class="group" aria-labelledby={`group-${s.id}`}>
+        <section class="group" data-group={s.id} aria-labelledby={`group-${s.id}`}>
           <div class="section-head">
             <h2 id={`group-${s.id}`} class="section-title">{s.label[lang]}</h2>
             {/* The only place the section size is shown; always present so every section has it. */}
