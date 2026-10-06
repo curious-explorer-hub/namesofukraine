@@ -42,7 +42,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Шевченко_Андрій_Миколайович
   - title: Wikipedia (EN) - Andriy Shevchenko
     url: https://en.wikipedia.org/wiki/Andriy_Shevchenko
-related: [valerii-lobanovskyi]
+related: [valerii-lobanovskyi, oleh-blokhin]
 reviewed: true
 ---
 
@@ -60,4 +60,4 @@ reviewed: true
 
 ## Чому це важливо сьогодні
 
-Шевченко довів, що футболіст з української футбольної школи може стати найкращим у Європі. Його «Золотий м'яч» - один із трьох в історії українського футболу, після Олега Блохіна та Ігоря Бєланова.
+Шевченко довів, що футболіст з української футбольної школи може стати найкращим у Європі. Його «Золотий м'яч» - один із трьох в історії українського футболу, після [Олега Блохіна](/uk/people/oleh-blokhin/) та Ігоря Бєланова.

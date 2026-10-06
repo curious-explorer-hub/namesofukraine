@@ -33,7 +33,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Іван_Франко
   - title: Wikipedia (EN) - Ivan Franko
     url: https://en.wikipedia.org/wiki/Ivan_Franko
-related: [taras-shevchenko, lesya-ukrainka, mykhailo-drahomanov, mykhailo-hrushevskyi, mykhailo-kotsiubynskyi]
+related: [taras-shevchenko, lesya-ukrainka, mykhailo-drahomanov, mykhailo-hrushevskyi, mykhailo-kotsiubynskyi, ahatanhel-krymskyi]
 reviewed: true
 ---
 

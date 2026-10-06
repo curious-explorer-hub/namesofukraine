@@ -34,7 +34,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Володимир_Вернадський
   - title: Wikipedia (EN) - Vladimir Vernadsky
     url: https://en.wikipedia.org/wiki/Vladimir_Vernadsky
-related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi]
+related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi, ahatanhel-krymskyi]
 reviewed: true
 ---
 

@@ -19,7 +19,7 @@ reviewed: true
 
 ## Who he was
 
-Vasyl Stus was born in the Vinnytsia region and spent his childhood and youth in the Donetsk region. He studied at the pedagogical institute in Donetsk, and later did postgraduate studies at the Institute of Literature in Kyiv. In 1965, at the premiere of the film Shadows of Forgotten Ancestors, he supported Ivan Dziuba’s public protest against the arrests of Ukrainian intellectuals. For this he was expelled from his postgraduate program.
+Vasyl Stus was born in the Vinnytsia region and spent his childhood and youth in the Donetsk region. He studied at the pedagogical institute in Donetsk, and later did postgraduate studies at the Institute of Literature in Kyiv. In 1965, at the premiere of the film Shadows of Forgotten Ancestors, he supported [Ivan Dziuba](/en/people/ivan-dziuba/)’s public protest against the arrests of Ukrainian intellectuals. For this he was expelled from his postgraduate program.
 
 ## His story
 

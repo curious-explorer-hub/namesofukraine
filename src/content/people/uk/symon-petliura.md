@@ -42,7 +42,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Симон_Петлюра
   - title: Wikipedia (EN) - Symon Petliura
     url: https://en.wikipedia.org/wiki/Symon_Petliura
-related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno]
+related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko]
 reviewed: true
 ---
 

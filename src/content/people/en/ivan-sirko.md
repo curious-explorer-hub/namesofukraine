@@ -31,7 +31,7 @@ Sirko changed his political alliances often. He opposed the pro-Polish policies 
 
 Legends grew up around Sirko during his lifetime and especially after his death. He is the hero of folk tales and dumas; according to legend, he was a kharakternyk, a Cossack with supernatural powers. These stories are part of folklore, not documented facts.
 
-The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by Ilya Repin’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also assessed in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians interpret his motives differently.
+The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by [Ilya Repin](/en/people/illia-riepin/)’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also assessed in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians interpret his motives differently.
 
 ## Why it matters today
 

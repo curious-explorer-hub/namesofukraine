@@ -5,7 +5,7 @@ Open and in-progress work only. What the site must do, the rules, and what's alr
 ## Status (2026-10-06)
 
 - **Live:** <https://namesofukraine.pages.dev> (soft launch since 2026-10-05), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
-- **Content:** 86 profiles in Ukrainian and English. 3 without a portrait (initials; L15): Ruf, Kryvtsov, Kyrychenko.
+- **Content:** 109 profiles in Ukrainian and English (batch 5 published 2026-10-06). 4 without a portrait (initials; L15): Ruf, Kryvtsov, Kyrychenko, Yalovtsov.
 - **Next milestone:** public launch = real domain (L3) + social pages and promotion (L11, L13).
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
 
@@ -23,7 +23,7 @@ In order. Pick from the top.
 
 - **C1. Colorized and restored portraits** *(in progress, owner).* Black-and-white, faded or damaged portraits redone with AI (Gemini); `ai_edit: colorized` or `restored`; keep the original author, license and source; skip any result that changes the person's look. Most-viewed and most-linked profiles and the field tiles' faces first.
 - **C2. Cross-profile links (I17)** *(in progress).* Done 2026-10-06: 54 links in the story text (uk and en, at the sentence that explains the tie), 41 new `related:` entries, the "Links" column in [CANDIDATES.md](CANDIDATES.md). The 56 one-way `related:` links left are deliberate: influence or theme (Kryvtsov → Stus, Marchuk → Bilokur, Kadeniuk → Korolov), not a personal tie, so the famous profiles don't collect everyone who admired them. Open: more mentions in the text that could become links; names of institutions and prizes («театр імені Франка», «премія імені Шевченка») stay unlinked.
-- **C3. Add people, prioritized by connections.** Next batch from CANDIDATES.md by how many profiles each candidate connects to (C2c), weighing the balance by hand (product_vision.md §7.2). Usual workflow: both languages, ≥ 2 sources, fact-check, portraits (free license first), `reviewed: true` in both.
+- **C3. Add people, prioritized by connections** *(batch 5 done 2026-10-06: 23 profiles, to 109; next batch from CANDIDATES.md)*. Next batch from CANDIDATES.md by how many profiles each candidate connects to (C2c), weighing the balance by hand (product_vision.md §7.2). Usual workflow: both languages, ≥ 2 sources, fact-check, portraits (free license first), `reviewed: true` in both.
 - **C4. Grow the candidate list.** Beyond the NV, ВУ and Rubryka lists: encyclopedias (ESU, Encyclopedia of Ukrainian History), state awards (Shevchenko Prize, Hero of Ukraine), diaspora, science and sport halls of fame, regional figures for empty oblasts (Kherson, Odesa, Zakarpattia, Luhansk and others), women and living people. Each with years, field, era, source and links (C2c).
 
 ## Launch checklist
@@ -37,6 +37,7 @@ In order. Pick from the top.
   - **No free photo:** Ruf, Kryvtsov, Kyrychenko (initials). Checked uk/en Wikipedia and Commons 2026-10-05; ArmyInform CC BY 4.0 copies are reposts of third-party photos; Commons has only derivative works (Tsybukh's memorial photo, Kyrychenko's plaque), and Ukraine has no freedom of panorama. Next: ask Suspilne or the families for written permission.
   - **Fair use** (D6): Mykolaichuk, Sukhomlynskyi, Tsybukh, Petrychenko. On any rights-holder request, remove the file and the `image:` block the same day. Better: written permission from Dovzhenko Film Studios / the Mykolaichuk museum and the Sukhomlynskyi museum in Pavlysh.
   - **Doubtful tags:** Bykov's *Tamer of Tigers* still is tagged PD-Russia-1996, which looks wrong for a 1955 film; Commons has no clear upgrade (other stills share the tag; a 1961 group photo is `PD-self` and small). Symonenko's photo is PD-Ukraine with no date (needs publication before 1956; not PD in the US): find the first publication, or use `Stamp of Ukraine s1421 (cropped).jpg` (Ukrposhta 2015, PD).
+  - **Batch 5 (2026-10-06):** Yalovtsov has no free portrait (initials; a mural photo was not used: no freedom of panorama in Ukraine). Solovianenko's 1984 *Soviet Life* photo is tagged only PD-US-1978-89 (owner decision: used, like Skoropadskyi's case). Hetman (150×200) and Kondratiuk (238×381) have the only free photos, very small: replace when better ones appear. Ivasiuk's photo is CC BY 4.0 via УІНП, photographer unknown.
   - **Worth confirming:** Kotliarevskyi's painting (date and artist unknown; a Tropinin portrait is a safe alternative); Hryntsevych and Ratushnyi use government-site photos that may be family or unit photos.
 
 ## Ideas
@@ -47,7 +48,7 @@ Not scheduled.
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked and was removed pending refinement; `places[]` and `quotes[]` exist in the schema but are empty. Open: keeping a timeline in sync with the prose; a real map vs a list of OpenStreetMap links; whether every profile needs all three.
 - **I16. "Most read".** (a) Private, now: Cloudflare Web Analytics → Top paths, adding the `/uk/` and `/en/` rows per person. (b) A public "Most read this month" row: a nightly GitHub Action reads the Web Analytics GraphQL API, writes `src/content/popular.json` and rebuilds (no server code; one read-only token). Only at a few hundred profile views a week.
 - **I17 C. Automatic links** to the first mention of each profiled person in the story text, at build time (remark plugin, `aliases.json`, never inside quotes). And a test that fails on one-way `related:` links unless marked intentional.
-- **I18. Home page that stays short.** A tag cloud by count (needs a `?tag=` filter). Every card is in the home page for the filters (~297 KB HTML at 86 people); past ~200 people, filter from a small JSON index instead.
+- **I18. Home page that stays short.** A tag cloud by count (needs a `?tag=` filter). Every card is in the home page for the filters (~465 KB HTML at 109 people); past ~200 people, filter from a small JSON index instead.
 - **I20. Map, next steps.** 5 people have no dot (birthplace unknown; they're in the region list). Researched 2026-10-06: for Olha, Volodymyr, Yaroslav, Vyshnevetskyi and Bohun the Encyclopedia of the History of Ukraine names no birthplace, and the places found online trace back to uncited Wikipedia/Wikidata entries; Olha's chronicle «Плесков» (read as Pskov) is already in her profile text. Places of major work (`places[]`); zoom into dense areas (Kyiv, Lviv); check Crimea's outline and the borders by eye before the public launch.
 - **I11. Periodic security review** (e.g. an OWASP ZAP baseline against the live site); headers, CSP, `dist/` check, `npm audit` and Dependabot are in place ([SECURITY.md](SECURITY.md)). If content ever comes from outside, sanitize Markdown/HTML and keep human review.
 - **Phase 3** (product_vision.md §3.8): personality quiz · printable teacher pages · CMS.

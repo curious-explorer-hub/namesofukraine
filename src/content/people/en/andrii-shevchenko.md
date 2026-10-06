@@ -30,4 +30,4 @@ In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada on the list of the 
 
 ## Why it matters today
 
-Shevchenko proved that a footballer from the Ukrainian school of football could become the best in Europe. His Ballon d'Or is one of three in the history of Ukrainian football, after those of Oleh Blokhin and Ihor Belanov.
+Shevchenko proved that a footballer from the Ukrainian school of football could become the best in Europe. His Ballon d'Or is one of three in the history of Ukrainian football, after those of [Oleh Blokhin](/en/people/oleh-blokhin/) and Ihor Belanov.

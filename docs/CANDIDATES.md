@@ -42,46 +42,26 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Микола Костомаров | 1817–1885 | Historian (science)                  | 19th c. | | Backlog | NV | | |
 | Нікола Терещенко | 1819–1903 | Industrialist and patron (civic)     | 19th c. | | Backlog | NV | Богдан Ханенко* (родина; кандидат) | |
 | Іван Пулюй | 1845–1918 | Physicist (science)                  | 19th c. | 🌍 | Backlog | NV | | |
-| Ілля Рєпін | | Painter (visual-arts)                | 19th c. | 🌍 ⚖️ | Backlog | ВУ [65] | Сірко («Запорожці») | Born in Chuhuiv; usually counted as a Russian painter |
 | Богдан Ханенко | 1849–1917 | Patron (civic)                       | 19th c. | 👥 | Backlog | NV | Нікола Терещенко* (родина; кандидат) | NV lists him with Варвара Ханенко (1852–1922): one joint profile or two? |
 | Шолом-Алейхем | 1859–1916 | Writer (literature)                  | 19th c. | 🌍 | Backlog | NV | Ступка (Тев'є) | Ukrainian-born Yiddish writer |
 | Владислав Городецький | 1863–1930 | Architect (visual-arts)              | 19th c. | 🌍 | Backlog | NV | | |
 | Євген Патон | 1870–1953 | Engineer (science)                   | 19th c. | | Backlog | NV | Борис Патон (батько) | Father of Борис Патон (on the site) |
-| Агатангел Кримський | 1871–1942 | Orientalist (science)                | 19th c. | | Backlog | NV | Вернадський*, Скоропадський* (Академія наук, 1918), Франко*, Леся Українка* | |
-| Володимир Винниченко | 1880–1951 | State and letters (statehood)        | 20th c. | | Backlog | NV | Петлюра*, Грушевський*, Скоропадський* (Центральна Рада, Директорія) | |
 | Олександр Богомолець | 1881–1946 | Physiologist (science)               | 20th c. | | Backlog | NV | | |
 | Михайло Бойчук | 1882–1937 | Painter (visual-arts)                | 20th c. | | Backlog | NV | Георгій Нарбут* (Академія мистецтв, 1917; кандидат) | |
 | Георгій Нарбут | 1886–1920 | Graphic artist (visual-arts)         | 20th c. | | Backlog | NV | Скоропадський* (герб і гроші Української Держави); Бойчук (кандидат) | Designed the 1918 banknote on the era ribbon |
-| Микола Зеров | 1890–1937 | Poet (literature)                    | 20th c. | | Backlog | NV | Курбас*, Хвильовий* (Розстріляне відродження; Сандармох, 1937) | |
-| Василь Вишиваний (Wilhelm von Habsburg) | 1895–1948 or 1954 | State (statehood)                    | 20th c. | 🌍 ⚖️ | Backlog | NV | Шептицький*, Скоропадський* | |
-| Юрій Кондратюк | 1897–1942 | Space-flight pioneer (science)       | 20th c. | | Backlog | NV | Корольов* (космонавтика) | |
-| Йосип Сліпий | | UGCC patriarch (faith)               | 20th c. | | Backlog | ВУ [48] | Шептицький* (наступник); Гузар (кандидат) | 18 years in Soviet camps |
+| Йосип Сліпий | | UGCC patriarch (faith)               | 20th c. | | Backlog | ВУ [48] | Шептицький* (наступник); Гузар | 18 years in Soviet camps |
 | Олег Антонов | 1906–1984 | Aircraft designer (science)          | 20th c. | 🌍 | Backlog | NV | | |
 | Антон Макаренко | | Educator (science)                   | 20th c. | 🌍 ⚖️ | Backlog | ВУ [87] | Сухомлинський* (педагогіка) | |
 | Віктор Глушков | 1923–1982 | Computer science (science)           | 20th c. | 🌍 | Backlog | NV | | |
 | Микола Гринько | | Actor (performing-arts)              | 20th c. | | Backlog | ВУ [59] | | |
 | Мирослав Попович | 1930–2018 | Philosopher (science)                | 20th c. | | Backlog | NV | Сковорода* (книга про нього) | |
-| Анатолій Солов'яненко | 1932–1999 | Opera singer (performing-arts)       | 20th c. | | Backlog | NV | | |
-| Любомир Гузар | 1933–2017 | UGCC head (faith)                    | 20th c. | | Backlog | NV | Шептицький*; Сліпий, Ґудзяк (кандидати) | |
-| Вадим Гетьман | 1935–1998 | Financier (statehood)                | 20th c. | | Backlog | NV | | |
-| Валентин Сильвестров | b. 1937 | Composer (performing-arts)            | 20th c. | 🟢 | Backlog | NV | | |
 | Борис Баранов | 1940–2005 | Chornobyl liquidator (civic)         | 20th c. | | Backlog | NV | | |
-| Мустафа Джемілєв | b. 1943 | Crimean Tatar leader (civic)         | 20th c. | 🟢 | Backlog | NV | | |
-| В'ячеслав Брюховецький | b. 1947 | Educator (civic)                     | 20th c. | 🟢 | Backlog | NV | | Verify he is living |
-| Софія Ротару | | Singer (performing-arts)             | 20th c. | 👩 🟢 ⚖️ | Backlog | ВУ [54], Heroes | Яремчук* («Червона рута», 1971); Івасюк (кандидат) | Career in Russia after 2014 is debated |
-| Олег Блохін | | Footballer (sport)                   | 20th c. | 🟢 | Backlog | ВУ [56] | Лобановський, Андрій Шевченко | |
-| Володимир Івасюк | 1949–1979 | Composer (performing-arts)           | 20th c. | | Backlog | NV, Heroes | Яремчук («Червона рута», «Водограй»); Ротару (кандидат) | |
-| Іван Дзюба | 1931–2022 | Dissident, literary scholar (civic)  | 20th c. | | Backlog | Heroes | Стус, Чорновіл*, Костенко*, Симоненко* (шістдесятники) | Hero of Ukraine (2001). Author of «Інтернаціоналізм чи русифікація?» (to verify) |
+| Софія Ротару | | Singer (performing-arts)             | 20th c. | 👩 🟢 ⚖️ | Backlog | ВУ [54], Heroes | Яремчук* («Червона рута», 1971); Івасюк | Career in Russia after 2014 is debated |
 | Леонід Кравчук | | State (statehood)                    | Independence | ⚖️ | Backlog | ВУ [51] | Чорновіл, Лук'яненко* (Акт проголошення незалежності) | First president; Soviet party career |
-| Володимир Бойко | | Industrialist (civic)                | Independence | | Backlog | ВУ [50] | | Verify which person the poll meant |
-| Борис Ґудзяк | b. 1960 | UGCC metropolitan (faith)            | Independence | 🟢 | Backlog | NV | Шептицький* (УКУ); Гузар (кандидат) | |
+| Борис Ґудзяк | b. 1960 | UGCC metropolitan (faith)            | Independence | 🟢 | Backlog | NV | Шептицький* (УКУ); Гузар | |
 | Олександр Ройтбурд | 1961–2021 | Painter (visual-arts)                | Independence | | Backlog | NV | | |
-| Кузьма Скрябін (Андрій Кузьменко) | 1968–2015 | Musician (performing-arts)           | Independence | | Backlog | Heroes | | Leader of the band «Скрябін»; Hero of Ukraine (2020, posthumously): verify the award |
 | Сергій Жадан | b. 1974 | Writer (literature)                  | Independence | 🟢 | Backlog | NV | | |
-| Олег Сенцов | b. 1976 | Film director (performing-arts)      | Independence | 🟢 | Backlog | NV | | |
-| Святослав Вакарчук | | Singer (performing-arts)             | Independence | 🟢 | Backlog | ВУ [64] | | |
 | Олег Скрипка | | Musician (performing-arts)           | Independence | 🟢 | Backlog | ВУ [90] | Ніна Матвієнко | |
-| Максим Яловцов («Регбіст») | 1990–2022 | Athlete, soldier (defenders)         | Independence | | Excluded | Defenders | | Owner decision, 2026-10-04: skipped. Re-checked for batch 4: agreed facts are born 05.08.1990, died 21.09.2022, Order for Courage 3rd class (decree 81/2023, National Guard); sources still conflict on birthplace (Kyiv / Russia / mid-air in the USSR) and unit (National Guard vs ГУР). Revisit if a family or unit statement settles them |
 | Костянтин-Василь Острозький | 1526–1608 | State, patron (statehood)            | Lithuanian-Polish | 👥 | Decision | NV | Сагайдачний (Острозька академія), Вишневецький (рід); Федоров, Гальшка (кандидати) | The NV entry also covers his father Костянтин (1460–1530): one joint profile or two? |
 | Володимир Зеленський | | State (statehood)                    | Independence | 🟢 | Decision | | | Current leader (see editorial notes) |
 | Валерій Залужний | | Military (statehood)                 | Independence | 🟢 | Decision | Heroes | | Serving leader |
@@ -90,6 +70,4 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Герої Небесної Сотні | 2014 | Collective                           | Independence | 👥 | Decision | Heroes | | The people killed during the Revolution of Dignity, awarded posthumously |
 | Захисники Азовсталі | 2022 | Collective                           | Independence | 👥 | Decision | NV | | |
 | Невідомий солдат | | Collective                           | | 👥 | Decision | ВУ [100] | | Not a person |
-| Сергій Бубка | | Athlete (sport)                      | | 🟢 | Excluded | | | Owner decision, 2026-09-29 |
-| Віталій і Володимир Клички | | Athletes (sport)                     | | 🟢 👥 | Excluded | ВУ top 20 | | Owner decision, 2026-09-29 |
 | Віктор Ющенко | | State (statehood)                    | | 🟢 | Excluded | ВУ top 20 | | Owner decision, 2026-09-29 |

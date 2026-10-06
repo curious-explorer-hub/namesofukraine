@@ -41,7 +41,7 @@ sources:
     url: "https://uk.wikiquote.org/wiki/Чорновіл_В'ячеслав_Максимович"
   - title: "Північ - До 80-річчя з дня народження В'ячеслава Чорновола"
     url: "http://pivnich.org.ua/355-do-80-richchya-z-dnya-narodzhennya-vyacheslava-chornovola.html"
-related: [vasyl-stus, bohdan-havrylyshyn, levko-lukianenko]
+related: [vasyl-stus, bohdan-havrylyshyn, levko-lukianenko, ivan-dziuba]
 reviewed: true
 ---
 

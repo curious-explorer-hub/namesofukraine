@@ -34,7 +34,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Леся_Українка
   - title: Wikipedia (EN) - Lesya Ukrainka
     url: https://en.wikipedia.org/wiki/Lesya_Ukrainka
-related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov]
+related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov, ahatanhel-krymskyi]
 reviewed: true
 ---
 

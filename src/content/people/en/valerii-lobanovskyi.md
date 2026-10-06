@@ -25,7 +25,7 @@ Valeriy Lobanovskyi was born in Kyiv. He played as a forward for Dynamo Kyiv, an
 
 As Dynamo’s coach, Lobanovskyi, together with the scientist Anatolii Zelentsov, put football on a scientific footing: he measured players’ physical performance, analyzed match statistics and built training around precise programs. His teams played fast, collective, tactically disciplined football.
 
-Under his leadership Dynamo won the Cup Winners’ Cup twice, and the players Oleh Blokhin and Ihor Belanov received the Ballon d’Or. In the 1990s Lobanovskyi returned to Dynamo and brought up a new generation of stars, including [Andriy Shevchenko](/en/people/andrii-shevchenko/) and Serhii Rebrov; in 1999 the team reached the Champions League semi-final.
+Under his leadership Dynamo won the Cup Winners’ Cup twice, and the players [Oleh Blokhin](/en/people/oleh-blokhin/) and Ihor Belanov received the Ballon d’Or. In the 1990s Lobanovskyi returned to Dynamo and brought up a new generation of stars, including [Andriy Shevchenko](/en/people/andrii-shevchenko/) and Serhii Rebrov; in 1999 the team reached the Champions League semi-final.
 
 He died in 2002 after a stroke he suffered during a match in Zaporizhzhia. He was posthumously awarded the title Hero of Ukraine.
 
