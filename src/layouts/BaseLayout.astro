@@ -3,7 +3,6 @@ import '../styles/global.css';
 import { t, languages, type Lang } from '../i18n';
 import { localePath } from '../lib/people';
 import { jsonForScript } from '../lib/json';
-import SearchDialog from '../components/SearchDialog.astro';
 // Same mark as the favicon, inlined so it scales crisply and needs no extra request.
 import mark from '../../public/favicon.svg?raw';
 
@@ -63,9 +62,9 @@ const home = localePath(lang, '/');
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="alternate" type="application/rss+xml" title={t('site.title', lang)} href={new URL(localePath(lang, '/rss.xml'), Astro.site)} />
     <slot name="head" />
-    <!-- The filter bar and the search button need JavaScript. They are visible from the first paint (no
-         layout shift when the script starts) and hidden only for visitors without JavaScript. -->
-    <noscript><style>.filters, .search-open { display: none !important; }</style></noscript>
+    <!-- The filter bar, the explore tabs and the map's region list need JavaScript. They are visible from
+         the first paint (no layout shift when the script starts) and hidden only for visitors without it. -->
+    <noscript><style>.filters, .map-side, .explore-tabs { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
     {structuredData.map((item) => <script is:inline type="application/ld+json" set:html={jsonForScript(item)} />)}
     <link rel="preload" href="/fonts/FixelDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/FixelText-Regular.woff2" as="font" type="font/woff2" crossorigin />
@@ -78,7 +77,6 @@ const home = localePath(lang, '/');
           <span class="logo-text">{t('site.title', lang)}</span>
         </a>
         <nav class="site-nav" aria-label={t('nav.label', lang)}>
-          <SearchDialog lang={lang} />
           <a class="nav-link lang-switch" href={pathIn(other)} hreflang={other} lang={other} aria-label={t('lang.switch_label', lang)}><span class="lang-long">{t('lang.switch', lang)}</span><span class="lang-short" aria-hidden="true">{t('lang.switch_short', lang)}</span></a>
         </nav>
       </div>
@@ -101,11 +99,9 @@ const home = localePath(lang, '/');
     <script>
       import { initReadMarks } from '../scripts/read-marks';
       import { initPortraitTransitions, initCardSpotlight } from '../scripts/motion';
-      import { initSearch } from '../scripts/search';
       import { initEraIndicator } from '../scripts/era-ribbon';
       initReadMarks();
       initEraIndicator();
-      initSearch();
       initPortraitTransitions();
       initCardSpotlight();
     </script>

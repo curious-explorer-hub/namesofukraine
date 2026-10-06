@@ -12,11 +12,11 @@ interface Props {
 
 const { people, lang } = Astro.props;
 // A picture of each era sits behind its band, in colour (credits: src/content/eras.json, About page).
-// Cropped to the band shape (about 180×150 CSS px, at 2× density), centred like the CSS `cover`.
+// Cropped to the card shape (about 290×225 CSS px on desktop, at 2× density), centred like the CSS `cover`.
 const eraImages = import.meta.glob<{ default: ImageMetadata }>('../assets/eras/*.jpg', { eager: true });
 const background = async (file: string) => {
   const img = eraImages[`../assets/eras/${file}`]?.default;
-  return img ? `--era-bg: url(${(await getImage({ src: img, width: 360, height: 300, fit: 'cover', format: 'webp', quality: 65 })).src})` : undefined;
+  return img ? `--era-bg: url(${(await getImage({ src: img, width: 600, height: 460, fit: 'cover', format: 'webp', quality: 65 })).src})` : undefined;
 };
 const bands = await Promise.all(eras.map(async (era) => {
   const members = people
@@ -62,7 +62,7 @@ const most = Math.max(1, ...bands.map((b) => b.people.length));
             {band.faces.length > 0 && (
               <span class="era-faces" aria-hidden="true">
                 {band.faces.map((p) => (
-                  <Portrait person={p} class="era-face" widths={[48, 96]} sizes="2.25rem" tag="span" />
+                  <Portrait person={p} class="era-face" widths={[56, 112]} sizes="2.75rem" tag="span" />
                 ))}
               </span>
             )}

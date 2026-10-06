@@ -106,86 +106,6 @@ a { color: var(--cobalt); }
 }
 .nav-link[aria-current='page'] { color: var(--cobalt); text-decoration-color: var(--wheat); text-decoration-thickness: 3px; }
 .recent-more { margin: 0.75rem 0 0; font-weight: 500; }
-/* Site search: a header button opens a dialog (src/scripts/search.ts) */
-.search-open {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  min-height: 2.75rem;
-  padding: 0 0.6rem 0 0.85rem;
-  font: inherit;
-  font-weight: 500;
-  color: var(--ink);
-  background: var(--paper);
-  border: 1.5px solid var(--ink);
-  border-radius: 999px;
-  cursor: pointer;
-}
-.search-open:hover { background: var(--ink); color: var(--paper); }
-.search-key { padding: 0 0.4rem; font: 500 0.8125rem/1.5 var(--font-text); border: 1px solid currentColor; border-radius: 4px; opacity: 0.75; }
-@media (hover: none) { .search-key { display: none; } }
-@media (max-width: 30rem) {
-  .search-open { width: 2.75rem; padding: 0; justify-content: center; }
-  .search-key { display: none; }
-  /* Icon only, but the label still names the button for screen readers */
-  .search-open-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-}
-.search {
-  width: min(40rem, calc(100vw - 2rem));
-  max-height: min(34rem, calc(100dvh - 4rem));
-  margin: 12vh auto auto;
-  padding: 0;
-  color: var(--ink);
-  background: var(--paper);
-  border: 0;
-  border-radius: 10px;
-  box-shadow: 0 30px 60px -20px rgb(21 34 59 / 0.5);
-  overflow: hidden;
-}
-.search::backdrop { background: rgb(21 34 59 / 0.45); backdrop-filter: blur(4px); }
-.search-panel { display: flex; flex-direction: column; max-height: inherit; }
-.search-form { display: flex; align-items: center; gap: 0.75rem; padding: 0 0.5rem 0 1.1rem; color: var(--slate); border-bottom: 1.5px solid var(--mist); }
-.search-form:focus-within { box-shadow: inset 0 -3px 0 var(--wheat); }
-.search-input { flex: 1; min-width: 0; padding: 1rem 0; font: inherit; font-size: var(--step-1); color: var(--ink); background: none; border: 0; outline: none; }
-.search-close { min-width: 2.75rem; min-height: 2.75rem; font: inherit; color: var(--slate); background: none; border: 0; cursor: pointer; }
-.search-close kbd { padding: 0.1rem 0.45rem; font: 500 0.8125rem var(--font-text); border: 1px solid currentColor; border-radius: 4px; }
-.search-close:hover { color: var(--ink); }
-.search-results { list-style: none; margin: 0; padding: 0.4rem; overflow-y: auto; }
-.search-results:empty { display: none; }
-.search-results a { display: flex; align-items: center; gap: 0.85rem; padding: 0.5rem 0.6rem; color: inherit; text-decoration: none; border-radius: 6px; }
-.search-results [aria-selected='true'] a { background: var(--accent); color: var(--paper); }
-.search-face {
-  flex: none;
-  display: grid;
-  place-items: center;
-  width: 2.75rem;
-  height: 2.75rem;
-  overflow: hidden;
-  font: 700 0.95rem var(--font-display);
-  color: var(--paper);
-  background: var(--accent);
-  border-radius: 50%;
-}
-.search-face img { display: block; width: 100%; height: 100%; object-fit: cover; }
-.search-text { display: grid; min-width: 0; line-height: 1.3; }
-.search-name { font-family: var(--font-display); font-weight: 700; }
-.search-role { overflow: hidden; font-size: 0.9375rem; color: var(--accent); white-space: nowrap; text-overflow: ellipsis; }
-.search-years { font-size: 0.8125rem; color: var(--slate); font-variant-numeric: tabular-nums; }
-.search-results [aria-selected='true'] .search-role { color: var(--paper); }
-.search-results [aria-selected='true'] .search-years { color: var(--mist); }
-.search-status { margin: 0; padding: 0.75rem 1.1rem; font-size: 0.875rem; color: var(--slate); }
-.search-status:empty { display: none; }
-@media (prefers-reduced-motion: no-preference) {
-  .search[open] { animation: pop 220ms cubic-bezier(0.2, 0.7, 0.3, 1); }
-  .search[open]::backdrop { animation: fade 220ms ease; }
-  @keyframes pop {
-    from { opacity: 0; transform: translateY(-8px) scale(0.98); }
-  }
-  @keyframes fade {
-    from { opacity: 0; }
-  }
-}
-
 /* Logo: the stitch-rhombus mark (same as the favicon) + wordmark; always links home */
 .logo {
   display: inline-flex;
@@ -320,20 +240,18 @@ a { color: var(--cobalt); }
 [data-era='19th-century'] { --era: #006a6a; }
 [data-era='20th-century'] { --era: #00618f; }
 [data-era='independence'] { --era: #1e4eac; }
-.ribbon { margin-block: 1rem 2.5rem; }
+.ribbon { margin: 0; }
+/* Era cards in rows: two per row on phones, four from tablet up (seven eras: 4 + 3) */
 .ribbon-bands {
   position: relative;
   list-style: none;
   margin: 0;
-  padding: 0 0 0.5rem;
+  padding: 0;
   display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: minmax(9.5rem, 1fr);
-  overflow-x: auto;
-  scroll-snap-type: x proximity;
+  gap: 0.75rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
-.ribbon-bands > li { scroll-snap-align: start; }
-.ribbon-bands > li + li .era { border-left: 1px solid var(--mist); }
+@media (min-width: 48rem) { .ribbon-bands { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 .era {
   --era-c: var(--era, var(--cobalt));
   position: relative;
@@ -345,15 +263,18 @@ a { color: var(--cobalt); }
   gap: 0.15rem;
   width: 100%;
   height: 100%;
-  padding: 0.9rem 0.9rem 1rem;
+  min-height: 12rem;
+  padding: 1rem 1rem 1.1rem;
   font: inherit;
   text-align: left;
   color: var(--ink);
   background: transparent;
   border: 0;
-  border-top: 4px solid var(--era-c);
+  border-top: 5px solid var(--era-c);
+  border-radius: 6px;
   cursor: pointer;
 }
+@media (min-width: 48rem) { .era { min-height: 14rem; padding: 1.25rem; } }
 .era:disabled { cursor: default; color: var(--slate); --era-c: var(--slate); }
 /* The era's picture in colour, coming alive (stronger, slowly zooming) on hover. A paper wash keeps
    the name and dates at the bottom readable. */
@@ -388,12 +309,13 @@ a { color: var(--cobalt); }
 .ribbon-indicator {
   position: absolute;
   top: 0;
-  bottom: 0.5rem;
   left: 0;
   width: var(--w, 0);
-  transform: translateX(var(--x, 0));
+  height: var(--h, 0);
+  transform: translate(var(--x, 0), var(--y, 0));
   z-index: 0;
   background: var(--era, var(--cobalt));
+  border-radius: 6px;
   opacity: 0;
   pointer-events: none;
 }
@@ -409,7 +331,7 @@ a { color: var(--cobalt); }
   .era::before { transition: opacity 400ms ease, transform 1.6s cubic-bezier(0.2, 0.7, 0.3, 1); }
   .ribbon-indicator {
     transition: transform 500ms cubic-bezier(0.2, 0.7, 0.3, 1), width 500ms cubic-bezier(0.2, 0.7, 0.3, 1),
-      background-color 500ms ease, opacity 250ms ease;
+      height 500ms cubic-bezier(0.2, 0.7, 0.3, 1), background-color 500ms ease, opacity 250ms ease;
   }
   .ribbon-indicator.is-jumping { transition: opacity 250ms ease; }
 }
@@ -423,7 +345,7 @@ a { color: var(--cobalt); }
   padding-bottom: 0.7rem;
   color: var(--era-c);
 }
-.era-count { font-family: var(--font-display); font-weight: 700; font-size: var(--step-3); line-height: 1; font-variant-numeric: tabular-nums; }
+.era-count { font-family: var(--font-display); font-weight: 700; font-size: clamp(2.2rem, 1.6rem + 1.8vw, 3rem); line-height: 1; font-variant-numeric: tabular-nums; }
 .era-new { font-size: 0.8125rem; font-weight: 500; color: var(--ink); background: var(--wheat); border-radius: 999px; padding: 0.05rem 0.5rem; }
 /* Share of the catalogue: a bar under the number, full width for the fullest era */
 .era-bar {
@@ -460,8 +382,8 @@ a { color: var(--cobalt); }
 }
 /* A few faces of the era, overlapping; they fan out on hover */
 .era-faces { display: flex; margin: 0 0 0.6rem; }
-.era-face { display: block; flex: none; width: 2.25rem; height: 2.25rem; border: 2px solid var(--paper); border-radius: 50%; }
-.era-face + .era-face { margin-left: -0.7rem; }
+.era-face { display: block; flex: none; width: 2.75rem; height: 2.75rem; border: 2px solid var(--paper); border-radius: 50%; }
+.era-face + .era-face { margin-left: -0.8rem; }
 @media (hover: hover) and (prefers-reduced-motion: no-preference) {
   .era-face { transition: transform 350ms cubic-bezier(0.2, 0.7, 0.3, 1), margin 350ms cubic-bezier(0.2, 0.7, 0.3, 1); }
   .era:not(:disabled):hover .era-face + .era-face { margin-left: -0.25rem; }
@@ -470,7 +392,7 @@ a { color: var(--cobalt); }
   .era:not(:disabled):hover .era-face:nth-child(3) { transform: rotate(8deg); }
 }
 .era-empty { font-size: 0.875rem; color: var(--slate); }
-.era-name { font-weight: 500; line-height: 1.25; }
+.era-name { margin-top: auto; font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.2; }
 .era-span { font-size: 0.875rem; color: var(--slate); }
 .era[aria-pressed='true'] .era-span { color: var(--mist); }
 
@@ -537,9 +459,146 @@ a { color: var(--cobalt); }
 .filters-reset:hover { background: var(--ink); color: var(--paper); }
 .filters-status { margin: 0; font-size: 0.875rem; color: var(--slate); min-height: 1.3em; }
 
+/* Explore (home): one way to browse at a time, as tabs (src/scripts/explore.ts) */
+.explore { margin: 0 0 clamp(2rem, 1.5rem + 2vw, 3rem); }
+.explore-tabs {
+  position: relative;
+  display: flex;
+  gap: 0.25rem;
+  margin-bottom: 1.25rem;
+  padding: 0.3rem;
+  overflow-x: auto;
+  background: var(--mist);
+  border-radius: 999px;
+  scrollbar-width: none;
+}
+.explore-tab {
+  position: relative;
+  z-index: 1; /* above the sliding highlight */
+  flex: 1 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  padding: 0.4rem 1.1rem;
+  font: inherit;
+  font-weight: 500;
+  color: var(--slate);
+  background: none;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 250ms ease;
+}
+.explore-tab:hover { color: var(--ink); }
+.explore-tab[aria-selected='true'] { color: var(--paper); }
+/* Without the script's highlight (not placed yet), the selected tab fills itself */
+.explore:not(.is-ready) .explore-tab[aria-selected='true'] { background: var(--ink); }
+.explore-indicator {
+  position: absolute;
+  top: 0.3rem;
+  bottom: 0.3rem;
+  left: 0;
+  width: var(--w, 0);
+  transform: translateX(var(--x, 0));
+  background: var(--ink);
+  border-radius: 999px;
+}
+.explore:not(.is-ready) .explore-indicator { display: none; }
+/* Phones: four tabs side by side, words only */
+@media (max-width: 30rem) {
+  .explore-tab { flex: 1 1 0; padding-inline: 0.4rem; }
+  .explore-tab svg { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .explore-indicator { transition: transform 450ms cubic-bezier(0.2, 0.7, 0.3, 1), width 450ms cubic-bezier(0.2, 0.7, 0.3, 1); }
+}
+
+.explore .filters { margin: 0; padding-top: 0; }
+
+/* Birthplace map (home): oblasts shaded by head count, a dot per birthplace in the group colour
+   (numbered where several people were born in one place). It follows the filters (src/scripts/birth-map.ts). */
+.map-hint { margin: 0 0 1rem; color: var(--slate); }
+.map-canvas { position: relative; max-width: 60rem; }
+.map-svg { display: block; width: 100%; height: auto; overflow: visible; }
+.map-region {
+  fill: var(--mist);
+  stroke: var(--paper);
+  stroke-width: 1.2;
+  stroke-linejoin: round;
+  transition: fill 300ms ease;
+}
+.map-region[data-level='1'] { fill: color-mix(in srgb, var(--cobalt) 16%, var(--paper)); }
+.map-region[data-level='2'] { fill: color-mix(in srgb, var(--cobalt) 30%, var(--paper)); }
+.map-region[data-level='3'] { fill: color-mix(in srgb, var(--cobalt) 46%, var(--paper)); }
+.map-region[data-level='4'] { fill: color-mix(in srgb, var(--cobalt) 64%, var(--paper)); }
+.map-region:hover { fill: color-mix(in srgb, var(--slate) 22%, var(--paper)); }
+.map-region.is-active { cursor: pointer; }
+.map-region.is-active:hover { fill: color-mix(in srgb, var(--wheat) 55%, var(--paper)); }
+.map-region[aria-pressed='true'] { fill: var(--wheat); }
+.map-region:focus { outline: none; }
+.map-region:focus-visible { stroke: var(--ink); stroke-width: 3; }
+.map-dot { cursor: pointer; transform-box: fill-box; transform-origin: center; transition: opacity 300ms ease, scale 300ms ease; }
+.map-dot circle { fill: var(--accent); stroke: var(--paper); stroke-width: 1.5; }
+.map-dot-many circle { fill: var(--ink); }
+.map-dot text { fill: var(--paper); font: 700 9px var(--font-text); text-anchor: middle; pointer-events: none; }
+.map-dot:hover { scale: 1.35; }
+.map-dot.is-aside { opacity: 0.35; }
+.map-dot.is-out { opacity: 0.12; pointer-events: none; }
+@media (prefers-reduced-motion: no-preference) {
+  .map.is-waiting .map-dot { scale: 0; }
+  .map.is-shown .map-dot { transition: scale 500ms cubic-bezier(0.3, 1.5, 0.5, 1) var(--d), opacity 300ms ease; }
+  .map.is-shown .map-dot:hover { transition-delay: 0s; }
+}
+.map-tip {
+  position: absolute;
+  left: var(--x);
+  top: var(--y);
+  z-index: 3;
+  max-width: 18rem;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.35;
+  color: var(--paper);
+  background: var(--ink);
+  border-radius: 4px;
+  pointer-events: none;
+  transform: translate(0.75rem, calc(-100% - 0.5rem));
+}
+.map-tip[data-side='end'] { transform: translate(calc(-100% - 0.75rem), calc(-100% - 0.5rem)); }
+.map-side { margin-top: 1rem; max-width: 60rem; }
+.map-side-title { margin: 0 0 0.5rem; font-size: 1rem; font-weight: 500; }
+/* Every region as a compact row, in columns */
+.map-list { list-style: none; margin: 0; padding: 0; columns: 4 9.5rem; column-gap: 1.5rem; }
+.map-list li { break-inside: avoid; }
+.map-pick {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  width: 100%;
+  min-height: 2.25rem;
+  padding: 0.25rem 0.5rem;
+  font: inherit;
+  font-size: 0.9375rem;
+  text-align: left;
+  color: var(--ink);
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--mist);
+  cursor: pointer;
+}
+.map-pick:hover { background: var(--mist); }
+.map-pick[aria-pressed='true'] { background: var(--wheat); }
+.map-pick.is-empty { color: var(--slate); }
+.map-pick-count { font-weight: 700; color: var(--cobalt); font-variant-numeric: tabular-nums; }
+.map-pick[aria-pressed='true'] .map-pick-count { color: var(--ink); }
+.map-credit { margin: 0.75rem 0 0; font-size: 0.8125rem; color: var(--slate); }
+
 /* Group tiles (home): one per category in its colour, with three faces that fan out on hover.
    Phones: a compact row (faces, then name and count); from tablet up: a card. */
-.tiles { margin-bottom: clamp(2.5rem, 2rem + 2vw, 4rem); }
 .tiles-grid {
   list-style: none;
   margin: 0;
@@ -565,18 +624,20 @@ a { color: var(--cobalt); }
   border-radius: 6px;
   box-shadow: inset 0 -4px 0 var(--accent);
 }
-/* A large rhombus, the logo's motif, half hidden in the corner */
-.tile::after {
-  content: '';
+/* Drawings of the field, faint, on the right of the tile */
+.tile-art {
   position: absolute;
-  right: -2.5rem;
-  bottom: -2.5rem;
+  inset: 0;
   z-index: -1;
-  width: 7rem;
-  height: 7rem;
-  background: var(--accent);
-  opacity: 0.12;
-  transform: rotate(45deg);
+  width: 100%;
+  height: 100%;
+  color: var(--accent);
+  opacity: 0.16;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 .tile-faces { grid-area: faces; display: flex; width: 7.2rem; } /* room for three faces, so names line up */
 .tile-face { flex: none; width: 3rem; height: 3rem; border-radius: 50%; border: 3px solid var(--paper); }
@@ -585,7 +646,9 @@ a { color: var(--cobalt); }
 .tile-count { grid-area: count; align-self: start; font-weight: 500; color: var(--accent); }
 .tile:hover { background: var(--accent); color: var(--paper); }
 .tile:hover .tile-count { color: var(--paper); }
-.tile:hover::after { background: var(--paper); opacity: 0.14; }
+.tile:hover .tile-art { color: var(--paper); opacity: 0.22; }
+/* Phones: the name runs across the drawings, so they are fainter */
+@media (max-width: 47.99rem) { .tile-art { opacity: 0.11; } }
 @media (min-width: 48rem) {
   .tile {
     grid-template-columns: 1fr;
@@ -599,7 +662,6 @@ a { color: var(--cobalt); }
   .tile-face { width: 4.5rem; height: 4.5rem; }
   .tile-face + .tile-face { margin-left: -1.3rem; }
   .tile-name { font-size: var(--step-2); }
-  .tile::after { width: 9rem; height: 9rem; right: -3rem; bottom: -3rem; }
 }
 /* Nine groups: three rows of three */
 @media (min-width: 64rem) { .tiles-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
@@ -609,8 +671,8 @@ a { color: var(--cobalt); }
     transform: translateY(-3px);
     box-shadow: inset 0 -4px 0 var(--accent), 0 14px 28px -14px color-mix(in srgb, var(--accent) 70%, transparent);
   }
-  .tile::after { transition: transform 500ms cubic-bezier(0.2, 0.7, 0.3, 1), opacity 250ms ease; }
-  .tile:hover::after { transform: rotate(45deg) scale(1.35); }
+  .tile-art { transform-origin: right center; transition: transform 600ms cubic-bezier(0.2, 0.7, 0.3, 1), opacity 250ms ease, color 250ms ease; }
+  .tile:hover .tile-art { transform: scale(1.08) rotate(-3deg); }
   .tile-face { transition: transform 350ms cubic-bezier(0.2, 0.7, 0.3, 1), margin 350ms cubic-bezier(0.2, 0.7, 0.3, 1); }
   .tile:hover .tile-face + .tile-face { margin-left: -0.5rem; }
   .tile:hover .tile-face:nth-child(1) { transform: rotate(-8deg); }

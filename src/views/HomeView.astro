@@ -5,6 +5,8 @@ import FilterBar from '../components/FilterBar.astro';
 import PersonCard from '../components/PersonCard.astro';
 import DailyHero from '../components/DailyHero.astro';
 import GroupTiles from '../components/GroupTiles.astro';
+import BirthMap from '../components/BirthMap.astro';
+import ExploreTabs from '../components/ExploreTabs.astro';
 import { getPeople, groups, recentlyAdded, byBirth, localePath } from '../lib/people';
 import { getImage } from 'astro:assets';
 import heroImage from '../assets/hero/independence-monument.jpg';
@@ -42,9 +44,12 @@ const phone = '(max-width: 47.99rem)';
   </header>
 
   <DailyHero people={people} lang={lang} />
-  <EraRibbon people={people} lang={lang} />
-  <FilterBar people={people} lang={lang} />
-  <GroupTiles people={people} lang={lang} />
+  <ExploreTabs lang={lang}>
+    <FilterBar slot="search" people={people} lang={lang} />
+    <EraRibbon slot="eras" people={people} lang={lang} />
+    <BirthMap slot="map" people={people} lang={lang} />
+    <GroupTiles slot="groups" people={people} lang={lang} />
+  </ExploreTabs>
 
   {
     recent.length > 0 && (
@@ -83,5 +88,9 @@ const phone = '(max-width: 47.99rem)';
 
 <script>
   import { initFilters } from '../scripts/filter';
+  import { initBirthMap } from '../scripts/birth-map';
+  import { initExplore } from '../scripts/explore';
   initFilters();
+  initBirthMap();
+  initExplore();
 </script>

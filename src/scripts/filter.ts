@@ -99,6 +99,8 @@ export function initFilters() {
     for (const k of KEYS) if (state[k]) params.set(k, state[k]);
     const query = params.toString();
     history.replaceState(null, '', query ? `?${query}` : location.pathname);
+    // For views that follow the filters (the birthplace map)
+    document.dispatchEvent(new CustomEvent('filters:applied'));
   };
 
   // Group tiles: in unread mode they count and open only the unread people of that group.

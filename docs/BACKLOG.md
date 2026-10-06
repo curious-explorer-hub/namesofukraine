@@ -50,8 +50,9 @@ Not scheduled. IDs (I…) keep the numbers they had in the vision doc's old feat
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked, then was removed pending refinement. `places[]` and `quotes[]` exist in the schema but are empty everywhere. Open: keeping a timeline in sync with the prose; real map vs a list of OpenStreetMap links; whether every profile needs all three.
 
 ### Home page
-- **I19. Era ribbon.** Colour, motion and a sliding highlight are in (see Done). Faces in each band are in too. Open: a strip of people on a time axis under the bands (one dot per person, by group; idea #5 of the 2026-10-05 ribbon review), which could become the timeline view.
-- **I18. Home page that stays short as the catalogue grows.** Option A is in (group tiles, site search; see Done). Open: the tag cloud by count, which needs a `?tag=` filter. Every card is still in the home page for the filters (~297 KB HTML at 86 people); past ~200 people, consider filtering from `search.json` instead.
+- **I19. Era ribbon.** Done (see Done): colour, motion, sliding highlight, faces. A timeline strip of people under the bands was tried and dropped (2026-10-06, owner decision); the birthplace map takes its place.
+- **I20. Birthplace map: next steps.** Built (see Done). Open: 18 people have no dot: 10 born abroad and 6 in an unknown place (they are in the region list), and 2 born in Ukraine without `lat`/`lon` (Mazepyntsi, Pustoviitivka: add coordinates); places of major work (`places[]`) and a small world inset for the diaspora; a way to zoom into dense areas (Kyiv, Lviv); check the outline of Crimea and the borders by eye before the public launch.
+- **I18. Home page that stays short as the catalogue grows.** Option A is in (group tiles, now the Fields tab; see Done). Open: the tag cloud by count, which needs a `?tag=` filter. Every card is still in the home page for the filters (~297 KB HTML at 86 people); past ~200 people, consider filtering from a small JSON index instead.
 
 ### Insights
 - **I16. Views per person / "most read".**
@@ -62,7 +63,7 @@ Not scheduled. IDs (I…) keep the numbers they had in the vision doc's old feat
 - **I11. Periodic security review** (e.g. an OWASP ZAP baseline against the live site). Security headers, CSP, `dist/` check, `npm audit` and Dependabot are already in place ([SECURITY.md](SECURITY.md)). If content ever comes from outside (CMS, community), sanitize Markdown/HTML and keep human review.
 
 ### Phase 3 (product_vision.md §6)
-Interactive map (D15) · personality quiz · timeline view · printable teacher pages · headless CMS for non-technical editors.
+Personality quiz · printable teacher pages · headless CMS for non-technical editors.
 
 ## Done (summary)
 
@@ -75,3 +76,5 @@ Interactive map (D15) · personality quiz · timeline view · printable teacher 
 | 2026-10-05 | Group colours and motion (card → profile portrait transition, hover light, headline shimmer, stitch band); portraits in full colour (D16) |
 | 2026-10-05 | Home page tiles for the 9 groups instead of sections (I18 option A): height 8672 → 3171 px at 1280 px, 8216 → 2972 px at 390 px; site-wide search dialog (header, `/`, Ctrl/⌘+K) on `/<lang>/search.json` |
 | 2026-10-05 | Era ribbon (I19): a colour per era, pictures in colour that come alive on hover, counts that tick up and bars that grow on load, other bands step back on hover, a highlight that slides to the selected era; faces of each era's most-linked people; filter results rise in |
+| 2026-10-06 | Birthplace map on the home page (I20, D15 changed): SVG of all 27 oblast units from geoBoundaries/OSM, shaded by head count, a dot per birthplace in the group colour (numbered for shared places), tooltips; click an oblast or the region list to filter by region; follows search, field and era |
+| 2026-10-06 | Home page "explore" tabs: Search (search + dropdowns), Eras, Map, Fields; one panel at a time, shared filters, a sliding highlight, the new panel slides in and the box eases to its height; the map names every region on hover, also those with no one yet. Then: changing tabs clears the filters (one way of narrowing at a time); eras as larger cards in rows (4 + 3; 2 per row on phones), the highlight slides between rows; faint drawings of each field on its tile (a ball and a dumbbell for sport, an open book for literature); the header search button and dialog removed (the Search tab is the search; "/" jumps to it) |

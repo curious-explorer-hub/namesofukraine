@@ -2,6 +2,7 @@
 import Portrait from './Portrait.astro';
 import { groups, groupUrl, mostLinked, type Person } from '../lib/people';
 import { t, type Lang } from '../i18n';
+import { fieldIcons, iconSpots } from '../lib/field-icons';
 
 interface Props {
   people: Person[];
@@ -19,7 +20,7 @@ const tiles = groups
 ---
 
 <section class="tiles" aria-labelledby="tiles-title">
-  <h2 id="tiles-title" class="section-title">{t('home.groups', lang)}</h2>
+  <h2 id="tiles-title" class="visually-hidden">{t('home.groups', lang)}</h2>
   <ul class="tiles-grid" role="list">
     {
       tiles.map((g) => (
@@ -30,6 +31,15 @@ const tiles = groups
             href={groupUrl(g.id, lang)}
             data-label={t('home.group_all', lang, { n: '{n}' })}
             data-total={g.members.length}>
+            {/* Drawings of the field (a ball and a dumbbell for sport, an open book for literature) */}
+            <svg class="tile-art" viewBox="0 0 300 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
+              {iconSpots.map((spot, i) => (
+                <g
+                  transform={`translate(${spot.x} ${spot.y}) rotate(${spot.r} ${12 * spot.s} ${12 * spot.s}) scale(${spot.s})`}
+                  set:html={fieldIcons[g.id]?.[i % 3] ?? ''}
+                />
+              ))}
+            </svg>
             <span class="tile-faces" aria-hidden="true">
               {g.faces.map((p) => (
                 <Portrait person={p} class="tile-face" widths={[96, 160]} sizes="5rem" />

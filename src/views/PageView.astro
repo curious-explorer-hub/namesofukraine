@@ -41,6 +41,9 @@ const { Content } = await render(entry);
               {e.label[lang]}: <a href={e.image.source_url}>{e.image.caption[lang]}</a> - {e.image.author[lang]}, {e.image.license}
             </li>
           ))}
+          <li>
+            {t('about.map_credit', lang)}: <a href="https://www.geoboundaries.org/">geoBoundaries</a> (UKR ADM1), © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL 1.0
+          </li>
         </ul>
       </section>
     )

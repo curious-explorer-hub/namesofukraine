@@ -40,7 +40,7 @@ Priority: **M** = must have for launch, **S** = should (Phase 2), **C** = could 
 - **AC2** Filter by **category group**, **era**, and **birth region** (Ukrainian oblast, or "diaspora / abroad"). Filters combine with AND and are reflected in the URL (`?group=science&era=20th-century`), so a filtered view can be shared and "back" restores it.
 - **AC3** Search by name, role, or keyword, in the current language. It ignores case and apostrophe variants (`'` `’` `ʼ`) and shows results as you type in under 100 ms.
 - **AC4** Works without JavaScript: the full grouped list is visible, and filters are an enhancement.
-- **Map — C (Phase 3):** birthplaces and places of major work, including diaspora locations (D15). Coordinates are collected in the data now.
+- **Map — S (built 2026-10-06):** a map of Ukraine on the home page with a dot per birthplace and oblasts shaded by head count. Clicking an oblast (or a region in the list under the map) filters by region; the map follows the other filters (search, field, era). People born abroad or in an unknown place are in the list. Later: places of major work and diaspora locations (D15).
 
 ### 3.2 Profile: snackable summary + deep dive — M
 Every profile **must** have this summary, shown on the card (condensed) and at the top of the page:
@@ -103,7 +103,7 @@ Accounts/logins, comments, a full CMS or database, server code, monetization, na
 | Forms | Tally, embedded on the feedback page (D17) |
 | Hosting | Cloudflare Pages ($0), deployed by GitHub Actions after all checks pass ([docs/PUBLISHING.md](docs/PUBLISHING.md)) |
 | Analytics | Cloudflare Web Analytics (no cookies) |
-| Map (Phase 3) | Leaflet/MapLibre + OSM tiles (D15) |
+| Map | Static SVG drawn at build time from geoBoundaries (OpenStreetMap, ODbL) oblast borders (D15) |
 
 Code layout: `src/pages/{uk,en}/` are thin route files that render shared views in `src/views/`; components in `src/components/`; collection helpers (published = reviewed in both languages) in `src/lib/people.ts`; browser scripts in `src/scripts/`.
 
@@ -126,7 +126,7 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | 2026-09-29 | D12 | **Home layout:** group sections (swipe rows on mobile, grid on desktop) + filter/search bar; filtering switches to one grid. (Replaced D9, grid + chips.) |
 | 2026-09-29 | D13 | **New-additions feed:** home row + `/new/` + "Нове" badge + RSS at launch; Telegram/Instagram posts per batch after launch (D13-E). |
 | 2026-09-29 | D14 | **Categories:** one `group` per person + many `tags`. Groups: `statehood`, `literature`, `visual-arts`, `performing-arts`, `science`, `civic`, `faith`, `sport`, `defenders` (labels in `src/content/categories.json`). |
-| 2026-09-29 | D15 | **Map (Phase 3):** Leaflet/MapLibre + OSM-based tiles; birthplace coordinates collected now. |
+| 2026-09-29 | D15 | **Map (Phase 3):** Leaflet/MapLibre + OSM-based tiles; birthplace coordinates collected now. *Changed 2026-10-06:* a static SVG of the oblasts (all 27 units, including Crimea and Sevastopol) drawn at build time, with no tiles or third-party requests; on the home page, tied to the filters. |
 | 2026-09-29 | D16 | **Portraits:** free portraits with one automatic visual treatment (grayscale over cobalt on cards, full colour on the profile); commissioned illustrations for featured figures later, if possible. *Changed 2026-10-05:* the site shows portraits in full colour everywhere; the cobalt treatment remains only on share images (OG). |
 | 2026-09-29 | D17 | **Feedback form:** Tally (free, spam protection, no login). |
 | 2026-09-29 | G4 | Selection criteria per §7. |
@@ -148,7 +148,7 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | **0. Setup** | Scaffold, schema, CI, deploy | ✅ done 2026-10-05 |
 | **1. MVP / public launch** | Grouped home + filters + search · profile summary and long-read · visual design and portraits · "newly added" + RSS · feedback form · About/criteria page · English · OG images · Daily Hero | AC1–AC14 pass; ≥ 20 profiles reviewed in both languages; deployed. ✅ met for the soft launch (86 profiles); public launch after the real domain |
 | **2. Growth** | Content to 100–200 in batches of 20–25 · quotes and galleries · Telegram/Instagram per batch | Balance targets met (§7.2) |
-| **3. Engagement** | Interactive map · personality quiz · timeline view · printable teacher pages · headless CMS for non-technical editors | Per feature |
+| **3. Engagement** | Personality quiz · printable teacher pages · headless CMS for non-technical editors | Per feature |
 
 **Testing:** build-time schema validation (AC5) with a uk/en fact-parity check; Vitest unit tests (filters, search normalization, Daily Hero dates); Playwright smoke tests (filters survive "back", language switch keeps the page, no-JS view, 404); Lighthouse CI (AC10); dependency audit; a check that `dist/` holds nothing private.
 

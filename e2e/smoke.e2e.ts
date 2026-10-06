@@ -41,14 +41,40 @@ test('a category page lists its people and filters within them', async ({ page }
   await expect(page.locator('.shelf > li:visible')).toHaveCount(1);
 });
 
-test('the site search opens from the keyboard on any page and goes to the person', async ({ page }) => {
-  await page.goto('/uk/about/');
+test('the home page shows one way to browse at a time, as tabs', async ({ page }) => {
+  await page.goto('/uk/');
+  await expect(page.locator('#panel-search')).toBeVisible();
+  await expect(page.locator('#panel-map')).toBeHidden();
+  await page.getByRole('tab', { name: 'Епохи' }).click();
+  await expect(page.locator('#panel-eras')).toBeVisible();
+  await expect(page.locator('#panel-search')).toBeHidden();
+  await page.keyboard.press('ArrowRight'); // keyboard: the next tab
+  await expect(page.getByRole('tab', { name: 'Карта' })).toHaveAttribute('aria-selected', 'true');
+  await expect(page.locator('#panel-map')).toBeVisible();
+});
+
+test('changing tabs clears the filters, and "/" jumps to the search field', async ({ page }) => {
+  await page.goto('/uk/?era=cossack');
+  await expect(page.locator('#panel-eras')).toBeVisible(); // opens on the tab of the active filter
+  await page.getByRole('tab', { name: 'Галузі' }).click();
+  await expect(page).not.toHaveURL(/era=/);
+  await expect(page.locator('select[name="era"]')).toHaveValue('');
   await page.keyboard.press('/');
-  await expect(page.locator('dialog.search')).toBeVisible();
-  await page.keyboard.type('роксолана');
-  await expect(page.locator('.search-results [role="option"]').first()).toContainText('Роксолана');
-  await page.keyboard.press('Enter');
-  await expect(page).toHaveURL(/\/uk\/people\/roksolana\/$/);
+  await expect(page.locator('#panel-search')).toBeVisible();
+  await expect(page.locator('input[name="q"]')).toBeFocused();
+});
+
+test('the birthplace map filters by region, and the list does the same', async ({ page }) => {
+  await page.goto('/uk/');
+  await page.getByRole('tab', { name: 'Карта' }).click();
+  await page.locator('.map-region[data-region="poltava"]').click();
+  await expect(page).toHaveURL(/region=poltava/);
+  await expect(page.locator('select[name="region"]')).toHaveValue('poltava');
+  await expect(page.locator('.map-region[data-region="poltava"]')).toHaveAttribute('aria-pressed', 'true');
+  const found = await page.locator(visibleCards).count();
+  expect(found).toBeGreaterThan(1);
+  await page.locator('.map-pick[data-region="poltava"]').click(); // a second click clears it
+  await expect(page).not.toHaveURL(/region=/);
 });
 
 test.describe('without JavaScript', () => {
@@ -56,8 +82,8 @@ test.describe('without JavaScript', () => {
 
   test('the home page shows the group tiles, each linking to its category page', async ({ page }) => {
     await page.goto('/uk/');
-    await expect(page.locator('.search-open')).toBeHidden();
     await expect(page.locator('.tile')).not.toHaveCount(0);
+    await expect(page.locator('.map-svg')).toBeVisible(); // every panel is shown, one after another
     await page.locator('.tile').first().click();
     await expect(page).toHaveURL(/\/uk\/groups\/[a-z-]+\/$/);
   });

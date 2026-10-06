@@ -15,7 +15,9 @@ export function initEraIndicator() {
     if (band) {
       indicator.dataset.era = band.dataset.era;
       indicator.style.setProperty('--x', `${band.offsetLeft}px`);
+      indicator.style.setProperty('--y', `${band.offsetTop}px`);
       indicator.style.setProperty('--w', `${band.offsetWidth}px`);
+      indicator.style.setProperty('--h', `${band.offsetHeight}px`);
     } else delete indicator.dataset.era;
     if (jump) requestAnimationFrame(() => indicator.classList.remove('is-jumping'));
   };

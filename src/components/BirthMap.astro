@@ -1,0 +1,98 @@
+---
+import { regions, project, WIDTH, HEIGHT } from '../lib/map';
+import { personUrl, regionLabel, type Person } from '../lib/people';
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  people: Person[];
+  lang: Lang;
+}
+
+const { people, lang } = Astro.props;
+const MAX_NAMES = 4;
+
+// How many people were born in each region (also those without exact coordinates).
+const totals = new Map<string, number>();
+for (const p of people) totals.set(p.data.birthplace.region, (totals.get(p.data.birthplace.region) ?? 0) + 1);
+const most = Math.max(1, ...[...totals].filter(([id]) => id !== 'abroad' && id !== 'unknown').map(([, n]) => n));
+
+// One dot per birthplace inside Ukraine; people born in the same place share a numbered dot.
+const places = new Map<string, Person[]>();
+for (const p of people) {
+  const { lat, lon, region } = p.data.birthplace;
+  if (lat === undefined || lon === undefined || region === 'abroad' || region === 'unknown') continue;
+  const key = `${lat.toFixed(2)},${lon.toFixed(2)}`;
+  places.set(key, [...(places.get(key) ?? []), p]);
+}
+const dots = [...places.values()]
+  .map((group) => {
+    const [x, y] = project(group[0].data.birthplace.lon!, group[0].data.birthplace.lat!);
+    const names = group.slice(0, MAX_NAMES).map((p) => p.data.name);
+    if (group.length > MAX_NAMES) names.push(t('map.more', lang, { n: group.length - MAX_NAMES }));
+    return { x, y, group, names: names.join(', ') };
+  })
+  .sort((a, b) => b.group.length - a.group.length); // big dots first, so single ones stay on top
+
+// Side list: regions by head count, then people born abroad or in an unknown place.
+const list = [...totals]
+  .sort(([a, n], [b, m]) => Number(a === 'abroad' || a === 'unknown') - Number(b === 'abroad' || b === 'unknown') || m - n)
+  // Short names in the list ("Полтавська", not "Полтавська область"); the map's labels keep the full name.
+  .map(([id, n]) => ({ id, n, label: regionLabel(id, lang).replace(/ (область|Oblast)$/, '') }));
+const level = (n: number) => (n ? Math.ceil((n / most) * 4) : 0);
+---
+
+<section class="map" data-map data-most={most} data-label={t('map.region_label', lang, { region: '{region}', n: '{n}' })} data-empty={t('map.region_empty', lang, { region: '{region}' })} aria-labelledby="map-title">
+  <h2 id="map-title" class="visually-hidden">{t('map.title', lang)}</h2>
+  <p class="map-hint">{t('map.hint', lang)}</p>
+  <div class="map-body">
+    <div class="map-canvas">
+      {/* An image without JavaScript; the script turns the regions into buttons that filter by region. */}
+      <svg class="map-svg" viewBox={`0 0 ${WIDTH} ${HEIGHT}`} role="img" aria-label={t('map.label', lang)}>
+        <g class="map-regions">
+          {regions.map((r) => (
+            <path
+              class="map-region"
+              d={r.d}
+              fill-rule="evenodd"
+              data-region={r.id}
+              data-name={regionLabel(r.id, lang)}
+              data-level={level(totals.get(r.id) ?? 0)}
+            />
+          ))}
+        </g>
+        <g class="map-dots" aria-hidden="true">
+          {dots.map((d) => (
+            <g
+              class:list={['map-dot', { 'map-dot-many': d.group.length > 1 }]}
+              data-group={d.group.length === 1 ? d.group[0].data.group : undefined}
+              data-slugs={d.group.map((p) => p.slug).join(' ')}
+              data-region={d.group[0].data.birthplace.region}
+              data-names={d.names}
+              data-href={d.group.length === 1 ? personUrl(d.group[0]) : undefined}
+              style={`--d: ${Math.round((d.x / WIDTH) * 900)}ms`}>
+              <circle cx={d.x.toFixed(1)} cy={d.y.toFixed(1)} r={d.group.length > 1 ? 6 + Math.sqrt(d.group.length) * 2.5 : 5} />
+              {d.group.length > 1 && (
+                <text x={d.x.toFixed(1)} y={d.y.toFixed(1)} dy="0.35em">{d.group.length}</text>
+              )}
+            </g>
+          ))}
+        </g>
+      </svg>
+      <div class="map-tip" hidden></div>
+    </div>
+    <div class="map-side">
+      <h3 class="map-side-title">{t('map.places', lang)}</h3>
+      <ul class="map-list" role="list">
+        {list.map((r) => (
+          <li>
+            <button type="button" class="map-pick" data-region={r.id} aria-pressed="false">
+              <span class="map-pick-name">{r.label}</span>
+              <span class="map-pick-count" data-total={r.n}>{r.n}</span>
+            </button>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+  <p class="map-credit">{t('map.credit', lang)}</p>
+</section>
