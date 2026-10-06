@@ -7,6 +7,7 @@
   "person.image_colorized": "кольоризовано за допомогою ШІ (Gemini)",
   "person.image_fair_use": "використано на умовах добросовісного використання (fair use), не підпадає під ліцензію CC BY-SA",
   "person.image_restored": "відреставровано за допомогою ШІ (Gemini)",
+  "person.image_rendered": "перетворено на фотореалістичне зображення за допомогою ШІ (Gemini); це не справжня фотографія",
   "person.last_reviewed": "Станом на",
   "person.fun_fact": "Цікавий факт",
   "person.misconception": "Поширений міф",

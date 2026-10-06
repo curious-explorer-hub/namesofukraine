@@ -17,6 +17,7 @@ image:
   position: "50% 30%"
   author: "Nadar"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Ilya_Mechnikov_nobel.jpg"
 key_accomplishments:
   - Відкрив явище фагоцитозу (1882) і створив фагоцитарну теорію імунітету

@@ -7,6 +7,7 @@
   "person.image_colorized": "colorized with AI (Gemini)",
   "person.image_fair_use": "used under fair use, not covered by the CC BY-SA license",
   "person.image_restored": "restored with AI (Gemini)",
+  "person.image_rendered": "turned into a photo-like image with AI (Gemini); not a real photograph",
   "person.last_reviewed": "As of",
   "person.fun_fact": "Fun fact",
   "person.misconception": "Common misconception",

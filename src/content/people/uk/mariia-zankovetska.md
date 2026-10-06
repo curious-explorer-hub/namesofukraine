@@ -17,6 +17,7 @@ image:
   position: "55% 35%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Заньковецька_Марія.jpg"
 key_accomplishments:
   - "Дебютувала 27 жовтня 1882 року в Єлисаветграді в ролі Наталки в «Наталці Полтавці» Івана Котляревського, у трупі Марка Кропивницького"

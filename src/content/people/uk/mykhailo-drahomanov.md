@@ -17,6 +17,7 @@ image:
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Mykhailo_Petrovych_Drahomanov,_1870s.jpg"
 key_accomplishments:
   - Перший український політичний журнал «Громада» (Женева, 1878–1882)

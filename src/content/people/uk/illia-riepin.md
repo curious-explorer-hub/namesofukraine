@@ -16,9 +16,10 @@ places:
   - { name: "Куоккала (нині Рєпіно)", lat: 60.168, lon: 29.861, note: "садиба «Пенати», місце смерті й поховання" }
 image:
   src: ./images/illia-riepin.jpg
-  alt: "Автопортрет Іллі Рєпіна, 1887"
+  alt: "Автопортрет Іллі Рєпіна (1887), перетворений ШІ на фотореалістичне зображення"
   author: "Ілля Рєпін"
   license: "Public domain"
+  ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:RepinSelfPortrait.jpg"
 key_accomplishments:
   - "Картина «Запорожці пишуть листа турецькому султанові» (1880–1891)"

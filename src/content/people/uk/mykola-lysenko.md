@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Миколи Лисенка"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_(cropped).jpg"
 key_accomplishments:
   - Опери «Наталка Полтавка», «Тарас Бульба», «Енеїда», дитячі опери «Коза-дереза» та «Зима і весна»

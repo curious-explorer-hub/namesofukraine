@@ -11,7 +11,7 @@ key_accomplishments:
   - "Professor (1894–1907) and rector (1898–1899) of the St Petersburg Academy of Arts; teacher of Mykola Pymonenko, Oleksandr Murashko and Fotii Krasytskyi"
   - "Illustrations for Nikolai Gogol’s Taras Bulba (1872) and for Dmytro Yavornytskyi’s book on the Zaporozhian Cossacks (1888)"
 birthplace_name: "Chuhuiv"
-image_alt: "Self-portrait of Ilya Repin, 1887"
+image_alt: "Ilya Repin’s self-portrait (1887), turned into a photo-like image with AI"
 reviewed: true
 ---
 
