@@ -26,4 +26,4 @@ Archipenko rethought the very idea of sculpture. Traditionally, sculpture is mas
 
 ## Why it matters today
 
-Archipenko’s techniques influenced modern sculpture of the 20th century. Throughout his life he stressed his Ukrainian origin: he made sculpted portraits of Shevchenko and Franko and helped create the Ukrainian pavilion at the 1933 world’s fair in Chicago.
+Archipenko’s techniques influenced modern sculpture of the 20th century. Throughout his life he stressed his Ukrainian origin: he made sculpted portraits of [Shevchenko](/en/people/taras-shevchenko/) and [Franko](/en/people/ivan-franko/) and helped create the Ukrainian pavilion at the 1933 world’s fair in Chicago.

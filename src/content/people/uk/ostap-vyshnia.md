@@ -36,7 +36,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Остап_Вишня
   - title: Wikipedia (EN) - Ostap Vyshnia
     url: https://en.wikipedia.org/wiki/Ostap_Vyshnia
-related: [mykola-khvylovyi, les-kurbas]
+related: [mykola-khvylovyi, les-kurbas, mykola-hohol]
 reviewed: true
 ---
 

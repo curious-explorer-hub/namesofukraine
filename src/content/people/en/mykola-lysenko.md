@@ -23,7 +23,7 @@ Mykola Lysenko was born into a noble family in the village of Hrynky in the Polt
 
 ## His story
 
-Lysenko laid the foundations of professional Ukrainian music: operas, choral works, art songs and piano music. He deliberately wrote on Ukrainian subjects and to Ukrainian texts, by Shevchenko, Kotliarevskyi, Gogol and Lesya Ukrainka. His “Prayer for Ukraine” is today Ukraine’s spiritual anthem.
+Lysenko laid the foundations of professional Ukrainian music: operas, choral works, art songs and piano music. He deliberately wrote on Ukrainian subjects and to Ukrainian texts, by [Shevchenko](/en/people/taras-shevchenko/), [Kotliarevskyi](/en/people/ivan-kotliarevskyi/), [Gogol](/en/people/mykola-hohol/) and [Lesya Ukrainka](/en/people/lesya-ukrainka/). His “Prayer for Ukraine” is today Ukraine’s spiritual anthem.
 
 According to tradition, when Lysenko was offered a staging of Taras Bulba in Moscow on condition that the libretto be translated into Russian, he refused. During the composer’s lifetime only fragments of the opera were staged; the full opera was first staged in Kharkiv in 1924.
 

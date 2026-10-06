@@ -23,7 +23,7 @@ Volodymyr Vernadskyi was born in Saint Petersburg into a family with Ukrainian C
 
 ## His story
 
-In 1918, under the Ukrainian State of Hetman Pavlo Skoropadskyi, Vernadskyi headed the commission to establish the Ukrainian Academy of Sciences and became its first president. That same year he was among the founders of the National Library of Ukraine.
+In 1918, under the Ukrainian State of Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), Vernadskyi headed the commission to establish the Ukrainian Academy of Sciences and became its first president. That same year he was among the founders of the National Library of Ukraine.
 
 Vernadskyi was one of the founders of new sciences, geochemistry and biogeochemistry, and he developed radiogeology. He was one of the first to understand that life on Earth is a geological force. In his book The Biosphere (1926) he described the Earth’s envelope that life creates and changes. Later he developed the theory of the noosphere: a stage when human reason becomes the main force changing the planet.
 

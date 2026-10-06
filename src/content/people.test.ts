@@ -34,3 +34,17 @@ describe('aliases.json', () => {
     expect(aliases[slug].en.length).toBeGreaterThan(0);
   });
 });
+
+// Links between profiles in the story text (BACKLOG I17): /<lang>/people/<slug>/, same language as the file, to a profile that exists.
+describe('links between profiles', () => {
+  for (const lang of ['uk', 'en']) {
+    const langDir = join(dir, '..', lang);
+    it.each(readdirSync(langDir).filter((f) => f.endsWith('.md')))(`${lang}/%s: profile links point to an existing profile in the same language`, (file) => {
+      for (const [, linkLang, slug] of readFileSync(join(langDir, file), 'utf8').matchAll(/\]\(\/(\w+)\/people\/([^/)]+)\/?\)/g)) {
+        expect(linkLang, `${slug}: wrong language`).toBe(lang);
+        expect(existsSync(join(dir, `${slug}.md`)), `${slug}: no such profile`).toBe(true);
+        expect(slug, 'links to itself').not.toBe(file.slice(0, -3));
+      }
+    });
+  }
+});

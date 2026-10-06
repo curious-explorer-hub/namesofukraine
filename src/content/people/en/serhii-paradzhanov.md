@@ -22,7 +22,7 @@ Sergei Parajanov was born in Tbilisi into an Armenian family. He studied at the 
 
 ## His story
 
-Shadows of Forgotten Ancestors (1964), based on the novella by Mykhailo Kotsiubynskyi, is a love story set against the Hutsul culture of the Carpathians. The film was shot in Ukrainian with the Hutsul dialect, and with folk rituals, songs and costumes. It won 16 awards at international film festivals.
+Shadows of Forgotten Ancestors (1964), based on the novella by [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/), is a love story set against the Hutsul culture of the Carpathians. The film was shot in Ukrainian with the Hutsul dialect, and with folk rituals, songs and costumes. It won 16 awards at international film festivals.
 
 At the film’s Kyiv premiere in 1965 there was a protest against the arrests of the Ukrainian intelligentsia. Parajanov supported persecuted artists, and the authorities took revenge: at the end of 1973 he was arrested, and in 1974 he was convicted on fabricated charges and sent to a labor camp. The director was released at the end of 1977 after an international campaign in his defense; in 1982 he was arrested again.
 

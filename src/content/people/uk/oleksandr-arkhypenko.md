@@ -34,7 +34,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Олександр_Архипенко
   - title: Wikipedia (EN) - Alexander Archipenko
     url: https://en.wikipedia.org/wiki/Alexander_Archipenko
-related: [kateryna-bilokur]
+related: [kateryna-bilokur, taras-shevchenko, ivan-franko]
 reviewed: true
 ---
 
@@ -48,4 +48,4 @@ reviewed: true
 
 ## Чому це важливо сьогодні
 
-Прийоми Архипенка вплинули на модерну скульптуру XX століття. Він усе життя підкреслював своє українське походження: створив скульптурні портрети Шевченка та Франка й долучився до створення українського павільйону на всесвітній виставці в Чикаго 1933 року.
+Прийоми Архипенка вплинули на модерну скульптуру XX століття. Він усе життя підкреслював своє українське походження: створив скульптурні портрети [Шевченка](/uk/people/taras-shevchenko/) та [Франка](/uk/people/ivan-franko/) й долучився до створення українського павільйону на всесвітній виставці в Чикаго 1933 року.

@@ -33,7 +33,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Гоголь_Микола_Васильович
   - title: Wikipedia (EN) - Nikolai Gogol
     url: https://en.wikipedia.org/wiki/Nikolai_Gogol
-related: [taras-shevchenko]
+related: [taras-shevchenko, mykola-lysenko]
 reviewed: true
 ---
 

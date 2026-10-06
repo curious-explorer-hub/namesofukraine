@@ -19,7 +19,7 @@ reviewed: true
 
 ## Who he was
 
-Volodymyr was the son of Prince Sviatoslav and Malusha, the housekeeper of Princess Olha. The exact date and place of his birth are unknown; around 958 is usually given. He first ruled in Novgorod, and around 980, after defeating his brother Yaropolk in a war between the princes, he became Grand Prince of Kyiv.
+Volodymyr was the son of Prince Sviatoslav and Malusha, the housekeeper of [Princess Olha](/en/people/kniahynia-olha/). The exact date and place of his birth are unknown; around 958 is usually given. He first ruled in Novgorod, and around 980, after defeating his brother Yaropolk in a war between the princes, he became Grand Prince of Kyiv.
 
 ## His story
 

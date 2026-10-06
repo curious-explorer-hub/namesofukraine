@@ -34,7 +34,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Котляревський_Іван_Петрович
   - title: Wikipedia (EN) - Ivan Kotliarevsky
     url: https://en.wikipedia.org/wiki/Ivan_Kotliarevsky
-related: [taras-shevchenko, hryhorii-skovoroda]
+related: [taras-shevchenko, hryhorii-skovoroda, mariia-zankovetska, mykola-lysenko, bohdan-stupka]
 reviewed: true
 ---
 

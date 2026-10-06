@@ -21,7 +21,7 @@ Bohdan Stupka was born in the small town of Kulykiv in the Lviv region. In 1961 
 
 ## His story
 
-From 1978 Stupka was an actor of the Ivan Franko Theater in Kyiv, and from 2001 to 2012 its artistic director. On its stage he played Mykola Zadorozhnyi in Ivan Franko’s Stolen Happiness, Don Juan in Lesya Ukrainka’s The Stone Host, and the Author in The Aeneid after Ivan Kotliarevskyi. His role as Tevye in Tevye-Tevel, based on Sholem Aleichem, brought him the Taras Shevchenko State Prize of Ukraine (1993).
+From 1978 Stupka was an actor of the Ivan Franko Theater in Kyiv, and from 2001 to 2012 its artistic director. On its stage he played Mykola Zadorozhnyi in Ivan Franko’s Stolen Happiness, Don Juan in [Lesya Ukrainka](/en/people/lesya-ukrainka/)’s The Stone Host, and the Author in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). His role as Tevye in Tevye-Tevel, based on Sholem Aleichem, brought him the Taras Shevchenko State Prize of Ukraine (1993).
 
 On screen Stupka created more than a hundred roles, including in Yurii Illienko’s A White Bird with a Black Mark, The Kaidash Family (1996), With Fire and Sword and East/West (both 1999). In 1999–2001 he headed the Ministry of Culture and Arts of Ukraine. A People’s Artist of the USSR (1991) and a full member of the National Academy of Arts of Ukraine, Stupka received the title of Hero of Ukraine in 2011. He died in Kyiv on 22 July 2012 and is buried at Baikove Cemetery.
 

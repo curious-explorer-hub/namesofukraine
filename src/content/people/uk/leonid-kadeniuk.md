@@ -39,7 +39,7 @@ sources:
     url: "https://shpalta.media/2018/10/06/yak-viglyadaye-zseredini-mizhnarodnij-aeroport-chernivci-imeni-leonida-kadenyuka-foto/"
   - title: Вікіпедія - Каденюк Леонід Костянтинович
     url: https://uk.wikipedia.org/wiki/Каденюк_Леонід_Костянтинович
-related: [serhii-korolov]
+related: [serhii-korolov, taras-shevchenko]
 reviewed: true
 ---
 

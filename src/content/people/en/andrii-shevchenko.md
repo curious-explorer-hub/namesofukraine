@@ -18,7 +18,7 @@ reviewed: true
 
 ## Who he is
 
-Andriy Shevchenko was born in 1976 in the village of Dvirkivshchyna in the Yahotyn area (Kyiv Oblast). He trained at the Dynamo Kyiv academy and broke into the first team in the mid-1990s, playing under Valerii Lobanovskyi. With Dynamo he won the Ukrainian league five times.
+Andriy Shevchenko was born in 1976 in the village of Dvirkivshchyna in the Yahotyn area (Kyiv Oblast). He trained at the Dynamo Kyiv academy and broke into the first team in the mid-1990s, playing under [Valerii Lobanovskyi](/en/people/valerii-lobanovskyi/). With Dynamo he won the Ukrainian league five times.
 
 ## His story
 

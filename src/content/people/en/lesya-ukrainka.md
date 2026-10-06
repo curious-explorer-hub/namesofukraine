@@ -19,7 +19,7 @@ reviewed: true
 
 ## Who she was
 
-Larysa Kosach was born in Novohrad-Volynskyi (now Zviahel) into an educated family: her mother was the writer Olena Pchilka, and her uncle was the scholar and public figure Mykhailo Drahomanov. She wrote her first poem when she was only nine. As a child she fell ill with tuberculosis and fought the disease all her life, seeking treatment in Crimea, Egypt, Italy and Georgia.
+Larysa Kosach was born in Novohrad-Volynskyi (now Zviahel) into an educated family: her mother was the writer Olena Pchilka, and her uncle was the scholar and public figure [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/). She wrote her first poem when she was only nine. As a child she fell ill with tuberculosis and fought the disease all her life, seeking treatment in Crimea, Egypt, Italy and Georgia.
 
 She published her first poem, “Lily of the Valley”, at the age of 13 in the Lviv magazine Zoria, under a pen name chosen for her by her mother.
 

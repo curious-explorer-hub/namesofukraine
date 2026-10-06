@@ -21,7 +21,7 @@ Mariia Adasovska was born in 1854 in the village of Zanky in the Chernihiv regio
 
 ## Her story
 
-On 27 October 1882 in Yelysavethrad (now Kropyvnytskyi) she made her debut in Marko Kropyvnytskyi’s troupe as Natalka in Ivan Kotliarevskyi’s Natalka Poltavka, already under the stage name Zankovetska. For 40 years after that she played in the best Ukrainian troupes, those of Kropyvnytskyi, Mykhailo Starytskyi, Panas Saksahanskyi and Ivan Karpenko-Karyi, and created more than 30 roles. Among the best known are Halia in Taras Shevchenko’s Nazar Stodolia and Kharytyna in Karpenko-Karyi’s The Hired Girl. The troupe’s tours to Moscow, Saint Petersburg and other cities of the empire brought her wide recognition; critics compared her to Sarah Bernhardt.
+On 27 October 1882 in Yelysavethrad (now Kropyvnytskyi) she made her debut in Marko Kropyvnytskyi’s troupe as Natalka in [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/)’s Natalka Poltavka, already under the stage name Zankovetska. For 40 years after that she played in the best Ukrainian troupes, those of Kropyvnytskyi, Mykhailo Starytskyi, Panas Saksahanskyi and Ivan Karpenko-Karyi, and created more than 30 roles. Among the best known are Halia in Taras Shevchenko’s Nazar Stodolia and Kharytyna in Karpenko-Karyi’s The Hired Girl. The troupe’s tours to Moscow, Saint Petersburg and other cities of the empire brought her wide recognition; critics compared her to Sarah Bernhardt.
 
 In 1907, together with Mykola Sadovskyi, she founded the first permanent Ukrainian theater in Kyiv. In 1918 she organized her own troupe in Nizhyn. She last appeared on stage in 1922; in 1923 she received the title People’s Artist of the Ukrainian SSR. She died in Kyiv in 1934 and is buried at Baikove Cemetery.
 

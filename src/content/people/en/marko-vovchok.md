@@ -23,7 +23,7 @@ Mariia Vilinska was born in 1833 on the Katerynyne estate in the Oryol province 
 
 ## Her story
 
-In 1857 Panteleimon Kulish published her Folk Stories under the pen name Marko Vovchok, which he invented himself. The collection of stories about the fate of serfs, especially women, at once became extraordinarily popular among the Ukrainian intelligentsia. Back in 1858 Shevchenko and friends had sent her a gold bracelet in Nemyriv, and in early 1859 in Saint Petersburg they met in person: he dedicated the poem “To Marko Vovchok” to her, in which he called her “my daughter.” A Russian translation of her stories, edited by Ivan Turgenev, came out in 1859.
+In 1857 Panteleimon Kulish published her Folk Stories under the pen name Marko Vovchok, which he invented himself. The collection of stories about the fate of serfs, especially women, at once became extraordinarily popular among the Ukrainian intelligentsia. Back in 1858 [Shevchenko](/en/people/taras-shevchenko/) and friends had sent her a gold bracelet in Nemyriv, and in early 1859 in Saint Petersburg they met in person: he dedicated the poem “To Marko Vovchok” to her, in which he called her “my daughter.” A Russian translation of her stories, edited by Ivan Turgenev, came out in 1859.
 
 From 1859 to 1867 Marko Vovchok lived abroad, in Germany, Great Britain, Switzerland, Italy and, for the longest time, Paris. After returning to Russia she worked as a translator and editor: she translated 15 Jules Verne novels into Russian, as well as works by Charles Darwin and other authors, and edited the journal Translations of the Best Foreign Writers. Her second husband was Mykhailo Lobach-Zhuchenko. She spent her last years in the Caucasus and died in 1907 at the Dolinsk farmstead (now part of Nalchik).
 

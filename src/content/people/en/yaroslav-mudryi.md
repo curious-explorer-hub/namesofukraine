@@ -25,7 +25,7 @@ Yaroslav was the son of Volodymyr the Great. After his father’s death, he won 
 
 Under Yaroslav, Kyiv became one of the largest and richest cities in Europe. He built Saint Sophia Cathedral, the Golden Gate and new fortifications, and founded a library and schools. His Rus’ Justice, the first known written law code of Rus’, regulated courts, punishments and people’s rights.
 
-Yaroslav also became famous for his diplomacy. His daughters became queens: Anna of France, Yelyzaveta of Norway, Anastasiia of Hungary. That is why he is often called the “father-in-law of Europe.”
+Yaroslav also became famous for his diplomacy. His daughters became queens: [Anna](/en/people/anna-yaroslavna/) of France, Yelyzaveta of Norway, Anastasiia of Hungary. That is why he is often called the “father-in-law of Europe.”
 
 ## Why it matters today
 
