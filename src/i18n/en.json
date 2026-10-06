@@ -94,5 +94,9 @@
   "explore.tab_eras": "Eras",
   "explore.tab_map": "Map",
   "explore.tab_groups": "Fields",
-  "map.region_empty": "{region}: no one yet"
+  "map.region_empty": "{region}: no one yet",
+  "read.title": "Your journey",
+  "read.hint_none": "Start with anyone - a mark will appear on their card.",
+  "read.hint_some": "{n} more names to discover.",
+  "read.hint_all": "You know them all!"
 }

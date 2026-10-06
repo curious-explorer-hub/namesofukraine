@@ -205,7 +205,79 @@ a { color: var(--cobalt); }
 }
 
 /* Born on this day */
-.daily-hero { margin: 0 0 2rem; }
+/* Above the home-page tabs: the Daily Hero and the reading progress, side by side from tablet up */
+.home-strip { display: grid; gap: 0.75rem; margin: 0 0 2rem; }
+/* The Daily Hero appears once its script has run; the progress card keeps its own place meanwhile
+   (second column; first on phones), so nothing jumps */
+.home-strip .progress-card { order: -1; }
+@media (min-width: 48rem) {
+  .home-strip { grid-template-columns: minmax(0, 36rem) minmax(0, 24rem); align-items: stretch; }
+  .home-strip .daily-hero { grid-column: 1; grid-row: 1; }
+  .home-strip .progress-card { grid-column: 2; grid-row: 1; }
+  .home-strip .daily-hero-card { height: 100%; }
+}
+.daily-hero { margin: 0; }
+
+/* Reading progress card: a ring in wheat to cobalt fills to the share read, the percentage counts up */
+@property --pct {
+  syntax: '<integer>';
+  inherits: true;
+  initial-value: 0;
+}
+.progress-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1.25rem 0.75rem 0.85rem;
+  background: var(--mist);
+  border-radius: 4px;
+}
+.progress-ring { position: relative; flex: none; width: 5.5rem; height: 5.5rem; }
+.progress-ring svg { display: block; width: 100%; height: 100%; transform: rotate(-90deg); }
+.progress-track,
+.progress-fill { fill: none; stroke-width: 7; }
+.progress-track { stroke: var(--paper); }
+.progress-fill {
+  stroke: url(#progress-gradient);
+  stroke-linecap: round;
+  stroke-dasharray: 100 100;
+  stroke-dashoffset: calc(100 - var(--progress, 0) * 100);
+}
+/* Nothing read yet: no dot of colour at the top */
+.progress-card[data-state='none'] .progress-fill { visibility: hidden; }
+.progress-pct {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  counter-reset: pct var(--pct);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--cobalt);
+  font-variant-numeric: tabular-nums;
+}
+.progress-pct::before { content: counter(pct) '%'; }
+.progress-text { display: flex; flex-direction: column; min-width: 0; }
+.progress-label { font-size: 0.875rem; color: var(--slate); }
+.progress-count { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.2; }
+.progress-hint { font-size: 0.875rem; color: var(--slate); }
+.progress-card[data-state='all'] { background: color-mix(in srgb, var(--wheat) 30%, var(--paper)); }
+.progress-card[data-state='all'] .progress-hint { color: var(--ink); font-weight: 500; }
+@media (prefers-reduced-motion: no-preference) {
+  /* On load the ring fills from empty and the number counts up; later changes animate too */
+  .progress-fill { transition: stroke-dashoffset 1.4s cubic-bezier(0.2, 0.7, 0.3, 1) 0.2s; }
+  .progress-card { transition: --pct 1.4s cubic-bezier(0.2, 0.7, 0.3, 1) 0.2s, background-color 400ms ease; }
+  @starting-style {
+    .progress-fill { stroke-dashoffset: 100; }
+    .progress-card { --pct: 0; }
+  }
+  /* Everyone read: the ring glows once */
+  .progress-card[data-state='all'] .progress-ring { animation: glow 1.6s ease 1.4s both; }
+  @keyframes glow {
+    50% { filter: drop-shadow(0 0 0.5rem var(--wheat)); transform: scale(1.06); }
+  }
+}
 .daily-hero-card {
   display: flex;
   align-items: center;
@@ -444,8 +516,8 @@ a { color: var(--cobalt); }
 .filters-unread input { width: 1.1rem; height: 1.1rem; min-height: 0; margin: 0; padding: 0; accent-color: var(--ink); }
 .filters-unread:has(input:checked) { background: var(--ink); color: var(--paper); }
 .filters-unread:has(input:checked) input { accent-color: var(--wheat); }
-/* Reading progress: text over a thin bar that fills with the share already read */
-.read-progress {
+/* Reading progress in the filter bar (category pages): text over a thin bar that fills with the share read */
+.filters .read-progress {
   grid-column: 1 / -1;
   margin: 0;
   padding-bottom: 0.4rem;
@@ -454,7 +526,7 @@ a { color: var(--cobalt); }
   background: linear-gradient(var(--cobalt), var(--cobalt)) left bottom / calc(var(--progress, 0) * 100%) 3px no-repeat,
     linear-gradient(var(--mist), var(--mist)) left bottom / 100% 3px no-repeat;
 }
-.read-progress:empty { display: none; }
+.filters .read-progress:empty { display: none; }
 .filters:not([data-active]) .filters-reset { display: none; }
 .filters-reset:hover { background: var(--ink); color: var(--paper); }
 .filters-status { margin: 0; font-size: 0.875rem; color: var(--slate); min-height: 1.3em; }

@@ -33,7 +33,8 @@ export function initFilters() {
   const tileItems = [...(tiles?.querySelectorAll<HTMLElement>('.tile-item') ?? [])];
   const empty = catalogue.querySelector<HTMLElement>('.catalogue-empty')!;
   const status = form.querySelector<HTMLElement>('.filters-status')!;
-  const progress = form.querySelector<HTMLElement>('.read-progress');
+  // In the filter bar (category pages) or as a card above the home-page tabs
+  const progress = document.querySelector<HTMLElement>('.read-progress');
   const items = [...catalogue.querySelectorAll<HTMLElement>('.person-item')];
   const sections = [...catalogue.querySelectorAll<HTMLElement>('.group')];
   const recentItems = [...(recent?.querySelectorAll<HTMLElement>('.person-item') ?? [])];
@@ -91,8 +92,17 @@ export function initFilters() {
     for (const b of eraButtons) b.setAttribute('aria-pressed', String(b.dataset.era === state.era));
     if (progress) {
       const done = slugs.filter((s) => read.has(s)).length;
-      progress.textContent = progress.dataset.template!.replace('{n}', String(done)).replace('{total}', String(slugs.length));
-      progress.style.setProperty('--progress', String(slugs.length ? done / slugs.length : 0));
+      const share = slugs.length ? done / slugs.length : 0;
+      const text = progress.querySelector('[data-read-text]') ?? progress;
+      text.textContent = progress.dataset.template!.replace('{n}', String(done)).replace('{total}', String(slugs.length));
+      progress.style.setProperty('--progress', String(share));
+      progress.style.setProperty('--pct', String(Math.round(share * 100)));
+      const hint = progress.querySelector('[data-read-hint]');
+      if (hint) {
+        const state = done === 0 ? 'none' : done === slugs.length ? 'all' : 'some';
+        progress.dataset.state = state;
+        hint.textContent = progress.dataset[`hint${state[0].toUpperCase()}${state.slice(1)}`]!.replace('{n}', String(slugs.length - done));
+      }
     }
 
     const params = new URLSearchParams();

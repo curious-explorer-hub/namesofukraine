@@ -94,5 +94,9 @@
   "explore.tab_eras": "Епохи",
   "explore.tab_map": "Карта",
   "explore.tab_groups": "Галузі",
-  "map.region_empty": "{region}: поки нікого"
+  "map.region_empty": "{region}: поки нікого",
+  "read.title": "Ваш шлях",
+  "read.hint_none": "Почніть з будь-кого - позначка з'явиться на картці.",
+  "read.hint_some": "Ще {n} імен чекають на вас.",
+  "read.hint_all": "Ви знаєте всіх своїх!"
 }

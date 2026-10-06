@@ -1,0 +1,40 @@
+---
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  lang: Lang;
+  total: number;
+}
+
+const { lang, total } = Astro.props;
+---
+
+<!-- The visitor's reading progress (read marks are kept in this browser only), next to the Daily Hero.
+     Filled in by the filter script; hidden without JavaScript (noscript style in BaseLayout). A ring
+     fills to the share read and the percentage counts up. -->
+<aside
+  class="progress-card read-progress"
+  aria-labelledby="progress-label"
+  data-template={t('read.progress', lang)}
+  data-hint-none={t('read.hint_none', lang)}
+  data-hint-some={t('read.hint_some', lang)}
+  data-hint-all={t('read.hint_all', lang)}>
+  <span class="progress-ring" aria-hidden="true">
+    <svg viewBox="0 0 64 64">
+      <defs>
+        <linearGradient id="progress-gradient" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#e2b13c" />
+          <stop offset="1" stop-color="#1f4ba5" />
+        </linearGradient>
+      </defs>
+      <circle class="progress-track" cx="32" cy="32" r="27" pathLength="100" />
+      <circle class="progress-fill" cx="32" cy="32" r="27" pathLength="100" />
+    </svg>
+    <span class="progress-pct"></span>
+  </span>
+  <span class="progress-text">
+    <span class="progress-label" id="progress-label">{t('read.title', lang)}</span>
+    <span class="progress-count" data-read-text aria-live="polite">{t('read.progress', lang, { n: 0, total })}</span>
+    <span class="progress-hint" data-read-hint></span>
+  </span>
+</aside>

@@ -36,11 +36,11 @@
 Priority: **M** = must have for launch, **S** = should (Phase 2), **C** = could (Phase 3).
 
 ### 3.1 Browse, filter, search — M
-- **AC1** The home page shows people **grouped into sections by category group** (D12, D14).
-- **AC2** Filter by **category group**, **era**, and **birth region** (Ukrainian oblast, or "diaspora / abroad"). Filters combine with AND and are reflected in the URL (`?group=science&era=20th-century`), so a filtered view can be shared and "back" restores it.
+- **AC1** The home page offers **one way to browse at a time, as tabs** over one results grid (D12, D14): **Пошук / Search** (search field and dropdowns for field, era, region and "unread only"), **Епохи / Eras** (a card per era), **Карта / Map** (birthplace map) and **Галузі / Fields** (a tile per group, opening its category page). Changing tabs clears the filters. Above the tabs: the Daily Hero and the visitor's reading progress; below them: the newly added row, then the results.
+- **AC2** Filter by **category group**, **era**, and **birth region** (Ukrainian oblast, or "diaspora / abroad"). In the Search tab the dropdowns combine with AND; every filter is reflected in the URL (`?group=science&era=20th-century`), so a filtered view can be shared and "back" restores it.
 - **AC3** Search by name, role, or keyword, in the current language. It ignores case and apostrophe variants (`'` `’` `ʼ`) and shows results as you type in under 100 ms.
-- **AC4** Works without JavaScript: the full grouped list is visible, and filters are an enhancement.
-- **Map — S (built 2026-10-06):** a map of Ukraine on the home page with a dot per birthplace and oblasts shaded by head count. Clicking an oblast (or a region in the list under the map) filters by region; the map follows the other filters (search, field, era). People born abroad or in an unknown place are in the list. Later: places of major work and diaspora locations (D15).
+- **AC4** Works without JavaScript: the tab bar is hidden and every panel is shown one after another (era cards, map, group tiles), each group tile links to its category page with the full list, and filters are an enhancement.
+- **Map — S (built 2026-10-06):** a map of Ukraine on the home page with a dot per birthplace and oblasts shaded by head count. Every region names itself on hover; clicking an oblast (or a region in the list under the map) filters by region. People born abroad or in an unknown place are in the list. Later: places of major work and diaspora locations (D15).
 
 ### 3.2 Profile: snackable summary + deep dive — M
 Every profile **must** have this summary, shown on the card (condensed) and at the top of the page:
@@ -123,7 +123,7 @@ Code layout: `src/pages/{uk,en}/` are thin route files that render shared views 
 | 2026-09-29 | D8 | **Living people may be included** (extra rules in §7.6). |
 | 2026-09-29 | D10 | Search: **simple client-side**. |
 | 2026-09-29 | D11 | Analytics: **Cloudflare Web Analytics**. |
-| 2026-09-29 | D12 | **Home layout:** group sections (swipe rows on mobile, grid on desktop) + filter/search bar; filtering switches to one grid. (Replaced D9, grid + chips.) |
+| 2026-09-29 | D12 | **Home layout:** group sections (swipe rows on mobile, grid on desktop) + filter/search bar; filtering switches to one grid. (Replaced D9, grid + chips.) *Changed 2026-10-06:* explore tabs (Search, Eras, Map, Fields), one at a time, over one results grid; the group sections became tiles in the Fields tab, and the header search was folded into the Search tab. |
 | 2026-09-29 | D13 | **New-additions feed:** home row + `/new/` + "Нове" badge + RSS at launch; Telegram/Instagram posts per batch after launch (D13-E). |
 | 2026-09-29 | D14 | **Categories:** one `group` per person + many `tags`. Groups: `statehood`, `literature`, `visual-arts`, `performing-arts`, `science`, `civic`, `faith`, `sport`, `defenders` (labels in `src/content/categories.json`). |
 | 2026-09-29 | D15 | **Map (Phase 3):** Leaflet/MapLibre + OSM-based tiles; birthplace coordinates collected now. *Changed 2026-10-06:* a static SVG of the oblasts (all 27 units, including Crimea and Sevastopol) drawn at build time, with no tiles or third-party requests; on the home page, tied to the filters. |

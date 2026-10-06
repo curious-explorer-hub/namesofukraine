@@ -7,9 +7,11 @@ interface Props {
   lang: Lang;
   // On a category page the group is fixed, so the group dropdown is not shown.
   hideGroup?: boolean;
+  // The reading progress line; the home page shows it as a card above the tabs instead (ReadProgress).
+  progress?: boolean;
 }
 
-const { people, lang, hideGroup = false } = Astro.props;
+const { people, lang, hideGroup = false, progress = true } = Astro.props;
 // Only offer options that actually have people, so no filter leads to an empty page.
 const used = (key: (p: Person) => string) => new Set(people.map(key));
 const usedGroups = used((p) => p.data.group);
@@ -53,6 +55,6 @@ const regionIds = [...used((p) => p.data.birthplace.region)].sort((a, b) =>
   </label>
   <button type="reset" class="filters-reset">{t('filter.reset', lang)}</button>
   {/* Filled in by the filter script from this browser's read marks. */}
-  <p class="read-progress" data-template={t('read.progress', lang)} aria-live="polite"></p>
+  {progress && <p class="read-progress" data-template={t('read.progress', lang)} aria-live="polite"></p>}
   <p class="filters-status" role="status" aria-live="polite" data-found={t('filter.found', lang)}></p>
 </form>
