@@ -105,6 +105,8 @@
   "map.continent.africa": "Африка",
   "map.continent.asia": "Азія",
   "map.continent.oceania": "Австралія й Океанія",
+  "map.version_tip": "{name}: місце за однією з версій",
+  "map.version_legend": "Місце народження за однією з версій (точно невідоме)",
   "map.places": "Регіони",
   "map.credit": "Межі областей: © учасники OpenStreetMap (ODbL), geoBoundaries; континенти: Natural Earth",
   "about.world_credit": "Континенти на карті",

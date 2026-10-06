@@ -43,6 +43,11 @@ const people = defineCollection({
           country: z.string().length(2), // ISO 3166-1 alpha-2
           lat: z.number().optional(),
           lon: z.number().optional(),
+          // The place is one version among several (region stays `unknown`): drawn as a hollow ring,
+          // "one of the versions", and never counted in a region. Needs lat/lon.
+          version: z.boolean().default(false),
+        }).refine((b) => !b.version || (b.lat !== undefined && b.lon !== undefined && b.region === 'unknown'), {
+          message: 'birthplace.version needs lat/lon and region: unknown',
         }),
         places: z
           .array(z.object({ name: z.string(), lat: z.number(), lon: z.number(), note: z.string() }))

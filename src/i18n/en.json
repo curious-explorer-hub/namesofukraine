@@ -105,6 +105,8 @@
   "map.continent.africa": "Africa",
   "map.continent.asia": "Asia",
   "map.continent.oceania": "Australia and Oceania",
+  "map.version_tip": "{name}: birthplace by one of the versions",
+  "map.version_legend": "Birthplace by one of the versions (not known for sure)",
   "map.places": "Regions",
   "map.credit": "Region borders: © OpenStreetMap contributors (ODbL), geoBoundaries; continents: Natural Earth",
   "about.world_credit": "Continents on the map",

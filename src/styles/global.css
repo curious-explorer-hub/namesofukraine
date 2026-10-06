@@ -726,6 +726,10 @@ a { color: var(--cobalt); }
 .map-dot { cursor: pointer; transform-box: fill-box; transform-origin: center; transition: opacity 300ms ease, scale 300ms ease; }
 .map-dot circle { fill: var(--accent); stroke: var(--paper); stroke-width: 1.5; }
 .map-dot-many circle { fill: var(--ink); }
+/* A birthplace that is one version among several: a hollow ring in the group colour */
+.map-dot-version circle { fill: var(--paper); stroke: var(--accent); stroke-width: 2.5; stroke-dasharray: 3 2; }
+.map-legend { display: flex; align-items: center; gap: 0.45rem; margin: 0.5rem 0 0; font-size: 0.8125rem; color: var(--slate); }
+.map-legend-ring { width: 0.7rem; height: 0.7rem; border: 2px dashed var(--slate); border-radius: 50%; }
 .map-dot text { fill: var(--paper); font: 700 9px var(--font-text); text-anchor: middle; pointer-events: none; }
 .map-dot:hover { scale: 1.35; }
 .map-dot.is-aside { opacity: 0.35; }

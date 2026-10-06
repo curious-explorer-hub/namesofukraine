@@ -17,12 +17,13 @@ const totals = new Map<string, number>();
 for (const p of people) totals.set(p.data.birthplace.region, (totals.get(p.data.birthplace.region) ?? 0) + 1);
 const most = Math.max(1, ...[...totals].filter(([id]) => id !== 'abroad' && id !== 'unknown').map(([, n]) => n));
 
-// One dot per birthplace inside Ukraine; people born in the same place share a numbered dot.
+// One dot per birthplace inside Ukraine; people born in the same place share a numbered dot. A place
+// that is one version among several (birthplace.version) gets its own hollow ring.
 const places = new Map<string, Person[]>();
 for (const p of people) {
-  const { lat, lon, region } = p.data.birthplace;
-  if (lat === undefined || lon === undefined || region === 'abroad' || region === 'unknown') continue;
-  const key = `${lat.toFixed(2)},${lon.toFixed(2)}`;
+  const { lat, lon, region, version } = p.data.birthplace;
+  if (lat === undefined || lon === undefined || region === 'abroad' || (region === 'unknown' && !version)) continue;
+  const key = `${lat.toFixed(2)},${lon.toFixed(2)}${version ? `,${p.slug}` : ''}`;
   places.set(key, [...(places.get(key) ?? []), p]);
 }
 const dots = [...places.values()]
@@ -30,7 +31,8 @@ const dots = [...places.values()]
     const [x, y] = project(group[0].data.birthplace.lon!, group[0].data.birthplace.lat!);
     const names = group.slice(0, MAX_NAMES).map((p) => p.data.name);
     if (group.length > MAX_NAMES) names.push(t('map.more', lang, { n: group.length - MAX_NAMES }));
-    return { x, y, group, names: names.join(', ') };
+    const version = group[0].data.birthplace.version;
+    return { x, y, group, version, names: version ? t('map.version_tip', lang, { name: names[0] }) : names.join(', ') };
   })
   .sort((a, b) => b.group.length - a.group.length); // big dots first, so single ones stay on top
 
@@ -85,7 +87,7 @@ const cards = CONTINENTS.map(({ id }) => {
         <g class="map-dots" aria-hidden="true">
           {dots.map((d) => (
             <g
-              class:list={['map-dot', { 'map-dot-many': d.group.length > 1 }]}
+              class:list={['map-dot', { 'map-dot-many': d.group.length > 1, 'map-dot-version': d.version }]}
               data-group={d.group.length === 1 ? d.group[0].data.group : undefined}
               data-slugs={d.group.map((p) => p.slug).join(' ')}
               data-region={d.group[0].data.birthplace.region}
@@ -133,6 +135,7 @@ const cards = CONTINENTS.map(({ id }) => {
           </div>
         )
       }
+      {dots.some((d) => d.version) && <p class="map-legend"><span class="map-legend-ring" aria-hidden="true"></span>{t('map.version_legend', lang)}</p>}
       <div class="map-tip" hidden></div>
     </div>
     <div class="map-side">
