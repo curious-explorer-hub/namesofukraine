@@ -1,5 +1,5 @@
 # Weekly dependency update PRs (docs/BACKLOG.md, I11). Takes effect once the repo is on an account with
-# Dependabot enabled (see docs/BACKLOG.md, L2).
+# Dependabot enabled (done 2026-10-05, product_vision.md §10).
 version: 2
 updates:
   - package-ecosystem: npm

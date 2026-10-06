@@ -1,6 +1,6 @@
 # Post-launch checklist
 
-Do these once the site is live on Cloudflare Pages ([BACKLOG.md](BACKLOG.md), L2) and, where noted, on its real domain (L3). During the soft launch the site runs on `https://namesofukraine.pages.dev`; use that address for the launch-day steps and skip the domain section until `namesofukraine.org` is registered. Each step is free and takes minutes. Tick them here as they're done.
+Do these once the site is live on Cloudflare Pages (done 2026-10-05, [product_vision.md](../product_vision.md) §10) and, where noted, on its real domain (L3). During the soft launch the site runs on `https://namesofukraine.pages.dev`; use that address for the launch-day steps and skip the domain section until `namesofukraine.org` is registered. Each step is free and takes minutes. Tick them here as they're done.
 
 ## Launch day
 
@@ -29,7 +29,7 @@ Do these once the site is live on Cloudflare Pages ([BACKLOG.md](BACKLOG.md), L2
 - [ ] **Traffic trend and top pages** (Cloudflare). Which people are read most; which referrers grow. Use this to pick who goes into the next batch and what to post on social media.
 - [ ] **Search queries** (Search Console → Performance). Which searches show the site, where it ranks, and which pages get impressions but few clicks (those may need a better title or summary).
 - [ ] **Dependency updates.** Merge or review Dependabot PRs; CI fails on any new, unreviewed advisory (`scripts/check-audit.mjs`).
-- [ ] **Suggestions and corrections** from the suggest form (L4): answer removal or correction requests about living people promptly (§7.6).
+- [ ] **Suggestions and corrections** from the feedback form (product_vision.md §3.6): answer removal or correction requests about living people promptly (§7.6).
 
 ## Later, if the basic numbers aren't enough
 
