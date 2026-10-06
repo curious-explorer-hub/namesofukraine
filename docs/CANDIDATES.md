@@ -29,9 +29,13 @@ Years are blank where the source list gave none; fill them in when drafting.
 | Святослав Хоробрий | | State (statehood)                    | Kyivan Rus' | | Backlog | ВУ [98] | |
 | Володимир Мономах | | State (statehood)                    | Kyivan Rus' | | Backlog | ВУ [58] | |
 | Іван Федоров | бл. 1520–1583 | Printer                              | Lithuanian-Polish | 🌍 | Backlog | NV | |
+| Юрій Дрогобич (Котермак) | бл. 1450–1494 | Scholar, astronomer (science)        | Lithuanian-Polish | 🌍 | Backlog | Web | First Ukrainian-born rector of a European university (Bologna, 1481–82); author of the first printed book by a Ukrainian abroad (Rome, 1483); taught at Kraków, where young Copernicus was among his students |
+| Гальшка (Єлизавета) Острозька | 1539–1582 | Patron of education (civic) | Lithuanian-Polish | 👩 | Backlog | Web | Funded the founding of the Ostroh Academy (first higher-education institution in Eastern Slavic lands); the era currently has no women on the site |
 | Памво Беринда | бл. 1550/1570–1632 | Publisher (literature)               | Cossack | | Backlog | NV | |
 | Феофан Прокопович | 1681–1736 | Theologian (faith)                   | Cossack | ⚖️ | Backlog | NV | Architect of Peter I's church reform |
 | Максим Березовський | 1745–1777 | Composer (performing-arts)           | Cossack | | Backlog | NV | |
+| Антон Головатий | 1744–1797 | Cossack officer, poet (statehood)    | Imperial | ⚖️ | Backlog | Web | Last of the Zaporozhian-tradition kish otamans; led the Black Sea Cossacks after the Sich's destruction (1775) and their resettlement to Kuban (1792) — a complex, debated legacy to frame carefully |
+| Володимир Боровиковський | 1757–1825 | Painter (visual-arts)                | Imperial | 🌍 | Backlog | Web | Born Myrhorod (Cossack family); leading portraitist of the era, career in St Petersburg; works held at Kyiv's National Art Museum |
 | Микола Пирогов | 1810–1881 | Surgeon (science)                    | 19th c. | 🌍 ⚖️ | Backlog | NV | Russian-born; worked in Kyiv and Vinnytsia |
 | Микола Костомаров | 1817–1885 | Historian (science)                  | 19th c. | | Backlog | NV | |
 | Нікола Терещенко | 1819–1903 | Industrialist and patron (civic)     | 19th c. | | Backlog | NV | |
