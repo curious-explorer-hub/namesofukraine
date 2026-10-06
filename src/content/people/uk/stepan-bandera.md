@@ -16,6 +16,7 @@ image:
   alt: "Фотопортрет Степана Бандери"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Stepan_Bandera_photo.jpg"
 key_accomplishments:
   - Провідник Крайової екзекутиви ОУН на західноукраїнських землях (1933–1934)

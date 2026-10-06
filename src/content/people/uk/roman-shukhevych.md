@@ -20,6 +20,7 @@ image:
   position: "50% 35%"
   author: "Невідомий автор (Архів СБУ)"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Rom%C3%A1n_Shuj%C3%A9vych.jpg"
 key_accomplishments:
   - Головнокомандувач УПА (1943–1950)
