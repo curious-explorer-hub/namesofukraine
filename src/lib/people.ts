@@ -78,6 +78,17 @@ export const eraLabel = (id: string, lang: Lang = 'uk') => label(eras, id, lang)
 const collator = (lang: Lang) => new Intl.Collator(lang);
 export const byBirth = (a: Person, b: Person) => a.data.born.getTime() - b.data.born.getTime();
 
+// Faces for a set of people (home-page tiles, era bands): those with a portrait whom other profiles
+// link to most, a stand-in for prominence. Ties keep the order of `members`.
+export const mostLinked = (members: Person[], everyone: Person[], n: number) => {
+  const links = new Map<string, number>();
+  for (const p of everyone) for (const slug of p.data.related) links.set(slug, (links.get(slug) ?? 0) + 1);
+  return members
+    .filter((p) => p.data.image)
+    .sort((a, b) => (links.get(b.slug) ?? 0) - (links.get(a.slug) ?? 0))
+    .slice(0, n);
+};
+
 // Everything up to the launch batch counts as the initial catalogue, not "new".
 export const LAUNCH_DATE = new Date('2026-09-29');
 const NEW_FOR_DAYS = 30;

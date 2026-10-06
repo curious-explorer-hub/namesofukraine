@@ -8,9 +8,11 @@ interface Props {
   widths: number[];
   class?: string;
   loading?: 'lazy' | 'eager';
+  // 'span' inside buttons and other phrasing-only content (era bands)
+  tag?: 'div' | 'span';
 }
 
-const { person, sizes, widths, class: className, loading = 'lazy' } = Astro.props;
+const { person, sizes, widths, class: className, loading = 'lazy', tag: Tag = 'div' } = Astro.props;
 const image = person.data.image;
 // Faces sit in the upper part of most portraits.
 const position = image?.position ?? '50% 22%';
@@ -20,7 +22,7 @@ const initials = [words[0], words.length > 1 ? words.at(-1) : undefined].map((w)
 
 {
   image ? (
-    <div class:list={['portrait', className]}>
+    <Tag class:list={['portrait', className]}>
       <Image
         src={image.src}
         alt={image.alt}
@@ -29,12 +31,12 @@ const initials = [words[0], words.length > 1 ? words.at(-1) : undefined].map((w)
         loading={loading}
         style={`object-position: ${position}`}
       />
-    </div>
+    </Tag>
   ) : (
     // No freely licensed portrait: the name is already next to it, so the monogram is decorative.
-    <div class:list={['portrait', 'portrait-monogram', className]} aria-hidden="true">
+    <Tag class:list={['portrait', 'portrait-monogram', className]} aria-hidden="true">
       <span>{initials}</span>
-    </div>
+    </Tag>
   )
 }
 

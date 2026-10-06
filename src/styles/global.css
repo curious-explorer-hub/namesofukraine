@@ -458,6 +458,17 @@ a { color: var(--cobalt); }
     }
   }
 }
+/* A few faces of the era, overlapping; they fan out on hover */
+.era-faces { display: flex; margin: 0 0 0.6rem; }
+.era-face { display: block; flex: none; width: 2.25rem; height: 2.25rem; border: 2px solid var(--paper); border-radius: 50%; }
+.era-face + .era-face { margin-left: -0.7rem; }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .era-face { transition: transform 350ms cubic-bezier(0.2, 0.7, 0.3, 1), margin 350ms cubic-bezier(0.2, 0.7, 0.3, 1); }
+  .era:not(:disabled):hover .era-face + .era-face { margin-left: -0.25rem; }
+  .era:not(:disabled):hover .era-face:nth-child(1) { transform: rotate(-8deg); }
+  .era:not(:disabled):hover .era-face:nth-child(2) { transform: translateY(-3px); }
+  .era:not(:disabled):hover .era-face:nth-child(3) { transform: rotate(8deg); }
+}
 .era-empty { font-size: 0.875rem; color: var(--slate); }
 .era-name { font-weight: 500; line-height: 1.25; }
 .era-span { font-size: 0.875rem; color: var(--slate); }

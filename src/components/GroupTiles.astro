@@ -1,6 +1,6 @@
 ---
 import Portrait from './Portrait.astro';
-import { groups, groupUrl, type Person } from '../lib/people';
+import { groups, groupUrl, mostLinked, type Person } from '../lib/people';
 import { t, type Lang } from '../i18n';
 
 interface Props {
@@ -9,18 +9,11 @@ interface Props {
 }
 
 const { people, lang } = Astro.props;
-const FACES = 3;
-// The faces on a tile: the people other profiles link to most (a stand-in for prominence), then the earliest born.
-const links = new Map<string, number>();
-for (const p of people) for (const slug of p.data.related) links.set(slug, (links.get(slug) ?? 0) + 1);
+// The faces on a tile: the most-linked people of the group, then the earliest born.
 const tiles = groups
   .map((g) => {
     const members = people.filter((p) => p.data.group === g.id);
-    const faces = members
-      .filter((p) => p.data.image)
-      .sort((a, b) => (links.get(b.slug) ?? 0) - (links.get(a.slug) ?? 0))
-      .slice(0, FACES);
-    return { ...g, members, faces };
+    return { ...g, members, faces: mostLinked(members, people, 3) };
   })
   .filter((g) => g.members.length > 0);
 ---
