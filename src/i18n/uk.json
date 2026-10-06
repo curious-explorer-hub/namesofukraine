@@ -98,5 +98,19 @@
   "read.title": "Ваш шлях",
   "read.hint_none": "Почніть з будь-кого - позначка з'явиться на картці.",
   "read.hint_some": "Ще {n} імен чекають на вас.",
-  "read.hint_all": "Ви знаєте всіх своїх!"
+  "read.hint_all": "Ви знаєте всіх своїх!",
+  "insight.label_you": "Спостереження",
+  "insight.label_fact": "Цікаво знати",
+  "insight.interest": "Здається, вас цікавить розділ «{field}»: {n} з {total} прочитаних - звідти.",
+  "insight.all_read": "Ви прочитали всіх у розділі «{field}». Час для нового!",
+  "insight.varied": "Ви читаєте про різне - уже {k} з {all} галузей.",
+  "insight.next": "Далі: {name}",
+  "insight.open_field": "Відкрити розділ «{field}»",
+  "insight.fact_region": "Найбільше людей у каталозі народилося тут: {region} ({n}).",
+  "insight.fact_era": "{n} з {total} людей у каталозі - з епохи «{era}».",
+  "insight.fact_field": "Найбільший розділ - «{field}»: {n}.",
+  "insight.fact_abroad": "Народилися за межами України: {n}.",
+  "insight.fact_earliest": "Найдавніша постать у каталозі - {name} ({years}).",
+  "insight.see_them": "Хто це?",
+  "insight.read_story": "Читати історію"
 }

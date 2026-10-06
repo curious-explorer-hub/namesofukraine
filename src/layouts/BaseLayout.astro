@@ -64,7 +64,7 @@ const home = localePath(lang, '/');
     <slot name="head" />
     <!-- The filter bar, the explore tabs and the map's region list need JavaScript. They are visible from
          the first paint (no layout shift when the script starts) and hidden only for visitors without it. -->
-    <noscript><style>.filters, .map-side, .explore-tabs, .progress-card { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
+    <noscript><style>.filters, .map-side, .explore-tabs, .progress-card, .daily-hero { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
     {structuredData.map((item) => <script is:inline type="application/ld+json" set:html={jsonForScript(item)} />)}
     <link rel="preload" href="/fonts/FixelDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/FixelText-Regular.woff2" as="font" type="font/woff2" crossorigin />

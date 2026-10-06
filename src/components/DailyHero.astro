@@ -27,8 +27,9 @@ const entries = await Promise.all(
 );
 ---
 
-<!-- Filled in by the script for the visitor's date; hidden without JS. -->
-<aside class="daily-hero" data-daily-hero hidden aria-labelledby="daily-hero-label">
+<!-- Filled in by the script for the visitor's date. Until then it keeps its place, invisible, so nothing
+     below it moves; hidden without JS (noscript style in BaseLayout). -->
+<aside class="daily-hero" data-daily-hero data-pending aria-labelledby="daily-hero-label">
   <a class="daily-hero-card" data-hero-link href="#">
     <span class="daily-hero-portrait portrait"><img data-hero-img src="" alt="" width="120" height="120" /></span>
     <span class="daily-hero-text">

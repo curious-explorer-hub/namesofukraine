@@ -1,0 +1,56 @@
+---
+import { groups, groupUrl, groupLabel, eraLabel, regionLabel, personUrl, lifespan, localePath, byBirth, type Person } from '../lib/people';
+import { t, type Lang } from '../i18n';
+import { jsonForScript } from '../lib/json';
+import type { Fact, InsightData } from '../scripts/insight';
+
+interface Props {
+  people: Person[];
+  lang: Lang;
+}
+
+const { people, lang } = Astro.props;
+const count = <K extends string>(key: (p: Person) => K) => {
+  const m = new Map<K, number>();
+  for (const p of people) m.set(key(p), (m.get(key(p)) ?? 0) + 1);
+  return [...m].sort(([, a], [, b]) => b - a);
+};
+const home = localePath(lang, '/');
+
+// Facts about the catalogue, shown until the visitor has read enough for a personal guess (one a day).
+const [region, inRegion] = count((p) => p.data.birthplace.region).find(([id]) => id !== 'abroad' && id !== 'unknown')!;
+const [era, inEra] = count((p) => p.data.era)[0];
+const [field, inField] = count((p) => p.data.group)[0];
+const abroad = people.filter((p) => p.data.birthplace.region === 'abroad').length;
+const earliest = [...people].sort(byBirth)[0];
+const facts: Fact[] = [
+  { text: t('insight.fact_region', lang, { region: regionLabel(region, lang), n: inRegion }), href: `${home}?region=${region}`, link: t('insight.see_them', lang) },
+  { text: t('insight.fact_era', lang, { n: inEra, total: people.length, era: eraLabel(era, lang) }), href: `${home}?era=${era}`, link: t('insight.see_them', lang) },
+  { text: t('insight.fact_field', lang, { field: groupLabel(field, lang), n: inField }), href: groupUrl(field, lang), link: t('insight.see_them', lang) },
+  { text: t('insight.fact_abroad', lang, { n: abroad }), href: `${home}?region=abroad`, link: t('insight.see_them', lang) },
+  { text: t('insight.fact_earliest', lang, { name: earliest.data.name, years: lifespan(earliest) }), href: personUrl(earliest), link: t('insight.read_story', lang) },
+];
+const data: InsightData = {
+  groups: Object.fromEntries(groups.map((g) => [g.id, { label: g.label[lang], url: groupUrl(g.id, lang) }])),
+  facts,
+  strings: {
+    interest: t('insight.interest', lang),
+    allRead: t('insight.all_read', lang),
+    varied: t('insight.varied', lang),
+    next: t('insight.next', lang),
+    openField: t('insight.open_field', lang),
+    labelYou: t('insight.label_you', lang),
+    labelFact: t('insight.label_fact', lang),
+  },
+};
+---
+
+<!-- An observation from this browser's read marks, or a fact about the catalogue (src/scripts/insight.ts).
+     Without JavaScript it keeps the first fact. -->
+<aside class="insight" data-insight data-kind="fact" aria-labelledby="insight-label">
+  <svg class="insight-spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l1.8 6.2L20 10l-6.2 1.8L12 18l-1.8-6.2L4 10l6.2-1.8zM19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z" /></svg>
+  <span class="insight-label" id="insight-label" data-insight-label>{t('insight.label_fact', lang)}</span>
+  <p class="insight-text" data-insight-text aria-live="polite">{facts[0].text}</p>
+  <a class="insight-link" data-insight-link href={facts[0].href}>{facts[0].link}</a>
+</aside>
+<script is:inline type="application/json" id="insight-data" set:html={jsonForScript(data)} />

@@ -211,12 +211,51 @@ a { color: var(--cobalt); }
    (second column; first on phones), so nothing jumps */
 .home-strip .progress-card { order: -1; }
 @media (min-width: 48rem) {
-  .home-strip { grid-template-columns: minmax(0, 36rem) minmax(0, 24rem); align-items: stretch; }
+  /* Tablet: Daily Hero and progress side by side, the observation under them across the full width */
+  .home-strip { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); align-items: stretch; }
   .home-strip .daily-hero { grid-column: 1; grid-row: 1; }
   .home-strip .progress-card { grid-column: 2; grid-row: 1; }
-  .home-strip .daily-hero-card { height: 100%; }
+  .home-strip .insight { grid-column: 1 / -1; grid-row: 2; }
+  .home-strip .daily-hero-card { height: 100%; max-width: none; }
+}
+@media (min-width: 64rem) {
+  /* Desktop: three cards filling the row */
+  .home-strip { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr) minmax(0, 1.2fr); }
+  .home-strip .insight { grid-column: 3; grid-row: 1; }
+}
+
+/* Observation card: a guess at the visitor's interest (in that field's colour), or a catalogue fact */
+.insight {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+  min-height: 7rem;
+  padding: 0.85rem 1.25rem 0.9rem 3.1rem;
+  background: var(--accent-soft);
+  border-left: 6px solid var(--accent);
+  border-radius: 4px;
+}
+.insight-spark { position: absolute; left: 0.95rem; top: 0.95rem; width: 1.4rem; height: 1.4rem; fill: var(--accent); }
+.insight-label { font-size: 0.875rem; color: var(--slate); }
+.insight-text { margin: 0; font-weight: 500; line-height: 1.35; }
+.insight-link { align-self: flex-start; margin-top: 0.15rem; font-weight: 500; color: var(--accent); text-underline-offset: 0.2em; }
+.insight-link::after { content: ' →'; }
+@media (prefers-reduced-motion: no-preference) {
+  .insight-spark { animation: twinkle 1.2s cubic-bezier(0.3, 1.5, 0.5, 1) 0.6s both; }
+  .insight-text, .insight-link { animation: insight-in 600ms cubic-bezier(0.2, 0.7, 0.3, 1) both; }
+  .insight-text { animation-delay: 0.35s; }
+  .insight-link { animation-delay: 0.5s; }
+  @keyframes twinkle {
+    from { transform: scale(0) rotate(-90deg); }
+  }
+  @keyframes insight-in {
+    from { opacity: 0; transform: translateY(6px); }
+  }
 }
 .daily-hero { margin: 0; }
+.daily-hero[data-pending] { visibility: hidden; }
 
 /* Reading progress card: a ring in wheat to cobalt fills to the share read, the percentage counts up */
 @property --pct {
@@ -283,6 +322,7 @@ a { color: var(--cobalt); }
   align-items: center;
   gap: 1.1rem;
   max-width: 36rem;
+  min-height: 7rem; /* about its filled-in height, so filling it in moves nothing */
   padding: 0.75rem 1.25rem 0.75rem 0.75rem;
   color: inherit;
   text-decoration: none;

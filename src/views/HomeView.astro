@@ -8,6 +8,7 @@ import GroupTiles from '../components/GroupTiles.astro';
 import BirthMap from '../components/BirthMap.astro';
 import ExploreTabs from '../components/ExploreTabs.astro';
 import ReadProgress from '../components/ReadProgress.astro';
+import Insight from '../components/Insight.astro';
 import { getPeople, groups, recentlyAdded, byBirth, localePath } from '../lib/people';
 import { getImage } from 'astro:assets';
 import heroImage from '../assets/hero/independence-monument.jpg';
@@ -47,6 +48,7 @@ const phone = '(max-width: 47.99rem)';
   <div class="home-strip">
     <DailyHero people={people} lang={lang} />
     <ReadProgress lang={lang} total={people.length} />
+    <Insight people={people} lang={lang} />
   </div>
   <ExploreTabs lang={lang}>
     <FilterBar slot="search" people={people} lang={lang} progress={false} />
@@ -94,7 +96,9 @@ const phone = '(max-width: 47.99rem)';
   import { initFilters } from '../scripts/filter';
   import { initBirthMap } from '../scripts/birth-map';
   import { initExplore } from '../scripts/explore';
+  import { initInsight } from '../scripts/insight';
   initFilters();
   initBirthMap();
   initExplore();
+  initInsight();
 </script>

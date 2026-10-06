@@ -98,5 +98,19 @@
   "read.title": "Your journey",
   "read.hint_none": "Start with anyone - a mark will appear on their card.",
   "read.hint_some": "{n} more names to discover.",
-  "read.hint_all": "You know them all!"
+  "read.hint_all": "You know them all!",
+  "insight.label_you": "Observation",
+  "insight.label_fact": "Did you know",
+  "insight.interest": "You seem to like {field}: {n} of the {total} you've read are from there.",
+  "insight.all_read": "You've read everyone in {field}. Time for something new!",
+  "insight.varied": "You read widely: {k} of {all} fields so far.",
+  "insight.next": "Next: {name}",
+  "insight.open_field": "Open {field}",
+  "insight.fact_region": "Most people here were born in {region} ({n}).",
+  "insight.fact_era": "{n} of the {total} people here are from the {era} era.",
+  "insight.fact_field": "The biggest field is {field}: {n}.",
+  "insight.fact_abroad": "Born outside Ukraine: {n}.",
+  "insight.fact_earliest": "The earliest person here is {name} ({years}).",
+  "insight.see_them": "Who are they?",
+  "insight.read_story": "Read the story"
 }

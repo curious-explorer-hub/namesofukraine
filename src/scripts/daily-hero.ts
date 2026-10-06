@@ -49,7 +49,7 @@ export function initDailyHero() {
   const entries: HeroCard[] = JSON.parse(data.textContent ?? '[]');
   const today = new Date();
   const picked = pickHero(entries, today);
-  if (!picked) return;
+  if (!picked) return void (root.hidden = true);
   const { entry, kind } = picked;
   const set = (sel: string, fn: (el: HTMLElement) => void) => {
     const el = root.querySelector<HTMLElement>(sel);
@@ -69,5 +69,5 @@ export function initDailyHero() {
       el.setAttribute('alt', entry.alt ?? '');
     } else el.parentElement?.remove();
   });
-  root.hidden = false;
+  delete root.dataset.pending;
 }

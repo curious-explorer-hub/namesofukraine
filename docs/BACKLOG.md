@@ -2,7 +2,7 @@
 
 What's live, what's next, and the ideas we want to prioritize. The *why* and the rules (vision, requirements, decisions, editorial policy) are in [product_vision.md](../product_vision.md); this file tracks the work. Finished items are summarized at the bottom; full details are in git history.
 
-## Status (2026-10-05)
+## Status (2026-10-06)
 
 - **Live:** <https://namesofukraine.pages.dev> (soft launch since 2026-10-05). Deploys from `main` via GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
 - **Content:** 86 profiles, all reviewed and published in Ukrainian and English. 3 have no portrait yet (initials placeholder; see L15): Defenders Ruf and Kryvtsov, and singer Raisa Kyrychenko.
@@ -18,9 +18,18 @@ In order. Pick from the top.
 |---|---|---|---|
 | 1 | **Confirm measurement:** Web Analytics shows page views; set up the UptimeRobot check (L10) | Every later choice (next batch, what to post, "most read") depends on traffic data | Owner |
 | 2 | **Social handle + posting routine** (L11, L13) | The main audience (14–25) finds content on Instagram/Telegram, not search; share cards, fun facts and misconceptions are ready-made posts | Owner, then code for `SOCIAL_LINKS` |
-| 3 | **Cross-profile links** (I17, steps A + B) | 79 one-way `related:` links; readers notice, and internal links help SEO | Code |
+| 3 | **Content session (next, owner 2026-10-06)**: C1–C4 below, in order | The layout and features are in; the catalogue and its links are now what limits the site | Code + content |
 | 4 | **Content balance** (L14) | 5 of 86 living (6%, target ≥ 10%); Lithuanian-Polish era 2, Imperial 1; women not countable (no field) | Code (add a field + count), then content |
-| 5 | **Home page that stays short** (I18, option A) | First screen for visitors arriving from social posts; grows with every batch | Code |
+
+### Next content session (owner, 2026-10-06)
+
+To do in a separate session, in this order:
+
+- **C1. Colorized and restored portraits.** Go through the portraits that are black-and-white, faded or damaged, and make colorized or restored versions with AI (Gemini), as done for Bandera, Shukhevych, Arkhypenko, Bilokur, Symonenko and others. Set `ai_edit: colorized` or `restored` so the credit says so; keep the original file's author, license and source. Check faces and details against the original; skip any where the result changes the person's look. Start with the most-viewed and most-linked profiles and the group tiles' faces.
+- **C2. Cross-profile links (I17).** (a) Make every `related:` link two-way where it makes sense (79 are one-way). (b) Find the ~160 unlinked mentions of profiled people in the prose and link them, checking each by hand (namesakes: Taras vs Andriy Shevchenko). (c) Record, for each candidate in [CANDIDATES.md](CANDIDATES.md), which existing profiles they connect to (teacher, student, collaborator, family, same event) in a "Links" column.
+- **C3. Add more people, prioritized by connections.** Pick the next batch from CANDIDATES.md by how many existing profiles each candidate connects to (C2c), so new profiles arrive already linked; balance by era, field, region and living/women (L14). Same workflow as before: Ukrainian and English files, ≥ 2 sources, fact-check, portraits (free license first; fair use only by owner decision), `reviewed: true` in both.
+- **C4. Deep research to grow the candidate list.** Go beyond the NV, ВУ and Rubryka lists: encyclopedias (ESU, Encyclopedia of Ukrainian History), state awards (Shevchenko Prize, Hero of Ukraine), diaspora, science and sport halls of fame, regional figures (so the map fills in: Kherson, Odesa, Zakarpattia, Luhansk and other oblasts with no one yet), women and living people. Add each with years, field, era, flags, source and links (C2c).
+
 
 ## Launch checklist: open items
 
@@ -51,7 +60,7 @@ Not scheduled. IDs (I…) keep the numbers they had in the vision doc's old feat
 
 ### Home page
 - **I19. Era ribbon.** Done (see Done): colour, motion, sliding highlight, faces. A timeline strip of people under the bands was tried and dropped (2026-10-06, owner decision); the birthplace map takes its place.
-- **I21. Fill the row above the tabs.** The Daily Hero (max 36rem) and the progress card (max 24rem) leave empty space on the right on wide screens. Options: **(a)** two equal halves (50/50) of the page width; **(b)** a third card with a personal observation drawn from this browser's read marks, e.g. «Здається, вас цікавить література: 6 із 10 прочитаних - звідти» ("You seem to like literature: 6 of your 10 read are from there"), with a link to that field and a suggestion of someone unread from it; before anything is read, a fact about the catalogue instead (e.g. the busiest region or era). (b) stays private like the read marks: computed in the browser, nothing sent anywhere. Needs at least ~3 read profiles before guessing an interest; on phones the third card goes under the other two.
+- **I21. Fill the row above the tabs.** Done 2026-10-06 with option (b), the observation card (see Done). Original notes: the Daily Hero (max 36rem) and the progress card (max 24rem) leave empty space on the right on wide screens. Options: **(a)** two equal halves (50/50) of the page width; **(b)** a third card with a personal observation drawn from this browser's read marks, e.g. «Здається, вас цікавить література: 6 із 10 прочитаних - звідти» ("You seem to like literature: 6 of your 10 read are from there"), with a link to that field and a suggestion of someone unread from it; before anything is read, a fact about the catalogue instead (e.g. the busiest region or era). (b) stays private like the read marks: computed in the browser, nothing sent anywhere. Needs at least ~3 read profiles before guessing an interest; on phones the third card goes under the other two.
 - **I20. Birthplace map: next steps.** Built (see Done). Open: 18 people have no dot: 10 born abroad and 6 in an unknown place (they are in the region list), and 2 born in Ukraine without `lat`/`lon` (Mazepyntsi, Pustoviitivka: add coordinates); places of major work (`places[]`) and a small world inset for the diaspora; a way to zoom into dense areas (Kyiv, Lviv); check the outline of Crimea and the borders by eye before the public launch.
 - **I18. Home page that stays short as the catalogue grows.** Option A is in (group tiles, now the Fields tab; see Done). Open: the tag cloud by count, which needs a `?tag=` filter. Every card is still in the home page for the filters (~297 KB HTML at 86 people); past ~200 people, consider filtering from a small JSON index instead.
 
@@ -80,3 +89,4 @@ Personality quiz · printable teacher pages · headless CMS for non-technical ed
 | 2026-10-06 | Birthplace map on the home page (I20, D15 changed): SVG of all 27 oblast units from geoBoundaries/OSM, shaded by head count, a dot per birthplace in the group colour (numbered for shared places), tooltips; click an oblast or the region list to filter by region; follows search, field and era |
 | 2026-10-06 | Home page "explore" tabs: Search (search + dropdowns), Eras, Map, Fields; one panel at a time, shared filters, a sliding highlight, the new panel slides in and the box eases to its height; the map names every region on hover, also those with no one yet. Then: changing tabs clears the filters (one way of narrowing at a time); eras as larger cards in rows (4 + 3; 2 per row on phones), the highlight slides between rows; faint drawings of each field on its tile (a ball and a dumbbell for sport, an open book for literature); the header search button and dialog removed (the Search tab is the search; "/" jumps to it) |
 | 2026-10-06 | Reading progress as a card next to the Daily Hero, above the tabs (seen from every tab): a ring that fills in wheat to cobalt and a percentage that counts up, with a hint (start / N more / "you know them all"); product_vision.md AC1, AC2, AC4 and D12 describe the tabbed home page |
+| 2026-10-06 | Observation card (I21, option b), third in the row above the tabs: from 3 read profiles it names the field read most and suggests someone unread from it, or counts the fields read and opens one not explored; before that, a catalogue fact a day (busiest region, era, field; born abroad; the earliest person). Computed in the browser only. The Daily Hero keeps its place while it loads (no layout shift) |
