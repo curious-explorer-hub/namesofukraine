@@ -21,6 +21,7 @@ image:
   position: "50% 30%"
   author: "Невідомий автор, ілюстрація з книги Миколи Аркаса «Історія України-Русі» (1912)"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-%D0%A0%D1%83%D1%81%D1%96._1912._%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg"
 key_accomplishments:
   - Хрещення Русі (традиційно - 988 рік) і запровадження християнства як державної релігії

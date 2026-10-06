@@ -12,7 +12,7 @@ key_accomplishments:
   - "The voice of advertising songs for Ford, Coca-Cola, McDonald’s and other companies"
   - "The albums Kvitka: Songs of Ukraine (1980) and Two Colors (1989)"
 birthplace_name: "Queens, New York"
-image_alt: "Photograph of Kvitka Cisyk, 1989"
+image_alt: "Kvitka Cisyk at a filming in Denver, 1989"
 reviewed: true
 ---
 

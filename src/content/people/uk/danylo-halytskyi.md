@@ -15,11 +15,12 @@ fun_fact: "Перша відома згадка про Львів - у Гали�
 birthplace: { name: "Галич (давній), ймовірно", region: ivano-frankivsk, country: UA, lat: 49.112, lon: 24.733 }
 image:
   src: ./images/danylo-halytskyi.jpg
-  alt: "Король Данило Галицький, бронзова скульптура Андрія Корвача, 2007 (фрагмент)"
-  position: "50% 25%"
-  author: "Андрій Корвач"
-  license: "CC BY-SA 4.0 (кадровано)"
-  source_url: "https://commons.wikimedia.org/wiki/File:Danylo_Halytskyi_sculpture_Korvach_2007.jpg"
+  alt: "Уявний портрет короля Данила Галицького, ілюстрація з книги Олександра Барвінського «Істория України-Руси», 1904"
+  position: "50% 30%"
+  author: "Невідомий автор, ілюстрація з книги Олександра Барвінського «Істория України-Руси» (1904)"
+  license: "Public domain"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-%D0%A0%D1%83%D1%81%D0%B8._1904._%E2%84%9606._%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE,_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%A0%D1%83%D1%81%D0%B8.png"
 key_accomplishments:
   - "Об'єднав Волинь (до 1229) і Галичину (1238), відновивши Галицько-Волинську державу свого батька"
   - "Перемога в битві під Ярославом (1245) над коаліцією суперників, бояр та їхніх угорських і польських союзників"

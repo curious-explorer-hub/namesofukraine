@@ -22,6 +22,7 @@ image:
   position: "50% 35%"
   author: "Франсуа-Серафен Дельпек"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Delpech_-_Anne_of_Kiev_(cropped).jpg"
 key_accomplishments:
   - Королева Франції з 1051 року, дружина короля Генріха I

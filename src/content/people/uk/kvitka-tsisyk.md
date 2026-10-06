@@ -16,10 +16,11 @@ misconception:
 birthplace: { name: "Квінз, Нью-Йорк", region: abroad, country: US, lat: 40.714, lon: -73.828 }
 image:
   src: ./images/kvitka-tsisyk.jpg
-  alt: "Фотографія Квітки Цісик, 1989"
-  author: "Pavlo1, brentramsey.com"
+  alt: "Квітка Цісик на зйомках у Денвері, 1989"
+  author: "Brent Ramsey (brentramsey.com)"
   license: "CC BY 2.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Kasey_Cisyk_1989.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:%D0%A6%D1%96%D1%81%D0%B8%D0%BA_%D0%9A%D0%B2%D1%96%D1%82%D0%BA%D0%B0.jpg"
 key_accomplishments:
   - Записала пісню «You Light Up My Life» для однойменного фільму (1977)
   - Голос рекламних пісень Ford, Coca-Cola, McDonald's та інших компаній

@@ -11,7 +11,7 @@ key_accomplishments:
   - "Built new fortresses and towns, including Kholm (his new capital) and Kremenets"
   - "Reformed the army, creating an infantry drawn from the peasantry"
 birthplace_name: "Probably old Halych"
-image_alt: "King Danylo of Halych, a bronze sculpture by Andrii Korvach, 2007 (detail)"
+image_alt: "Imagined portrait of King Danylo of Halych, an illustration from Oleksandr Barvinskyi’s History of Ukraine-Rus’, 1904"
 reviewed: true
 ---
 
