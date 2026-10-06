@@ -50,7 +50,7 @@ Not scheduled. IDs (I…) keep the numbers they had in the vision doc's old feat
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked, then was removed pending refinement. `places[]` and `quotes[]` exist in the schema but are empty everywhere. Open: keeping a timeline in sync with the prose; real map vs a list of OpenStreetMap links; whether every profile needs all three.
 
 ### Home page
-- **I19. Era ribbon: more alive, or remove.** It is the most Wikipedia-like part of the new home page (grey pictures, plain bars). *Preferred:* make it animated and colourful, e.g. era pictures in colour that come alive on hover, counts that tick up as it scrolls into view, a share bar in each era's own colour, a smooth slide when an era is picked, maybe a lifespan timeline (idea #4 of the 2026-10-05 design review). *Fallback:* remove it and keep the era dropdown in the filter bar (the tiles already give a way in). Measure height and Lighthouse as for I18.
+- **I19. Era ribbon.** Colour, motion and a sliding highlight are in (see Done). Open: faces in each band (2–3 most-linked people, as on the group tiles), and a strip of people on a time axis under the bands (one dot per person, by group; idea #5 of the 2026-10-05 ribbon review), which could become the timeline view.
 - **I18. Home page that stays short as the catalogue grows.** Option A is in (group tiles, site search; see Done). Open: the tag cloud by count, which needs a `?tag=` filter. Every card is still in the home page for the filters (~297 KB HTML at 86 people); past ~200 people, consider filtering from `search.json` instead.
 
 ### Insights
@@ -74,3 +74,4 @@ Interactive map (D15) · personality quiz · timeline view · printable teacher 
 | 2026-10-05 | Migrated to GitHub and deployed (L2); secret scanning and Dependabot alerts on; stale `*.workers.dev` Worker deleted; real-phone mobile pass (I14) |
 | 2026-10-05 | Group colours and motion (card → profile portrait transition, hover light, headline shimmer, stitch band); portraits in full colour (D16) |
 | 2026-10-05 | Home page tiles for the 9 groups instead of sections (I18 option A): height 8672 → 3171 px at 1280 px, 8216 → 2972 px at 390 px; site-wide search dialog (header, `/`, Ctrl/⌘+K) on `/<lang>/search.json` |
+| 2026-10-05 | Era ribbon (I19): a colour per era, pictures in colour that come alive on hover, counts that tick up and bars that grow on load, other bands step back on hover, a highlight that slides to the selected era; filter results rise in |

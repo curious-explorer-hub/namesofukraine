@@ -310,9 +310,19 @@ a { color: var(--cobalt); }
 .daily-hero-card:hover .daily-hero-role { color: var(--wheat); }
 .daily-hero-card:hover .daily-hero-label, .daily-hero-card:hover .daily-hero-years { color: var(--mist); }
 
-/* Era ribbon: one band per era with its head count, a share bar and a faded picture */
+/* Era ribbon: one band per era in its own colour, with its head count, a share bar and a picture.
+   Colours run through time from Rus' red to Independence blue; all pass WCAG AA (paper on the colour,
+   the colour on paper). */
+[data-era='kyivan-rus'] { --era: #9a322a; }
+[data-era='lithuanian-polish'] { --era: #8a4b0b; }
+[data-era='cossack'] { --era: #855a00; }
+[data-era='imperial'] { --era: #296a3b; }
+[data-era='19th-century'] { --era: #006a6a; }
+[data-era='20th-century'] { --era: #00618f; }
+[data-era='independence'] { --era: #1e4eac; }
 .ribbon { margin-block: 1rem 2.5rem; }
 .ribbon-bands {
+  position: relative;
   list-style: none;
   margin: 0;
   padding: 0 0 0.5rem;
@@ -321,12 +331,13 @@ a { color: var(--cobalt); }
   grid-auto-columns: minmax(9.5rem, 1fr);
   overflow-x: auto;
   scroll-snap-type: x proximity;
-  border-top: 3px solid var(--ink);
 }
 .ribbon-bands > li { scroll-snap-align: start; }
 .ribbon-bands > li + li .era { border-left: 1px solid var(--mist); }
 .era {
+  --era-c: var(--era, var(--cobalt));
   position: relative;
+  z-index: 1; /* above the sliding highlight */
   isolation: isolate;
   overflow: hidden;
   display: flex;
@@ -340,24 +351,68 @@ a { color: var(--cobalt); }
   color: var(--ink);
   background: transparent;
   border: 0;
+  border-top: 4px solid var(--era-c);
   cursor: pointer;
 }
-.era:disabled { cursor: default; color: var(--slate); }
-/* Faded picture of the era behind each band; stronger on hover, tinted when selected */
+.era:disabled { cursor: default; color: var(--slate); --era-c: var(--slate); }
+/* The era's picture in colour, coming alive (stronger, slowly zooming) on hover. A paper wash keeps
+   the name and dates at the bottom readable. */
 .era::before {
   content: '';
   position: absolute;
   inset: 0;
-  z-index: -1;
+  z-index: -2;
   background: var(--era-bg) center / cover no-repeat;
-  filter: grayscale(1) contrast(0.9);
-  opacity: 0.24;
-  transition: opacity 250ms ease;
+  opacity: 0.6;
 }
-.era:not(:disabled):hover::before { opacity: 0.38; }
-.era[aria-pressed='true']::before { opacity: 0.42; mix-blend-mode: screen; }
-.era:not(:disabled):hover { background: rgb(230 236 245 / 0.6); }
-.era[aria-pressed='true'] { background: var(--cobalt); color: var(--paper); }
+.era::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(to top, rgb(246 248 251 / 0.94) 0 32%, rgb(246 248 251 / 0.45) 58%, rgb(246 248 251 / 0.1) 100%);
+}
+/* Selected: the picture shows through the era colour, with solid colour behind the text */
+.era[aria-pressed='true'] { color: var(--paper); background: var(--era-c); }
+.era[aria-pressed='true']::before { opacity: 0.85; }
+.era[aria-pressed='true']::after {
+  background: linear-gradient(
+    to bottom,
+    color-mix(in srgb, var(--era-c) 70%, transparent) 0 30%,
+    color-mix(in srgb, var(--era-c) 20%, transparent) 52%,
+    color-mix(in srgb, var(--era-c) 94%, transparent) 76%
+  );
+}
+/* With the sliding highlight (src/scripts/era-ribbon.ts) the band itself stays clear */
+.has-indicator .era[aria-pressed='true'] { background: transparent; }
+.ribbon-indicator {
+  position: absolute;
+  top: 0;
+  bottom: 0.5rem;
+  left: 0;
+  width: var(--w, 0);
+  transform: translateX(var(--x, 0));
+  z-index: 0;
+  background: var(--era, var(--cobalt));
+  opacity: 0;
+  pointer-events: none;
+}
+.ribbon-indicator[data-era] { opacity: 1; }
+/* Pointer devices: the hovered band's picture comes alive and the other bands step back.
+   (Not on touch screens, where a tapped band would keep its hover state.) */
+@media (hover: hover) {
+  .era { transition: opacity 250ms ease; }
+  .era:not(:disabled):hover::before { opacity: 0.9; transform: scale(1.08); }
+  .ribbon-bands:has(.era:not(:disabled):hover) .era:not(:hover, [aria-pressed='true']) { opacity: 0.55; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .era::before { transition: opacity 400ms ease, transform 1.6s cubic-bezier(0.2, 0.7, 0.3, 1); }
+  .ribbon-indicator {
+    transition: transform 500ms cubic-bezier(0.2, 0.7, 0.3, 1), width 500ms cubic-bezier(0.2, 0.7, 0.3, 1),
+      background-color 500ms ease, opacity 250ms ease;
+  }
+  .ribbon-indicator.is-jumping { transition: opacity 250ms ease; }
+}
 .era-tally {
   position: relative;
   display: flex;
@@ -366,26 +421,41 @@ a { color: var(--cobalt); }
   min-height: 3.25rem;
   margin-bottom: 0.9rem;
   padding-bottom: 0.7rem;
-  color: var(--cobalt);
+  color: var(--era-c);
 }
 .era-count { font-family: var(--font-display); font-weight: 700; font-size: var(--step-3); line-height: 1; font-variant-numeric: tabular-nums; }
 .era-new { font-size: 0.8125rem; font-weight: 500; color: var(--ink); background: var(--wheat); border-radius: 999px; padding: 0.05rem 0.5rem; }
-/* Share of the catalogue: a thin bar under the number, full width for the fullest era */
+/* Share of the catalogue: a bar under the number, full width for the fullest era */
 .era-bar {
   position: absolute;
   left: 0;
   bottom: 0;
-  height: 4px;
+  height: 6px;
   width: calc(var(--share, 0) * 100%);
+  min-width: 6px;
   background: currentColor;
-  border-radius: 2px;
+  border-radius: 3px;
   transform-origin: left;
 }
 .era[aria-pressed='true'] .era-tally { color: var(--paper); }
+/* On load the bars grow and the counts tick up from 0, one era after another */
+@property --n {
+  syntax: '<integer>';
+  inherits: false;
+  initial-value: 0;
+}
 @media (prefers-reduced-motion: no-preference) {
-  .era-bar { animation: grow 700ms cubic-bezier(0.2, 0.7, 0.3, 1) both; animation-delay: calc(var(--i) * 70ms); }
+  .era-bar { animation: grow 900ms cubic-bezier(0.2, 0.7, 0.3, 1) both; animation-delay: calc(var(--i) * 90ms + 150ms); }
   @keyframes grow {
     from { transform: scaleX(0); }
+  }
+  @supports (counter-reset: n var(--n)) {
+    .era-count { --n: var(--count); counter-reset: n var(--n); animation: tick 1.1s cubic-bezier(0.2, 0.7, 0.3, 1) both; animation-delay: calc(var(--i) * 90ms + 150ms); }
+    .era-count > span { display: none; }
+    .era-count::before { content: counter(n); }
+    @keyframes tick {
+      from { --n: 0; }
+    }
   }
 }
 .era-empty { font-size: 0.875rem; color: var(--slate); }
@@ -581,6 +651,13 @@ a { color: var(--cobalt); }
 .catalogue[data-filtering] .shelf { display: contents; }
 /* Home: the results grid appears only while a filter narrows the list; the group tiles stand in otherwise */
 .catalogue-results:not([data-filtering]) .group { display: none; }
+/* Results that appear when the filters change rise in gently */
+@media (prefers-reduced-motion: no-preference) {
+  .catalogue[data-filtering] .person-item { transition: opacity 300ms ease, translate 300ms cubic-bezier(0.2, 0.7, 0.3, 1); }
+  @starting-style {
+    .catalogue[data-filtering] .person-item { opacity: 0; translate: 0 10px; }
+  }
+}
 .catalogue-empty { grid-column: 1 / -1; font-size: var(--step-1); color: var(--slate); max-width: var(--measure); }
 
 /* Portrait: shown as it is, in full colour and without effects, on cards and profiles alike.
