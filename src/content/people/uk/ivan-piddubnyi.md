@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Івана Піддубного з чемпіонською стрічкою, листівка, до 1917"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Ivan_Poddubny.jpg"
 key_accomplishments:
   - Переможець багатьох міжнародних турнірів із класичної (греко-римської) боротьби, деякі з яких у 1904–1909 роках неофіційно афішували як чемпіонати світу

@@ -13,10 +13,11 @@ fun_fact: "П'ятнадцять років поспіль Блохін потр
 birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.45, lon: 30.524 }
 image:
   src: ./images/oleh-blokhin.jpg
-  alt: "Олег Блохін в аеропорту Схіпгол (Амстердам), жовтень 1977 року"
-  author: "Rob C. Croes / Anefo, Nationaal Archief"
-  license: "CC0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Oleg_Blokhin_1977.jpg"
+  alt: "Олег Блохін на стадіоні «Динамо», 2013"
+  position: "50% 20%"
+  author: "Ілля Хохлов (football.ua)"
+  license: "CC BY-SA 3.0"
+  source_url: "https://commons.wikimedia.org/wiki/File:Oleg_Blokhin2013.jpg"
 key_accomplishments:
   - "«Золотий м'яч» 1975 року як найкращий футболіст Європи"
   - "Володар Кубка володарів кубків (1975, 1986) і Суперкубка УЄФА (1975) з «Динамо» (Київ); сім чемпіонств СРСР"

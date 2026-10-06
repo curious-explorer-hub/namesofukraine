@@ -13,7 +13,7 @@ key_accomplishments:
   - "Founded the Kyiv institute of cardiovascular surgery that now bears his name"
   - "Books Thoughts and the Heart and Reflections on Health; the “limits and loads” health system"
 birthplace_name: "Olkhove (Russia)"
-image_alt: "Photograph of Mykola Amosov, 1984"
+image_alt: "Mykola Amosov, a photo from Soviet Life, 1984"
 reviewed: true
 ---
 

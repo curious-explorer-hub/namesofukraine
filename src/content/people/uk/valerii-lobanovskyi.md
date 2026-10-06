@@ -19,6 +19,7 @@ image:
   alt: "Фото Валерія Лобановського"
   author: "Rob Croes, Nationaal Archief, Den Haag, Rijksfotoarchief: Fotocollectie Algemeen Nederlands Fotopersbureau (ANEFO), 1945"
   license: "CC0"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Valeri_Lobanovsky.jpg"
 key_accomplishments:
   - Двічі виграв Кубок володарів кубків УЄФА з «Динамо» (1975, 1986) та Суперкубок УЄФА (1975)

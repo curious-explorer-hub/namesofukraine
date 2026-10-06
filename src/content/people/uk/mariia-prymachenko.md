@@ -13,11 +13,12 @@ fun_fact: "Від 1970-х років Примаченко писала на зв
 birthplace: { name: "Болотня", region: kyiv, country: UA, lat: 50.964, lon: 29.878 }
 image:
   src: ./images/mariia-prymachenko.jpg
-  alt: "Пам'ятна монета НБУ «Марія Примаченко» (2008): портрет художниці на тлі її картини «Український соняшник»"
-  position: "55% 35%"
-  author: "Національний банк України (художник і скульптор Анатолій Дем'яненко)"
-  license: "Public domain"
-  source_url: "https://bank.gov.ua/files/coins_images/401r.png"
+  alt: "Фотопортрет Марії Примаченко"
+  author: "Невідомий автор"
+  license: "Fair use"
+  ai_edit: colorized
+  fair_use: true
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D1%80%D0%B8%D0%B9%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C.jpg"
 key_accomplishments:
   - "Понад 60 років творчості, понад 800 робіт; найбільша колекція - у Національному музеї українського народного декоративного мистецтва"
   - "Учасниця Всесвітньої виставки в Парижі (1937) та понад 120 виставок в Україні й за кордоном"

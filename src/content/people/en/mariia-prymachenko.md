@@ -10,7 +10,7 @@ key_accomplishments:
   - "Shevchenko Republican Prize (1966); People’s Artist of the Ukrainian SSR (1988)"
   - "UNESCO declared 2009 the Year of Mariia Prymachenko"
 birthplace_name: "Bolotnia"
-image_alt: "National Bank of Ukraine commemorative coin “Mariia Prymachenko” (2008): portrait of the artist against her painting “Ukrainian Sunflower”"
+image_alt: "Photographic portrait of Mariia Prymachenko"
 reviewed: true
 ---
 

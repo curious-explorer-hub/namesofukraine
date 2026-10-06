@@ -11,7 +11,7 @@ key_accomplishments:
   - "Olympic bronze in 1972 and 1976 and European Championship silver in 1988 with the USSR"
   - "Head coach of Ukraine (2003–2007): the country's first World Cup (2006) and a quarterfinal"
 birthplace_name: "Kyiv"
-image_alt: "Oleh Blokhin at Schiphol Airport, Amsterdam, October 1977"
+image_alt: "Oleh Blokhin at the Dynamo stadium, 2013"
 reviewed: true
 ---
 

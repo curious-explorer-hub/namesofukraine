@@ -18,6 +18,7 @@ image:
   alt: "Іван Дзюба, 2004 рік"
   author: "Енциклопедія історії України (Інститут історії України НАН України)"
   license: "CC BY-SA 3.0"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Ivan_Dziuba_(2004).jpg"
 key_accomplishments:
   - "Праця «Інтернаціоналізм чи русифікація?» (1965) - самвидавний маніфест українського шістдесятництва"

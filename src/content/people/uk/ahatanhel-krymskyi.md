@@ -19,11 +19,11 @@ places:
   - { name: "Кустанай (нині Костанай)", lat: 53.219, lon: 63.634, note: "місце смерті в тюремній лікарні" }
 image:
   src: ./images/ahatanhel-krymskyi.jpg
-  alt: "Агатангел Кримський у 1890-х роках"
-  position: "50% 30%"
-  author: "Невідомий автор (репродукція з видання: А. Е. Крымский, «Письма из Ливана», 1975)"
+  alt: "Агатангел Кримський, світлина близько 1900 року"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Krymski_Ahatanhe%C5%82,_fot_189x.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Agatangel_Krymskyi.jpg"
 key_accomplishments:
   - "Один з академіків-засновників Української академії наук (1918), її неодмінний секретар і голова Історико-філологічного відділу"
   - "Праці з історії ісламу, арабів, Туреччини й Персії та їхніх літератур; один із засновників сходознавства в Україні"

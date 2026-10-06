@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет Сергія Корольова"
   author: "Невідомий автор"
   license: "CC BY 4.0"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B_(cropped).jpg"
 key_accomplishments:
   - Керував створенням першої міжконтинентальної ракети Р-7

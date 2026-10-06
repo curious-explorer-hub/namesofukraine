@@ -16,9 +16,10 @@ misconception:
 birthplace: { name: "Ольхове", region: abroad, country: RU, lat: 58.9, lon: 38.1 } # approximate: the village, in the Cherepovets district, was flooded by the Rybinsk Reservoir
 image:
   src: ./images/mykola-amosov.jpg
-  alt: "Фотопортрет Миколи Амосова, 1984"
-  author: "Published by the Embassy of the Union of Soviet Socialist Republics to the United States of America - photographer uncre"
+  alt: "Микола Амосов, фото з журналу «Soviet Life», 1984"
+  author: "Невідомий фотограф (журнал «Soviet Life»)"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Nikolai_Amosov_-_Soviet_Life,_October_1984.jpg"
 key_accomplishments:
   - Першим в Україні провів операції на серці зі штучним кровообігом (1958)

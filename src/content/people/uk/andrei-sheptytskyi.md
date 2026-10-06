@@ -19,6 +19,7 @@ image:
   alt: "Фотопортрет митрополита Андрея Шептицького"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:A._Szeptycki_(retouched).jpg"
 key_accomplishments:
   - Митрополит Галицький, глава Української греко-католицької церкви (1901–1944)

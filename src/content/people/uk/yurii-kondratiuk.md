@@ -21,6 +21,7 @@ image:
   alt: "Юрій Кондратюк, фото 1941 року"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%B4%D1%80%D0%B0%D1%82%D1%8E%D0%BA,_%D0%AE%D1%80%D0%B8%D0%B9.jpg"
 key_accomplishments:
   - "Незалежно від Ціолковського вивів основне рівняння руху ракети й описав багатоступеневі ракети (рукопис 1918–1919)"
