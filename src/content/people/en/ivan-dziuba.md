@@ -17,7 +17,7 @@ reviewed: true
 
 ## Who he was
 
-Ivan Dziuba was born in 1931 in the village of Mykolaivka in the Donetsk region. He graduated from the Donetsk Pedagogical Institute (1953) and did postgraduate studies at the Institute of Literature in Kyiv. He published his first criticism in 1950, and in 1959 brought out the book “An Ordinary Person” or a Philistine?, which attacked formulaic, whitewashed Soviet literature. He became one of the spokesmen of the Sixtiers (shistdesiatnyky), the generation that emerged during Khrushchev’s “Thaw”, among them [Lina Kostenko](/en/people/lina-kostenko/) and [Vasyl Symonenko](/en/people/vasyl-symonenko/). His speeches at evenings in memory of Shevchenko, Lesya Ukrainka and Symonenko drew wide attention. He was dismissed from the journal Vitchyzna for “ideological errors”.
+Ivan Dziuba was born in 1931 in the village of Mykolaivka in the Donetsk region. He graduated from the Donetsk Pedagogical Institute (1953) and did postgraduate studies at the Institute of Literature in Kyiv. He published his first criticism in 1950, and in 1959 brought out the book “An Ordinary Person” or a Philistine?, which attacked formulaic, whitewashed Soviet literature. He became one of the spokesmen of the Sixtiers (shistdesiatnyky), the generation that emerged during Khrushchev’s “Thaw”, among them [Lina Kostenko](/en/people/lina-kostenko/) and [Vasyl Symonenko](/en/people/vasyl-symonenko/). His speeches at evenings in memory of [Shevchenko](/en/people/taras-shevchenko/), [Lesya Ukrainka](/en/people/lesya-ukrainka/) and Symonenko drew wide attention. He was dismissed from the journal Vitchyzna for “ideological errors”.
 
 ## His story
 

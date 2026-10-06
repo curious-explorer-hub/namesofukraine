@@ -39,7 +39,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Винниченко_Володимир_Кирилович
   - title: Wikipedia (EN) - Volodymyr Vynnychenko
     url: https://en.wikipedia.org/wiki/Volodymyr_Vynnychenko
-related: [mykhailo-hrushevskyi, symon-petliura, pavlo-skoropadskyi]
+related: [mykhailo-hrushevskyi, symon-petliura, pavlo-skoropadskyi, ivan-franko, lesya-ukrainka]
 reviewed: true
 ---
 
