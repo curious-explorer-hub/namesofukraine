@@ -10,7 +10,7 @@ key_accomplishments:
   - "Obtained a tsarist decree in 1752 banning the spread of servitude (kholopstvo) to Ukrainians"
   - "Made Baturyn the capital again; planned to found a university in Baturyn"
 birthplace_name: "Lemeshi"
-image_alt: "Portrait of Kyrylo Rozumovskyi by an unknown artist, mid-19th century (Sumy Art Museum)"
+image_alt: "Kyrylo Rozumovskyi with the hetman’s mace, portrait by Louis Tocqué, 1758 (Tretyakov Gallery)"
 reviewed: true
 ---
 

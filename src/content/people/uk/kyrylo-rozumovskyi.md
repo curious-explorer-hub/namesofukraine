@@ -16,11 +16,11 @@ places:
   - { name: "Батурин", lat: 51.339, lon: 32.877, note: "гетьманська резиденція, палац, місце смерті й поховання" }
 image:
   src: ./images/kyrylo-rozumovskyi.jpg
-  alt: "Портрет Кирила Розумовського, невідомий художник, середина XIX століття (Сумський художній музей)"
-  position: "50% 30%"
-  author: "Невідомий художник"
+  alt: "Кирило Розумовський з гетьманською булавою, портрет пензля Луї Токе, 1758 (Третяковська галерея)"
+  position: "45% 18%"
+  author: "Луї Токе"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Kyrylo_Rozumovsky_(Portrait,_Sumy_Art_Museum).jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Kirill_Razumovsky_Tokke.jpg"
 key_accomplishments:
   - "Гетьман України (Гетьманщини) у 1750–1764 роках"
   - "Судова реформа: поділ Гетьманщини на 20 повітів, запровадження земських, гродських і підкоморських судів"
