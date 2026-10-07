@@ -141,10 +141,31 @@ test('changing tabs clears a collection, and the field tiles work again', async 
   await expect(page).not.toHaveURL(/collection=/);
   await expect(page.locator('input[name="collection"]')).toHaveValue('');
   await expect(page.locator('.catalogue')).not.toHaveAttribute('data-filtering');
-  const tile = page.locator('#panel-groups .tile').first();
-  await expect(tile).toBeVisible();
-  await tile.click();
-  await expect(page).toHaveURL(/\/uk\/groups\/[a-z-]+\/$/);
+  await expect(page.locator('#panel-groups .tile').first()).toBeVisible();
+});
+
+test('a field tile filters on the home page, keeping the tabs and the other fields', async ({ page }) => {
+  await page.goto('/uk/');
+  await page.getByRole('tab', { name: 'Галузі' }).click();
+  const statehood = page.locator('[data-group="statehood"] .tile');
+  await statehood.click();
+  await expect(page).toHaveURL(/\/uk\/\?group=statehood$/);
+  await expect(statehood).toHaveAttribute('aria-current', 'true');
+  await expect(page.locator(visibleCards).filter({ hasText: 'Пилип Орлик' })).toHaveCount(1);
+  await expect(page.locator(visibleCards).filter({ hasText: 'Леся Українка' })).toHaveCount(0);
+  await expect(page.getByRole('tab', { name: 'Епохи' })).toBeVisible();
+  await expect(page.locator('#panel-groups .tile')).not.toHaveCount(1); // every field still offered
+
+  const literature = page.locator('[data-group="literature"] .tile');
+  await literature.click(); // switch field without leaving
+  await expect(page).toHaveURL(/group=literature/);
+  await expect(literature).toHaveAttribute('aria-current', 'true');
+  await expect(statehood).not.toHaveAttribute('aria-current');
+  await expect(page.locator(visibleCards).filter({ hasText: 'Леся Українка' })).toHaveCount(1);
+
+  await literature.click(); // a second click clears it
+  await expect(page).not.toHaveURL(/group=/);
+  await expect(page.locator('.catalogue')).not.toHaveAttribute('data-filtering');
 });
 
 test('an unknown address shows the friendly not-found page in the right language', async ({ page }) => {

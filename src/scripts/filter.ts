@@ -29,7 +29,8 @@ export function initFilters() {
   if (!form || !catalogue) return;
 
   const recent = document.querySelector<HTMLElement>('.recent');
-  // Home page: group tiles stand in for the sections until a filter narrows the list.
+  // Home page: group tiles stand in for the sections; they stay in view while their filter is on, so
+  // the visitor can switch to another field.
   const tiles = document.querySelector<HTMLElement>('.tiles');
   const tileItems = [...(tiles?.querySelectorAll<HTMLElement>('.tile-item') ?? [])];
   const empty = catalogue.querySelector<HTMLElement>('.catalogue-empty')!;
@@ -41,7 +42,12 @@ export function initFilters() {
   const recentItems = [...(recent?.querySelectorAll<HTMLElement>('.person-item') ?? [])];
   const emptyText = { none: empty.textContent, allRead: empty.dataset.allRead ?? empty.textContent };
   const eraButtons = [...document.querySelectorAll<HTMLButtonElement>('.era[data-era]')];
-  const collectionTiles = [...document.querySelectorAll<HTMLElement>('.tile-item[data-collection]')];
+  // Field and collection tiles filter in place, like the era bands; each one's link stays for no-JS.
+  const filterTiles = [...document.querySelectorAll<HTMLElement>('.tile-item')].map((item) => ({
+    link: item.querySelector<HTMLAnchorElement>('.tile')!,
+    key: (item.dataset.collection ? 'collection' : 'group') as Key,
+    value: (item.dataset.collection ?? item.dataset.group)!,
+  }));
   const field = (k: Key) => form.elements.namedItem(k) as HTMLInputElement | HTMLSelectElement;
   const isCheckbox = (el: HTMLInputElement | HTMLSelectElement): el is HTMLInputElement =>
     el instanceof HTMLInputElement && el.type === 'checkbox';
@@ -83,7 +89,7 @@ export function initFilters() {
         if (tile) updateTile(tile, remaining, !!state.unread);
       }
     }
-    if (tiles) tiles.hidden = narrowing || tileItems.every((t) => t.hidden);
+    if (tiles) tiles.hidden = tileItems.every((t) => t.hidden);
     for (const item of recentItems) item.hidden = !!state.unread && read.has(item.dataset.slug ?? '');
     catalogue.toggleAttribute('data-filtering', narrowing);
     form.toggleAttribute('data-active', active);
@@ -92,10 +98,9 @@ export function initFilters() {
     empty.textContent = !narrowing && state.unread ? emptyText.allRead : emptyText.none;
     status.textContent = active ? status.dataset.found!.replace('{n}', String(found)) : '';
     for (const b of eraButtons) b.setAttribute('aria-pressed', String(b.dataset.era === state.era));
-    for (const c of collectionTiles) {
-      const link = c.querySelector('.tile')!;
-      if (c.dataset.collection === state.collection) link.setAttribute('aria-current', 'true');
-      else link.removeAttribute('aria-current');
+    for (const t of filterTiles) {
+      if (state[t.key] === t.value) t.link.setAttribute('aria-current', 'true');
+      else t.link.removeAttribute('aria-current');
     }
     if (progress) {
       const done = slugs.filter((s) => read.has(s)).length;
@@ -151,6 +156,16 @@ export function initFilters() {
     b.addEventListener('click', () => {
       const era = field('era');
       era.value = era.value === b.dataset.era ? '' : b.dataset.era!;
+      apply();
+    });
+  }
+
+  for (const t of filterTiles) {
+    t.link.addEventListener('click', (e) => {
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return; // opening the link in a new tab
+      e.preventDefault();
+      const el = field(t.key);
+      el.value = el.value === t.value ? '' : t.value;
       apply();
     });
   }

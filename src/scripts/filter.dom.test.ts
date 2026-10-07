@@ -92,7 +92,40 @@ describe('initFilters', () => {
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(true);
     expect($('form.filters').hasAttribute('data-active')).toBe(true);
     expect($('.recent').hidden).toBe(true);
-    expect($('.tiles').hidden).toBe(true);
+    expect($('.tiles').hidden).toBe(false); // in their own tab, so they stay for switching fields
+  });
+
+  it('a field tile filters in place, marks itself, and a second click clears it', () => {
+    const link = $<HTMLAnchorElement>('.tile-item[data-group="science"] .tile');
+    const click = new MouseEvent('click', { bubbles: true, cancelable: true });
+    link.dispatchEvent(click);
+    expect(click.defaultPrevented).toBe(true); // stays on the page instead of opening the field page
+    expect(visibleNames()).toEqual(['Ігор Сікорський']);
+    expect(link.getAttribute('aria-current')).toBe('true');
+    expect($('.tiles').hidden).toBe(false);
+    expect(new URLSearchParams(location.search).get('group')).toBe('science');
+
+    $<HTMLAnchorElement>('.tile-item[data-group="literature"] .tile').click(); // switch to another field
+    expect(visibleNames()).toHaveLength(3);
+    expect(link.hasAttribute('aria-current')).toBe(false);
+
+    $<HTMLAnchorElement>('.tile-item[data-group="literature"] .tile').click();
+    expect($('.catalogue').hasAttribute('data-filtering')).toBe(false);
+    expect(location.search).toBe('');
+  });
+
+  it('a collection tile filters in place too', () => {
+    $<HTMLAnchorElement>('[data-collection="women-army"] .tile').click();
+    expect(visibleNames()).toEqual(['Леся Українка']);
+    expect($('[data-collection="women-army"] .tile').getAttribute('aria-current')).toBe('true');
+    expect(new URLSearchParams(location.search).get('collection')).toBe('women-army');
+  });
+
+  it('a tile clicked with a modifier key opens its link as usual', () => {
+    const click = new MouseEvent('click', { bubbles: true, cancelable: true, metaKey: true });
+    $('.tile-item[data-group="science"] .tile').dispatchEvent(click);
+    expect(click.defaultPrevented).toBe(false);
+    expect(location.search).toBe('');
   });
 
   it('writes the active filters to the URL', () => {
