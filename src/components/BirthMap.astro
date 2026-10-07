@@ -70,6 +70,7 @@ const cards = CONTINENTS.map(({ id }) => {
   <p class="map-hint">{t('map.hint', lang)}</p>
   <div class="map-body">
     <div class="map-canvas">
+      <button type="button" class="map-back" hidden>{t('map.back', lang)}</button>
       {/* An image without JavaScript; the script turns the regions into buttons that filter by region. */}
       <svg class="map-svg" viewBox={`0 0 ${WIDTH} ${HEIGHT}`} role="img" aria-label={t('map.label', lang)}>
         <g class="map-regions">
@@ -81,6 +82,7 @@ const cards = CONTINENTS.map(({ id }) => {
               data-region={r.id}
               data-name={regionLabel(r.id, lang)}
               data-level={level(totals.get(r.id) ?? 0)}
+              data-bbox={r.bbox.map((v) => v.toFixed(1)).join(' ')}
             />
           ))}
         </g>

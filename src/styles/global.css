@@ -707,6 +707,24 @@ a { color: var(--cobalt); }
 /* One column, centred: on wide screens the map sits in the middle, not against the left edge */
 .map-canvas { position: relative; max-width: 60rem; margin-inline: auto; }
 .map-svg { display: block; width: 100%; height: auto; overflow: visible; }
+/* Zoomed into one region (src/scripts/birth-map.ts tweens the viewBox): clip the rest of the map
+   instead of letting it show through the now-smaller view. */
+.map.is-zoomed .map-svg:not(.map-svg-world) { overflow: hidden; }
+.map-back {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 1;
+  padding: 0.3rem 0.75rem;
+  font: inherit;
+  font-size: 0.875rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--mist);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.map-back:hover { background: var(--mist); }
 .map-region {
   fill: var(--mist);
   stroke: var(--paper);

@@ -35,12 +35,32 @@ const ringPath = (ring: Ring) =>
 export interface MapRegion {
   id: string;
   d: string;
+  bbox: [number, number, number, number];
 }
+
+// Padded so a region fills the view when zoomed in (src/scripts/birth-map.ts) without clipping dots
+// right at its border; floored so a small enclave (Kyiv city, Sevastopol) still zooms into a sensible
+// amount of space instead of blowing up a single dot to fill the screen.
+const PAD = 0.15;
+const MIN_W = WIDTH * 0.15;
+const MIN_H = HEIGHT * 0.15;
+const boxOf = (points: [number, number][]): [number, number, number, number] => {
+  const xs = points.map(([x]) => x);
+  const ys = points.map(([, y]) => y);
+  const [minX, maxX] = [Math.min(...xs), Math.max(...xs)];
+  const [minY, maxY] = [Math.min(...ys), Math.max(...ys)];
+  const [padX, padY] = [(maxX - minX) * PAD, (maxY - minY) * PAD];
+  let [x, y, w, h] = [minX - padX, minY - padY, maxX - minX + 2 * padX, maxY - minY + 2 * padY];
+  if (w < MIN_W) [x, w] = [x - (MIN_W - w) / 2, MIN_W];
+  if (h < MIN_H) [y, h] = [y - (MIN_H - h) / 2, MIN_H];
+  return [x, y, w, h];
+};
 
 export const regions: MapRegion[] = (geo as { features: { properties: { shapeISO: string }; geometry: { type: string; coordinates: unknown } }[] }).features.map((f) => {
   const id = ISO[f.properties.shapeISO];
   if (!id) throw new Error(`Map: unknown unit ${f.properties.shapeISO}`);
   const polygons = (f.geometry.type === 'MultiPolygon' ? f.geometry.coordinates : [f.geometry.coordinates]) as Ring[][];
+  const points = polygons.flatMap((poly) => poly.flatMap((ring) => ring.map(([lon, lat]) => project(lon, lat))));
   // Holes (Kyiv city inside Kyiv Oblast) are drawn with the even-odd rule.
-  return { id, d: polygons.flatMap((poly) => poly.map(ringPath)).join('') };
+  return { id, d: polygons.flatMap((poly) => poly.map(ringPath)).join(''), bbox: boxOf(points) };
 });

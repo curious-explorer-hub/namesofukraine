@@ -17,10 +17,42 @@ export function initBirthMap() {
   const worlds = [...root.querySelectorAll<SVGSVGElement>('.map-svg-world')];
   const cards = [...root.querySelectorAll<HTMLElement>('.map-world-card')];
   const canvas = root.querySelector<HTMLElement>('.map-canvas')!;
+  const back = root.querySelector<HTMLButtonElement>('.map-back')!;
   const tip = root.querySelector<HTMLElement>('.map-tip')!;
   const regions = [...root.querySelectorAll<SVGPathElement>('.map-region')];
   const dots = [...root.querySelectorAll<SVGGElement>('.map-dot')];
   const picks = [...root.querySelectorAll<HTMLButtonElement>('.map-pick')];
+
+  // Zooming into a region (src/lib/map.ts gives each one a padded bbox): tween the svg's viewBox from
+  // whatever it currently shows to the region's box, fitted to the map's own aspect ratio so it isn't
+  // stretched; instant if the reader asked for less motion.
+  const [, , FULL_W, FULL_H] = svg.getAttribute('viewBox')!.split(' ').map(Number);
+  const ASPECT = FULL_W / FULL_H;
+  const bboxes = new Map(regions.map((r) => [r.dataset.region!, r.dataset.bbox!.split(' ').map(Number)]));
+  const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const fit = ([x, y, w, h]: number[]): number[] =>
+    w / h > ASPECT ? [x, y - (w / ASPECT - h) / 2, w, w / ASPECT] : [x - (h * ASPECT - w) / 2, y, h * ASPECT, h];
+  let zoomedTo: string | null = null;
+  let raf = 0;
+  const zoom = (id: string | null, instant: boolean) => {
+    if (id === zoomedTo) return;
+    zoomedTo = id;
+    root.classList.toggle('is-zoomed', !!id);
+    back.hidden = !id;
+    const target = id ? fit(bboxes.get(id)!) : [0, 0, FULL_W, FULL_H];
+    cancelAnimationFrame(raf);
+    if (instant || reduceMotion.matches) return void svg.setAttribute('viewBox', target.join(' '));
+    const from = svg.getAttribute('viewBox')!.split(' ').map(Number);
+    const start = performance.now();
+    const DURATION = 400;
+    const step = (now: number) => {
+      const p = Math.min(1, (now - start) / DURATION);
+      const e = 1 - (1 - p) ** 3; // ease-out cubic
+      svg.setAttribute('viewBox', from.map((v, i) => v + (target[i] - v) * e).join(' '));
+      if (p < 1) raf = requestAnimationFrame(step);
+    };
+    raf = requestAnimationFrame(step);
+  };
   const most = Number(root.dataset.most) || 1;
   const label = (name: string, n: number) =>
     n ? root.dataset.label!.replace('{region}', name).replace('{n}', String(n)) : root.dataset.empty!.replace('{region}', name);
@@ -44,7 +76,8 @@ export function initBirthMap() {
     select.dispatchEvent(new Event('input', { bubbles: true }));
   };
 
-  const update = () => {
+  const update = (instant = false) => {
+    zoom(select.value && bboxes.has(select.value) ? select.value : null, instant);
     const data = new FormData(form);
     const value = (k: string) => String(data.get(k) ?? '').trim();
     const state = { q: value('q'), group: value('group'), era: value('era'), region: '', unread: value('unread') };
@@ -111,9 +144,10 @@ export function initBirthMap() {
     pick(region.dataset.region!);
   });
   for (const b of picks) b.addEventListener('click', () => pick(b.dataset.region!));
+  back.addEventListener('click', () => pick(select.value));
 
-  document.addEventListener('filters:applied', update);
-  update();
+  document.addEventListener('filters:applied', () => update());
+  update(true);
 
   // Dots appear in a sweep from west to east when the map first comes into view.
   root.classList.add('is-waiting');
