@@ -21,7 +21,7 @@ At the end of March 2024 the aerial scout Pavlo Petrychenko started a petition o
 
 ## An activist from Kyiv
 
-Pavlo was born in Kyiv in 1992 and graduated from the Kyiv Economic University. He was an active participant in the Euromaidan, one of the founders of the “Who Ordered Katia Handziuk?” movement, and organized rallies in support of the activist Serhii Sternenko. He worked as a project manager, and in March 2022 he helped build up Serhiy Prytula’s volunteer center.
+Pavlo was born in Kyiv in 1992 and graduated from the Kyiv Economic University. He was an active participant in the Euromaidan, one of the founders of the “Who Ordered Katia Handziuk?” movement, and organized rallies in support of the activist [Serhii Sternenko](/en/people/serhii-sternenko/). He worked as a project manager, and in March 2022 he helped build up Serhiy Prytula’s volunteer center.
 
 ## Eyes in the sky
 

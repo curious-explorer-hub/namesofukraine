@@ -26,7 +26,7 @@ Shukhevych was born in 1907 in Lviv (some sources say in the small town of Krako
 
 ## A war between two empires
 
-In 1941 he served in the Nachtigall Battalion, formed by the Abwehr, German military intelligence, from Ukrainian nationalists. After it was disbanded, until the end of 1942 he was deputy commander of Schutzmannschaft Battalion 201, an auxiliary police unit under German command, in Belarus. In 1943 Shukhevych took over the UPA. It fought the Nazi occupiers, Soviet partisans and the Polish underground, and after 1944 mainly Soviet rule. In 1944 he was also elected head of the General Secretariat of the Ukrainian Supreme Liberation Council.
+In 1941 he served in the Nachtigall Battalion, formed by the Abwehr, German military intelligence, from Ukrainian nationalists. After it was disbanded, until the end of 1942 he was deputy commander of Schutzmannschaft Battalion 201, an auxiliary police unit under German command, in Belarus. In 1943 Shukhevych took over the UPA. It fought the Nazi occupiers, Soviet partisans and the Polish underground, and after 1944 mainly Soviet rule. In 1944 he was also elected head of the General Secretariat of the Ukrainian Supreme Liberation Council. From 1945 his personal courier was [Kateryna Zarytska](/en/people/kateryna-zarytska/).
 
 On 5 March 1950 officers of the MGB surrounded his hideout in the village of Bilohorshcha near Lviv. Shukhevych was killed in the fighting.
 

@@ -22,7 +22,7 @@ Nazarii Hryntsevych was called the youngest defender of Azovstal. He took the la
 
 Nazarii was born in 2003 in Vinnytsia. Before he turned 18, as a first-year university student, he completed Azov’s basic combat course and stayed with the unit.
 
-From the first day of the full-scale invasion Nazarii, call sign “Hrienka” (also spelled “Hrinka”), defended Mariupol as a combat medic with Azov. For three months he held out at the Azovstal steelworks. In May 2022, on the orders of their command, the defenders left the plant and were taken prisoner. More than four months later, in September 2022, Nazarii came home in an exchange that freed 215 Ukrainian soldiers.
+From the first day of the full-scale invasion Nazarii, call sign “Hrienka” (also spelled “Hrinka”), defended Mariupol as a combat medic with Azov. For three months he held out at the Azovstal steelworks. Nazarii later said that everyone who survived Azovstal got out thanks to their commander, [Denys Prokopenko](/en/people/denys-prokopenko/). In May 2022, on the orders of their command, the defenders left the plant and were taken prisoner. More than four months later, in September 2022, Nazarii came home in an exchange that freed 215 Ukrainian soldiers.
 
 ## Back to the front
 

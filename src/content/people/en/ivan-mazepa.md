@@ -19,7 +19,7 @@ reviewed: true
 
 ## A hetman with a European education
 
-Ivan Mazepa came from the Ukrainian nobility and was born on a homestead that later became the village of Mazepyntsi near Bila Tserkva. His exact birth date is unknown; 20 March 1639 is the traditional one. He studied at the Kyiv-Mohyla College and in Europe, served at the court of the Polish king and spoke several languages. In 1687 the Cossack officers (the starshyna) elected him hetman.
+Ivan Mazepa came from the Ukrainian nobility and was born on a homestead that later became the village of Mazepyntsi near Bila Tserkva. His exact birth date is unknown; 20 March 1639 is the traditional one. He studied at the Kyiv-Mohyla College and in Europe, served at the court of the Polish king and spoke several languages. In 1669 he entered the service of Hetman [Petro Doroshenko](/en/people/petro-doroshenko/), first commanding a squadron of his guard and later as his chancellor. In 1687 the Cossack officers (the starshyna) elected him hetman.
 
 ## Churches that named a style
 

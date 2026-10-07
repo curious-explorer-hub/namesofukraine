@@ -24,7 +24,7 @@ Little is known about his early life. Bohun probably came from the Ukrainian pet
 
 ## Neither Poland nor Moscow
 
-Bohun warned against an alliance with the Muscovite tsar and, after the Pereiaslav Council of 1654, refused to swear allegiance to him. Nor would he accept Hetman Ivan Vyhovskyi’s pro-Polish policy: in 1659 he and Ivan Sirko led an uprising against Vyhovskyi in Right-Bank Ukraine.
+Bohun warned against an alliance with the Muscovite tsar and, after the Pereiaslav Council of 1654, refused to swear allegiance to him. Nor would he accept Hetman [Ivan Vyhovskyi](/en/people/ivan-vyhovskyi/)’s pro-Polish policy: in 1659 he and Ivan Sirko led an uprising against Vyhovskyi in Right-Bank Ukraine.
 
 In 1662 the Poles imprisoned Bohun in the fortress of Marienburg (today Malbork in Poland). In February 1664 he was suspected of secret contacts with the Left-Bank Cossacks and the Muscovites and was executed near Novhorod-Siverskyi.
 

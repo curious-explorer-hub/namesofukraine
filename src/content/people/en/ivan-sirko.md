@@ -27,7 +27,7 @@ Nobody knows for sure. Encyclopedias give different birth years, from 1605–161
 
 ## Allies that kept changing
 
-Sirko switched political alliances often. He opposed the pro-Polish policies of Hetmans Ivan Vyhovskyi and Pavlo Teteria, fought in the 1668 uprising in Left-Bank Ukraine against Muscovite rule, and backed Petro Doroshenko for a while, but broke with him when Doroshenko moved closer to the Ottoman Empire. In 1672 Sirko was arrested and exiled to Tobolsk, yet the next year he was back at the head of the Sich, this time for the rest of his life. In 1677–1678, together with Hetman Ivan Samoilovych’s forces and the Muscovite army, he halted the Turkish and Tatar advance.
+Sirko switched political alliances often. He opposed the pro-Polish policies of Hetmans [Ivan Vyhovskyi](/en/people/ivan-vyhovskyi/) and Pavlo Teteria, fought in the 1668 uprising in Left-Bank Ukraine against Muscovite rule, and backed [Petro Doroshenko](/en/people/petro-doroshenko/) for a while, but broke with him when Doroshenko moved closer to the Ottoman Empire. In 1672 Sirko was arrested and exiled to Tobolsk, yet the next year he was back at the head of the Sich, this time for the rest of his life. In 1677–1678, together with Hetman Ivan Samoilovych’s forces and the Muscovite army, he halted the Turkish and Tatar advance.
 
 Sirko died in August 1680 at his apiary in Hrushivka. He was buried near the Chortomlyk Sich (today the village of Kapulivka in the Dnipropetrovsk region).
 

@@ -5,7 +5,7 @@ Open and in-progress work only. What the site must do, the rules, and what's alr
 ## Status (2026-10-06)
 
 - **Live:** <https://namesofukraine.pages.dev> (soft launch since 2026-10-05), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
-- **Content:** 111 profiles in Ukrainian and English (batch 5 published 2026-10-06; Iryna Farion and Petro Yatsyk added 2026-10-06). 4 without a portrait (initials; L15): Ruf, Kryvtsov, Kyrychenko, Yalovtsov.
+- **Content:** 129 profiles in Ukrainian and English (batch 7, 18 defenders and military figures, published 2026-10-06). 4 without a portrait (initials; L15): Ruf, Kryvtsov, Kyrychenko, Yalovtsov.
 - **Next milestone:** public launch = real domain (L3) + social pages and promotion (L11, L13).
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
 
@@ -22,8 +22,6 @@ In order. Pick from the top.
 ### Content session (owner, 2026-10-06)
 
 - **C4. Grow the candidate list.** Beyond the NV, ВУ and Rubryka lists: encyclopedias (ESU, Encyclopedia of Ukrainian History), state awards (Shevchenko Prize, Hero of Ukraine), diaspora, science and sport halls of fame, regional figures for empty oblasts (Kherson, Odesa, Zakarpattia, Luhansk and others), women and living people. Each with years, field, era, source and links (C2c).
-- **C5. At most 4 sources per profile** (product_vision.md §7.3). 62 of 111 profiles list more. Trim in batches, like Iryna Farion (2026-10-06): keep the 4 best sources, one per website, including an encyclopedic one, and shorten or drop any fact that would lose its only source; both languages; re-check the remaining facts. When all are done, add a schema check (`sources` max 4, unique sites) so `npm run check` catches new ones.
-- **C6. Story voice for all profiles** ([STYLE.md](STYLE.md)) *(pilot done 2026-10-06: Shevchenko, Kotsiubailo; adopted)*. Rewrite the rest hook-first, together with C5 (same facts, at most 4 sources).
 
 ## Launch checklist
 
@@ -49,7 +47,7 @@ Not scheduled.
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked and was removed pending refinement; `places[]` and `quotes[]` exist in the schema but are empty. Open: keeping a timeline in sync with the prose; a real map vs a list of OpenStreetMap links; whether every profile needs all three.
 - **I16. "Most read".** (a) Private, now: Cloudflare Web Analytics → Top paths, adding the `/uk/` and `/en/` rows per person. (b) A public "Most read this month" row: a nightly GitHub Action reads the Web Analytics GraphQL API, writes `src/content/popular.json` and rebuilds (no server code; one read-only token). Only at a few hundred profile views a week.
 - **I17 C. Automatic links** to the first mention of each profiled person in the story text, at build time (remark plugin, `aliases.json`, never inside quotes). And a test that fails on one-way `related:` links unless marked intentional.
-- **I18. Home page that stays short.** A tag cloud by count (needs a `?tag=` filter). Every card is in the home page for the filters (~465 KB HTML at 111 people); past ~200 people, filter from a small JSON index instead.
+- **I18. Home page that stays short.** A tag cloud by count (needs a `?tag=` filter). Every card is in the home page for the filters (~465 KB HTML at 129 people); past ~200 people, filter from a small JSON index instead.
 - **I22. Map: zoom into the selected region.** When a region is picked (on the map or in the list), enlarge it to fill the map, with its dots spread out and readable, and a way back to all of Ukraine; animate the zoom (respecting reduced motion). Needed once regions hold many people (Kyiv and Lviv already crowd). Builds on the static SVG (a viewBox transition per region, no map tiles).
 - **I20. Map, next steps.** 5 people have no dot (birthplace unknown; they're in the region list). Researched 2026-10-06: for Olha, Volodymyr, Yaroslav, Vyshnevetskyi and Bohun the Encyclopedia of the History of Ukraine names no birthplace, and the places found online trace back to uncited Wikipedia/Wikidata entries; Olha's chronicle «Плесков» (read as Pskov) is already in her profile text. Places of major work (`places[]`); zoom into dense areas (Kyiv, Lviv); check Crimea's outline and the borders by eye before the public launch.
 - **I11. Periodic security review** (e.g. an OWASP ZAP baseline against the live site); headers, CSP, `dist/` check, `npm audit` and Dependabot are in place ([SECURITY.md](SECURITY.md)). If content ever comes from outside, sanitize Markdown/HTML and keep human review.

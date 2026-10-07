@@ -27,8 +27,8 @@ In 2021 Pilshchykov quit: he disliked the Soviet ways that lingered in the army,
 
 ## Eight senators and the F-16
 
-How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and another pilot, “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also gave his own savings to buy helmets for his fellow pilots.
+How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and his classmate and close friend [Oleksii Mes](/en/people/oleksii-mes/), “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also gave his own savings to buy helmets for his fellow pilots.
 
 ## How he is remembered
 
-On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided in the air during a combat mission. He was 30. The pilots Viacheslav Minka and Serhii Prokazin were killed with him. Andrii was posthumously promoted to major, and in 2024 he was made a Hero of Ukraine. He is remembered as a pilot who defended his country both in the sky and with his voice.
+On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30. The pilots Viacheslav Minka and Serhii Prokazin were killed with him. Andrii was posthumously promoted to major, and in 2024 he was made a Hero of Ukraine. He is remembered as a pilot who defended his country both in the sky and with his voice.

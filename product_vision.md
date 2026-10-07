@@ -37,7 +37,7 @@
 - **Hero:** the headline over a photo, a one-line lead.
 - **A row of three cards** (stacked on phones), visible from every tab:
   - **Daily Hero** «Народився цього дня» / "Born on this day". **AC15** The person born (or who died) on the visitor's local date; otherwise a deterministic "person of the day". Approximate dates never count; dates before 1918 are new style.
-  - **Reading progress:** "read N of 111" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
+  - **Reading progress:** "read N of 129" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
   - **Observation:** from 3 read profiles, the field read most and someone unread from it (or a field not yet explored); before that, a catalogue fact a day.
   - **AC16** Progress, observation and "read" marks are computed in the browser from `localStorage`; nothing is sent anywhere.
 - **AC1 Explore tabs, one way of browsing at a time,** over one results grid: **Пошук / Search** (text field + dropdowns for field, era, region and "unread only"), **Епохи / Eras** (a card per era, with its colour, picture and faces), **Карта / Map** (§3.2), **Галузі / Fields** (a tile per field, opening its page). Changing tabs clears the filters. Below the tabs: the "newly added" row, then the results.
@@ -127,7 +127,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-09-29 | D3-R | **Bilingual launch:** a profile is public only when reviewed in uk and en; authoring starts in Ukrainian. |
 | 2026-09-29 | D4 | **One file per person** per language. |
 | 2026-09-29 | D5 | **AI drafts from cited sources + mandatory human review** (`reviewed: true`). |
-| 2026-09-29 | D6 | Images: **public domain or freely licensed (Wikimedia Commons), self-hosted, with attribution**, or written permission. Exception: 7 fair-use portraits (Mykolaichuk, Sukhomlynskyi, Tsybukh, Petrychenko, owner decision 2026-10-05, against the recommendation; 2026-10-06: Ostap Vyshnia, an AI-made image whose source photograph is not identified, and Prymachenko, AI-colorized from the uk.wikipedia fair-use photo; Petro Yatsyk, the uk.wikipedia fair-use photo), marked `fair_use: true`: on the site only, never in share cards or structured data, removed the same day on a rights holder's request. AI-colorized or restored versions of a free photo are allowed (`ai_edit:`); the credit keeps the original author, license and source and says so; a result that changes the person's look is not used (owner exceptions, 2026-10-06, against the recommendation: Mechnykov; Dovzhenko, Petliura and Solovianenko, whose AI versions change the face, clothes or insignia and are labelled `rendered`, not a real photograph; Amosov, Kondratiuk, Korolov and Prymachenko, whose faces also changed, labelled colorized at the owner's request). A painting may be rendered as a photo-like image (`ai_edit: rendered`, owner decision 2026-10-06, first: Repin's 1887 self-portrait); its credit says it is not a real photograph. |
+| 2026-09-29 | D6 | Images: **public domain or freely licensed (Wikimedia Commons), self-hosted, with attribution**, or written permission. Exception: 8 fair-use portraits (Mykolaichuk, Sukhomlynskyi, Tsybukh, Petrychenko, owner decision 2026-10-05, against the recommendation; 2026-10-06: Ostap Vyshnia, an AI-made image whose source photograph is not identified, and Prymachenko, AI-colorized from the uk.wikipedia fair-use photo; Petro Yatsyk, the uk.wikipedia fair-use photo; Olha Semydianova, the uk.wikipedia fair-use photo), marked `fair_use: true`: on the site only, never in share cards or structured data, removed the same day on a rights holder's request. AI-colorized or restored versions of a free photo are allowed (`ai_edit:`); the credit keeps the original author, license and source and says so; a result that changes the person's look is not used (owner exceptions, 2026-10-06, against the recommendation: Mechnykov; Dovzhenko, Petliura and Solovianenko, whose AI versions change the face, clothes or insignia and are labelled `rendered`, not a real photograph; Amosov, Kondratiuk, Korolov and Prymachenko, whose faces also changed, labelled colorized at the owner's request). A painting may be rendered as a photo-like image (`ai_edit: rendered`, owner decision 2026-10-06, first: Repin's 1887 self-portrait); its credit says it is not a real photograph. |
 | 2026-09-29 | D7 | Hosting: **Cloudflare Pages**, deployed by GitHub Actions from a personal GitHub account. |
 | 2026-09-29 | D8 | **Living people may be included** (§7.6). |
 | 2026-09-29 | D10 | Search: **simple, client-side**. |
@@ -157,7 +157,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 |---|---|---|
 | **0. Setup** | Scaffold, schema, CI, deploy | ✅ 2026-10-05 |
 | **1. MVP** | §3.1–3.7, ≥ 20 profiles in both languages | ✅ soft launch 2026-10-05 (86 profiles); public launch after the domain and promotion |
-| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 111 profiles (batch 5, Farion and Yatsyk, 2026-10-06) |
+| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 129 profiles (batch 7: defenders and military figures, 2026-10-06) |
 | **3. Engagement** | Quiz · printable teacher pages · CMS | Later |
 
 ---
@@ -185,7 +185,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | Content effort stalls the project | High | Batches of 20–25; AI drafts + human review; volunteers (§3.6) |
 | Two languages double the effort | High | Draft in Ukrainian, AI-assisted translation + review (D3-R) |
 | Controversy (selection, contested figures, "Ukrainian" claims) | Medium | Published criteria, neutral tone, debates sections, precise origins (§7) |
-| Image copyright | Medium | Free or permitted images only, per-file licenses, initials until resolved; the 7 fair-use portraits come down on request (D6) |
+| Image copyright | Medium | Free or permitted images only, per-file licenses, initials until resolved; the 8 fair-use portraits come down on request (D6) |
 | Uneven portrait quality | Medium | AI colorizing/restoring from the credited photo, checked against the original (D6) |
 | Form spam | Medium | Tally spam protection |
 | Deploy pipeline unavailable | Low | Manual deploy from a laptop ([docs/PUBLISHING.md](docs/PUBLISHING.md)) |
@@ -214,3 +214,5 @@ Closed backlog items, by ID; details are in git history.
 | 2026-10-06 | Batch 5: 23 profiles (86 → 109): Repin, Krymskyi, Zerov, Dziuba, Briukhovetskyi, Vynnychenko, Vyshyvanyi, Dzhemilev, Sentsov, Yalovtsov, Kondratiuk, Hetman, Huzar, Boiko, Solovianenko, Silvestrov, Ivasiuk, Kuzma Skriabin, Vakarchuk, Blokhin, Bubka, Vitali and Wladimir Klitschko; drafted and fact-checked in five groups (8 errors found and fixed); linked to existing profiles in both directions |
 | 2026-10-06 | Iryna Farion (110): drafted and fact-checked by separate agents (4 errors fixed), published on the same terms as batch 5; contested-figure section covers the 2010 and 2023 controversies, the dismissal case and the first-instance verdict of 1 October 2026 |
 | 2026-10-06 | Petro Yatsyk (111), linked with Farion and Hrushevskyi; Farion's profile shortened (no election, trial or court details; a short debates section); both kept to at most 4 sources, one per site |
+| 2026-10-06 | All profiles rewritten hook-first (docs/STYLE.md), at most 4 sources each (C5, C6) |
+| 2026-10-06 | Batch 7: 18 defenders and military figures (111 → 129): Prokopenko, Palamar, Volynskyi, Maliuk, Sternenko, Brakh, Paievska, Polishchuk, Derusova, Semydianova, Tarabalka, Skakun, Mes, Voroshylov, Vyhovskyi, Doroshenko, Bolbochan, Zarytska; drafted and fact-checked by separate agents, published on the batch 5 terms; linked to existing profiles |
