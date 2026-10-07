@@ -3,10 +3,10 @@
 
 import { getRead, STORAGE_KEY } from './read-marks';
 
-const KEYS = ['q', 'group', 'era', 'region', 'unread'] as const;
+const KEYS = ['q', 'group', 'era', 'region', 'collection', 'unread'] as const;
 // Filters that narrow the catalogue to a single results grid. "Unread only" on its own keeps the
 // grouped layout and just leaves out cards already read.
-const NARROWING = ['q', 'group', 'era', 'region'] as const;
+const NARROWING = ['q', 'group', 'era', 'region', 'collection'] as const;
 type Key = (typeof KEYS)[number];
 type State = Record<Key, string>;
 
@@ -20,6 +20,7 @@ export const matches = (item: DOMStringMap, state: State, read: Set<string> = ne
   (!state.group || item.group === state.group) &&
   (!state.era || item.era === state.era) &&
   (!state.region || item.region === state.region) &&
+  (!state.collection || (item.collections ?? '').split(',').includes(state.collection)) &&
   (!state.q || normalize(item.search ?? '').includes(normalize(state.q)));
 
 export function initFilters() {

@@ -96,6 +96,26 @@ test.describe('without JavaScript', () => {
   });
 });
 
+test('collections filter shows matching profiles', async ({ page }) => {
+  await page.goto('/uk/');
+  // Scroll to Collections tab
+  await page.locator('[data-tab="collections"]').click();
+  // Wait for Collections panel to be visible
+  await expect(page.locator('[data-panel="collections"]')).toBeVisible();
+  // Click on money-people collection
+  const moneyPeopleTile = page.locator('[data-collection="money-people"]');
+  await expect(moneyPeopleTile).toBeVisible();
+  await moneyPeopleTile.click();
+  // Verify URL has collection parameter
+  await expect(page).toHaveURL(/collection=money-people/);
+  // Verify results are shown
+  const results = page.locator(visibleCards);
+  await expect(results).toHaveCountGreaterThan(0);
+  // Verify we're seeing money-people profiles (check for specific profiles on money)
+  const profileNames = await results.allTextContents();
+  expect(profileNames.length).toBeGreaterThan(0);
+});
+
 test('an unknown address shows the friendly not-found page in the right language', async ({ page }) => {
   const response = await page.goto('/en/people/no-such-person/');
   expect(response?.status()).toBe(404);

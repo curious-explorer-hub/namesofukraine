@@ -24,6 +24,7 @@ const fresh = !draft && isNew(person);
   data-group={data.group}
   data-era={data.era}
   data-region={data.birthplace.region}
+  data-collections={data.collections.join(',')}
   data-search={searchText(person)}
 >
   <article class="person">
