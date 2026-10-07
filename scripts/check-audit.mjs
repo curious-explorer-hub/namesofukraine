@@ -3,9 +3,6 @@
 import { execFileSync } from 'node:child_process';
 
 const allowed = {
-  // Via astro. About shared HTTP caches serving one user's response to another; the site is static
-  // files with no server or cache of ours.
-  'GHSA-ch52-4w7c-c8xp': 'http-cache-semantics: no server-side cache in a static site',
   // Via satori (share cards). Malformed ZIP64 input; satori runs only at build time on our own files.
   'GHSA-px8p-9vwx-vf98': 'fflate: build-time only, trusted input',
 };
