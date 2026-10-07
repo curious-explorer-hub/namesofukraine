@@ -37,6 +37,7 @@ sources:
   - title: Вікіпедія - Паламар Святослав Ярославович
     url: https://uk.wikipedia.org/wiki/Паламар_Святослав_Ярославович
 related: [denys-prokopenko, serhii-volynskyi]
+collections: [defenders-mariupol]
 status: draft
 ---
 

@@ -37,6 +37,7 @@ sources:
   - title: Вікіпедія - Волинський Сергій Ярославович
     url: https://uk.wikipedia.org/wiki/Волинський_Сергій_Ярославович
 related: [denys-prokopenko, sviatoslav-palamar]
+collections: [defenders-mariupol]
 status: approved
 published: 2026-10-07T15:30:00Z
 ---

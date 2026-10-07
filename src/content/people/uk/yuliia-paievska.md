@@ -35,6 +35,7 @@ sources:
   - title: Вікіпедія - Паєвська Юлія Георгіївна
     url: https://uk.wikipedia.org/wiki/Паєвська_Юлія_Георгіївна
 related: []
+collections: [women-army, defenders-mariupol]
 status: draft
 ---
 

@@ -34,6 +34,7 @@ sources:
   - title: Вікіпедія - Прокопенко Денис Геннадійович
     url: https://uk.wikipedia.org/wiki/Прокопенко_Денис_Геннадійович
 related: [sviatoslav-palamar, serhii-volynskyi]
+collections: [defenders-mariupol]
 status: approved
 published: 2026-10-07T15:30:00Z
 ---
