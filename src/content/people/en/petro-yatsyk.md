@@ -22,7 +22,7 @@ Petro Yatsyk was born in 1921 into a poor peasant family in the village now call
 
 In Canada Yatsyk started out washing dishes and later founded a construction firm that built whole neighbourhoods in Toronto and across Ontario. He shared what he earned with Ukrainian scholarship: he supported the Ukrainian institute at Harvard, the Encyclopedia of Ukraine, and Ukrainian studies programmes at universities in Toronto, London and New York. In 1989 he gave a million dollars for a centre for Ukrainian historical research in Edmonton and asked in return for an English translation of the History of Ukraine-Rus’ by [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/), whom he admired. In all, Yatsyk gave away more than 16 million dollars, while living very modestly himself.
 
-He urged other wealthy Ukrainians to do the same and became the first president of the League of Ukrainian Patrons in Kyiv. With his support, the International Ukrainian Language Competition was launched, and after Yatsyk’s death in 2001 it was named after him. Later [Iryna Farion](/en/people/iryna-farion/) chaired the competition’s supervisory board.
+He urged other wealthy Ukrainians to do the same and became the first president of the League of Ukrainian Patrons in Kyiv. With his support, the International Ukrainian Language Competition was launched, and after Yatsyk’s death in 2001 it was named after him.
 
 ## Why it matters today
 

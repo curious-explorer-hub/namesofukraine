@@ -40,6 +40,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 |---|---|
 | [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D17 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
 | [docs/BACKLOG.md](docs/BACKLOG.md) | Current status and open items (**start here to resume work**) |
+| [docs/STYLE.md](docs/STYLE.md) | How profiles are written: hook first, short, for young readers |
 | [docs/CANDIDATES.md](docs/CANDIDATES.md) | People planned for future batches, with flags and editorial notes |
 | [docs/PUBLISHING.md](docs/PUBLISHING.md) | How a change goes live, CI, rollback, manual deploy, the Tally form |
 | [docs/MAINTENANCE.md](docs/MAINTENANCE.md) | Recurring work: weekly feedback triage, corrections |

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/dmytro-kotsiubailo.md
 name: "Dmytro Kotsiubailo"
 role: "Commander of the “Da Vinci Wolves”"
-summary: "A volunteer who went to the front at 18, in 2014, and in eight years rose from platoon commander to commander of the “Da Vinci Wolves” battalion. The first volunteer to be made a Hero of Ukraine during his lifetime (2021). He was killed near Bakhmut in 2023."
+summary: "A boy nicknamed “Da Vinci” for his gift for drawing, he volunteered for the front at 18 and rose to command the “Da Vinci Wolves” battalion. The first volunteer made a Hero of Ukraine in his lifetime. He was killed near Bakhmut in 2023."
 fun_fact: "Wolves became the emblem of his fighters, the “Da Vinci Wolves”: three wolves stand beside him on his monument at Askold’s Grave."
 key_accomplishments:
   - "Volunteer from 2014; a company commander from 2015, later of the 1st Assault Company of the Right Sector Ukrainian Volunteer Corps"
@@ -14,16 +14,16 @@ image_alt: "Dmytro Kotsiubailo receiving the Gold Star order in the Verkhovna Ra
 reviewed: true
 ---
 
-## Who he was
+## Why “Da Vinci”?
 
-Dmytro Kotsiubailo was born in 1995 in the village of Zadnistrianske in the Ivano-Frankivsk region and went to school in nearby Bovshiv. He drew well from childhood, which is where his call sign “Da Vinci” came from. In 2014, straight after the Revolution of Dignity, he went to war as an 18-year-old volunteer with the Right Sector Ukrainian Volunteer Corps.
+Dmytro Kotsiubailo was born in 1995 in the village of Zadnistrianske in the Ivano-Frankivsk region. He drew well from childhood, which is where his call sign “Da Vinci” came from. He went to school in nearby Bovshiv, and in 2014, straight after the Revolution of Dignity, he went to war as an 18-year-old volunteer with the Right Sector Ukrainian Volunteer Corps.
 
-## His story
+## The first among volunteers
 
-In 2014 Kotsiubailo was badly wounded in Pisky in the Donetsk region; after rehabilitation he returned to the front. From 2015 he commanded a company, later the 1st Assault Company of the Volunteer Corps, which became known as the “Da Vinci Wolves”. On 30 November 2021 a presidential decree made him a Hero of Ukraine: he was the first volunteer to receive the title during his lifetime. Volodymyr Zelenskyy presented him with the Gold Star order in the Verkhovna Rada.
+That same year he was badly wounded in Pisky in the Donetsk region. After rehabilitation he went back to the front. From 2015 Kotsiubailo commanded a company, later the 1st Assault Company, which became known as the “Da Vinci Wolves”. In 2021 he became the first volunteer to be made a Hero of Ukraine during his lifetime.
 
-In spring 2022, after the full-scale invasion began, his company was expanded into the 1st Separate Battalion “Da Vinci Wolves” within the 67th Separate Mechanized Brigade. That year Forbes Ukraine included Kotsiubailo in its “30 Under 30” list. On 7 March 2023 he was killed in battle near Bakhmut, aged 27.
+After the full-scale invasion began, his company grew into the 1st Separate Battalion “Da Vinci Wolves”. On 7 March 2023 Dmytro Kotsiubailo was killed in battle near Bakhmut. He was 27.
 
-## Why it matters today
+## How he is remembered
 
-On 10 March 2023 Kotsiubailo’s funeral service was held at St. Michael’s Golden-Domed Cathedral, attended by the President of Ukraine and Finland’s Prime Minister Sanna Marin, and then thousands of people said goodbye to him on Maidan Nezalezhnosti. He was buried at Askold’s Grave in Kyiv, where a monument was unveiled in November 2024: the soldier at full height with three wolves beside him. Streets in Kharkiv, Zaporizhzhia, Ivano-Frankivsk and other cities now bear his name, a fountain in Lviv is dedicated to him, and the school in Bovshiv is named after him.
+Thousands of people came to Maidan Nezalezhnosti to say goodbye to him. He was buried at Askold’s Grave in Kyiv, where a monument to him was unveiled in 2024. Streets in many Ukrainian cities bear his name, and so does the school in Bovshiv where he once studied.

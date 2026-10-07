@@ -62,6 +62,8 @@ Every profile has this summary, condensed on its card and in full at the top of 
 
 Then: key accomplishments · the story · why it matters today · debates and assessments (where relevant) · an optional "popular misconception" card · sources · image credit · related people · "mark as read" · "report a mistake" (opens the feedback form tagged with the profile).
 
+**Voice** ([docs/STYLE.md](docs/STYLE.md)): stories open with a hook (a "did you know", a question, a twist), then explain what happened; short, concrete, for a 15-year-old; the facts and §7 rules don't change.
+
 - **AC5** The build fails if a published profile lacks name, years, role, summary, fun fact, group, era, birthplace, or ≥ 2 sources.
 - **AC6** Every profile has its own URL and a share card (OG image: portrait, name, role).
 - **Content files:** one Markdown file per person per language (`src/content/people/{uk,en}/<slug>.md`). Facts that don't depend on language (dates, places, group, sources, image) live only in the Ukrainian file. Schema: `src/content.config.ts`. Name forms for cross-links: `src/content/aliases.json`.
@@ -145,6 +147,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-10-06 | — | **Content balance is checked by hand, with no quotas** and no gender field (§7.2). |
 | 2026-10-06 | — | **Batch 5 published after an independent AI fact-check, without the owner's review** (owner decision; an exception to D5 for this batch): every profile drafted from cited sources, then checked fact by fact by a separate agent. Bubka, the Klitschko brothers and Yalovtsov, earlier excluded, were reinstated. Fallen defenders whom no encyclopedia covers yet (Yalovtsov, like Tsybukh, Kryvtsov, Hryntsevych) rest on the state-award decree and official sources instead of the encyclopedic source in §7.3. |
 | 2026-10-06 | — | **Donations and volunteers:** Support page, social links, "join the team" (§3.6). Donations are voluntary and don't change "no ads, no paywall". |
+| 2026-10-06 | — | **Story voice: hook first:** profiles read like a story, not an encyclopedia: a "did you know", question or twist, then what happened; fallen defenders: hooks from life and service, never from death ([docs/STYLE.md](docs/STYLE.md)). Piloted on Shevchenko and Kotsiubailo, then adopted for all profiles. |
 
 ---
 

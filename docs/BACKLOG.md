@@ -23,6 +23,7 @@ In order. Pick from the top.
 
 - **C4. Grow the candidate list.** Beyond the NV, ВУ and Rubryka lists: encyclopedias (ESU, Encyclopedia of Ukrainian History), state awards (Shevchenko Prize, Hero of Ukraine), diaspora, science and sport halls of fame, regional figures for empty oblasts (Kherson, Odesa, Zakarpattia, Luhansk and others), women and living people. Each with years, field, era, source and links (C2c).
 - **C5. At most 4 sources per profile** (product_vision.md §7.3). 62 of 111 profiles list more. Trim in batches, like Iryna Farion (2026-10-06): keep the 4 best sources, one per website, including an encyclopedic one, and shorten or drop any fact that would lose its only source; both languages; re-check the remaining facts. When all are done, add a schema check (`sources` max 4, unique sites) so `npm run check` catches new ones.
+- **C6. Story voice for all profiles** ([STYLE.md](STYLE.md)) *(pilot done 2026-10-06: Shevchenko, Kotsiubailo; adopted)*. Rewrite the rest hook-first, together with C5 (same facts, at most 4 sources).
 
 ## Launch checklist
 
