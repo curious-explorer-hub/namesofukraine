@@ -1,0 +1,148 @@
+---
+import { getPeople, localePath } from '../../../lib/people';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { t, type Lang } from '../../../i18n';
+
+const lang: Lang = 'uk';
+
+// Dev-only gate
+if (!import.meta.env.DEV) {
+  return new Response(null, { status: 404 });
+}
+
+const people = (await getPeople(lang)).filter((p) => p.data.status === 'draft').sort((a, b) => {
+  const aDate = new Date(a.data.last_reviewed || '');
+  const bDate = new Date(b.data.last_reviewed || '');
+  return bDate.getTime() - aDate.getTime();
+});
+---
+
+<BaseLayout lang={lang}>
+  <main class="admin-drafts">
+    <h1>{t('admin.drafts', lang)}</h1>
+    <p class="lead">{t('admin.lead', lang)}</p>
+
+    {people.length === 0 ? (
+      <div class="empty">{t('admin.no_drafts', lang)}</div>
+    ) : (
+      <div class="table-wrapper">
+        <table class="drafts-table">
+          <thead>
+            <tr>
+              <th>{t('admin.name', lang)}</th>
+              <th>{t('admin.role', lang)}</th>
+              <th>{t('admin.status', lang)}</th>
+              <th>{t('admin.last_reviewed', lang)}</th>
+              <th>{t('admin.action', lang)}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {people.map((p) => (
+              <tr>
+                <td>{p.data.name}</td>
+                <td>{p.data.role}</td>
+                <td><span class="badge badge-draft">{t('draft.badge', lang)}</span></td>
+                <td>{new Date(p.data.last_reviewed || '').toLocaleDateString('uk-UA')}</td>
+                <td>
+                  <a href={`${localePath(lang, '/people/')}${p.slug}/`} class="link-view">
+                    {t('admin.view', lang)} →
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <p class="count">{t('admin.count', lang, { n: people.length })}</p>
+      </div>
+    )}
+  </main>
+</BaseLayout>
+
+<style>
+  main {
+    max-width: 64rem;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  h1 {
+    margin: 0 0 0.5rem;
+    font-size: 1.75rem;
+    font-weight: 700;
+  }
+
+  .lead {
+    margin: 0 0 2rem;
+    color: var(--color-text-secondary);
+    font-size: 0.95rem;
+  }
+
+  .empty {
+    padding: 2rem;
+    text-align: center;
+    color: var(--color-text-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    background: var(--color-bg-secondary);
+  }
+
+  .table-wrapper {
+    overflow-x: auto;
+  }
+
+  .drafts-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+
+  .drafts-table thead {
+    background: var(--color-bg-secondary);
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  .drafts-table th {
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .drafts-table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .drafts-table tbody tr:hover {
+    background: var(--color-bg-secondary);
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  .badge-draft {
+    background: var(--color-draft-bg, #fef3c7);
+    color: var(--color-draft-text, #92400e);
+  }
+
+  .link-view {
+    color: var(--color-link);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .link-view:hover {
+    text-decoration: underline;
+  }
+
+  .count {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+  }
+</style>

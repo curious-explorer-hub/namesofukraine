@@ -138,5 +138,15 @@
   "insight.fact_abroad": "Born outside Ukraine: {n}.",
   "insight.fact_earliest": "The earliest person here is {name} ({years}).",
   "insight.see_them": "Who are they?",
-  "insight.read_story": "Read the story"
+  "insight.read_story": "Read the story",
+  "admin.drafts": "Drafts",
+  "admin.lead": "Profiles pending review and approval. Not yet visible on the site. For development only.",
+  "admin.name": "Name",
+  "admin.role": "Role",
+  "admin.status": "Status",
+  "admin.last_reviewed": "Last reviewed",
+  "admin.action": "Action",
+  "admin.view": "View",
+  "admin.count": "Total drafts: {n}",
+  "admin.no_drafts": "No drafts. All profiles are approved and published."
 }

@@ -138,5 +138,15 @@
   "insight.fact_abroad": "Народилися за межами України: {n}.",
   "insight.fact_earliest": "Найдавніша постать у каталозі - {name} ({years}).",
   "insight.see_them": "Хто це?",
-  "insight.read_story": "Читати історію"
+  "insight.read_story": "Читати історію",
+  "admin.drafts": "Чернетки",
+  "admin.lead": "Профілі, що чекають на перевірку й схвалення. Їх ще немає на сайті. Для розробки тільки.",
+  "admin.name": "Ім'я",
+  "admin.role": "Роль",
+  "admin.status": "Статус",
+  "admin.last_reviewed": "Останнім разом переглянуто",
+  "admin.action": "Дія",
+  "admin.view": "Переглянути",
+  "admin.count": "Всього чернеток: {n}",
+  "admin.no_drafts": "Чернеток немає. Усі профілі схвалені й видані."
 }
