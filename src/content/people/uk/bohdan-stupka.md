@@ -2,7 +2,6 @@
 name: Богдан Ступка
 born: 1941-08-27
 died: 2012-07-22
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Ступка Богдан Сильвестрович
     url: https://uk.wikipedia.org/wiki/Ступка_Богдан_Сильвестрович
 related: [ivan-mykolaichuk, ivan-franko, lesya-ukrainka, ivan-kotliarevskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Двісті ролей одного актора

@@ -11,7 +11,6 @@ key_accomplishments:
   - "His three-volume memoir Rebirth of a Nation (1920) is one of the key eyewitness accounts of the Ukrainian Revolution"
 birthplace_name: "Veselyi Kut, Kherson Governorate (now part of Kropyvnytskyi)"
 image_alt: "Photo portrait of the young Volodymyr Vynnychenko in an embroidered shirt, early 20th century"
-reviewed: true
 ---
 
 ## The playwright who led a government

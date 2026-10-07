@@ -2,7 +2,6 @@
 name: Микола Лисенко
 born: 1842-03-22
 died: 1912-11-06
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 19th-century
 group: performing-arts
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Лисенко Микола Віталійович
     url: https://uk.wikipedia.org/wiki/Микола_Лисенко
 related: [mykola-leontovych, taras-shevchenko, lesya-ukrainka, ivan-kotliarevskyi, mykola-hohol]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Опера, яку він не віддав

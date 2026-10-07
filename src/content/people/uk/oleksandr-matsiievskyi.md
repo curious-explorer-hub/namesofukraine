@@ -2,7 +2,6 @@
 name: Олександр Мацієвський
 born: 1980-05-10
 died: 2022-12-30
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -32,7 +31,8 @@ sources:
   - title: "Радіо Свобода - «Остаточно підтвердили»: СБУ назвала прізвище військового, якого розстріляли після слів «Слава Україні»"
     url: "https://www.radiosvoboda.org/a/news-sbu-rozstril-viyskovyy-slava-ukrayini/32314352.html"
 related: [nazarii-hryntsevych]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Із Кишинева до Ніжина

@@ -2,7 +2,6 @@
 name: Євген Коновалець
 born: 1891-06-14
 died: 1938-05-23
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -33,7 +32,8 @@ sources:
   - title: Wikipedia (EN) - Yevhen Konovalets
     url: https://en.wikipedia.org/wiki/Yevhen_Konovalets
 related: [stepan-bandera, roman-shukhevych, olena-teliha]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Утікач, який став командиром

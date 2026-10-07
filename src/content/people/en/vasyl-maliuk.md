@@ -11,7 +11,6 @@ key_accomplishments:
   - "Lieutenant general (2024); Hero of Ukraine (decree No. 299/2025 of 8 May 2025)"
 birthplace_name: "Korostyshiv"
 image_alt: "Portrait of Vasyl Maliuk"
-reviewed: true
 ---
 
 ## The painting in his office

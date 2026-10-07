@@ -2,7 +2,6 @@
 name: Володимир Вернадський
 born: 1863-03-12
 died: 1945-01-06
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Вернадський Володимир Іванович
     url: https://uk.wikipedia.org/wiki/Володимир_Вернадський
 related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi, ahatanhel-krymskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Петербуржець з полтавськими літами

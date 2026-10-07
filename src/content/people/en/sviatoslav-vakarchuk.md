@@ -11,7 +11,6 @@ key_accomplishments:
   - "Member of Ukraine’s parliament in two convocations (2007–2008, 2019–2020); founder of the Holos (Voice) party"
 birthplace_name: "Mukachevo"
 image_alt: "Svyatoslav Vakarchuk at the U.S. Independence Day reception in Kyiv, 2016"
-reviewed: true
 ---
 
 ## The physicist who became a generation’s voice

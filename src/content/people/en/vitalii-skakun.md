@@ -11,7 +11,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, decree No. 74/2022 of 26 February 2022)"
 birthplace_name: "Berezhany"
 image_alt: "Vitalii Skakun in military uniform and a green knitted hat"
-reviewed: true
 ---
 
 ## Welder, coder, combat engineer

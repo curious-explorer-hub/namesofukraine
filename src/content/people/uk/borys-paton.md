@@ -2,7 +2,6 @@
 name: Борис Патон
 born: 1918-11-27
 died: 2020-08-19
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Патон Борис Євгенович
     url: https://uk.wikipedia.org/wiki/Патон_Борис_Євгенович
 related: [volodymyr-vernadskyi, bohdan-havrylyshyn]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Зварювання, що допомагало на війні

@@ -2,7 +2,6 @@
 name: Євгеній Брах
 born: 1995-10-02
 died: 2022-09-21
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -37,7 +36,7 @@ sources:
   - title: "«Стріткод. Історія на кожному кроці» - Євгеній Брах «Малі»"
     url: "https://streetcodes.in.ua/streetcodes/yevhenii-brakh/"
 related: [maksym-yalovtsov]
-reviewed: true
+status: draft
 ---
 
 ## Чому «Малі»?

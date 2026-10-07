@@ -2,7 +2,6 @@
 name: Святослав Вакарчук
 born: 1975-05-14
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: performing-arts
@@ -37,7 +36,8 @@ sources:
   - title: Вікіпедія - Вакарчук Святослав Іванович
     url: https://uk.wikipedia.org/wiki/Вакарчук_Святослав_Іванович
 related: [volodymyr-ivasiuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Фізик, який став голосом покоління

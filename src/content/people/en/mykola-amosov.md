@@ -14,7 +14,6 @@ key_accomplishments:
   - "Books Thoughts and the Heart and Reflections on Health; the “limits and loads” health system"
 birthplace_name: "Olkhove (Russia)"
 image_alt: "Mykola Amosov, a photo from Soviet Life, 1984"
-reviewed: true
 ---
 
 ## A surgeon from a drowned village

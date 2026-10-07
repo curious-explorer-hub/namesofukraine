@@ -12,7 +12,6 @@ key_accomplishments:
   - "Order of Freedom (2017)"
 birthplace_name: "Solnechnyi (now Zhangiztobe), Kazakhstan"
 image_alt: "Wladimir Klitschko at the Munich Security Conference, February 2023"
-reviewed: true
 ---
 
 ## The medal that came back

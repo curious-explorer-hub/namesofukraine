@@ -21,7 +21,7 @@ edit files ──► commit ──► push to main ──► CI (GitHub Actions)
 
 Pull requests run all the checks but **never deploy**; only `main` does.
 
-**Nothing is published unless it's reviewed.** The production build includes a profile only when `reviewed: true` is set in **both** `src/content/people/uk/<slug>.md` and `src/content/people/en/<slug>.md` (decision D3-R). A profile with `reviewed: false` is visible in `npm run dev` but not on the live site.
+**Nothing is published until the owner approves it.** **Moderation:** every new profile starts as `status: draft` in its Ukrainian file. Drafts live in the repository and show in `npm run dev`, but never on the site; links to them in other profiles' text show as plain text until then. Only the owner approves a profile, after reading it: `npm run approve <slug> [<slug> …]` sets `status: approved` and stamps `published` with the current time, which orders the New page, the "Нове" badge and RSS.
 
 ## Check before pushing
 
@@ -29,7 +29,8 @@ Pull requests run all the checks but **never deploy**; only `main` does.
 npm run check      # types + content schema (role ≤ 40 chars, summary ≤ 300, sources, …)
 npm test           # unit tests
 npm run test:e2e   # production build + browser smoke tests (desktop + mobile)
-npm run dev        # http://localhost:4321, shows unreviewed profiles too
+npm run dev        # http://localhost:4321, shows drafts too
+npm run approve -- <slug>   # owner only: publish a reviewed draft
 ```
 
 ## Did my change go live?
@@ -45,7 +46,7 @@ npm run dev        # http://localhost:4321, shows unreviewed profiles too
 | CI is red | One of the checks failed | Open the failed step's log, fix, push again. Nothing was deployed. |
 | Deploy step "skipped" | The Cloudflare secrets aren't set (or the run wasn't on `main`) | Add the two repository secrets below |
 | Deploy step fails with an authentication error | The Cloudflare API token expired or lost its permission | Create a new token and update the secret |
-| The page you expect is a 404 | The profile isn't `reviewed: true` in both languages, or the slug differs | Check both files; build locally and look in `dist/` |
+| The page you expect is a 404 | The profile is still `status: draft`, its English file is missing, or the slug differs | Check both files; build locally and look in `dist/` |
 | A browser can't open the site at all, but CI deployed | Your computer cached an old DNS answer | Try another network, a phone, or a private window |
 | You're looking at `*.workers.dev` and it's out of date | That's a separate **Worker**, not this site (see below) | Use `namesofukraine.pages.dev` |
 

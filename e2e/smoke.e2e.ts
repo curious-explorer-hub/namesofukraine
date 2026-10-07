@@ -1,6 +1,6 @@
 import { expect, test } from '@playwright/test';
 
-// Uses published profiles (reviewed: true in both languages); update if they change.
+// Uses published profiles (status: approved); update if they change.
 const visibleCards = '.catalogue .shelf > li:visible';
 
 test('filters and search narrow the list, and going back from a profile keeps them', async ({ page }) => {

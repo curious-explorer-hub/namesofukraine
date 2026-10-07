@@ -14,7 +14,6 @@ key_accomplishments:
   - "Founded (or restored) the Monastery of Saint Vincent in Senlis (between 1065 and 1069)"
 birthplace_name: "Kyiv (probably)"
 image_alt: "Imagined portrait of Anna Yaroslavna, Queen of France, lithograph by François-Séraphin Delpech, c. 1820–1840"
-reviewed: true
 ---
 
 ## Why would a French king look for a bride in Kyiv?

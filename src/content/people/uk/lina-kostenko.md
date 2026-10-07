@@ -2,7 +2,6 @@
 name: Ліна Костенко
 born: 1930-03-19
 living: true
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Костенко Ліна Василівна
     url: https://uk.wikipedia.org/wiki/Костенко_Ліна_Василівна
 related: [vasyl-stus, viacheslav-chornovil, vasyl-symonenko, ivan-dziuba]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Шістнадцять років тиші

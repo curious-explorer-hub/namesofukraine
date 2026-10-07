@@ -11,7 +11,6 @@ key_accomplishments:
   - "Co-founder of the International Management Institute in Kyiv"
 birthplace_name: "Koropets"
 image_alt: "Photograph of Bohdan Hawrylyshyn in his Kyiv office, 2012"
-reviewed: true
 ---
 
 ## From lumberjack to Geneva

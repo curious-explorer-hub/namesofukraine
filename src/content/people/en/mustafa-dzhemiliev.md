@@ -12,7 +12,6 @@ key_accomplishments:
   - "Hero of Ukraine (2023, Decree No. 749/2023); Order of Freedom (2018)"
 birthplace_name: "Ay-Serez (now Mizhrichchia), Crimea"
 image_alt: "Mustafa Dzhemilev on a visit to the Senate of Poland, 2014"
-reviewed: true
 ---
 
 ## Exiled twice

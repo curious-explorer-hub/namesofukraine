@@ -14,7 +14,6 @@ key_accomplishments:
   - "Founded an aircraft company in the US in 1923 (today’s Sikorsky)"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Igor Sikorsky"
-reviewed: true
 ---
 
 ## Helicopter first, airplane second

@@ -14,7 +14,6 @@ key_accomplishments:
   - "Wide-ranging diplomacy with the Crimean Khanate, the Ottoman Empire, Sweden, Transylvania and Muscovy"
 birthplace_name: "Subotiv (probably)"
 image_alt: "Engraving by Willem Hondius with a portrait of Bohdan Khmelnytskyi, 1651"
-reviewed: true
 ---
 
 ## It started with a homestead

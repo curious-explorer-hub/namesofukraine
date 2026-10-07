@@ -11,7 +11,6 @@ key_accomplishments:
   - "One of the founders of evolutionary embryology and scientific gerontology"
 birthplace_name: "Ivanivka"
 image_alt: "Photograph of Ilya Mechnikov, about 1908"
-reviewed: true
 ---
 
 ## Cells that eat microbes

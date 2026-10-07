@@ -16,7 +16,7 @@ Thank you for helping «Знай своїх» / Know Your Own. The site is a non
 1. **Everything goes through a pull request.** Nobody pushes to `main` except the owner. A push to `main` publishes the site within minutes, so every outside change is reviewed first.
 2. **Facts need sources.** Every fact is backed by a reputable source, at least one of them an encyclopedia; Wikipedia alone is never enough. A profile lists at most 4 sources, one per website ([product_vision.md](product_vision.md) §7).
 3. **Neutral, short and engaging.** Write for a curious teenager: what the person did and why it matters, not every date and office.
-4. **Both languages.** Ukrainian holds the facts; English mirrors the text. A profile goes live only when both are reviewed.
+4. **Both languages.** Ukrainian holds the facts; English mirrors the text. A profile goes live only when the owner approves it.
 5. **Respect people.** Living people: public role only. Fallen defenders: public service and deeds; nothing private or graphic.
 6. **Only images you may use:** public domain or a free license (Wikimedia Commons), or written permission. Say so in the pull request.
 7. **Keep the code small.** Same stack (Astro, TypeScript, plain CSS), no new dependencies without agreement, no inline scripts (the security policy blocks them). See [AGENTS.md](AGENTS.md).
@@ -27,7 +27,7 @@ Thank you for helping «Знай своїх» / Know Your Own. The site is a non
 1. **Fork** the repository on GitHub and clone your fork. Node 22 (`.nvmrc`).
 2. Create a branch: `git checkout -b add-<slug>` (or `fix-…`).
 3. Make the change:
-   - **New person:** `src/content/people/uk/<slug>.md` (all facts + Ukrainian text) and `src/content/people/en/<slug>.md` (English text), with `reviewed: false` in both; copy the structure of an existing profile such as `taras-shevchenko.md`. Add the name to `src/content/aliases.json`. Check [docs/CANDIDATES.md](docs/CANDIDATES.md) first.
+   - **New person:** `src/content/people/uk/<slug>.md` (all facts + Ukrainian text) and `src/content/people/en/<slug>.md` (English text), with `status: draft` in the Ukrainian file; copy the structure of an existing profile such as `taras-shevchenko.md`. Add the name to `src/content/aliases.json`. Check [docs/CANDIDATES.md](docs/CANDIDATES.md) first.
    - **Correction:** change both language files where the text differs, and add or replace the source that backs it.
    - **Portrait:** `src/content/people/uk/images/<slug>.jpg` (long side ≤ 1600 px) with author, license and source page in the `image:` block.
 4. Check it:
@@ -36,11 +36,11 @@ Thank you for helping «Знай своїх» / Know Your Own. The site is a non
    npm run check      # types + content schema
    npm test           # unit tests
    npm run test:e2e   # build + browser smoke tests
-   npm run dev        # http://localhost:4321, shows unreviewed profiles too
+   npm run dev        # http://localhost:4321, shows drafts too
    ```
 5. Open the pull request against `main` and fill in the template. The checks run automatically; for a first-time contributor they start once a maintainer approves them.
 
-**Review:** the owner (or an editor) checks the facts against the sources, the tone and the image licence, may push small fixes, and sets `reviewed: true` before merging. Merged means live.
+**Review:** the owner (or an editor) checks the facts against the sources, the tone and the image licence, may push small fixes, and merges. A new profile stays a draft until the owner approves it (`npm run approve`); fixes to published profiles go live when merged.
 
 ## License of contributions
 

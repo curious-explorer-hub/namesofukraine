@@ -12,7 +12,6 @@ key_accomplishments:
   - "Order of Freedom (Decree No. 616/2025)"
 birthplace_name: "Kyiv"
 image_alt: "Yuliia Paievska in a helmet and body armor on a seashore"
-reviewed: true
 ---
 
 ## A camera meant for Netflix

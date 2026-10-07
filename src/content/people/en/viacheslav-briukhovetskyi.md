@@ -11,7 +11,6 @@ key_accomplishments:
   - "Hero of Ukraine (2007); Order of Merit, 3rd class (1997)"
 birthplace_name: "Vladikavkaz"
 image_alt: "Viacheslav Briukhovetskyi in academic dress, 2009"
-reviewed: true
 ---
 
 ## “I am starting work as rector”

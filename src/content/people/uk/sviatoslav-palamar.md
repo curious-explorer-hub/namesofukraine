@@ -2,7 +2,6 @@
 name: Святослав Паламар
 born: 1982-10-10
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -38,7 +37,7 @@ sources:
   - title: Вікіпедія - Паламар Святослав Ярославович
     url: https://uk.wikipedia.org/wiki/Паламар_Святослав_Ярославович
 related: [denys-prokopenko, serhii-volynskyi]
-reviewed: true
+status: draft
 ---
 
 ## Чому «Калина»?

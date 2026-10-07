@@ -11,7 +11,6 @@ key_accomplishments:
   - "Shevchenko Prize (1994, posthumously); Hero of Ukraine (2009, posthumously, Decree No. 110/2009)"
 birthplace_name: "Kitsman"
 image_alt: "Volodymyr Ivasiuk on a park bench"
-reviewed: true
 ---
 
 ## A song from a book of kolomyikas

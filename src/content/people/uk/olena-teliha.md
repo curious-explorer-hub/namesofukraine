@@ -2,7 +2,6 @@
 name: Олена Теліга
 born: 1906-07-21
 died: 1942-02-21
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -33,7 +32,8 @@ sources:
   - title: "JTA - US embassy in Kiev criticized for praising Ukrainian nationalist (2017)"
     url: "https://www.jta.org/2017/03/29/global/us-embassy-in-kiev-criticized-for-praising-for-ukrainian-nationalist"
 related: [lesya-ukrainka, yevhen-konovalets]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## «Та собача мова - моя мова!»

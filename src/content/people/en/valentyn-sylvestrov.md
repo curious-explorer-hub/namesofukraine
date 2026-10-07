@@ -11,7 +11,6 @@ key_accomplishments:
   - "People’s Artist of Ukraine (1989), Shevchenko Prize (1995)"
 birthplace_name: "Kyiv"
 image_alt: "Valentin Silvestrov in Gohrisch, Germany, before receiving the International Shostakovich Prize, July 2022"
-reviewed: true
 ---
 
 ## The avant-gardist no one played at home

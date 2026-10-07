@@ -12,7 +12,6 @@ key_accomplishments:
   - "People’s Artist of the Ukrainian SSR (1923)"
 birthplace_name: "Zanky, Nizhyn district, Chernihiv province"
 image_alt: "Photograph of Mariia Zankovetska, 1892"
-reviewed: true
 ---
 
 ## One role, a first time twice

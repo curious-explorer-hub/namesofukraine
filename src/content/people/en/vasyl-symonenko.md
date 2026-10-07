@@ -11,7 +11,6 @@ key_accomplishments:
   - "Posthumously awarded the Taras Shevchenko State Prize of Ukraine (1995)"
 birthplace_name: "Biivtsi"
 image_alt: "Photo portrait of Vasyl Symonenko"
-reviewed: true
 ---
 
 ## An obituary for a corncob

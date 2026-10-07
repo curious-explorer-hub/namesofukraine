@@ -2,7 +2,6 @@
 name: Олег Сенцов
 born: 1976-07-13
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -37,7 +36,8 @@ sources:
   - title: Вікіпедія - Сенцов Олег Геннадійович
     url: https://uk.wikipedia.org/wiki/Сенцов_Олег_Геннадійович
 related: [mustafa-dzhemiliev]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 145 днів

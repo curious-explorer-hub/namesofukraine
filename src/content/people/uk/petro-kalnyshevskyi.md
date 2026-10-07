@@ -3,7 +3,6 @@ name: Петро Калнишевський
 born: 1691-01-01
 born_circa: true
 died: 1803-11-12
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -35,7 +34,8 @@ sources:
   - title: Вікіпедія - Петро Калнишевський
     url: https://uk.wikipedia.org/wiki/Петро_Калнишевський
 related: [petro-sahaidachnyi, ivan-mazepa]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Отаман усупереч імператриці

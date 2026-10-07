@@ -3,7 +3,6 @@ name: Іван Богун
 born: 1618-01-01
 born_circa: true
 died: 1664-02-27
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -37,7 +36,8 @@ sources:
   - title: Вікіпедія - Іван Богун
     url: https://uk.wikipedia.org/wiki/Іван_Богун
 related: [bohdan-khmelnytskyi, ivan-sirko, ivan-vyhovskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Що робити, коли гетьмана взято в полон?

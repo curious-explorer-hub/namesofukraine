@@ -2,7 +2,6 @@
 name: Марія Заньковецька
 born: 1854-08-04
 died: 1934-10-04
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: 19th-century
 group: performing-arts
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Марія Заньковецька
     url: https://uk.wikipedia.org/wiki/Марія_Заньковецька
 related: [solomiia-krushelnytska, vira-kholodna, ivan-kotliarevskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Одна роль, двічі перша

@@ -14,7 +14,6 @@ key_accomplishments:
   - "Posthumously awarded the title Hero of Ukraine (2005)"
 birthplace_name: "Rakhnivka"
 image_alt: "KGB case-file photograph of Vasyl Stus, 1980"
-reviewed: true
 ---
 
 ## 600 poems we will never read

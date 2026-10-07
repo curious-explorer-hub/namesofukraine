@@ -2,7 +2,6 @@
 name: Павло Скоропадський
 born: 1873-05-15
 died: 1945-04-26
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -38,7 +37,8 @@ sources:
   - title: "Енциклопедія сучасної України - Протигетьманське повстання 1918"
     url: "https://esu.com.ua/article-884170"
 related: [symon-petliura, mykhailo-hrushevskyi, volodymyr-vernadskyi, nestor-makhno, volodymyr-vynnychenko, ahatanhel-krymskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Сім з половиною місяців, які пережили століття

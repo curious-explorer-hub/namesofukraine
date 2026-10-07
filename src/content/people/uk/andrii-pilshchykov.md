@@ -2,7 +2,6 @@
 name: Андрій Пільщиков
 born: 1993-02-03
 died: 2023-08-25
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -35,7 +34,8 @@ sources:
   - title: "LB.ua - Командування Повітряних сил про «Привида Києва» (30.04.2022)"
     url: "https://lb.ua/society/2022/04/30/515306_komanduvannya_povitryanih_sil.html"
 related: [valerii-chybinieiev, dmytro-kotsiubailo, oleksii-mes]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Хлопець, який фотографував літаки

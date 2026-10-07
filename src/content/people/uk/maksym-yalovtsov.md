@@ -2,7 +2,6 @@
 name: Максим Яловцов
 born: 1990-08-05
 died: 2022-09-21
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -30,7 +29,8 @@ sources:
   - title: "Стріткод - Євгеній Брах «Малі»"
     url: "https://streetcodes.in.ua/streetcodes/yevhenii-brakh/"
 related: [nazarii-hryntsevych, yevhenii-brakh]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Спортсмен, який учив цивільних

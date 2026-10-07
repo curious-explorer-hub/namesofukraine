@@ -2,7 +2,6 @@
 name: Іван Дзюба
 born: 1931-07-26
 died: 2022-02-22
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: civic
@@ -36,7 +35,8 @@ sources:
   - title: "Радіо Свобода - Світло «Тіней забутих предків»: 60 років тому відбувся перший публічний протест проти політичних репресій в СРСР (04.09.2025)"
     url: "https://www.radiosvoboda.org/a/30812377.html"
 related: [vasyl-stus, viacheslav-chornovil, lina-kostenko, vasyl-symonenko, serhii-paradzhanov, taras-shevchenko, mykola-khvylovyi, mykola-zerov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 800 місць і кілька десятків тих, хто встав

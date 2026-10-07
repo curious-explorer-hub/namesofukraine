@@ -14,7 +14,6 @@ key_accomplishments:
   - "Dynastic marriages of his children with the rulers of France, Norway, Hungary and other countries"
 birthplace_name: "Unknown"
 image_alt: "Imagined portrait of Prince Yaroslav the Wise, an illustration from Mykola Arkas’s History of Ukraine-Rus’, 1912"
-reviewed: true
 ---
 
 ## A prince who had to fight for Kyiv

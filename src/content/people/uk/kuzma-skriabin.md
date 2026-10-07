@@ -2,7 +2,6 @@
 name: Кузьма Скрябін
 born: 1968-08-17
 died: 2015-02-02
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: performing-arts
@@ -38,7 +37,8 @@ sources:
   - title: "ZAXID.NET - Герой нашого часу. Про що свідчить героїзація Кузьми Скрябіна (27.08.2020)"
     url: "https://zaxid.net/geroy_nashogo_chasu_n1506878"
 related: [volodymyr-ivasiuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Рок-зірка з дипломом медика

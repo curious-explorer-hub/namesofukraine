@@ -2,7 +2,6 @@
 name: Вадим Гетьман
 born: 1935-07-12
 died: 1998-04-22
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: statehood
@@ -35,7 +34,8 @@ sources:
   - title: "Zaxid.net - Лазаренко на звинувачення: Я не причетний до вбивства Щербаня (24.09.2012)"
     url: "https://zaxid.net/lazarenko_na_zvinuvachennya_ya_ne_prichetniy_do_vbivstva_shherbanya_n1265959"
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чий підпис на перших гривнях?

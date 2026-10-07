@@ -14,7 +14,6 @@ key_accomplishments:
   - "Professor at the Lviv Conservatory (1944–1951)"
 birthplace_name: "Biliavyntsi"
 image_alt: "Photograph of Solomiia Krushelnytska by Mario Nunes Vais, c. 1905–1910"
-reviewed: true
 ---
 
 ## How do you rescue an opera that flopped?

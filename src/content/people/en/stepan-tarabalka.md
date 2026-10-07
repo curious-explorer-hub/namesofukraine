@@ -14,7 +14,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, decree No. 148/2022)"
 birthplace_name: "Korolivka, Kolomyia district"
 image_alt: "Stepan Tarabalka in Ukrainian Air Force dress uniform"
-reviewed: true
 ---
 
 ## Trumpet, piano and the sky

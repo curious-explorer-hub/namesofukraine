@@ -2,7 +2,6 @@
 name: Кирило Розумовський
 born: 1728-03-29
 died: 1803-01-15
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Кирило Розумовський
     url: https://uk.wikipedia.org/wiki/Кирило_Розумовський
 related: [ivan-mazepa, petro-kalnyshevskyi, pavlo-skoropadskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як син козака став графом

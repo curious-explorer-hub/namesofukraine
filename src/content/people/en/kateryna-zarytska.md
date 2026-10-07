@@ -11,7 +11,6 @@ key_accomplishments:
   - "Silver Cross of Merit of the UPA"
 birthplace_name: "Kolomyia"
 image_alt: "Photograph of Kateryna Zarytska, around 1930"
-reviewed: true
 ---
 
 ## A salute from the laundry window

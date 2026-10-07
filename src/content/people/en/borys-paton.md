@@ -14,7 +14,6 @@ key_accomplishments:
   - "A method of welding living soft human tissue for surgery"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Borys Paton, 2010"
-reviewed: true
 ---
 
 ## Welding that helped win a war

@@ -14,7 +14,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, 2024)"
 birthplace_name: "Kharkiv"
 image_alt: "Andrii Pilshchykov holding his flight helmet"
-reviewed: true
 ---
 
 ## The boy who photographed planes

@@ -3,7 +3,6 @@ name: Роксолана
 born: 1505-01-01
 born_circa: true
 died: 1558-04-15
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: lithuanian-polish
 group: statehood
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Роксолана
     url: https://uk.wikipedia.org/wiki/Роксолана
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як невільниця стала султаншею?

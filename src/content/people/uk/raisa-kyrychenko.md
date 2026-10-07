@@ -2,7 +2,6 @@
 name: Раїса Кириченко
 born: 1943-10-14
 died: 2005-02-09
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -24,7 +23,8 @@ sources:
   - title: Вікіпедія - Кириченко Раїса Опанасівна
     url: https://uk.wikipedia.org/wiki/Кириченко_Раїса_Опанасівна
 related: [nina-matviienko, nazarii-yaremchuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Від заводського хору до великої сцени

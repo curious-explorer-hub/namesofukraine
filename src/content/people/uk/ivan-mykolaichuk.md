@@ -2,7 +2,6 @@
 name: Іван Миколайчук
 born: 1941-06-15
 died: 1987-08-03
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Миколайчук Іван Васильович
     url: https://uk.wikipedia.org/wiki/Миколайчук_Іван_Васильович
 related: [serhii-paradzhanov, leonid-bykov, bohdan-stupka, oleksandr-dovzhenko, taras-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Два великі образи за один рік

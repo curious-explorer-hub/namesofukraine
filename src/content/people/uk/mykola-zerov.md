@@ -2,7 +2,6 @@
 name: Микола Зеров
 born: 1890-04-26
 died: 1937-11-03
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -37,7 +36,8 @@ sources:
   - title: Вікіпедія - Зеров Микола Костянтинович
     url: https://uk.wikipedia.org/wiki/Микола_Зеров
 related: [mykola-khvylovyi, les-kurbas, lesya-ukrainka, ivan-franko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Поет, який повертав Рим

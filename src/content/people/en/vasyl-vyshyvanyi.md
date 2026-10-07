@@ -11,7 +11,6 @@ key_accomplishments:
   - "Author of the collection of Ukrainian poems Days Go By (Vienna, 1921)"
 birthplace_name: "Pula (Austria-Hungary, now Croatia)"
 image_alt: "Vasyl Vyshyvanyi in an embroidered shirt and sheepskin coat, a photograph from about 1918"
-reviewed: true
 ---
 
 ## The Habsburg who chose Ukraine

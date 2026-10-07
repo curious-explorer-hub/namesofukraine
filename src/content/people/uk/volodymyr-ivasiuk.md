@@ -4,7 +4,6 @@ born: 1949-03-04
 # exact date unknown: left home on 24.04.1979, found on 18.05.1979; the official certificate gives 24–27 April (ВУЕ)
 died: 1979-04-24
 died_circa: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -40,7 +39,8 @@ sources:
   - title: Вікіпедія - Івасюк Володимир Михайлович
     url: https://uk.wikipedia.org/wiki/Івасюк_Володимир_Михайлович
 related: [nazarii-yaremchuk, oles-honchar, kuzma-skriabin, sviatoslav-vakarchuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Пісня з книжки коломийок

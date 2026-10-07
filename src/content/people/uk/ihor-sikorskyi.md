@@ -2,7 +2,6 @@
 name: Ігор Сікорський
 born: 1889-06-06
 died: 1972-10-26
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -33,7 +32,8 @@ sources:
   - title: Wikipedia (EN) - Igor Sikorsky
     url: https://en.wikipedia.org/wiki/Igor_Sikorsky
 related: [serhii-korolov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Спершу гелікоптер, потім літак

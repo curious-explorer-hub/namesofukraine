@@ -3,7 +3,6 @@ name: Богдан Хмельницький
 born: 1595-01-01
 born_circa: true
 died: 1657-08-06
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -34,7 +33,8 @@ sources:
   - title: Wikipedia (EN) - Bohdan Khmelnytsky
     url: https://en.wikipedia.org/wiki/Bohdan_Khmelnytsky
 related: [petro-sahaidachnyi, ivan-mazepa, ivan-bohun, ivan-sirko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Усе почалося з хутора

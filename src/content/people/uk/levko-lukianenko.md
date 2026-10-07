@@ -2,7 +2,6 @@
 name: Левко Лук'яненко
 born: 1928-08-24
 died: 2018-07-07
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -34,7 +33,8 @@ sources:
   - title: "Указ Президента України № 665/2005 «Про присвоєння Л. Лук'яненку звання Герой України»"
     url: "https://zakon.rada.gov.ua/laws/show/665/2005"
 related: [viacheslav-chornovil, vasyl-stus]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 72 доби в камері смертників

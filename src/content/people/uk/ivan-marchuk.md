@@ -2,7 +2,6 @@
 name: Іван Марчук
 born: 1936-05-12
 living: true
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: visual-arts
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Марчук Іван Степанович
     url: https://uk.wikipedia.org/wiki/Марчук_Іван_Степанович
 related: [taras-shevchenko, kateryna-bilokur]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Картини з тонких ліній

@@ -2,7 +2,6 @@
 name: Роман Шухевич
 born: 1907-06-30
 died: 1950-03-05
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -36,7 +35,8 @@ sources:
   - title: Wikipedia (EN) - Roman Shukhevych
     url: https://en.wikipedia.org/wiki/Roman_Shukhevych
 related: [stepan-bandera, yevhen-konovalets, kateryna-zarytska]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Хто такий «Тарас Чупринка»?

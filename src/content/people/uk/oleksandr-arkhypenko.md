@@ -2,7 +2,6 @@
 name: Олександр Архипенко
 born: 1887-05-30
 died: 1964-02-25
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: visual-arts
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Архипенко Олександр Порфирович
     url: https://uk.wikipedia.org/wiki/Олександр_Архипенко
 related: [kateryna-bilokur, taras-shevchenko, ivan-franko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Скульптура з порожнечею

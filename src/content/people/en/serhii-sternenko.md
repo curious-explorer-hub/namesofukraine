@@ -10,7 +10,6 @@ key_accomplishments:
   - "From 22 January 2026, adviser to the defence minister on the use of drones at the front"
 birthplace_name: "Sadove, Odesa Oblast"
 image_alt: "Serhii Sternenko at a rally outside the Office of the President in Kyiv, August 2019"
-reviewed: true
 ---
 
 ## Hundreds of thousands of donations a month

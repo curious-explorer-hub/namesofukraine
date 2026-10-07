@@ -2,7 +2,6 @@
 name: Петро Яцик
 born: 1921-07-07
 died: 2001-11-01
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: civic
@@ -39,7 +38,8 @@ sources:
   - title: "Український інститут національної пам'яті - 7 липня 1921 року народився Петро Яцик"
     url: "https://uinp.gov.ua/istorychnyy-kalendar/lypen/7/1921-narodyvsya-petro-yacyk-biznesmen-mecenat-ta-filantrop-fundator-mizhnarodnogo-blagodiynogo-fondu-liga-ukrayinskyh-mecenativ"
 related: [mykhailo-hrushevskyi, iryna-farion]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Від посудомийника до мецената

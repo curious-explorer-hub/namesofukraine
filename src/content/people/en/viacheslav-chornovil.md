@@ -14,7 +14,6 @@ key_accomplishments:
   - "Runner-up in Ukraine’s first presidential election (1991); leader of Rukh"
 birthplace_name: "Yerky"
 image_alt: "Viacheslav Chornovil speaking at the Pochenkov coal mine in Makiivka, 1990s"
-reviewed: true
 ---
 
 ## The cell that was meant to break him

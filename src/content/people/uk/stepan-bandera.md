@@ -2,7 +2,6 @@
 name: Степан Бандера
 born: 1909-01-01
 died: 1959-10-15
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -30,7 +29,8 @@ sources:
   - title: Wikipedia (EN) - Stepan Bandera
     url: https://en.wikipedia.org/wiki/Stepan_Bandera
 related: [yevhen-konovalets, roman-shukhevych]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Одне прізвище, два значення

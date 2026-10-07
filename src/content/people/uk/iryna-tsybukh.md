@@ -2,7 +2,6 @@
 name: Ірина Цибух
 born: 1998-06-01
 died: 2024-05-29
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -35,7 +34,8 @@ sources:
   - title: Вікіпедія - Цибух Ірина Володимирівна
     url: https://uk.wikipedia.org/wiki/Цибух_Ірина_Володимирівна
 related: [roman-ratushnyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Прем'єра за день до війни

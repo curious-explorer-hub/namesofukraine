@@ -2,7 +2,6 @@
 name: В'ячеслав Брюховецький
 born: 1947-07-14
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -36,7 +35,8 @@ sources:
   - title: "Україна молода - «У день народження втечу на хутір - там помідори неполиті» (інтерв'ю, 13.07.2012)"
     url: "https://umoloda.kyiv.ua/number/169/0/75047"
 related: [lina-kostenko, mykola-zerov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## «Я починаю працювати ректором»

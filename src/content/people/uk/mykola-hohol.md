@@ -2,7 +2,6 @@
 name: Микола Гоголь
 born: 1809-04-01
 died: 1852-03-04
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 19th-century
 group: literature
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Гоголь Микола Васильович
     url: https://uk.wikipedia.org/wiki/Гоголь_Микола_Васильович
 related: [taras-shevchenko, mykola-lysenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Провал, а потім слава

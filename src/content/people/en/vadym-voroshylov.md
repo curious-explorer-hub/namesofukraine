@@ -12,7 +12,6 @@ key_accomplishments:
   - "Hero of Ukraine (decree No. 829/2022) and the Order for Courage, 3rd class (2022)"
 birthplace_name: "Kremenchuk"
 image_alt: "Vadym Voroshylov in a flight suit with a MiG-29 patch, December 2022"
-reviewed: true
 ---
 
 ## He never dreamed of the sky

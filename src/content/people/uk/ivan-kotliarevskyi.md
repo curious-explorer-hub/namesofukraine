@@ -2,7 +2,6 @@
 name: Іван Котляревський
 born: 1769-09-09
 died: 1838-11-10
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: imperial
 group: literature
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Котляревський Іван Петрович
     url: https://uk.wikipedia.org/wiki/Котляревський_Іван_Петрович
 related: [taras-shevchenko, hryhorii-skovoroda, mariia-zankovetska, mykola-lysenko, bohdan-stupka]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Книжка, яку видали без автора

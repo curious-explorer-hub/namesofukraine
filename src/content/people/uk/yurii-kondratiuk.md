@@ -3,7 +3,6 @@ name: Юрій Кондратюк
 born: 1897-06-21
 died: 1942-02-23
 died_circa: true # ЕСУ: загинув між 22 і 25 лютого 1942 року; точна дата невідома
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -39,7 +38,8 @@ sources:
   - title: Вікіпедія - Кондратюк Юрій Васильович
     url: https://uk.wikipedia.org/wiki/Кондратюк_Юрій_Васильович
 related: [serhii-korolov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як долетіти на Місяць, не тягнучи туди весь корабель?

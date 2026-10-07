@@ -2,7 +2,6 @@
 name: Назарій Гринцевич
 born: 2003-03-10
 died: 2024-05-06
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -32,7 +31,8 @@ sources:
   - title: "Українська правда - інтерв'ю з Назарієм Гринцевичем (2023)"
     url: "https://www.pravda.com.ua/articles/2023/08/3/7413772/"
 related: [oleksandr-matsiievskyi, vasyl-stus, denys-prokopenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## «Я - звичайний солдат»

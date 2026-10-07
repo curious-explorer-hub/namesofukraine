@@ -2,7 +2,6 @@
 name: Олесь Гончар
 born: 1918-04-03
 died: 1995-07-14
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -32,7 +31,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CH%5CO%5CHoncharOles.htm"
   - title: "Дніпропетровська обласна універсальна наукова бібліотека - Олесь Гончар"
     url: "https://library.dp.ua/?id=631"
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Собор, якого злякалася влада

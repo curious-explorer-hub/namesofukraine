@@ -2,7 +2,6 @@
 name: Андрей Шептицький
 born: 1865-07-29
 died: 1944-11-01
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: faith
@@ -34,7 +33,8 @@ sources:
   - title: Wikipedia (EN) - Andrey Sheptytsky
     url: https://en.wikipedia.org/wiki/Andrey_Sheptytsky
 related: [ivan-franko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як граф Роман став митрополитом Андреєм

@@ -2,7 +2,6 @@
 name: Сергій Стерненко
 born: 1995-03-20
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -34,7 +33,7 @@ sources:
   - title: Вікіпедія - Стерненко Сергій В'ячеславович
     url: https://uk.wikipedia.org/wiki/Стерненко_Сергій_В'ячеславович
 related: []
-reviewed: true
+status: draft
 ---
 
 ## Сотні тисяч донатів на місяць

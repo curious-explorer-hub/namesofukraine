@@ -13,7 +13,6 @@ key_accomplishments:
   - "Teacher and organizer of the choral movement in Ukraine"
 birthplace_name: "Monastyrok"
 image_alt: "Mykola Leontovych in uniform with an order, a photograph from before 1921"
-reviewed: true
 ---
 
 ## More than 150 versions of one song

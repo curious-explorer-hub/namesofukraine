@@ -2,7 +2,6 @@
 name: Григорій Сковорода
 born: 1722-12-03
 died: 1794-11-09
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: cossack
 group: literature
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Сковорода Григорій Савич
     url: https://uk.wikipedia.org/wiki/Григорій_Сковорода
 related: [ivan-franko, taras-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чому вчитель пішов з колегіуму в мандри?

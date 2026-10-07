@@ -2,7 +2,6 @@
 name: Катерина Поліщук
 born: 2001-03-31
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -36,7 +35,7 @@ sources:
   - title: Вікіпедія - Поліщук Катерина Олександрівна
     url: https://uk.wikipedia.org/wiki/Поліщук_Катерина_Олександрівна
 related: []
-reviewed: true
+status: draft
 ---
 
 ## Пісні в бомбосховищі

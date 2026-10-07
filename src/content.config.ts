@@ -26,7 +26,6 @@ const people = defineCollection({
         died: z.coerce.date().optional(),
         died_circa: z.boolean().default(false), // exact death date unknown → shown as "бл. <year>"
         living: z.boolean().default(false),
-        added: z.coerce.date(), // date published on the site — drives the "new additions" feed
         last_reviewed: z.coerce.date(),
         era: z.enum(ids(eras)),
         group: z.enum(ids(categories.groups)), // one per person — home-page section
@@ -62,9 +61,13 @@ const people = defineCollection({
         gallery: z.array(z.object({ src: image(), caption: z.string(), ...credit })).default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),
-        reviewed: z.boolean().default(false),
+        // Every new profile starts as a draft: in the repo, never on the site. The owner approves it after
+        // review (`npm run approve <slug>`), which stamps `published`; that time orders "new additions".
+        status: z.enum(['draft', 'approved']).default('draft'),
+        published: z.coerce.date().optional(),
       })
-      .refine((p) => p.living || p.died, { message: 'Set `died` or `living: true`' }),
+      .refine((p) => p.living || p.died, { message: 'Set `died` or `living: true`' })
+      .refine((p) => p.status !== 'approved' || p.published, { message: 'An approved profile needs `published`' }),
 });
 
 // English translations hold only the text that is translated; dates, places, group, sources, and
@@ -81,7 +84,6 @@ const people_en = defineCollection({
     key_accomplishments: z.array(z.string()).min(1),
     birthplace_name: z.string(),
     image_alt: z.string().optional(),
-    reviewed: z.boolean().default(false),
   }),
 });
 

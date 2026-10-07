@@ -2,7 +2,6 @@
 name: Олексій Месь
 born: 1993-10-20
 died: 2024-08-26
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -35,7 +34,7 @@ sources:
   - title: "Objectiv - Стало відомо, які вулиці у Харкові назвали на честь загиблих пілотів (02.07.2025)"
     url: "https://www.objectiv.tv/uk/objectively/2025/07/02/stalo-vidomo-yaki-vulitsi-u-harkovi-nazvali-na-chest-zagiblih-pilotiv/"
 related: [andrii-pilshchykov]
-reviewed: true
+status: draft
 ---
 
 ## Двоє з одного випуску

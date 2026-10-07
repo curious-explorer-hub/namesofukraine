@@ -3,7 +3,6 @@ name: Дмитро Вишневецький (Байда)
 born: 1516-01-01
 born_circa: true
 died: 1563-10-29
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: lithuanian-polish
 group: statehood
@@ -38,7 +37,8 @@ sources:
   - title: Вікіпедія - Дмитро Вишневецький
     url: https://uk.wikipedia.org/wiki/Дмитро_Вишневецький
 related: [petro-sahaidachnyi, bohdan-khmelnytskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Сім фортець на одному острові

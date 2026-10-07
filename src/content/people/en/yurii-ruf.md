@@ -11,7 +11,6 @@ key_accomplishments:
   - "Candidate of Technical Sciences (2008) and associate professor in the sawmilling technology department of the Ukrainian National Forestry University"
   - "Order for Courage, 3rd class (posthumously, decree No. 334/2022 of 14 May 2022)"
 birthplace_name: "Berezhany"
-reviewed: true
 ---
 
 ## Who was Yurii Ruf?

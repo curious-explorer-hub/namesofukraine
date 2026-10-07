@@ -2,7 +2,6 @@
 name: Нестор Махно
 born: 1888-11-07
 died: 1934-07-25
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -37,7 +36,8 @@ sources:
   - title: Wikipedia (EN) - Nestor Makhno
     url: https://en.wikipedia.org/wiki/Nestor_Makhno
 related: [symon-petliura, pavlo-skoropadskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Вирок, який замінили каторгою

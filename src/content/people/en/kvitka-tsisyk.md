@@ -13,7 +13,6 @@ key_accomplishments:
   - "The albums Kvitka: Songs of Ukraine (1980) and Two Colors (1989)"
 birthplace_name: "Queens, New York"
 image_alt: "Kvitka Cisyk at a filming in Denver, 1989"
-reviewed: true
 ---
 
 ## Whose voice is in the Oscar-winning song?

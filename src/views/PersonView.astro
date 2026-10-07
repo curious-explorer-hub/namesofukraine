@@ -1,5 +1,4 @@
 ---
-import { render } from 'astro:content';
 import { getImage } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PersonCard from '../components/PersonCard.astro';
@@ -27,7 +26,13 @@ interface Props {
 
 const { person, people } = Astro.props;
 const { data, lang } = person;
-const { Content } = await render(person.body);
+// The long bio as rendered HTML. A link to someone not published in this build (a draft) becomes plain
+// text, so the site never links to a page that doesn't exist.
+const published = new Set(people.map((p) => p.slug));
+const bio = (person.body.rendered?.html ?? '').replace(
+  /<a href="\/(?:uk|en)\/people\/([^/"]+)\/">(.*?)<\/a>/g,
+  (link, slug, text) => (published.has(slug) ? link : text),
+);
 // Only link related people that are published in this build.
 const related = data.related
   .map((slug) => people.find((p) => p.slug === slug))
@@ -118,7 +123,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
 
       {person.bodyFallback && <p class="translation-note">{t('person.translation_pending', lang)}</p>}
       <div class="prose" lang={person.bodyFallback ? 'uk' : undefined}>
-        <Content />
+        <Fragment set:html={bio} />
       </div>
 
       <footer class="profile-sources" data-read-end>

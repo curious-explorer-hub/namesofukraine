@@ -2,7 +2,6 @@
 name: Віталій Скакун
 born: 1996-08-19
 died: 2022-02-24
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -30,7 +29,7 @@ sources:
   - title: "АрміяInform - «Відходь, я підірву міст разом із собою»: історія подвигу Героя України Віталія Скакуна (24.02.2023)"
     url: "https://armyinform.com.ua/2023/02/24/vidhod-ya-pidirvu-mist-razom-iz-soboyu-istoriya-podvygu-v-pershi-dni-vtorgnennya-geroya-ukrayiny-vitaliya-skakuna/"
 related: []
-reviewed: true
+status: draft
 ---
 
 ## Зварювальник, програміст, сапер

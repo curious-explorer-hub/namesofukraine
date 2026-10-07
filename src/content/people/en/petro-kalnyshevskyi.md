@@ -12,7 +12,6 @@ key_accomplishments:
   - "Canonized by the Ukrainian Orthodox Church of the Kyiv Patriarchate as the Righteous Petro the Long-Suffering (2008)"
 birthplace_name: "Pustoviitivka"
 image_alt: "Petro Kalnyshevskyi, detail of an old icon by an unknown artist"
-reviewed: true
 ---
 
 ## Otaman in defiance of an empress

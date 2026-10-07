@@ -11,7 +11,6 @@ key_accomplishments:
   - "Taras Shevchenko State Prize of Ukraine (1988, posthumously)"
 birthplace_name: "Chortoryia"
 image_alt: "Photo portrait of Ivan Mykolaichuk"
-reviewed: true
 ---
 
 ## Two great roles in one year

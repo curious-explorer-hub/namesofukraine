@@ -2,7 +2,6 @@
 name: Ілля Рєпін
 born: 1844-08-05
 died: 1930-09-29
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 19th-century
 group: visual-arts
@@ -37,7 +36,8 @@ sources:
   - title: "Hyperallergic - Vartan Matiossian, The Met Shouldn't Have Reclassified Ivan Aivazovsky as \"Ukrainian\" (21.02.2023)"
     url: "https://hyperallergic.com/met-museum-shouldnt-have-reclassified-ivan-aivazovsky-as-ukrainian"
 related: [ivan-sirko, taras-shevchenko, mykola-hohol]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Один лист - одинадцять років роботи

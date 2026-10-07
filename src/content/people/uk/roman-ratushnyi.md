@@ -2,7 +2,6 @@
 name: Роман Ратушний
 born: 1997-07-05
 died: 2022-06-09
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -34,7 +33,8 @@ sources:
   - title: "Еспресо - «Чорний квадрат» Малевича на аватарках: флешмоб на підтримку Ратушного (2021)"
     url: "https://espreso.tv/chorniy-kvadrat-malevicha-na-avatarkakh-rozpochavsya-fleshmob-proti-prokuraturi-ta-politsii-cherez-pidozri-uchasnikam-aktsii-pid-opu"
 related: [viacheslav-chornovil, kazymyr-malevych, iryna-tsybukh]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чому «Сенека»?

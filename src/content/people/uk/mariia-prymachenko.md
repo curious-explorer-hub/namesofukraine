@@ -2,7 +2,6 @@
 name: Марія Примаченко
 born: 1909-01-12
 died: 1997-08-18
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: 20th-century
 group: visual-arts
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Примаченко Марія Оксентіївна
     url: https://uk.wikipedia.org/wiki/Примаченко_Марія_Оксентіївна
 related: [kateryna-bilokur]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чи справді Пікассо схилявся перед нею?

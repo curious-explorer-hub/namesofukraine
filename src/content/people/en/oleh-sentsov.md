@@ -12,7 +12,6 @@ key_accomplishments:
   - "After the full-scale invasion, joined the army: from 2023 an officer of the 47th Separate Mechanized Brigade, from September 2025 a battalion commander"
 birthplace_name: "Simferopol"
 image_alt: "Oleh Sentsov speaking at the Unity Forum in Mariupol, October 2019"
-reviewed: true
 ---
 
 ## 145 days

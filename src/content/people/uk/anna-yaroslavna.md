@@ -4,7 +4,6 @@ born: 1025-01-01
 born_circa: true
 died: 1075-01-01
 died_circa: true
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: kyivan-rus
 group: statehood
@@ -39,7 +38,8 @@ sources:
   - title: Вікіпедія - Анна Ярославна
     url: https://uk.wikipedia.org/wiki/Анна_Ярославна
 related: [yaroslav-mudryi, volodymyr-velykyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Навіщо французькому королю наречена з Києва?

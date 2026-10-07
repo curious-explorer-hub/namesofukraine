@@ -2,7 +2,6 @@
 name: Катерина Зарицька
 born: 1914-11-03
 died: 1986-08-29
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -36,7 +35,7 @@ sources:
   - title: Вікіпедія - Зарицька Катерина Миронівна
     url: https://uk.wikipedia.org/wiki/Катерина_Зарицька
 related: [roman-shukhevych, stepan-bandera]
-reviewed: true
+status: draft
 ---
 
 ## Вітання з вікна пральні

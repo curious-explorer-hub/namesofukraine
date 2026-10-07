@@ -11,7 +11,6 @@ key_accomplishments:
   - "UNESCO declared 2009 the Year of Mariia Prymachenko"
 birthplace_name: "Bolotnia"
 image_alt: "Photographic portrait of Mariia Prymachenko"
-reviewed: true
 ---
 
 ## Did Picasso really bow before her?

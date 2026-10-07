@@ -2,7 +2,6 @@
 name: Василь Сухомлинський
 born: 1918-09-28
 died: 1970-09-02
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -33,7 +32,8 @@ sources:
     url: "https://eduglos.iitta.gov.ua/index.php/%D0%A1%D1%83%D1%85%D0%BE%D0%BC%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
   - title: "Державна науково-педагогічна бібліотека України ім. В. О. Сухомлинського - Біографія В. О. Сухомлинського"
     url: "https://dnpb.gov.ua/informatsiyno-bibliohrafichni-resursy/vydatni-pedahohy/sukhomlynskyy-v-o/biohrafiya/"
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Книжка, яку спершу видали в Німеччині

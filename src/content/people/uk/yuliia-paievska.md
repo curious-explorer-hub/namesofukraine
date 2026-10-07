@@ -2,7 +2,6 @@
 name: Юлія Паєвська
 born: 1968-12-19
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -36,7 +35,7 @@ sources:
   - title: Вікіпедія - Паєвська Юлія Георгіївна
     url: https://uk.wikipedia.org/wiki/Паєвська_Юлія_Георгіївна
 related: []
-reviewed: true
+status: draft
 ---
 
 ## Камера для Netflix

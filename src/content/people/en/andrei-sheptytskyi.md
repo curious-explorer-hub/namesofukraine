@@ -14,7 +14,6 @@ key_accomplishments:
   - "Sheltered Jews in Greek Catholic monasteries during the Holocaust"
 birthplace_name: "Prylbychi"
 image_alt: "Photograph of Metropolitan Andrei Sheptytskyi"
-reviewed: true
 ---
 
 ## How Count Roman became Metropolitan Andrei

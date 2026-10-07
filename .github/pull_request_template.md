@@ -8,7 +8,7 @@
 - [ ] Ukrainian and English say the same thing
 - [ ] Images: public domain, a free license, or written permission (stated below)
 - [ ] `npm run check`, `npm test` and `npm run test:e2e` pass
-- [ ] New profiles have `reviewed: false` (the reviewer sets it)
+- [ ] New profiles have `status: draft` (the owner approves them)
 
 ## Image licence or permission
 

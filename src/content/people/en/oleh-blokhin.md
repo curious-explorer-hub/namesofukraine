@@ -12,7 +12,6 @@ key_accomplishments:
   - "Head coach of Ukraine (2003–2007): the country's first World Cup (2006) and a quarterfinal"
 birthplace_name: "Kyiv"
 image_alt: "Oleh Blokhin at the Dynamo stadium, 2013"
-reviewed: true
 ---
 
 ## 211

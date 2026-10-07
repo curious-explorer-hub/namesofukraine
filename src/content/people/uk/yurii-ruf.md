@@ -2,7 +2,6 @@
 name: Юрій Руф
 born: 1980-09-26
 died: 2022-04-01
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -30,7 +29,8 @@ sources:
   - title: "Главком - У боях на Луганщині загинув письменник Юрій Руф"
     url: "https://glavcom.ua/country/incidents/u-boyah-na-luganshchini-zaginuv-pismennik-yuriy-ruf-835116.html"
 related: [maksym-kryvtsov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Хто такий Юрій Руф?

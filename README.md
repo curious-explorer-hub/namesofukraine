@@ -10,8 +10,8 @@ Requires Node 22 (`.nvmrc`).
 
 ```sh
 npm install
-npm run dev      # http://localhost:4321 — shows unreviewed entries too
-npm run build    # production build → dist/ (reviewed entries only)
+npm run dev      # http://localhost:4321 — shows drafts too
+npm run build    # production build → dist/ (approved profiles only)
 npm run check    # type + content schema check
 npm test         # unit + DOM tests (Vitest)
 ```
@@ -19,7 +19,7 @@ npm test         # unit + DOM tests (Vitest)
 Add a person:
 1. `src/content/people/uk/<slug>.md` — all facts plus the Ukrainian text (see `taras-shevchenko.md`; schema in `src/content.config.ts`).
 2. `src/content/people/en/<slug>.md` — English text only (name, role, summary, fun fact, accomplishments, birthplace name, image alt). The Markdown body (long bio) is optional; until it's written, the English page shows the Ukrainian original with a note.
-3. Set `reviewed: true` in **both** files only after fact-checking; a profile is published only when both languages are reviewed.
+3. Leave `status: draft` (the default). The owner reads the draft in `npm run dev` and publishes it with `npm run approve -- <slug>`, which stamps the publish time.
 
 Pages exist in both languages at the same depth: Ukrainian under `/uk/`, English under `/en/` (e.g. `/uk/people/ivan-marchuk/`). The bare root `/` redirects to `/uk/`. Page layouts live in `src/views/`; the files in `src/pages/uk/` and `src/pages/en/` are thin wrappers.
 

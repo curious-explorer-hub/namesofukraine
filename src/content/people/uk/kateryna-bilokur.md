@@ -2,7 +2,6 @@
 name: Катерина Білокур
 born: 1900-12-07
 died: 1961-06-09
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: visual-arts
@@ -31,7 +30,8 @@ sources:
   - title: Вікіпедія - Білокур Катерина Василівна
     url: https://uk.wikipedia.org/wiki/Катерина_Білокур
 related: [taras-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чому її не взяли вчитися?

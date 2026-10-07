@@ -14,7 +14,6 @@ key_accomplishments:
   - "The books From Cubism to Suprematism (1916) and Suprematism (1920)"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Kazimir Malevich, c. 1925"
-reviewed: true
 ---
 
 ## The square that changed art

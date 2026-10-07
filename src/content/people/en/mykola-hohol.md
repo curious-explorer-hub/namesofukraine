@@ -13,7 +13,6 @@ key_accomplishments:
   - "The story The Overcoat (1842), which influenced world literature"
 birthplace_name: "Velyki Sorochyntsi"
 image_alt: "Portrait of Nikolai Gogol by Fyodor Moller, 1840"
-reviewed: true
 ---
 
 ## A flop, then fame

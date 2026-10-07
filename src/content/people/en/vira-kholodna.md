@@ -14,7 +14,6 @@ key_accomplishments:
   - "Surviving films include Children of the Age, Mirages and A Life for a Life"
 birthplace_name: "Poltava"
 image_alt: "Photograph of Vira Kholodna, 1910s"
-reviewed: true
 ---
 
 ## Where did the name “Kholodna” come from?

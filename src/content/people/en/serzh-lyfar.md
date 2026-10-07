@@ -14,7 +14,6 @@ key_accomplishments:
   - "Founded the Institute of Choreography at the Paris Opera (1947)"
 birthplace_name: "Pyrohiv (now part of Kyiv)"
 image_alt: "Serge Lifar at a rehearsal of the Netherlands Ballet (Nederlands Ballet), photo, 1961"
-reviewed: true
 ---
 
 ## How a Kyiv boy came to lead the Paris ballet

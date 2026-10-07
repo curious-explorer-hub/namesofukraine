@@ -11,7 +11,6 @@ key_accomplishments:
   - "Alliance with the Ottoman Empire, approved by a Cossack council in Korsun (1669)"
 birthplace_name: "Chyhyryn"
 image_alt: "Portrait of Petro Doroshenko holding a mace, 19th century"
-reviewed: true
 ---
 
 ## A country cut in two

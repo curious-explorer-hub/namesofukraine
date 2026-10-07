@@ -2,7 +2,6 @@
 name: Олег Блохін
 born: 1952-11-05
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: sport
@@ -34,7 +33,8 @@ sources:
   - title: "FIFA - Tymoshchuk: Swiss shoot-out was a highlight (30.05.2016)"
     url: "https://inside.fifa.com/news/tymoshchuk-swiss-shoot-out-was-a-highlight-2792750"
 related: [valerii-lobanovskyi, andrii-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 211

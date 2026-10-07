@@ -2,7 +2,6 @@
 name: Дмитро Коцюбайло
 born: 1995-11-01
 died: 2023-03-07
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Коцюбайло Дмитро Іванович
     url: https://uk.wikipedia.org/wiki/Коцюбайло_Дмитро_Іванович
 related: [andrii-pilshchykov, valerii-chybinieiev, nazarii-hryntsevych]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чому «Да Вінчі»?

@@ -12,7 +12,6 @@ key_accomplishments:
   - "Illustrations for Nikolai Gogol’s Taras Bulba (1872) and for Dmytro Yavornytskyi’s book on the Zaporozhian Cossacks (1888)"
 birthplace_name: "Chuhuiv"
 image_alt: "Ilya Repin’s self-portrait (1887), turned into a photo-like image with AI"
-reviewed: true
 ---
 
 ## One letter, eleven years of work

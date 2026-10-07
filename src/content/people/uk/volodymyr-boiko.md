@@ -2,7 +2,6 @@
 name: Володимир Бойко
 born: 1938-09-20
 died: 2015-06-10
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -34,7 +33,8 @@ sources:
   - title: "Економічна правда - Продавши «Ілліча», Бойко став доларовим мільярдером (30.06.2011)"
     url: "https://epravda.com.ua/news/2011/06/30/290399/"
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Від трубопровідника до директора

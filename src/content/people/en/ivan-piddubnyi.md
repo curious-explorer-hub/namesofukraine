@@ -14,7 +14,6 @@ key_accomplishments:
   - "Honored Artist of the RSFSR (1939) and Honored Master of Sport of the USSR (1945)"
 birthplace_name: "Krasenivka"
 image_alt: "Photograph of Ivan Piddubnyi with a champion’s sash, postcard, before 1917"
-reviewed: true
 ---
 
 ## How a port loader became the “Champion of Champions”

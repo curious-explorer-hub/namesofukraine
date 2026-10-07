@@ -11,7 +11,6 @@ key_accomplishments:
   - "People’s Artist of the Republic (1925; the title was revoked in 1933 and restored in 1991)"
 birthplace_name: "Sambir"
 image_alt: "Photographic portrait of Les Kurbas, before 1923"
-reviewed: true
 ---
 
 ## How do you make Ukrainian theater European?

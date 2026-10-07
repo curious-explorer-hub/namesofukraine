@@ -14,7 +14,6 @@ key_accomplishments:
   - "Built the Church of the Tithes in Kyiv (996), the first monumental masonry church of Rus’"
 birthplace_name: "Unknown"
 image_alt: "Imagined portrait of Prince Volodymyr the Great, an illustration from Mykola Arkas’s History of Ukraine-Rus’, 1912"
-reviewed: true
 ---
 
 ## Where does the trident come from?

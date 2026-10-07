@@ -2,7 +2,6 @@
 name: Михайло Грушевський
 born: 1866-09-29
 died: 1934-11-24
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Грушевський Михайло Сергійович
     url: https://uk.wikipedia.org/wiki/Грушевський_Михайло_Сергійович
 related: [ivan-franko, volodymyr-vernadskyi, pavlo-skoropadskyi, symon-petliura, volodymyr-vynnychenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чия це історія?

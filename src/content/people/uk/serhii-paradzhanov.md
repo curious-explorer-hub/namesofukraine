@@ -2,7 +2,6 @@
 name: Сергій Параджанов
 born: 1924-01-09
 died: 1990-07-20
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Параджанов Сергій Йосипович
     url: https://uk.wikipedia.org/wiki/Сергій_Параджанов
 related: [vasyl-stus, mykhailo-kotsiubynskyi, ivan-mykolaichuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Вірменин з Тбілісі на київській кіностудії

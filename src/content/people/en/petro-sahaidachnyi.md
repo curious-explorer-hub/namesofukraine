@@ -14,7 +14,6 @@ key_accomplishments:
   - "Joined the Kyiv Brotherhood with the entire Zaporozhian Host; helped restore the Orthodox hierarchy (1620)"
 birthplace_name: "Kulchytsi"
 image_alt: "Portrait of Petro Konashevych-Sahaidachnyi by Havrylo Vasko, mid-19th century"
-reviewed: true
 ---
 
 ## The raid on Kaffa

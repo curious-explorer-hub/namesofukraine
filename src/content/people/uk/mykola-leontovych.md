@@ -2,7 +2,6 @@
 name: Микола Леонтович
 born: 1877-12-13
 died: 1921-01-23
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -33,7 +32,8 @@ sources:
   - title: Wikipedia (EN) - Mykola Leontovych
     url: https://en.wikipedia.org/wiki/Mykola_Leontovych
 related: [mykola-lysenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Понад 150 переробок однієї щедрівки

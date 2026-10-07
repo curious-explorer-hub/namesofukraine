@@ -2,7 +2,6 @@
 name: Любомир Гузар
 born: 1933-02-26
 died: 2017-05-31
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: faith
@@ -36,7 +35,8 @@ sources:
   - title: Wikipedia (EN) - Liubomyr Huzar
     url: https://en.wikipedia.org/wiki/Liubomyr_Huzar
 related: [andrei-sheptytskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Єпископ під виглядом туриста

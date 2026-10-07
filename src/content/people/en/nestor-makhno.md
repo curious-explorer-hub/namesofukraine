@@ -11,7 +11,6 @@ key_accomplishments:
   - "Commander of the Revolutionary Insurgent Army of Ukraine (the Makhnovists), which in 1919 controlled a large part of southern and Left-Bank Ukraine"
 birthplace_name: "Huliaipole"
 image_alt: "Nestor Makhno in an internment camp in Romania, 1921"
-reviewed: true
 ---
 
 ## A death sentence turned into hard labor

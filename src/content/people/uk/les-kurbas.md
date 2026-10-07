@@ -2,7 +2,6 @@
 name: Лесь Курбас
 born: 1887-02-25
 died: 1937-11-03
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -34,7 +33,8 @@ sources:
   - title: "Велика українська енциклопедія - Курбас, Лесь"
     url: "https://vue.gov.ua/%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D1%81,_%D0%9B%D0%B5%D1%81%D1%8C"
 related: [oleksandr-dovzhenko, lesya-ukrainka, mykola-khvylovyi, ostap-vyshnia, mykola-zerov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як зробити український театр європейським?

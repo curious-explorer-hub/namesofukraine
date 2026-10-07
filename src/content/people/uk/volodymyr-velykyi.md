@@ -3,7 +3,6 @@ name: Володимир Великий
 born: 0958-01-01
 born_circa: true
 died: 1015-07-15
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: kyivan-rus
 group: statehood
@@ -38,7 +37,8 @@ sources:
   - title: "Укрінформ - Сьогодні відзначають День Української Державності (15.07.2025)"
     url: "https://www.ukrinform.ua/rubric-society/4014918-sogodni-vidznacaut-den-ukrainskoi-derzavnosti.html"
 related: [yaroslav-mudryi, kniahynia-olha, anna-yaroslavna]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Звідки на гербі тризуб?

@@ -11,7 +11,6 @@ key_accomplishments:
   - "Made Baturyn the capital again; planned to found a university in Baturyn"
 birthplace_name: "Lemeshi"
 image_alt: "Kyrylo Rozumovskyi with the hetman’s mace, portrait by Louis Tocqué, 1758 (Tretyakov Gallery)"
-reviewed: true
 ---
 
 ## How a Cossack’s son became a count

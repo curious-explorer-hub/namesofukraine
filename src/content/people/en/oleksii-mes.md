@@ -13,7 +13,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, decree No. 165/2025)"
 birthplace_name: "Shepetivka"
 image_alt: "Oleksii Mes in a fighter cockpit, 2019"
-reviewed: true
 ---
 
 ## Two from the same class

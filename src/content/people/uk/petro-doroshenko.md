@@ -3,7 +3,6 @@ name: Петро Дорошенко
 born: 1627-01-01
 born_circa: true
 died: 1698-11-19
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -31,7 +30,7 @@ sources:
   - title: Вікіпедія - Петро Дорошенко
     url: https://uk.wikipedia.org/wiki/Петро_Дорошенко
 related: [bohdan-khmelnytskyi, ivan-vyhovskyi, ivan-sirko]
-reviewed: true
+status: draft
 ---
 
 ## Країна, розрізана навпіл

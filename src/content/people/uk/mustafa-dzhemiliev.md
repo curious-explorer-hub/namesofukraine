@@ -2,7 +2,6 @@
 name: Мустафа Джемілєв
 born: 1943-11-13
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: civic
@@ -36,7 +35,8 @@ sources:
   - title: "Радіо Свобода - Мустафі Джемілєву присвоїли звання Героя України (13 листопада 2023)"
     url: "https://www.radiosvoboda.org/a/news-dzhemiliev-heroi-ukrainy/32682987.html"
 related: [oleh-sentsov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Вигнаний двічі

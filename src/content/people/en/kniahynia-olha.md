@@ -15,7 +15,6 @@ key_accomplishments:
   - "Around 959 sent an embassy to the German king Otto I"
 birthplace_name: "Unknown (according to the chronicle, Pleskov)"
 image_alt: "Saint Olha, an icon from c. 1700 (detail)"
-reviewed: true
 ---
 
 ## More than revenge

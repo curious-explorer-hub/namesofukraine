@@ -3,7 +3,6 @@ name: Іван Сірко
 born: 1618-01-01
 born_circa: true
 died: 1680-08-11
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -39,7 +38,8 @@ sources:
   - title: Вікіпедія - Іван Сірко
     url: https://uk.wikipedia.org/wiki/Іван_Сірко
 related: [ivan-bohun, bohdan-khmelnytskyi, petro-kalnyshevskyi, ivan-vyhovskyi, petro-doroshenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Дві тисячі людей на волю

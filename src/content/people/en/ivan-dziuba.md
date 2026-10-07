@@ -12,7 +12,6 @@ key_accomplishments:
   - "The monograph Taras Shevchenko: Life and Work (2005); Shevchenko National Prize (1991), Hero of Ukraine (2001)"
 birthplace_name: "Mykolaivka"
 image_alt: "Ivan Dziuba, 2004"
-reviewed: true
 ---
 
 ## 800 seats, and a few dozen who stood up

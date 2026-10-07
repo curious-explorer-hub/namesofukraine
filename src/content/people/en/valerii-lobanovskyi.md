@@ -14,7 +14,6 @@ key_accomplishments:
   - "Champions League semi-final with Dynamo in 1999"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Valeriy Lobanovskyi"
-reviewed: true
 ---
 
 ## A forward with an engineering degree

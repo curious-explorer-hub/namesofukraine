@@ -2,7 +2,6 @@
 name: Микола Хвильовий
 born: 1893-12-13
 died: 1933-05-13
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -31,7 +30,8 @@ sources:
   - title: Вікіпедія - Микола Хвильовий
     url: https://uk.wikipedia.org/wiki/Микола_Хвильовий
 related: [vasyl-stus, les-kurbas, ostap-vyshnia, mykola-zerov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Гасло, яке помітив Сталін

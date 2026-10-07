@@ -11,7 +11,6 @@ key_accomplishments:
   - "First president of the League of Ukrainian Patrons"
 birthplace_name: "Verkhnie Synovydne"
 image_alt: "Photographic portrait of Petro Yatsyk"
-reviewed: true
 ---
 
 ## From dishwasher to patron

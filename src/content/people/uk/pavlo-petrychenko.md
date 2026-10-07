@@ -2,7 +2,6 @@
 name: Павло Петриченко
 born: 1992-04-16
 died: 2024-04-15
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -35,7 +34,8 @@ sources:
   - title: "Главком - Гераскевич звернувся до українців після дискваліфікації на Олімпіаді (2026)"
     url: "https://glavcom.ua/sport/news/heraskevich-zvernuvsja-do-ukrajintsiv-pislja-diskvalifikatsiji-na-olimpiadi-1102639.html"
 related: [roman-ratushnyi, serhii-sternenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 25 тисяч підписів за добу

@@ -2,7 +2,6 @@
 name: Віра Холодна
 born: 1893-08-05
 died: 1919-02-16
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -36,7 +35,8 @@ sources:
   - title: Вікіпедія - Холодна Віра Василівна
     url: https://uk.wikipedia.org/wiki/Холодна_Віра_Василівна
 related: [mariia-zankovetska]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Звідки взялося прізвище «Холодна»?

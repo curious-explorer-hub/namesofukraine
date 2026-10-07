@@ -12,7 +12,6 @@ key_accomplishments:
   - "A crater on the far side of the Moon bears his name; inducted into the International Space Hall of Fame (New Mexico, USA) in 2014"
 birthplace_name: "Poltava"
 image_alt: "Yurii Kondratiuk, photograph from 1941"
-reviewed: true
 ---
 
 ## How do you get to the Moon without hauling the whole ship there and back?

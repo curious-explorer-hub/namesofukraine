@@ -12,7 +12,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, Decree No. 127/2022)"
 birthplace_name: "Kryvyi Rih"
 image_alt: "Inna Derusova in uniform, holding the Defender of the Motherland Medal"
-reviewed: true
 ---
 
 ## “They loved her and called her Mom”

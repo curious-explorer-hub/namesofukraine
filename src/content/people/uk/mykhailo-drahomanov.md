@@ -2,7 +2,6 @@
 name: Михайло Драгоманов
 born: 1841-09-30
 died: 1895-07-02
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 19th-century
 group: civic
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Драгоманов Михайло Петрович
     url: https://uk.wikipedia.org/wiki/Драгоманов_Михайло_Петрович
 related: [lesya-ukrainka, ivan-franko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Викладача звільнили. Що далі?

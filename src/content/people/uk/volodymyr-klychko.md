@@ -2,7 +2,6 @@
 name: Володимир Кличко
 born: 1976-03-25
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: sport
@@ -33,7 +32,8 @@ sources:
   - title: "Al Jazeera - Klitschko brothers vow to defend Ukraine from Russia 'aggression' (3 лютого 2022)"
     url: "https://www.aljazeera.com/news/2022/2/3/klitschko-brothers-pledge-to-defend-kyiv-from-russian-aggression"
 related: [vitalii-klychko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Медаль, яка повернулася

@@ -2,7 +2,6 @@
 name: Василь Вірастюк
 born: 1974-04-22
 living: true
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: independence
 group: sport
@@ -34,7 +33,8 @@ sources:
   - title: "hromadske - Вірастюк склав присягу у Верховній Раді (2021)"
     url: "https://hromadske.ua/posts/virastyuk-sklav-prisyagu-u-verhovnij-radi-pid-viguki-ganba"
 related: [ivan-piddubnyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Сто тонн на тросі

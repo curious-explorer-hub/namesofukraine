@@ -2,7 +2,6 @@
 name: Валерій Лобановський
 born: 1939-01-06
 died: 2002-05-13
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: sport
@@ -32,7 +31,8 @@ sources:
   - title: Wikipedia (EN) - Valeriy Lobanovskyi
     url: https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi
 related: [andrii-shevchenko, oleh-blokhin]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Нападник з інженерним дипломом

@@ -12,7 +12,6 @@ key_accomplishments:
   - "Borys Hrinchenko Prize (2008) and Ivan Ohiienko Prize (2016)"
 birthplace_name: "Lviv"
 image_alt: "Portrait of a smiling Iryna Farion at the Second Bandera Readings, 2015"
-reviewed: true
 ---
 
 ## Language on posters

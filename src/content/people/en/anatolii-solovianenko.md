@@ -11,7 +11,6 @@ key_accomplishments:
   - "People’s Artist of the USSR (1975), Shevchenko Prize (1997), Hero of Ukraine (2008, posthumously, Decree No. 615/2008)"
 birthplace_name: "Stalino (now Donetsk)"
 image_alt: "Anatolii Solovianenko: a photo from Soviet Life (1984) turned by AI into a photo-like image"
-reviewed: true
 ---
 
 ## The engineer who sang

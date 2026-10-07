@@ -2,7 +2,6 @@
 name: Петро Болбочан
 born: 1883-10-17
 died: 1919-06-28
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -35,7 +34,7 @@ sources:
   - title: Вікіпедія - Болбочан Петро Федорович
     url: https://uk.wikipedia.org/wiki/Петро_Болбочан
 related: [symon-petliura, pavlo-skoropadskyi]
-reviewed: true
+status: draft
 ---
 
 ## Двадцять козаків на дрезині

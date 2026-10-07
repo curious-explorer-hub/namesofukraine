@@ -2,7 +2,6 @@
 name: Сергій Бубка
 born: 1963-12-04
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: sport
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Бубка Сергій Назарович
     url: https://uk.wikipedia.org/wiki/Бубка_Сергій_Назарович
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Шість метрів

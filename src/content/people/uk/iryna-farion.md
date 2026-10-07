@@ -2,7 +2,6 @@
 name: Ірина Фаріон
 born: 1964-04-29
 died: 2024-07-19
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -37,7 +36,8 @@ sources:
   - title: "ZAXID.NET - У Львові офіційно відкрили вулицю Ірини Фаріон (1.01.2025)"
     url: "https://zaxid.net/u_lvovi_ofitsiyno_vidkrili_vulitsyu_irini_farion_n1600903"
 related: [stepan-bandera, petro-yatsyk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Мова на плакатах

@@ -14,7 +14,6 @@ key_accomplishments:
   - "Founder of mosques, a women’s hospital, schools and soup kitchens for the poor in Istanbul, Edirne, Jerusalem, Mecca and Medina"
 birthplace_name: "Rohatyn (by tradition)"
 image_alt: "Imagined portrait of Roksolana by an unknown artist, 16th century"
-reviewed: true
 ---
 
 ## How does a slave become a sultana?

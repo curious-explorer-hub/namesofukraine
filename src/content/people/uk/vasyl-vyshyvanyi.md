@@ -2,7 +2,6 @@
 name: Василь Вишиваний (Вільгельм Габсбург)
 born: 1895-02-10
 died: 1948-08-18
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -38,7 +37,8 @@ sources:
   - title: "Kirkus Reviews - Timothy Snyder, The Red Prince (2008)"
     url: "https://www.kirkusreviews.com/book-reviews/timothy-snyder/the-red-prince/"
 related: [pavlo-skoropadskyi, symon-petliura, yevhen-konovalets]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Габсбург, який обрав Україну

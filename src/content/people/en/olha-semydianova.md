@@ -11,7 +11,6 @@ key_accomplishments:
   - "Order for Courage, 3rd class (posthumously, Decree No. 745/2022)"
 birthplace_name: "Zaporizhzhia"
 image_alt: "Olha Semydianova in uniform"
-reviewed: true
 ---
 
 ## A seamstress who saved the wounded

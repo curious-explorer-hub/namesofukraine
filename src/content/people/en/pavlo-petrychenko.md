@@ -12,7 +12,6 @@ key_accomplishments:
   - "Order for Courage, 3rd class (2023); Hero of Ukraine with the Order of the Golden Star (posthumously, 2025)"
 birthplace_name: "Kyiv"
 image_alt: "Photo portrait of Pavlo Petrychenko in uniform"
-reviewed: true
 ---
 
 ## 25,000 signatures in a day

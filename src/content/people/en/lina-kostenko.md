@@ -14,7 +14,6 @@ key_accomplishments:
   - "The novel Notes of a Ukrainian Madman (2011)"
 birthplace_name: "Rzhyshchiv"
 image_alt: "Lina Kostenko, photograph, 2006"
-reviewed: true
 ---
 
 ## Sixteen years of silence

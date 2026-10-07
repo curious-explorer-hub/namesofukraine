@@ -2,7 +2,6 @@
 name: Серж Лифар
 born: 1905-04-15
 died: 1986-12-15
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -36,7 +35,8 @@ sources:
   - title: "Opéra national de Paris - Serge Lifar"
     url: "https://www.operadeparis.fr/en/artists/serge-lifar"
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як киянин очолив балет Парижа

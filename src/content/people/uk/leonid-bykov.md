@@ -2,7 +2,6 @@
 name: Леонід Биков
 born: 1928-12-12
 died: 1979-04-11
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -30,7 +29,8 @@ sources:
   - title: Вікіпедія - Биков Леонід Федорович
     url: https://uk.wikipedia.org/wiki/Биков_Леонід_Федорович
 related: [ivan-mykolaichuk, oleksandr-dovzhenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Льотчик, якого не взяли в небо

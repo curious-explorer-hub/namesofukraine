@@ -2,7 +2,6 @@
 name: Володимир Винниченко
 born: 1880-07-28
 died: 1951-03-06
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -36,7 +35,8 @@ sources:
   - title: Вікіпедія - Винниченко Володимир Кирилович
     url: https://uk.wikipedia.org/wiki/Винниченко_Володимир_Кирилович
 related: [mykhailo-hrushevskyi, symon-petliura, pavlo-skoropadskyi, ivan-franko, lesya-ukrainka]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Драматург, який очолив уряд

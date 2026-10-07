@@ -12,7 +12,6 @@ key_accomplishments:
   - "Member of the Verkhovna Rada, 4th convocation (2002–2006); Candidate of Technical Sciences (2006)"
 birthplace_name: "Klishkivtsi"
 image_alt: "Official NASA portrait of Leonid Kadeniuk in an orange spacesuit in front of the flags of Ukraine and the United States, 1997"
-reviewed: true
 ---
 
 ## How did a village boy from Chernivtsi Oblast end up on the Shuttle?

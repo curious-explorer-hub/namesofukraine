@@ -2,7 +2,6 @@
 name: Віталій Кличко
 born: 1971-07-19
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: sport
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Кличко Віталій Володимирович
     url: https://uk.wikipedia.org/wiki/Кличко_Віталій_Володимирович
 related: [volodymyr-klychko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чемпіон, який сам віддав пояс

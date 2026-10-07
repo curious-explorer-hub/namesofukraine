@@ -2,7 +2,6 @@
 name: Квітка Цісик
 born: 1953-04-04
 died: 1998-03-29
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -31,7 +30,8 @@ sources:
   - title: Wikipedia (EN) - Kvitka Cisyk
     url: https://en.wikipedia.org/wiki/Kvitka_Cisyk
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чий голос у пісні з «Оскаром»?

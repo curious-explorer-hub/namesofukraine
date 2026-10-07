@@ -2,7 +2,6 @@
 name: Тарас Шевченко
 born: 1814-03-09
 died: 1861-03-10
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 19th-century
 group: literature
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Шевченко Тарас Григорович
     url: https://uk.wikipedia.org/wiki/Тарас_Шевченко
 related: [ivan-franko, lesya-ukrainka, mykola-lysenko, marko-vovchok, ivan-kotliarevskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Скільки коштує свобода?

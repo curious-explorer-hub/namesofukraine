@@ -3,7 +3,6 @@ name: Княгиня Ольга
 born: 0910-01-01
 born_circa: true
 died: 0969-07-11
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: kyivan-rus
 group: statehood
@@ -38,7 +37,8 @@ sources:
   - title: Wikipedia (EN) - Olga of Kiev
     url: https://en.wikipedia.org/wiki/Olga_of_Kiev
 related: [volodymyr-velykyi, yaroslav-mudryi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Більше, ніж помста

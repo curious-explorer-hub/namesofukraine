@@ -12,7 +12,6 @@ key_accomplishments:
   - "Leader of the UDAR party (since 2010); mayor of Kyiv (since 2014; as of October 2026)"
 birthplace_name: "Belovodskoye, Kyrgyzstan"
 image_alt: "Vitali Klitschko, portrait, 2014"
-reviewed: true
 ---
 
 ## The champion who gave up his belt

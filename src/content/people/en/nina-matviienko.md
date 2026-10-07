@@ -11,7 +11,6 @@ key_accomplishments:
   - "Posthumously given the presidential distinction National Legend of Ukraine (2024)"
 birthplace_name: "Nedilyshche"
 image_alt: "Nina Matviienko singing at the Young Halychyna festival, 2008"
-reviewed: true
 ---
 
 ## A voice composers wrote for

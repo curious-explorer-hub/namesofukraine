@@ -11,7 +11,6 @@ key_accomplishments:
   - "Brigadier general (2026); commander of the National Guard’s 1st Azov Corps from April 2025; as of October 2026, commander of the Azov grouping of forces"
 birthplace_name: "Kyiv"
 image_alt: "Denys Prokopenko at a meeting with the head of the Office of the President in Türkiye, October 2022"
-reviewed: true
 ---
 
 ## An English teacher who became a commander

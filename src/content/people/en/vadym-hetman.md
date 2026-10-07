@@ -13,7 +13,6 @@ key_accomplishments:
   - "Hero of Ukraine (2005, posthumously)"
 birthplace_name: "Snityn"
 image_alt: "Vadym Hetman, official photo as a member of the first-convocation parliament, 1990"
-reviewed: true
 ---
 
 ## Whose signature is on the first hryvnias?

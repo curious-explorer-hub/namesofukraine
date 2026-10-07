@@ -2,7 +2,6 @@
 name: Назарій Яремчук
 born: 1951-11-30
 died: 1995-06-30
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Яремчук Назарій Назарович
     url: https://uk.wikipedia.org/wiki/Яремчук_Назарій_Назарович
 related: [nina-matviienko, raisa-kyrychenko, ruslana-lyzhychko, volodymyr-ivasiuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Хлопець з Рівні

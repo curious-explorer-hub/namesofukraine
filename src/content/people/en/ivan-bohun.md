@@ -11,7 +11,6 @@ key_accomplishments:
   - "Refused to swear allegiance to the Muscovite tsar after the Pereiaslav Council of 1654"
 birthplace_name: "Unknown"
 image_alt: "Mykola Ivasiuk, “Bohun at the Crossing” (Ivan Bohun at Berestechko, 1651)"
-reviewed: true
 ---
 
 ## What do you do when your hetman is taken prisoner?

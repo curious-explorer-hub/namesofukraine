@@ -11,7 +11,6 @@ key_accomplishments:
   - "Shevchenko Prize (1996, posthumously) and the title Hero of Ukraine (2021, posthumously)"
 birthplace_name: "Rivnia (now part of Vyzhnytsia)"
 image_alt: "Nazarii Yaremchuk at a VIA Smerichka concert, 1984"
-reviewed: true
 ---
 
 ## A boy from Rivnia

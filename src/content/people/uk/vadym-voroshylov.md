@@ -2,7 +2,6 @@
 name: Вадим Ворошилов
 born: 1994-02-02
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -34,7 +33,7 @@ sources:
   - title: "Hromadske - He never dreamed of sky but became a legend: Ukrainian hero Karaya (03.03.2023)"
     url: "https://hromadske.ua/en/posts/he-never-dreamed-of-sky-but-became-a-legend-ukrainian-hero-karaya-ready-to-conquer-f-16-in-3-months-instead-of-3-years"
 related: [oleksii-mes, serhii-volynskyi]
-reviewed: true
+status: draft
 ---
 
 ## Не мріяв про небо

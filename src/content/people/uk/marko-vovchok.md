@@ -2,7 +2,6 @@
 name: Марко Вовчок
 born: 1833-12-22
 died: 1907-08-10
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: 19th-century
 group: literature
@@ -36,7 +35,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Vovchok, Marko"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CO%5CVovchokMarko.htm"
 related: [taras-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Чому Марія підписувалася «Марко»?

@@ -13,7 +13,6 @@ key_accomplishments:
   - "Led the armed underground against Soviet rule for almost six years (1944–1950)"
 birthplace_name: "Lviv (other sources: Krakovets)"
 image_alt: "Roman Shukhevych, photograph, 1944"
-reviewed: true
 ---
 
 ## Who was “Taras Chuprynka”?

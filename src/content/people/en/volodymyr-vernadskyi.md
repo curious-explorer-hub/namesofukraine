@@ -14,7 +14,6 @@ key_accomplishments:
   - "A co-founder of the National Library of Ukraine (1918)"
 birthplace_name: "Saint Petersburg (Russia)"
 image_alt: "Photograph of Volodymyr Vernadskyi, 1934"
-reviewed: true
 ---
 
 ## A Petersburger with Poltava summers

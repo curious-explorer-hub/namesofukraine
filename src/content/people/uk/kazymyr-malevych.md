@@ -2,7 +2,6 @@
 name: Казимир Малевич
 born: 1879-02-23
 died: 1935-05-15
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: visual-arts
@@ -36,7 +35,8 @@ sources:
   - title: "e-flux - Inscribed Vandalism: The Black Square at One Hundred"
     url: "https://www.e-flux.com/journal/85/155475/inscribed-vandalism-the-black-square-at-one-hundred"
 related: [oleksandr-arkhypenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Квадрат, який змінив мистецтво

@@ -2,7 +2,6 @@
 name: Василь Стус
 born: 1938-01-06
 died: 1985-09-04
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Стус Василь Семенович
     url: https://uk.wikipedia.org/wiki/Василь_Стус
 related: [mykola-khvylovyi, ivan-franko, viacheslav-chornovil, lina-kostenko, serhii-paradzhanov, ivan-dziuba]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 600 віршів, яких ми не прочитаємо

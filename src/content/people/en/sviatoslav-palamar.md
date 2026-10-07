@@ -11,7 +11,6 @@ key_accomplishments:
   - "Colonel (2026); deputy commander of the National Guard’s 1st Azov Corps (as of October 2026)"
 birthplace_name: "Mykolaiv, Lviv Oblast"
 image_alt: "Sviatoslav “Kalyna” Palamar in uniform at a desk, 2020"
-reviewed: true
 ---
 
 ## Why Kalyna?

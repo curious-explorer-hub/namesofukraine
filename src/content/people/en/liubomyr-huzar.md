@@ -12,7 +12,6 @@ key_accomplishments:
   - "Co-founder of the First of December Initiative Group"
 birthplace_name: "Lviv"
 image_alt: "Liubomyr Huzar in 2010"
-reviewed: true
 ---
 
 ## A bishop disguised as a tourist

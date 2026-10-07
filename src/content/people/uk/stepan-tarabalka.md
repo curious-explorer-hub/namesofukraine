@@ -2,7 +2,6 @@
 name: Степан Тарабалка
 born: 1993-01-09
 died: 2022-03-13
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -36,7 +35,7 @@ sources:
   - title: "LB.ua - AF Command gave feedback on article in The Times (30.04.2022)"
     url: "https://en.lb.ua/news/2022/04/30/14058_af_command_gave_feedback_article.html"
 related: []
-reviewed: true
+status: draft
 ---
 
 ## Труба, фортепіано і небо

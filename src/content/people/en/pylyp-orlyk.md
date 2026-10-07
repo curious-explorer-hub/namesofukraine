@@ -14,7 +14,6 @@ key_accomplishments:
   - "Over 30 years of diplomacy in exile: Sweden, the Holy Roman Empire, the Polish-Lithuanian Commonwealth, the Ottoman Empire"
 birthplace_name: "Kosuta (now Belarus)"
 image_alt: "Pylyp Orlyk, a modern portrait by the artist Nataliia Pavlusenko, 2021"
-reviewed: true
 ---
 
 ## Mazepa’s right hand

@@ -2,7 +2,6 @@
 name: Остап Вишня
 born: 1889-11-13
 died: 1956-09-28
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -35,7 +34,8 @@ sources:
   - title: "Остап Вишня - Моя автобіографія (УкрЛіб)"
     url: "https://www.ukrlib.com.ua/books/printit.php?tid=450"
 related: [mykola-khvylovyi, les-kurbas, mykola-hohol]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Тиражі, які поступалися лише Шевченкові

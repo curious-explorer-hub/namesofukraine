@@ -12,7 +12,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, Decree No. 144/2025)"
 birthplace_name: "Lviv"
 image_alt: "Photo portrait of Iryna Tsybukh in uniform"
-reviewed: true
 ---
 
 ## A premiere the day before the war

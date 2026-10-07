@@ -11,7 +11,6 @@ key_accomplishments:
   - "Commander of the Zaporozhian Corps and of the troops in Left-Bank Ukraine (autumn 1918)"
 birthplace_name: "Yarivka (Hyzhdevo)"
 image_alt: "Photograph of Petro Bolbochan in uniform, early 20th century"
-reviewed: true
 ---
 
 ## Twenty Cossacks on a rail trolley

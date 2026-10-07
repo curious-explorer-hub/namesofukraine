@@ -2,7 +2,6 @@
 name: Пилип Орлик
 born: 1672-10-21
 died: 1742-06-05
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -36,7 +35,8 @@ sources:
   - title: Вікіпедія - Пилип Орлик
     url: https://uk.wikipedia.org/wiki/Пилип_Орлик
 related: [ivan-mazepa]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Права рука Мазепи

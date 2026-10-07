@@ -11,7 +11,6 @@ key_accomplishments:
   - "Order for Courage, 3rd class (posthumously)"
 birthplace_name: "Mashivka, Poltava region"
 image_alt: "Drawn portrait of Yevhenii Brakh for the Streetcode project"
-reviewed: true
 ---
 
 ## Why “Mali”?

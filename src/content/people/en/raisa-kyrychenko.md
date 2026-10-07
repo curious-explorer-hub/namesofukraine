@@ -10,7 +10,6 @@ key_accomplishments:
   - "Shevchenko Prize (1986) and the title Hero of Ukraine (2003)"
   - "The autobiographical book I Am Your Cossack Woman, Ukraine (2003)"
 birthplace_name: "Koreshchyna"
-reviewed: true
 ---
 
 ## From a factory choir to the big stage

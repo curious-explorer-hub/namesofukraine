@@ -12,7 +12,6 @@ key_accomplishments:
   - "Reformed the army, creating an infantry drawn from the peasantry"
 birthplace_name: "Probably old Halych"
 image_alt: "Imagined portrait of King Danylo of Halych, an illustration from Oleksandr Barvinskyi’s History of Ukraine-Rus’, 1904"
-reviewed: true
 ---
 
 ## A prince on the run

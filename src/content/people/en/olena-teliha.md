@@ -10,7 +10,6 @@ key_accomplishments:
   - "In 1941, in occupied Kyiv, headed the Union of Ukrainian Writers and edited the literary weekly Litavry"
 birthplace_name: "Ilyinskoye (Moscow Governorate)"
 image_alt: "Portrait photograph of Olena Teliha, c. 1929"
-reviewed: true
 ---
 
 ## “That dog’s language is my language!”

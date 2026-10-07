@@ -2,7 +2,6 @@
 name: Агатангел Кримський
 born: 1871-01-15
 died: 1942-01-25
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -38,7 +37,8 @@ sources:
   - title: Вікіпедія - Кримський Агатангел Юхимович
     url: https://uk.wikipedia.org/wiki/Агатангел_Кримський
 related: [volodymyr-vernadskyi, lesya-ukrainka, ivan-franko, mykhailo-drahomanov, pavlo-skoropadskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Скільки мов може знати одна людина?

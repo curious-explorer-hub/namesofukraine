@@ -4,7 +4,6 @@ born: 1201-01-01
 born_circa: true
 died: 1264-01-01
 died_circa: true
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: kyivan-rus
 group: statehood
@@ -37,7 +36,8 @@ sources:
   - title: Wikipedia (EN) - Daniel of Galicia
     url: https://en.wikipedia.org/wiki/Daniel_of_Galicia
 related: [yaroslav-mudryi, volodymyr-velykyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Князь-утікач

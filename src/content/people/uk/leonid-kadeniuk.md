@@ -2,7 +2,6 @@
 name: Леонід Каденюк
 born: 1951-01-28
 died: 2018-01-31
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: independence
 group: science
@@ -34,7 +33,8 @@ sources:
   - title: "Шпальта - «Міжнародний аеропорт \"Чернівці\" імені Леоніда Каденюка» (2018)"
     url: "https://shpalta.media/2018/10/06/yak-viglyadaye-zseredini-mizhnarodnij-aeroport-chernivci-imeni-leonida-kadenyuka-foto/"
 related: [serhii-korolov, taras-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як сільський хлопець із Чернівеччини потрапив на шатл?

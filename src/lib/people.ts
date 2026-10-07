@@ -46,13 +46,13 @@ const localize = (profile: Profile, translation: Translation | undefined, lang: 
   };
 };
 
-// Unreviewed entries are visible in dev (for authoring). In production a profile is published
-// only when both language versions are reviewed (decision D3-R).
+// Drafts are visible in dev (for review). In production a profile is published only once the owner
+// has approved it, with both language files present.
 export const getPeople = async (lang: Lang = 'uk'): Promise<Person[]> => {
   const [profiles, translations] = await Promise.all([getCollection('people'), getCollection('people_en')]);
   const bySlug = new Map(translations.map((tr) => [tr.id, tr]));
   return profiles
-    .filter((p) => import.meta.env.DEV || (p.data.reviewed && bySlug.get(slugOf(p))?.data.reviewed))
+    .filter((p) => import.meta.env.DEV || (p.data.status === 'approved' && bySlug.has(slugOf(p))))
     .map((p) => localize(p, bySlug.get(slugOf(p)), lang));
 };
 
@@ -89,19 +89,20 @@ export const mostLinked = (members: Person[], everyone: Person[], n: number) => 
     .slice(0, n);
 };
 
-// Everything up to the launch batch counts as the initial catalogue, not "new".
-export const LAUNCH_DATE = new Date('2026-09-29');
+// Everything approved when publish times were introduced counts as the initial catalogue, not "new".
+export const CATALOGUE_DATE = new Date('2026-10-07T06:23:13Z');
 const NEW_FOR_DAYS = 30;
 
-export const isNew = (p: Person, now = new Date()) =>
-  p.data.added > LAUNCH_DATE && now.getTime() - p.data.added.getTime() < NEW_FOR_DAYS * 864e5;
+// Drafts (seen only in dev) have no publish time yet; treat them as published now.
+const publishedAt = (p: Person) => (p.data.published ?? new Date()).getTime();
+const newestFirst = (a: Person, b: Person) => publishedAt(b) - publishedAt(a) || collator(a.lang).compare(a.data.name, b.data.name);
 
-// Only people added after launch; empty until the first post-launch batch.
+export const isNew = (p: Person, now = new Date()) =>
+  publishedAt(p) > CATALOGUE_DATE.getTime() && now.getTime() - publishedAt(p) < NEW_FOR_DAYS * 864e5;
+
+// Only people published after the initial catalogue, newest first.
 export const recentlyAdded = (people: Person[], limit = 8) =>
-  people
-    .filter((p) => p.data.added > LAUNCH_DATE)
-    .sort((a, b) => b.data.added.getTime() - a.data.added.getTime() || collator(a.lang).compare(a.data.name, b.data.name))
-    .slice(0, limit);
+  people.filter((p) => publishedAt(p) > CATALOGUE_DATE.getTime()).sort(newestFirst).slice(0, limit);
 
 // Text the client-side search matches against (normalized in the browser).
 export const searchText = (p: Person) =>
@@ -126,18 +127,13 @@ export const fullDate = (date: Date, circa = false, lang: Lang = 'uk') =>
         timeZone: 'UTC',
       });
 
-// Publication batches, newest first: one entry per `added` date.
+// Publication days, newest first; within a day, the latest published first. The initial catalogue is one group.
 export const additionBatches = (people: Person[]) => {
-  const byDate = new Map<number, Person[]>();
-  for (const p of people) {
-    const key = p.data.added.getTime();
-    byDate.set(key, [...(byDate.get(key) ?? []), p]);
+  const byDay = new Map<number, Person[]>();
+  for (const p of [...people].sort(newestFirst)) {
+    const d = new Date(publishedAt(p));
+    const key = d <= CATALOGUE_DATE ? 0 : Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate());
+    byDay.set(key, [...(byDay.get(key) ?? []), p]);
   }
-  return [...byDate.entries()]
-    .sort(([a], [b]) => b - a)
-    .map(([time, batch]) => ({
-      date: new Date(time),
-      atLaunch: time <= LAUNCH_DATE.getTime(),
-      people: batch.sort((a, b) => collator(a.lang).compare(a.data.name, b.data.name)),
-    }));
+  return [...byDay.entries()].map(([day, batch]) => ({ date: new Date(day), atLaunch: day === 0, people: batch }));
 };

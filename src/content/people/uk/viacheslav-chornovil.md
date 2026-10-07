@@ -2,7 +2,6 @@
 name: В'ячеслав Чорновіл
 born: 1937-12-24
 died: 1999-03-25
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: independence
 group: civic
@@ -38,7 +37,8 @@ sources:
   - title: "Вікіцитати - Чорновіл В'ячеслав Максимович"
     url: "https://uk.wikiquote.org/wiki/Чорновіл_В'ячеслав_Максимович"
 related: [vasyl-stus, bohdan-havrylyshyn, levko-lukianenko, ivan-dziuba]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Камера, яка мала його зламати

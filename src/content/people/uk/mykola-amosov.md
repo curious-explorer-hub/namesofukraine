@@ -2,7 +2,6 @@
 name: Микола Амосов
 born: 1913-12-06
 died: 2002-12-12
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Амосов Микола Михайлович
     url: https://uk.wikipedia.org/wiki/Микола_Амосов
 related: [volodymyr-vernadskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Хірург із затопленого села

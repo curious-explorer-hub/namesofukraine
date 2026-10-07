@@ -2,7 +2,6 @@
 name: Іван Франко
 born: 1856-08-27
 died: 1916-05-28
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 19th-century
 group: literature
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Франко Іван Якович
     url: https://uk.wikipedia.org/wiki/Іван_Франко
 related: [taras-shevchenko, lesya-ukrainka, mykhailo-drahomanov, mykhailo-hrushevskyi, mykhailo-kotsiubynskyi, ahatanhel-krymskyi]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## В'язень, якого Відень назвав доктором

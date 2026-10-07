@@ -2,7 +2,6 @@
 name: Сергій Волинський
 born: 1992-01-31
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -38,7 +37,7 @@ sources:
   - title: Вікіпедія - Волинський Сергій Ярославович
     url: https://uk.wikipedia.org/wiki/Волинський_Сергій_Ярославович
 related: [denys-prokopenko, sviatoslav-palamar]
-reviewed: true
+status: draft
 ---
 
 ## Лист з оточеного міста

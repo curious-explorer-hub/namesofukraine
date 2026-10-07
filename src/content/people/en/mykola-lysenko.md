@@ -14,7 +14,6 @@ key_accomplishments:
   - "Founded a school of music and drama in Kyiv (1904)"
 birthplace_name: "Hrynky"
 image_alt: "Photograph of Mykola Lysenko"
-reviewed: true
 ---
 
 ## The opera he wouldn’t give up

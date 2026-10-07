@@ -13,7 +13,6 @@ key_accomplishments:
   - "118 solo exhibitions in Europe and the United States"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Alexander Archipenko"
-reviewed: true
 ---
 
 ## Sculpture with empty space

@@ -3,7 +3,6 @@ name: Іван Виговський
 born: 1608-01-01
 born_circa: true
 died: 1664-03-27
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -34,7 +33,7 @@ sources:
   - title: Вікіпедія - Іван Виговський
     url: https://uk.wikipedia.org/wiki/Іван_Виговський
 related: [bohdan-khmelnytskyi, ivan-bohun, ivan-sirko]
-reviewed: true
+status: draft
 ---
 
 ## Полонений, який став писарем

@@ -2,7 +2,6 @@
 name: Валентин Сильвестров
 born: 1937-09-30
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -35,7 +34,8 @@ sources:
   - title: "Schott Music (видавець композитора) - Valentin Silvestrov"
     url: "https://www.schott-music.com/en/person/valentin-silvestrov"
 related: [taras-shevchenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Авангардист, якого не грали вдома

@@ -2,7 +2,6 @@
 name: Ніна Матвієнко
 born: 1947-10-10
 died: 2023-10-08
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -33,7 +32,8 @@ sources:
   - title: Вікіпедія - Матвієнко Ніна Митрофанівна
     url: https://uk.wikipedia.org/wiki/Матвієнко_Ніна_Митрофанівна
 related: [raisa-kyrychenko, nazarii-yaremchuk, kateryna-bilokur]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Голос, для якого писали композитори

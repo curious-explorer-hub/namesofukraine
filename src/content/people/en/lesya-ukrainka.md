@@ -14,7 +14,6 @@ key_accomplishments:
   - "Translations from many European languages; recordings of Volhynian folklore"
 birthplace_name: "Zviahel"
 image_alt: "Photo portrait of Lesya Ukrainka, 1886"
-reviewed: true
 ---
 
 ## What does a nine-year-old write about?

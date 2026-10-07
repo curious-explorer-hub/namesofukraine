@@ -2,7 +2,6 @@
 name: Андрій Шевченко
 born: 1976-09-29
 living: true
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: independence
 group: sport
@@ -35,7 +34,8 @@ sources:
   - title: Вікіпедія - Шевченко Андрій Миколайович
     url: https://uk.wikipedia.org/wiki/Шевченко_Андрій_Миколайович
 related: [valerii-lobanovskyi, oleh-blokhin]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## 18 років і гол «Баварії»

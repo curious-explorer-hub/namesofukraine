@@ -2,7 +2,6 @@
 name: Богдан Гаврилишин
 born: 1926-10-19
 died: 2016-10-24
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: science
@@ -29,7 +28,8 @@ sources:
   - title: Вікіпедія - Гаврилишин Богдан Дмитрович
     url: https://uk.wikipedia.org/wiki/Гаврилишин_Богдан_Дмитрович
 related: [borys-paton]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Від лісоруба до Женеви

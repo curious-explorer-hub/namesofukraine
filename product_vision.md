@@ -37,7 +37,7 @@
 - **Hero:** the headline over a photo, a one-line lead.
 - **A row of three cards** (stacked on phones), visible from every tab:
   - **Daily Hero** «Народився цього дня» / "Born on this day". **AC15** The person born (or who died) on the visitor's local date; otherwise a deterministic "person of the day". Approximate dates never count; dates before 1918 are new style.
-  - **Reading progress:** "read N of 129" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
+  - **Reading progress:** "read N of 111" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
   - **Observation:** from 3 read profiles, the field read most and someone unread from it (or a field not yet explored); before that, a catalogue fact a day.
   - **AC16** Progress, observation and "read" marks are computed in the browser from `localStorage`; nothing is sent anywhere.
 - **AC1 Explore tabs, one way of browsing at a time,** over one results grid: **Пошук / Search** (text field + dropdowns for field, era, region and "unread only"), **Епохи / Eras** (a card per era, with its colour, picture and faces), **Карта / Map** (§3.2), **Галузі / Fields** (a tile per field, opening its page). Changing tabs clears the filters. Below the tabs: the "newly added" row, then the results.
@@ -70,7 +70,7 @@ Then: key accomplishments · the story · why it matters today · debates and as
 
 ### 3.4 Two languages
 - **AC7** Every page exists in Ukrainian (`/uk/…`) and English (`/en/…`), with a УКР | EN switch in the header that keeps the page (plain links, so it works without JavaScript), and `hreflang` tags. `/` redirects to `/uk/`.
-- **AC8** A profile is public only when **both** languages are reviewed (D3-R).
+- **AC8** A profile is public only when the owner has approved it (`status: approved`, with a `published` time) and both language files exist; drafts stay in the repository (D3-R, D5).
 - **AC9** English uses the official Ukrainian transliteration (Kyiv, Kharkiv, Mykola, surnames in -skyi) and adds context a foreigner needs.
 
 ### 3.5 Look and feel
@@ -112,7 +112,7 @@ About (mission, selection criteria, privacy) · Image credits · a friendly 404 
 | Analytics | Cloudflare Web Analytics (no cookies) |
 | Security | Strict CSP and headers (`public/_headers`), `dist/` check, `npm audit`, Dependabot ([docs/SECURITY.md](docs/SECURITY.md)) |
 
-Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/views/`; components in `src/components/`; helpers in `src/lib/` (published = reviewed in both languages: `src/lib/people.ts`); site settings in `src/site.ts`.
+Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/views/`; components in `src/components/`; helpers in `src/lib/` (published = approved: `src/lib/people.ts`); site settings in `src/site.ts`.
 
 **Quality gates (CI):** schema validation with a uk/en fact-parity check (AC5) · Vitest unit tests (filters, search normalization, Daily Hero dates, read marks, observation, theme, `aliases.json` has one entry per profile) · Playwright smoke tests under the real CSP (filters survive "back", language switch, no-JS view, 404) · Lighthouse budget (AC10) · dependency audit · `dist/` holds nothing private.
 
@@ -126,7 +126,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-09-29 | D2 | Detail view: **a full page per person**, not a modal. |
 | 2026-09-29 | D3-R | **Bilingual launch:** a profile is public only when reviewed in uk and en; authoring starts in Ukrainian. |
 | 2026-09-29 | D4 | **One file per person** per language. |
-| 2026-09-29 | D5 | **AI drafts from cited sources + mandatory human review** (`reviewed: true`). |
+| 2026-09-29 | D5 | **AI drafts from cited sources + mandatory human review.** 2026-10-07: every new profile is `status: draft` until the owner approves it (`npm run approve`), which stamps `published`; the New page, badge and RSS sort by that time. |
 | 2026-09-29 | D6 | Images: **public domain or freely licensed (Wikimedia Commons), self-hosted, with attribution**, or written permission. Exception: 8 fair-use portraits (Mykolaichuk, Sukhomlynskyi, Tsybukh, Petrychenko, owner decision 2026-10-05, against the recommendation; 2026-10-06: Ostap Vyshnia, an AI-made image whose source photograph is not identified, and Prymachenko, AI-colorized from the uk.wikipedia fair-use photo; Petro Yatsyk, the uk.wikipedia fair-use photo; Olha Semydianova, the uk.wikipedia fair-use photo), marked `fair_use: true`: on the site only, never in share cards or structured data, removed the same day on a rights holder's request. AI-colorized or restored versions of a free photo are allowed (`ai_edit:`); the credit keeps the original author, license and source and says so; a result that changes the person's look is not used (owner exceptions, 2026-10-06, against the recommendation: Mechnykov; Dovzhenko, Petliura and Solovianenko, whose AI versions change the face, clothes or insignia and are labelled `rendered`, not a real photograph; Amosov, Kondratiuk, Korolov and Prymachenko, whose faces also changed, labelled colorized at the owner's request). A painting may be rendered as a photo-like image (`ai_edit: rendered`, owner decision 2026-10-06, first: Repin's 1887 self-portrait); its credit says it is not a real photograph. |
 | 2026-09-29 | D7 | Hosting: **Cloudflare Pages**, deployed by GitHub Actions from a personal GitHub account. |
 | 2026-09-29 | D8 | **Living people may be included** (§7.6). |
@@ -157,7 +157,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 |---|---|---|
 | **0. Setup** | Scaffold, schema, CI, deploy | ✅ 2026-10-05 |
 | **1. MVP** | §3.1–3.7, ≥ 20 profiles in both languages | ✅ soft launch 2026-10-05 (86 profiles); public launch after the domain and promotion |
-| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 129 profiles (batch 7: defenders and military figures, 2026-10-06) |
+| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 111 published, 18 drafts awaiting review (batch 7, 2026-10-07) |
 | **3. Engagement** | Quiz · printable teacher pages · CMS | Later |
 
 ---
@@ -173,7 +173,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 7. **Corrections** go through the feedback form ("Report a mistake" on every profile).
 8. **Licenses:** site text CC BY-SA 4.0; code MIT; images per file ([docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md)).
 
-**Review checklist per profile:** facts match ≥ 2 sources → dates → neutral tone → summary and role within limits → fun fact sourced → English matches Ukrainian → `reviewed: true` and `last_reviewed`. Upkeep: [docs/MAINTENANCE.md](docs/MAINTENANCE.md).
+**Review checklist per profile:** facts match ≥ 2 sources → dates → neutral tone → summary and role within limits → fun fact sourced → English matches Ukrainian → `last_reviewed` → the owner reads the draft and approves it (`npm run approve`). Upkeep: [docs/MAINTENANCE.md](docs/MAINTENANCE.md).
 
 ---
 
@@ -216,3 +216,4 @@ Closed backlog items, by ID; details are in git history.
 | 2026-10-06 | Petro Yatsyk (111), linked with Farion and Hrushevskyi; Farion's profile shortened (no election, trial or court details; a short debates section); both kept to at most 4 sources, one per site |
 | 2026-10-06 | All profiles rewritten hook-first (docs/STYLE.md), at most 4 sources each (C5, C6) |
 | 2026-10-06 | Batch 7: 18 defenders and military figures (111 → 129): Prokopenko, Palamar, Volynskyi, Maliuk, Sternenko, Brakh, Paievska, Polishchuk, Derusova, Semydianova, Tarabalka, Skakun, Mes, Voroshylov, Vyhovskyi, Doroshenko, Bolbochan, Zarytska; drafted and fact-checked by separate agents, published on the batch 5 terms; linked to existing profiles |
+| 2026-10-07 | Moderation: `status: draft | approved` and a `published` timestamp replace `reviewed` and `added`; the 111 earlier profiles approved at 2026-10-07 06:23 UTC (the initial catalogue on the New page); batch 7's 18 profiles back to draft for the owner's review; links to drafts render as plain text; `npm run approve` |

@@ -2,7 +2,6 @@
 name: Ілля Мечников
 born: 1845-05-15
 died: 1916-07-15
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 19th-century
 group: science
@@ -33,7 +32,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CM%5CE%5CMechnikovIllia.htm"
   - title: Вікіпедія - Мечников Ілля Ілліч
     url: https://uk.wikipedia.org/wiki/Мечников_Ілля_Ілліч
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Клітини, що їдять мікробів

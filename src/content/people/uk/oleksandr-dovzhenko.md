@@ -2,7 +2,6 @@
 name: Олександр Довженко
 born: 1894-09-10
 died: 1956-11-25
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: performing-arts
@@ -38,7 +37,8 @@ sources:
   - title: Вікіпедія - Довженко Олександр Петрович
     url: https://uk.wikipedia.org/wiki/Олександр_Довженко
 related: [les-kurbas, oleksandr-arkhypenko, ivan-mykolaichuk]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Від карикатур до кіно

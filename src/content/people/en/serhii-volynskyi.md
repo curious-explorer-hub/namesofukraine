@@ -11,7 +11,6 @@ key_accomplishments:
   - "Initiated the Stalevi (“Steel”) charity foundation, which supports marines and their families (2023)"
 birthplace_name: "Poltava"
 image_alt: "Portrait of Serhii Volynskyi in marine dress uniform with the Gold Star of a Hero of Ukraine"
-reviewed: true
 ---
 
 ## A letter from a city under siege

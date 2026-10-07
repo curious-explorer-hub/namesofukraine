@@ -15,7 +15,6 @@ key_accomplishments:
   - "Hero of the folk song (duma) about the Cossack Baida"
 birthplace_name: "Unknown"
 image_alt: "Portrait of Dmytro Vyshnevetskyi by an unknown 18th-century artist, National Museum of the History of Ukraine"
-reviewed: true
 ---
 
 ## Seven fortresses on one island

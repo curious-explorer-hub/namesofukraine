@@ -2,7 +2,6 @@
 name: Максим Кривцов
 born: 1990-01-22
 died: 2024-01-07
-added: 2026-09-30
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -30,7 +29,8 @@ sources:
   - title: "Громадське - Селекціонер вивів сорт фіалки на честь Максима Кривцова"
     url: "https://hromadske.ua/posts/u-dnipri-selekcioner-viviv-sort-fialki-yakij-prisvyativ-zagiblomu-maksimovi-krivcovu"
 related: [yurii-ruf, vasyl-stus]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Поет з фотоапаратом

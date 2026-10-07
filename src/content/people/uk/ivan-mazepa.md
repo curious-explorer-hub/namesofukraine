@@ -3,7 +3,6 @@ name: Іван Мазепа
 born: 1639-01-01
 born_circa: true
 died: 1709-10-03
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Іван Мазепа
     url: https://uk.wikipedia.org/wiki/Іван_Мазепа
 related: [petro-sahaidachnyi, pylyp-orlyk, petro-doroshenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Гетьман з європейською освітою

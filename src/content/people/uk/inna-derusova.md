@@ -2,7 +2,6 @@
 name: Інна Дерусова
 born: 1970-07-05
 died: 2022-02-26
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -36,7 +35,7 @@ sources:
   - title: "АрміяInform - Загинула, рятуючи поранених: Інна Дерусова - перша жінка, яка посмертно отримала звання Героя України (13 березня 2022)"
     url: "https://armyinform.com.ua/2022/03/13/zagynula-ryatuyuchy-poranenyh-inna-derusova-persha-zhinka-yaka-posmertno-otrymala-zvannya-geroya-ukrayiny/"
 related: []
-reviewed: true
+status: draft
 ---
 
 ## «Вони любили її і називали мамою»

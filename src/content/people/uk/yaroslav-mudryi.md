@@ -3,7 +3,6 @@ name: Ярослав Мудрий
 born: 0978-01-01
 born_circa: true
 died: 1054-02-20
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: kyivan-rus
 group: statehood
@@ -36,7 +35,8 @@ sources:
   - title: Вікіпедія - Ярослав Мудрий
     url: https://uk.wikipedia.org/wiki/Ярослав_Мудрий
 related: [volodymyr-velykyi, anna-yaroslavna, kniahynia-olha]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Князь, який мусив виборювати Київ

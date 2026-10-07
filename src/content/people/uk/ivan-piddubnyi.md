@@ -2,7 +2,6 @@
 name: Іван Піддубний
 born: 1871-10-08
 died: 1949-08-08
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: 20th-century
 group: sport
@@ -32,7 +31,8 @@ sources:
   - title: Wikipedia (EN) - Ivan Poddubny
     url: https://en.wikipedia.org/wiki/Ivan_Poddubny
 related: []
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Як вантажник став «Чемпіоном чемпіонів»

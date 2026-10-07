@@ -11,7 +11,6 @@ key_accomplishments:
   - "Corresponding member of the USSR Academy of Pedagogical Sciences (1968)"
 birthplace_name: "Vasylivka"
 image_alt: "Photo portrait of Vasyl Sukhomlynskyi"
-reviewed: true
 ---
 
 ## The book that came out in Germany first

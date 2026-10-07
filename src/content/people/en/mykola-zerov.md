@@ -12,7 +12,6 @@ key_accomplishments:
   - "The slogan “Ad fontes!” (“To the sources!”) in the 1925–1928 Literary Discussion"
 birthplace_name: "Zinkiv"
 image_alt: "Mykola Zerov, 1914–1915"
-reviewed: true
 ---
 
 ## The poet who brought back Rome

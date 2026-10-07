@@ -14,7 +14,6 @@ key_accomplishments:
   - "During the war of 1812 he raised the 5th Cossack Regiment and was made a major"
 birthplace_name: "Poltava"
 image_alt: "Oil portrait of Ivan Kotliarevskyi by Leontii Kashtelianchuk"
-reviewed: true
 ---
 
 ## A book published without its author

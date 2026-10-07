@@ -11,7 +11,6 @@ key_accomplishments:
   - "People’s Artist of the Ukrainian SSR (1974)"
 birthplace_name: "Znamianka (now part of Cherkaske)"
 image_alt: "Leonid Bykov in the film Tamer of Tigers"
-reviewed: true
 ---
 
 ## A pilot who never got to fly

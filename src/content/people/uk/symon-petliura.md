@@ -2,7 +2,6 @@
 name: Симон Петлюра
 born: 1879-05-22
 died: 1926-05-25
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: statehood
@@ -38,7 +37,8 @@ sources:
   - title: Wikipedia (EN) - Symon Petliura
     url: https://en.wikipedia.org/wiki/Symon_Petliura
 related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Від бухгалтера до Головного отамана

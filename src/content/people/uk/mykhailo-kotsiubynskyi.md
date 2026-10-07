@@ -2,7 +2,6 @@
 name: Михайло Коцюбинський
 born: 1864-09-17
 died: 1913-04-25
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 19th-century
 group: literature
@@ -32,7 +31,8 @@ sources:
   - title: Вікіпедія - Коцюбинський Михайло Михайлович
     url: https://uk.wikipedia.org/wiki/Коцюбинський_Михайло_Михайлович
 related: [ivan-franko, serhii-paradzhanov]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Учитель під наглядом поліції

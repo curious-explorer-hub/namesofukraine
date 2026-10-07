@@ -2,7 +2,6 @@
 name: Василь Симоненко
 born: 1935-01-08
 died: 1963-12-13
-added: 2026-10-04
 last_reviewed: 2026-10-06
 era: 20th-century
 group: literature
@@ -31,7 +30,8 @@ sources:
   - title: Вікіпедія - Симоненко Василь Андрійович
     url: https://uk.wikipedia.org/wiki/Симоненко_Василь_Андрійович
 related: [vasyl-stus, lina-kostenko, ivan-dziuba]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Некролог кукурудзяному качанові

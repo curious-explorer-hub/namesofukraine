@@ -12,7 +12,6 @@ key_accomplishments:
   - "Member of the Verkhovna Rada, Ukraine’s parliament, in its 4th, 5th and 7th convocations"
 birthplace_name: "Mariupol"
 image_alt: "Volodymyr Boiko at a session of the Verkhovna Rada, 2013"
-reviewed: true
 ---
 
 ## From pipe fitter to director

@@ -3,7 +3,6 @@ name: Петро Конашевич-Сагайдачний
 born: 1582-01-01
 born_circa: true
 died: 1622-04-20
-added: 2026-09-29
 last_reviewed: 2026-10-06
 era: cossack
 group: statehood
@@ -34,7 +33,8 @@ sources:
   - title: Вікіпедія - Петро Конашевич-Сагайдачний
     url: https://uk.wikipedia.org/wiki/Петро_Конашевич-Сагайдачний
 related: [ivan-mazepa]
-reviewed: true
+status: approved
+published: 2026-10-07T06:23:13Z
 ---
 
 ## Похід на Кафу

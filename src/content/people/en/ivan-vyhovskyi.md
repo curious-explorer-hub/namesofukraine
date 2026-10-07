@@ -11,7 +11,6 @@ key_accomplishments:
   - "Victory over the Muscovite army at Konotop (1659)"
 birthplace_name: "Unknown"
 image_alt: "Portrait of Ivan Vyhovskyi holding a mace, 19th century (Havrylo Vasko, after a miniature in Samiilo Velychko’s chronicle)"
-reviewed: true
 ---
 
 ## The prisoner who became chancellor

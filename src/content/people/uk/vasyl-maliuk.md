@@ -2,7 +2,6 @@
 name: Василь Малюк
 born: 1983-02-28
 living: true
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: statehood
@@ -36,7 +35,7 @@ sources:
   - title: Вікіпедія - Малюк Василь Васильович
     url: https://uk.wikipedia.org/wiki/Малюк_Василь_Васильович
 related: [denys-prokopenko, sviatoslav-palamar, serhii-volynskyi]
-reviewed: true
+status: draft
 ---
 
 ## Картина в кабінеті

@@ -11,7 +11,6 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, Decree No. 467/2025 of 8 July 2025)"
 birthplace_name: "Vinnytsia"
 image_alt: "Portrait of Nazarii Hryntsevych"
-reviewed: true
 ---
 
 ## “I’m an ordinary soldier”

@@ -10,7 +10,6 @@ key_accomplishments:
   - "Pamphlets of 1925–1926 calling for a “psychological Europe”"
 birthplace_name: "Trostianets"
 image_alt: "Photo portrait of Mykola Khvylovyi, before 1933"
-reviewed: true
 ---
 
 ## The slogan Stalin noticed

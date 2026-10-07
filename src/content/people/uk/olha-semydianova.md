@@ -2,7 +2,6 @@
 name: Ольга Семидьянова
 born: 1973-07-10
 died: 2022-03-03
-added: 2026-10-06
 last_reviewed: 2026-10-06
 era: independence
 group: defenders
@@ -36,7 +35,7 @@ sources:
   - title: "Нікопольські новини - Вбиті росією мешканці Нікопольщини: захисниця з Марганця Ольга Семидьянова"
     url: "https://nikopol.nikopolnews.net/rajon/olha-semydianova/"
 related: []
-reviewed: true
+status: draft
 ---
 
 ## Швачка, яка рятувала поранених
