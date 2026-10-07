@@ -3,7 +3,7 @@ name: Іван Котляревський
 born: 1769-09-09
 died: 1838-11-10
 last_reviewed: 2026-10-06
-era: imperial
+era: 19th-century
 group: literature
 tags: [poet, writer]
 role: "Батько нової української літератури"
