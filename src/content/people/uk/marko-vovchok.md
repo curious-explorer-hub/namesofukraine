@@ -1,5 +1,6 @@
 ---
 name: Марко Вовчок
+female: true
 born: 1833-12-22
 died: 1907-08-10
 last_reviewed: 2026-10-06

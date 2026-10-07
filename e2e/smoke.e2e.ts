@@ -13,8 +13,8 @@ test.afterEach(({}, testInfo) => {
 });
 
 for (const [lang, tabNames] of [
-  ['uk', ['Пошук', 'Епохи', 'Карта', 'Галузі', 'Цікавинки']],
-  ['en', ['Search', 'Eras', 'Map', 'Fields', 'Collections']],
+  ['uk', ['Пошук', 'Епохи', 'Карта', 'Галузі', 'Добірки']],
+  ['en', ['Search', 'Eras', 'Map', 'Fields', 'Spotlights']],
 ] as const) {
   test(`every home-page tab opens its panel (${lang})`, async ({ page }) => {
     await page.goto(`/${lang}/`);
@@ -123,7 +123,7 @@ test.describe('without JavaScript', () => {
 
 test('a collection card filters like an era, and the highlight slides to the next card', async ({ page }) => {
   await page.goto('/uk/');
-  await page.getByRole('tab', { name: 'Цікавинки' }).click();
+  await page.getByRole('tab', { name: 'Добірки' }).click();
   await expect(page.locator('#panel-collections')).toBeVisible();
   const money = page.locator('button[data-collection="money-people"]');
   const army = page.locator('button[data-collection="women-army"]');

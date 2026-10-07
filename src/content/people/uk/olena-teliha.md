@@ -1,5 +1,6 @@
 ---
 name: Олена Теліга
+female: true
 born: 1906-07-21
 died: 1942-02-21
 last_reviewed: 2026-10-06

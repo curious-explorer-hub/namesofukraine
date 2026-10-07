@@ -1,5 +1,6 @@
 ---
 name: Ірина Фаріон
+female: true
 born: 1964-04-29
 died: 2024-07-19
 last_reviewed: 2026-10-06

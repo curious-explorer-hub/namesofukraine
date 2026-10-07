@@ -1,5 +1,6 @@
 ---
 name: Андріана Сусак-Арехта
+female: true
 born: 1988-01-01
 born_circa: true
 living: true

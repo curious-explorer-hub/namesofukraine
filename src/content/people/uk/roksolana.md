@@ -1,5 +1,6 @@
 ---
 name: Роксолана
+female: true
 born: 1505-01-01
 born_circa: true
 died: 1558-04-15

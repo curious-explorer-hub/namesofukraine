@@ -1,5 +1,6 @@
 ---
 name: Мар'яна Мамонова
+female: true
 born: 1991-01-01
 born_circa: true
 living: true

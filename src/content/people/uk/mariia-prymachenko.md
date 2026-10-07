@@ -1,5 +1,6 @@
 ---
 name: Марія Примаченко
+female: true
 born: 1909-01-12
 died: 1997-08-18
 last_reviewed: 2026-10-06

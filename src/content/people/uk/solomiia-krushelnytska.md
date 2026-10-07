@@ -1,5 +1,6 @@
 ---
 name: Соломія Крушельницька
+female: true
 born: 1872-09-23
 died: 1952-11-16
 last_reviewed: 2026-10-06

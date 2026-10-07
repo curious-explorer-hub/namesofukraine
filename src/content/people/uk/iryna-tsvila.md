@@ -1,5 +1,6 @@
 ---
 name: Ірина Цвіла
+female: true
 born: 1969-04-29
 died: 2022-02-25
 last_reviewed: 2026-10-07

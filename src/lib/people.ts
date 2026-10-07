@@ -70,7 +70,9 @@ const label = (items: { id: string; label: Record<string, string> }[], id: strin
 
 export const groups = categories.groups;
 export const groupLabel = (id: string, lang: Lang = 'uk') => label(categories.groups, id, lang);
-export const tagLabel = (id: string, lang: Lang = 'uk') => label(categories.tags, id, lang);
+// Ukrainian has feminine forms for the tags (Поетеса, Військова); English labels fit everyone.
+export const tagLabel = (id: string, lang: Lang = 'uk', female = false) =>
+  (female && lang === 'uk' && categories.tags.find((t) => t.id === id)?.uk_female) || label(categories.tags, id, lang);
 export const regionLabel = (id: string, lang: Lang = 'uk') => label(regions, id, lang);
 export { eras };
 export const eraLabel = (id: string, lang: Lang = 'uk') => label(eras, id, lang);
@@ -106,7 +108,7 @@ export const recentlyAdded = (people: Person[], limit = 8) =>
 
 // Text the client-side search matches against (normalized in the browser).
 export const searchText = (p: Person) =>
-  [p.data.name, p.data.role, p.data.summary, ...p.data.tags.map((tag) => tagLabel(tag, p.lang))].join(' ');
+  [p.data.name, p.data.role, p.data.summary, ...p.data.tags.map((tag) => tagLabel(tag, p.lang, p.data.female))].join(' ');
 
 // Frontmatter dates are parsed as UTC midnight; read them in UTC so the year never shifts by timezone.
 export const lifespan = (p: Person) => {

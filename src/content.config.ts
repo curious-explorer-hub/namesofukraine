@@ -27,6 +27,7 @@ const people = defineCollection({
         died: z.coerce.date().optional(),
         died_circa: z.boolean().default(false), // exact death date unknown → shown as "бл. <year>"
         living: z.boolean().default(false),
+        female: z.boolean().default(false), // Ukrainian tags in feminine form (Поетеса, Військова)
         last_reviewed: z.coerce.date(),
         era: z.enum(ids(eras)),
         group: z.enum(ids(categories.groups)), // one per person — home-page section

@@ -1,5 +1,6 @@
 ---
 name: Ольга Семидьянова
+female: true
 born: 1973-07-10
 died: 2022-03-03
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Віра Холодна
+female: true
 born: 1893-08-05
 died: 1919-02-16
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Ліна Костенко
+female: true
 born: 1930-03-19
 living: true
 last_reviewed: 2026-10-06

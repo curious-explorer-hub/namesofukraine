@@ -1,5 +1,6 @@
 ---
 name: Леся Українка
+female: true
 born: 1871-02-25
 died: 1913-08-01
 last_reviewed: 2026-10-06
