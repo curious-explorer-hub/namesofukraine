@@ -75,18 +75,11 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
         data-label-read={t('read.done', lang)}
         data-label-unread={t('read.mark', lang)}></button>
       <dl>
+        {/* One row with both dates for those who have died ("years of life"), so the fact sheet never says "died". */}
         <div>
-          <dt>{t('person.born', lang)}</dt>
-          <dd>{fullDate(data.born, data.born_circa, lang)}</dd>
+          <dt>{t(data.died ? 'person.life' : 'person.born', lang)}</dt>
+          <dd>{fullDate(data.born, data.born_circa, lang)}{data.died && <> – {fullDate(data.died, data.died_circa, lang)}</>}</dd>
         </div>
-        {
-          data.died && (
-            <div>
-              <dt>{t('person.died', lang)}</dt>
-              <dd>{fullDate(data.died, data.died_circa, lang)}</dd>
-            </div>
-          )
-        }
         <div>
           <dt>{t('person.birthplace', lang)}</dt>
           <dd>{data.birthplace.name}{region && <span class="profile-region">{region}</span>}</dd>

@@ -703,8 +703,9 @@ a { color: var(--cobalt); }
 
 /* Birthplace map (home): oblasts shaded by head count, a dot per birthplace in the group colour
    (numbered where several people were born in one place). It follows the filters (src/scripts/birth-map.ts). */
-.map-hint { margin: 0 0 1rem; color: var(--slate); }
-.map-canvas { position: relative; max-width: 60rem; }
+.map-hint { max-width: 60rem; margin: 0 auto 1rem; color: var(--slate); }
+/* One column, centred: on wide screens the map sits in the middle, not against the left edge */
+.map-canvas { position: relative; max-width: 60rem; margin-inline: auto; }
 .map-svg { display: block; width: 100%; height: auto; overflow: visible; }
 .map-region {
   fill: var(--mist);
@@ -756,7 +757,7 @@ a { color: var(--cobalt); }
   transform: translate(0.75rem, calc(-100% - 0.5rem));
 }
 .map-tip[data-side='end'] { transform: translate(calc(-100% - 0.75rem), calc(-100% - 0.5rem)); }
-.map-side { margin-top: 1rem; max-width: 60rem; }
+.map-side { max-width: 60rem; margin: 1rem auto 0; }
 /* Born outside Ukraine: a small card per continent (coastlines only, Ukraine shaded), the same dots */
 .map-world { margin-top: 1.25rem; }
 .map-world-cards { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; margin: 0; padding: 0; }
@@ -804,7 +805,7 @@ a { color: var(--cobalt); }
 .map-pick.is-empty { color: var(--slate); }
 .map-pick-count { font-weight: 700; color: var(--cobalt); font-variant-numeric: tabular-nums; }
 .map-pick[aria-pressed='true'] .map-pick-count { color: var(--ink); }
-.map-credit { margin: 0.75rem 0 0; font-size: 0.8125rem; color: var(--slate); }
+.map-credit { max-width: 60rem; margin: 0.75rem auto 0; font-size: 0.8125rem; color: var(--slate); }
 
 /* Group tiles (home): one per category in its colour, with three faces that fan out on hover.
    Phones: a compact row (faces, then name and count); from tablet up: a card. */
