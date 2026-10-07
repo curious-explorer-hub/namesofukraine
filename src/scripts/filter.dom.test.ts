@@ -31,10 +31,10 @@ const fixture = `
     ${tile('literature', 3)}
     ${tile('science', 1)}
   </ul></section>
-  <section class="tiles"><ul>
-    <li class="tile-item" data-collection="money-people"><a class="tile" href="?collection=money-people">money</a></li>
-    <li class="tile-item" data-collection="women-army"><a class="tile" href="?collection=women-army">army</a></li>
-  </ul></section>
+  <ol class="ribbon-bands">
+    <li><button type="button" class="era" data-collection="money-people" aria-pressed="false">money</button></li>
+    <li><button type="button" class="era" data-collection="women-army" aria-pressed="false">army</button></li>
+  </ol>
   <div class="catalogue">
     <section class="group" id="literature" data-group="literature">
       <ul>
@@ -114,11 +114,30 @@ describe('initFilters', () => {
     expect(location.search).toBe('');
   });
 
-  it('a collection tile filters in place too', () => {
-    $<HTMLAnchorElement>('[data-collection="women-army"] .tile').click();
+  it('a collection card filters like an era band: pressed, switchable, and a second click clears it', () => {
+    const army = $<HTMLButtonElement>('.era[data-collection="women-army"]');
+    const money = $<HTMLButtonElement>('.era[data-collection="money-people"]');
+    army.click();
     expect(visibleNames()).toEqual(['Леся Українка']);
-    expect($('[data-collection="women-army"] .tile').getAttribute('aria-current')).toBe('true');
+    expect(army.getAttribute('aria-pressed')).toBe('true');
     expect(new URLSearchParams(location.search).get('collection')).toBe('women-army');
+
+    money.click();
+    expect(visibleNames()).toEqual(['Іван Франко', 'Леся Українка']);
+    expect(money.getAttribute('aria-pressed')).toBe('true');
+    expect(army.getAttribute('aria-pressed')).toBe('false');
+
+    money.click();
+    expect(money.getAttribute('aria-pressed')).toBe('false');
+    expect(location.search).toBe('');
+  });
+
+  it('an era band and a collection card each press only their own kind', () => {
+    $<HTMLButtonElement>('.era[data-collection="women-army"]').click();
+    expect($('.era[data-era="19th-century"]').getAttribute('aria-pressed')).toBe('false');
+    $<HTMLButtonElement>('.era[data-era="19th-century"]').click();
+    expect($('.era[data-collection="women-army"]').getAttribute('aria-pressed')).toBe('true');
+    expect(visibleNames()).toEqual(['Леся Українка']);
   });
 
   it('a tile clicked with a modifier key opens its link as usual', () => {
@@ -143,16 +162,16 @@ describe('initFilters', () => {
     expect($('.era[data-era="19th-century"]').getAttribute('aria-pressed')).toBe('true');
   });
 
-  it('restores a collection from the URL, shows only its people and marks its tile', () => {
+  it('restores a collection from the URL, shows only its people and presses its card', () => {
     setup('?collection=money-people');
     expect($<HTMLInputElement>('[name="collection"]').value).toBe('money-people');
     expect(visibleNames()).toEqual(['Іван Франко', 'Леся Українка']);
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(true);
-    expect($('[data-collection="money-people"] .tile').getAttribute('aria-current')).toBe('true');
-    expect($('[data-collection="women-army"] .tile').hasAttribute('aria-current')).toBe(false);
+    expect($('.era[data-collection="money-people"]').getAttribute('aria-pressed')).toBe('true');
+    expect($('.era[data-collection="women-army"]').getAttribute('aria-pressed')).toBe('false');
   });
 
-  it('reset clears the collection too, and unmarks its tile', async () => {
+  it('reset clears the collection too, and releases its card', async () => {
     setup('?collection=money-people');
     $<HTMLFormElement>('form.filters').reset();
     await new Promise((resolve) => setTimeout(resolve));
@@ -160,7 +179,7 @@ describe('initFilters', () => {
     expect(visibleNames()).toHaveLength(4);
     expect($('.catalogue').hasAttribute('data-filtering')).toBe(false);
     expect($('.tiles').hidden).toBe(false);
-    expect($('[data-collection="money-people"] .tile').hasAttribute('aria-current')).toBe(false);
+    expect($('.era[data-collection="money-people"]').getAttribute('aria-pressed')).toBe('false');
     expect(location.search).toBe('');
   });
 

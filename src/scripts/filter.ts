@@ -41,13 +41,14 @@ export function initFilters() {
   const sections = [...catalogue.querySelectorAll<HTMLElement>('.group')];
   const recentItems = [...(recent?.querySelectorAll<HTMLElement>('.person-item') ?? [])];
   const emptyText = { none: empty.textContent, allRead: empty.dataset.allRead ?? empty.textContent };
-  const eraButtons = [...document.querySelectorAll<HTMLButtonElement>('.era[data-era]')];
-  // Field and collection tiles filter in place, like the era bands; each one's link stays for no-JS.
-  const filterTiles = [...document.querySelectorAll<HTMLElement>('.tile-item')].map((item) => ({
-    link: item.querySelector<HTMLAnchorElement>('.tile')!,
-    key: (item.dataset.collection ? 'collection' : 'group') as Key,
-    value: (item.dataset.collection ?? item.dataset.group)!,
+  // Era and collection cards: toggle buttons for their filter.
+  const ribbonButtons = [...document.querySelectorAll<HTMLButtonElement>('.era[data-era], .era[data-collection]')].map((button) => ({
+    button,
+    key: (button.dataset.collection ? 'collection' : 'era') as Key,
+    value: (button.dataset.collection ?? button.dataset.era)!,
   }));
+  // Field tiles filter in place too; their links stay for no-JS and opening in a new tab.
+  const fieldTiles = tileItems.map((item) => ({ link: item.querySelector<HTMLAnchorElement>('.tile')!, value: item.dataset.group! }));
   const field = (k: Key) => form.elements.namedItem(k) as HTMLInputElement | HTMLSelectElement;
   const isCheckbox = (el: HTMLInputElement | HTMLSelectElement): el is HTMLInputElement =>
     el instanceof HTMLInputElement && el.type === 'checkbox';
@@ -97,9 +98,9 @@ export function initFilters() {
     empty.hidden = !active || found > 0;
     empty.textContent = !narrowing && state.unread ? emptyText.allRead : emptyText.none;
     status.textContent = active ? status.dataset.found!.replace('{n}', String(found)) : '';
-    for (const b of eraButtons) b.setAttribute('aria-pressed', String(b.dataset.era === state.era));
-    for (const t of filterTiles) {
-      if (state[t.key] === t.value) t.link.setAttribute('aria-current', 'true');
+    for (const b of ribbonButtons) b.button.setAttribute('aria-pressed', String(state[b.key] === b.value));
+    for (const t of fieldTiles) {
+      if (state.group === t.value) t.link.setAttribute('aria-current', 'true');
       else t.link.removeAttribute('aria-current');
     }
     if (progress) {
@@ -152,21 +153,18 @@ export function initFilters() {
     field('collection').value = '';
     setTimeout(apply);
   });
-  for (const b of eraButtons) {
-    b.addEventListener('click', () => {
-      const era = field('era');
-      era.value = era.value === b.dataset.era ? '' : b.dataset.era!;
-      apply();
-    });
-  }
-
-  for (const t of filterTiles) {
+  // A second click on the selected card or tile clears its filter.
+  const toggle = (key: Key, value: string) => {
+    const el = field(key);
+    el.value = el.value === value ? '' : value;
+    apply();
+  };
+  for (const b of ribbonButtons) b.button.addEventListener('click', () => toggle(b.key, b.value));
+  for (const t of fieldTiles) {
     t.link.addEventListener('click', (e) => {
       if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return; // opening the link in a new tab
       e.preventDefault();
-      const el = field(t.key);
-      el.value = el.value === t.value ? '' : t.value;
-      apply();
+      toggle('group', t.value);
     });
   }
 

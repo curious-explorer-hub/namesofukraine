@@ -1,4 +1,6 @@
 ---
+import { getImage } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
 import Portrait from './Portrait.astro';
 import { mostLinked, type Person } from '../lib/people';
 import { t, type Lang } from '../i18n';
@@ -10,51 +12,53 @@ interface Props {
 }
 
 const { people, lang } = Astro.props;
-
-// Simple collection symbols (using unicode)
-const collectionSymbols: Record<string, string[]> = {
-  'women-army': ['♀', '⚔', '🛡'],
-  'money-people': ['💰', '₴', '📜'],
-  'defenders-mariupol': ['🏛', '🛡', '⚔'],
+// Cards like the era ribbon's (same styles and sliding highlight), each with a picture of its theme
+// (credits: src/content/collections.json, Credits page).
+const images = import.meta.glob<{ default: ImageMetadata }>('../assets/collections/*.jpg', { eager: true });
+const background = async (file: string) => {
+  const img = images[`../assets/collections/${file}`]?.default;
+  return img ? `--era-bg: url(${(await getImage({ src: img, width: 600, height: 460, fit: 'cover', format: 'webp', quality: 65 })).src})` : undefined;
 };
-
-// Filter collections by people that belong to them
-const tiles = collections.collections
-  .map((c) => {
-    const members = people.filter((p) => p.data.collections.includes(c.id));
-    return { ...c, members, faces: mostLinked(members, people, 3), symbols: collectionSymbols[c.id] || ['◆', '◆', '◆'] };
-  })
-  .filter((c) => c.members.length > 0);
+const cards = (
+  await Promise.all(
+    collections.collections.map(async (c) => {
+      const members = people.filter((p) => p.data.collections.includes(c.id));
+      return { ...c, bg: await background(c.image.file), members, faces: mostLinked(members, people, 3) };
+    }),
+  )
+).filter((c) => c.members.length > 0);
+const most = Math.max(1, ...cards.map((c) => c.members.length));
 ---
 
-<section class="tiles" aria-labelledby="collections-title">
+<nav class="ribbon" aria-labelledby="collections-title">
   <h2 id="collections-title" class="visually-hidden">{t('explore.tab_collections', lang)}</h2>
-  <ul class="tiles-grid" role="list">
+  <ol class="ribbon-bands ribbon-bands-collections">
     {
-      tiles.map((c) => (
-        <li class="tile-item" data-collection={c.id}>
-          <a
-            class="tile"
-            href={`?collection=${c.id}`}
-            data-label={t('collections.count', lang, { n: '{n}' })}
-            data-total={c.members.length}>
-            <svg class="tile-art" viewBox="0 0 300 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
-              {[0, 1, 2].map((i) => (
-                <text x={75 + i * 75} y="100" font-size="60" opacity="0.1" text-anchor="middle" dominant-baseline="middle">
-                  {c.symbols[i]}
-                </text>
-              ))}
-            </svg>
-            <span class="tile-faces" aria-hidden="true">
+      cards.map((c, i) => (
+        <li>
+          <button
+            type="button"
+            class="era"
+            data-collection={c.id}
+            style={[c.bg, `--share: ${c.members.length / most}`, `--i: ${i}`].filter(Boolean).join('; ')}
+            title={c.image.caption[lang]}
+            aria-pressed="false"
+          >
+            <span class="era-tally" aria-hidden="true">
+              <span class="era-count" style={`--count: ${c.members.length}`}><span>{c.members.length}</span></span>
+              <span class="era-bar" />
+            </span>
+            <span class="era-faces" aria-hidden="true">
               {c.faces.map((p) => (
-                <Portrait person={p} class="tile-face" widths={[96, 160]} sizes="5rem" />
+                <Portrait person={p} class="era-face" widths={[56, 112]} sizes="2.75rem" tag="span" />
               ))}
             </span>
-            <span class="tile-name">{c.label[lang]}</span>
-            <span class="tile-count">{t('collections.count', lang, { n: c.members.length })}</span>
-          </a>
+            <span class="era-name">{c.label[lang]}</span>
+            <span class="visually-hidden">{t('collections.count', lang, { n: c.members.length })}</span>
+          </button>
         </li>
       ))
     }
-  </ul>
-</section>
+    <li class="ribbon-indicator" aria-hidden="true"></li>
+  </ol>
+</nav>

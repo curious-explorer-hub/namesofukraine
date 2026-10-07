@@ -121,18 +121,34 @@ test.describe('without JavaScript', () => {
   });
 });
 
-test('a collection tile opens the list of its people', async ({ page }) => {
+test('a collection card filters like an era, and the highlight slides to the next card', async ({ page }) => {
   await page.goto('/uk/');
   await page.getByRole('tab', { name: 'Цікавинки' }).click();
   await expect(page.locator('#panel-collections')).toBeVisible();
-  await page.locator('[data-collection="money-people"] .tile').click();
+  const money = page.locator('button[data-collection="money-people"]');
+  const army = page.locator('button[data-collection="women-army"]');
+  const indicator = page.locator('#panel-collections .ribbon-indicator');
+
+  await money.click();
   await expect(page).toHaveURL(/collection=money-people/);
-  await expect(page.locator('input[name="collection"]')).toHaveValue('money-people');
+  await expect(money).toHaveAttribute('aria-pressed', 'true');
   await expect(page.locator(visibleCards).filter({ hasText: 'Тарас Шевченко' })).toHaveCount(1);
   await expect(page.locator(visibleCards).filter({ hasText: 'Пилип Орлик' })).toHaveCount(0);
-  await expect(page.locator('#panel-collections')).toBeVisible(); // reopens on the collections tab
-  await expect(page.locator('[data-collection="money-people"] .tile')).toHaveAttribute('aria-current', 'true');
-  await expect(page.locator('[data-collection="women-army"] .tile')).not.toHaveAttribute('aria-current');
+  await expect(indicator).toHaveAttribute('data-active');
+  await expect.poll(async () => (await indicator.boundingBox())?.x).toBeCloseTo((await money.boundingBox())!.x, 0);
+
+  await army.click(); // switch collection: the highlight follows
+  await expect(army).toHaveAttribute('aria-pressed', 'true');
+  await expect(money).toHaveAttribute('aria-pressed', 'false');
+  await expect.poll(async () => {
+    const [a, b] = [await indicator.boundingBox(), await army.boundingBox()];
+    return Math.round(a!.x - b!.x) + Math.round(a!.y - b!.y);
+  }).toBe(0);
+  await expect(page.locator('[data-explore] [role="tab"]')).toHaveCount(5); // tabs still there
+
+  await page.reload(); // a shared link opens on the collections tab, card pressed
+  await expect(page.locator('#panel-collections')).toBeVisible();
+  await expect(army).toHaveAttribute('aria-pressed', 'true');
 });
 
 test('changing tabs clears a collection, and the field tiles work again', async ({ page }) => {

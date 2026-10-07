@@ -9,6 +9,19 @@
       "description": {
         "uk": "Кажуть, що це чоловіча справа. Але українські жінки завжди рушали небо й землю. От і тепер.",
         "en": "They say it's a man's job. But Ukrainian women have always moved heaven and earth. Today is no exception."
+      },
+      "image": {
+        "file": "women-army.jpg",
+        "caption": {
+          "uk": "Військові медикині на параді до Дня Незалежності, Хрещатик, Київ, 2018",
+          "en": "Military medics at the Independence Day parade, Khreshchatyk, Kyiv, 2018"
+        },
+        "author": {
+          "uk": "U.S. Army Europe",
+          "en": "U.S. Army Europe"
+        },
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tennessee_Army_National_Guard_participates_in_the_Ukrainian_Independence_Day_parade_Aug._24,_2018_(29366943467).jpg"
       }
     },
     {
@@ -20,6 +33,19 @@
       "description": {
         "uk": "Люди, чиї портрети прикрашають українські гроші — вибір цей говорить багато про те, кого ми вважаємо своїми героями.",
         "en": "Portraits that grace Ukrainian banknotes — the choice tells much about whom we honor."
+      },
+      "image": {
+        "file": "money-people.jpg",
+        "caption": {
+          "uk": "Банкнота 2000 гривень зразка 2026 року з портретом Василя Стуса",
+          "en": "The 2000-hryvnia banknote of 2026, with a portrait of Vasyl Stus"
+        },
+        "author": {
+          "uk": "Національний банк України",
+          "en": "National Bank of Ukraine"
+        },
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2000-гривень-2026-аверс.jpg"
       }
     },
     {
@@ -31,6 +57,19 @@
       "description": {
         "uk": "2022 року захисники Маріуполя писали історію героїзму й опору. Ці люди, цивільні й військові, стали символом невпокору.",
         "en": "In 2022, Mariupol's defenders made history. Civilians and soldiers alike became symbols of resistance."
+      },
+      "image": {
+        "file": "defenders-mariupol.jpg",
+        "caption": {
+          "uk": "Комбінат «Азовсталь», Маріуполь, серпень 2021",
+          "en": "Azovstal iron and steel works, Mariupol, August 2021"
+        },
+        "author": {
+          "uk": "Blast furnace chip worker",
+          "en": "Blast furnace chip worker"
+        },
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Azovstal_iron_and_steel_works_in_2021_—_Азовсталь,_2021_рік_01.jpg"
       }
     }
   ]

@@ -424,6 +424,10 @@ a { color: var(--cobalt); }
 [data-era='19th-century'] { --era: light-dark(#006a6a, #52c9c9); }
 [data-era='20th-century'] { --era: light-dark(#00618f, #72c0ef); }
 [data-era='independence'] { --era: light-dark(#1e4eac, #93b4ff); }
+/* Collection cards share the era card styles, each in its own colour (also WCAG AA both ways) */
+[data-collection='women-army'] { --era: light-dark(#8c2f61, #f49ac7); }
+[data-collection='money-people'] { --era: light-dark(#2c5a2e, #8fd18f); }
+[data-collection='defenders-mariupol'] { --era: light-dark(#4b4e8f, #b3b6f5); }
 .ribbon { margin: 0; }
 /* Era cards in rows: two per row on phones, four from tablet up (seven eras: 4 + 3) */
 .ribbon-bands {
@@ -436,6 +440,7 @@ a { color: var(--cobalt); }
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 @media (min-width: 48rem) { .ribbon-bands { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (min-width: 48rem) { .ribbon-bands-collections { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 .era {
   --era-c: var(--era, var(--cobalt));
   position: relative;
@@ -503,7 +508,7 @@ a { color: var(--cobalt); }
   opacity: 0;
   pointer-events: none;
 }
-.ribbon-indicator[data-era] { opacity: 1; }
+.ribbon-indicator[data-active] { opacity: 1; }
 /* Pointer devices: the hovered band's picture comes alive and the other bands step back.
    (Not on touch screens, where a tapped band would keep its hover state.) */
 @media (hover: hover) {
@@ -872,7 +877,7 @@ a { color: var(--cobalt); }
 .tile-face + .tile-face { margin-left: -0.9rem; }
 .tile-name { grid-area: name; align-self: end; font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.15; }
 .tile-count { grid-area: count; align-self: start; font-weight: 500; color: var(--accent); }
-/* aria-current: the collection being shown */
+/* aria-current: the field being shown */
 .tile:is(:hover, [aria-current]) { background: var(--accent); color: var(--paper); }
 .tile:is(:hover, [aria-current]) .tile-count { color: var(--paper); }
 .tile:is(:hover, [aria-current]) .tile-art { color: var(--paper); opacity: 0.22; }
