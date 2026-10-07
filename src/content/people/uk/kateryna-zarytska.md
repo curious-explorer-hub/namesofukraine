@@ -19,6 +19,7 @@ image:
   position: "50% 5%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Зарицька_Катерина.jpg"
 key_accomplishments:
   - "Очолювала підпільний Український Червоний Хрест (1943–1945)"
@@ -35,7 +36,8 @@ sources:
   - title: Вікіпедія - Зарицька Катерина Миронівна
     url: https://uk.wikipedia.org/wiki/Катерина_Зарицька
 related: [roman-shukhevych, stepan-bandera]
-status: draft
+status: approved
+published: 2026-10-07T15:30:00Z
 ---
 
 ## Вітання з вікна пральні

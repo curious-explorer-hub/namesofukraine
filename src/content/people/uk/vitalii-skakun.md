@@ -29,7 +29,8 @@ sources:
   - title: "АрміяInform - «Відходь, я підірву міст разом із собою»: історія подвигу Героя України Віталія Скакуна (24.02.2023)"
     url: "https://armyinform.com.ua/2023/02/24/vidhod-ya-pidirvu-mist-razom-iz-soboyu-istoriya-podvygu-v-pershi-dni-vtorgnennya-geroya-ukrayiny-vitaliya-skakuna/"
 related: []
-status: draft
+status: approved
+published: 2026-10-07T15:30:00Z
 ---
 
 ## Зварювальник, програміст, сапер
