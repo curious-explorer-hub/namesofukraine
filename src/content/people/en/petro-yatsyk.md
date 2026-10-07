@@ -10,6 +10,7 @@ key_accomplishments:
   - "Funded the English translation of Hrushevskyi’s History of Ukraine-Rus’"
   - "First president of the League of Ukrainian Patrons"
 birthplace_name: "Verkhnie Synovydne"
+image_alt: "Photographic portrait of Petro Yatsyk"
 reviewed: true
 ---
 

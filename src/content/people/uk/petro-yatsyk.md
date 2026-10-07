@@ -15,6 +15,13 @@ places:
   - { name: "Торонто", lat: 43.653, lon: -79.383, note: "жив і вів бізнес; тут похований" }
   - { name: "Едмонтон", lat: 53.546, lon: -113.494, note: "центр досліджень історії України його імені" }
   - { name: "Київ", lat: 50.447, lon: 30.537, note: "Ліга українських меценатів" }
+image:
+  src: ./images/petro-yatsyk.jpg
+  alt: "Фотопортрет Петра Яцика"
+  author: "Невідомий автор"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:24_Jacyk.jpg"
 key_accomplishments:
   - "Збудував у Канаді успішну будівельну фірму"
   - "Підтримував українознавство в Гарварді, Торонто, Лондоні й Нью-Йорку"
