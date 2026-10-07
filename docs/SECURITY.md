@@ -44,4 +44,4 @@ Contributors never need a role on the repository: on a public repo anyone can fo
 5. **CI** (`.github/workflows/ci.yml`): move the Cloudflare secrets from the job's `env` into a separate deploy job that runs only on pushes to `main` (ideally with a `production` environment limited to `main`), so no build or test step ever holds the token; pin third-party actions to a commit SHA (Dependabot updates them). Never use `pull_request_target` with a checkout of PR code.
 6. **Test** with a pull request from a second account: the checks wait for approval, merging is blocked without the owner's review, and no secret appears in the log.
 
-`.github/CODEOWNERS` makes the owner the reviewer of everything; editors can later own `src/content/`, while `.github/`, `scripts/`, `public/_headers`, `src/site.ts` and `package.json` stay with the owner.
+`.github/CODEOWNERS` makes the owner the reviewer of every change in the repository.

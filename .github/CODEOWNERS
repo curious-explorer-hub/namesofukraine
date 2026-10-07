@@ -1,12 +1,1 @@
-# The owner reviews every change. When editors join, give them src/content/ here, after the line below;
-# the security-sensitive paths stay with the owner only.
-*                    @curious-explorer-hub
-
-/.github/            @curious-explorer-hub
-/scripts/            @curious-explorer-hub
-/public/_headers     @curious-explorer-hub
-/public/_redirects   @curious-explorer-hub
-/src/site.ts         @curious-explorer-hub
-/package.json        @curious-explorer-hub
-/package-lock.json   @curious-explorer-hub
-/astro.config.mjs    @curious-explorer-hub
+* @curious-explorer-hub
