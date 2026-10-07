@@ -10,8 +10,7 @@
     "check": "astro check",
     "test": "vitest run",
     "test:e2e": "npm run build && playwright test",
-    "feedback": "node scripts/pull-feedback.mjs",
-    "approve": "node scripts/approve.mjs"
+    "feedback": "node scripts/pull-feedback.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",

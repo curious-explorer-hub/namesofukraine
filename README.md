@@ -19,7 +19,7 @@ npm test         # unit + DOM tests (Vitest)
 Add a person:
 1. `src/content/people/uk/<slug>.md` — all facts plus the Ukrainian text (see `taras-shevchenko.md`; schema in `src/content.config.ts`).
 2. `src/content/people/en/<slug>.md` — English text only (name, role, summary, fun fact, accomplishments, birthplace name, image alt). The Markdown body (long bio) is optional; until it's written, the English page shows the Ukrainian original with a note.
-3. Leave `status: draft` (the default). The owner reads the draft in `npm run dev` and publishes it with `npm run approve -- <slug>`, which stamps the publish time.
+3. Leave `status: draft` (the default). The owner reads the draft in `npm run dev` (marked «Чернетка») and publishes it: set `status: approved` and add `published: <current UTC time>` (e.g. `published: 2026-10-07T09:00:00Z`) under it.
 
 Pages exist in both languages at the same depth: Ukrainian under `/uk/`, English under `/en/` (e.g. `/uk/people/ivan-marchuk/`). The bare root `/` redirects to `/uk/`. Page layouts live in `src/views/`; the files in `src/pages/uk/` and `src/pages/en/` are thin wrappers.
 

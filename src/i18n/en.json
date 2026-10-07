@@ -50,6 +50,8 @@
   "nav.label": "Main navigation",
   "lang.label": "Language",
   "lang.switch_label": "Читати українською",
+  "draft.badge": "Draft",
+  "draft.banner": "Draft: this profile is not on the site yet. It goes live once reviewed and approved.",
   "person.translation_pending": "This story hasn't been translated into English yet. Below is the Ukrainian original.",
   "footer.note": "A non-commercial educational project about the people who made Ukraine.",
   "footer.label": "About the site",

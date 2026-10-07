@@ -60,6 +60,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
 
 <BaseLayout lang={lang} title={data.name} description={data.summary} ogImage={`/og/${lang}/${person.slug}.jpg`} structuredData={structuredData}>
 
+  {data.status === 'draft' && <p class="draft-banner" role="note">{t('draft.banner', lang)}</p>}
   <article class="profile" data-group={data.group} data-read-slug={person.slug}>
     <header class="profile-head">
       <p class="profile-years">{lifespan(person)}</p>

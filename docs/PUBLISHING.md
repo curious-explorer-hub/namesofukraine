@@ -21,7 +21,7 @@ edit files ──► commit ──► push to main ──► CI (GitHub Actions)
 
 Pull requests run all the checks but **never deploy**; only `main` does.
 
-**Nothing is published until the owner approves it.** **Moderation:** every new profile starts as `status: draft` in its Ukrainian file. Drafts live in the repository and show in `npm run dev`, but never on the site; links to them in other profiles' text show as plain text until then. Only the owner approves a profile, after reading it: `npm run approve <slug> [<slug> …]` sets `status: approved` and stamps `published` with the current time, which orders the New page, the "Нове" badge and RSS.
+**Nothing is published until the owner approves it.** **Moderation:** every new profile starts as `status: draft` in its Ukrainian file. Drafts live in the repository and show in `npm run dev`, but never on the site; links to them in other profiles' text show as plain text until then. Only the owner approves a profile, after reading it: set `status: approved` and add `published: <current UTC time>` (e.g. `published: 2026-10-07T09:00:00Z`) under it. That time orders the New page, the "Нове" badge and RSS. The build fails if an approved profile has no `published`.
 
 ## Check before pushing
 
@@ -30,7 +30,6 @@ npm run check      # types + content schema (role ≤ 40 chars, summary ≤ 300,
 npm test           # unit tests
 npm run test:e2e   # production build + browser smoke tests (desktop + mobile)
 npm run dev        # http://localhost:4321, shows drafts too
-npm run approve -- <slug>   # owner only: publish a reviewed draft
 ```
 
 ## Did my change go live?

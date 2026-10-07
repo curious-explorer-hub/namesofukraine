@@ -40,7 +40,7 @@ Thank you for helping «Знай своїх» / Know Your Own. The site is a non
    ```
 5. Open the pull request against `main` and fill in the template. The checks run automatically; for a first-time contributor they start once a maintainer approves them.
 
-**Review:** the owner (or an editor) checks the facts against the sources, the tone and the image licence, may push small fixes, and merges. A new profile stays a draft until the owner approves it (`npm run approve`); fixes to published profiles go live when merged.
+**Review:** the owner (or an editor) checks the facts against the sources, the tone and the image licence, may push small fixes, and merges. A new profile stays a draft until the owner approves it; fixes to published profiles go live when merged.
 
 ## License of contributions
 

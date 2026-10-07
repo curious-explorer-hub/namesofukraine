@@ -12,7 +12,8 @@ interface Props {
 
 const { person, headingLevel: Heading = 'h3', fallback = false } = Astro.props;
 const { data, lang } = person;
-const fresh = isNew(person);
+const draft = person.data.status === 'draft'; // only ever rendered in dev
+const fresh = !draft && isNew(person);
 ---
 
 <li
@@ -34,6 +35,7 @@ const fresh = isNew(person);
     <p class="person-role">{data.role}</p>
     <p class="person-summary">{data.summary}</p>
     <p class="person-tags">{data.tags.map((tag) => tagLabel(tag, lang)).join(', ')}</p>
+    {draft && <span class="badge-new badge-draft">{t('draft.badge', lang)}</span>}
     {fresh && <span class="badge-new">{t('home.new_badge', lang)}</span>}
     {/* Shown by the read-marks script for people already read (stored in this browser only). */}
     <span class="badge-read" title={t('read.badge', lang)}>

@@ -61,13 +61,13 @@ const people = defineCollection({
         gallery: z.array(z.object({ src: image(), caption: z.string(), ...credit })).default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),
-        // Every new profile starts as a draft: in the repo, never on the site. The owner approves it after
-        // review (`npm run approve <slug>`), which stamps `published`; that time orders "new additions".
+        // Every new profile starts as a draft: in the repo, never on the site. After review the owner sets
+        // `status: approved` and `published` (the current time), which orders "new additions".
         status: z.enum(['draft', 'approved']).default('draft'),
         published: z.coerce.date().optional(),
       })
       .refine((p) => p.living || p.died, { message: 'Set `died` or `living: true`' })
-      .refine((p) => p.status !== 'approved' || p.published, { message: 'An approved profile needs `published`' }),
+      .refine((p) => p.status !== 'approved' || p.published, { message: 'An approved profile needs `published: <current time, e.g. 2026-10-07T09:00:00Z>`' }),
 });
 
 // English translations hold only the text that is translated; dates, places, group, sources, and

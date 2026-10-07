@@ -61,7 +61,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 ## Content rules (summary of product_vision.md §7)
 
-- **Every new profile is a draft** (`status: draft` in the uk file) until the owner reviews it. Never set `status: approved` or `published` yourself; the owner runs `npm run approve <slug>`, which stamps the publish time. Drafts are not on the site, and links to them render as plain text.
+- **Every new profile is a draft** (`status: draft` in the uk file) until the owner reviews it. Never set `status: approved` or `published` unless the owner tells you to approve that profile; then set `status: approved` and add `published: <current UTC time>` (e.g. `published: 2026-10-07T09:00:00Z`) under it. Drafts are not on the site, and links to them render as plain text.
 - **Facts:** ≥ 2 reputable sources per profile, at least one encyclopedic (ЕСУ esu.com.ua, ЕІУ history.org.ua, Internet Encyclopedia of Ukraine). Wikipedia alone is never enough. Don't invent quotes, numbers or awards.
 - **Sources listed:** at most 4 per profile, no more than one per website, together backing every fact in the text. Fact-checking may use more; if a fact rests only on a source that doesn't make the list, shorten or drop the fact.
 - **Limits:** role ≤ 40 characters, summary ≤ 300, in both languages (the schema enforces them).
