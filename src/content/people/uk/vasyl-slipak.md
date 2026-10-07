@@ -1,5 +1,6 @@
 ---
 name: Василь Сліпак
+gender: male
 born: 1974-12-20
 died: 2016-06-29
 last_reviewed: 2026-10-07

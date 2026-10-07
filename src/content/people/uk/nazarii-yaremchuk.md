@@ -1,5 +1,6 @@
 ---
 name: Назарій Яремчук
+gender: male
 born: 1951-11-30
 died: 1995-06-30
 last_reviewed: 2026-10-06

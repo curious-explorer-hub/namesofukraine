@@ -1,5 +1,6 @@
 ---
 name: Василь Симоненко
+gender: male
 born: 1935-01-08
 died: 1963-12-13
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Олег Блохін
+gender: male
 born: 1952-11-05
 living: true
 last_reviewed: 2026-10-06

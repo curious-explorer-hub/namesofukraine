@@ -1,5 +1,6 @@
 ---
 name: Микола Хвильовий
+gender: male
 born: 1893-12-13
 died: 1933-05-13
 last_reviewed: 2026-10-06

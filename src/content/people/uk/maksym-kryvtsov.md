@@ -1,5 +1,6 @@
 ---
 name: Максим Кривцов
+gender: male
 born: 1990-01-22
 died: 2024-01-07
 last_reviewed: 2026-10-06

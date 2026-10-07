@@ -1,5 +1,6 @@
 ---
 name: Богдан Ступка
+gender: male
 born: 1941-08-27
 died: 2012-07-22
 last_reviewed: 2026-10-06

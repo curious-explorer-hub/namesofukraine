@@ -1,5 +1,6 @@
 ---
 name: Михайло Грушевський
+gender: male
 born: 1866-09-29
 died: 1934-11-24
 last_reviewed: 2026-10-06

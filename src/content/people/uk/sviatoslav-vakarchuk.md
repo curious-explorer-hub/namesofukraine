@@ -1,5 +1,6 @@
 ---
 name: Святослав Вакарчук
+gender: male
 born: 1975-05-14
 living: true
 last_reviewed: 2026-10-06

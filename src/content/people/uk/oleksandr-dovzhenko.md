@@ -1,5 +1,6 @@
 ---
 name: Олександр Довженко
+gender: male
 born: 1894-09-10
 died: 1956-11-25
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Сергій Кульчицький
+gender: male
 born: 1963-12-17
 died: 2014-05-29
 last_reviewed: 2026-10-07

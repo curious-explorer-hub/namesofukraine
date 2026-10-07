@@ -1,5 +1,6 @@
 ---
 name: Борис Патон
+gender: male
 born: 1918-11-27
 died: 2020-08-19
 last_reviewed: 2026-10-06

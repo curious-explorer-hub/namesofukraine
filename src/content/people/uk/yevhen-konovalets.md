@@ -1,5 +1,6 @@
 ---
 name: Євген Коновалець
+gender: male
 born: 1891-06-14
 died: 1938-05-23
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Павло Скоропадський
+gender: male
 born: 1873-05-15
 died: 1945-04-26
 last_reviewed: 2026-10-06

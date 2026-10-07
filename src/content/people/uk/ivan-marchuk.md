@@ -1,5 +1,6 @@
 ---
 name: Іван Марчук
+gender: male
 born: 1936-05-12
 living: true
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Вадим Ворошилов
+gender: male
 born: 1994-02-02
 living: true
 last_reviewed: 2026-10-06

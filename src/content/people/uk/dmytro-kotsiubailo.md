@@ -1,5 +1,6 @@
 ---
 name: Дмитро Коцюбайло
+gender: male
 born: 1995-11-01
 died: 2023-03-07
 last_reviewed: 2026-10-06

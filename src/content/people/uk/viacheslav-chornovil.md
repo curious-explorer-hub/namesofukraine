@@ -1,5 +1,6 @@
 ---
 name: В'ячеслав Чорновіл
+gender: male
 born: 1937-12-24
 died: 1999-03-25
 last_reviewed: 2026-10-06

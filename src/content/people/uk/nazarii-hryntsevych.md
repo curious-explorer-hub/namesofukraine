@@ -1,5 +1,6 @@
 ---
 name: Назарій Гринцевич
+gender: male
 born: 2003-03-10
 died: 2024-05-06
 last_reviewed: 2026-10-06

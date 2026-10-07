@@ -1,5 +1,6 @@
 ---
 name: Володимир Винниченко
+gender: male
 born: 1880-07-28
 died: 1951-03-06
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Михайло Драпатий
+gender: male
 born: 1982-11-21
 living: true
 last_reviewed: 2026-10-07

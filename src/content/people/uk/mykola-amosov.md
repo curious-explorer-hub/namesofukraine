@@ -1,5 +1,6 @@
 ---
 name: Микола Амосов
+gender: male
 born: 1913-12-06
 died: 2002-12-12
 last_reviewed: 2026-10-06

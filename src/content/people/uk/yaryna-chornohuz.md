@@ -1,6 +1,6 @@
 ---
 name: Ярина Чорногуз
-female: true
+gender: female
 born: 1995-05-18
 living: true
 last_reviewed: 2026-10-07

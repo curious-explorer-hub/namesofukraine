@@ -1,5 +1,6 @@
 ---
 name: Іван Мазепа
+gender: male
 born: 1639-01-01
 born_circa: true
 died: 1709-10-03

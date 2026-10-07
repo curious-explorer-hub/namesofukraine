@@ -1,5 +1,6 @@
 ---
 name: Нестор Махно
+gender: male
 born: 1888-11-07
 died: 1934-07-25
 last_reviewed: 2026-10-06

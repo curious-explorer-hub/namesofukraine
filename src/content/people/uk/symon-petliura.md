@@ -1,5 +1,6 @@
 ---
 name: Симон Петлюра
+gender: male
 born: 1879-05-22
 died: 1926-05-25
 last_reviewed: 2026-10-06

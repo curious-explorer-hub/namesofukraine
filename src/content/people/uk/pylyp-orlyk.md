@@ -1,5 +1,6 @@
 ---
 name: Пилип Орлик
+gender: male
 born: 1672-10-21
 died: 1742-06-05
 last_reviewed: 2026-10-06

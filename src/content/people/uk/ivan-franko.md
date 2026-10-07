@@ -1,5 +1,6 @@
 ---
 name: Іван Франко
+gender: male
 born: 1856-08-27
 died: 1916-05-28
 last_reviewed: 2026-10-06

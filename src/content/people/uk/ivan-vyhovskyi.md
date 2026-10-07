@@ -1,5 +1,6 @@
 ---
 name: Іван Виговський
+gender: male
 born: 1608-01-01
 born_circa: true
 died: 1664-03-27

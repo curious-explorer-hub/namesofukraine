@@ -1,5 +1,6 @@
 ---
 name: Петро Конашевич-Сагайдачний
+gender: male
 born: 1582-01-01
 born_circa: true
 died: 1622-04-20

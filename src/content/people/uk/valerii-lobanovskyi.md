@@ -1,5 +1,6 @@
 ---
 name: Валерій Лобановський
+gender: male
 born: 1939-01-06
 died: 2002-05-13
 last_reviewed: 2026-10-06

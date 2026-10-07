@@ -1,5 +1,6 @@
 ---
 name: Ігор Брановицький
+gender: male
 born: 1976-04-25
 died: 2015-01-21
 last_reviewed: 2026-10-07

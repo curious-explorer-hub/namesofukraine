@@ -1,6 +1,6 @@
 ---
 name: Інна Дерусова
-female: true
+gender: female
 born: 1970-07-05
 died: 2022-02-26
 last_reviewed: 2026-10-06

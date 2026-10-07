@@ -1,5 +1,6 @@
 ---
 name: Сергій Параджанов
+gender: male
 born: 1924-01-09
 died: 1990-07-20
 last_reviewed: 2026-10-06

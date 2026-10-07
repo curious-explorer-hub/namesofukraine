@@ -1,5 +1,6 @@
 ---
 name: Сергій Стерненко
+gender: male
 born: 1995-03-20
 living: true
 last_reviewed: 2026-10-06

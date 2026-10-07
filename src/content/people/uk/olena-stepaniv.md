@@ -1,6 +1,6 @@
 ---
 name: Олена Степанів
-female: true
+gender: female
 born: 1892-12-07
 died: 1963-07-11
 last_reviewed: 2026-10-07

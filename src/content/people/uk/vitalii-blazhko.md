@@ -1,5 +1,6 @@
 ---
 name: Віталій Блажко
+gender: male
 born: 1989-07-22
 died: 2022-05-08
 last_reviewed: 2026-10-07

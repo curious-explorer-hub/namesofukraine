@@ -1,5 +1,6 @@
 ---
 name: Микола Зеров
+gender: male
 born: 1890-04-26
 died: 1937-11-03
 last_reviewed: 2026-10-06

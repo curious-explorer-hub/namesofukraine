@@ -1,5 +1,6 @@
 ---
 name: Любомир Гузар
+gender: male
 born: 1933-02-26
 died: 2017-05-31
 last_reviewed: 2026-10-06

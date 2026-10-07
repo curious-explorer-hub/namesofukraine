@@ -1,5 +1,6 @@
 ---
 name: Ігор Сікорський
+gender: male
 born: 1889-06-06
 died: 1972-10-26
 last_reviewed: 2026-10-06

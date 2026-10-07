@@ -1,5 +1,6 @@
 ---
 name: Микола Лисенко
+gender: male
 born: 1842-03-22
 died: 1912-11-06
 last_reviewed: 2026-10-06

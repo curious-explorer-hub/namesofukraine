@@ -1,5 +1,6 @@
 ---
 name: Іван Піддубний
+gender: male
 born: 1871-10-08
 died: 1949-08-08
 last_reviewed: 2026-10-06

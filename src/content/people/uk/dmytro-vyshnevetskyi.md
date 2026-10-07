@@ -1,5 +1,6 @@
 ---
 name: Дмитро Вишневецький (Байда)
+gender: male
 born: 1516-01-01
 born_circa: true
 died: 1563-10-29

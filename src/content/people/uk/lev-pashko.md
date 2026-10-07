@@ -1,5 +1,6 @@
 ---
 name: Лев Пашко
+gender: male
 born: 2000-01-01
 born_circa: true
 living: true

@@ -1,5 +1,6 @@
 ---
 name: Михайло Діанов
+gender: male
 born: 1980-01-01
 born_circa: true
 living: true

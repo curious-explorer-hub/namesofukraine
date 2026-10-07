@@ -1,5 +1,6 @@
 ---
 name: Лесь Курбас
+gender: male
 born: 1887-02-25
 died: 1937-11-03
 last_reviewed: 2026-10-06

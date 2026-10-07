@@ -1,5 +1,6 @@
 ---
 name: Леонід Каденюк
+gender: male
 born: 1951-01-28
 died: 2018-01-31
 last_reviewed: 2026-10-06

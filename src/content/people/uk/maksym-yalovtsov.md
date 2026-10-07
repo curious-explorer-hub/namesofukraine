@@ -1,5 +1,6 @@
 ---
 name: Максим Яловцов
+gender: male
 born: 1990-08-05
 died: 2022-09-21
 last_reviewed: 2026-10-06

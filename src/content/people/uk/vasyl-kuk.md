@@ -1,5 +1,6 @@
 ---
 name: Василь Кук
+gender: male
 born: 1913-01-11
 died: 2007-09-09
 last_reviewed: 2026-10-07

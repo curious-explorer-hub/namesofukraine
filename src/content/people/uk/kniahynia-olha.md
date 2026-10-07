@@ -1,6 +1,6 @@
 ---
 name: Княгиня Ольга
-female: true
+gender: female
 born: 0910-01-01
 born_circa: true
 died: 0969-07-11

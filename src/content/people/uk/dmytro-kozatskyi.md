@@ -1,5 +1,6 @@
 ---
 name: Дмитро Козацький
+gender: male
 born: 1995-01-01
 born_circa: true
 living: true

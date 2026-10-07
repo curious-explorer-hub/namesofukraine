@@ -1,5 +1,6 @@
 ---
 name: Святослав Паламар
+gender: male
 born: 1982-10-10
 living: true
 last_reviewed: 2026-10-06

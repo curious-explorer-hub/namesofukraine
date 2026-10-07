@@ -66,7 +66,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
       <p class="profile-years">{lifespan(person)}</p>
       <h1 class="profile-name">{data.name}</h1>
       <p class="profile-role">{data.role}</p>
-      <p class="profile-tags">{data.tags.map((tag) => tagLabel(tag, lang, data.female)).join(', ')}</p>
+      <p class="profile-tags">{data.tags.map((tag) => tagLabel(tag, lang, data.gender)).join(', ')}</p>
     </header>
 
     <aside class="profile-facts" aria-labelledby="facts-title">

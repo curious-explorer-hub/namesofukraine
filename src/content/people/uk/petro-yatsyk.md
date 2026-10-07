@@ -1,5 +1,6 @@
 ---
 name: Петро Яцик
+gender: male
 born: 1921-07-07
 died: 2001-11-01
 last_reviewed: 2026-10-06

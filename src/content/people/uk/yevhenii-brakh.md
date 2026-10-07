@@ -1,5 +1,6 @@
 ---
 name: Євгеній Брах
+gender: male
 born: 1995-10-02
 died: 2022-09-21
 last_reviewed: 2026-10-06

@@ -1,6 +1,6 @@
 ---
 name: Ірина Цибух
-female: true
+gender: female
 born: 1998-06-01
 died: 2024-05-29
 last_reviewed: 2026-10-06

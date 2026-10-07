@@ -1,5 +1,6 @@
 ---
 name: Віталій Скакун
+gender: male
 born: 1996-08-19
 died: 2022-02-24
 last_reviewed: 2026-10-06

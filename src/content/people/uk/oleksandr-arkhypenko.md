@@ -1,5 +1,6 @@
 ---
 name: Олександр Архипенко
+gender: male
 born: 1887-05-30
 died: 1964-02-25
 last_reviewed: 2026-10-06

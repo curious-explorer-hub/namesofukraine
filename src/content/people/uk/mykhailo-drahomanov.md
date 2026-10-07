@@ -1,5 +1,6 @@
 ---
 name: Михайло Драгоманов
+gender: male
 born: 1841-09-30
 died: 1895-07-02
 last_reviewed: 2026-10-06

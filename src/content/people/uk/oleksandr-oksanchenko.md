@@ -1,5 +1,6 @@
 ---
 name: Олександр Оксанченко
+gender: male
 born: 1968-04-26
 died: 2022-02-25
 last_reviewed: 2026-10-07

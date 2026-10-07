@@ -1,5 +1,6 @@
 ---
 name: Данило Галицький
+gender: male
 born: 1201-01-01
 born_circa: true
 died: 1264-01-01

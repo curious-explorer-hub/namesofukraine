@@ -1,5 +1,6 @@
 ---
 name: Ігор Гордійчук
+gender: male
 born: 1972-11-12
 living: true
 last_reviewed: 2026-10-07

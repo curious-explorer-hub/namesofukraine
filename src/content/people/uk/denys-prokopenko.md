@@ -1,5 +1,6 @@
 ---
 name: Денис Прокопенко
+gender: male
 born: 1991-06-27
 living: true
 last_reviewed: 2026-10-06

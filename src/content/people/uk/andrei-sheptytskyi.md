@@ -1,5 +1,6 @@
 ---
 name: Андрей Шептицький
+gender: male
 born: 1865-07-29
 died: 1944-11-01
 last_reviewed: 2026-10-06

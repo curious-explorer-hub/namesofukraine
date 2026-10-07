@@ -1,5 +1,6 @@
 ---
 name: Тарас Шевченко
+gender: male
 born: 1814-03-09
 died: 1861-03-10
 last_reviewed: 2026-10-06

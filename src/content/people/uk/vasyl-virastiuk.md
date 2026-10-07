@@ -1,5 +1,6 @@
 ---
 name: Василь Вірастюк
+gender: male
 born: 1974-04-22
 living: true
 last_reviewed: 2026-10-06

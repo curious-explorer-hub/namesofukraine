@@ -1,6 +1,6 @@
 ---
 name: Катерина Зарицька
-female: true
+gender: female
 born: 1914-11-03
 died: 1986-08-29
 last_reviewed: 2026-10-06

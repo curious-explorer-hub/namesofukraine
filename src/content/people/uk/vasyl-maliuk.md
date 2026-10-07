@@ -1,5 +1,6 @@
 ---
 name: Василь Малюк
+gender: male
 born: 1983-02-28
 living: true
 last_reviewed: 2026-10-06

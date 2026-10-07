@@ -1,5 +1,6 @@
 ---
 name: Петро Калнишевський
+gender: male
 born: 1691-01-01
 born_circa: true
 died: 1803-11-12

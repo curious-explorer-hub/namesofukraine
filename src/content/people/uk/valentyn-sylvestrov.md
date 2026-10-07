@@ -1,5 +1,6 @@
 ---
 name: Валентин Сильвестров
+gender: male
 born: 1937-09-30
 living: true
 last_reviewed: 2026-10-06

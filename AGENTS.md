@@ -67,7 +67,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Limits:** role ≤ 40 characters, summary ≤ 300, in both languages (the schema enforces them).
 - **Dates:** Gregorian from 1582; `born_circa` / `died_circa` when uncertain. Living people: `living: true`, and no wording that goes stale ("currently", "still lives"); use "as of <month year>" where needed.
 - **Contested figures:** neutral tone and a «Дискусії та оцінки» / "Debates and assessments" section with sources. **"Ukrainian" claims:** state the connection precisely.
-- **Women:** `female: true` in the uk file, so the Ukrainian tags show in feminine form (Поетеса, Військова); every tag in `categories.json` has a `uk_female` form.
+- **Gender:** `gender: male` or `female` in the uk file (required); for women the Ukrainian tags show in feminine form (Поетеса, Військова); every tag in `categories.json` has a `uk_female` form.
 - **Living people and fallen defenders:** public role and deeds only; nothing private or graphic.
 - **Images:** public domain or a free license (Wikimedia Commons; check the license through the API), or written permission; credit author, license and source. Mark AI edits with `ai_edit` (`colorized`, `restored`, `rendered`). Fair use only by owner decision (`fair_use: true`).
 - **English names:** official transliteration with -skyi; established personal spellings are exceptions (§5).

@@ -1,6 +1,6 @@
 ---
 name: Квітка Цісик
-female: true
+gender: female
 born: 1953-04-04
 died: 1998-03-29
 last_reviewed: 2026-10-06

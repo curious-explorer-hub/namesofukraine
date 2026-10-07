@@ -1,5 +1,6 @@
 ---
 name: Володимир Баранюк
+gender: male
 born: 1974-01-01
 born_circa: true
 living: true

@@ -1,5 +1,6 @@
 ---
 name: Казимир Малевич
+gender: male
 born: 1879-02-23
 died: 1935-05-15
 last_reviewed: 2026-10-06

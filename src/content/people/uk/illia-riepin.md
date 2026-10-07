@@ -1,5 +1,6 @@
 ---
 name: Ілля Рєпін
+gender: male
 born: 1844-08-05
 died: 1930-09-29
 last_reviewed: 2026-10-06

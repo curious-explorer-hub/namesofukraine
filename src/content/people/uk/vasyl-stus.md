@@ -1,5 +1,6 @@
 ---
 name: Василь Стус
+gender: male
 born: 1938-01-06
 died: 1985-09-04
 last_reviewed: 2026-10-07

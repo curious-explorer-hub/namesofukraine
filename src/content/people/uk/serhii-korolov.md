@@ -1,5 +1,6 @@
 ---
 name: Сергій Корольов
+gender: male
 born: 1907-01-12
 died: 1966-01-14
 last_reviewed: 2026-10-06

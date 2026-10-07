@@ -1,5 +1,6 @@
 ---
 name: Олег Сенцов
+gender: male
 born: 1976-07-13
 living: true
 last_reviewed: 2026-10-06

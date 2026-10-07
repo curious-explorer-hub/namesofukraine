@@ -1,5 +1,6 @@
 ---
 name: Богдан Гаврилишин
+gender: male
 born: 1926-10-19
 died: 2016-10-24
 last_reviewed: 2026-10-06

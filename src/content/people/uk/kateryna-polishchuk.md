@@ -1,6 +1,6 @@
 ---
 name: Катерина Поліщук
-female: true
+gender: female
 born: 2001-03-31
 living: true
 last_reviewed: 2026-10-06

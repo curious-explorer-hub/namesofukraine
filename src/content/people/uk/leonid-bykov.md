@@ -1,5 +1,6 @@
 ---
 name: Леонід Биков
+gender: male
 born: 1928-12-12
 died: 1979-04-11
 last_reviewed: 2026-10-06

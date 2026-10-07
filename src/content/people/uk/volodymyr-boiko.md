@@ -1,5 +1,6 @@
 ---
 name: Володимир Бойко
+gender: male
 born: 1938-09-20
 died: 2015-06-10
 last_reviewed: 2026-10-06

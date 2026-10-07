@@ -1,5 +1,6 @@
 ---
 name: Микола Гоголь
+gender: male
 born: 1809-04-01
 died: 1852-03-04
 last_reviewed: 2026-10-06

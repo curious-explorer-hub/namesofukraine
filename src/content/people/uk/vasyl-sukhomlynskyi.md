@@ -1,5 +1,6 @@
 ---
 name: Василь Сухомлинський
+gender: male
 born: 1918-09-28
 died: 1970-09-02
 last_reviewed: 2026-10-06

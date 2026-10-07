@@ -1,5 +1,6 @@
 ---
 name: Роман Ратушний
+gender: male
 born: 1997-07-05
 died: 2022-06-09
 last_reviewed: 2026-10-06

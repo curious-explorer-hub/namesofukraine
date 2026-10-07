@@ -1,5 +1,6 @@
 ---
 name: Олександр Мацієвський
+gender: male
 born: 1980-05-10
 died: 2022-12-30
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Юрій Руф
+gender: male
 born: 1980-09-26
 died: 2022-04-01
 last_reviewed: 2026-10-06

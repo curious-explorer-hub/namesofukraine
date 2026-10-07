@@ -1,5 +1,6 @@
 ---
 name: Сергій Волинський
+gender: male
 born: 1992-01-31
 living: true
 last_reviewed: 2026-10-06

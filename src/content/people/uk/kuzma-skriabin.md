@@ -1,5 +1,6 @@
 ---
 name: Кузьма Скрябін
+gender: male
 born: 1968-08-17
 died: 2015-02-02
 last_reviewed: 2026-10-06

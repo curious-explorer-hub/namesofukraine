@@ -1,6 +1,6 @@
 ---
 name: Юлія Паєвська
-female: true
+gender: female
 born: 1968-12-19
 living: true
 last_reviewed: 2026-10-06

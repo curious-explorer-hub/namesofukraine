@@ -1,5 +1,6 @@
 ---
 name: Олексій Месь
+gender: male
 born: 1993-10-20
 died: 2024-08-26
 last_reviewed: 2026-10-06

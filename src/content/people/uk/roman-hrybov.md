@@ -1,5 +1,6 @@
 ---
 name: Роман Грибов
+gender: male
 born: 1990-01-01
 born_circa: true
 living: true

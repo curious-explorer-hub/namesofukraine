@@ -1,5 +1,6 @@
 ---
 name: Іван Сірко
+gender: male
 born: 1618-01-01
 born_circa: true
 died: 1680-08-11

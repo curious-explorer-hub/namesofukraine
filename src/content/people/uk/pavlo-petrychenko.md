@@ -1,5 +1,6 @@
 ---
 name: Павло Петриченко
+gender: male
 born: 1992-04-16
 died: 2024-04-15
 last_reviewed: 2026-10-06

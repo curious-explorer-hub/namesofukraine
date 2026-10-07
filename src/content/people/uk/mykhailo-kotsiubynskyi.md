@@ -1,5 +1,6 @@
 ---
 name: Михайло Коцюбинський
+gender: male
 born: 1864-09-17
 died: 1913-04-25
 last_reviewed: 2026-10-06

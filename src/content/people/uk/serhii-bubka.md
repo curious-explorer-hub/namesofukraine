@@ -1,5 +1,6 @@
 ---
 name: Сергій Бубка
+gender: male
 born: 1963-12-04
 living: true
 last_reviewed: 2026-10-06

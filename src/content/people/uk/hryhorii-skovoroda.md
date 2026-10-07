@@ -1,5 +1,6 @@
 ---
 name: Григорій Сковорода
+gender: male
 born: 1722-12-03
 died: 1794-11-09
 last_reviewed: 2026-10-06

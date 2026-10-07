@@ -1,5 +1,6 @@
 ---
 name: Віталій Кличко
+gender: male
 born: 1971-07-19
 living: true
 last_reviewed: 2026-10-06

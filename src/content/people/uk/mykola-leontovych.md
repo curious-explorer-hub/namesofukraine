@@ -1,5 +1,6 @@
 ---
 name: Микола Леонтович
+gender: male
 born: 1877-12-13
 died: 1921-01-23
 last_reviewed: 2026-10-06

@@ -1,6 +1,6 @@
 ---
 name: Ніна Матвієнко
-female: true
+gender: female
 born: 1947-10-10
 died: 2023-10-08
 last_reviewed: 2026-10-06

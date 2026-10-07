@@ -1,5 +1,6 @@
 ---
 name: В'ячеслав Брюховецький
+gender: male
 born: 1947-07-14
 living: true
 last_reviewed: 2026-10-06

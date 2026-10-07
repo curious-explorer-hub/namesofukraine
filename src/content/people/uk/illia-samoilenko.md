@@ -1,5 +1,6 @@
 ---
 name: Ілля Самойленко
+gender: male
 born: 1994-01-01
 born_circa: true
 living: true

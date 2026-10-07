@@ -1,5 +1,6 @@
 ---
 name: Петро Дорошенко
+gender: male
 born: 1627-01-01
 born_circa: true
 died: 1698-11-19

@@ -1,5 +1,6 @@
 ---
 name: Серж Лифар
+gender: male
 born: 1905-04-15
 died: 1986-12-15
 last_reviewed: 2026-10-06

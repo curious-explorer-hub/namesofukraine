@@ -1,5 +1,6 @@
 ---
 name: Євгеній Бова
+gender: male
 born: 1993-03-11
 living: true
 last_reviewed: 2026-10-07

@@ -1,5 +1,6 @@
 ---
 name: Володимир Вернадський
+gender: male
 born: 1863-03-12
 died: 1945-01-06
 last_reviewed: 2026-10-06

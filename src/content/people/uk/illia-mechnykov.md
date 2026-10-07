@@ -1,5 +1,6 @@
 ---
 name: Ілля Мечников
+gender: male
 born: 1845-05-15
 died: 1916-07-15
 last_reviewed: 2026-10-06

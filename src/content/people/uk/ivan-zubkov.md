@@ -1,5 +1,6 @@
 ---
 name: Іван Зубков
+gender: male
 born: 1973-11-01
 died: 2015-01-20
 last_reviewed: 2026-10-07

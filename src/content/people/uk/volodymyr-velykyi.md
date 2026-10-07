@@ -1,5 +1,6 @@
 ---
 name: Володимир Великий
+gender: male
 born: 0958-01-01
 born_circa: true
 died: 1015-07-15

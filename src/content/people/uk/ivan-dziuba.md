@@ -1,5 +1,6 @@
 ---
 name: Іван Дзюба
+gender: male
 born: 1931-07-26
 died: 2022-02-22
 last_reviewed: 2026-10-06

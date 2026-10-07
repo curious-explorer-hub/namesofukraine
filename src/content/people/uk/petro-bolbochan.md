@@ -1,5 +1,6 @@
 ---
 name: Петро Болбочан
+gender: male
 born: 1883-10-17
 died: 1919-06-28
 last_reviewed: 2026-10-06

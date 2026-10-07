@@ -1,5 +1,6 @@
 ---
 name: Левко Лук'яненко
+gender: male
 born: 1928-08-24
 died: 2018-07-07
 last_reviewed: 2026-10-06

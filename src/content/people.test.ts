@@ -49,7 +49,7 @@ describe('links between profiles', () => {
   }
 });
 
-// Women's profiles (`female: true`) show the tags in feminine form in Ukrainian: Поетеса, not Поет.
+// Women's profiles (`gender: female`) show the tags in feminine form in Ukrainian: Поетеса, not Поет.
 describe('categories.json tags', () => {
   const { tags } = JSON.parse(readFileSync(join(dir, '..', '..', 'categories.json'), 'utf8')) as { tags: { id: string; uk_female?: string }[] };
   it.each(tags.map((t) => [t.id, t.uk_female]))('%s has a Ukrainian feminine form', (_, form) => {

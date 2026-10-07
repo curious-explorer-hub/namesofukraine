@@ -1,5 +1,6 @@
 ---
 name: Андрій Шевченко
+gender: male
 born: 1976-09-29
 living: true
 last_reviewed: 2026-10-06

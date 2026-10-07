@@ -1,5 +1,6 @@
 ---
 name: Валерій Чибінєєв
+gender: male
 born: 1988-03-03
 died: 2022-03-03
 last_reviewed: 2026-10-06

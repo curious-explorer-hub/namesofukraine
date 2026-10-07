@@ -1,6 +1,6 @@
 ---
 name: Раїса Кириченко
-female: true
+gender: female
 born: 1943-10-14
 died: 2005-02-09
 last_reviewed: 2026-10-06

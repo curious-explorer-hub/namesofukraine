@@ -1,5 +1,6 @@
 ---
 name: Ярослав Мудрий
+gender: male
 born: 0978-01-01
 born_circa: true
 died: 1054-02-20

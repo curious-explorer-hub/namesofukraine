@@ -1,5 +1,6 @@
 ---
 name: Вадим Гетьман
+gender: male
 born: 1935-07-12
 died: 1998-04-22
 last_reviewed: 2026-10-06

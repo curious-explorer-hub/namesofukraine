@@ -35,7 +35,7 @@ const fresh = !draft && isNew(person);
     </Heading>
     <p class="person-role">{data.role}</p>
     <p class="person-summary">{data.summary}</p>
-    <p class="person-tags">{data.tags.map((tag) => tagLabel(tag, lang, data.female)).join(', ')}</p>
+    <p class="person-tags">{data.tags.map((tag) => tagLabel(tag, lang, data.gender)).join(', ')}</p>
     {draft && <span class="badge-new badge-draft">{t('draft.badge', lang)}</span>}
     {fresh && <span class="badge-new">{t('home.new_badge', lang)}</span>}
     {/* Shown by the read-marks script for people already read (stored in this browser only). */}

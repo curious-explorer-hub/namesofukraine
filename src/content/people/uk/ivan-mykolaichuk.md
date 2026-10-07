@@ -1,5 +1,6 @@
 ---
 name: Іван Миколайчук
+gender: male
 born: 1941-06-15
 died: 1987-08-03
 last_reviewed: 2026-10-06

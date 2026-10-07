@@ -1,6 +1,6 @@
 ---
 name: Катерина Білокур
-female: true
+gender: female
 born: 1900-12-07
 died: 1961-06-09
 last_reviewed: 2026-10-06

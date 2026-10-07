@@ -1,5 +1,6 @@
 ---
 name: Роберт Бровді
+gender: male
 born: 1975-08-09
 living: true
 last_reviewed: 2026-10-07

@@ -1,5 +1,6 @@
 ---
 name: Сергій Жадан
+gender: male
 born: 1974-08-23
 living: true
 last_reviewed: 2026-10-07

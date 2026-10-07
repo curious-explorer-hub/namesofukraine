@@ -1,5 +1,6 @@
 ---
 name: Остап Вишня
+gender: male
 born: 1889-11-13
 died: 1956-09-28
 last_reviewed: 2026-10-06

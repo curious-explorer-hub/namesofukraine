@@ -1,5 +1,6 @@
 ---
 name: Степан Бандера
+gender: male
 born: 1909-01-01
 died: 1959-10-15
 last_reviewed: 2026-10-06

@@ -1,5 +1,6 @@
 ---
 name: Анатолій Солов'яненко
+gender: male
 born: 1932-09-25
 died: 1999-07-29
 last_reviewed: 2026-10-06

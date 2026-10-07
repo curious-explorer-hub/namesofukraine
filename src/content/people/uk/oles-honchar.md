@@ -1,5 +1,6 @@
 ---
 name: Олесь Гончар
+gender: male
 born: 1918-04-03
 died: 1995-07-14
 last_reviewed: 2026-10-06

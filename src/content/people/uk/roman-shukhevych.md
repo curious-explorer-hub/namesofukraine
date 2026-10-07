@@ -1,5 +1,6 @@
 ---
 name: Роман Шухевич
+gender: male
 born: 1907-06-30
 died: 1950-03-05
 last_reviewed: 2026-10-06

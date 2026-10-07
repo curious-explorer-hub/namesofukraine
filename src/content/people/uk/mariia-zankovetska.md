@@ -1,6 +1,6 @@
 ---
 name: Марія Заньковецька
-female: true
+gender: female
 born: 1854-08-04
 died: 1934-10-04
 last_reviewed: 2026-10-06

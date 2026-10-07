@@ -1,6 +1,6 @@
 ---
 name: Катерина Ступницька
-female: true
+gender: female
 born: 1996-04-11
 died: 2022-03-08
 last_reviewed: 2026-10-07

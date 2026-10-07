@@ -1,5 +1,6 @@
 ---
 name: Іван Котляревський
+gender: male
 born: 1769-09-09
 died: 1838-11-10
 last_reviewed: 2026-10-06

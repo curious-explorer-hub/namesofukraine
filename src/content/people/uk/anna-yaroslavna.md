@@ -1,6 +1,6 @@
 ---
 name: Анна Ярославна
-female: true
+gender: female
 born: 1025-01-01
 born_circa: true
 died: 1075-01-01

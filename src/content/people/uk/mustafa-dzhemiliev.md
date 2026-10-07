@@ -1,5 +1,6 @@
 ---
 name: Мустафа Джемілєв
+gender: male
 born: 1943-11-13
 living: true
 last_reviewed: 2026-10-06

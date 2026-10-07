@@ -1,5 +1,6 @@
 ---
 name: Кирило Розумовський
+gender: male
 born: 1728-03-29
 died: 1803-01-15
 last_reviewed: 2026-10-06

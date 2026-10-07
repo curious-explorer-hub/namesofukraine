@@ -1,5 +1,6 @@
 ---
 name: Володимир Івасюк
+gender: male
 born: 1949-03-04
 # exact date unknown: left home on 24.04.1979, found on 18.05.1979; the official certificate gives 24–27 April (ВУЕ)
 died: 1979-04-24

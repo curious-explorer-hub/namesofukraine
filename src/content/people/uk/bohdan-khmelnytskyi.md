@@ -1,5 +1,6 @@
 ---
 name: Богдан Хмельницький
+gender: male
 born: 1595-01-01
 born_circa: true
 died: 1657-08-06

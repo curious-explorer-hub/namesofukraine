@@ -1,5 +1,6 @@
 ---
 name: Агатангел Кримський
+gender: male
 born: 1871-01-15
 died: 1942-01-25
 last_reviewed: 2026-10-06

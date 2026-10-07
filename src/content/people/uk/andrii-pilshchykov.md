@@ -1,5 +1,6 @@
 ---
 name: Андрій Пільщиков
+gender: male
 born: 1993-02-03
 died: 2023-08-25
 last_reviewed: 2026-10-06
