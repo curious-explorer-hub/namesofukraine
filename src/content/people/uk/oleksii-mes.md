@@ -34,7 +34,8 @@ sources:
   - title: "Objectiv - Стало відомо, які вулиці у Харкові назвали на честь загиблих пілотів (02.07.2025)"
     url: "https://www.objectiv.tv/uk/objectively/2025/07/02/stalo-vidomo-yaki-vulitsi-u-harkovi-nazvali-na-chest-zagiblih-pilotiv/"
 related: [andrii-pilshchykov]
-status: draft
+status: approved
+published: 2026-10-07T11:05:00Z
 ---
 
 ## Двоє з одного випуску

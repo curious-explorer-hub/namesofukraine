@@ -35,7 +35,8 @@ sources:
   - title: Вікіпедія - Малюк Василь Васильович
     url: https://uk.wikipedia.org/wiki/Малюк_Василь_Васильович
 related: [denys-prokopenko, sviatoslav-palamar, serhii-volynskyi]
-status: draft
+status: approved
+published: 2026-10-07T11:05:00Z
 ---
 
 ## Картина в кабінеті

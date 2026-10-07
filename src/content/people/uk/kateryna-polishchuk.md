@@ -35,7 +35,8 @@ sources:
   - title: Вікіпедія - Поліщук Катерина Олександрівна
     url: https://uk.wikipedia.org/wiki/Поліщук_Катерина_Олександрівна
 related: []
-status: draft
+status: approved
+published: 2026-10-07T11:05:00Z
 ---
 
 ## Пісні в бомбосховищі
