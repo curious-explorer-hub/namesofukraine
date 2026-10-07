@@ -20,6 +20,7 @@ image:
   alt: "Фотопортрет Петра Яцика"
   author: "Невідомий автор"
   license: "Fair use"
+  ai_edit: colorized
   fair_use: true
   source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:24_Jacyk.jpg"
 key_accomplishments:

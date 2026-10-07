@@ -43,7 +43,8 @@ Context for AI agents working in this repository. Read it before changing anythi
 | [docs/CANDIDATES.md](docs/CANDIDATES.md) | People planned for future batches, with flags and editorial notes |
 | [docs/PUBLISHING.md](docs/PUBLISHING.md) | How a change goes live, CI, rollback, manual deploy, the Tally form |
 | [docs/MAINTENANCE.md](docs/MAINTENANCE.md) | Recurring work: weekly feedback triage, corrections |
-| [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How outside people contribute: principles, pull requests, licensing |
+| [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting, access model for collaborators |
 | [docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md) | Licenses for text, images, map data, fonts; the fair-use exceptions |
 | [docs/post-launch.md](docs/post-launch.md) | Domain, Search Console and monitoring checklist |
 
@@ -87,4 +88,4 @@ Run `check`, `test` and `test:e2e` before every commit. For UI changes, also loo
 
 **Every push to `main` is released to production automatically.** CI (`.github/workflows/ci.yml`) runs the dependency audit, schema check, unit tests, build, `dist/` check, smoke tests and the Lighthouse budget, then deploys `dist/` to Cloudflare Pages (live in about 5–8 minutes). If any step fails, nothing is deployed. Pull requests run the checks but never deploy.
 
-So: verify locally first, commit only when asked, and treat a push to `main` as publishing. Roll back from the Cloudflare dashboard (see [docs/PUBLISHING.md](docs/PUBLISHING.md)), then fix in git.
+So: verify locally first, commit only when asked, and treat a push to `main` as publishing. Commit messages are plain: no `Co-Authored-By` or other AI attribution lines. After a push, watch CI in the background rather than blocking on it. Roll back from the Cloudflare dashboard (see [docs/PUBLISHING.md](docs/PUBLISHING.md)), then fix in git.
