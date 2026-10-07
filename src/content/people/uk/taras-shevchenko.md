@@ -32,6 +32,7 @@ sources:
   - title: Вікіпедія - Шевченко Тарас Григорович
     url: https://uk.wikipedia.org/wiki/Тарас_Шевченко
 related: [ivan-franko, lesya-ukrainka, mykola-lysenko, marko-vovchok, ivan-kotliarevskyi]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

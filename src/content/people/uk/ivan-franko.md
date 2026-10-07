@@ -31,6 +31,7 @@ sources:
   - title: Вікіпедія - Франко Іван Якович
     url: https://uk.wikipedia.org/wiki/Іван_Франко
 related: [taras-shevchenko, lesya-ukrainka, mykhailo-drahomanov, mykhailo-hrushevskyi, mykhailo-kotsiubynskyi, ahatanhel-krymskyi]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
