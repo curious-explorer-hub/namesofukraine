@@ -6,8 +6,8 @@ import { setRead } from './read-marks';
 // Mirrors the markup produced by FilterBar, EraRibbon, GroupTiles, PersonCard, and the home page.
 // Keeps Cyrillic letters (JS \W would treat them as separators and collapse every name).
 const slugOf = (name: string) => name.toLowerCase().replace(/[\s']+/g, '-');
-const person = (name: string, group: string, era: string, region: string) =>
-  `<li class="person-item" data-slug="${slugOf(name)}" data-group="${group}" data-era="${era}" data-region="${region}" data-search="${name}">${name}</li>`;
+const person = (name: string, group: string, era: string, region: string, collections = '') =>
+  `<li class="person-item" data-slug="${slugOf(name)}" data-group="${group}" data-era="${era}" data-region="${region}" data-collections="${collections}" data-search="${name}">${name}</li>`;
 
 const tile = (group: string, n: number) =>
   `<li class="tile-item" data-group="${group}"><a class="tile" href="/groups/${group}/" data-label="All {n}" data-total="${n}"><span class="tile-count">All ${n}</span></a></li>`;
@@ -18,6 +18,7 @@ const fixture = `
   <form class="filters" hidden>
     <input type="search" name="q" />
     <select name="group"><option value=""></option><option value="literature">literature</option><option value="science">science</option></select>
+    <input type="hidden" name="collection" value="" />
     <select name="era"><option value=""></option><option value="19th-century">19</option><option value="20th-century">20</option></select>
     <select name="region"><option value=""></option><option value="lviv">lviv</option><option value="kyiv-city">kyiv</option></select>
     <label><input type="checkbox" name="unread" value="1" /> unread</label>
@@ -30,11 +31,15 @@ const fixture = `
     ${tile('literature', 3)}
     ${tile('science', 1)}
   </ul></section>
+  <section class="tiles"><ul>
+    <li class="tile-item" data-collection="money-people"><a class="tile" href="?collection=money-people">money</a></li>
+    <li class="tile-item" data-collection="women-army"><a class="tile" href="?collection=women-army">army</a></li>
+  </ul></section>
   <div class="catalogue">
     <section class="group" id="literature" data-group="literature">
       <ul>
-        ${person('Іван Франко', 'literature', '19th-century', 'lviv')}
-        ${person('Леся Українка', 'literature', '19th-century', 'zhytomyr')}
+        ${person('Іван Франко', 'literature', '19th-century', 'lviv', 'money-people')}
+        ${person('Леся Українка', 'literature', '19th-century', 'zhytomyr', 'money-people,women-army')}
         ${person("В'ячеслав Чорновіл", 'literature', 'independence', 'cherkasy')}
       </ul>
     </section>
@@ -103,6 +108,27 @@ describe('initFilters', () => {
     expect($<HTMLSelectElement>('[name="era"]').value).toBe('19th-century');
     expect(visibleNames()).toEqual(['Іван Франко']);
     expect($('.era[data-era="19th-century"]').getAttribute('aria-pressed')).toBe('true');
+  });
+
+  it('restores a collection from the URL, shows only its people and marks its tile', () => {
+    setup('?collection=money-people');
+    expect($<HTMLInputElement>('[name="collection"]').value).toBe('money-people');
+    expect(visibleNames()).toEqual(['Іван Франко', 'Леся Українка']);
+    expect($('.catalogue').hasAttribute('data-filtering')).toBe(true);
+    expect($('[data-collection="money-people"] .tile').getAttribute('aria-current')).toBe('true');
+    expect($('[data-collection="women-army"] .tile').hasAttribute('aria-current')).toBe(false);
+  });
+
+  it('reset clears the collection too, and unmarks its tile', async () => {
+    setup('?collection=money-people');
+    $<HTMLFormElement>('form.filters').reset();
+    await new Promise((resolve) => setTimeout(resolve));
+    expect($<HTMLInputElement>('[name="collection"]').value).toBe('');
+    expect(visibleNames()).toHaveLength(4);
+    expect($('.catalogue').hasAttribute('data-filtering')).toBe(false);
+    expect($('.tiles').hidden).toBe(false);
+    expect($('[data-collection="money-people"] .tile').hasAttribute('aria-current')).toBe(false);
+    expect(location.search).toBe('');
   });
 
   it('shows the empty message when nothing matches', () => {

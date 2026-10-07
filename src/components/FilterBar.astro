@@ -41,6 +41,8 @@ const regionIds = [...used((p) => p.data.birthplace.region)].sort((a, b) =>
       </select>
     )
   }
+  {/* Set from the collection tiles' links (?collection=); there is no visible control for it. */}
+  <input type="hidden" name="collection" value="" />
   <select name="era" aria-label={t('filter.era_all', lang)}>
     <option value="">{t('filter.era_all', lang)}</option>
     {eras.filter((e) => usedEras.has(e.id)).map((e) => <option value={e.id}>{e.label[lang]}</option>)}

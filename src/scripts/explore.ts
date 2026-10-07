@@ -67,10 +67,11 @@ export function initExplore() {
     select(tabs[(next + tabs.length) % tabs.length].dataset.tab!, true);
   });
 
-  // First tab: the one that holds the active filter (a region → map, an era → eras), else the last
-  // one used in this browser session (e.g. coming back from a profile), else search.
+  // First tab: the one that holds the active filter (a region → map, an era → eras, a collection →
+  // collections), else the last one used in this browser session (e.g. coming back from a profile),
+  // else search.
   const params = new URLSearchParams(location.search);
-  const start = params.has('region') ? 'map' : params.has('era') ? 'eras' : (sessionStorage.getItem(STORAGE_KEY) ?? 'search');
+  const start = params.has('region') ? 'map' : params.has('era') ? 'eras' : params.has('collection') ? 'collections' : (sessionStorage.getItem(STORAGE_KEY) ?? 'search');
   show(tabs.some((t) => t.dataset.tab === start) ? start : 'search');
   root.classList.add('is-ready');
   new ResizeObserver(place).observe(list);

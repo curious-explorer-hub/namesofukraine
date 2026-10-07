@@ -80,7 +80,7 @@ export function initBirthMap() {
     zoom(select.value && bboxes.has(select.value) ? select.value : null, instant);
     const data = new FormData(form);
     const value = (k: string) => String(data.get(k) ?? '').trim();
-    const state = { q: value('q'), group: value('group'), era: value('era'), region: '', unread: value('unread') };
+    const state = { q: value('q'), group: value('group'), era: value('era'), region: '', collection: value('collection'), unread: value('unread') };
     const read = getRead();
     const shown = new Set([...people].filter(([, item]) => matches(item, state, read)).map(([slug]) => slug));
     const counts = new Map<string, number>();

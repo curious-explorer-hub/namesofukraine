@@ -27,8 +27,8 @@ const tiles = collections.collections
   .filter((c) => c.members.length > 0);
 ---
 
-<section class="tiles" aria-labelledby="tiles-title">
-  <h2 id="tiles-title" class="visually-hidden">{t('explore.tab_collections', lang)}</h2>
+<section class="tiles" aria-labelledby="collections-title">
+  <h2 id="collections-title" class="visually-hidden">{t('explore.tab_collections', lang)}</h2>
   <ul class="tiles-grid" role="list">
     {
       tiles.map((c) => (

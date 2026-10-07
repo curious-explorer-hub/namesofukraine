@@ -3,6 +3,31 @@ import { expect, test } from '@playwright/test';
 // Uses published profiles (status: approved); update if they change.
 const visibleCards = '.catalogue .shelf > li:visible';
 
+// An uncaught error in one page script stops the rest (tabs, search, map), so any error fails the test.
+test.beforeEach(({ page }, testInfo) => {
+  page.on('pageerror', (error) => testInfo.annotations.push({ type: 'pageerror', description: error.message }));
+});
+test.afterEach(({}, testInfo) => {
+  const errors = testInfo.annotations.filter((a) => a.type === 'pageerror').map((a) => a.description);
+  expect(errors, 'uncaught script errors on the page').toEqual([]);
+});
+
+for (const [lang, tabNames] of [
+  ['uk', ['Пошук', 'Епохи', 'Карта', 'Галузі', 'Цікавинки']],
+  ['en', ['Search', 'Eras', 'Map', 'Fields', 'Collections']],
+] as const) {
+  test(`every home-page tab opens its panel (${lang})`, async ({ page }) => {
+    await page.goto(`/${lang}/`);
+    await expect(page.locator('[data-explore]')).toHaveClass(/is-ready/);
+    for (const name of tabNames) {
+      const tab = page.getByRole('tab', { name });
+      await tab.click();
+      await expect(tab).toHaveAttribute('aria-selected', 'true');
+      await expect(page.locator(`#${await tab.getAttribute('aria-controls')}`)).toBeVisible();
+    }
+  });
+}
+
 test('filters and search narrow the list, and going back from a profile keeps them', async ({ page }) => {
   await page.goto('/uk/');
   await page.locator('select[name="group"]').selectOption('statehood');
@@ -96,24 +121,30 @@ test.describe('without JavaScript', () => {
   });
 });
 
-test('collections filter shows matching profiles', async ({ page }) => {
+test('a collection tile opens the list of its people', async ({ page }) => {
   await page.goto('/uk/');
-  // Scroll to Collections tab
-  await page.locator('[data-tab="collections"]').click();
-  // Wait for Collections panel to be visible
-  await expect(page.locator('[data-panel="collections"]')).toBeVisible();
-  // Click on money-people collection
-  const moneyPeopleTile = page.locator('[data-collection="money-people"]');
-  await expect(moneyPeopleTile).toBeVisible();
-  await moneyPeopleTile.click();
-  // Verify URL has collection parameter
+  await page.getByRole('tab', { name: 'Цікавинки' }).click();
+  await expect(page.locator('#panel-collections')).toBeVisible();
+  await page.locator('[data-collection="money-people"] .tile').click();
   await expect(page).toHaveURL(/collection=money-people/);
-  // Verify results are shown
-  const results = page.locator(visibleCards);
-  await expect(results).toHaveCountGreaterThan(0);
-  // Verify we're seeing money-people profiles (check for specific profiles on money)
-  const profileNames = await results.allTextContents();
-  expect(profileNames.length).toBeGreaterThan(0);
+  await expect(page.locator('input[name="collection"]')).toHaveValue('money-people');
+  await expect(page.locator(visibleCards).filter({ hasText: 'Тарас Шевченко' })).toHaveCount(1);
+  await expect(page.locator(visibleCards).filter({ hasText: 'Пилип Орлик' })).toHaveCount(0);
+  await expect(page.locator('#panel-collections')).toBeVisible(); // reopens on the collections tab
+  await expect(page.locator('[data-collection="money-people"] .tile')).toHaveAttribute('aria-current', 'true');
+  await expect(page.locator('[data-collection="women-army"] .tile')).not.toHaveAttribute('aria-current');
+});
+
+test('changing tabs clears a collection, and the field tiles work again', async ({ page }) => {
+  await page.goto('/uk/?collection=defenders-mariupol');
+  await page.getByRole('tab', { name: 'Галузі' }).click();
+  await expect(page).not.toHaveURL(/collection=/);
+  await expect(page.locator('input[name="collection"]')).toHaveValue('');
+  await expect(page.locator('.catalogue')).not.toHaveAttribute('data-filtering');
+  const tile = page.locator('#panel-groups .tile').first();
+  await expect(tile).toBeVisible();
+  await tile.click();
+  await expect(page).toHaveURL(/\/uk\/groups\/[a-z-]+\/$/);
 });
 
 test('an unknown address shows the friendly not-found page in the right language', async ({ page }) => {

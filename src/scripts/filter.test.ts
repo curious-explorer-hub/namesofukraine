@@ -1,13 +1,14 @@
 import { describe, expect, it } from 'vitest';
 import { matches, normalize } from './filter';
 
-const none = { q: '', group: '', era: '', region: '', unread: '' };
+const none = { q: '', group: '', era: '', region: '', collection: '', unread: '' };
 
 const franko = {
   slug: 'ivan-franko',
   group: 'literature',
   era: '19th-century',
   region: 'lviv',
+  collections: 'money-people',
   search: 'Іван Франко Письменник, учений, мислитель Поет Науковець',
 };
 const chornovil = {
@@ -48,6 +49,13 @@ describe('matches', () => {
     expect(matches(franko, { ...none, era: 'independence' })).toBe(false);
     expect(matches(franko, { ...none, region: 'lviv' })).toBe(true);
     expect(matches(franko, { ...none, region: 'kyiv' })).toBe(false);
+  });
+
+  it('filters by collection, including people in several collections', () => {
+    expect(matches(franko, { ...none, collection: 'money-people' })).toBe(true);
+    expect(matches({ ...franko, collections: 'women-army,money-people' }, { ...none, collection: 'money-people' })).toBe(true);
+    expect(matches(franko, { ...none, collection: 'women-army' })).toBe(false);
+    expect(matches(chornovil, { ...none, collection: 'money-people' })).toBe(false);
   });
 
   it('combines filters with AND', () => {

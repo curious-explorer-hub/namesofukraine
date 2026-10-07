@@ -6,7 +6,7 @@ import { existsSync, readFileSync, statSync } from 'node:fs';
 import { extname, join, normalize } from 'node:path';
 
 const root = 'dist';
-const port = Number(process.argv[2] ?? 4322);
+const port = Number(process.argv[2] ?? 4390);
 const headers = Object.fromEntries(
   readFileSync('public/_headers', 'utf8')
     .split('\n')

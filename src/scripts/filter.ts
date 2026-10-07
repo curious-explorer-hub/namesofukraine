@@ -41,6 +41,7 @@ export function initFilters() {
   const recentItems = [...(recent?.querySelectorAll<HTMLElement>('.person-item') ?? [])];
   const emptyText = { none: empty.textContent, allRead: empty.dataset.allRead ?? empty.textContent };
   const eraButtons = [...document.querySelectorAll<HTMLButtonElement>('.era[data-era]')];
+  const collectionTiles = [...document.querySelectorAll<HTMLElement>('.tile-item[data-collection]')];
   const field = (k: Key) => form.elements.namedItem(k) as HTMLInputElement | HTMLSelectElement;
   const isCheckbox = (el: HTMLInputElement | HTMLSelectElement): el is HTMLInputElement =>
     el instanceof HTMLInputElement && el.type === 'checkbox';
@@ -91,6 +92,11 @@ export function initFilters() {
     empty.textContent = !narrowing && state.unread ? emptyText.allRead : emptyText.none;
     status.textContent = active ? status.dataset.found!.replace('{n}', String(found)) : '';
     for (const b of eraButtons) b.setAttribute('aria-pressed', String(b.dataset.era === state.era));
+    for (const c of collectionTiles) {
+      const link = c.querySelector('.tile')!;
+      if (c.dataset.collection === state.collection) link.setAttribute('aria-current', 'true');
+      else link.removeAttribute('aria-current');
+    }
     if (progress) {
       const done = slugs.filter((s) => read.has(s)).length;
       const share = slugs.length ? done / slugs.length : 0;
@@ -136,7 +142,11 @@ export function initFilters() {
 
   form.addEventListener('input', apply);
   form.addEventListener('submit', (e) => e.preventDefault());
-  form.addEventListener('reset', () => setTimeout(apply));
+  // A hidden input's value is also its default, so reset alone would keep the collection.
+  form.addEventListener('reset', () => {
+    field('collection').value = '';
+    setTimeout(apply);
+  });
   for (const b of eraButtons) {
     b.addEventListener('click', () => {
       const era = field('era');
