@@ -107,6 +107,11 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
           <a href={localePath(lang, '/support/')}>{t('footer.support', lang)}</a>
           <a href={localePath(lang, '/new/')}>{t('nav.new', lang)}</a>
           <a href={localePath(lang, '/credits/')}>{t('footer.credits', lang)}</a>
+          {import.meta.env.DEV && (
+            <a href={localePath(lang, '/admin/drafts/')}>
+              {t('admin.drafts', lang)} <span style="opacity: 0.6; font-size: 0.85em;">(dev)</span>
+            </a>
+          )}
         </nav>
       </div>
     </footer>
