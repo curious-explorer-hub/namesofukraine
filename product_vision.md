@@ -37,7 +37,7 @@
 - **Hero:** the headline over a photo, a one-line lead.
 - **A row of three cards** (stacked on phones), visible from every tab:
   - **Daily Hero** «Народився цього дня» / "Born on this day". **AC15** The person born (or who died) on the visitor's local date; otherwise a deterministic "person of the day". Approximate dates never count; dates before 1918 are new style.
-  - **Reading progress:** "read N of 110" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
+  - **Reading progress:** "read N of 111" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
   - **Observation:** from 3 read profiles, the field read most and someone unread from it (or a field not yet explored); before that, a catalogue fact a day.
   - **AC16** Progress, observation and "read" marks are computed in the browser from `localStorage`; nothing is sent anywhere.
 - **AC1 Explore tabs, one way of browsing at a time,** over one results grid: **Пошук / Search** (text field + dropdowns for field, era, region and "unread only"), **Епохи / Eras** (a card per era, with its colour, picture and faces), **Карта / Map** (§3.2), **Галузі / Fields** (a tile per field, opening its page). Changing tabs clears the filters. Below the tabs: the "newly added" row, then the results.
@@ -154,7 +154,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 |---|---|---|
 | **0. Setup** | Scaffold, schema, CI, deploy | ✅ 2026-10-05 |
 | **1. MVP** | §3.1–3.7, ≥ 20 profiles in both languages | ✅ soft launch 2026-10-05 (86 profiles); public launch after the domain and promotion |
-| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 110 profiles (batch 5 and Farion, 2026-10-06) |
+| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 111 profiles (batch 5, Farion and Yatsyk, 2026-10-06) |
 | **3. Engagement** | Quiz · printable teacher pages · CMS | Later |
 
 ---
@@ -210,3 +210,4 @@ Closed backlog items, by ID; details are in git history.
 | 2026-10-06 | Cross-profile links, second pass (I17 A): the one-way `related:` links reviewed: 21 made two-way where there is a personal tie (Drahomanov, Hrushevskyi and Kotsiubynskyi with Franko; Orlyk with Mazepa; Bohun and Sirko with Khmelnytskyi; Stus with Chornovil, Kostenko and Paradzhanov; and others), 18 more links in the text; 56 left one-way on purpose (influence or theme) |
 | 2026-10-06 | Batch 5: 23 profiles (86 → 109): Repin, Krymskyi, Zerov, Dziuba, Briukhovetskyi, Vynnychenko, Vyshyvanyi, Dzhemilev, Sentsov, Yalovtsov, Kondratiuk, Hetman, Huzar, Boiko, Solovianenko, Silvestrov, Ivasiuk, Kuzma Skriabin, Vakarchuk, Blokhin, Bubka, Vitali and Wladimir Klitschko; drafted and fact-checked in five groups (8 errors found and fixed); linked to existing profiles in both directions |
 | 2026-10-06 | Iryna Farion (110): drafted and fact-checked by separate agents (4 errors fixed), published on the same terms as batch 5; contested-figure section covers the 2010 and 2023 controversies, the dismissal case and the first-instance verdict of 1 October 2026 |
+| 2026-10-06 | Petro Yatsyk (111), linked with Farion and Hrushevskyi; Farion's profile shortened (no election, trial or court details; a short debates section); both kept to at most 4 sources, one per site |
