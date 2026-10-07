@@ -30,4 +30,4 @@ In 1972 Stus was arrested for “anti-Soviet agitation”: 5 years in camps and 
 
 ## How he came back
 
-In 1989 his remains were brought back to Ukraine, and more than 30,000 people came to his reburial at Baikove Cemetery in Kyiv. In 2005 Stus was posthumously made a Hero of Ukraine. And Donetsk University, where he had studied, refused to take his name in 2009. In 2016, relocated to Vinnytsia because of the war, the university was renamed after Vasyl Stus.
+In 1989 his remains were brought back to Ukraine, and more than 30,000 people came to his reburial at Baikove Cemetery in Kyiv. In 2005 Stus was posthumously made a Hero of Ukraine. And Donetsk University, where he had studied, refused to take his name in 2009. In 2016, relocated to Vinnytsia because of the war, the university was renamed after Vasyl Stus. And on 4 September 2026, the anniversary of his death, the National Bank of Ukraine put into circulation a 2,000-hryvnia banknote, the hryvnia’s highest denomination, with Stus’s portrait. Its back shows the Faculty of Philology of Donetsk University, where he studied.
