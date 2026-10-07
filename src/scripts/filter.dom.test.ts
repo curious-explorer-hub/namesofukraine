@@ -10,7 +10,7 @@ const person = (name: string, group: string, era: string, region: string, collec
   `<li class="person-item" data-slug="${slugOf(name)}" data-group="${group}" data-era="${era}" data-region="${region}" data-collections="${collections}" data-search="${name}">${name}</li>`;
 
 const tile = (group: string, n: number) =>
-  `<li class="tile-item" data-group="${group}"><a class="tile" href="/groups/${group}/" data-label="All {n}" data-total="${n}"><span class="tile-count">All ${n}</span></a></li>`;
+  `<li class="tile-item" data-group="${group}"><a class="tile" href="/groups/${group}/" data-total="${n}"><span class="tile-count">${n}</span></a></li>`;
 
 const fixture = `
   <button type="button" class="era" data-era="19th-century" aria-pressed="false">XIX</button>
@@ -240,12 +240,12 @@ describe('initFilters', () => {
     tickUnread();
     const link = $<HTMLAnchorElement>('.tile-item[data-group="literature"] .tile');
     const count = link.querySelector('.tile-count')!;
-    expect(count.textContent).toBe('All 2');
+    expect(count.textContent).toBe('2');
     expect(link.getAttribute('href')).toBe('/groups/literature/?unread=1');
     $<HTMLFormElement>('form.filters').reset();
     return new Promise<void>((resolve) =>
       setTimeout(() => {
-        expect(count.textContent).toBe('All 3');
+        expect(count.textContent).toBe('3');
         expect(link.getAttribute('href')).toBe('/groups/literature/');
         resolve();
       }),

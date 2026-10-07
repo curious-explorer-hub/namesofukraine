@@ -29,7 +29,6 @@ const tiles = groups
           <a
             class="tile"
             href={groupUrl(g.id, lang)}
-            data-label={t('home.group_all', lang, { n: '{n}' })}
             data-total={g.members.length}>
             {/* Drawings of the field (a ball and a dumbbell for sport, an open book for literature) */}
             <svg class="tile-art" viewBox="0 0 300 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
@@ -46,7 +45,7 @@ const tiles = groups
               ))}
             </span>
             <span class="tile-name">{g.label[lang]}</span>
-            <span class="tile-count">{t('home.group_all', lang, { n: g.members.length })}</span>
+            <span class="tile-count">{g.members.length}</span>
           </a>
         </li>
       ))

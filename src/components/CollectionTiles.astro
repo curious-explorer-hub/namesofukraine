@@ -27,7 +27,6 @@ const cards = (
     }),
   )
 ).filter((c) => c.members.length > 0);
-const most = Math.max(1, ...cards.map((c) => c.members.length));
 ---
 
 <nav class="ribbon" aria-labelledby="collections-title">
@@ -40,13 +39,12 @@ const most = Math.max(1, ...cards.map((c) => c.members.length));
             type="button"
             class="era"
             data-collection={c.id}
-            style={[c.bg, `--share: ${c.members.length / most}`, `--i: ${i}`].filter(Boolean).join('; ')}
+            style={[c.bg, `--i: ${i}`].filter(Boolean).join('; ')}
             title={c.image.caption[lang]}
             aria-pressed="false"
           >
             <span class="era-tally" aria-hidden="true">
               <span class="era-count" style={`--count: ${c.members.length}`}><span>{c.members.length}</span></span>
-              <span class="era-bar" />
             </span>
             <span class="era-faces" aria-hidden="true">
               {c.faces.map((p) => (

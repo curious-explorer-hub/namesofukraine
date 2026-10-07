@@ -5,7 +5,7 @@
     { "id": "visual-arts", "label": { "uk": "Художники й скульптори", "en": "Painters & sculptors" } },
     { "id": "performing-arts", "label": { "uk": "Музика, театр і кіно", "en": "Music, stage & screen" } },
     { "id": "science", "label": { "uk": "Наука й техніка", "en": "Science & technology" } },
-    { "id": "civic", "label": { "uk": "Громадські діячі й правозахисники", "en": "Activists & human-rights defenders" } },
+    { "id": "civic", "label": { "uk": "Правозахисники й активісти", "en": "Activists & rights defenders" } },
     { "id": "faith", "label": { "uk": "Релігійні діячі", "en": "Religious leaders" } },
     { "id": "sport", "label": { "uk": "Спорт", "en": "Sports" } },
     { "id": "defenders", "label": { "uk": "Захисники", "en": "Defenders" } }

@@ -1,7 +1,7 @@
 ---
 import { getImage } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
-import { eras, isNew, mostLinked, type Person } from '../lib/people';
+import { eras, mostLinked, type Person } from '../lib/people';
 import Portrait from './Portrait.astro';
 import { t, type Lang } from '../i18n';
 
@@ -25,8 +25,6 @@ const bands = await Promise.all(eras.map(async (era) => {
   // A few faces of the era: its most-linked people, then the earliest born.
   return { ...era, bg: await background(era.image.file), people: members, faces: mostLinked(members, people, 3) };
 }));
-// Bars are scaled to the fullest era, so the busiest band always spans the full width.
-const most = Math.max(1, ...bands.map((b) => b.people.length));
 ---
 
 <nav class="ribbon" aria-labelledby="ribbon-title">
@@ -39,12 +37,12 @@ const most = Math.max(1, ...bands.map((b) => b.people.length));
             type="button"
             class="era"
             data-era={band.id}
-            style={[band.bg, `--share: ${band.people.length / most}`, `--i: ${i}`].filter(Boolean).join('; ')}
+            style={[band.bg, `--i: ${i}`].filter(Boolean).join('; ')}
             title={band.image.caption[lang]}
             aria-pressed="false"
             disabled={band.people.length === 0}
           >
-            {/* How many people this era has: a number plus a bar scaled to the fullest era. */}
+            {/* How many people this era has, in the top right corner */}
             <span class="era-tally" aria-hidden="true">
               {band.people.length === 0 ? (
                 <span class="era-empty">{t('home.era_empty', lang)}</span>
@@ -52,12 +50,8 @@ const most = Math.max(1, ...bands.map((b) => b.people.length));
                 <>
                   {/* Counts up from 0 on load (CSS); the plain number is the fallback */}
                   <span class="era-count" style={`--count: ${band.people.length}`}><span>{band.people.length}</span></span>
-                  {band.people.some((p) => isNew(p)) && (
-                    <span class="era-new">{t('home.era_new', lang, { n: band.people.filter((p) => isNew(p)).length })}</span>
-                  )}
                 </>
               )}
-              <span class="era-bar" />
             </span>
             {band.faces.length > 0 && (
               <span class="era-faces" aria-hidden="true">
