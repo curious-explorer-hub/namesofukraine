@@ -163,7 +163,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 
 1. **Selection criteria** (published on About): lasting impact on Ukrainian statehood, culture, science or identity, or major world contributions by people of Ukrainian origin.
 2. **Balance, checked by hand:** no quotas. When choosing each batch, editors look at what's thin: eras (including Kyivan Rus and the Lithuanian-Polish period), fields, regions (the map shows empty oblasts), women and men, living people, and the diaspora.
-3. **Facts:** ≥ 2 reputable sources per profile, at least one encyclopedic (e.g. Енциклопедія сучасної України, Енциклопедія історії України). Wikipedia alone is not enough.
+3. **Facts:** ≥ 2 reputable sources per profile, at least one encyclopedic (e.g. Енциклопедія сучасної України, Енциклопедія історії України). Wikipedia alone is not enough. A profile **lists at most 4 sources, no more than one per website**, chosen so they back every fact in the text; fact-checking may use more.
 4. **Contested figures:** neutral tone; state the achievements and include "Debates and assessments" with sources.
 5. **"Ukrainian" claims:** state the connection precisely: born in Ukraine, of Ukrainian descent, or worked in Ukraine. Don't overclaim.
 6. **Living people:** public roles only; freely licensed images; "as of <date>"; removal and correction requests handled promptly.

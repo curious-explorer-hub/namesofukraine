@@ -61,6 +61,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 - A profile is **published only when `reviewed: true` in both** the uk and en files. Draft with `reviewed: false`.
 - **Facts:** ≥ 2 reputable sources per profile, at least one encyclopedic (ЕСУ esu.com.ua, ЕІУ history.org.ua, Internet Encyclopedia of Ukraine). Wikipedia alone is never enough. Don't invent quotes, numbers or awards.
+- **Sources listed:** at most 4 per profile, no more than one per website, together backing every fact in the text. Fact-checking may use more; if a fact rests only on a source that doesn't make the list, shorten or drop the fact.
 - **Limits:** role ≤ 40 characters, summary ≤ 300, in both languages (the schema enforces them).
 - **Dates:** Gregorian from 1582; `born_circa` / `died_circa` when uncertain. Living people: `living: true`, and no wording that goes stale ("currently", "still lives"); use "as of <month year>" where needed.
 - **Contested figures:** neutral tone and a «Дискусії та оцінки» / "Debates and assessments" section with sources. **"Ukrainian" claims:** state the connection precisely.
