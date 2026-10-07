@@ -13,12 +13,12 @@ birthplace: { name: "Соснівка, Тернопільщина", region: tern
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "військовий шпиталь і завод «Азовсталь», 2022" }
 image:
-  src: ./images/kateryna-polishchuk.jpg
-  alt: "Катерина Поліщук після повернення з полону вночі 21 вересня 2022 року"
-  position: "50% 25%"
-  author: "Служба безпеки України"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Return_of_Kateryna_Polishchuk,_2022.09.21.jpg"
+  src: ./images/kateryna-polishchuk.webp
+  alt: "Катерина Поліщук під час концерту"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.pravda.com.ua/eng/columns/2023/08/02/7413859/"
+  fair_use: true
 key_accomplishments:
   - "З 2021 року добровольча парамедикиня батальйону «Госпітальєри»"
   - "Рятувала поранених в обложеному Маріуполі й на заводі «Азовсталь» (2022)"
