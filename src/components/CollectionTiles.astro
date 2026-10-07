@@ -1,0 +1,57 @@
+---
+import Portrait from './Portrait.astro';
+import { mostLinked, type Person } from '../lib/people';
+import { t, type Lang } from '../i18n';
+import collections from '../content/collections.json';
+
+interface Props {
+  people: Person[];
+  lang: Lang;
+}
+
+const { people, lang } = Astro.props;
+
+// Filter collections by people that belong to them
+const tiles = collections.collections
+  .map((c) => {
+    const members = people.filter((p) => p.data.collections.includes(c.id));
+    return { ...c, members, faces: mostLinked(members, people, 3) };
+  })
+  .filter((c) => c.members.length > 0);
+---
+
+<section class="tiles" aria-labelledby="tiles-title">
+  <h2 id="tiles-title" class="visually-hidden">{t('explore.tab_collections', lang)}</h2>
+  <ul class="tiles-grid" role="list">
+    {
+      tiles.map((c) => (
+        <li class="tile-item" data-collection={c.id}>
+          <a
+            class="tile"
+            href={`?collection=${c.id}`}
+            data-label={t('collections.count', lang, { n: '{n}' })}
+            data-total={c.members.length}>
+            <span class="tile-face-group" aria-hidden="true">
+              {c.faces.map((p) => (
+                <Portrait person={p} class="tile-face" widths={[96, 160]} sizes="5rem" />
+              ))}
+            </span>
+            <span class="tile-name">{c.label[lang]}</span>
+            <span class="tile-description">{c.description[lang]}</span>
+            <span class="tile-count">{t('collections.count', lang, { n: c.members.length })}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+<style>
+  .tile-description {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+    display: block;
+    margin-top: 0.25rem;
+    line-height: 1.3;
+  }
+</style>

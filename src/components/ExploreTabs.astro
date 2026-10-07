@@ -6,12 +6,13 @@ interface Props {
 }
 
 const { lang } = Astro.props;
-// One way to browse at a time: search and filters, eras, the birthplace map, or fields.
+// One way to browse at a time: search and filters, eras, the birthplace map, fields, or collections.
 const tabs = [
   { id: 'search', label: t('explore.tab_search', lang), icon: 'M8.5 2.5a6 6 0 1 0 0 12 6 6 0 0 0 0-12zM13 13l5 5' },
   { id: 'eras', label: t('explore.tab_eras', lang), icon: 'M2 15h16M4 15V9M8 15V5M12 15V8M16 15V3' },
   { id: 'map', label: t('explore.tab_map', lang), icon: 'M10 18s6-5.2 6-10a6 6 0 0 0-12 0c0 4.8 6 10 6 10zM10 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z' },
   { id: 'groups', label: t('explore.tab_groups', lang), icon: 'M3 3h6v6H3zM11 3h6v6h-6zM3 11h6v6H3zM11 11h6v6h-6z' },
+  { id: 'collections', label: t('explore.tab_collections', lang), icon: 'M4 4h4v4H4zM12 4h4v4h-4zM4 12h4v4H4zM12 12h4v4h-4z' },
 ];
 ---
 

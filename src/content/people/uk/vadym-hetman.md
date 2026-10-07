@@ -34,6 +34,7 @@ sources:
   - title: "Zaxid.net - Лазаренко на звинувачення: Я не причетний до вбивства Щербаня (24.09.2012)"
     url: "https://zaxid.net/lazarenko_na_zvinuvachennya_ya_ne_prichetniy_do_vbivstva_shherbanya_n1265959"
 related: []
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

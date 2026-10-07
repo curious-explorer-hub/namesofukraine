@@ -37,6 +37,7 @@ sources:
   - title: "Укрінформ - Сьогодні відзначають День Української Державності (15.07.2025)"
     url: "https://www.ukrinform.ua/rubric-society/4014918-sogodni-vidznacaut-den-ukrainskoi-derzavnosti.html"
 related: [yaroslav-mudryi, kniahynia-olha, anna-yaroslavna]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

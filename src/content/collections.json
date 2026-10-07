@@ -1,0 +1,37 @@
+{
+  "collections": [
+    {
+      "id": "women-army",
+      "label": {
+        "uk": "Жінки в армії",
+        "en": "Women in the army"
+      },
+      "description": {
+        "uk": "Кажуть, що це чоловіча справа. Але українські жінки завжди рушали небо й землю. От і тепер.",
+        "en": "They say it's a man's job. But Ukrainian women have always moved heaven and earth. Today is no exception."
+      }
+    },
+    {
+      "id": "money-people",
+      "label": {
+        "uk": "На гривнях",
+        "en": "On the hryvnia"
+      },
+      "description": {
+        "uk": "Люди, чиї портрети прикрашають українські гроші — вибір цей говорить багато про те, кого ми вважаємо своїми героями.",
+        "en": "Portraits that grace Ukrainian banknotes — the choice tells much about whom we honor."
+      }
+    },
+    {
+      "id": "defenders-mariupol",
+      "label": {
+        "uk": "Захисники Маріуполя",
+        "en": "Defenders of Mariupol"
+      },
+      "description": {
+        "uk": "2022 року захисники Маріуполя писали історію героїзму й опору. Ці люди, цивільні й військові, стали символом невпокору.",
+        "en": "In 2022, Mariupol's defenders made history. Civilians and soldiers alike became symbols of resistance."
+      }
+    }
+  ]
+}

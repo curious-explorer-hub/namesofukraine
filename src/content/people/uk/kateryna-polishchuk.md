@@ -35,6 +35,7 @@ sources:
   - title: Вікіпедія - Поліщук Катерина Олександрівна
     url: https://uk.wikipedia.org/wiki/Поліщук_Катерина_Олександрівна
 related: []
+collections: [women-army, defenders-mariupol]
 status: approved
 published: 2026-10-07T11:05:00Z
 ---

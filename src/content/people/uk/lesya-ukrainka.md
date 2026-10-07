@@ -32,6 +32,7 @@ sources:
   - title: Вікіпедія - Леся Українка
     url: https://uk.wikipedia.org/wiki/Леся_Українка
 related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov, ahatanhel-krymskyi]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

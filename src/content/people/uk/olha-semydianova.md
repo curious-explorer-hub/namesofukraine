@@ -35,6 +35,7 @@ sources:
   - title: "Нікопольські новини - Вбиті росією мешканці Нікопольщини: захисниця з Марганця Ольга Семидьянова"
     url: "https://nikopol.nikopolnews.net/rajon/olha-semydianova/"
 related: []
+collections: [women-army]
 status: approved
 published: 2026-10-07T11:05:00Z
 ---

@@ -31,6 +31,7 @@ sources:
   - title: Вікіпедія - Сковорода Григорій Савич
     url: https://uk.wikipedia.org/wiki/Григорій_Сковорода
 related: [ivan-franko, taras-shevchenko]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

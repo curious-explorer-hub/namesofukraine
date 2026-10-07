@@ -4,6 +4,7 @@ import { z } from 'astro/zod';
 import categories from './content/categories.json';
 import eras from './content/eras.json';
 import regions from './content/regions.json';
+import collectionsData from './content/collections.json';
 
 const ids = (items: { id: string }[]) => items.map((i) => i.id) as [string, ...string[]];
 
@@ -61,6 +62,7 @@ const people = defineCollection({
         gallery: z.array(z.object({ src: image(), caption: z.string(), ...credit })).default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),
+        collections: z.array(z.enum(ids(collectionsData.collections))).default([]),
         // Every new profile starts as a draft: in the repo, never on the site. After review the owner sets
         // `status: approved` and `published` (the current time), which orders "new additions".
         status: z.enum(['draft', 'approved']).default('draft'),

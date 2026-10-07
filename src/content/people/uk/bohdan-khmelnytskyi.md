@@ -33,6 +33,7 @@ sources:
   - title: Wikipedia (EN) - Bohdan Khmelnytsky
     url: https://en.wikipedia.org/wiki/Bohdan_Khmelnytsky
 related: [petro-sahaidachnyi, ivan-mazepa, ivan-bohun, ivan-sirko]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

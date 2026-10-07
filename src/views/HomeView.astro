@@ -5,6 +5,7 @@ import FilterBar from '../components/FilterBar.astro';
 import PersonCard from '../components/PersonCard.astro';
 import DailyHero from '../components/DailyHero.astro';
 import GroupTiles from '../components/GroupTiles.astro';
+import CollectionTiles from '../components/CollectionTiles.astro';
 import BirthMap from '../components/BirthMap.astro';
 import ExploreTabs from '../components/ExploreTabs.astro';
 import ReadProgress from '../components/ReadProgress.astro';
@@ -55,6 +56,7 @@ const phone = '(max-width: 47.99rem)';
     <EraRibbon slot="eras" people={people} lang={lang} />
     <BirthMap slot="map" people={people} lang={lang} />
     <GroupTiles slot="groups" people={people} lang={lang} />
+    <CollectionTiles slot="collections" people={people} lang={lang} />
   </ExploreTabs>
 
   {

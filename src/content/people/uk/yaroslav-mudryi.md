@@ -35,6 +35,7 @@ sources:
   - title: Вікіпедія - Ярослав Мудрий
     url: https://uk.wikipedia.org/wiki/Ярослав_Мудрий
 related: [volodymyr-velykyi, anna-yaroslavna, kniahynia-olha]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
