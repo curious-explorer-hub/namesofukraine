@@ -3,7 +3,7 @@ name: Валерій Чибінєєв
 born: 1988-03-03
 died: 2022-03-03
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Снайпер і розвідник, Герой України"

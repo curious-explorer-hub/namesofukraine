@@ -3,7 +3,7 @@ name: Максим Кривцов
 born: 1990-01-22
 died: 2024-01-07
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior, poet, artist]
 role: "Поет, фотограф і воїн ССО"

@@ -3,7 +3,7 @@ name: Євгеній Брах
 born: 1995-10-02
 died: 2022-09-21
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Французький легіонер і кулеметник"

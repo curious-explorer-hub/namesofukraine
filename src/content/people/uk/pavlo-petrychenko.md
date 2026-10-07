@@ -3,7 +3,7 @@ name: Павло Петриченко
 born: 1992-04-16
 died: 2024-04-15
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior, human-rights]
 role: "Громадський активіст і аеророзвідник"

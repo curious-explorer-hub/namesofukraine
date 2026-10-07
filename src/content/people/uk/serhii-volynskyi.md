@@ -3,7 +3,7 @@ name: Сергій Волинський
 born: 1992-01-31
 living: true
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Командир морпіхів на «Азовсталі»"

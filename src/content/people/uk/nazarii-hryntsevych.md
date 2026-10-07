@@ -3,7 +3,7 @@ name: Назарій Гринцевич
 born: 2003-03-10
 died: 2024-05-06
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Бойовий медик «Азову», «Грєнка»"

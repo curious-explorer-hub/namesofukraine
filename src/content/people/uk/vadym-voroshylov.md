@@ -3,7 +3,7 @@ name: Вадим Ворошилов
 born: 1994-02-02
 living: true
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Льотчик-винищувач, «Karaya»"

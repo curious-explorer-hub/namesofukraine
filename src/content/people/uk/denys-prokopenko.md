@@ -3,7 +3,7 @@ name: Денис Прокопенко
 born: 1991-06-27
 living: true
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Командир «Азову», оборонець Маріуполя"

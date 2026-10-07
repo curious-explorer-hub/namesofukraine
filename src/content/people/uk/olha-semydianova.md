@@ -3,7 +3,7 @@ name: Ольга Семидьянова
 born: 1973-07-10
 died: 2022-03-03
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Бойова медикиня «Айдару»"

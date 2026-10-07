@@ -3,7 +3,7 @@ name: Дмитро Коцюбайло
 born: 1995-11-01
 died: 2023-03-07
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Командир «Вовків Да Вінчі»"

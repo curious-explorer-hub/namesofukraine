@@ -3,7 +3,7 @@ name: Інна Дерусова
 born: 1970-07-05
 died: 2022-02-26
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Бойова медикиня, Герой України"

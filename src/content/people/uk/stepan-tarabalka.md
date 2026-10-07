@@ -3,7 +3,7 @@ name: Степан Тарабалка
 born: 1993-01-09
 died: 2022-03-13
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Льотчик-винищувач МіГ-29"

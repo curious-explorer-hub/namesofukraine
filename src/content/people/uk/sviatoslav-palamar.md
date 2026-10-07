@@ -3,7 +3,7 @@ name: Святослав Паламар
 born: 1982-10-10
 living: true
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Заступник командира «Азову»"

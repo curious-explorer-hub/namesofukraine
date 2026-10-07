@@ -3,7 +3,7 @@ name: Ірина Цибух
 born: 1998-06-01
 died: 2024-05-29
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Журналістка й бойова медикиня"

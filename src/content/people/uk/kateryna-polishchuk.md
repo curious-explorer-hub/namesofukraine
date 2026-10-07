@@ -3,7 +3,7 @@ name: Катерина Поліщук
 born: 2001-03-31
 living: true
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior, singer]
 role: "Парамедикиня й співачка «Пташка»"

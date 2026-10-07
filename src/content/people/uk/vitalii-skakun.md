@@ -3,7 +3,7 @@ name: Віталій Скакун
 born: 1996-08-19
 died: 2022-02-24
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Сапер морської піхоти"

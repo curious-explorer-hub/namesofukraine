@@ -3,7 +3,7 @@ name: Олексій Месь
 born: 1993-10-20
 died: 2024-08-26
 last_reviewed: 2026-10-06
-era: independence
+era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Льотчик F-16, «Мунфіш»"
