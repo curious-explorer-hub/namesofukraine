@@ -82,7 +82,7 @@ Then: key accomplishments · the story · why it matters today · debates and as
 ### 3.6 Community: feedback, team, support, social
 - **AC13** A feedback form (no login, spam-protected) takes suggestions of new people, corrections (with the profile), photos, sources and contact (both optional).
 - **AC14** Submissions land in one review queue; the page explains the selection criteria (§7) and that not every suggestion is added.
-- **AC17** The feedback page offers **joining the team** (research, fact-checking, writing, translation, photos, social media, design, code), which opens the same form tagged `type=volunteer`. A **Support** page (`/support/`, in the footer) has Patreon and Buy Me a Coffee, "join the team", and the social pages. **About** links to Support, joining, and the social pages (Instagram, Threads), where the same stories are posted for the community. Every external link is set in `src/site.ts` and hidden until its URL is set.
+- **AC17** The feedback page offers **joining the team** (research, fact-checking, writing, translation, photos, social media, design, code), which opens the same form tagged `type=volunteer`. A **Support** page (`/support/`, in the footer) has a Monobank jar, Patreon and Buy Me a Coffee, "join the team", and the social pages. **About** links to Support, joining, and the social pages (Instagram, Threads), where the same stories are posted for the community. Every external link is set in `src/site.ts` and hidden until its URL is set.
 
 ### 3.7 Other pages
 About (mission, selection criteria, privacy) · Image credits · a friendly 404 in each language.
