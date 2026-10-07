@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/serhii-paradzhanov.md
 name: "Sergei Parajanov"
 role: "Visionary film director"
-summary: "Film director whose Shadows of Forgotten Ancestors revealed the poetry of the Ukrainian Carpathians to the world. After he defended persecuted artists, the authorities imprisoned him on fabricated charges, but his films became classics of world cinema."
+summary: "Fellini, Truffaut and Godard signed a petition for his release. In Kyiv Sergei Parajanov made Shadows of Forgotten Ancestors, a film that won 16 awards at international festivals, and for backing persecuted artists the Soviet authorities jailed him on fabricated charges."
 fun_fact: "Parajanov also made collages and assemblages; his museum is in Yerevan."
 misconception:
   claim: "Parajanov was convicted and imprisoned in 1973 for a genuine criminal offense."
@@ -16,16 +16,18 @@ image_alt: "Photograph of Sergei Parajanov"
 reviewed: true
 ---
 
-## Who he was
+## An Armenian from Tbilisi at a Kyiv film studio
 
-Sergei Parajanov was born in Tbilisi into an Armenian family. He studied at the All-Union State Institute of Cinematography in Moscow, and from the 1950s he worked in Kyiv at the Oleksandr Dovzhenko Film Studio. It was in Ukraine that he made the film that brought him world fame.
+Sergei Parajanov was born in 1924 in Tbilisi into an Armenian family. He studied at the All-Union State Institute of Cinematography in Moscow, and from the 1950s he worked in Kyiv at the Oleksandr Dovzhenko Film Studio. It was in Ukraine that he made the film that brought him world fame.
 
-## His story
+## A love story in the Carpathians
 
 Shadows of Forgotten Ancestors (1964), based on the novella by [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/), is a love story set against the Hutsul culture of the Carpathians. The film was shot in Ukrainian with the Hutsul dialect, and with folk rituals, songs and costumes. It won 16 awards at international film festivals.
 
-At the film’s Kyiv premiere in 1965 there was a protest against the arrests of the Ukrainian intelligentsia. Parajanov supported persecuted artists, and the authorities took revenge: at the end of 1973 he was arrested, and in 1974 he was convicted on fabricated charges and sent to a labor camp. The director was released at the end of 1977 after an international campaign in his defense; in 1982 he was arrested again.
+## Why Fellini and Truffaut stood up for him
+
+At the film’s Kyiv premiere in 1965 there were protests against the arrests of the Ukrainian intelligentsia. Parajanov supported persecuted artists, and the authorities took revenge: at the end of 1973 he was arrested, and in 1974 he was convicted on fabricated charges and sent to a labor camp. Well-known European directors spoke up for him, among them François Truffaut, Jean-Luc Godard and Federico Fellini, and at the end of 1977 Parajanov was released. In 1982 he was arrested again.
 
 ## Why it matters today
 
-Parajanov showed the world that Ukrainian culture is deep, distinctive and beautiful. His film still appears on lists of the best films in the history of cinema.
+Parajanov showed the world that Ukrainian culture is deep, distinctive and beautiful. His Shadows of Forgotten Ancestors still appears on lists of the best films in the history of cinema.

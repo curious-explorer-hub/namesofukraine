@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykola-khvylovyi.md
 name: "Mykola Khvylovy"
 role: "Voice of the Executed Renaissance"
-summary: "Writer and pamphleteer, one of the leaders of the Ukrainian cultural revival of the 1920s. His slogan “Away from Moscow!” called for turning towards Europe, and his fate became a symbol of a generation of artists destroyed by the Soviet regime."
+summary: "His slogan “Away from Moscow!” alarmed the Kremlin so much that Stalin warned against it in a letter. Mykola Khvylovy, a writer and pamphleteer of the 1920s, urged Ukrainian culture to look to Europe and became a symbol of the Executed Renaissance."
 fun_fact: "Khvylovy is a pen name; the writer’s real surname was Fitilov."
 key_accomplishments:
   - "The short-story collections Blue Etudes and Autumn, and the story “I (Romance)”"
@@ -13,16 +13,18 @@ image_alt: "Photo portrait of Mykola Khvylovyi, before 1933"
 reviewed: true
 ---
 
-## Who he was
+## The slogan Stalin noticed
 
-Mykola Fitilov (pen name Khvylovy) was born in Trostianets in Slobozhanshchyna (Sloboda Ukraine). He fought in the First World War, and in 1919 he joined the Communist Party, believing in the ideals of the revolution. In the early 1920s he settled in Kharkiv, then the capital of Soviet Ukraine, and became one of the brightest writers of the era.
+Can a few pamphlets become the Kremlin’s business? With Mykola Khvylovy, they did. In pamphlets of 1925–1926 he urged Ukrainian culture to look not to Moscow but to a “psychological Europe”. His slogan “Away from Moscow!” stirred up the whole Ukrainian literary world, and Stalin, in a letter to Lazar Kaganovich, warned the party against Khvylovy’s “Western orientation”, calling it bourgeois nationalism.
 
-## His story
+## From revolutionary to rebel
 
-Khvylovy wrote innovative prose, and in his pamphlets of 1925–1926 he urged Ukrainian culture to look not to Moscow but to a “psychological Europe”. His slogan “Away from Moscow!” became a symbol of the striving for cultural independence. Writers of the Free Academy of Proletarian Literature (VAPLITE) gathered around him, and he was its guiding spirit.
+Mykola Fitilov was born in 1893 in Trostianets in Slobozhanshchyna (Sloboda Ukraine). He fought in the First World War, and in 1919 he joined the Communist Party, believing in the ideals of the revolution. In the early 1920s he settled in Kharkiv, then the capital of Soviet Ukraine. Critics noticed his short stories in Blue Etudes and Autumn at once, and young writers took up his bold style. The Free Academy of Proletarian Literature (VAPLITE) formed around him, with Khvylovy as its guiding spirit.
 
-Under pressure from the authorities, Khvylovy was forced to retreat: in 1927 he left VAPLITE, and in January 1928, in an open letter, he publicly renounced the slogan “Away from Moscow!”. The Stalinist regime still branded his views a “nationalist deviation”. After the arrest of his friend, the writer Mykhailo Yalovyi, in May 1933, at the time of the Holodomor and the terror, Khvylovy took his own life on 13 May 1933. His contemporaries saw his death as a protest.
+## Retreat under pressure
 
-## Why it matters today
+The authorities kept up the pressure, and Khvylovy gave ground: in 1927 he left VAPLITE, and in January 1928, in an open letter, he renounced the slogan “Away from Moscow!”. Yet after returning from abroad he founded the journal Literaturnyi yarmarok, which carried on VAPLITE’s line. By the early 1930s he had almost no way left to write and publish. In the spring of 1933 he saw the Holodomor in the Poltava region with his own eyes. After the arrest of his friend, the writer Mykhailo Yalovyi, Khvylovy took his own life on 13 May 1933. His contemporaries saw his death as a protest.
 
-Khvylovy is a symbol of the Executed Renaissance, the generation of artists of the 1920s–1930s destroyed by the Soviet authorities. His idea of Ukraine’s European choice has become relevant again in our time.
+## Why he is read today
+
+Right after his death his works, and even his name, were banned. Today Khvylovy is a symbol of the Executed Renaissance, the generation of artists of the 1920s–1930s destroyed by the Soviet authorities. And his idea of a European path for Ukraine sounds relevant again.

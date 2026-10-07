@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/roman-shukhevych.md
 name: "Roman Shukhevych"
 role: "Commander-in-chief of the UPA"
-summary: "General and commander-in-chief of the Ukrainian Insurgent Army (UPA) from 1943. For almost six years he led the armed underground against Soviet rule, and he was killed in combat. He remains a contested figure."
+summary: "An engineer and amateur pianist who, as “Taras Chuprynka”, took command of the Ukrainian Insurgent Army in 1943. Roman Shukhevych led the armed underground against Soviet rule for almost six years and was killed in combat; he remains a contested figure."
 fun_fact: "Shukhevych loved music and sport, and studied at the Lysenko Higher Music Institute in Lviv."
 misconception:
   claim: "Shukhevych is often called the founder of the UPA - the person who created the insurgent army."
@@ -16,20 +16,24 @@ image_alt: "Roman Shukhevych, photograph, 1944"
 reviewed: true
 ---
 
-## Who he was
+## Who was “Taras Chuprynka”?
 
-Roman Shukhevych was born in Lviv (other sources say in the small town of Krakovets in the Lviv region) into a family with long-standing cultural traditions. He studied engineering at the Lviv Polytechnic, and was an athlete and an amateur composer. As a young man he joined the Ukrainian Military Organization, and later the OUN.
+Under that pseudonym Roman Shukhevych took command of the Ukrainian Insurgent Army (UPA) in 1943. He was its commander-in-chief until his death in 1950, and for almost six of those years he led an armed underground against Soviet rule.
 
-## His story
+## Engineer, musician, conspirator
 
-In 1941, at the start of the German-Soviet war, Shukhevych served in the Nachtigall battalion, which the Abwehr, German military intelligence, had formed from Ukrainian nationalists. After the battalion was disbanded, from December 1941 to the end of 1942 he was deputy commander of Schutzmannschaft Battalion 201, an auxiliary police unit under German command that operated in Belarus. In 1943 he returned to Ukraine, took command of the Ukrainian Insurgent Army (UPA) and led it until his death. The UPA fought against the Nazi occupiers, Soviet partisans and the Polish underground, and after 1944 mainly against Soviet rule.
+Shukhevych was born in 1907 in Lviv (some sources say in the small town of Krakovets in the Lviv region), the son of a lawyer. He qualified as an engineer at the Lviv Polytechnic, and with his brother he studied voice and piano at the Lysenko Music Institute. As a young man he joined the Ukrainian Military Organization, and later the OUN.
 
-On 5 March 1950 officers of the MGB, the Soviet state security ministry, surrounded Shukhevych in the village of Bilohorshcha near Lviv. He was killed in the fighting.
+## A war between two empires
+
+In 1941 he served in the Nachtigall Battalion, formed by the Abwehr, German military intelligence, from Ukrainian nationalists. After it was disbanded, until the end of 1942 he was deputy commander of Schutzmannschaft Battalion 201, an auxiliary police unit under German command, in Belarus. In 1943 Shukhevych took over the UPA. It fought the Nazi occupiers, Soviet partisans and the Polish underground, and after 1944 mainly Soviet rule. In 1944 he was also elected head of the General Secretariat of the Ukrainian Supreme Liberation Council.
+
+On 5 March 1950 officers of the MGB surrounded his hideout in the village of Bilohorshcha near Lviv. Shukhevych was killed in the fighting.
 
 ## Debates and assessments
 
-Assessments of Shukhevych’s activities are mixed. Historians debate his service in German formations: the Nachtigall battalion and Schutzmannschaft Battalion 201, which took part in anti-partisan operations in Belarus. The mass killings of the Polish population of Volhynia began in 1943, before he took command of the UPA, but the anti-Polish actions of 1944 in Eastern Galicia took place when he was already in command; the question of the command’s responsibility remains a subject of research. For many Ukrainians he is a symbol of long-lasting armed resistance to the Soviet regime. The 2007 decree awarding him the title Hero of Ukraine was ruled unlawful by a court in 2010; his legal status is still disputed.
+Assessments of Shukhevych are divided. Historians debate his service in German units, especially Schutzmannschaft Battalion 201, which fought partisans in Belarus. The mass killings of Poles in Volhynia began in 1943, before he took command of the UPA, but the anti-Polish actions of 1944 in Eastern Galicia took place under his command; the question of his responsibility is still being researched. For many Ukrainians he is a symbol of long armed resistance to the Soviet regime. The 2007 decree making him a Hero of Ukraine was declared unlawful by a court in 2010.
 
 ## Why it matters today
 
-Shukhevych’s story shows that the struggle for independence in the 20th century took place between two totalitarian empires. It also shows that an honest conversation about the past must include both heroism and tragedies.
+Shukhevych’s story shows that the fight for independence in the 20th century was waged between two totalitarian empires. An honest conversation about the past has to include both heroism and tragedy.

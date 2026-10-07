@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykola-amosov.md
 name: "Mykola Amosov"
 role: "Pioneering heart surgeon"
-summary: "Heart surgeon, scientist and writer, one of the pioneers of cardiac surgery. He founded an institute in Kyiv where thousands of lives were saved, and developed his own system for staying healthy."
+summary: "He was the first in Ukraine to operate on the heart with artificial circulation, and at 84 he had heart surgery himself. Mykola Amosov, heart surgeon and writer, founded an institute in Kyiv that saved thousands of lives and created his own health system."
 fun_fact: "For years Amosov did a daily routine of a thousand exercise movements, which he designed himself and described in his books."
 misconception:
   claim: "Amosov’s own system of physical exercise protected him from heart disease and gave him “eternal” health into old age."
@@ -17,16 +17,18 @@ image_alt: "Mykola Amosov, a photo from Soviet Life, 1984"
 reviewed: true
 ---
 
-## Who he was
+## A surgeon from a drowned village
 
-Mykola Amosov was born in the village of Olkhove in the Vologda region (Russia). During the Second World War he was the lead surgeon of a field hospital and operated on thousands of wounded. From 1952 he lived and worked in Kyiv, where he developed heart and lung surgery.
+Mykola Amosov was born in 1913 in the village of Olkhove in the Vologda region of Russia. The village is no longer on the map: it was flooded by the Rybinsk Reservoir. In the Second World War Amosov was the leading surgeon of a field hospital. In 1952 he moved to Kyiv, where he spent the rest of his life.
 
-## His story
+## How to fix a heart
 
-Amosov was among the pioneers of cardiac surgery. His team used a heart-lung machine and developed new surgical techniques and heart valve prostheses. He founded a scientific center for heart surgery in Kyiv, which today is the M. M. Amosov National Institute of Cardiovascular Surgery. Tens of thousands of operations have been performed there.
+In Kyiv Amosov began with lung surgery and then moved on to the heart. In 1958 he was the first in Ukraine to operate with artificial circulation, where a machine takes over the heart’s work for a while. In 1963 he was the first in the USSR to replace a mitral heart valve with a prosthesis, and in 1965 he created the world’s first heart valve prostheses designed to prevent blood clots. His clinic grew into an institute of cardiovascular surgery that now bears his name. In time it was performing about 3,000 heart operations a year.
 
-Amosov wrote books for a general readership about medicine, the human being and health. He developed a system of physical exercise and dietary limits, which he tested on himself into old age.
+## A doctor who wrote for everyone
+
+Amosov wrote books for general readers, among them Thoughts and the Heart and The Book of Happiness and Misfortune. He developed a system of “limits and loads”, exercise plus moderation in eating, and tested it on himself for years.
 
 ## Why it matters today
 
-Amosov showed that science, work and discipline save lives. In the 2008 TV project Great Ukrainians, viewers ranked him second.
+Amosov showed that science, hard work and discipline save lives. In 2008 viewers of the TV project Great Ukrainians voted him second, right after Yaroslav the Wise.

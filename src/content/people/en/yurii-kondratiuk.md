@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/yurii-kondratiuk.md
 name: "Yurii Kondratiuk"
 role: "Spaceflight theorist"
-summary: "Born Oleksandr Sharhei in Poltava and known by the borrowed name Yurii Kondratiuk, he worked out by 1916–1919 how to fly to the Moon: leave the main craft in lunar orbit and send a small cabin down to the surface. The idea was later used in the Apollo program."
+summary: "How do you reach the Moon without hauling the whole ship there? Oleksandr Sharhei of Poltava, who lived as Yurii Kondratiuk, worked it out in 1916–1919: leave the craft in orbit and send a small cabin down. Apollo used the idea."
 fun_fact: "When astronaut Neil Armstrong visited the Soviet Union in 1970, he reportedly collected a handful of soil outside Kondratiuk’s house in Novosibirsk."
 key_accomplishments:
   - "Derived the basic equation of rocket motion independently of Tsiolkovsky and described multistage rockets (manuscript of 1918–1919)"
@@ -15,26 +15,22 @@ image_alt: "Yurii Kondratiuk, photograph from 1941"
 reviewed: true
 ---
 
-## Who he was
+## How do you get to the Moon without hauling the whole ship there and back?
 
-Oleksandr Sharhei was born in 1897 in Poltava and finished the city’s 2nd gymnasium. As a schoolboy, in 1914, he began thinking about interplanetary flight. In 1916 he entered the Petrograd Polytechnic Institute, but within months he was drafted into the Russian army. At the same time he finished his first manuscript on the theory of spaceflight, and in 1917–1918 he fought on the Caucasus front.
+A young man from Poltava wrote down the answer in his notebooks back in 1916–1919. The craft goes into orbit around the Moon, and only a small separate cabin goes down to the surface and comes back up. This “Kondratiuk route” was later used in America’s Apollo program, and NASA credits him with the first concept of lunar orbit rendezvous.
 
-## His story
+## A man with a borrowed name
 
-In 1918–1919 in Kyiv, Sharhei wrote To Those Who Will Read in Order to Build. Independently of Konstantin Tsiolkovsky, he derived the basic equation of rocket motion and described the design of a multistage rocket. Under Soviet rule a former tsarist officer risked arrest, so in 1921 his stepmother obtained for him the papers of a dead student, Yurii Kondratiuk. He lived under that name for the rest of his life.
+His real name was Oleksandr Sharhei. He was born in 1897 in Poltava, caught the space-travel bug as a schoolboy, and in 1916 was drafted into the Russian army. In 1918–1919 in Kyiv he wrote the manuscript “To Those Who Will Read in Order to Build”, setting out, independently of other scientists, his own theory of spaceflight and describing multistage rockets. As a former officer he risked arrest under Soviet rule, so in 1921 his stepmother obtained for him the papers of a dead student, Yurii Kondratiuk. He lived the rest of his life under that name. In 1929 his book The Conquest of Interplanetary Space came out in Novosibirsk.
 
-Kondratiuk worked as a mechanic at grain elevators in the Kuban, the North Caucasus and Siberia. In 1929 his book The Conquest of Interplanetary Space came out in Novosibirsk. In it he proposed a way to fly to the Moon: the spacecraft enters lunar orbit, and a separate small cabin descends to the surface and comes back. He also wrote about braking spacecraft in the atmosphere and about supply bases in orbit.
+## A granary without a single nail
 
-In 1930 Kondratiuk was arrested, and in 1931 he was sentenced to three years in the camps for “sabotage”: his superiors decided that the wooden granary he had built without a single nail, the “Mastodon”, would not hold its load. The granary stood for more than 60 years, and Kondratiuk was rehabilitated in 1970. Instead of a camp he was sent to a prison design bureau. There he took up a project for a powerful wind power station, which was begun on Mount Ai-Petri in Crimea in the 1930s but never finished. In 1933 in Moscow Kondratiuk met [Serhii Korolov](/en/people/serhii-korolov/) and members of the Group for the Study of Reactive Motion.
-
-In July 1941 he volunteered for the Moscow People’s Militia and was killed at the front.
+Kondratiuk built grain elevators in Siberia. In 1930 he was arrested for “sabotage”: his superiors decided that the wooden granary he had built without a single nail, the “Mastodon”, would not hold its load. It stood for more than 60 years. Instead of a labour camp, Kondratiuk was sent to a design bureau for imprisoned engineers, where he took on a project for a large wind power station on Mount Ai-Petri in Crimea. In 1933 in Moscow he met [Serhii Korolov](/en/people/serhii-korolov/). In the summer of 1941 he volunteered for the people’s militia and was killed at the front.
 
 ## Debates and assessments
 
-How Kondratiuk died is still being worked out. For a long time it was believed that he was killed in October 1941. The Internet Encyclopedia of Ukraine gives this version too: it says he died in undisclosed circumstances in the Kozelsk district of the Kaluga region. The more recent Encyclopedia of Modern Ukraine dates his death to a battle between 22 and 25 February 1942 near the village of Kryvtsovo (today in Russia’s Oryol region).
-
-Both encyclopedias say “Kondratiuk’s route” was used in the Apollo program, and NASA writes that early in the 20th century he developed the first concept of lunar orbit rendezvous.
+How he died is still being investigated. The Internet Encyclopedia of Ukraine says he died in October 1941; the more recent Encyclopedia of Modern Ukraine says he was killed in battle between 22 and 25 February 1942 near the village of Krivtsovo (now Oryol Oblast, Russia).
 
 ## Why it matters today
 
-Kondratiuk showed that you can reach the Moon without carrying the whole spacecraft there and back. That idea made landing people on the Moon technically feasible. A technical university and a museum of aviation and space in Poltava bear his name, and so does a crater on the far side of the Moon.
+Kondratiuk’s idea made landing people on the Moon technically possible. A technical university and the aviation and space museum in Poltava bear his name, and so does a crater on the far side of the Moon.

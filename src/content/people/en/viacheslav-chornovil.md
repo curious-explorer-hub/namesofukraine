@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/viacheslav-chornovil.md
 name: "Viacheslav Chornovil"
 role: "Dissident and leader of Rukh"
-summary: "Journalist, dissident and politician who spent more than 13 years in Soviet camps and exile. After his release he became a leader of the independence movement and headed the People’s Movement of Ukraine (Rukh)."
+summary: "After his first arrest he was thrown into a cell with death-row prisoners to break him at once. It didn’t work: the journalist Viacheslav Chornovil spent more than 13 years in captivity, then became a leader of the fight for independence and head of Rukh."
 fun_fact: "In 1975, while imprisoned, Chornovil was awarded the British Nicholas Tomalin Prize for journalism in absentia."
 misconception:
   claim: "Chornovil is often thought to have been the founder and leader of the People’s Movement of Ukraine (Rukh) from its founding in 1989."
@@ -17,16 +17,20 @@ image_alt: "Viacheslav Chornovil speaking at the Pochenkov coal mine in Makiivka
 reviewed: true
 ---
 
-## Who he was
+## The cell that was meant to break him
 
-Viacheslav Chornovil was born in the Cherkasy region into a family of teachers. He graduated from the journalism faculty of Kyiv University and worked in television and for newspapers. In the 1960s he joined the movement of the Sixtiers.
+“They threw me into a cell with prisoners on death row. They wanted to break me at once,” Viacheslav Chornovil recalled of his first days after arrest. It didn’t work: by then he had already written his books about the closed trials of Ukrainian intellectuals.
 
-## His story
+Chornovil was born in 1937 in the Cherkasy region into a family of teachers. He graduated from the journalism faculty of Kyiv University, worked in television in Lviv and for newspapers in Kyiv, and in the 1960s joined the Sixtiers. In 1965, when mass arrests of intellectuals began, he spoke out openly against the repressions together with Ivan Dziuba and Vasyl Stus. His collection The Misfortune of Intellect, about the political trials, was published abroad.
 
-Chornovil collected and circulated materials about closed trials of Ukrainian intellectuals. The result was the collection The Misfortune of Intellect, which was translated and read in the West. Recalling his first arrest, he said he was thrown into a cell with prisoners on death row so that he would break at once, but he did not break. For this, and for publishing the samizdat (self-published underground) journal The Ukrainian Herald, he was convicted several times. In all he spent more than 13 years in captivity, and he returned to Ukraine in 1985.
+## More than 13 years in captivity
 
-In 1990 Chornovil became head of the Lviv regional council, and in the first presidential election in 1991 he came second. According to [Bohdan Havrylyshyn](/en/people/bohdan-havrylyshyn/), President Leonid Kravchuk invited Chornovil into government, even offering to let him name deputy prime ministers and ministers, but he refused and stayed in opposition. He later led the People’s Movement of Ukraine (Rukh) and remained one of the most influential opposition figures. On 25 March 1999, ahead of the presidential election, he died in a car crash near Boryspil. The circumstances of his death still raise questions.
+For The Misfortune of Intellect, and later for the samizdat (self-published underground) journal The Ukrainian Herald, Chornovil was convicted several times. He served his terms in camps in Mordovia and in exile in Yakutia, and even there he kept writing appeals and going on hunger strike. In 1985, after more than 13 years in captivity, he returned to Ukraine.
+
+## From Lviv to Rukh
+
+In 1990 Chornovil became head of the Lviv regional council, he was among the initiators of the Act of Declaration of Independence, and in the first presidential election in 1991 he came second. According to [Bohdan Havrylyshyn](/en/people/bohdan-havrylyshyn/), President Leonid Kravchuk invited Chornovil into government, even offering to let him name deputy prime ministers and ministers, but he refused and stayed in opposition. He later became head of the People’s Movement of Ukraine (Rukh). On 25 March 1999 Chornovil died in a car crash near Boryspil in circumstances that have never been cleared up.
 
 ## Why it matters today
 
-Chornovil is an example of how words and documents can stand up to a totalitarian system. His slogan “Ukraine begins with you” still reads as a call to personal responsibility. And despite his years in prison, he said that if he had to start all over again, “I would choose the life I have lived.” He was posthumously awarded the title Hero of Ukraine.
+Chornovil showed that words and documents can stand up to a totalitarian system. His slogan “Ukraine begins with you” reads as a call to personal responsibility. And about his own life he said that if he had to start all over again, “I would choose the life I have lived.” He was posthumously awarded the title Hero of Ukraine.

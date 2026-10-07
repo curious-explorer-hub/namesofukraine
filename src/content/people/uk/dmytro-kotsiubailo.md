@@ -3,7 +3,7 @@ name: Дмитро Коцюбайло
 born: 1995-11-01
 died: 2023-03-07
 added: 2026-09-30
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 era: independence
 group: defenders
 tags: [warrior]
@@ -24,20 +24,10 @@ key_accomplishments:
   - Створив і очолив 1-й окремий батальйон «Вовки Да Вінчі» у складі 67-ї окремої механізованої бригади (2022)
   - Відзначений у рейтингу Forbes «30 до 30» (2022)
 sources:
-  - title: "Указ Президента України № 608/2021 від 30 листопада 2021 року"
-    url: "https://zakon.rada.gov.ua/laws/show/608/2021"
   - title: "Енциклопедія сучасної України - Коцюбайло Дмитро Іванович"
     url: "https://esu.com.ua/article-77556"
-  - title: "Радіо Свобода - У Києві попрощалися з Дмитром Коцюбайлом"
-    url: "https://www.radiosvoboda.org/a/news-proshchannia-dmytro-kotsibaylo/32312010.html"
   - title: "Укрінформ - «Да Вінчі» Дмитро Коцюбайло, якого боялися російські агресори"
     url: "https://www.ukrinform.ua/rubric-ato/3781195-da-vinci-dmitro-kocubajlo-akogo-boalisa-rosijski-agresori.html"
-  - title: "УНІАН - На війні загинув командир «Вовків Да Вінчі», який став легендою"
-    url: "https://www.unian.ua/society/na-viyni-zaginuv-komandir-vovkiv-da-vinchi-yakiy-stav-legendoyu-12171012.html"
-  - title: "Forbes Україна - Пам'яті учасника «30 до 30» Дмитра Коцюбайла"
-    url: "https://forbes.ua/lifestyle/vin-mav-bi-ocholiti-ukrainsku-armiyu-pamyati-zagiblogo-uchasnika-forbes-30-do-30-dmitra-kotsyubayla-da-vinchi-08032023-12241"
-  - title: "LB.ua - Героя України Дмитра Коцюбайла поховають у Києві"
-    url: "https://lb.ua/society/2023/03/08/548246_geroya_ukraini_dmitra_kotsyubayla.html"
   - title: "Обозреватель - У Києві відкрили пам'ятник Дмитру Коцюбайлу"
     url: "https://www.obozrevatel.com/ukr/zhizn-stolitsyi/u-tsentri-kievi-vidkrili-pamyatnik-legendarnomu-vijskovomu-dmitru-da-vinchi-kotsyubajlo-foto-ta-video.htm"
   - title: Вікіпедія - Коцюбайло Дмитро Іванович

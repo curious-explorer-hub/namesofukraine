@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/serhii-korolov.md
 name: "Serhii Korolov"
 role: "Chief Designer of the space age"
-summary: "Zhytomyr-born rocket and spacecraft designer. Under his leadership the first Earth satellite and the first human were launched into space - even though the Soviet regime had sent him to a labor camp in Kolyma."
+summary: "Two decades before he sent Gagarin into space, he was thrown into a labor camp in Kolyma. Serhii Korolov, a rocket designer from Zhytomyr, led the launches of the first Earth satellite and the first human in space."
 fun_fact: "During his lifetime Korolov’s name was a state secret; the press called him only “the Chief Designer”."
 misconception:
   claim: "Korolyov was arrested in 1938 for a real offense - sabotage or treason at the rocket institute."
@@ -16,16 +16,18 @@ image_alt: "Photograph of Serhii Korolov"
 reviewed: true
 ---
 
-## Who he was
+## From Kolyma to space
 
-Serhii Korolov was born in Zhytomyr and spent his childhood in Nizhyn, Kyiv and Odesa. He began his studies at the Kyiv Polytechnic Institute and graduated from the Moscow Higher Technical School. As a young man he became passionate about aviation and rockets: in 1933 his group launched one of the first Soviet liquid-fuel rockets.
+In 1938 Serhii Korolov was arrested without grounds during Stalin’s terror and sentenced to 10 years. He went through interrogations and a labor camp in Kolyma, then worked in a prison design bureau. Two decades later, the first human flew into space under his leadership.
 
-## His story
+## A boy hooked on rockets
 
-In 1938 Korolov was arrested without grounds during Stalin’s terror. He was sentenced to 10 years. He went through interrogations and a labor camp in Kolyma, from which he returned severely exhausted, and then worked in a prison design bureau. After his release in 1944 he became chief designer of long-range ballistic missiles, and later headed the leading rocket and space center.
+Korolov was born in 1907 in Zhytomyr and spent his childhood in Nizhyn, Kyiv and Odesa. He began his studies at the Kyiv Polytechnic Institute and graduated from the Moscow Higher Technical School. As a young man he fell for gliders and rockets: in 1933 his group launched one of the first Soviet liquid-fuel rockets.
 
-Under his leadership the R-7 rocket was built. It put into orbit the first artificial Earth satellite (1957) and the Vostok spacecraft with Yuri Gagarin (1961), the first human in space. During his lifetime his name was a state secret; the world learned about him only after his death.
+## Sputnik and Gagarin
+
+After his release in 1944 Korolov became chief designer of long-range ballistic missiles, and later headed the leading rocket and space center. Under his leadership the R-7 rocket was built. It put the first artificial Earth satellite into orbit (1957) and then the Vostok spacecraft with Yuri Gagarin (1961). The world learned who Korolov was only after his death in 1966.
 
 ## Why it matters today
 
-Korolov worked for the Soviet state that had thrown him into a labor camp. His story is about the talent of a man born in Ukraine who changed human history, and at the same time about how a totalitarian system used and silenced its creators. A museum named after him operates in Zhytomyr.
+Korolov worked for the state that had thrown him into a labor camp. His story is about the talent of a man born in Ukraine who changed human history, and about how a totalitarian system used and silenced its creators. A museum named after him operates in Zhytomyr.

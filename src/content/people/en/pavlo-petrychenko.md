@@ -2,31 +2,33 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/pavlo-petrychenko.md
 name: "Pavlo Petrychenko"
 role: "Civic activist and aerial scout"
-summary: "A Kyiv activist who took part in the Euromaidan and the “Who Ordered Katia Handziuk?” campaign. From April 2022 he was an aerial reconnaissance specialist in the 59th Brigade. He was killed in Donetsk region on 15 April 2024, a day before turning 32; Hero of Ukraine (posthumously)."
+summary: "His petition against online casinos won more than 25,000 signatures in under a day. Pavlo Petrychenko, a Kyiv activist and Euromaidan participant, served from 2022 as an aerial scout in the 59th Brigade. Killed in 2024; Hero of Ukraine (posthumously)."
 fun_fact: "In 2026 the skeleton racer Vladyslav Heraskevych quoted his words “All the beautiful ones keep their optimism” when addressing Ukrainians after the IOC disqualified him at the Olympic Games."
 key_accomplishments:
-  - "Took part in the Euromaidan and was an active member of the “Who Ordered Katia Handziuk?” campaign; organized rallies in support of the activist Serhii Sternenko"
-  - "Project manager at the Serhiy Prytula Foundation; at the start of the full-scale invasion he built up a volunteer center in Kyiv"
+  - "Took part in the Euromaidan and was one of the founders of the “Who Ordered Katia Handziuk?” movement; organized rallies in support of the activist Serhii Sternenko"
+  - "Built up Serhiy Prytula’s volunteer center in Kyiv (2022)"
   - "From April 2022, an aerial reconnaissance specialist in the 59th Separate Motorized Infantry Brigade named after Yakiv Handziuk, later commander of a drone squad"
   - "Author of a petition to restrict online casinos (2024) that gathered more than 25,000 signatures in under a day"
-  - "Order for Courage, 3rd class (2023); Hero of Ukraine with the Order of the Golden Star (posthumously, Decree No. 298/2025)"
+  - "Order for Courage, 3rd class (2023); Hero of Ukraine with the Order of the Golden Star (posthumously, 2025)"
 birthplace_name: "Kyiv"
 image_alt: "Photo portrait of Pavlo Petrychenko in uniform"
 reviewed: true
 ---
 
-## Who he was
+## 25,000 signatures in a day
 
-Pavlo Petrychenko was born in 1992 in Kyiv. He studied at the Kyiv National Economic University named after Vadym Hetman. He took part in the Revolution of Dignity and later in the civic campaign “Who Ordered Katia Handziuk?”. He organized rallies in support of the activist Serhii Sternenko.
+At the end of March 2024 the aerial scout Pavlo Petrychenko started a petition on the website of the President’s Office to restrict online casinos. He was convinced that online gambling was doing great harm to society, and to soldiers in particular. In under a day more than 25,000 people signed it.
 
-## His story
+## An activist from Kyiv
 
-Pavlo worked as a project manager at the Serhiy Prytula Foundation. When Russia's full-scale invasion began, he built up a volunteer center in Kyiv, and in April 2022 he joined the Armed Forces. He served in the 59th Separate Motorized Infantry Brigade named after Yakiv Handziuk, in aerial reconnaissance: using drones, he tracked enemy positions and equipment and helped direct artillery fire, and he later became commander of a drone squad. In October 2023 he was awarded the Order for Courage, 3rd class.
+Pavlo was born in Kyiv in 1992 and graduated from the Kyiv Economic University. He was an active participant in the Euromaidan, one of the founders of the “Who Ordered Katia Handziuk?” movement, and organized rallies in support of the activist Serhii Sternenko. He worked as a project manager, and in March 2022 he helped build up Serhiy Prytula’s volunteer center.
 
-At the end of March 2024 Petrychenko created a petition on the President's website to restrict online casinos, to protect soldiers from gambling addiction. In less than a day more than 25,000 people supported it, and the President responded to it in his address.
+## Eyes in the sky
 
-Pavlo Petrychenko was killed on 15 April 2024 in Donetsk region, in the Avdiivka direction, while carrying out a combat mission, a day before his 32nd birthday. On 8 May 2025 he was posthumously awarded the title Hero of Ukraine with the Order of the Golden Star.
+In April 2022 Pavlo was mobilized into the Armed Forces. He served as an aerial scout in the 59th Separate Motorized Infantry Brigade named after Yakiv Handziuk: flying drones, he spotted enemy equipment and troops and adjusted artillery fire. He helped liberate the Kherson region, defended the Donbas, and later became commander of a drone squad. In 2023 he was awarded the Order for Courage, 3rd class.
 
-## Why it matters today
+Pavlo Petrychenko was killed on 15 April 2024 near Krasnohorivka in the Donetsk region, a day before his 32nd birthday.
 
-Petrychenko stood up for justice both as a citizen and as a soldier. In 2025 Kyiv City Council renamed Volgo-Donska Street in the capital's Darnytskyi district as Pavla Petrychenka Street.
+## How he is remembered
+
+Pavlo was buried at Askold’s Grave in Kyiv. In 2025 he was posthumously made a Hero of Ukraine with the Order of the Golden Star, and in the capital’s Darnytskyi district Volgo-Donska Street was renamed Pavla Petrychenka Street.

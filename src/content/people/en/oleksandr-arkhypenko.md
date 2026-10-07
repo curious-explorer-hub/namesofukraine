@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/oleksandr-arkhypenko.md
 name: "Alexander Archipenko"
 role: "Innovator of modern sculpture"
-summary: "Kyiv-born sculptor and one of the founders of Cubist sculpture. He made the void and the hole part of the form, and this device influenced modern sculpture of the 20th century."
+summary: "Can a hole be part of a sculpture? Kyiv-born Alexander Archipenko proved it can: he was the first to bring Cubism into sculpture, made the void and the hole part of the form, and influenced modern art in Europe and America."
 fun_fact: "In 1927 Archipenko patented the “Archipentura”, a device in which the picture gradually changed."
 misconception:
   claim: "Archipenko is often labeled a “Russian sculptor” because he was born in the Russian Empire and studied in Moscow."
@@ -16,14 +16,16 @@ image_alt: "Photograph of Alexander Archipenko"
 reviewed: true
 ---
 
-## Who he was
+## Sculpture with empty space
 
-Alexander Archipenko was born in Kyiv and studied at the Kyiv Art School (he was expelled for taking part in student protests), then in Moscow. In 1908 he moved to Paris, at the time the capital of the artistic avant-garde. There he exhibited alongside the Cubists and quickly became one of the leaders of Cubist sculpture. In 1921–1923 he lived in Berlin, where he founded an art school, and in 1923 he moved to the United States, where he taught and opened his own school.
+An ordinary sculpture is mass and volume: stone, bronze, bulging forms. Alexander Archipenko did the opposite. He brought holes that pass right through, and hollow forms in place of bulging ones, into sculpture, and empty space became part of the work. His Walking Woman is one example.
 
-## His story
+He was also the first to use Cubist forms in sculpture. He combined metal, glass, wood and plastic, and in his “sculpto-paintings” he painted reliefs as if they were pictures.
 
-Archipenko rethought the very idea of sculpture. Traditionally, sculpture is mass and volume, but he made the void and the hole expressive: the absence of form became part of the form. He also experimented with color, glass, metal and transparent materials, and in his “sculpto-painting” he combined relief with painting.
+## From Kyiv to Paris and New York
+
+Archipenko was born in Kyiv in 1887 and studied at the Kyiv Art School, but he was expelled for taking part in student protests during the revolution of 1905. After studying in Moscow, he moved in 1908 to Paris, then the capital of the avant-garde, and exhibited alongside the Cubists. In 1921 he founded an art school in Berlin, and from 1923 he lived in the United States, where he opened several more schools. In all, he had 118 solo exhibitions.
 
 ## Why it matters today
 
-Archipenko’s techniques influenced modern sculpture of the 20th century. Throughout his life he stressed his Ukrainian origin: he made sculpted portraits of [Shevchenko](/en/people/taras-shevchenko/) and [Franko](/en/people/ivan-franko/) and helped create the Ukrainian pavilion at the 1933 world’s fair in Chicago.
+Archipenko influenced modern art in Europe and America. He kept up ties with Ukrainian intellectuals in Lviv and Kyiv, made sculpted portraits of [Shevchenko](/en/people/taras-shevchenko/) and [Franko](/en/people/ivan-franko/), and in 1933 showed 48 works in the Ukrainian pavilion at the world’s fair in Chicago. His works are held in many museums around the world, including in Kyiv and Lviv.

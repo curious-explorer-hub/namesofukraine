@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/nestor-makhno.md
 name: "Nestor Makhno"
 role: "Leader of the peasant insurgency"
-summary: "An anarcho-communist from Huliaipole who in 1918–1921 led a mass peasant insurgent movement in southern Ukraine. He fought the Austro-German forces, the hetman, the Whites and the Bolsheviks; his legacy is still disputed, from the image of a folk hero to accusations of violence."
+summary: "He escaped the death sentence only because he had been a minor at the time of the crime. The anarchist Nestor Makhno from Huliaipole led a peasant uprising in southern Ukraine in 1918–1921, fighting both the Whites and the Reds; his legacy is still disputed."
 fun_fact: "After a battle in the Dibrivka forest in 1918, the insurgents nicknamed Makhno “Batko” (Father); he was proud of this “title” and often signed public documents with it."
 key_accomplishments:
   - "As head of the Huliaipole council, signed a decree in 1917 confiscating landowners’ land and dividing it among the peasants"
@@ -14,24 +14,24 @@ image_alt: "Nestor Makhno in an internment camp in Romania, 1921"
 reviewed: true
 ---
 
-## Who he was
+## A death sentence turned into hard labor
 
-Nestor Makhno was born in Huliaipole in the Katerynoslav province (today Zaporizhzhia Oblast) into a large peasant family. He lost his father early, worked as a hired laborer from childhood and received only a primary education. Influenced by the revolution of 1905, he joined the Huliaipole group of anarcho-communists. He was arrested several times on suspicion of involvement in political killings and expropriations; in 1910 a military court sentenced him to death, but because he had been a minor at the time of the crime the sentence was commuted to life at hard labor. In Moscow’s Butyrka prison he became a committed anarchist.
+Nestor Makhno was born in 1888 into a large peasant family in Huliaipole in the Katerynoslav region (now Zaporizhzhia Oblast). He lost his father early, worked as a hired hand from childhood and had only a primary education. After the 1905 revolution he joined the anarcho-communists of Huliaipole. He was arrested several times on suspicion of political killings and expropriations, and in 1910 a military court sentenced him to death. But Makhno had been a minor at the time of the crime, so the sentence was changed to life at hard labor. In Moscow’s Butyrka prison he became a committed anarchist.
 
-## His story
+## A peasant army from Huliaipole
 
-Released after the February Revolution of 1917, Makhno returned to Huliaipole, headed the local council and signed a decree confiscating landowners’ land and dividing it among the peasants. In the autumn of 1918 he raised an uprising against the Austro-German forces, Hetman Skoropadskyi and the landowners, and by the end of the year he had united most of the region’s insurgent bands under his command. The Makhnovists made wide use of mobile cavalry and tachankas, light carts mounted with machine guns.
+The February Revolution of 1917 set him free. Makhno went home, became head of the local council and signed a decree confiscating the landlords’ land and dividing it among the peasants. In the autumn of 1918 he led an uprising against the Austro-German forces, Hetman Skoropadskyi and the landlords. His insurgents fought with fast cavalry and tachankas, light carts with mounted machine guns.
 
-Relations with the Bolsheviks were unstable: in early 1919 Makhno’s units joined the Red Army, but the insurgents rejected the dictatorship of the proletariat and grain requisitioning, and the alliance broke down. In the summer of 1919 Makhno proclaimed the Revolutionary Insurgent Army of Ukraine, briefly allied with the UPR Army, and in September defeated Denikin’s elite officer regiments at Perehonivka. The Makhnovists’ subsequent raids disrupted the White rear and forced Denikin to pull troops from the front against the Bolsheviks. From January 1920, however, the Red Army fought the Makhnovists again; in the autumn it used them once more against Wrangel in Crimea, and immediately afterward launched an operation to destroy them. In August 1921 Makhno crossed the Romanian border with a small detachment and later made his way through Poland to France. He lived in poverty in Paris, wrote memoirs and articles against Bolshevism, died of tuberculosis and is buried in Père Lachaise Cemetery.
+The alliance with the Bolsheviks was shaky: in 1919 the Makhnovists fought now alongside the Red Army, now against it. In September 1919, at Perehonivka, Makhno routed Denikin’s elite regiments, and his raids threw the Whites’ rear into chaos. From 1920 the Red Army was at war with the Makhnovists again, and after a joint campaign against Wrangel it set out to destroy them. In August 1921 Makhno crossed into Romania with a small band and eventually reached Paris. There he lived in poverty, wrote memoirs, died of tuberculosis and was buried at Père Lachaise Cemetery.
 
 ## Debates and assessments
 
-Makhno is one of the most controversial figures of the Ukrainian Revolution. Ukrainian encyclopedias describe him as a gifted popular leader whose tactics of insurgent guerrilla warfare were studied by many armies around the world. Soviet films and literature, by contrast, mostly portrayed him negatively, even though the Makhnovists repeatedly helped the Bolsheviks fight the Whites.
+Makhno is one of the most controversial figures of the Ukrainian Revolution. Ukrainian encyclopedias describe him as a gifted popular leader whose insurgent tactics were studied by many armies around the world. Soviet films and books mostly portrayed him negatively.
 
-Researchers also discuss the violence that accompanied the movement. Even before the revolution, the group Makhno belonged to resorted to terror and expropriations. During the civil war, Makhnovists attacked Mennonite colonies, including the mass killing at Eichenfeld in November 1919. Mennonite tradition blames Makhno personally; the researcher Sean Patterson shows that a Makhnovist cavalry squadron carried it out together with local peasants embittered by the colonists' collaboration with the Austro-German and White forces and by their self-defense units; no direct order from Makhno has been found, but his rhetoric against "kulaks" encouraged the violence. Makhno was also accused of antisemitism; he rejected these accusations, and a number of historians do not confirm them: according to testimonies, Makhno punished participants in pogroms within his ranks (although some Makhnovist units still carried out pogroms despite the command's attempts to stop them), and in 1919 the Makhnovists executed Otaman Nykyfor Hryhoriv, who was involved in pogroms.
+Researchers also debate the violence that came with the movement. Even before the revolution, the group Makhno belonged to used terror and expropriations. During the civil war the Makhnovists attacked Mennonite colonies, including a mass killing at Eichenfeld in November 1919. Mennonite tradition blames Makhno personally. The researcher Sean Patterson argues that the massacre was carried out by Makhnovists together with local peasants; no direct order from Makhno has been found, but his rhetoric against “kulaks” fed the violence. Makhno was also accused of antisemitism. He rejected the charge, and a number of historians do not support it: Makhno banned pogroms and punished those in his ranks who took part in them, and in 1919 the Makhnovists killed the otaman Nykyfor Hryhoriiv, who was involved in pogroms.
 
 As an anarchist, Makhno opposed any state, so he does not fit into the history of Ukrainian state-building, but he is an important part of the history of the peasant struggle of 1917–1921.
 
-## Why it matters today
+## Why people still talk about him
 
-Makhno’s figure still attracts great public interest in Ukraine and around the world. In 2009 a monument to him was erected in his hometown of Huliaipole.
+Makhno draws great interest in Ukraine and around the world. In 2009 a monument to him was put up in his native Huliaipole.

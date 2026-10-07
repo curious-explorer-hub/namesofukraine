@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/ivan-franko.md
 name: "Ivan Franko"
 role: "Writer, scholar and thinker"
-summary: "Writer, poet, scholar and journalist, the author of thousands of works. He was one of the first to argue for Ukraine’s political independence."
+summary: "Austria jailed him several times; the University of Vienna made him a doctor of philosophy. Ivan Franko, writer, scholar and journalist, wrote thousands of works and was one of the first to argue for an independent Ukraine."
 fun_fact: "The edition of Franko’s collected works published in 1976–1986 runs to 50 volumes - and even that is incomplete."
 misconception:
   claim: "Franko grew up in a poor peasant family and struggled with poverty from childhood his whole life."
@@ -17,20 +17,18 @@ image_alt: "Photograph of Ivan Franko"
 reviewed: true
 ---
 
-## Who he was
+## The prisoner Vienna made a doctor
 
-Ivan Franko was born in the village of Nahuievychi in the Lviv region, the son of a village blacksmith. He studied at the Drohobych gymnasium and at Lviv University. He was jailed three times in Austrian prisons for his political views (1877, 1880, 1889). Despite this, he earned a doctorate in philosophy from the University of Vienna.
+The Austrian authorities jailed Ivan Franko several times for his political views, the first time in 1877. Yet in 1893 he defended a dissertation at the University of Vienna and became a doctor of philosophy. The road there began in the village of Nahuievychi in the Lviv region, in the family of a village blacksmith, and ran through the Drohobych gymnasium and Lviv University.
 
-## His story
+## Thousands of works and one idea
 
-Franko is one of the most prolific authors in the history of Ukrainian literature: poetry, prose, drama, scholarly works, criticism, journalism and translations. His poem Moses is a reflection on a people, a leader and the path to freedom. The novel Zakhar Berkut tells of a community that defends its freedom.
+Franko is one of the most prolific authors in the history of Ukrainian literature. He wrote poetry, prose, plays, scholarship, criticism and journalism, and he translated. His poem Moses is a reflection on a people, a leader and the road to freedom. The novel Zakhar Berkut is about a community standing up for its freedom.
 
-Franko was a co-founder of the first Ukrainian political party, the Ruthenian-Ukrainian Radical Party, and one of the first to argue for a politically independent Ukraine, in his article “Beyond the Limits of the Possible” (1900). He died in Lviv in 1916.
+He didn’t only write. In 1890 Franko co-founded the first Ukrainian political party, the Ruthenian-Ukrainian Radical Party. And in his article “Beyond the Limits of the Possible” (1900) he was one of the first to argue for a politically independent Ukraine.
 
-## Why it matters today
+In 1915 the process of nominating Franko for the Nobel Prize in Literature began. But he died in Lviv in 1916, and the prize is not awarded posthumously.
 
-Franko combined literature, scholarship and public life and became one of the most influential Ukrainian intellectuals of his time. Lviv National University bears his name, and his portrait appears on the 20-hryvnia banknote.
+## Why his name is everywhere
 
-## Interesting facts
-
-- In 1915 the process of nominating Franko for the Nobel Prize in Literature began, but he died in 1916, and the prize is not awarded posthumously.
+Franko brought literature, scholarship and public life together and became one of the most influential Ukrainian intellectuals of his time. That is why Lviv National University, where he once studied, bears his name.

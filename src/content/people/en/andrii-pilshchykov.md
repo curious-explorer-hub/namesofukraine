@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/andrii-pilshchykov.md
 name: "Andrii Pilshchykov"
 role: "Fighter pilot, “Juice”"
-summary: "A MiG-29 pilot of the 40th Tactical Aviation Brigade who returned to his brigade after the full-scale invasion began and defended the sky over Kyiv. He became one of the most prominent voices urging the West to give Ukraine F-16 fighters. Killed in 2023; Hero of Ukraine (posthumously)."
-fun_fact: "American pilots gave him the call sign “Juice” during the Clear Sky 2018 exercise: he never ordered alcohol, only juice."
+summary: "A boy who photographed planes as a teenager grew up to fly MiG-29s and defend the sky over Kyiv. Andrii Pilshchykov, call sign “Juice”, lobbied US senators to give Ukraine F-16s. Killed in 2023; Hero of Ukraine (posthumously)."
+fun_fact: "He got the call sign “Juice” at the international Clear Sky 2018 exercise: he never ordered alcohol, only juice."
 misconception:
   claim: "Andrii Pilshchykov was the legendary “Ghost of Kyiv”, a lone pilot shooting down Russian aircraft over the capital."
   truth: "The “Ghost of Kyiv” is a collective image. On 30 April 2022 the Air Force Command explained that it stands for the pilots of the 40th Tactical Aviation Brigade who defend the capital’s sky, not for one person. Pilshchykov himself stressed that the “Ghost of Kyiv” was the whole brigade: “we were just doing our job.”"
@@ -17,18 +17,18 @@ image_alt: "Andrii Pilshchykov holding his flight helmet"
 reviewed: true
 ---
 
-## Who he was
+## The boy who photographed planes
 
-Andrii Pilshchykov was born in 1993 in Kharkiv. He dreamed of flying from childhood; as a teenager he photographed aircraft and helped found the plane-spotting movement in his home city. To get into the Ivan Kozhedub Kharkiv National University of the Air Force he first had to have his eyesight corrected. After graduating he flew MiG-29 fighters with the 40th Tactical Aviation Brigade, based near Kyiv.
+Andrii Pilshchykov was born in 1993 in Kharkiv and dreamed of flying from childhood. As a teenager he photographed aircraft and helped found the plane-spotting movement in his home city. To get into the Ivan Kozhedub Kharkiv National University of the Air Force he first had to have his eyesight corrected. After graduating he flew MiG-29 fighters with the 40th Tactical Aviation Brigade, and in 2018, at the Clear Sky exercise, he got the call sign “Juice.”
 
-## His story
+## He left the service, then came back
 
-Before the full-scale war Pilshchykov took part in international exercises, including Clear Sky 2018 in Ukraine, where American colleagues gave him the call sign “Juice.” He had left the service in 2021, but when the invasion began in 2022 he returned to his brigade and soon began flying combat missions, including over Kyiv. The legend of the “Ghost of Kyiv” stands for this brigade’s pilots, and Andrii himself stressed that the credit belonged to the whole unit.
+In 2021 Pilshchykov quit: he disliked the Soviet ways that lingered in the army, kept trying to change them and kept running into resistance from senior officers. But when the full-scale invasion began in 2022, he went back to his brigade. Between March 2022 and August 2023 “Juice” flew 101 combat sorties, including over Kyiv. The legend of the “Ghost of Kyiv” stands for his brigade’s pilots, and Andrii insisted the credit belonged to the whole unit.
 
-Pilshchykov became one of the best-known public voices of Ukraine’s pilots. He gave interviews to international media explaining why Ukraine needed modern Western fighters. In 2022 he and another pilot, “Moonfish,” visited Washington and met US senators to persuade them to give Ukraine F-16s. According to Radio Svoboda, he also spent his own savings on equipment for fellow servicemen.
+## Eight senators and the F-16
 
-On 25 August 2023, in the Zhytomyr region, according to the Air Force, two L-39 training and combat aircraft collided in the air while carrying out a combat mission. Three pilots were killed: Andrii Pilshchykov, Viacheslav Minka and Serhii Prokazin. Andrii was posthumously promoted to major, and on 30 September 2024 he was made a Hero of Ukraine.
+How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and another pilot, “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also gave his own savings to buy helmets for his fellow pilots.
 
-## Why it matters today
+## How he is remembered
 
-The first F-16s arrived in Ukraine in the summer of 2024, and Pilshchykov was among those who pushed hard for that decision. His story shows that defending a country is not only about combat sorties, but also about speaking to the world honestly and persuasively.
+On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided in the air during a combat mission. He was 30. The pilots Viacheslav Minka and Serhii Prokazin were killed with him. Andrii was posthumously promoted to major, and in 2024 he was made a Hero of Ukraine. He is remembered as a pilot who defended his country both in the sky and with his voice.

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/vasyl-sukhomlynskyi.md
 name: "Vasyl Sukhomlynskyi"
 role: "Humanist educator"
-summary: "Educator and writer who for more than twenty years headed the village school in Pavlysh and turned it into a teaching laboratory. His book I Give My Heart to Children put the child’s personality at the center of schooling and was published abroad in 25 languages."
+summary: "No publisher wanted his main book; later it came out in 25 languages. Vasyl Sukhomlynskyi headed the village school in Pavlysh for more than twenty years and put the child’s personality at the center of schooling."
 fun_fact: "Besides his works on education, Sukhomlynskyi wrote about 1,200 stories, fairy tales and essays for children."
 key_accomplishments:
   - "Director of the Pavlysh secondary school (1948–1970)"
@@ -14,16 +14,20 @@ image_alt: "Photo portrait of Vasyl Sukhomlynskyi"
 reviewed: true
 ---
 
-## Who he was
+## The book that came out in Germany first
 
-Vasyl Sukhomlynskyi was born in the village of Vasylivka in today’s Kirovohrad region, into a peasant family. He began teaching in the 1930s and was educated at the Poltava Pedagogical Institute. During the Second World War he served as a company political officer and in February 1942 was seriously wounded near Rzhev. From June 1942 to 1944 he headed a school in Udmurtia, and in 1944 he returned to the Kirovohrad region to lead the district education department.
+No publisher wanted Vasyl Sukhomlynskyi’s I Give My Heart to Children. It came out in Ukraine in 1969 only because it had been published in East Germany a year earlier. The book went on to win the State Prize of the Ukrainian SSR and was published abroad in 25 languages.
 
-## His story
+## A teacher who went through the war
 
-From 1948 until the end of his life Sukhomlynskyi was director of the secondary school in the settlement of Pavlysh. He turned an ordinary village school into a teaching laboratory. In The Spiritual World of the Schoolchild, The Unique Human Being and other books, he put the child’s personality at the center of teaching and upbringing, a subject that the official pedagogy of the time barely touched. His best-known work, I Give My Heart to Children (1969), received the State Prize of the Ukrainian SSR and was published abroad in 25 languages.
+Sukhomlynskyi was born in 1918 in the village of Vasylivka in today’s Kirovohrad region, into a peasant family. He began teaching in the 1930s while studying by correspondence at the Poltava Pedagogical Institute. In the war he was a company political officer and in February 1942 was seriously wounded near Rzhev. Until 1944 he headed a school in Udmurtia, then returned to the Kirovohrad region to run the district education department.
 
-In 1967 the newspaper Uchitelskaya Gazeta accused Sukhomlynskyi of “abstract humanism” and “petty-bourgeois individualism.” According to the Encyclopedia of the History of Ukraine, these attacks were political in nature. Sukhomlynskyi died in Pavlysh on 2 September 1970. A memorial museum dedicated to him operates in Pavlysh, and the State Scientific and Pedagogical Library of Ukraine bears his name.
+## The school in Pavlysh
+
+From 1948 until the end of his life Sukhomlynskyi was director of the secondary school in the settlement of Pavlysh. Here, in an ordinary village school, he developed his ideas. In The Spiritual World of the Schoolchild, The Unique Human Being and other books he put the child’s personality at the center of teaching and upbringing, a subject the official pedagogy of the time did not touch.
+
+In 1967 the newspaper Uchitelskaya Gazeta accused him of “abstract humanism” and “petty-bourgeois individualism”. According to the Encyclopedia of the History of Ukraine, these attacks were political in nature. Sukhomlynskyi died in Pavlysh on 2 September 1970. A memorial museum dedicated to him works there, and the State Scientific and Pedagogical Library of Ukraine bears his name.
 
 ## Why it matters today
 
-Sukhomlynskyi showed that a school can raise dignified, free and kind people by respecting the uniqueness of every child. Teachers in Ukraine and in many other countries still study and apply his ideas.
+Sukhomlynskyi showed that a school can raise dignified, free and kind people by respecting the uniqueness of every child. His legacy has been recognized around the world.

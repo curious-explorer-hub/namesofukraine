@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/marko-vovchok.md
 name: "Marko Vovchok"
 role: "Writer, a classic of Ukrainian prose"
-summary: "The writer Mariia Vilinska, who wrote under the pen name Marko Vovchok. Her Folk Stories (1857) about the lives of serfs were a landmark in Ukrainian literature, and Taras Shevchenko called her his “daughter.” She translated 15 Jules Verne novels into Russian."
+summary: "Behind the male pen name Marko Vovchok was Mariia Vilinska. Her Folk Stories (1857) about the lives of serf women were a landmark in Ukrainian literature; Shevchenko called her his “daughter”; and she was the first to translate 15 Jules Verne novels into Russian."
 fun_fact: "In 1858 Taras Shevchenko and friends in Saint Petersburg collected money, bought a gold bracelet and sent it to Marko Vovchok in Nemyriv, together with a handwritten copy of his poem “The Dream.”"
 misconception:
   claim: "Marko Vovchok was a man, or if a woman, then a Russian who merely learned Ukrainian."
@@ -17,16 +17,20 @@ image_alt: "Photograph of Marko Vovchok (Mariia Vilinska)"
 reviewed: true
 ---
 
-## Who she was
+## Why did Mariia sign herself “Marko”?
 
-Mariia Vilinska was born in 1833 on the Katerynyne estate in the Oryol province (now Lipetsk Oblast in Russia) and grew up among Russian speakers. In 1846–1848 she studied at a private boarding school in Kharkiv. In 1851 she married the ethnographer Opanas Markovych and lived with him in Chernihiv, Kyiv and, from 1856, in Nemyriv in Podillia. It was there that she came to know the Ukrainian language, way of life and folklore in depth.
+In 1857 Folk Stories by Marko Vovchok came out in Saint Petersburg. Behind that name was a young woman, Mariia Vilinska. The male pen name had been invented for her by the book’s publisher, Panteleimon Kulish. Her stories about the fate of serfs, told in the voices of peasant women, were at once a landmark in Ukrainian literature.
 
-## Her story
+## How a Russian-raised girl became a Ukrainian writer
 
-In 1857 Panteleimon Kulish published her Folk Stories under the pen name Marko Vovchok, which he invented himself. The collection of stories about the fate of serfs, especially women, at once became extraordinarily popular among the Ukrainian intelligentsia. Back in 1858 [Shevchenko](/en/people/taras-shevchenko/) and friends had sent her a gold bracelet in Nemyriv, and in early 1859 in Saint Petersburg they met in person: he dedicated the poem “To Marko Vovchok” to her, in which he called her “my daughter.” A Russian translation of her stories, edited by Ivan Turgenev, came out in 1859.
+Mariia was born in 1833 on an estate in the Oryol province (now Lipetsk Oblast in Russia) and grew up among Russian speakers. In 1851 she married the ethnographer Opanas Markovych and lived with him in Chernihiv, Kyiv and Nemyriv in Podillia. There she collected folklore and came to know the Ukrainian language and way of life in depth.
 
-From 1859 to 1867 Marko Vovchok lived abroad, in Germany, Great Britain, Switzerland, Italy and, for the longest time, Paris. After returning to Russia she worked as a translator and editor: she translated 15 Jules Verne novels into Russian, as well as works by Charles Darwin and other authors, and edited the journal Translations of the Best Foreign Writers. Her second husband was Mykhailo Lobach-Zhuchenko. She spent her last years in the Caucasus and died in 1907 at the Dolinsk farmstead (now part of Nalchik).
+[Shevchenko](/en/people/taras-shevchenko/) read her book. In early 1859 they met in person in Saint Petersburg, and he dedicated the poem “To Marko Vovchok” to her, calling her his “daughter”. That same year her stories came out in Russian, translated under the editorship of Ivan Turgenev.
+
+## Jules Verne in Russian
+
+From 1859 to 1867 Marko Vovchok lived abroad, longest of all in Paris. Back in Russia she edited the journal Translations of the Best Foreign Writers and was the first to translate 15 Jules Verne novels into Russian, as well as works by Charles Darwin. She married a second time, to Mykhailo Lobach-Zhuchenko, spent her last years in the Caucasus and died in 1907 on the Dolinsk farmstead (now part of Nalchik).
 
 ## Why it matters today
 
-Marko Vovchok was one of the first in Ukrainian literature to show serfdom through a woman’s eyes, and she opened several new genres, including prose for children. Her story shows how a person who grew up outside the Ukrainian-speaking world could consciously choose Ukrainian as the language of her work.
+Marko Vovchok was one of the first to show serfdom through a woman’s eyes, and she wrote for children too. Her story shows how someone who grew up outside the Ukrainian-speaking world could consciously choose Ukrainian as the language of her work.

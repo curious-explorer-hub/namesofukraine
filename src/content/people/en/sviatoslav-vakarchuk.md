@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/sviatoslav-vakarchuk.md
 name: "Svyatoslav Vakarchuk"
 role: "Singer, frontman of Okean Elzy"
-summary: "The singer and main songwriter of Okean Elzy, one of Ukraine’s most popular rock bands, which he came to lead in 1994. A theoretical physicist by training. He was twice elected to parliament, and in 2022 he began playing concerts for soldiers and civilians."
-fun_fact: "Vakarchuk is a theoretical physicist: his dissertation dealt with the supersymmetry of electrons in a magnetic field. Supersymetriia (Supersymmetry) is also the title of Okean Elzy’s 2003 album."
+summary: "A theoretical physicist who wrote his dissertation on supersymmetry, yet became famous as the voice of Okean Elzy. In 1994 Sviatoslav Vakarchuk became the band’s leader and main songwriter; he served twice in parliament and in 2022 began singing for soldiers and civilians."
+fun_fact: "Okean Elzy’s 2003 album is called Supersymetriia (Supersymmetry), and one of its songs is “Susy”, short for supersymmetry. That is exactly the subject of Vakarchuk’s dissertation."
 key_accomplishments:
   - "Vocalist, main songwriter and lifelong frontman of the band Okean Elzy (since 1994)"
   - "Okean Elzy’s win at the Chervona Ruta festival (1995); the albums Tam, de Nas Nema (1998), Model (2001), Supersymetriia (2003), Gloriia (2005)"
@@ -14,17 +14,21 @@ image_alt: "Svyatoslav Vakarchuk at the U.S. Independence Day reception in Kyiv,
 reviewed: true
 ---
 
-## Who he is
+## The physicist who became a generation’s voice
 
-Svyatoslav Vakarchuk (in official transliteration, Sviatoslav) was born in 1975 in Mukachevo into the family of the physicist Ivan Vakarchuk, later rector of Lviv University and Minister of Education, and grew up in Lviv. He went to music school, and in 1991–1996 studied theoretical physics at the physics faculty of Lviv University; he then went on to graduate school and defended a dissertation in theoretical physics.
+In 1996 Sviatoslav Vakarchuk, a physics graduate of Lviv University, started a PhD in theoretical physics. By then he had already been singing with Okean Elzy for two years. He defended his dissertation, on the supersymmetry of an electron in a magnetic field, only in 2009: through all the tours and albums, the work took many years.
 
-## His story
+Svyatoslav Vakarchuk (in official transliteration, Sviatoslav) was born in 1975 in Mukachevo into the family of the physicist Ivan Vakarchuk, later rector of Lviv University and Minister of Education, and grew up in Lviv, where he also went to music school.
 
-In 1994 Vakarchuk became the vocalist of the newly formed Lviv band Okean Elzy (Elza’s Ocean), becoming its constant leader and the author of most of its songs. In 1995 the band won the Chervona Ruta festival, dedicated to the memory of [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/), and in 1998 it moved to Kyiv and released its debut album, Tam, de Nas Nema (Where We Are Not). Then came Ya na Nebi Buv (I Was in Heaven, 2000), Model (2001), Supersymetriia and Tviy Format (both 2003), Gloriia (2005) and other records. Vakarchuk is an Honored Artist of Ukraine (2005) and holds the Order of Freedom (2016), and in 2025 he received the National Legend of Ukraine award. In 2011 he was the patron of a monument to Ivasiuk in Lviv.
+## Okean Elzy
 
-Vakarchuk has twice been a member of parliament. In 2007 he was elected on the list of the Our Ukraine–People’s Self-Defense bloc, but in September 2008 he gave up his seat. In May 2019 he founded the party Holos (Voice), headed its list in the snap parliamentary election and returned to the Verkhovna Rada. In June 2020 he announced he was resigning; when parliament did not approve this, he left the party’s faction so as to lose his seat by being removed from the party list; on 26 June 2020 a Holos party congress voted to end his mandate. In 2015 he was a Yale World Fellow at Yale University.
+In 1994 he became the vocalist of the newly formed Lviv band Okean Elzy (Elza’s Ocean), its leader and the author of most of its songs. In 1995 the band won the Chervona Ruta festival, dedicated to the memory of [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/), and in 1998 it moved to Kyiv and released its debut album, Tam, de Nas Nema (Where We Are Not). Then came Ya na Nebi Buv, Model, Supersymetriia, Gloria and more. Later Vakarchuk initiated and paid for a monument to Ivasiuk in central Lviv. He is an Honored Artist of Ukraine (2005), holds the Order of Freedom (2016), and in 2025 received the title National Legend of Ukraine.
 
-From the first days of Russia’s full-scale invasion in 2022, Vakarchuk travelled around Ukraine singing for soldiers and medics, for civilians in metro stations and in hospitals. In March 2022 he said he had signed a contract with the Armed Forces of Ukraine and received the rank of lieutenant.
+## Politics and war
+
+Vakarchuk has twice been a member of parliament. In 2007 he was elected on the list of the Our Ukraine–People’s Self-Defense bloc, but he gave up his seat in 2008. In 2019 he founded the party Holos (Voice), headed its list and returned to the Verkhovna Rada, and in 2020 he gave up his seat again.
+
+From the first days of the full-scale invasion in 2022 he travelled around Ukraine singing for soldiers and medics, for civilians in metro stations and in hospitals. At the same time he signed a contract with the Armed Forces of Ukraine and received the rank of lieutenant.
 
 ## Why it matters today
 

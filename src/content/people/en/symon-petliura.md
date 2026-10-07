@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/symon-petliura.md
 name: "Symon Petliura"
 role: "Head of the UPR Directory, Chief Otaman"
-summary: "A journalist and statesman, a founder of the Ukrainian army in 1917, Head of the Directory of the Ukrainian People’s Republic and Chief Otaman of its army. For many Ukrainians a symbol of the 1917–1921 fight for independence; yet historians still debate his responsibility for the 1919 pogroms."
-fun_fact: "Before the revolution Petliura worked for several years as a bookkeeper in Moscow, while also co-founding and editing the Russian-language journal Ukrainskaia zhizn there with Oleksandr Salikovskyi."
+summary: "In 1911 he was working as a bookkeeper in Moscow; by 1918 he was Chief Otaman of the Ukrainian People’s Republic army. Symon Petliura helped create the Ukrainian army and became a symbol of the 1917–1921 fight for independence; historians still debate his responsibility for the pogroms."
+fun_fact: "Petliura left Warsaw for France at the end of 1923 on a passport in the name of Stepan Mohyla."
 key_accomplishments:
   - "First General Secretary for Military Affairs of the Ukrainian Central Rada (1917): laid the foundations of the Ukrainian armed forces"
   - "Chief Otaman of the UPR Army (from November 1918) and Head of the UPR Directory (from 1919)"
@@ -14,25 +14,29 @@ image_alt: "Symon Petliura in Kamianets-Podilskyi, 1919: the photograph turned b
 reviewed: true
 ---
 
-## Who he was
+## From bookkeeper to Chief Otaman
 
-Symon Petliura was born in Poltava into a townspeople’s family of Cossack origin. He studied at the Poltava Theological Seminary but was expelled in 1901 for belonging to a secret Ukrainian hromada (society). He joined the Revolutionary Ukrainian Party, worked as a teacher and on the archives of the Kuban Cossack Host, and was arrested twice. As a journalist he wrote for the Literary-Scientific Herald, edited Ukrainian social democratic publications in Kyiv and, in 1912–1917, the journal Ukrainskaia zhizn in Moscow.
+In 1911 Symon Petliura moved to Moscow and worked there as a bookkeeper, and later he co-edited the journal Ukrainskaia zhizn with Oleksandr Salikovskyi. Seven years later this journalist became Chief Otaman of the army of the Ukrainian People’s Republic (UPR).
 
-## His story
+He was born in 1879 in Poltava into a townspeople’s family of Cossack origin. In 1901 he was expelled from the Poltava Theological Seminary for belonging to a secret Ukrainian circle. He joined the Revolutionary Ukrainian Party, worked as a teacher and on the archives of the Kuban Cossack Host, and was arrested twice.
 
-After the February Revolution of 1917 Petliura headed the Ukrainian General Military Committee and became the first General Secretary for Military Affairs of the Central Rada, pushing for the Ukrainization of units of the Russian army. At the end of 1917 he formed the Haidamaka Kish of Sloboda Ukraine, which fought the Bolsheviks in January–February 1918 and helped suppress the uprising at the Arsenal plant in Kyiv.
+## Building an army
 
-Under Hetman Skoropadskyi, Petliura headed the All-Ukrainian Union of Zemstvos and spent several months in the hetman’s prison; in November 1918 he became Chief Otaman of the forces of the Directory of the UPR, which rose against the hetman. From 1919 he headed the Directory and for 10 months commanded the UPR Army, and later the combined UPR and Ukrainian Galician armies, in the war against the Bolsheviks and Denikin’s forces. In December 1919, surrounded, the government left for Warsaw, and on his orders the army set out on the First Winter Campaign. In 1920, after the Treaty of Warsaw with Poland, UPR forces together with Polish troops took Kyiv on 7 May, but later had to retreat and were interned in Poland.
+After the revolution of 1917 Petliura became the first General Secretary for Military Affairs of the Central Rada and pushed for the Ukrainization of units of the Russian army. At the end of 1917 he formed the Haidamaka Kish of Sloboda Ukraine, which fought the Bolsheviks and helped suppress the uprising at the Arsenal plant in Kyiv.
 
-Because the Bolsheviks were demanding that Poland hand him over, Petliura left for Budapest, Vienna and Geneva, and from 1924 he lived in Paris, where he founded the weekly Tryzub and led the UPR government in exile. On 25 May 1926 he was shot dead on the Rue Racine by Sholem (Samuel) Schwartzbard. Petliura was buried in Montparnasse Cemetery.
+Under Hetman Skoropadskyi, Petliura headed the All-Ukrainian Union of Zemstvos and spent several months in prison. In November 1918 he became Chief Otaman of the forces of the Directory, which rose against the hetman, and from 1919 he headed the Directory itself. For 10 months the UPR Army under his command fought the Bolsheviks and Denikin’s forces. At the end of 1919, on his orders, the army set out on the First Winter Campaign. In 1920, after the Treaty of Warsaw with Poland, UPR and Polish forces took Kyiv on 7 May, but later had to retreat.
+
+## Exile
+
+Because the Bolsheviks were demanding his extradition, Petliura left Poland, and in 1924 he settled in Paris. There he founded the weekly Tryzub and led the UPR government in exile. On 25 May 1926 he was shot dead on the Rue Racine by Sholem (Samuel) Schwartzbard. Petliura was buried in Montparnasse Cemetery.
 
 ## Debates and assessments
 
-In 1918–1920 Ukraine saw numerous brutal anti-Jewish pogroms: according to Nahum Gergel's count, more than 31,000 people were killed, and other estimates go as high as 60,000. They were carried out by different forces: Denikin’s army, Red Army soldiers, otaman and anarchist bands, and also UPR units, which Gergel's data credit with about 40 percent of the pogroms. The question of Petliura’s responsibility as head of state and commander in chief is one of the most debated in the history of the Ukrainian Revolution.
+In 1918–1920 Ukraine saw numerous brutal anti-Jewish pogroms. According to Nahum Gergel's count, more than 31,000 people were killed; other estimates go as high as 60,000. The pogroms were carried out by different forces, including Denikin’s army, Red Army soldiers, otaman and anarchist bands, and also UPR units, which Gergel's data credit with about 40 percent of the pogroms. The question of Petliura’s responsibility as head of state and commander in chief is one of the most debated in the history of the Ukrainian Revolution.
 
-Ukrainian encyclopedias and some historians (including Taras Hunczak) stress that Petliura was not an antisemite, issued orders against the pogroms and punished those responsible; for example, the otaman responsible for the pogrom in Proskuriv (today Khmelnytskyi) was executed by firing squad. Other researchers (including Zosa Szajkowski) believe that, as head of state and commander in chief, he did not take sufficient measures to stop the violence, and that his orders against the pogroms came too late.
+Ukrainian encyclopedias and some historians (including Taras Hunczak) stress that Petliura tried to stop the pogroms and punished those responsible severely; for example, the otaman responsible for the pogrom in Proskuriv (today Khmelnytskyi) was executed by firing squad. Other researchers (including Zosa Szajkowski) argue that he did not do enough to stop the violence.
 
-Petliura’s assassin, Schwartzbard, declared that he was taking revenge for the victims of the pogroms, for which he blamed Petliura. At the trial in Paris in October 1927, the central question was not the killing itself but Petliura’s responsibility for the pogroms. The prosecution argued that Schwartzbard had acted in a conspiracy with the Soviet authorities; the defense presented testimony from pogrom victims. The jury acquitted Schwartzbard, which the Ukrainian émigré community saw as a gross miscarriage of justice. For decades Soviet propaganda used the words “Petliurism” and “Petliurites” as terms of abuse.
+Schwartzbard said he was avenging the victims of the pogroms, for which he blamed Petliura. At the trial in Paris in 1927 the defense spoke about the pogroms, while the prosecution argued that Petliura was not responsible for them and that Schwartzbard was a Soviet agent. The jury acquitted Schwartzbard. For decades Soviet propaganda used the words “Petliurism” and “Petliurites” as terms of abuse.
 
 ## Why it matters today
 

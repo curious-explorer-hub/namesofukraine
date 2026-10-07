@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/kniahynia-olha.md
 name: "Princess Olha"
 role: "First woman ruler of Kyivan Rus’"
-summary: "The wife of Prince Ihor, who after his death in 944 ruled Rus’ in place of her young son Sviatoslav. She subdued the Derevlianians, reorganized tribute collection and became the first ruler of Rus’ to accept Christianity."
-fun_fact: "Her reception in Constantinople was described by Emperor Constantine VII Porphyrogenitus himself in his Book of Ceremonies; according to historians’ reading of the text, Olha was excused from the customary prostration before the throne, a rare honor for a foreign guest."
+summary: "The chronicle remembers her revenge on the Derevlianians, but her biggest achievement was putting the state in order. Princess Olha ruled Rus’ for her young son, replaced the dangerous tribute rounds with local centers and was the first ruler of Rus’ to become a Christian."
+fun_fact: "Her visit to Constantinople was described by Emperor Constantine VII Porphyrogenitus himself: in his Book of Ceremonies he told how Olha was received at the imperial palace."
 misconception:
   claim: "Princess Olha baptized Rus’."
   truth: "Olha was baptized personally but did not make Christianity the state religion: she was opposed by the pagan nobility led by her son Sviatoslav. The Baptism of Rus’ in 988 was carried out by her grandson, Volodymyr the Great."
@@ -18,18 +18,20 @@ image_alt: "Saint Olha, an icon from c. 1700 (detail)"
 reviewed: true
 ---
 
-## Who she was
+## More than revenge
 
-Olha was the wife of Prince Ihor of Kyiv and the mother of Sviatoslav Ihorovych. Little is known about her origins: according to the Tale of Bygone Years she came from Pleskov, but historians offer other versions too. She probably married Ihor around 930. At baptism she took the name Olena (Helena).
+In the autumn of 944 the Derevlianians killed Prince Ihor of Kyiv when he tried to collect tribute from them a second time. His widow, Olha, took the throne of Kyiv and ruled in place of their young son, Sviatoslav. In 945–946 she crushed the Derevlianians and abolished their tribal principality. The chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds.
 
-## Her story
+But Olha’s most important work came afterwards. Instead of poliuddia, the dangerous tribute rounds on one of which Ihor had been killed, she set up princely pohosty and stations across the country. Through these centers Kyiv collected taxes, held courts and governed its lands.
 
-In the autumn of 944 the Derevlianians killed Ihor when he tried to collect tribute from them a second time. Olha took the throne of Kyiv and ruled in place of her young son. In 945–946 she crushed the Derevlianians and abolished their tribal principality; the chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds. Olha then reorganized tribute collection: instead of the dangerous rounds known as poliuddia, she founded princely pohosty and stations, centers through which Kyiv collected taxes and governed its lands.
+Little is known about Olha herself. According to the Tale of Bygone Years she came from Pleskov, but historians offer other versions too. She probably married Ihor around 930.
 
-In relations with Byzantium Olha preferred diplomacy to military campaigns. She visited Constantinople and made peace with Emperor Constantine VII Porphyrogenitus. According to the Encyclopedia of the History of Ukraine, she was baptized at that time in the Cathedral of Hagia Sophia; the date of the visit and the place of her baptism are still debated (946, 955 or 957 are suggested, and some historians believe Olha was baptized earlier, in Kyiv). Around 959 she sent an embassy to the German king Otto I; its purpose and outcome are unknown.
+## Peace instead of war
 
-Olha was unable to make Christianity the state religion: she was opposed by the pagan nobility led by Sviatoslav. Around 964 she handed power to him but continued to govern Kyiv during his campaigns. Olha died in 969 and was buried according to Christian custom.
+With Byzantium, Olha negotiated rather than fought. She visited Constantinople and made peace with Emperor Constantine VII Porphyrogenitus. According to the Encyclopedia of the History of Ukraine, she was baptized there, in the Cathedral of Hagia Sophia, and took the name Olena (Helena). The date of the visit and the place of her baptism are still debated: 946, 955 or 957 are suggested, and some historians believe Olha was baptized earlier, in Kyiv. Around 959 she sent an embassy to the German king Otto I.
+
+Olha could not make Christianity the state religion: she was opposed by the pagan nobility led by Sviatoslav. In 964 she handed power to her son but went on governing during his campaigns. Olha died in 969 and was buried according to Christian custom.
 
 ## Why it matters today
 
-Olha is the first known woman ruler in the history of Rus’. Her administrative reforms strengthened the state, and her personal baptism prepared the way for the choice of her grandson Volodymyr, who baptized Rus’ in 988. The Church venerates Olha as a saint equal to the apostles; she stands on the monument on Mykhailivska Square in Kyiv, and the Order of Princess Olha is Ukraine’s state award for women.
+Olha is the first known woman ruler of Rus’. Her reforms strengthened the state, and her baptism paved the way for her grandson Volodymyr, who baptized Rus’ in 988. The Church venerates her as a saint equal to the apostles, and the Order of Princess Olha, founded in Ukraine in 1997, bears her name.

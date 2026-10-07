@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mustafa-dzhemiliev.md
 name: "Mustafa Dzhemilev"
 role: "Crimean Tatar national movement leader"
-summary: "Leader of the Crimean Tatar national movement, who as a baby survived the 1944 deportation. For fighting for his people’s right to return to Crimea he spent 15 years in Soviet captivity. Chairman of the Mejlis of the Crimean Tatar People (1991–2013), member of Ukraine’s parliament, Hero of Ukraine."
-fun_fact: "While imprisoned in Omsk in 1975–1976, Dzhemilev kept up a hunger strike for more than 300 days (303 by some counts), and all that time prison doctors force-fed him."
+summary: "He was driven out of his native Crimea twice: as a baby in 1944 and as a well-known politician in 2014. Mustafa Dzhemilev spent 15 years in Soviet captivity for his people’s right to return home, led the Mejlis for 22 years and became a Hero of Ukraine."
+fun_fact: "In 1975–1976, facing a new criminal case in the Omsk region, Dzhemilev went on hunger strike for more than 300 days, and all that time he was force-fed."
 key_accomplishments:
   - "A co-founder of the Union of Crimean Tatar Youth (1960s) and initiator of the Organization of the Crimean Tatar National Movement (1989)"
   - "Chairman of the Mejlis of the Crimean Tatar People (1991–2013)"
@@ -15,18 +15,22 @@ image_alt: "Mustafa Dzhemilev on a visit to the Senate of Poland, 2014"
 reviewed: true
 ---
 
-## Who he is
+## Exiled twice
 
-Mustafa Dzhemilev (in Crimean Tatar, Mustafa Cemilev, also known as Qırımoğlu) is a Crimean Tatar, a native of Crimea, and a citizen and politician of Ukraine. He was born in 1943 in the village of Ay-Serez in Crimea (today Mizhrichchia). In May 1944, when the Soviet authorities deported the entire Crimean Tatar people, his family was sent to Uzbekistan; Mustafa was six months old. From 1961 he took part in the national movement for the Crimean Tatars’ return to their homeland and became a co-founder of the Union of Crimean Tatar Youth. In 1965 he was expelled from the Tashkent Institute of Irrigation and Agricultural Mechanization.
+Mustafa Dzhemilev (in Crimean Tatar, Mustafa Cemilev, also known as Qırımoğlu) was born in 1943 in the village of Ay-Serez in Crimea (today Mizhrichchia). In May 1944 the Soviet authorities deported the entire Crimean Tatar people, and the Dzhemilev family was sent to Uzbekistan. Mustafa was six months old.
 
-## His story
+Seventy years later, on 22 April 2014, the Russian occupation authorities banned him from entering Crimea. For the second time, he had been driven from his homeland.
 
-In 1966 Dzhemilev was jailed for the first time, for a year and a half, for his part in the national movement and for refusing to serve in the Soviet Army. In the late 1960s he joined the human rights movement in the USSR, and in 1969 he was arrested for criticizing the Soviet system and condemning the Warsaw Pact invasion of Czechoslovakia. He was tried several more times; in all he spent 15 years in Soviet camps, prisons and exile. During the investigation and trial in Omsk in 1975–1976 he was on hunger strike for more than 300 days. In 1986, under international pressure and after a personal appeal from US President Ronald Reagan, he was released.
+## 15 years for the right to go home
 
-In 1989 Dzhemilev initiated the Organization of the Crimean Tatar National Movement, and on 26 June 1991 he became chairman of the Mejlis of the Crimean Tatar People, the Crimean Tatars’ representative body, which he led until 2013. Since 1998 he has been elected to the Verkhovna Rada, Ukraine’s parliament: he sat in the factions of the People’s Movement of Ukraine (Rukh), Our Ukraine, Batkivshchyna and the Petro Poroshenko Bloc, and since 2019 in European Solidarity (as of October 2026 he is a member of the 9th convocation). In 1999–2015 he chaired the Council of Representatives of the Crimean Tatar People under the President of Ukraine, and in 2014–2019 he was the President’s Commissioner for Crimean Tatar Affairs.
+From 1961 Dzhemilev fought for the Crimean Tatars’ return home and became a co-founder of the Union of Crimean Tatar Youth. In 1965 he was expelled from his institute in Tashkent, and in 1966 he was jailed for the first time, for his part in the national movement and for refusing to serve in the Soviet Army. In 1969 he was arrested again, for criticizing the Soviet system and condemning the Warsaw Pact invasion of Czechoslovakia. He was tried several more times and spent 15 years in captivity in all. In 1986, under international pressure and after a personal appeal from US President Ronald Reagan, he was released.
 
-Dzhemilev condemned Russia’s occupation of Crimea in March 2014. On 22 April 2014 the occupation authorities banned him from entering the peninsula, the second time in his life he was driven from his homeland. In 2015 he was one of the initiators of a civic economic blockade of occupied Crimea, and in 2022 a Russian court sentenced him in absentia to three years in prison. On 13 November 2023, his 80th birthday, the President of Ukraine awarded him the title Hero of Ukraine.
+## His people’s voice in Ukraine
+
+In 1991 Dzhemilev became chairman of the Mejlis of the Crimean Tatar People, its representative body, and led it until 2013. Since 1998 he has been elected to Ukraine’s parliament again and again, and in 2014–2019 he was the President’s Commissioner for Crimean Tatar Affairs. After the occupation of Crimea he was one of the initiators of a civic economic blockade of the peninsula, and in 2022 a Russian court sentenced him in absentia to three years in prison.
+
+On 13 November 2023, his 80th birthday, Dzhemilev was made a Hero of Ukraine, among other things “for courage and dedication in defending the rights of the Crimean Tatar people.” Accepting the award, he said he had one more dream: to return to his homeland.
 
 ## Why it matters today
 
-For many Crimean Tatars and Ukrainians, Dzhemilev is a symbol of resistance to deportation and occupation. He was made a Hero of Ukraine, among other things, “for courage and dedication in defending the rights of the Crimean Tatar people”, and for more than a quarter of a century he has represented the Crimean Tatars in Ukraine’s parliament.
+For many Crimean Tatars and Ukrainians, Dzhemilev is a symbol of resistance to deportation and occupation. His story is a reminder that Crimea is the home of the Crimean Tatars, who have been driven out of it more than once.

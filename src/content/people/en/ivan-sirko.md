@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/ivan-sirko.md
 name: "Ivan Sirko"
 role: "Kish otaman of the Zaporozhian Sich"
-summary: "The most celebrated kish otaman (chief commander) of the Zaporozhian Sich, elected to the post many times in the 1660s and 1670s. He won fame for his campaigns against the Crimean Khanate and the Ottoman Empire, and in folk memory became the hero of legends and dumas."
+summary: "One raid on Kaffa, and about 2,000 captives walked out of Crimean slavery. Ivan Sirko, one of the best-known kish otamans (chief commanders) of the Zaporozhian Sich, fought Crimea and the Ottoman Empire and became a hero of folk legends and dumas."
 fun_fact: "In 1672 Sirko was exiled to Tobolsk in Siberia on the Muscovite tsar’s orders, but in 1673, at the demand of the Polish side, he was brought back to Ukraine - and the Zaporozhians elected him kish otaman once again."
 misconception:
   claim: "The famous “Letter of the Zaporozhian Cossacks to the Turkish Sultan” was written by Ivan Sirko and is a genuine 17th-century document."
@@ -17,22 +17,26 @@ image_alt: "Otaman Ivan Sirko as imagined by Ilya Repin: a study for the paintin
 reviewed: true
 ---
 
-## Who he was
+## Two thousand people set free
 
-Ivan Sirko was a Cossack commander of the second half of the 17th century and the best-known kish otaman of the Zaporozhian Sich. His exact date and place of birth are unknown. Encyclopedias give different years, from 1605–1610 to about 1618. Sirko’s first biographer, Dmytro Yavornytskyi, believed he was born in Merefa in Sloboda Ukraine. Modern researchers, including Yurii Mytsyk, lean toward the view that he came from Podillia, probably from Murafa. Sirko’s name first appears in documents in 1653; in the late 1650s he was colonel of Kalnyk (Vinnytsia).
+In 1667 the Zaporozhian Cossacks under Ivan Sirko reached Kaffa (today Feodosiia) in Crimea and freed about 2,000 Christian captives. It was only one of his campaigns. Sirko raided Crimea several times, once reaching Bakhchysarai, and in 1670–1671 he attacked the Turkish fortresses of Ochakiv and Islam-Kermen.
 
-## His story
+## Where did he come from?
 
-In the autumn of 1662 Sirko was elected kish otaman for the first time. He led campaigns against the Crimean Khanate and the Ottoman Empire: in 1667 he reached Kaffa (today Feodosiia) and freed about 2,000 Christian captives, he raided Crimea several times, once reaching Bakhchysarai, and in 1670–1671 he attacked the Turkish fortresses of Ochakiv and Islam-Kermen. In 1668 he took part in the uprising in Left-Bank Ukraine against Muscovite rule.
+Nobody knows for sure. Encyclopedias give different birth years, from 1605–1610 to about 1618. Sirko’s first biographer, Dmytro Yavornytskyi, believed he was born in Merefa in Sloboda Ukraine; the modern historian Yurii Mytsyk points to Murafa in Podillia. Sirko first appears in documents in 1653. In the late 1650s he was colonel of Kalnyk (Vinnytsia), and in the autumn of 1662 he was elected kish otaman for the first time.
 
-Sirko changed his political alliances often. He opposed the pro-Polish policies of Hetmans Ivan Vyhovskyi and Pavlo Teteria, supported Petro Doroshenko for a time, but broke sharply with him when Doroshenko moved closer to the Ottoman Empire. In 1672 the Left-Bank Cossack officers arrested Sirko, and on the tsar’s orders he was exiled to Tobolsk. After his return in 1673 the Zaporozhians elected him kish otaman again, and he held the post for the rest of his life. In 1677–1678, together with the forces of Hetman Ivan Samoilovych and the Muscovite army, he halted the Turkish and Tatar advance on Right-Bank Ukraine. Sirko died in August 1680 at his apiary in Hrushivka; he was buried near the Chortomlyk Sich (today the village of Kapulivka in the Dnipropetrovsk region).
+## Allies that kept changing
+
+Sirko switched political alliances often. He opposed the pro-Polish policies of Hetmans Ivan Vyhovskyi and Pavlo Teteria, fought in the 1668 uprising in Left-Bank Ukraine against Muscovite rule, and backed Petro Doroshenko for a while, but broke with him when Doroshenko moved closer to the Ottoman Empire. In 1672 Sirko was arrested and exiled to Tobolsk, yet the next year he was back at the head of the Sich, this time for the rest of his life. In 1677–1678, together with Hetman Ivan Samoilovych’s forces and the Muscovite army, he halted the Turkish and Tatar advance.
+
+Sirko died in August 1680 at his apiary in Hrushivka. He was buried near the Chortomlyk Sich (today the village of Kapulivka in the Dnipropetrovsk region).
 
 ## Debates and assessments
 
-Legends grew up around Sirko during his lifetime and especially after his death. He is the hero of folk tales and dumas; according to legend, he was a kharakternyk, a Cossack with supernatural powers. These stories are part of folklore, not documented facts.
+Legends about Sirko began while he was still alive. He is the hero of folk tales and dumas; according to legend, he was a kharakternyk, a Cossack with supernatural powers. This is folklore, not documented fact.
 
-The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by [Ilya Repin](/en/people/illia-riepin/)’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also assessed in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians interpret his motives differently.
+The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by [Ilya Repin](/en/people/illia-riepin/)’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also judged in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians read his motives differently.
 
-## Why it matters today
+## Why he is remembered
 
-Sirko became one of the symbols of Cossack valor and of Ukraine’s defense against raids. His exploits are celebrated in dumas, and the historian of the Zaporozhian Cossacks Dmytro Yavornytskyi devoted a separate biography to him (1894).
+Sirko became one of the symbols of Cossack valor and of Ukraine’s defense against raids. His exploits are celebrated in dumas, and Dmytro Yavornytskyi devoted a separate biography to him (1894).

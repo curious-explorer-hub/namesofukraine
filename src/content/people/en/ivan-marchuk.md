@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/ivan-marchuk.md
 name: "Ivan Marchuk"
 role: "Painter, creator of “plontanism”"
-summary: "A painter, graphic artist and sculptor whose work the Soviet authorities refused to recognize because it did not conform to socialist realism. He created his own technique of painting with fine interwoven lines, “plontanism”. A Shevchenko Prize laureate and People’s Artist of Ukraine."
+summary: "His paintings are made not of brushstrokes but of fine colored lines that interweave and seem to glow. Ivan Marchuk called the technique “plontanism”. The Soviet authorities refused to recognize him; later he won the Shevchenko Prize and became a People’s Artist of Ukraine."
 fun_fact: "Marchuk was admitted to the Union of Artists of Ukraine only in 1988, when he was already over fifty."
 key_accomplishments:
   - "His own technique, “plontanism” (first used in 1972)"
@@ -14,16 +14,20 @@ image_alt: "Photograph of Ivan Marchuk at the opening of his solo exhibition in 
 reviewed: true
 ---
 
-## Who he is
+## Paintings made of fine lines
 
-Ivan Marchuk was born in 1936 in the village of Moskalivka in the Ternopil region. He studied in Lviv: in 1956 he graduated from the School of Applied Art (his teachers included Karlo Zvirynskyi), and in 1965 from the Institute of Decorative and Applied Art (his teachers included Roman Selskyi). He then moved to Kyiv, where he worked, among other places, at a monumental and decorative art workshop and illustrated magazines.
+Imagine a canvas where the paint goes on not in brushstrokes but in fine colored lines. They cross at different angles, and the picture seems to gain depth and glow. Ivan Marchuk first used this technique in a landscape in 1972 and called it “plontanism”. It is almost impossible to copy: the work is too delicate and too painstaking.
 
-## His story
+## The artist they wouldn’t recognize
 
-Marchuk’s art did not fit within the limits of socialist realism, so the official authorities refused to recognize his work, and he himself came under pressure from the KGB. He was admitted to the Union of Artists only in 1988. In 1989 he emigrated: he lived in Australia, Canada and the United States, and in 2001 he returned to Ukraine for good.
+Marchuk was born in 1936 in the village of Moskalivka in the Ternopil region. He studied art in Lviv, among others under Karlo Zvirynskyi and Roman Selskyi, and then moved to Kyiv, where he worked at a monumental and decorative art workshop and illustrated magazines.
 
-Marchuk developed his own technique, “plontanism”: paint is applied in fine colored lines, and their interweaving creates an effect of volume and glow. He paints landscapes, portraits, still lifes, and fantastic and abstract compositions, and he groups his paintings into cycles such as Voice of My Soul, Colored Preludes and White Planet. His works are held in the National Art Museum of Ukraine, the National Museum in Lviv and the Shevchenko National Preserve in Kaniv.
+His style did not fit socialist realism, so the official authorities and the artists’ unions refused to recognize his work, and the KGB put pressure on him. He was admitted to the Union of Artists only in 1988. The following year he emigrated: he lived in Australia, Canada and the United States, and in 2001 he returned to Ukraine for good.
+
+## Cycles, not single paintings
+
+Marchuk’s work spans landscapes, portraits, still lifes, and fantastic and abstract compositions. He has grouped his paintings into cycles: Voice of My Soul (including the Shevchenkiana series), Colored Preludes, White Planet. His works are held in the National Art Museum of Ukraine, the National Museum in Lviv and the Shevchenko National Preserve in Kaniv.
 
 ## Why it matters today
 
-Marchuk shows that an artist can keep to his own path even when the authorities refuse to recognize him. He is a Shevchenko Prize laureate (1997) and a People’s Artist of Ukraine (2002). In 2026, for his 90th birthday, a large retrospective exhibition of his works opened in Kyiv.
+Marchuk shows that an artist can hold to his own path even when the authorities refuse to recognize him. He is a Shevchenko Prize laureate (1997) and a People’s Artist of Ukraine (2002). In 2026, for his 90th birthday, a large retrospective of his work opened in Kyiv.

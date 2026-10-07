@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/vasyl-stus.md
 name: "Vasyl Stus"
 role: "Poet and human rights defender"
-summary: "Poet of the Sixtiers generation and human rights defender, a member of the Ukrainian Helsinki Group. He died in a Soviet labor camp, leaving Palimpsests, one of the landmark collections of modern Ukrainian poetry."
-fun_fact: "In captivity Stus translated the poetry of Rilke and Goethe."
+summary: "The KGB seized and destroyed more than 600 of his poems, and he kept writing. Vasyl Stus, a poet of the Sixtiers and a member of the Ukrainian Helsinki Group, died in a Soviet camp, leaving Palimpsests, a peak of modern Ukrainian poetry."
+fun_fact: "Stus’s first collection, Winter Trees, came out not in Ukraine but in Brussels in 1970: at home it had been dropped from the publisher’s plan."
 misconception:
   claim: "The official version is that Stus died of natural causes, from heart failure, in a punishment cell."
   truth: "The circumstances of his death remain disputed: according to fellow camp inmates, Stus had declared a hunger strike in protest and was left in the punishment cell without proper medical care despite a known heart condition. There is no conclusive documentary proof of deliberate killing, but the “simple natural death” version is an oversimplification."
@@ -17,16 +17,18 @@ image_alt: "KGB case-file photograph of Vasyl Stus, 1980"
 reviewed: true
 ---
 
-## Who he was
+## 600 poems we will never read
 
-Vasyl Stus was born in the Vinnytsia region and spent his childhood and youth in the Donetsk region. He studied at the pedagogical institute in Donetsk, and later did postgraduate studies at the Institute of Literature in Kyiv. In 1965, at the premiere of the film Shadows of Forgotten Ancestors, he supported [Ivan Dziuba](/en/people/ivan-dziuba/)’s public protest against the arrests of Ukrainian intellectuals. For this he was expelled from his postgraduate program.
+In 1976, while Stus was in exile, more than 600 of his poems were seized, along with his translations of Goethe, Rilke, Kipling and Baudelaire. All of it was destroyed. He kept writing, and some of his poems were still smuggled out.
 
-## His story
+## A protest at the Ukraina cinema
 
-In 1972 Stus was arrested for “anti-Soviet agitation” and sentenced to labor camps and exile. After returning to Kyiv in 1979 he joined the Ukrainian Helsinki Group, and as early as 1980 he received a new sentence: 10 years in camps and 5 years of exile. Even in prison he wrote poems and translated Rilke and Goethe. His collection Palimpsests was written mostly in captivity.
+Vasyl Stus was born in 1938 in the Vinnytsia region and grew up in the Donbas. He graduated from the pedagogical institute in Donetsk, worked as a teacher, and in 1963 began postgraduate studies at the Institute of Literature in Kyiv. On 4 September 1965, before the premiere of the film Shadows of Forgotten Ancestors at the Ukraina cinema in Kyiv, he backed [Ivan Dziuba](/en/people/ivan-dziuba/)’s protest against the arrests of Ukrainian intellectuals. Two weeks later he was expelled from his postgraduate program, and his poems stopped being published.
 
-Stus died on the night of 3–4 September 1985 in a punishment cell of the special-regime camp Perm-36 in the village of Kuchino. That same year an international committee of scholars and writers called for him to be awarded the Nobel Prize in Literature. In 1989 the poet’s remains were reburied at Baikove Cemetery in Kyiv.
+## Two sentences
 
-## Why it matters today
+In 1972 Stus was arrested for “anti-Soviet agitation”: 5 years in camps and 3 years of exile. In 1979 he returned to Kyiv and joined the Ukrainian Helsinki Group, and in 1980 he received a new sentence: 10 years in camps and 5 years of exile. Even in captivity he wrote poems and translated Rilke and Goethe; Palimpsests took shape mostly there. In 1985 the Ukrainian diaspora tried to put him forward for the Nobel Prize in Literature. On the night of 3–4 September 1985 Vasyl Stus died in a punishment cell of the special-regime camp Perm-36 in the village of Kuchino. He was 47.
 
-Stus became a symbol of dignity and an unbreakable spirit in the face of the system. His poetry is one of the peaks of modern Ukrainian literature, and generations know his words “My people, I will yet return to you” (“Народе мій, до тебе я ще верну”).
+## How he came back
+
+In 1989 his remains were brought back to Ukraine, and more than 30,000 people came to his reburial at Baikove Cemetery in Kyiv. In 2005 Stus was posthumously made a Hero of Ukraine. And Donetsk University, where he had studied, refused to take his name in 2009. In 2016, relocated to Vinnytsia because of the war, the university was renamed after Vasyl Stus.

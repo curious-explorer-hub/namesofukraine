@@ -2,8 +2,8 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/vasyl-virastiuk.md
 name: "Vasyl Virastiuk"
 role: "Strongman, World's Strongest Man"
-summary: "A strongman from Ivano-Frankivsk and former track-and-field athlete who won the World's Strongest Man title in 2004 and the IFSA World Championship in 2007. He was Ukraine's strongest man several times and became a member of parliament in 2021."
-fun_fact: "Among the Ukrainian records Virastiuk set, he pulled a chain of five trams with a combined weight of 101.5 metric tons over 17.9 meters."
+summary: "Five trams weighing 101.5 tonnes in all: that is the load Vasyl Virastiuk pulled. A former shot putter from Ivano-Frankivsk, he became the World’s Strongest Man in 2004 and IFSA world champion in 2007. In 2021 he became a member of parliament."
+fun_fact: "Another of Virastiuk’s Ukrainian records: he carried suitcases of 171 kilograms in each hand for 19 metres in under 10 seconds."
 key_accomplishments:
   - "World's Strongest Man title (2004); third place in the same competition in 2003"
   - "IFSA World Champion (2007)"
@@ -15,18 +15,22 @@ image_alt: "Vasyl Virastiuk in a dark jacket, 2016"
 reviewed: true
 ---
 
-## Who he is
+## A hundred tonnes on a rope
 
-Vasyl Virastiuk was born in 1974 in Ivano-Frankivsk. He took up sport as a child, as a shot-putter. In 1992 he graduated from the Ivano-Frankivsk Technical College of Physical Culture, and in 1994–2000 he worked as a track-and-field coach at the Ukraina sports society and competed for Ukraine's national team.
+Picture five trams coupled together, 101.5 tonnes in all. Vasyl Virastiuk pulled them 17.9 metres in under a minute and set a Ukrainian record. It is only one of his strength records.
 
-## His story
+## From the shot put to strongman
 
-In 2000 Virastiuk switched to strength athletics, or strongman, and in the following years he was Ukraine's strongest man several times. At the World's Strongest Man competition he finished third in 2003 and won the title in 2004. In 2007 he won again, at the IFSA World Championship in South Korea. He competed until 2008. He set several Ukrainian records: among them, he pulled a chain of five trams with a combined weight of 101.5 metric tons and carried suitcases of 171 kilograms in each hand.
+Virastiuk was born in 1974 in Ivano-Frankivsk. At ten he took up athletics and the shot put. In 1992 he graduated from the Ivano-Frankivsk College of Physical Education, and in 1994–2000 he worked as an athletics coach and competed for Ukraine’s national team.
 
-Virastiuk later became honorary president of the Strongman Federation of Ukraine. He has acted in films, including Strong Ivan (2013), and headed the coaching staff of Ukraine's team at the Invictus Games.
+In 2000 he switched to strongman, and for several years running he was Ukraine’s strongest man. At World’s Strongest Man he finished third in 2003 and won the title in 2004. In 2007 in Seoul he won the IFSA World Championship. He competed until 2008.
 
-In 2021 Virastiuk ran in a by-election to the Verkhovna Rada in constituency No. 87 in Ivano-Frankivsk Oblast for the Servant of the People party. The results were challenged in the courts, and he took the oath as a member of parliament on 15 June 2021. As of October 2026 he is a member of the 9th convocation of the Verkhovna Rada.
+## After competing
+
+Virastiuk later became honorary president of the Strongman Federation of Ukraine, acted in films, including Ivan Syla, and coached Ukraine’s team at the Invictus Games, a competition for veterans with combat injuries.
+
+In 2021 he ran for parliament for the Servant of the People party in a by-election in constituency No. 87 in the Ivano-Frankivsk region. The result was fought over in the courts, and only after a Supreme Court ruling did Virastiuk take the oath as a member of the 9th Verkhovna Rada, on 15 June 2021.
 
 ## Why it matters today
 
-Virastiuk became one of the faces of Ukrainian strongman around the world: his wins in 2004 and 2007 showed that Ukrainian strongmen could compete with the very best.
+Virastiuk became one of the faces of Ukrainian strongman worldwide: his wins in 2004 and 2007 showed that Ukrainian strongmen could compete with the best.

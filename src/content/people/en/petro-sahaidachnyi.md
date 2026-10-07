@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/petro-sahaidachnyi.md
 name: "Petro Sahaidachnyi"
 role: "Hetman, victor at Khotyn"
-summary: "Hetman of the Zaporozhian Host who turned the Cossacks into a disciplined army that stopped the Ottoman Empire at Khotyn. He also defended the Orthodox Church and supported education."
+summary: "About 4,000 Cossacks took Kaffa, a fortress and a great slave market in Crimea, and freed many captives. They were led by Petro Sahaidachnyi, the hetman who turned the Cossacks into a disciplined army that helped stop the Ottomans at Khotyn in 1621."
 fun_fact: "Sahaidachnyi joined the Kyiv Brotherhood together with the entire Zaporozhian Host."
 misconception:
   claim: "The folk song “Oh, on the Hill There’s Plenty of Wheat,” in which Sahaidachny “traded his wife for tobacco and a pipe,” reflects a real fact from his life."
@@ -17,20 +17,22 @@ image_alt: "Portrait of Petro Konashevych-Sahaidachnyi by Havrylo Vasko, mid-19t
 reviewed: true
 ---
 
-## Who he was
+## The raid on Kaffa
 
-Petro Konashevych-Sahaidachnyi was born in the village of Kulchytsi near Sambir in the Lviv region. His exact date of birth is unknown: around 1582 is usually given, although other dates also appear in the sources. He studied at the Ostroh Academy, one of the first institutions of higher education in Ukraine, and then left for the Zaporozhian Sich, the Cossack stronghold on the Dnipro.
+In the summer of 1616 about 4,000 Cossacks landed near Kaffa in Crimea. It was a strong Turkish fortress and a great slave market. The Cossacks took the city, home to some 80,000 people, and freed many Christian captives. They were led by their newly elected hetman, Petro Konashevych-Sahaidachnyi.
 
-## His story
+He was born in the village of Kulchytsi near Sambir in the Lviv region; the exact date is unknown, and about 1582 is usually given. He studied at the Ostroh school and then left for the Zaporozhian Sich.
 
-Sahaidachnyi introduced strict discipline into the Cossack forces and turned them from a free, unruly band into an organized army. He led daring naval campaigns on the Black Sea, including the capture of Kaffa in Crimea in 1616, where the Cossacks freed many slaves. In 1618, with an army of 20,000, he took part in the campaign of the Polish crown prince Władysław against Moscow.
+## From a free host to an army
 
-In 1621 at Khotyn, a Cossack army of about 40,000, which Sahaidachnyi took command of during the campaign, together with the Polish-Lithuanian army, stopped a much larger Ottoman force. This thwarted Sultan Osman II’s offensive against the Polish-Lithuanian Commonwealth. The hetman was seriously wounded in the battle and died in Kyiv the following year.
+Sahaidachnyi reformed the Cossack forces: he divided them into companies and regiments, imposed strict discipline and banned drinking on sea campaigns. In 1618 he led a 20,000-strong army to support Prince Władysław’s campaign against Moscow.
+
+In 1621 at Khotyn about 40,000 Cossacks under Sahaidachnyi, together with the Polish-Lithuanian army, stopped the Ottoman forces. This wrecked Sultan Osman II’s offensive against the Commonwealth. The hetman was badly wounded in the war and died in Kyiv the following year.
 
 ## Debates and assessments
 
-Sahaidachnyi pursued a policy of loyalty toward the Polish-Lithuanian Commonwealth and tried to win rights for the Cossacks through agreements rather than uprisings. Some Cossacks considered this policy too conciliatory, and it caused disputes.
+Sahaidachnyi kept a moderate course towards the Polish-Lithuanian Commonwealth and tried to win rights for the Cossacks through agreements rather than uprisings. Some Cossacks resented this: in 1620 they removed him and briefly elected Yatsko Borodavka as hetman. Before the Khotyn war the mace was returned to Sahaidachnyi.
 
 ## Why it matters today
 
-Sahaidachnyi combined military strength with care for education and culture. He joined the Kyiv Brotherhood, an Orthodox lay association, together with the entire Zaporozhian Host. He supported the brotherhood school, which later grew into the Kyiv-Mohyla Academy, and left it a large sum in his will. The National Army Academy bears his name.
+Sahaidachnyi combined military strength with care for education and the church. He joined the Kyiv Brotherhood together with the entire Zaporozhian Host, supported the brotherhood school that later grew into the Kyiv-Mohyla Academy, and left a large fortune to education in his will. The National Army Academy bears his name.

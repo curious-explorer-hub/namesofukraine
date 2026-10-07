@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykhailo-drahomanov.md
 name: "Mykhailo Drahomanov"
 role: "Thinker, historian and publicist"
-summary: "Civic leader, historian and political thinker, one of the leaders of the Kyiv Hromada. In exile in Geneva he published Hromada, the first Ukrainian political journal, and became the intellectual mentor of the Galician radicals, including Ivan Franko."
+summary: "Thrown out of his university post by the tsarist authorities, he went to Geneva to speak to Europe for the Kyiv Hromada. There Mykhailo Drahomanov published the first Ukrainian political journal and became the mentor of the Galician radicals, including Ivan Franko."
 fun_fact: "Drahomanov signed his writings with more than ten pen names, among them “Ukrainets” (The Ukrainian), “Volynets”, “Chudak” (The Eccentric) and “Kyrylo Vasylenko”."
 key_accomplishments:
   - "Hromada, the first Ukrainian political journal (Geneva, 1878–1882)"
@@ -14,18 +14,22 @@ image_alt: "Photograph of Mykhailo Drahomanov, 1870s"
 reviewed: true
 ---
 
-## Who he was
+## A lecturer is fired. What next?
 
-Mykhailo Drahomanov was born in Hadiach in the Poltava region into a gentry family. His sister was the writer Olena Pchilka, and his niece was Lesya Ukrainka. He graduated from the Faculty of History and Philology of Kyiv University (1863) and from 1864 taught ancient history there. At the same time he became one of the leaders of a secret Ukrainian society, the Kyiv Hromada (later known as the Old Hromada).
+Mykhailo Drahomanov was born in 1841 in Hadiach in the Poltava region into a gentry family. His sister was the writer Olena Pchilka, and his niece was Lesya Ukrainka. He graduated from Kyiv University and from 1864 taught ancient history there. At the same time he became one of the leaders of the Kyiv Hromada, a secret Ukrainian society (later known as the Old Hromada).
 
-## His story
+In 1875 the tsarist authorities dismissed him from the university for his part in the Hromada. But Drahomanov did not go quiet. The Hromada entrusted him with being its voice in Western Europe, and in 1876 he settled in Geneva.
 
-In 1875 the tsarist authorities dismissed Drahomanov from the university for his part in the Hromada’s activities. In 1876 he emigrated to Geneva to be the Hromada’s voice in Western Europe. There he founded the Free Ukrainian Press and published the journal Hromada (1878–1882), the first Ukrainian political journal, as well as pamphlets meant to inform the European public about the situation of Ukrainians in the Russian Empire. Together with Serhii Podolynskyi and Mykhailo Pavlyk he founded the Geneva Circle, the seed of the Ukrainian socialist movement.
+## A printing press in Geneva
 
-Drahomanov kept close ties with young Galicians, including [Ivan Franko](/en/people/ivan-franko/), and became the intellectual mentor of the Ruthenian-Ukrainian Radical Party, founded in 1890. After a break with the Kyiv Hromada (1886) he lost its financial support, and in 1889 he accepted an invitation to head the Department of General History at Sofia University. He died and was buried in Sofia.
+There he founded the Free Ukrainian Press and published Hromada (1878–1882), the first Ukrainian political journal, as well as pamphlets telling Europeans how Ukrainians lived in the Russian Empire. With Serhii Podolynskyi and Mykhailo Pavlyk he founded the Geneva Circle, the seed of the Ukrainian socialist movement.
 
-Drahomanov’s political ideal was a federal state with broad self-government for communities and regions, with cultural-national autonomy for Ukraine and respect for the principle of its unity. He did not believe that Ukrainian independence was achievable in his time, so he called for the democratization and federalization of states.
+He kept close ties with young Galicians, including [Ivan Franko](/en/people/ivan-franko/), and became the intellectual mentor of the Ruthenian-Ukrainian Radical Party, founded in 1890. After a break with the Kyiv Hromada in 1886 he lost its financial support, and in 1889 he took up the chair of general history at Sofia University. He died and was buried there, in Sofia.
+
+## A state where communities decide
+
+Drahomanov’s political ideal was a federal state with broad self-government for communities and regions, with cultural-national autonomy for Ukraine and its unity preserved. He did not believe Ukrainian independence was possible in his lifetime, so he called for the democratization and federalization of states.
 
 ## Why it matters today
 
-Drahomanov wrote more than two thousand works on history, folklore, literary studies and political thought. He worked hard to bring the Ukrainian question to the attention of the European public, and his ideas of civil rights, self-government and decentralization influenced several generations of Ukrainian public figures.
+Drahomanov left more than two thousand works on history, folklore and literary studies. He worked hard to explain the Ukrainian question to Europeans, and he pictured a state built on decentralization and self-governing communities.

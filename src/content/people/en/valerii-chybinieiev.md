@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/valerii-chybinieiev.md
 name: "Valerii Chybinieiev"
 role: "Sniper and intelligence officer, Hero"
-summary: "An officer from Berdiansk who commanded a sniper company of the 79th Air Assault Brigade and from 2014 fought at Lyman, Donetsk airport and Avdiivka. Hero of Ukraine (2016). Later a military intelligence officer, he was killed near Hostomel defending Kyiv, on his 34th birthday."
+summary: "After 2016, billboards in Berdiansk read “Be like Valera”. Valerii Chybinieiev, who grew up in a boarding school, commanded a sniper company of the 79th Air Assault Brigade and became a Hero of Ukraine. He was killed near Hostomel in 2022."
 fun_fact: "In 2024 a Kyiv street was renamed Brothers Chybinieiev Street, in honor of Valerii and his brother Roman, a paratrooper of the 79th Brigade who was killed in action in 2019."
 key_accomplishments:
   - "Commander of a sniper company in the 79th Separate Air Assault Brigade"
@@ -14,16 +14,18 @@ image_alt: "Portrait of Valerii Chybinieiev"
 reviewed: true
 ---
 
-## Who he was
+## “Be like Valera”
 
-Valerii Chybinieiev was born in 1988 in Berdiansk in the Zaporizhzhia region. He lost his parents early and grew up in a boarding school. He chose a military career: he studied at the Zaporizhzhia Military Lyceum and in 2010 graduated from the Hetman Petro Sahaidachny Academy of Land Forces in Lviv as a lieutenant.
+After 2016, billboards reading “Be like Valera” went up in Berdiansk. It was the city’s way of honoring Valerii Chybinieiev, who had just received the Gold Star of a Hero of Ukraine.
 
-## His story
+Valerii was born in 1988 in Berdiansk. He and his younger brother Roman grew up in the local boarding school, and from early childhood he dreamed of being an airborne scout. To get into the Zakhysnyk military lyceum in Zaporizhzhia, he worked on his English by himself, day and night. He went on to study at the Odesa Military Academy and then at the Army Academy in Lviv, graduating in 2010.
 
-In the 79th Separate Air Assault Brigade Chybinieiev commanded a sniper company. From 2014 he fought in the east: in the battles for Lyman, near Biriukove and Izvaryne in the Luhansk region, in the defense of Donetsk airport, and in 2016 near Avdiivka, where he was wounded. On 23 August 2016 Captain Chybinieiev was made a Hero of Ukraine, and the next day, at the parade for the 25th anniversary of independence, the President presented him with the Gold Star on Khreshchatyk.
+## Commander of the snipers
 
-He later moved to the Defence Intelligence of Ukraine (HUR). After the full-scale invasion began, he defended the Kyiv region. On 3 March 2022, his 34th birthday, Lieutenant Colonel Chybinieiev was killed in battle near Hostomel.
+That same year Chybinieiev joined the 79th Separate Air Assault Brigade in Mykolaiv, and when the brigade formed a sniper company, he was put in charge of it. From 2014 he fought in the east: he helped liberate Lyman, fought near Biriukove and Izvaryne in the Luhansk region and defended Donetsk airport. In 2016 near Avdiivka he was hit by shrapnel but kept commanding his unit. On 23 August 2016 Captain Chybinieiev was made a Hero of Ukraine, and the President presented him with the Gold Star at the Independence Day parade on Khreshchatyk.
 
-## Why it matters today
+Later Chybinieiev moved to the Defence Intelligence Directorate. After the full-scale invasion began, his sniper group fought for Hostomel. Lieutenant Colonel Valerii Chybinieiev was killed there on 3 March 2022, his 34th birthday.
 
-The fighting around Hostomel in the first days of the invasion helped stop the Russian advance on Kyiv. In February 2024 Kyiv City Council renamed Chernihivska Street in the Darnytskyi district as Brothers Chybinieiev Street, in honor of Valerii and his brother Roman, who was killed at the front in 2019.
+## How he is remembered
+
+He was buried at Berkovetske Cemetery in Kyiv, next to his brother Roman, who was killed at the front in 2019. Valerii is an honorary citizen of Zaporizhzhia and Berdiansk.

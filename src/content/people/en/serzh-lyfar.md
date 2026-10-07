@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/serzh-lyfar.md
 name: "Serge Lifar"
 role: "Paris Opera dancer and choreographer"
-summary: "A Kyiv-born ballet dancer and choreographer who led the Paris Opera Ballet for more than a quarter of a century. He created more than 200 ballets and became one of the founders of the neoclassical trend in choreography."
+summary: "A boy from the outskirts of Kyiv who only took up dance as a teenager ran the Paris Opera Ballet for almost 30 years. Serge Lifar created more than 200 ballets and founded the neoclassical style in choreography."
 fun_fact: "As a child Lifar had a fine voice and sang in the choir of St Sophia’s Cathedral in Kyiv."
 misconception:
   claim: "During the occupation of Paris, Lifar personally danced for Hitler at the Paris Opera."
@@ -17,20 +17,20 @@ image_alt: "Serge Lifar at a rehearsal of the Netherlands Ballet (Nederlands Bal
 reviewed: true
 ---
 
-## Who he was
+## How a Kyiv boy came to lead the Paris ballet
 
-Serhii (Serge) Lifar was born in 1905 (according to other sources, 1904) in Pyrohiv, then a suburb of Kyiv. He studied at the Kyiv Conservatory, and in 1921 he joined Bronislava Nijinska’s ballet studio. In 1923 he moved to France and became a soloist of Serge Diaghilev’s Ballets Russes.
+Serhii (Serge) Lifar was born in 1905 (some sources say 1904) in Pyrohiv, then a suburb of Kyiv. He studied at the Kyiv Conservatory and came to dance late: only in 1920, at Bronislava Nijinska’s ballet studio. By 1923, at her invitation, Lifar had moved to Paris and become a soloist with Sergei Diaghilev’s Ballets Russes.
 
-## His story
+## Nearly thirty years at the Paris Opera
 
-After Diaghilev’s death in 1929, Lifar was invited to the Paris Opera. He led its ballet in 1930–1944 and 1947–1958, working as its leading soloist, choreographer and teacher. Lifar created more than 200 ballets and choreographic works, among them On the Dnieper (1932), Icare (1935) and Suite en blanc (1943). He is regarded as the founder of the neoclassical trend in choreography. In 1947 he founded the Institute of Choreography at the Opera, and from 1955 he taught the history and theory of dance at the Sorbonne. In 1961 he was able to visit his native Kyiv.
+After Diaghilev died in 1929, Lifar was invited to the Paris Opera. He led its ballet in 1930–1944 and 1947–1958 as principal dancer, choreographer and teacher. He created more than 200 ballets and dance pieces, among them On the Dnipro (1932), Icarus (1935), danced to percussion alone, and Suite en blanc (1943). He is regarded as the founder of the neoclassical style in choreography. In 1947 he founded the Institute of Choreography at the Opera, and from 1955 he taught the history and theory of dance at the Sorbonne. In 1961 Lifar was able to visit his native Kyiv.
 
 ## Debates and assessments
 
-During the German occupation of Paris (1940–1944) Lifar remained head of the ballet of the Opera, which operated under the control of the occupation authorities, and he maintained contacts with German officials. After the liberation of France he was accused of collaboration. In 1945 the purge (“épuration”) committee condemned him and suspended him from French stages for a year. In 1944–1947 he led the Nouveau Ballet de Monte-Carlo company, and in 1947 he returned to Paris.
+During the German occupation of Paris (1940–1944) Lifar stayed on as head of the Opera ballet and kept up contacts with German officials. After France was liberated he was accused of collaboration, and in 1945 the purge committee banned him from performing for a year. For a few years he led the Nouveau Ballet de Monte-Carlo, and in 1947 he returned to the Opera.
 
-Assessments differ. His supporters point out that he was given no severe punishment and again led the Opera’s ballet. The dance scholar Mark Franko, after studying the archives, has raised again the question of his cooperation with the occupation authorities and of his political views.
+Views differ. His supporters stress that the penalty was light and that he went back to leading the Opera ballet. The dance scholar Mark Franko, after studying the archives, argues that Lifar did collaborate with the occupation authorities, and has reopened the question of his political views.
 
 ## Why it matters today
 
-Lifar transformed 20th-century European ballet. Since 1994 Kyiv has hosted the Serge Lifar International Ballet Competition for ballet dancers and choreographers.
+Lifar changed 20th-century European ballet. Since 1994 Kyiv has hosted the Serge Lifar International Ballet Competition for dancers and choreographers.

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/roksolana.md
 name: "Roksolana"
 role: "Wife of Sultan Suleiman I"
-summary: "A woman of Ukrainian origin who rose from slavery to become the lawful wife of the Ottoman Sultan Suleiman I and the mother of Sultan Selim II. Less is known about her life than the legends tell."
+summary: "How did a girl from Rus’, sold at an Istanbul slave market, become the lawful wife of Sultan Suleiman I and the mother of Sultan Selim II? Less is known about the real Roksolana than the legends tell."
 fun_fact: "The name “Roksolana” is not her real one: it was invented by Ogier Ghiselin de Busbecq, Emperor Ferdinand I’s ambassador in Istanbul, who formed it from the ancient name of Sarmatian tribes."
 misconception:
   claim: "Roksolana secretly steered Ottoman policy in Ukraine’s favor and even defended her homeland from attacks."
@@ -17,28 +17,24 @@ image_alt: "Imagined portrait of Roksolana by an unknown artist, 16th century"
 reviewed: true
 ---
 
-## Who she was
+## How does a slave become a sultana?
 
-Roksolana (in the Ottoman Empire, Haseki Hürrem Sultan) was born around 1505. Her real name is unknown. Venetian diplomats in Istanbul wrote that she was “from Rus’,” and according to Michalo Lituanus she was taken captive by the Crimean Tatars. She was probably sold at a slave market in Istanbul, from where she came into the harem of Sultan Suleiman I.
+Nobody knows her real name. Venetian diplomats in Istanbul wrote that she was “from Rus’,” and Michalo Lituanus wrote that she had been taken captive by the Crimean Tatars. The girl, born around 1505, was probably sold at a slave market in Istanbul, and that is how she came into the harem of Sultan Suleiman I.
 
-## Her story
+In the harem she was named Hürrem, Persian for “joy.” The title “haseki,” meaning “favorite sultana,” was created for her first. The dynasty’s customs allowed a concubine only one son, yet she bore Suleiman six children. Probably in the 1530s the sultan took her as his lawful wife.
 
-In the harem she was given the name Hürrem (Persian for “joy”). The title “haseki,” meaning “favorite sultana,” was created for her for the first time. She bore Suleiman six children, although the dynasty’s customs allowed a concubine to have only one son. Probably in the 1530s the sultan took her as his lawful wife.
+## Power that left no paper trail
 
-There is no direct evidence of her involvement in politics. Her daughter married Rüstem Pasha, who became grand vizier in 1544. It seems that Roksolana, together with him, convinced the sultan that Prince Mustafa, the son of another concubine, was after the throne; in 1553 Mustafa was executed. Roksolana died in 1558, and after Suleiman her son Selim II inherited the throne.
+There is no direct evidence of her role in politics. Her daughter married Rüstem Pasha, who became grand vizier in 1544. It seems that, together with him, Roksolana convinced the sultan that Prince Mustafa, the son of another concubine, was after the throne; in 1553 Mustafa was executed. Roksolana died in 1558, and after Suleiman the throne passed to her son Selim II. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul and Edirne to Jerusalem, Mecca and Medina.
 
 ## Debates and assessments
 
-Her origin in Rohatyn is the traditional version: it was given by the Polish diplomat Samuel Twardowski in the 17th century. The names Nastia Lisovska or Oleksandra appeared only in the 19th century and have no reliable evidence behind them.
+Her origin in Rohatyn is the traditional version, given by the Polish diplomat Samuel Twardowski in the 17th century. The names Nastia Lisovska or Oleksandra appeared only in the 19th century and have no reliable evidence behind them.
 
-Her example began a period of influence by women of the sultan’s family on politics, which historians call the “Sultanate of Women.” The Habsburg ambassador Busbecq portrayed her as a witch and schemer, and this image long prevailed in Europe.
+Her example began a period when women of the sultan’s family influenced politics, which historians call the “Sultanate of Women.” The Habsburg ambassador Busbecq portrayed her as a witch and a schemer, and that image long prevailed in Europe.
 
-Ukrainian writers from the 19th century on, by contrast, portrayed her as a patriot and even a defender of Ukraine, although the sources do not confirm this. This image was reinforced by novels, a TV series (1996–2003) and a monument in Rohatyn (1999); historians criticize it as unrealistic.
+Ukrainian writers from the 19th century on, by contrast, cast her as a patriot and even a defender of Ukraine, although the sources don’t confirm it. Novels, a TV series (1996–2003) and a monument in Rohatyn (1999) reinforced this image; historians criticize it as unrealistic. Even all the known portraits of Roksolana, including the earliest, by Titian (around 1552), come from the artists’ imagination.
 
-## Why it matters today
+## Why her story matters today
 
-Roksolana’s fate is a reminder of the Ukrainians who in those times were taken captive and sold into slavery. Her story teaches us to tell facts from legends.
-
-## Interesting facts
-
-- All known portraits of Roksolana, including the earliest, by Titian (around 1552), are products of the artists’ imagination.
+Roksolana’s fate is a reminder of the Ukrainians who in those times were taken captive and sold into slavery. Her story also teaches us to tell facts from legends.

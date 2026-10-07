@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/anna-yaroslavna.md
 name: "Anna of Kyiv"
 role: "Kyivan princess, Queen of France"
-summary: "A daughter of Prince Yaroslav the Wise of Kyiv who became Queen of France in 1051. The mother of King Philip I of France; today she is a symbol of the old ties between Rus’ and Europe."
+summary: "A French king went all the way to Kyiv for a bride. In 1051 Anna, daughter of Yaroslav the Wise, became Queen of France, sat on the royal council and raised a future king, Philip I. Today she is a symbol of the old ties between Rus’ and Europe."
 fun_fact: "The famous “letter from Anna to her father,” in which she supposedly complains about “barbaric” France, is a hoax: it was invented by the French writer Maurice Druon."
 misconception:
   claim: "Anna of Kyiv civilized “backward” France, teaching the French hygiene and table forks."
@@ -17,21 +17,18 @@ image_alt: "Imagined portrait of Anna Yaroslavna, Queen of France, lithograph by
 reviewed: true
 ---
 
-## Who she was
+## Why would a French king look for a bride in Kyiv?
 
-Anna Yaroslavna, also called Anna of Kyiv, was a daughter of Grand Prince Yaroslav the Wise of Kyiv. The exact year of her birth is unknown: scholars give 1024–1025 or 1032. She was probably born in Kyiv. Only Western European sources tell us about her life.
+King Henry I of France had lost his wife and still had no heir. So he sent an embassy all the way to Rus’, to Grand Prince Yaroslav the Wise of Kyiv, and the envoys arranged his marriage to Yaroslav’s daughter Anna. On 19 May 1051 (the date proposed by the scholar Marcel Prou), in the cathedral of Reims, Anna married Henry and was crowned Queen of France.
 
-## Her story
+Nobody knows exactly when she was born, and she was probably born in Kyiv. The couple had three sons. The eldest, Philip, went on to become King of France himself.
 
-After his wife’s death, King Henry I of France had no heir, and he sent an embassy to Rus’, which arranged his marriage to Anna. On 19 May 1051 (the date proposed by the scholar Marcel Prou), in the cathedral of Reims, Anna married Henry and was crowned Queen of France. The couple had three sons; the eldest, Philip, later became King of France.
+## “Ana Ryina”: a queen on the council
 
-After Henry’s death in 1060, Anna became the de facto, but not official, wife of Count Raoul of Valois, one of the most powerful lords of northern France. Historians suggest that this union gave protection to the queen and her young sons. Twenty-eight documents issued in Anna’s name or with her participation are known. They show that she regularly took part in meetings of the royal council. Between 1065 and 1069 Anna founded (or restored) the Monastery of Saint Vincent in the town of Senlis. She died between 1075 and 1079.
+That is how Anna signed her name: a garbled form of the Latin Anna Regina, “Queen Anna”. Twenty-eight documents issued in her name or with her participation are known, and they show that she regularly sat in on the royal council. In 1059 Pope Nicholas II wrote to her, praising her piety and her generosity to the Church.
 
-## Why it matters today
+After Henry died in 1060, Anna became the de facto, but not official, wife of Count Raoul of Valois, one of the most powerful lords of northern France. Historians suggest the union protected the queen and her young sons. Between 1065 and 1069 Anna founded (or restored) the Monastery of Saint Vincent in Senlis. She died between 1075 and 1079.
 
-Anna’s story shows that Kyivan Rus’ was part of the political life of medieval Europe. Today she is often used as a symbol of Ukraine’s long-standing ties with Europe: several monuments to her stand in France and Ukraine, the first erected in Senlis in 2005.
+## Why two countries remember her
 
-## Interesting facts
-
-- In 1059 Pope Nicholas II wrote a letter to Anna praising her piety and generosity to the Church.
-- Historians regard the popular story linking Anna to the Reims Gospel as a myth.
+Anna’s story shows that Kyivan Rus’ was part of the political life of medieval Europe. That is why she stands today as a symbol of Ukraine’s old ties with Europe. Several monuments to her stand in France and Ukraine; the first went up in Senlis in 2005. The popular story linking Anna to the Reims Gospel, though, is a myth, historians say.

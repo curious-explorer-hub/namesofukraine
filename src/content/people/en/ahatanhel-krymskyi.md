@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/ahatanhel-krymskyi.md
 name: "Ahatanhel Krymskyi"
 role: "Orientalist, secretary of the Academy"
-summary: "An Orientalist, linguist and writer who knew dozens of languages and laid the foundations of Oriental studies in Ukraine. One of the founding academicians of the Ukrainian Academy of Sciences in 1918 and its permanent secretary. He died in custody in 1942 after his arrest by the NKVD."
+summary: "At 18 he knew 8 languages, and over his life he mastered more than 50 more. Ahatanhel Krymskyi laid the foundations of Oriental studies in Ukraine, became one of the first members of the Ukrainian Academy of Sciences, and died in custody after his arrest by the NKVD."
 fun_fact: "Krymskyi did so much to build the young academy that its staff jokingly called the Ukrainian Academy of Sciences the “Krymskyi Academy”."
 key_accomplishments:
   - "One of the founding academicians of the Ukrainian Academy of Sciences (1918), its permanent secretary and head of its Historical-Philological Division"
@@ -15,18 +15,20 @@ image_alt: "Ahatanhel Krymskyi, a photograph from about 1900"
 reviewed: true
 ---
 
-## Who he was
+## How many languages can one person know?
 
-Ahatanhel Krymskyi was born in 1871 in Volodymyr-Volynskyi (today Volodymyr, in Volyn), and a few months later his family moved to Zvenyhorodka in the Kyiv region (today the Cherkasy region). The Krymskyi family had Crimean Tatar and Belarusian roots: its founder, a mullah from Bakhchysarai, settled in Belarus and converted to Christianity. Krymskyi himself called himself a conscious Ukrainian in his publications and letters. He studied at the Pavlo Galagan College in Kyiv, then Arabic studies at the Lazarev Institute of Oriental Languages in Moscow, and Slavic philology and world history at Moscow University. According to the Encyclopedia of Modern Ukraine, he knew 8 languages by the age of 18 and mastered more than 50 more by the end of his life.
+At 18, Ahatanhel Krymskyi knew 8 languages, and by the end of his life he had mastered more than 50 more. That is what the Encyclopedia of Modern Ukraine says. He was born in 1871 in Volodymyr-Volynskyi (today Volodymyr) and grew up in Zvenyhorodka. His family had Crimean Tatar and Belarusian roots: its founder was a mullah from Bakhchysarai who converted to Christianity. Krymskyi himself called himself a conscious Ukrainian.
 
-## His story
+## An Arabist who wrote in Ukrainian
 
-Influenced by [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/), with whom he also argued in the press, Krymskyi took up the Ukrainian language, literature and history. He corresponded with [Lesya Ukrainka](/en/people/lesya-ukrainka/) and [Ivan Franko](/en/people/ivan-franko/). In 1896–1898 he worked in Lebanon and Syria. At the Lazarev Institute, where he taught from 1896 until his move to Kyiv, he became a professor of Arabic literature and of the history of the Muslim East. He wrote hundreds of encyclopedia entries and pioneering textbooks on the history of Islam, the Arabs, Turkey and Persia.
+Krymskyi studied Arabic at the Lazarev Institute of Oriental Languages in Moscow and later became a professor there. In 1896–1898 he worked in Lebanon and Syria. Influenced by [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/), with whom he also argued in the press, he took up the Ukrainian language and history. He corresponded with [Lesya Ukrainka](/en/people/lesya-ukrainka/) and [Ivan Franko](/en/people/ivan-franko/), wrote poetry and prose, and wrote histories of Islam, the Arabs, Turkey and Persia.
 
-In 1918, at the invitation of [Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/), Krymskyi moved to Kyiv and joined the commission that drafted the law on the Ukrainian Academy of Sciences. On 14 November 1918 Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/) signed the law, and on the same day Krymskyi was appointed one of the first academicians. Vernadskyi was elected president and Krymskyi permanent secretary. In the war years of 1918–1920, when power in Kyiv changed hands again and again, he used his diplomatic skills to obtain food, clothing and even land for vegetable gardens for the academy. He supervised The Main Rules of Ukrainian Orthography (1921), edited the Russian-Ukrainian Dictionary, and wrote histories of Turkey and Persia, now in Ukrainian.
+## How an Orientalist built an academy
 
-After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts, and the Oriental studies institutions he oversaw were closed. In 1941 his 70th birthday was widely celebrated, but on 20 July of that year the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); encyclopedias give the date of his death as 25 January 1942. He was rehabilitated in 1957.
+In 1918 [Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) invited him to Kyiv to help draft the law on the Ukrainian Academy of Sciences. The academy was founded under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), and Krymskyi became one of its first academicians and its permanent secretary. He supervised The Main Rules of Ukrainian Orthography (1921).
+
+After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts. In July 1941 the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); encyclopedias give the date as 25 January 1942. He was rehabilitated in 1957.
 
 ## Why it matters today
 
-Krymskyi showed that Ukrainian scholarship could be world-class while working in Ukrainian. The Institute of Oriental Studies of the National Academy of Sciences of Ukraine bears his name, and the National Academy traces its history to the academy he helped create and keep alive through the war years.
+Krymskyi showed that Ukrainian scholarship could be world-class and still speak Ukrainian. The Institute of Oriental Studies of the National Academy of Sciences of Ukraine bears his name.

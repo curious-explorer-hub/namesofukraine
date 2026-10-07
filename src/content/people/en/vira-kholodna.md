@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/vira-kholodna.md
 name: "Vira Kholodna"
 role: "Film actress, “queen of the screen”"
-summary: "Born in Poltava, she was one of the first great stars of silent cinema in the Russian Empire and was called the “queen of the screen.” In under five years she appeared in dozens of films, including works by the directors Yevgeny Bauer and Pyotr Chardynin. She died in Odesa in 1919, aged 25."
+summary: "Audiences called her the “queen of the screen,” though her career lasted less than five years. Vira Kholodna from Poltava became one of the first great silent-film stars of the Russian Empire and died in Odesa at 25."
 fun_fact: "Of the dozens of films Vira Kholodna appeared in, only a few survive today, among them Children of the Age, Mirages, A Life for a Life and a fragment of The Last Tango."
 misconception:
   claim: "Vira Kholodna was poisoned, either by a bouquet of white lilies sent from the French consulate or by intelligence agents, because she was supposedly a spy."
@@ -17,16 +17,16 @@ image_alt: "Photograph of Vira Kholodna, 1910s"
 reviewed: true
 ---
 
-## Who she was
+## Where did the name “Kholodna” come from?
 
-Vira Levchenko was born in 1893 in Poltava into the family of Vasyl Levchenko, a teacher of literature. She spent her childhood and youth in Moscow, where she attended a girls’ gymnasium and, briefly, the ballet school of the Bolshoi Theatre. She married the lawyer Volodymyr Kholodnyi and took his surname.
+She was born Vira Levchenko, in 1893 in Poltava, the daughter of a literature teacher. She grew up in Moscow, where she went to a girls' gymnasium and, briefly, to the Bolshoi Theatre's ballet school. The surname that ended up on every film poster came from her husband, the lawyer Volodymyr Kholodnyi.
 
-## Her story
+## A star after one film
 
-In 1914 Vira Kholodna appeared in a small role in the film Anna Karenina, and the following year the director Yevgeny Bauer gave her the lead in Song of Triumphant Love. That film made her a star. She worked at the Moscow studios of Aleksandr Khanzhonkov and later Dmitry Kharitonov, with the directors Bauer, Pyotr Chardynin and Vladimir Gardin. In under five years dozens of films with her were released, mostly dramas and melodramas, and audiences nicknamed her the “queen of the screen.”
+In 1914 Vira had a small part in the film Anna Karenina. The next year the director Yevgeny Bauer gave her the lead in Song of Triumphant Love, and that film made her a star. She worked at the Moscow studios of Aleksandr Khanzhonkov and later Dmitry Kharitonov, with Bauer, Pyotr Chardynin and Vladimir Gardin. In under five years dozens of films with her came out, mostly dramas and melodramas.
 
-In the summer of 1918 Kharitonov’s troupe moved to Odesa, where Kholodna went on filming and performing at charity concerts. In early 1919 she fell ill with the “Spanish flu,” the pandemic influenza, and on 16 February 1919 she died aged 25. She was buried at the First Christian Cemetery in Odesa; in the 1930s the cemetery was destroyed, and her grave has not survived.
+In the summer of 1918 Kharitonov's troupe moved to Odesa. There Kholodna kept filming and performed at charity concerts. In early 1919 she caught the “Spanish flu,” the pandemic influenza, and died on 16 February. She was 25. She was buried at the First Christian Cemetery in Odesa, but the cemetery was destroyed in the 1930s and her grave has not survived.
 
-## Why it matters today
+## A queen remembered through legends
 
-Vira Kholodna was one of the first film stars in the modern sense of the word. She was born and died in Ukraine, although her career was spent mostly in Moscow cinema; only a few of her films survive, so today the “queen of the screen” is remembered more through legends than through her roles.
+Vira Kholodna was one of the first film stars in the modern sense. She was born and died in Ukraine, although she worked mostly in Moscow cinema. Only a few of her films survive, so today she is remembered more through legends than through her roles.
