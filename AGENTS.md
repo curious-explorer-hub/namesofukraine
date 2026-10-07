@@ -46,7 +46,6 @@ Context for AI agents working in this repository. Read it before changing anythi
 | [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting |
 | [docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md) | Licenses for text, images, map data, fonts; the fair-use exceptions |
 | [docs/post-launch.md](docs/post-launch.md) | Domain, Search Console and monitoring checklist |
-| [docs/fact-check/](docs/fact-check/) | Drafting and fact-check reports per batch |
 
 ## Contribution principles
 

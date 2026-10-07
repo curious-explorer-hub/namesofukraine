@@ -37,7 +37,7 @@
 - **Hero:** the headline over a photo, a one-line lead.
 - **A row of three cards** (stacked on phones), visible from every tab:
   - **Daily Hero** «Народився цього дня» / "Born on this day". **AC15** The person born (or who died) on the visitor's local date; otherwise a deterministic "person of the day". Approximate dates never count; dates before 1918 are new style.
-  - **Reading progress:** "read N of 109" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
+  - **Reading progress:** "read N of 110" (all published profiles) as a filling ring, with a hint (start / N more / "you know them all").
   - **Observation:** from 3 read profiles, the field read most and someone unread from it (or a field not yet explored); before that, a catalogue fact a day.
   - **AC16** Progress, observation and "read" marks are computed in the browser from `localStorage`; nothing is sent anywhere.
 - **AC1 Explore tabs, one way of browsing at a time,** over one results grid: **Пошук / Search** (text field + dropdowns for field, era, region and "unread only"), **Епохи / Eras** (a card per era, with its colour, picture and faces), **Карта / Map** (§3.2), **Галузі / Fields** (a tile per field, opening its page). Changing tabs clears the filters. Below the tabs: the "newly added" row, then the results.
@@ -143,7 +143,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-10-03 | — | **English surnames: official -skyi** (Hrushevskyi). Exceptions: established personal spellings (Igor Sikorsky, Bohdan Hawrylyshyn, Zelenskyy), official names of things (*Akademik Vernadsky* station), non-Ukrainians. Feminine forms keep -ska. |
 | 2026-10-05 | — | **No animated portraits** (tried, some clips read as disrespectful; removed). A рушник border and the «вишиванка імен» tagline were tried and rolled back. A timeline strip under the eras was tried and dropped for the map. |
 | 2026-10-06 | — | **Content balance is checked by hand, with no quotas** and no gender field (§7.2). |
-| 2026-10-06 | — | **Batch 5 published after an independent AI fact-check, without the owner's review** (owner decision; an exception to D5 for this batch): every profile drafted from cited sources, then checked fact by fact by a separate agent; reports in docs/fact-check/batch-5/. Bubka, the Klitschko brothers and Yalovtsov, earlier excluded, were reinstated. Fallen defenders whom no encyclopedia covers yet (Yalovtsov, like Tsybukh, Kryvtsov, Hryntsevych) rest on the state-award decree and official sources instead of the encyclopedic source in §7.3. |
+| 2026-10-06 | — | **Batch 5 published after an independent AI fact-check, without the owner's review** (owner decision; an exception to D5 for this batch): every profile drafted from cited sources, then checked fact by fact by a separate agent. Bubka, the Klitschko brothers and Yalovtsov, earlier excluded, were reinstated. Fallen defenders whom no encyclopedia covers yet (Yalovtsov, like Tsybukh, Kryvtsov, Hryntsevych) rest on the state-award decree and official sources instead of the encyclopedic source in §7.3. |
 | 2026-10-06 | — | **Donations and volunteers:** Support page, social links, "join the team" (§3.6). Donations are voluntary and don't change "no ads, no paywall". |
 
 ---
@@ -154,7 +154,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 |---|---|---|
 | **0. Setup** | Scaffold, schema, CI, deploy | ✅ 2026-10-05 |
 | **1. MVP** | §3.1–3.7, ≥ 20 profiles in both languages | ✅ soft launch 2026-10-05 (86 profiles); public launch after the domain and promotion |
-| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 109 profiles (batch 5, 2026-10-06) |
+| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 110 profiles (batch 5 and Farion, 2026-10-06) |
 | **3. Engagement** | Quiz · printable teacher pages · CMS | Later |
 
 ---
@@ -170,7 +170,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 7. **Corrections** go through the feedback form ("Report a mistake" on every profile).
 8. **Licenses:** site text CC BY-SA 4.0; code MIT; images per file ([docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md)).
 
-**Review checklist per profile:** facts match ≥ 2 sources → dates → neutral tone → summary and role within limits → fun fact sourced → English matches Ukrainian → `reviewed: true` and `last_reviewed`. Fact-check reports: [docs/fact-check/](docs/fact-check/); upkeep: [docs/MAINTENANCE.md](docs/MAINTENANCE.md).
+**Review checklist per profile:** facts match ≥ 2 sources → dates → neutral tone → summary and role within limits → fun fact sourced → English matches Ukrainian → `reviewed: true` and `last_reviewed`. Upkeep: [docs/MAINTENANCE.md](docs/MAINTENANCE.md).
 
 ---
 
@@ -209,3 +209,4 @@ Closed backlog items, by ID; details are in git history.
 | 2026-10-06 | Disputed birthplaces on the map: a hollow ring for "one of the versions" (Sirko at Murafa, after Yu. Mytsyk); Sirko's birth year corrected to c. 1618 (Encyclopedia of the History of Ukraine); the other five unknown birthplaces researched and kept unknown |
 | 2026-10-06 | Cross-profile links, second pass (I17 A): the one-way `related:` links reviewed: 21 made two-way where there is a personal tie (Drahomanov, Hrushevskyi and Kotsiubynskyi with Franko; Orlyk with Mazepa; Bohun and Sirko with Khmelnytskyi; Stus with Chornovil, Kostenko and Paradzhanov; and others), 18 more links in the text; 56 left one-way on purpose (influence or theme) |
 | 2026-10-06 | Batch 5: 23 profiles (86 → 109): Repin, Krymskyi, Zerov, Dziuba, Briukhovetskyi, Vynnychenko, Vyshyvanyi, Dzhemilev, Sentsov, Yalovtsov, Kondratiuk, Hetman, Huzar, Boiko, Solovianenko, Silvestrov, Ivasiuk, Kuzma Skriabin, Vakarchuk, Blokhin, Bubka, Vitali and Wladimir Klitschko; drafted and fact-checked in five groups (8 errors found and fixed); linked to existing profiles in both directions |
+| 2026-10-06 | Iryna Farion (110): drafted and fact-checked by separate agents (4 errors fixed), published on the same terms as batch 5; contested-figure section covers the 2010 and 2023 controversies, the dismissal case and the first-instance verdict of 1 October 2026 |

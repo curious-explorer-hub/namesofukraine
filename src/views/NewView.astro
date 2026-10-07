@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PersonCard from '../components/PersonCard.astro';
-import { getPeople, additionBatches, fullDate, localePath } from '../lib/people';
+import { getPeople, additionBatches, fullDate } from '../lib/people';
 import { t, type Lang } from '../i18n';
 
 interface Props {
@@ -15,9 +15,7 @@ const batches = additionBatches(await getPeople(lang));
 <BaseLayout lang={lang} title={t('new.title', lang)} description={t('new.lead', lang)}>
   <header class="page-head">
     <h1 class="page-title">{t('new.title', lang)}</h1>
-    <p class="page-lead">
-      {t('new.lead', lang)} <a href={localePath(lang, '/rss.xml')}>{t('new.rss', lang)}</a>
-    </p>
+    <p class="page-lead">{t('new.lead', lang)}</p>
   </header>
 
   {
