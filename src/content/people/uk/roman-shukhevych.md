@@ -34,7 +34,7 @@ sources:
     url: "https://esu.com.ua/article-15538"
   - title: Wikipedia (EN) - Roman Shukhevych
     url: https://en.wikipedia.org/wiki/Roman_Shukhevych
-related: [stepan-bandera, yevhen-konovalets, kateryna-zarytska]
+related: [stepan-bandera, yevhen-konovalets, kateryna-zarytska, vasyl-kuk]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
