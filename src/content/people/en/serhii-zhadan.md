@@ -11,6 +11,7 @@ key_accomplishments:
   - "First Ukrainian writer to win the Austrian State Prize for European Literature (2025)"
   - "Volunteer since 2014 and founder of the Serhii Zhadan Charitable Foundation; joined the 13th National Guard Brigade 'Khartiia' in June 2024"
 birthplace_name: "Starobilsk, Luhansk region"
+image_alt: "Portrait of Serhii Zhadan"
 ---
 
 ## When they told him to kneel

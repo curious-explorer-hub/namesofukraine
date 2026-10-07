@@ -10,6 +10,7 @@ key_accomplishments:
   - "During the Revolution of Dignity (2013-2014) organised fundraising and benefit concerts for Ukraine in Paris"
   - "In 2015 volunteered for the 7th Separate Battalion of the Right Sector Ukrainian Volunteer Corps; posthumously made a Hero of Ukraine (2017)"
 birthplace_name: "Lviv"
+image_alt: "Vasyl Slipak in an embroidered shirt with a trident pendant, Paris, 24 August 2014"
 ---
 
 ## Why “Mif”?

@@ -10,6 +10,7 @@ key_accomplishments:
   - "In spring 2014 formed and trained the National Guard's first volunteer battalions, drawn from Maidan activists, and went with them to the front"
   - "Hero of Ukraine (posthumously, decree No. 544/2014 of 20 June 2014) - the first Ukrainian general killed in the war with Russia"
 birthplace_name: "Weimar, Germany"
+image_alt: "Major General Serhii Kulchytskyi in National Guard uniform in front of flags"
 ---
 
 ## The general who trained the volunteers

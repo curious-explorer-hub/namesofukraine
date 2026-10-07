@@ -10,6 +10,7 @@ key_accomplishments:
   - "Organized the defense of Mariupol from the first days of the full-scale invasion (from 24 February 2022)"
   - "Hero of Ukraine (decree No. 148/2022, 19 March 2022)"
 birthplace_name: "Ukraine (exact birthplace unknown)"
+image_alt: "Colonel Volodymyr Baraniuk in Marine field uniform and a boonie hat"
 ---
 
 ## The first time they caught him

@@ -10,6 +10,7 @@ key_accomplishments:
   - "Taken prisoner after the fighting for the airport; killed in captivity on 21 January 2015"
   - "Hero of Ukraine with the Order of the Golden Star - decree No. 349/2016 of 23 August 2016, posthumous"
 birthplace_name: "Pushcha-Vodytsia, Kyiv"
+image_alt: "Portrait of a smiling Ihor Branovytskyi"
 ---
 
 ## Who was the machine gunner?

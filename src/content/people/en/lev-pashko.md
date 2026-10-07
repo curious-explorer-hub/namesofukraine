@@ -11,6 +11,7 @@ key_accomplishments:
   - "Made a Hero of Ukraine with the Gold Star order at 22 (decree No. 251/2022, 17 April 2022)"
   - "Taken prisoner when Azovstal fell; freed on 21 September 2022 in a prisoner exchange"
 birthplace_name: "Kyiv"
+image_alt: "Lev Pashko in combat gear"
 ---
 
 ## Why “Horus”?

@@ -10,6 +10,7 @@ key_accomplishments:
   - "Commander of Ukraine's Ground Forces (29 November 2024 - 1 June 2025); resigned, taking personal responsibility for a missile strike on a training ground that killed 12 soldiers"
   - "Commander of Ukraine's Joint Forces (2025); Commander-in-Chief of the Armed Forces of Ukraine since 21 July 2026"
 birthplace_name: "Kamianets-Podilskyi, Khmelnytskyi region"
+image_alt: "Mykhailo Drapatyi in military uniform"
 ---
 
 ## Commander of the “flying BMP”

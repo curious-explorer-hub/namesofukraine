@@ -13,6 +13,7 @@ key_accomplishments:
   - "Reached the UPA's highest rank, general-khorunzhyi (major general), in 1952"
   - "After his release, preserved and passed to historians testimony and documents on the independence underground, including for the Litopys UPA document series"
 birthplace_name: "Krasne, Lviv region"
+image_alt: "Portrait of Vasyl Kuk in a jacket, 1940"
 ---
 
 ## Did you know the last commander-in-chief of the UPA lived to see Ukraine become independent?

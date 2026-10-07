@@ -11,6 +11,7 @@ key_accomplishments:
   - "Won the \"As the Crow Flies\" trophy at the 2017 Royal International Air Tattoo for the best flying display"
   - "Hero of Ukraine (posthumously, 2022)"
 birthplace_name: "Malomykhailivka, Dnipropetrovsk region"
+image_alt: "Oleksandr Oksanchenko in a flight suit next to a Su-27 fighter"
 ---
 
 ## Why “Grey Wolf”?

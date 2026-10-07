@@ -10,6 +10,7 @@ key_accomplishments:
   - "Made a Hero of Ukraine on 8 May 2025 (decree No. 288/2025)"
   - "Commander of the Unmanned Systems Forces since 3 June 2025, a new branch of the armed forces (as of July 2025)"
 birthplace_name: "Uzhhorod, Zakarpattia region"
+image_alt: "Robert Brovdi in uniform and a cap on a panel at the LANDEURO conference, 2025"
 ---
 
 ## Where does “Madyar” come from?

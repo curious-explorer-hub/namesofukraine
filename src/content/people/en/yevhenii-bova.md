@@ -10,6 +10,7 @@ key_accomplishments:
   - "Made a Hero of Ukraine (2022) for personal courage in defending Ukraine's sovereignty and territorial integrity"
   - "Held prisoner from late April until 21 September 2022; commanded the 38th Separate Marine Brigade in 2023–2025 and was promoted colonel (2024)"
 birthplace_name: "Staroavramivka, Poltava region"
+image_alt: "Yevhenii Bova in a Marine beret, arms folded"
 ---
 
 ## When the brigade commander vanished

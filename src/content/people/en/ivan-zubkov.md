@@ -10,6 +10,7 @@ key_accomplishments:
   - "From 18 January 2015, commanded a fire-support platoon in assault operations to relieve the defenders of Donetsk airport"
   - "Hero of Ukraine, posthumously, with the Order of the Gold Star (decree No. 318/2015 of 9 June 2015); the 90th Battalion was renamed in his honor"
 birthplace_name: "Derazhnia, Khmelnytskyi region"
+image_alt: "Ivan Zubkov smiling in a helmet and body armor"
 ---
 
 ## From a factory manager back to the front

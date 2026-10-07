@@ -10,6 +10,7 @@ key_accomplishments:
   - "Promoted to major general at the 2016 Independence Day parade; headed the Kyiv Military Lyceum named after Ivan Bohun until 2023"
   - "Deputy head of the National Defence University of Ukraine since November 2023"
 birthplace_name: "Zaliznytsia, Rivne region"
+image_alt: "Ihor Hordiichuk in dress uniform with the Hero of Ukraine star, Kyiv, 2016"
 ---
 
 ## Why “Sumrak”?

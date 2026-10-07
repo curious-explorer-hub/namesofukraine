@@ -11,6 +11,7 @@ key_accomplishments:
   - Held in Russian captivity from 24 February to 24 March 2022
   - Awarded the honor \"For Services to Cherkasy Region\" by the head of the Cherkasy Regional Military Administration on 29 March 2022
 birthplace_name: "Zolotonosha, Cherkasy region"
+image_alt: "Roman Hrybov in military uniform holding an award, 2022"
 ---
 
 ## Four words heard worldwide
