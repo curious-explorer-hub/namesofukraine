@@ -47,7 +47,6 @@ Context for AI agents working in this repository. Read it before changing anythi
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How outside people contribute: principles, pull requests, licensing |
 | [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting, access model for collaborators |
 | [docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md) | Licenses for text, images, map data, fonts; the fair-use exceptions |
-| [docs/pre-launch.md](docs/pre-launch.md) | Pre-launch audit (2026-10-08): speed, caching, security, SEO, page text; open items |
 | [docs/post-launch.md](docs/post-launch.md) | Domain, Search Console and monitoring checklist |
 
 ## Contribution principles
