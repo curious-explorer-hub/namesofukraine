@@ -27,7 +27,6 @@ const social = [
 const donate = [
   { name: t('support.monobank', lang), url: SUPPORT_LINKS.monobank },
   { name: 'Patreon', url: SUPPORT_LINKS.patreon },
-  { name: 'Buy Me a Coffee', url: SUPPORT_LINKS.buymeacoffee },
 ].filter((l) => l.url);
 const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
 ---
@@ -68,13 +67,12 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
     page === 'support' && (
       <section class="page-body prose community">
         <h2>{t('support.donate_title', lang)}</h2>
-        {donate.length ? (
+        {donate.length > 0 && (
           <ul class="link-buttons">
             {donate.map((l) => <li><a class="link-button link-button-primary" href={l.url} rel="noopener">{l.name}</a></li>)}
           </ul>
-        ) : (
-          <p class="suggest-pending">{t('support.donate_pending', lang)}</p>
         )}
+        {!SUPPORT_LINKS.monobank && <p class="suggest-pending">{t('support.monobank_pending', lang)}</p>}
         <h2>{t('support.join_title', lang)}</h2>
         <p>{t('support.join_lead', lang)}</p>
         <ul class="link-buttons">
