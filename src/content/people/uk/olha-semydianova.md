@@ -15,7 +15,7 @@ places:
   - { name: "Марганець", lat: 47.648, lon: 34.627, note: "з 2008 року жила з родиною в будинку біля міста" } # approximate: the dot is the town; sources say only "near Marhanets"
 image:
   src: ./images/olha-semydianova.jpg
-  alt: "Ольга Семидьянова у військовій формі"
+  alt: "Ольга Семидьянова у військовій формі й кепці з тризубом"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Fair use"

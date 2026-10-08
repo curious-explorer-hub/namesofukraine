@@ -11,6 +11,7 @@ key_accomplishments:
   - "From 2022, a machine gunner in the 3rd Separate Special Operations Regiment of the Armed Forces"
   - "Hero of Ukraine (posthumously, decree No. 608/2025 of 22 August 2025)"
 birthplace_name: "Rivne"
+image_alt: "Maksym Kryvtsov in military gear and ear protectors"
 ---
 
 ## A poet with a camera

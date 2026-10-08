@@ -11,7 +11,7 @@ key_accomplishments:
   - "Author of a petition to restrict online casinos (2024) that gathered more than 25,000 signatures in under a day"
   - "Order for Courage, 3rd class (2023); Hero of Ukraine with the Order of the Golden Star (posthumously, 2025)"
 birthplace_name: "Kyiv"
-image_alt: "Photo portrait of Pavlo Petrychenko in uniform"
+image_alt: "Pavlo Petrychenko in military gear with a yellow armband, against the sky"
 ---
 
 ## 25,000 signatures in a day

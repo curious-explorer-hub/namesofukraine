@@ -13,8 +13,8 @@ fun_fact: "Його слова «Всі красиві зберігають оп
 birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.45, lon: 30.524 }
 image:
   src: ./images/pavlo-petrychenko.jpg
-  alt: "Фотопортрет Павла Петриченка у військовій формі"
-  position: "62% 25%"
+  alt: "Павло Петриченко у військовому спорядженні з жовтою пов'язкою на тлі неба"
+  position: "50% 15%"
   author: "Невідомий автор (через Платформу пам'яті «Меморіал»)"
   license: "Fair use"
   fair_use: true

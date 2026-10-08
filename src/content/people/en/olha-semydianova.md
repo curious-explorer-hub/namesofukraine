@@ -10,7 +10,7 @@ key_accomplishments:
   - "The “Honor and Glory” award, of which she was very proud"
   - "Order for Courage, 3rd class (posthumously, Decree No. 745/2022)"
 birthplace_name: "Zaporizhzhia"
-image_alt: "Olha Semydianova in uniform"
+image_alt: "Olha Semydianova in uniform and a cap with the trident"
 ---
 
 ## A seamstress who saved the wounded
