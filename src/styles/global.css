@@ -1143,7 +1143,8 @@ a { color: var(--cobalt); }
 .profile {
   display: grid;
   gap: 2rem var(--gutter);
-  grid-template-areas: 'head' 'facts' 'body';
+  /* Small screens: the side panel's parts join the grid, so "alive at the same time" comes after the story */
+  grid-template-areas: 'head' 'portrait' 'toggle' 'facts' 'body' 'same';
   padding-block: clamp(1.5rem, 1rem + 3vw, 3.5rem) 3rem;
 }
 @media (min-width: 64rem) {
@@ -1152,7 +1153,7 @@ a { color: var(--cobalt); }
     grid-template-areas: 'head head' 'body facts';
     justify-content: space-between;
   }
-  .profile-facts { position: sticky; top: 1.5rem; align-self: start; }
+  .profile-facts { position: sticky; top: var(--side-top, 1.5rem); align-self: start; }
 }
 .profile-head { grid-area: head; }
 .profile-years { margin: 0; color: var(--slate); font-variant-numeric: tabular-nums; }
@@ -1169,6 +1170,13 @@ a { color: var(--cobalt); }
 .profile-tags { margin: 0.6rem 0 0; color: var(--slate); }
 
 .profile-facts { grid-area: facts; }
+@media (max-width: 63.99rem) {
+  .profile-facts { display: contents; }
+  .profile-facts > .profile-portrait { grid-area: portrait; }
+  .profile-facts > .read-toggle { grid-area: toggle; }
+  .profile-facts > dl { grid-area: facts; }
+  .profile-facts > .contemporaries { grid-area: same; }
+}
 .profile-portrait { aspect-ratio: 4 / 5; border-radius: 4px; margin-bottom: 1rem; }
 @media (max-width: 63.99rem) { .profile-portrait { max-width: 22rem; } }
 .profile-facts dl { margin: 0; border-top: 3px solid var(--accent); }
@@ -1243,6 +1251,16 @@ a { color: var(--cobalt); }
 .profile-sources ul { margin: 0 0 0.75rem; padding-left: 1.1rem; }
 
 .related { padding-bottom: 4rem; }
+
+/* Alive at the same time: in the side panel on wide screens, after the story on small ones */
+.contemporaries { margin-top: 1.5rem; }
+.contemporaries h2 { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.2; margin: 0 0 0.5rem; }
+.contemporary-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.5rem 1rem; }
+.contemporary { display: grid; grid-template-columns: 3rem 1fr; column-gap: 0.75rem; align-items: center; padding: 0.4rem; color: var(--ink); text-decoration: none; border-radius: 8px; }
+.contemporary:hover { background: var(--accent-soft); }
+.contemporary-portrait { grid-row: 1 / 3; width: 3rem; aspect-ratio: 1; border-radius: 50%; overflow: hidden; }
+.contemporary-name { font-weight: 500; align-self: end; }
+.contemporary-years { font-size: 0.875rem; color: var(--slate); align-self: start; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }

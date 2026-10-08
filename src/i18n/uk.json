@@ -150,5 +150,7 @@
   "admin.action": "Дія",
   "admin.view": "Переглянути",
   "admin.count": "Всього чернеток: {n}",
-  "admin.no_drafts": "Чернеток немає. Усі профілі схвалені й видані."
+  "admin.no_drafts": "Чернеток немає. Усі профілі схвалені й видані.",
+  "person.contemporaries": "Жили в той самий час",
+  "person.years_together": "Спільних років: {n}"
 }

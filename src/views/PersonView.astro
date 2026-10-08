@@ -13,11 +13,13 @@ import {
   fullDate,
   groupUrl,
   localePath,
+  personUrl,
   freeImage,
   type Person,
 } from '../lib/people';
 import { t } from '../i18n';
 import { personLd, breadcrumbLd } from '../lib/structured-data';
+import { contemporaries } from '../lib/timeline';
 
 interface Props {
   person: Person;
@@ -54,6 +56,12 @@ const fallback = people
   .filter((p) => p.data.group === data.group && p.slug !== person.slug && !data.related.includes(p.slug))
   .sort((a, b) => years(a) - years(b))
   .slice(0, 8);
+// People alive at the same time, other than the related ones (they're on the shelf below). Only before
+// independence: since then the catalogue has so many people that nearly everyone overlaps.
+const modern = new Set(['independence', 'war-for-independence']);
+const sameTime = modern.has(data.era)
+  ? []
+  : contemporaries(person, people.filter((p) => !modern.has(p.data.era)), data.related);
 const pageUrl = new URL(Astro.url.pathname, Astro.site);
 const ldSource = freeImage(person);
 const ldImage = ldSource ? new URL((await getImage({ src: ldSource.src, width: 720, format: 'jpg' })).src, Astro.site) : undefined;
@@ -109,6 +117,24 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
           <dd><a href={groupUrl(data.group, lang)}>{groupLabel(data.group, lang)}</a></dd>
         </div>
       </dl>
+      {
+        sameTime.length > 0 && (
+          <section class="contemporaries" aria-labelledby="contemporaries-title">
+            <h2 id="contemporaries-title">{t('person.contemporaries', lang)}</h2>
+            <ul class="contemporary-list" role="list">
+              {sameTime.map(({ person: p, years }) => (
+                <li>
+                  <a class="contemporary" href={personUrl(p)} data-group={p.data.group}>
+                    <Portrait person={p} class="contemporary-portrait" widths={[96, 144]} sizes="3rem" />
+                    <span class="contemporary-name">{p.data.name}</span>
+                    <span class="contemporary-years">{lifespan(p)} · {t('person.years_together', lang, { n: years })}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
     </aside>
 
     <div class="profile-body">
@@ -182,3 +208,8 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
     )
   }
 </BaseLayout>
+
+<script>
+  import { initStickySide } from '../scripts/sticky-side';
+  initStickySide();
+</script>

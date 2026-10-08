@@ -150,5 +150,7 @@
   "admin.action": "Action",
   "admin.view": "View",
   "admin.count": "Total drafts: {n}",
-  "admin.no_drafts": "No drafts. All profiles are approved and published."
+  "admin.no_drafts": "No drafts. All profiles are approved and published.",
+  "person.contemporaries": "Alive at the same time",
+  "person.years_together": "Years in common: {n}"
 }
