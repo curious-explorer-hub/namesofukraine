@@ -3,7 +3,7 @@ title: About
 description: Know Your Own is a non-profit educational project about the people who made Ukraine. Why it exists, who we include and how we protect your privacy.
 ---
 
-Know Your Own (in Ukrainian, «Знай своїх») is a non-commercial educational project. We want young people in Ukraine and around the world to know the people who made Ukraine - briefly, honestly, and in a way that's worth reading. Our land has always been, and still is, extraordinarily rich in bright, talented, and gifted people whose achievements changed the course of history and still inspire us today. After all, without a deep understanding of our past and an awareness of our own roots, it is simply impossible to build a successful, conscious, and strong future.
+We want everyone in Ukraine and around the world to know the people who made Ukraine - briefly, honestly, and in a way that's worth reading. Our land has always been, and still is, extraordinarily rich in bright, talented, and gifted people whose achievements changed the course of history and still inspire us today. After all, without a deep understanding of our past and an awareness of our own roots, it is simply impossible to build a successful, conscious, and strong future.
 
 ## Who we include
 

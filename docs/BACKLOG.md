@@ -16,7 +16,7 @@ In order. Pick from the top.
 | # | Item                                                                              | Why now                                                                                                                                                    | Who            |
 |---|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | 1 | **Measurement** (L10): confirm Web Analytics shows page views; set up UptimeRobot | Every later choice (next batch, what to post, "most read") depends on traffic data                                                                         | Owner          |
-| 2 | **Social and donation accounts** (L11, L13)                                       | The main audience (14–25) finds content on Instagram and Threads, not search. The About and Support pages are ready and show each link once its URL is set | Owner          |
+| 2 | **Social and donation accounts** (L11, L13)                                       | Many readers, younger ones especially, find content on Instagram and Threads, not search. The About and Support pages are ready and show each link once its URL is set | Owner          |
 | 3 | **Content session** C1–C4 below, in order                                         | The catalogue and its links now limit the site more than features do                                                                                       | Code + content |
 
 ### Content session (owner, 2026-10-06)

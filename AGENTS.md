@@ -4,7 +4,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 ## What this is
 
-**«Знай своїх» / Know Your Own** (namesofukraine.com; soft launch at <https://namesofukraine.pages.dev>): a free, non-profit, static website about the people who made Ukraine, for the young generation. Each person has a short, sourced profile in Ukrainian and English, plus a portrait, birthplace and links to related people. No ads, no paywall, no login, no tracking cookies.
+**«Знай своїх» / Know Your Own** (namesofukraine.com; soft launch at <https://namesofukraine.pages.dev>): a free, non-profit, static website about the people who made Ukraine, for readers of all ages. Each person has a short, sourced profile in Ukrainian and English, plus a portrait, birthplace and links to related people. No ads, no paywall, no login, no tracking cookies.
 
 **Goals:** accurate, neutral, sourced profiles; fast and accessible on a phone; $0 hosting; easy to keep up to date. The full spec (capabilities, acceptance criteria, decisions, editorial policy) is in [product_vision.md](product_vision.md).
 
@@ -40,7 +40,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 |---|---|
 | [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D17 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
 | [docs/BACKLOG.md](docs/BACKLOG.md) | Current status and open items (**start here to resume work**) |
-| [docs/STYLE.md](docs/STYLE.md) | How profiles are written: hook first, short, for young readers |
+| [docs/STYLE.md](docs/STYLE.md) | How profiles are written: hook first, short, for readers of all ages |
 | [docs/CANDIDATES.md](docs/CANDIDATES.md) | People planned for future batches, with flags and editorial notes |
 | [docs/PUBLISHING.md](docs/PUBLISHING.md) | How a change goes live, CI, rollback, manual deploy, the Tally form |
 | [docs/MAINTENANCE.md](docs/MAINTENANCE.md) | Recurring work: weekly feedback triage, corrections |

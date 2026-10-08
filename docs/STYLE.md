@@ -1,6 +1,6 @@
 # Story style
 
-How profiles are written: curiosity first, facts intact. For the audience (14–25) a profile should read like a story a friend tells, not an encyclopedia entry. Rules on facts and sources stay as in [product_vision.md](../product_vision.md) §7; this guide is about how the text sounds.
+How profiles are written: curiosity first, facts intact. For readers of every age a profile should read like a story a friend tells, not an encyclopedia entry. Rules on facts and sources stay as in [product_vision.md](../product_vision.md) §7; this guide is about how the text sounds.
 
 **Status:** adopted 2026-10-06 after a pilot on Taras Shevchenko and Dmytro Kotsiubailo.
 
@@ -36,7 +36,7 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 ## Writing
 
 - **Short sentences, active verbs, concrete details.** "He built a granary without nails" beats "he was engaged in the construction of agricultural facilities".
-- **One idea per paragraph.** About 200–350 words of story in all; cut what a young reader won't miss: minor dates, offices, committees, institution names, sums.
+- **One idea per paragraph.** About 200–350 words of story in all; cut what a reader won't miss: minor dates, offices, committees, institution names, sums.
 - **Explain context in a clause,** not a paragraph: "the Soviet secret police (NKVD)".
 - **Talk to the reader** now and then ("уявіть", "imagine"), but don't overdo it.
 - **End on why it matters today:** what we still use, see or owe to this person.

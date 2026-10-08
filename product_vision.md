@@ -8,9 +8,9 @@
 
 ## 1. Vision
 
-**Mission:** a modern, beautiful, trustworthy place where anyone (young Ukrainians first, the world second) can discover the people who shaped Ukraine: in statehood, literature, the arts, science, faith, sport and defence.
+**Mission:** a modern, beautiful, trustworthy place where anyone (Ukrainians of every age first, the world second) can discover the people who shaped Ukraine: in statehood, literature, the arts, science, faith, sport and defence.
 
-**Why:** young people should know the people who made Ukraine, and international readers should see Ukrainian contributions as *Ukrainian*, not folded into Russian or Soviet narratives.
+**Why:** Ukrainians of every age should know the people who made Ukraine, and international readers should see Ukrainian contributions as *Ukrainian*, not folded into Russian or Soviet narratives.
 
 **Principles**
 1. **Trust over volume.** Every fact is sourced; contested figures are presented neutrally, with the debate (§7).
@@ -24,8 +24,7 @@
 
 | Audience | Needs | So the site has |
 |---|---|---|
-| **Young Ukrainians** (primary, ~14–25) | Short, visual, mobile, shareable; reasons to return | Mobile-first design, share cards, "newly added", Daily Hero, reading progress, social pages |
-| **Ukrainians of all ages** | Accurate, respectful, in Ukrainian | Ukrainian by default, editorial standards (§7) |
+| **Ukrainians of all ages** (primary) | Accurate, respectful, in Ukrainian; short, visual, mobile, shareable; reasons to return | Ukrainian by default, editorial standards (§7), mobile-first design, share cards, "newly added", Daily Hero, reading progress, social pages |
 | **International readers** | English, context, correct names | Full English version, official transliteration, short historical context |
 | **Teachers and students** | Reliable sources | Sources on every profile; printable pages later |
 
