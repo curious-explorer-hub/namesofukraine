@@ -12,7 +12,7 @@ key_accomplishments:
   - "Earned a doctorate in history and geography from the University of Vienna (1921)"
   - "Published more than 75 scholarly works; in 1949 was sentenced to 10 years and sent to a labour camp in Mordovia"
 birthplace_name: "Vyshnivchyk, Lviv region"
-image_alt: "Ensign of the Ukrainian Sich Riflemen Olena Stepaniv in uniform, spring 1915"
+image_alt: "Illustration: Olena Stepaniv in the cap and uniform of the Ukrainian Sich Riflemen, with ensign’s stars on her collar"
 ---
 
 ## The girl the guards recognized

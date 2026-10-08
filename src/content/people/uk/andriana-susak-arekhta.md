@@ -16,11 +16,12 @@ places:
   - { name: "Луганщина", lat: 48.574, lon: 39.307, note: "воювала в штурмовій групі батальйону «Айдар» з 2014 року" }
 image:
   src: ./images/andriana-susak-arekhta.jpg
-  alt: "Андріана Сусак-Арехта у військовій формі усміхається на Марші захисників у Києві"
-  position: "50% 20%"
-  author: "KuRaG; похідна робота: Tohaomg; кадроване"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D1%81%D0%B0%D0%BA-%D0%90%D1%80%D0%B5%D1%85%D1%82%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B0%D0%BD%D0%B0_%D0%86%D0%B2%D0%B0%D0%BD%D1%96%D0%B2%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%9C%D0%B0%D1%80%D1%88%D1%96_%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%B8%D0%BA%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_(2021).jpg"
+  alt: "Андріана Сусак-Арехта в піксельному камуфляжі зі схрещеними руками й легкою усмішкою, на грудях бейдж «Visiteur / Visitor»"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.gmfus.org/no-longer-invisible-how-veterans-organization-securing-place-women-ukraines-armed-forces"
+  fair_use: true
 gallery:
   - src: ./images/andriana-susak-arekhta-invisible-battalion.jpg
     alt: "Чорний постер із написом «Невидимий батальйон»: шість намальованих облич героїнь, угорі «3 режисерки, 9 жіночих поглядів на війну, героїнь 6», унизу імена режисерок Аліни Горлової, Ірини Цілик і Світлани Ліщинської"
@@ -44,9 +45,10 @@ sources:
     url: "https://armyinform.com.ua/2021/10/23/aleya-pamyati-zagyblyh-zahysnycz-zyavylasya-na-zhytomyrshhyni/"
   - title: "German Marshall Fund - No Longer Invisible: How a Veterans' Organization Is Securing a Place for Women in Ukraine's Armed Forces"
     url: "https://www.gmfus.org/no-longer-invisible-how-veterans-organization-securing-place-women-ukraines-armed-forces"
-related: []
+related: [yuliia-paievska]
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-08T04:31:23Z
 ---
 
 ## Швачка, яка ходила в атаку
@@ -59,7 +61,7 @@ status: draft
 
 ## Більше не «невидимі»
 
-Андріана - одна з шести героїнь документального фільму «Невидимий батальйон» про жінок на війні та після неї. Цей проєкт домагався, щоб жінок офіційно допустили до бойових посад, і 2018 року це сталося. Того ж року Андріана допомагала збирати перші зустрічі ветеранок, з яких виріс Жіночий ветеранський рух, і очолила його. Рух захищає права жінок-військових і ветеранок, а ще створює по всій Україні Алеї пам'яті загиблих захисниць.
+Андріана - одна з шести героїнь документального фільму «Невидимий батальйон» про жінок на війні та після неї. Інші героїні - Олена Білозерська, [Юлія «Тайра» Паєвська](/uk/people/yuliia-paievska/), Дар'я Зубенко, Оксана Якубова та Юлія «Білка» Матвієнко. Цей проєкт домагався, щоб жінок офіційно допустили до бойових посад, і 2018 року це сталося. Того ж року Андріана допомагала збирати перші зустрічі ветеранок, з яких виріс Жіночий ветеранський рух, і очолила його. Рух захищає права жінок-військових і ветеранок, а ще створює по всій Україні Алеї пам'яті загиблих захисниць.
 
 ## Знову в строю
 

@@ -11,7 +11,7 @@ key_accomplishments:
   - "Order For Courage, 3rd class"
   - "Returned to the army in 2022"
 birthplace_name: "Kosiv"
-image_alt: "Andriana Susak-Arekhta smiling in military uniform at the Defenders’ March in Kyiv"
+image_alt: "Andriana Susak-Arekhta in pixel camouflage, arms crossed and smiling slightly, with a “Visiteur / Visitor” badge on her chest"
 gallery:
   - alt: "A black poster reading “Invisible Battalion”: six drawn faces of the women featured, above them “3 directors, 9 women’s views of war, 6 heroines”, below the names of the directors Alina Horlova, Iryna Tsilyk and Svitlana Lishchynska"
     caption: "Poster for the film “Invisible Battalion”"
@@ -27,7 +27,7 @@ Andriana comes from Kosiv in the Ivano-Frankivsk region. She took part in the Re
 
 ## No longer invisible
 
-Andriana is one of six women featured in “Invisible Battalion”, a documentary about women at war and after it. The project campaigned for women to be officially allowed into combat roles, and in 2018 that happened. The same year Andriana helped organise the first gatherings of women veterans that grew into the Women Veterans Movement, which she went on to lead. The movement stands up for the rights of servicewomen and veterans, and plants Alleys of Memory for fallen women defenders across Ukraine.
+Andriana is one of six women featured in “Invisible Battalion”, a documentary about women at war and after it. The others are Olena Bilozerska, [Yuliia “Taira” Paievska](/en/people/yuliia-paievska/), Daria Zubenko, Oksana Yakubova and Yuliia “Bilka” Matviienko. The project campaigned for women to be officially allowed into combat roles, and in 2018 that happened. The same year Andriana helped organise the first gatherings of women veterans that grew into the Women Veterans Movement, which she went on to lead. The movement stands up for the rights of servicewomen and veterans, and plants Alleys of Memory for fallen women defenders across Ukraine.
 
 ## Back in uniform
 

@@ -34,7 +34,8 @@ sources:
     url: "https://espreso.tv/geroi-ukraini-vryatuvala-desyatki-biytsiv-u-den-svoei-zagibeli-boyova-medikinya-katerina-stupnitska"
 related: []
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-08T04:31:23Z
 ---
 
 ## Мрія з дитинства
