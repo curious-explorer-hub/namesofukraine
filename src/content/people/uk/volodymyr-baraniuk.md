@@ -26,7 +26,7 @@ key_accomplishments:
 sources:
   - title: "Енциклопедія сучасної України - Баранюк Володимир Анатолійович"
     url: "https://esu.com.ua/article-77654"
-  - title: "АрміяInform - У самому пеклі війни: Герой України полковник Володимир Баранюк продовжує оборонятиМаріуполь"
+  - title: "АрміяInform - У самому пеклі війни: Герой України полковник Володимир Баранюк продовжує обороняти Маріуполь"
     url: "https://armyinform.com.ua/2022/03/21/u-samomu-pekli-vijny-geroj-ukrayiny-polkovnyk-volodymyr-baranyuk-prodovzhuye-oboronyaty-mariupol/"
   - title: "Ukrainska Pravda (English) - Russian media claim Ukrainian Marine commander in captivity after leaving Azovmash plant"
     url: "https://www.pravda.com.ua/eng/news/2022/05/08/7344802/"

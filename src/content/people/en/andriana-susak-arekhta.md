@@ -12,6 +12,9 @@ key_accomplishments:
   - "Returned to the army in 2022"
 birthplace_name: "Kosiv"
 image_alt: "Andriana Susak-Arekhta smiling in military uniform at the Defenders’ March in Kyiv"
+gallery:
+  - alt: "A black poster reading “Invisible Battalion”: six drawn faces of the women featured, above them “3 directors, 9 women’s views of war, 6 heroines”, below the names of the directors Alina Horlova, Iryna Tsilyk and Svitlana Lishchynska"
+    caption: "Poster for the film “Invisible Battalion”"
 ---
 
 ## The seamstress who went on assaults

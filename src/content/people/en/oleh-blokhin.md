@@ -20,7 +20,7 @@ That is how many goals Oleh Blokhin scored in 432 Soviet league matches, a Sovie
 
 ## Dynamo’s left wing
 
-Blokhin was born in Kyiv in 1952 and came through the Dynamo football school. In November 1969, aged 17, he made his first-team debut for the club he would then play for almost twenty years. The team was run by [Valerii Lobanovskyi](/en/people/valerii-lobanovskyi/) and Oleh Bazylevych, and Blokhin’s trademark became his high-speed runs down the left wing.
+Blokhin was born in Kyiv in 1952 and came through the Dynamo football school. In November 1969, aged 17, he made his first-team debut for the club he would then represent for almost twenty years. The team was run by [Valerii Lobanovskyi](/en/people/valerii-lobanovskyi/) and Oleh Bazylevych, and Blokhin’s trademark became his high-speed runs down the left wing.
 
 In 1975 Dynamo won the Cup Winners’ Cup and then the UEFA Super Cup, beating Bayern Munich twice; Blokhin scored three goals against them. That same year he became the first Soviet footballer to receive the Ballon d'Or as Europe’s best player. In 1986 the club won the Cup Winners’ Cup a second time. With Dynamo Blokhin was Soviet champion seven times and won the Soviet Cup five times, and with the USSR he won Olympic bronze in 1972 and 1976 and silver at the 1988 European Championship. He finished his playing career in Austria and Cyprus.
 

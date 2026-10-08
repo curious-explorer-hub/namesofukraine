@@ -9,7 +9,7 @@ key_accomplishments:
   - One of 13 defenders of Snake Island during the assault of 24 February 2022
   - Made the defiant response to a Russian warship ultimatum with his legendary phrase
   - Held in Russian captivity from 24 February to 24 March 2022
-  - Awarded the honor \"For Services to Cherkasy Region\" by the head of the Cherkasy Regional Military Administration on 29 March 2022
+  - Awarded the honor “For Services to Cherkasy Region” by the head of the Cherkasy Regional Military Administration on 29 March 2022
 birthplace_name: "Zolotonosha, Cherkasy region"
 image_alt: "Roman Hrybov in military uniform holding an award, 2022"
 ---
