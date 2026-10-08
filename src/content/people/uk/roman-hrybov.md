@@ -13,11 +13,12 @@ summary: "На острові Зміїний 24 лютого 2022 року 32-р
 fun_fact: "Сам Грибов не пам'ятає чітко, коли саме крикнув ці слова. Про свою славу він дізнався лише під час обміну полоненими від людини, яка цей обмін організовувала."
 image:
   src: ./images/roman-hrybov.jpg
-  alt: "Роман Грибов у військовій формі з нагородою в руках, 2022 рік"
-  position: "50% 15%"
-  author: "Пресслужба Черкаської ОДА"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ihor_Taburets_Roman_Hrybov_Award_2022.jpg"
+  alt: "Роман Грибов у військовому фліску з шевроном на рукаві сидить за столом із телефоном у руці"
+  position: "50% 20%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://gazeta.ua/articles/life/_romka-pravilno-orkiv-poslav-yak-zhive-avtor-krilatoyi-frazi-pro-russkij-korabl-i-scho-pro-nogo-rozpovidayut-zemlyaki/1079595"
+  fair_use: true
 key_accomplishments:
   - Прикордонник Державної прикордонної служби України
   - Один з 13 захисників острова Зміїний під час атаки 24 лютого 2022 року
