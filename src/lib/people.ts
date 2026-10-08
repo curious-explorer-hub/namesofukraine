@@ -111,6 +111,9 @@ export const recentlyAdded = (people: Person[], limit = 8) =>
 export const searchText = (p: Person) =>
   [p.data.name, p.data.role, p.data.summary, ...p.data.tags.map((tag) => tagLabel(tag, p.lang, p.data.gender))].join(' ');
 
+// "MM-DD" of a frontmatter date, for "born on this day" (src/scripts/daily-hero.ts).
+export const monthDay = (d: Date) => `${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
+
 // Frontmatter dates are parsed as UTC midnight; read them in UTC so the year never shifts by timezone.
 export const lifespan = (p: Person) => {
   const year = (d: Date, circa: boolean) => (circa ? t('person.circa', p.lang, { year: d.getUTCFullYear() }) : d.getUTCFullYear());

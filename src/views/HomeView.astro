@@ -44,7 +44,7 @@ const phone = '(max-width: 47.99rem)';
   </header>
 
   <div class="home-strip">
-    <DailyHero people={people} lang={lang} />
+    <DailyHero lang={lang} />
     <ReadProgress lang={lang} total={people.length} />
     <Insight people={people} lang={lang} />
   </div>
@@ -86,9 +86,11 @@ const phone = '(max-width: 47.99rem)';
   import { initExplore } from '../scripts/explore';
   import { initInsight } from '../scripts/insight';
   import { loadCatalogue } from '../scripts/catalogue';
+  import { initDailyHero } from '../scripts/daily-hero';
   initExplore();
-  // Filters, the map and the insight card read the people from the cards.
+  // Filters, the map, the daily hero and the insight card read the people from the cards.
   loadCatalogue().then(() => {
+    initDailyHero();
     initFilters();
     initBirthMap();
     initInsight();

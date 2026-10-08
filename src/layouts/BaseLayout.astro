@@ -69,9 +69,9 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
     <meta name="theme-color" content="#0e1524" media="(prefers-color-scheme: dark)" />
     <link rel="alternate" type="application/rss+xml" title={t('site.title', lang)} href={new URL(localePath(lang, '/rss.xml'), Astro.site)} />
     <slot name="head" />
-    <!-- The filter bar, the explore tabs and the map's region list need JavaScript. They are visible from
+    <!-- The filter bar, the explore tabs, the map's region list and the feedback form's button need JavaScript. They are visible from
          the first paint (no layout shift when the script starts) and hidden only for visitors without it. -->
-    <noscript><style>.theme-toggle, .filters, .map-side, .explore-tabs, .progress-card, .daily-hero { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
+    <noscript><style>.theme-toggle, .filters, .map-side, .explore-tabs, .progress-card, .daily-hero, .suggest-open { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
     {structuredData.map((item) => <script is:inline type="application/ld+json" set:html={jsonForScript(item)} />)}
     <link rel="preload" href="/fonts/FixelDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/FixelText-Regular.woff2" as="font" type="font/woff2" crossorigin />

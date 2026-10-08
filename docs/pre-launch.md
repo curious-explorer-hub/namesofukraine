@@ -2,6 +2,37 @@
 
 Findings from an audit of the live soft-launch site (`https://namesofukraine.pages.dev`) and a production build, done 2026-10-08 before the public launch (BACKLOG L3, L11). Covers page weight and load time, caching, security, SEO, accessibility and the text of the static pages. Tick items here as they're done; move anything left open into [BACKLOG.md](BACKLOG.md) once launch work is finished.
 
+## Status
+
+Work happens on the `pre-launch` branch; "Done" means committed there and passing all checks, not yet live (a merge to `main` releases it). Measured effects: [pre-launch-log.md](pre-launch-log.md). Updated 2026-10-08.
+
+| # | Item | Status |
+|---|---|---|
+| P0-1 | Cache static files | ✅ Done (confirm headers after deploy) |
+| P0-2 | Draft review pages out of production | ✅ Done |
+| P0-3 | Credits text accurate | ✅ Done · 📝 text awaits owner review |
+| P0-4 | Privacy section complete | ✅ Done · 📝 text awaits owner review |
+| P0-5 | `pages.dev` redirect / `noindex`, `site` → real domain | ⏳ Waits for the domain (L3) |
+| P1-6 | Prefetch links | ✅ Done |
+| P1-7 | Card portrait `sizes` | ✅ Checked, no change needed |
+| P1-8 | First portrait eager on Group and New | ✅ Done |
+| P1-9 | Smaller map | ✅ Done (option A) |
+| P1-10 | Daily-hero data out of the HTML | ✅ Done |
+| P1-11 | Cards out of the home page | ✅ Done |
+| P1-12 | Feedback form loads on request | ✅ Done |
+| P2-13 | Skip link | ✅ Done |
+| P2-14 | Language switch label | ✅ Done |
+| P2-15 | Meta descriptions | ✅ Done · 📝 About and New text awaits owner review |
+| P2-16 | Sitemap `lastmod` | ✅ Done |
+| P2-17 | `security.txt` | ✅ Done (renew yearly) |
+| P2-18 | `theme-color` and manifest | ✅ Done |
+| P2-19 | About: fact-checking, contact, who runs the site | 🟡 Fact-checking section drafted (📝 owner review); "who runs the site" is the owner's to write |
+| P2-20 | Analytics preconnect | ✅ Checked, no change needed |
+| C-1 | Map borders and Crimea checked by eye (I20) | ⏳ Owner |
+| C-2 | Portraits: AI redo, licence tags, fair use (L15) | ⏳ Owner |
+| C-3 | Instagram, Threads, Monobank links (L11) | ⏳ Owner |
+| V-1 | Lighthouse on the live site after the merge; numbers into the log | ⏳ After deploy |
+
 ## Summary
 
 The site is already fast and safe: Lighthouse scores 92–100 for performance and 100 for accessibility, best practices and SEO on every page tested; no console or CSP errors; strong security headers. The home page is the one heavy page, static files are never cached, and two static pages say things that aren't accurate.
@@ -41,9 +72,9 @@ Target: under 50 KB compressed HTML and main content under 2.5 s in Lighthouse m
 - [x] **7. Card portrait `sizes`** (`src/components/PersonCard.astro`). Lighthouse flags 152 KB of waste on the home page: cards show at about 300 CSS px on a phone and phones get the 624–640 px file. *Checked 2026-10-08: no change needed. Lighthouse compares with CSS pixels; at 2–3 device pixels per CSS pixel, the 640 px file is the right one, and `80vw` is close to the real card width (`min(80%, 20rem)`).*
 - [x] **8. Main image lazy-loaded on Group and New pages.** The first card's portrait is the largest thing on screen but has `loading="lazy"`. Load the first card's portrait eagerly with `fetchpriority="high"`. *Done 2026-10-08; the profile portrait now also gets `fetchpriority="high"` (Lighthouse's LCP-discovery hint on profiles).*
 - [x] **9. Smaller map.** 76 KB of SVG sits in a hidden tab. *Done 2026-10-08 (owner chose option A: keep the map in the page for AC4, smaller shapes): outlines written as relative steps at the same 0.1-unit precision, points that round onto the previous one dropped; pixel-identical to before at full view and zoomed in. Saved 2.4 KB compressed, less than the ~5 KB estimated: compression already handled the repeated digits well. Loading the map only when its tab opens (about 14 KB more) would need a no-JS map page to keep AC4.*
-- [ ] **10. Move the daily-hero data out of the HTML.** 41 KB of inline JSON could be a hashed `.json` file fetched after load (and cached, with P0-1).
+- [x] **10. Move the daily-hero data out of the HTML.** 41 KB of inline JSON could be a hashed `.json` file fetched after load (and cached, with P0-1). *Done 2026-10-08 without a new request: the daily hero now reads its candidates from the fetched card list (P1-11), which gained `data-born`/`data-died`; the 138 entries match the old JSON exactly, and the pick is unchanged.*
 - [x] **11. Cards out of the home page** (BACKLOG I18). At 146 cards this is due now rather than "past ~200". *Done 2026-10-08: the result cards are a separate file (`/uk/home-cards/`, `/en/home-cards/`, built from the same `PersonCard`) fetched after load; filters, the map, the insight card and read marks start once it arrives. Without JavaScript nothing changes (the cards were never shown; AC4).*
-- [ ] **12. Feedback page:** load the Tally iframe when the reader clicks a button, so the 1.7 MB isn't loaded on every visit.
+- [x] **12. Feedback page:** load the Tally iframe when the reader clicks a button, so the 1.7 MB isn't loaded on every visit. *Done 2026-10-08: a «Написати нам» / "Write to us" button; a "Tell us" link from a profile or a `?type=` link opens the form at once; without JavaScript the form is embedded as before.*
 
 ## P2: polish and launch hygiene
 
@@ -56,7 +87,7 @@ Target: under 50 KB compressed HTML and main content under 2.5 s in Lighthouse m
 - [ ] **19. About page: who runs the site, a contact, and the corrections and sourcing policy** for readers (product_vision.md §7 has it, but it isn't public). *Partly done 2026-10-08: a «Як ми перевіряємо факти» / "How we check facts" section (sources, neutral tone, approval, how to report a mistake) drafted in both languages from §7, awaiting the owner's review. Open: who runs the site, which only the owner can write.*
 - [x] **20. Analytics preconnect.** Lighthouse suggests a preconnect to `cloudflareinsights.com` (about 240 ms); the beacon loads after the page, so this matters little. *Checked 2026-10-08: no change. Cloudflare adds the beacon after the page loads; an early connection to a third party on every page would compete with the main image on slow phones.*
 
-## Content to settle before promotion
+## Content to settle before promotion (C-1 to C-3)
 
 From [BACKLOG.md](BACKLOG.md); listed here so launch work sees them in one place.
 
