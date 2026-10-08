@@ -36,8 +36,8 @@ const { lang, label, members } = Astro.props;
   <div class="catalogue">
     <section class="group" data-group={members[0]?.data.group} aria-label={label}>
       <ul class="shelf shelf-wrap" role="list">
-        {members.map((p) => (
-          <PersonCard person={p} headingLevel="h2" />
+        {members.map((p, i) => (
+          <PersonCard person={p} headingLevel="h2" eager={i === 0} />
         ))}
       </ul>
     </section>

@@ -8,9 +8,11 @@ interface Props {
   headingLevel?: 'h2' | 'h3' | 'h4';
   // "Read next" backup suggestion: hidden unless the read-marks script needs it.
   fallback?: boolean;
+  // The first card on a page whose portrait is the main image on screen (Largest Contentful Paint).
+  eager?: boolean;
 }
 
-const { person, headingLevel: Heading = 'h3', fallback = false } = Astro.props;
+const { person, headingLevel: Heading = 'h3', fallback = false, eager = false } = Astro.props;
 const { data, lang } = person;
 const draft = person.data.status === 'draft'; // only ever rendered in dev
 const fresh = !draft && isNew(person);
@@ -28,7 +30,7 @@ const fresh = !draft && isNew(person);
   data-search={searchText(person)}
 >
   <article class="person">
-    <Portrait person={person} class="person-portrait" widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" />
+    <Portrait person={person} class="person-portrait" widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" loading={eager ? 'eager' : 'lazy'} />
     <p class="person-years">{lifespan(person)}</p>
     <Heading class="person-name">
       <a href={personUrl(person)}>{data.name}</a>

@@ -11,4 +11,8 @@ The catalogue includes people who had a lasting impact on Ukrainian statehood, c
 
 ## Privacy
 
+The site itself sets no cookies and shows no ads. We count visits with Cloudflare Web Analytics, which uses no cookies and collects no personal data: we see only totals, such as which pages are read and from which countries.
+
 “Read” marks are stored only in your browser and are never sent anywhere. To reset them, clear this site's data in your browser settings.
+
+The [feedback form](/en/feedback/) is run by Tally. It receives only what you enter in it, plus the page language and the profile you wrote from. To have a message you sent deleted, write to us through the same form.

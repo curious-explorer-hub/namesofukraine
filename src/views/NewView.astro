@@ -19,15 +19,15 @@ const batches = additionBatches(await getPeople(lang));
   </header>
 
   {
-    batches.map((b) => (
+    batches.map((b, bi) => (
       <section class="batch" aria-labelledby={`batch-${b.date.getTime()}`}>
         <h2 id={`batch-${b.date.getTime()}`} class="section-title">
           {b.atLaunch ? t('new.at_launch', lang) : t('new.added_on', lang, { date: fullDate(b.date, false, lang) })}{' '}
           <span class="section-count">{b.people.length}</span>
         </h2>
         <ul class="shelf shelf-wrap" role="list">
-          {b.people.map((p) => (
-            <PersonCard person={p} />
+          {b.people.map((p, i) => (
+            <PersonCard person={p} eager={bi === 0 && i === 0} />
           ))}
         </ul>
       </section>
