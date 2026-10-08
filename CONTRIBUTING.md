@@ -6,7 +6,7 @@ Thank you for helping «Знай своїх» / Know Your Own. The site is a non
 
 | You want to… | Do this |
 |---|---|
-| Suggest a person, report a mistake, offer a photo | Use the form on the site: [Зворотний зв'язок / Feedback](https://namesofukraine.pages.dev/uk/feedback/). No GitHub account needed. |
+| Suggest a person, report a mistake, offer a photo | Use the form on the site: [Зворотний зв'язок / Feedback](https://namesofukraine.com/uk/feedback/). No GitHub account needed. |
 | Join the team (research, writing, translation, photos, code) | Choose "Join the team" in the same form; we'll reply with a starter task. |
 | Fix or add something yourself | Open a pull request (below). |
 | Report a security problem | Privately, see [docs/SECURITY.md](docs/SECURITY.md). Never in a public issue. |

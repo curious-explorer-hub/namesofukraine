@@ -8,7 +8,7 @@ import { homedir } from 'node:os';
 import { join } from 'node:path';
 
 const FORM_ID = 'A7Vpkl'; // https://tally.so/r/A7Vpkl (see src/site.ts)
-const SITE = 'https://namesofukraine.pages.dev';
+const SITE = 'https://namesofukraine.com';
 const args = process.argv.slice(2);
 const sinceArg = args.includes('--since') ? args[args.indexOf('--since') + 1] : null;
 const showEmail = args.includes('--show-email');

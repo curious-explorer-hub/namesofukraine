@@ -4,7 +4,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 ## What this is
 
-**«Знай своїх» / Know Your Own** (namesofukraine.com; soft launch at <https://namesofukraine.pages.dev>): a free, non-profit, static website about the people who made Ukraine, for readers of all ages. Each person has a short, sourced profile in Ukrainian and English, plus a portrait, birthplace and links to related people. No ads, no paywall, no login, no tracking cookies.
+**«Знай своїх» / Know Your Own** (<https://namesofukraine.com>; soft launch was at `namesofukraine.pages.dev`, which now redirects): a free, non-profit, static website about the people who made Ukraine, for readers of all ages. Each person has a short, sourced profile in Ukrainian and English, plus a portrait, birthplace and links to related people. No ads, no paywall, no login, no tracking cookies.
 
 **Goals:** accurate, neutral, sourced profiles; fast and accessible on a phone; $0 hosting; easy to keep up to date. The full spec (capabilities, acceptance criteria, decisions, editorial policy) is in [product_vision.md](product_vision.md).
 

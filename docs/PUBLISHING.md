@@ -2,7 +2,7 @@
 
 How content gets from this repository to the live site, and what to do when it doesn't.
 
-**Live site:** <https://namesofukraine.pages.dev> (soft launch; `namesofukraine.com` later, see [BACKLOG.md](BACKLOG.md), L3).
+**Live site:** <https://namesofukraine.com> (Cloudflare Pages custom domain; the project's own address `namesofukraine.pages.dev` redirects to it).
 **Hosting:** Cloudflare **Pages** project `namesofukraine`.
 **Deploys:** GitHub Actions, workflow `.github/workflows/ci.yml`.
 
@@ -17,7 +17,7 @@ edit files ──► commit ──► push to main ──► CI (GitHub Actions)
 3. **CI runs every check**, in this order, and stops at the first failure:
    dependency advisories → type and content schema check → unit tests → production build → "nothing private in `dist/`" → browser smoke tests → Lighthouse budget.
 4. **CI deploys** `dist/` to the Cloudflare Pages project with `wrangler pages deploy` (the first run also creates the project if it's missing).
-5. The new version is live at `namesofukraine.pages.dev` as soon as the deploy step finishes. Each deploy also gets its own preview address (`https://<id>.namesofukraine.pages.dev`), shown at the end of the deploy step's log.
+5. The new version is live at `namesofukraine.com` as soon as the deploy step finishes. Each deploy also gets its own preview address (`https://<id>.namesofukraine.pages.dev`), shown at the end of the deploy step's log.
 
 Pull requests run all the checks but **never deploy**; only `main` does.
 
@@ -36,7 +36,7 @@ npm run dev        # http://localhost:4321, shows drafts too
 
 1. **GitHub → Actions → CI**: the run for your commit should be green, with the step **Deploy to Cloudflare Pages** finished (not "skipped").
 2. **Cloudflare dashboard → Workers & Pages → `namesofukraine`** (the one marked *Pages*) → **Deployments**: the newest deployment should match your commit.
-3. **Open the page** on `namesofukraine.pages.dev`. If you still see the old version, reload without cache (Shift + reload), or try a private window.
+3. **Open the page** on `namesofukraine.com`. If you still see the old version, reload without cache (Shift + reload), or try a private window.
 
 ### If something went wrong
 
@@ -47,7 +47,7 @@ npm run dev        # http://localhost:4321, shows drafts too
 | Deploy step fails with an authentication error | The Cloudflare API token expired or lost its permission | Create a new token and update the secret |
 | The page you expect is a 404 | The profile is still `status: draft`, its English file is missing, or the slug differs | Check both files; build locally and look in `dist/` |
 | A browser can't open the site at all, but CI deployed | Your computer cached an old DNS answer | Try another network, a phone, or a private window |
-| You're looking at `*.workers.dev` and it's out of date | That's a separate **Worker**, not this site (see below) | Use `namesofukraine.pages.dev` |
+| You're looking at `*.workers.dev` and it's out of date | That's a separate **Worker**, not this site (see below) | Use `namesofukraine.com` |
 
 ### A separate Worker exists: ignore or delete it
 

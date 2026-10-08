@@ -18,7 +18,7 @@
 3. **Beautiful and fast.** An editorial, Awwwards-level look on a static, near-zero-cost stack.
 4. **Free forever.** No ads, no paywall, no tracking cookies. Voluntary donations are welcome (§3.6).
 
-**Brand:** «Знай своїх» (EN "Know Your Own"). Headline: «Імена, з яких складається Україна» ("The names Ukraine is made of"). Domain: `namesofukraine.com` (soft launch on `namesofukraine.pages.dev`).
+**Brand:** «Знай своїх» (EN "Know Your Own"). Headline: «Імена, з яких складається Україна» ("The names Ukraine is made of"). Domain: `namesofukraine.com` (registered 2026-10-08; soft launch on `namesofukraine.pages.dev` from 2026-10-05).
 
 ## 2. Audiences
 
