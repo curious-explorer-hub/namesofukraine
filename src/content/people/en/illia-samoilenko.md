@@ -11,7 +11,7 @@ key_accomplishments:
   - "Defender of the Fatherland Medal (Decree No. 256/2022)"
   - "Survived 120 days in solitary confinement in Russian captivity; freed in an exchange in 2022"
 birthplace_name: "Kyiv"
-image_alt: "Drawing: Illia Samoilenko in a helmet firing a rifle, holding it with his prosthetic hand"
+image_alt: "Bearded Illia Samoilenko in camouflage with “Samoilenko” and “Azov” name tapes, in front of the red building of Kyiv University"
 ---
 
 ## A hook for a hand

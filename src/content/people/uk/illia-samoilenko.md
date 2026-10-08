@@ -22,11 +22,12 @@ places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "обороняв «Азовсталь» 2022 року" }
 image:
   src: ./images/illia-samoilenko.jpg
-  alt: "Малюнок: Ілля Самойленко в шоломі стріляє з автомата, тримаючи його протезом руки"
-  position: "50% 20%"
-  author: "Андрій Данкович"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ілля_Самойленко.jpg"
+  alt: "Ілля Самойленко з бородою, у камуфляжі з нашивками «Самойленко» та «Азов», на тлі червоного корпусу Київського університету"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.kyivpost.com/uk/post/56392"
+  fair_use: true
 sources:
   - title: "Указ Президента України № 256/2022 «Про відзначення державними нагородами України» (17 квітня 2022)"
     url: "https://zakon.rada.gov.ua/laws/show/256/2022"
@@ -38,7 +39,8 @@ sources:
     url: "https://www.kyivpost.com/uk/post/56392"
 related: [sviatoslav-palamar, denys-prokopenko]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-08T04:35:00Z
 ---
 
 ## Гак замість руки
