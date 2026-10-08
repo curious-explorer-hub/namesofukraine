@@ -3,7 +3,10 @@ import { contemporaries, yearsInCommon } from './timeline';
 
 const d = (iso: string) => new Date(`${iso}T00:00:00Z`);
 const now = d('2026-10-07');
-const person = (slug: string, born: string, died?: string) => ({ slug, data: { born: d(born), died: died ? d(died) : undefined } });
+const person = (slug: string, born: string, died?: string, group = 'statehood', tags = ['warrior']) => ({
+  slug,
+  data: { born: d(born), died: died ? d(died) : undefined, group, tags },
+});
 
 describe('yearsInCommon', () => {
   it('is the overlap of two lifetimes', () => {
@@ -38,5 +41,16 @@ describe('contemporaries', () => {
 
   it('keeps at most `limit`', () => {
     expect(contemporaries(sirko, people, [], 1, now)).toHaveLength(1);
+  });
+
+  it('puts people from the same field first, then fills up with others', () => {
+    const skovoroda = person('skovoroda', '1722-12-03', '1794-11-09', 'literature', ['philosopher', 'poet']);
+    const crowd = [
+      person('rozumovskyi', '1728-03-18', '1803-01-09'),
+      person('kalnyshevskyi', '1690-01-01', '1803-11-12'),
+      person('kotliarevskyi', '1769-09-09', '1838-11-10', 'literature', ['writer']),
+      person('borovykovskyi', '1757-07-24', '1825-04-06', 'visual-arts', ['artist', 'poet']),
+    ];
+    expect(contemporaries(skovoroda, crowd, [], 3, now).map((c) => c.person.slug)).toEqual(['borovykovskyi', 'kotliarevskyi', 'kalnyshevskyi']);
   });
 });
