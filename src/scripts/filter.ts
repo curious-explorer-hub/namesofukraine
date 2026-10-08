@@ -132,7 +132,7 @@ export function initFilters() {
     const count = link.querySelector<HTMLElement>('.tile-count')!;
     link.dataset.baseHref ??= link.getAttribute('href') ?? '';
     count.textContent = String(unread ? remaining : link.dataset.total);
-    link.setAttribute('href', unread ? `${link.dataset.baseHref}?unread=1` : link.dataset.baseHref);
+    link.setAttribute('href', unread ? `${link.dataset.baseHref}&unread=1` : link.dataset.baseHref);
     item.hidden = remaining === 0;
   }
 

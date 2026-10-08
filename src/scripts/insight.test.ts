@@ -3,9 +3,9 @@ import { observe, type InsightData, type InsightPerson } from './insight';
 
 const data: InsightData = {
   groups: {
-    literature: { label: 'Література', url: '/uk/groups/literature/' },
-    science: { label: 'Наука', url: '/uk/groups/science/' },
-    sport: { label: 'Спорт', url: '/uk/groups/sport/' },
+    literature: { label: 'Література', url: '/uk/?group=literature' },
+    science: { label: 'Наука', url: '/uk/?group=science' },
+    sport: { label: 'Спорт', url: '/uk/?group=sport' },
   },
   facts: [{ text: 'fact A', href: '/a/', link: 'A' }, { text: 'fact B' }],
   strings: {

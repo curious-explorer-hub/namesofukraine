@@ -90,7 +90,7 @@ See the domain section of [post-launch.md](post-launch.md): register `namesofukr
 
 ## The feedback form (Tally)
 
-The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/en/feedback/`; the old `/suggest/` addresses redirect) embeds one bilingual Tally form: **<https://tally.so/r/A7Vpkl>**, in the owner's Tally workspace (free plan). Every profile ends with a "Report a mistake" link that opens the page as `/feedback/?type=correction&profile=<slug>`; the page passes `lang`, `type` and `profile` into the form as **hidden fields** (`src/lib/suggest.ts`), so each response shows which profile it's about.
+The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/en/feedback/`) embeds one bilingual Tally form: **<https://tally.so/r/A7Vpkl>**, in the owner's Tally workspace (free plan). Every profile ends with a "Report a mistake" link that opens the page as `/feedback/?type=correction&profile=<slug>`; the page passes `lang`, `type` and `profile` into the form as **hidden fields** (`src/lib/suggest.ts`), so each response shows which profile it's about.
 
 **Questions** (bilingual labels): what the message is about (new person / correction to a profile / photo or other addition / something else, required) · who it's about (optional) · the message (required) · sources or links (optional) · email for a reply (optional) · reCAPTCHA. Email notifications for new responses go to the owner's Tally account.
 

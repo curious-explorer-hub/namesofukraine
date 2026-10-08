@@ -4,7 +4,7 @@ Do these once the site is live on Cloudflare Pages (done 2026-10-05, [product_vi
 
 ## Launch day
 
-- [ ] **Smoke check the live site.** Open `/` (should redirect to `/uk/`), a profile in each language, a category page, and a made-up URL such as `/uk/people/test/` (should show the friendly 404 page). Use the language switch once.
+- [ ] **Smoke check the live site.** Open `/` (should redirect to `/uk/`), a profile in each language, a field filter such as `/uk/?group=science`, and a made-up URL such as `/uk/people/test/` (should show the friendly 404 page). Use the language switch once.
 - [ ] **Security headers are live.** In the browser's developer tools, open Network → the page request → Response headers, and check for `Content-Security-Policy` and `Strict-Transport-Security`. Or run the site through <https://securityheaders.com>; it should score A or better. The console must show no CSP errors.
 - [ ] **Cloudflare Web Analytics** (L10, decision D11). In the Cloudflare dashboard open **Workers & Pages → your Pages project → Metrics → Web Analytics → Enable**, then deploy again. Cloudflare adds the measurement script itself; the site's CSP already allows it (`static.cloudflareinsights.com`, `cloudflareinsights.com`). Within an hour, visit the site yourself and confirm a page view appears. The script uses no cookies, so no consent banner is needed.
 - [ ] **Uptime monitor.** Create a free monitor at <https://uptimerobot.com>: HTTP(s), URL `https://namesofukraine.pages.dev/uk/` (change it to the `.org` later), every 5 minutes, alert by email.

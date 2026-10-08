@@ -64,7 +64,7 @@ export const freeImage = (p: Person) => (p.data.image?.fair_use ? undefined : p.
 
 export const localePath = (lang: Lang, path: string) => `/${lang}${path}`;
 export const personUrl = (p: Person) => localePath(p.lang, `/people/${p.slug}/`);
-export const groupUrl = (id: string, lang: Lang = 'uk') => localePath(lang, `/groups/${id}/`);
+export const groupUrl = (id: string, lang: Lang = 'uk') => localePath(lang, `/?group=${id}`);
 
 const label = (items: { id: string; label: Record<string, string> }[], id: string, lang: Lang) =>
   items.find((i) => i.id === id)?.label[lang] ?? id;

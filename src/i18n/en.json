@@ -46,8 +46,6 @@
   "new.added_on": "Added {date}",
   "new.feed_description": "New profiles of prominent Ukrainians",
   "home.recent_all": "All new people",
-  "group.lead": "Everyone in \"{group}\". Search by name or narrow down by era and region.",
-  "group.count": "{n} in this field",
   "collections.lead": "People united by interesting themes.",
   "collections.count": "{n} in this collection",
   "nav.skip": "Skip to content",

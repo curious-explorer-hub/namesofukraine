@@ -5,13 +5,11 @@ import { t, type Lang } from '../i18n';
 interface Props {
   people: Person[];
   lang: Lang;
-  // On a category page the group is fixed, so the group dropdown is not shown.
-  hideGroup?: boolean;
   // The reading progress line; the home page shows it as a card above the tabs instead (ReadProgress).
   progress?: boolean;
 }
 
-const { people, lang, hideGroup = false, progress = true } = Astro.props;
+const { people, lang, progress = true } = Astro.props;
 // Only offer options that actually have people, so no filter leads to an empty page.
 const used = (key: (p: Person) => string) => new Set(people.map(key));
 const usedGroups = used((p) => p.data.group);
@@ -31,16 +29,10 @@ const regionIds = [...used((p) => p.data.birthplace.region)].sort((a, b) =>
     aria-label={t('filter.search', lang)}
     autocomplete="off"
   />
-  {
-    hideGroup ? (
-      <input type="hidden" name="group" value="" />
-    ) : (
-      <select name="group" aria-label={t('filter.group_all', lang)}>
-        <option value="">{t('filter.group_all', lang)}</option>
-        {groups.filter((g) => usedGroups.has(g.id)).map((g) => <option value={g.id}>{g.label[lang]}</option>)}
-      </select>
-    )
-  }
+  <select name="group" aria-label={t('filter.group_all', lang)}>
+    <option value="">{t('filter.group_all', lang)}</option>
+    {groups.filter((g) => usedGroups.has(g.id)).map((g) => <option value={g.id}>{g.label[lang]}</option>)}
+  </select>
   {/* Set from the collection tiles' links (?collection=); there is no visible control for it. */}
   <input type="hidden" name="collection" value="" />
   <select name="era" aria-label={t('filter.era_all', lang)}>

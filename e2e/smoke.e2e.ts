@@ -58,12 +58,13 @@ test('the language switch keeps the same person', async ({ page }) => {
   await expect(page.locator('html')).toHaveAttribute('lang', 'uk');
 });
 
-test('a category page lists its people and filters within them', async ({ page }) => {
-  await page.goto('/en/groups/performing-arts/');
-  const before = await page.locator('.shelf > li:visible').count();
-  expect(before).toBeGreaterThan(1);
-  await page.locator('input[name="q"]').fill('Lifar');
-  await expect(page.locator('.shelf > li:visible')).toHaveCount(1);
+test("a profile's era and field link to the home page, filtered", async ({ page }) => {
+  await page.goto('/en/people/roksolana/');
+  await page.locator('.profile a[href*="?group="]').click();
+  await expect(page).toHaveURL(/\/en\/\?group=statehood$/);
+  await expect(page.locator('select[name="group"]')).toHaveValue('statehood');
+  await expect(page.locator('.tile-item[data-group="statehood"] .tile')).toHaveAttribute('aria-current', 'true');
+  expect(await page.locator(visibleCards).count()).toBeGreaterThan(1);
 });
 
 test('the home page shows one way to browse at a time, as tabs', async ({ page }) => {
@@ -105,17 +106,17 @@ test('the birthplace map filters by region, and the list does the same', async (
 test.describe('without JavaScript', () => {
   test.use({ javaScriptEnabled: false });
 
-  test('the home page shows the group tiles, each linking to its category page', async ({ page }) => {
+  test('the home page shows the group tiles, each linking to its filter', async ({ page }) => {
     await page.goto('/uk/');
     await expect(page.locator('.tile')).not.toHaveCount(0);
     await expect(page.locator('.map-svg:not(.map-svg-world)')).toBeVisible(); // every panel is shown, one after another
     await expect(page.locator('.map-world-card')).not.toHaveCount(0); // and the continent cards, as pictures
     await page.locator('.tile').first().click();
-    await expect(page).toHaveURL(/\/uk\/groups\/[a-z-]+\/$/);
+    await expect(page).toHaveURL(/\/uk\/\?group=[a-z-]+$/);
   });
 
   test('the full list is shown and the filter bar is hidden', async ({ page }) => {
-    await page.goto('/uk/groups/statehood/');
+    await page.goto('/uk/?group=statehood');
     await expect(page.locator('form.filters')).toBeHidden();
     expect(await page.locator('.shelf > li:visible').count()).toBeGreaterThan(1);
   });
