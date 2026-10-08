@@ -29,6 +29,7 @@ const initials = [words[0], words.length > 1 ? words.at(-1) : undefined].map((w)
         widths={widths}
         sizes={sizes}
         loading={loading}
+        fetchpriority={loading === 'eager' ? 'high' : undefined}
         style={`object-position: ${position}`}
       />
     </Tag>

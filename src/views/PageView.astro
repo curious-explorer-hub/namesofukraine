@@ -125,7 +125,11 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
       <section class="suggest-form" id="form" aria-label={t('suggest.form_label', lang)}>
         {SUGGEST_FORM_URL ? (
           <>
-            <iframe src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} data-suggest-form data-lang={lang} title={t('suggest.form_label', lang)} loading="lazy" />
+            {/* The form (about 1.7 MB from Tally) loads on request, or at once when the reader came to write
+                (a "Tell us" link on a profile, ?type=); without JavaScript it is embedded as before. */}
+            <button class="suggest-open" type="button" data-suggest-open>{t('suggest.write', lang)}</button>
+            <iframe data-suggest-form data-src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} data-lang={lang} title={t('suggest.form_label', lang)} hidden />
+            <noscript><iframe src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} title={t('suggest.form_label', lang)} loading="lazy" /></noscript>
             <p><a href={SUGGEST_FORM_URL}>{t('suggest.open_form', lang)}</a></p>
           </>
         ) : (
@@ -138,11 +142,18 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
 
 <script>
   // A "Report a mistake" link on a profile opens /feedback/?type=correction&profile=<slug>: pass that on
-  // to the embedded form, so the message arrives tagged with the profile.
+  // to the embedded form, so the message arrives tagged with the profile, and open the form at once.
   import { suggestEmbedUrl } from '../lib/suggest';
   const frame = document.querySelector<HTMLIFrameElement>('[data-suggest-form]');
+  const open = document.querySelector<HTMLButtonElement>('[data-suggest-open]');
   const params = new URLSearchParams(location.search);
-  if (frame && (params.has('profile') || params.has('type'))) {
-    frame.src = suggestEmbedUrl(frame.src, { lang: frame.dataset.lang ?? 'uk', type: params.get('type'), profile: params.get('profile') });
+  if (frame && open) {
+    const load = () => {
+      frame.src = suggestEmbedUrl(frame.dataset.src!, { lang: frame.dataset.lang ?? 'uk', type: params.get('type'), profile: params.get('profile') });
+      frame.hidden = false;
+      open.remove();
+    };
+    if (params.has('profile') || params.has('type')) load();
+    else open.addEventListener('click', () => { load(); frame.focus(); });
   }
 </script>

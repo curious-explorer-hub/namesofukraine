@@ -53,6 +53,10 @@ Ask in this repository:
 - Dependabot pull requests: review and merge; CI fails on new, unreviewed advisories (`scripts/check-audit.mjs`).
 - Portraits still missing ([BACKLOG.md](BACKLOG.md), L15): follow up on permission requests.
 
+## Yearly
+
+- `public/.well-known/security.txt`: move `Expires` a year ahead (next: before 2027-10-08); an expired file tells reporters the contact is stale.
+
 ## Feedback log
 
 One line per weekly review: date · submissions reviewed (ids) · outcome. No names of senders, no emails.

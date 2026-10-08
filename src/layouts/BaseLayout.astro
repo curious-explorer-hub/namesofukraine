@@ -3,6 +3,7 @@ import '../styles/global.css';
 import { t, languages, type Lang } from '../i18n';
 import { localePath } from '../lib/people';
 import { jsonForScript } from '../lib/json';
+import { shortDescription } from '../lib/meta';
 // Same mark as the favicon, inlined so it scales crisply and needs no extra request.
 import mark from '../../public/favicon.svg?raw';
 
@@ -37,7 +38,7 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={shortDescription(description)} />
     {
       noindex ? (
         <meta name="robots" content="noindex" />
@@ -62,16 +63,21 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
     <script is:inline src="/theme.js"></script>
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <!-- Browser bar colour on phones: the page background (--paper in global.css) in each theme -->
+    <meta name="theme-color" content="#f6f8fb" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0e1524" media="(prefers-color-scheme: dark)" />
     <link rel="alternate" type="application/rss+xml" title={t('site.title', lang)} href={new URL(localePath(lang, '/rss.xml'), Astro.site)} />
     <slot name="head" />
-    <!-- The filter bar, the explore tabs and the map's region list need JavaScript. They are visible from
+    <!-- The filter bar, the explore tabs, the map's region list and the feedback form's button need JavaScript. They are visible from
          the first paint (no layout shift when the script starts) and hidden only for visitors without it. -->
-    <noscript><style>.theme-toggle, .filters, .map-side, .explore-tabs, .progress-card, .daily-hero { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
+    <noscript><style>.theme-toggle, .filters, .map-side, .explore-tabs, .progress-card, .daily-hero, .suggest-open { display: none !important; } .explore-panel[hidden] { display: block !important; }</style></noscript>
     {structuredData.map((item) => <script is:inline type="application/ld+json" set:html={jsonForScript(item)} />)}
     <link rel="preload" href="/fonts/FixelDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/FixelText-Regular.woff2" as="font" type="font/woff2" crossorigin />
   </head>
   <body>
+    <a class="skip-link" href="#main">{t('nav.skip', lang)}</a>
     <header class="site-header">
       <div class="container site-header-inner">
         <a class="logo" href={home} aria-label={t('nav.home_label', lang)}>
@@ -89,13 +95,13 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
           <div class="switch lang-toggle" role="group" aria-label={t('lang.label', lang)} data-active={lang}>
             <span class="switch-thumb" aria-hidden="true"></span>
             {languages.map((l) => (
-              <a class="switch-option" href={pathIn(l)} hreflang={l} lang={l} aria-current={l === lang ? 'true' : undefined} aria-label={l === lang ? undefined : t('lang.switch_label', lang)}>{langShort[l]}</a>
+              <a class="switch-option" href={pathIn(l)} hreflang={l} lang={l} aria-current={l === lang ? 'true' : undefined}>{langShort[l]}{l !== lang && <span class="visually-hidden" lang={lang}> - {t('lang.switch_label', lang)}</span>}</a>
             ))}
           </div>
         </nav>
       </div>
     </header>
-    <main class="container">
+    <main class="container" id="main" tabindex="-1">
       <slot />
     </main>
     <footer class="site-footer">

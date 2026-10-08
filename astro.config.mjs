@@ -1,5 +1,5 @@
 // @ts-check
-import { renameSync, rmdirSync } from 'node:fs';
+import { readdirSync, readFileSync, renameSync, rmdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
@@ -20,19 +20,55 @@ const languageNotFoundPages = {
   },
 };
 
+// The draft review pages (`/uk/admin/drafts/`, `/en/admin/drafts/`) are for `npm run dev` only. A static
+// build can't answer 404 for a page, so remove them from the output.
+/** @type {import('astro').AstroIntegration} */
+const devOnlyPages = {
+  name: 'dev-only-pages',
+  hooks: {
+    'astro:build:done': ({ dir }) => {
+      for (const lang of ['uk', 'en']) rmSync(fileURLToPath(new URL(`${lang}/admin/`, dir)), { recursive: true, force: true });
+    },
+  },
+};
+
+// Sitemap <lastmod> for profile pages (both languages): the later of `last_reviewed` and `published` in
+// the uk file's frontmatter.
+const peopleDir = new URL('./src/content/people/uk/', import.meta.url);
+const profileDates = new Map(
+  readdirSync(peopleDir)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => {
+      const frontmatter = readFileSync(new URL(f, peopleDir), 'utf8').split(/\n---/)[0];
+      const dates = [...frontmatter.matchAll(/^(?:last_reviewed|published): *(\S+)/gm)].map((m) => new Date(m[1]).getTime());
+      return [f.slice(0, -3), new Date(Math.max(...dates)).toISOString()];
+    }),
+);
+
 export default defineConfig({
   integrations: [
     languageNotFoundPages,
+    devOnlyPages,
     // Lists every built page (production builds hold only reviewed profiles) with uk/en alternates.
-    // Left out: the error pages and the bare root, which only redirects to /uk/.
+    // Left out: the error pages, the dev-only admin pages, the home page's card list (a fragment, not a
+    // page) and the bare root, which only redirects to /uk/.
     sitemap({
-      filter: (page) => !/\/404\/?$/.test(new URL(page).pathname) && new URL(page).pathname !== '/',
+      filter: (page) => {
+        const path = new URL(page).pathname;
+        return !/\/404\/?$/.test(path) && !/^\/(uk|en)\/(admin|home-cards)\//.test(path) && path !== '/';
+      },
       i18n: { defaultLocale: 'uk', locales: { uk: 'uk-UA', en: 'en-US' } },
+      serialize: (item) => {
+        const slug = new URL(item.url).pathname.match(/^\/(?:uk|en)\/people\/([^/]+)\/$/)?.[1];
+        return slug && profileDates.has(slug) ? { ...item, lastmod: profileDates.get(slug) } : item;
+      },
     }),
   ],
   // Inline the (small, ~5 KB compressed) stylesheet: removes the render-blocking request that held back
   // the first paint on mobile (Lighthouse, AC10). Allowed by style-src 'unsafe-inline' in public/_headers.
   build: { inlineStylesheets: 'always' },
+  // Fetch a page when the pointer rests on or focuses its link, so the click opens it at once.
+  prefetch: { prefetchAll: true, defaultStrategy: 'hover' },
   vite: {
     build: {
       // Never inline scripts, so the Content-Security-Policy in public/_headers can allow only

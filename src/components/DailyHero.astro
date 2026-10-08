@@ -1,34 +1,15 @@
 ---
-import { getImage } from 'astro:assets';
-import { lifespan, personUrl, type Person } from '../lib/people';
 import { t, type Lang } from '../i18n';
-import { jsonForScript } from '../lib/json';
 
 interface Props {
-  people: Person[];
   lang: Lang;
 }
 
-const { people, lang } = Astro.props;
-const md = (d: Date) => `${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
-// Everyone is embedded so the browser can pick by the visitor's local date (no server needed).
-const entries = await Promise.all(
-  people.map(async (p) => ({
-    slug: p.slug,
-    born: p.data.born_circa ? null : md(p.data.born),
-    died: p.data.died ? md(p.data.died) : null,
-    name: p.data.name,
-    role: p.data.role,
-    years: lifespan(p),
-    url: personUrl(p),
-    img: p.data.image ? (await getImage({ src: p.data.image.src, width: 240, format: 'webp' })).src : null,
-    alt: p.data.image?.alt ?? null,
-  })),
-);
+const { lang } = Astro.props;
 ---
 
-<!-- Filled in by the script for the visitor's date. Until then it keeps its place, invisible, so nothing
-     below it moves; hidden without JS (noscript style in BaseLayout). -->
+<!-- Filled in for the visitor's date from the home page's card list (src/scripts/daily-hero.ts). Until then
+     it keeps its place, invisible, so nothing below it moves; hidden without JS (noscript style in BaseLayout). -->
 <aside class="daily-hero" data-daily-hero data-pending aria-labelledby="daily-hero-label">
   <a class="daily-hero-card" data-hero-link href="#">
     <span class="daily-hero-portrait portrait"><img data-hero-img src="" alt="" width="120" height="120" /></span>
@@ -47,9 +28,3 @@ const entries = await Promise.all(
     </span>
   </a>
 </aside>
-<script is:inline type="application/json" id="daily-hero-data" set:html={jsonForScript(entries)} />
-
-<script>
-  import { initDailyHero } from '../scripts/daily-hero';
-  initDailyHero();
-</script>

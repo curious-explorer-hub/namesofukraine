@@ -1,6 +1,6 @@
 # Names of Ukraine — namesofukraine.com
 
-**«Знай своїх»** (Know Your Own). A free static website about the people who made Ukraine, for the young generation.
+**«Знай своїх»** (Know Your Own). A free static website about the people who made Ukraine, for readers of all ages.
 
 Product vision, requirements, and decisions: see [product_vision.md](product_vision.md). Status, priorities and the ideas backlog: [docs/BACKLOG.md](docs/BACKLOG.md) (start there to resume work). How changes go live (CI, Cloudflare Pages, rollback): [docs/PUBLISHING.md](docs/PUBLISHING.md). Weekly feedback review and other recurring work: [MAINTENANCE.md](docs/MAINTENANCE.md). People we plan to add: [CANDIDATES.md](docs/CANDIDATES.md).
 

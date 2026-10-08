@@ -184,6 +184,50 @@ test('a field tile filters on the home page, keeping the tabs and the other fiel
   await expect(page.locator('.catalogue')).not.toHaveAttribute('data-filtering');
 });
 
+test('the daily hero is filled in from the card list fetched after load', async ({ page }) => {
+  await page.goto('/uk/');
+  const hero = page.locator('[data-daily-hero]');
+  await expect(hero).not.toHaveAttribute('data-pending');
+  await expect(hero.locator('[data-hero-name]')).not.toBeEmpty();
+  await expect(hero.locator('[data-hero-link]')).toHaveAttribute('href', /^\/uk\/people\/[^/]+\/$/);
+});
+
+test('the language switch names the other language in the language of the page', async ({ page }) => {
+  await page.goto('/uk/');
+  const other = page.locator('.lang-toggle a:not([aria-current])');
+  await expect(other).toHaveAccessibleName('EN - читати англійською');
+  await expect(other.locator('.visually-hidden')).toHaveAttribute('lang', 'uk');
+});
+
+test.describe('feedback form', () => {
+  // Tally is never contacted from tests; only whether the page asks for it.
+  test.beforeEach(({ page }) => page.route('https://tally.so/**', (route) => route.fulfill({ body: '' })));
+
+  test('loads only after "Write to us" is clicked', async ({ page }) => {
+    const tally: string[] = [];
+    page.on('request', (r) => r.url().startsWith('https://tally.so/') && tally.push(r.url()));
+    await page.goto('/uk/feedback/');
+    const frame = page.locator('iframe[data-suggest-form]');
+    await expect(frame).toBeHidden();
+    await expect(frame).not.toHaveAttribute('src');
+    expect(tally).toEqual([]);
+
+    await page.getByRole('button', { name: 'Написати нам' }).click();
+    await expect(frame).toBeVisible();
+    await expect(frame).toHaveAttribute('src', /^https:\/\/tally\.so\//);
+    await expect(page.getByRole('button', { name: 'Написати нам' })).toHaveCount(0);
+  });
+
+  test('opens at once from a "Report a mistake" link, tagged with the profile', async ({ page }) => {
+    await page.goto('/en/feedback/?type=correction&profile=roksolana#form');
+    const frame = page.locator('iframe[data-suggest-form]');
+    await expect(frame).toBeVisible();
+    await expect(frame).toHaveAttribute('src', /profile=roksolana/);
+    await expect(frame).toHaveAttribute('src', /type=correction/);
+    await expect(page.getByRole('button', { name: 'Write to us' })).toHaveCount(0);
+  });
+});
+
 test('an unknown address shows the friendly not-found page in the right language', async ({ page }) => {
   const response = await page.goto('/en/people/no-such-person/');
   expect(response?.status()).toBe(404);

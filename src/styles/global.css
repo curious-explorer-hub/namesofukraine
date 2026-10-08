@@ -92,6 +92,10 @@ body { margin: 0; }
 a { color: var(--cobalt); }
 :focus-visible { outline: 3px solid var(--wheat); outline-offset: 2px; }
 
+/* Shown only when reached with the keyboard (Tab), at the top of the page */
+.skip-link { position: absolute; top: 0.5rem; left: 0.5rem; z-index: 10; padding: 0.6rem 1rem; border-radius: 999px; background: var(--ink); color: var(--paper); font-weight: 600; text-decoration: none; translate: 0 -200%; }
+.skip-link:focus { translate: none; }
+main:focus { outline: none; }
 .visually-hidden {
   position: absolute !important;
   width: 1px; height: 1px;
@@ -1089,6 +1093,8 @@ a { color: var(--cobalt); }
 .page-body h2 { font-family: var(--font-display); font-weight: 700; font-size: var(--step-2); letter-spacing: -0.015em; line-height: 1.15; margin: 2.5rem 0 0.75rem; }
 .suggest-form { max-width: 42rem; margin-top: 2rem; }
 .suggest-form iframe { width: 100%; min-height: 36rem; border: 0; background: var(--surface, #fff); border-radius: 4px; }
+.suggest-open { padding: 0.7rem 1.4rem; border: 0; border-radius: 999px; background: var(--cobalt); color: var(--paper); font: inherit; font-weight: 600; cursor: pointer; transition: background-color 150ms; }
+.suggest-open:hover { background: var(--ink); }
 .suggest-pending { padding: 1rem 1.25rem; background: var(--mist); border-radius: 4px; }
 /* About / Support: links to support, join, and the social pages */
 .prose .link-buttons { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; padding: 0; margin: 1.25rem 0 0; }

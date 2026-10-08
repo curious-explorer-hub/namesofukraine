@@ -8,7 +8,7 @@ export interface HeroEntry {
   died: string | null; // "MM-DD"
 }
 
-// What the page needs to show the picked person (embedded by DailyHero.astro).
+// What the page needs to show the picked person (read from the home page's cards).
 export interface HeroCard extends HeroEntry {
   name: string;
   role: string;
@@ -42,11 +42,34 @@ export function pickHero<T extends HeroEntry>(entries: T[], today: Date): { entr
   return { entry: choose(entries), kind: 'featured' };
 }
 
+// The people on the home page, from the card list (src/components/HomeCatalogue.astro), each once.
+export function cardEntries(root: ParentNode = document): HeroCard[] {
+  const entries = new Map<string, HeroCard>();
+  for (const item of root.querySelectorAll<HTMLElement>('.catalogue .person-item[data-slug]')) {
+    const link = item.querySelector<HTMLAnchorElement>('.person-name a');
+    const img = item.querySelector<HTMLImageElement>('.person-portrait img');
+    // The smallest file in the srcset (240 px) is plenty for the round portrait.
+    const smallest = img?.srcset.split(',').map((s) => s.trim().split(/\s+/)).sort((a, b) => parseInt(a[1]) - parseInt(b[1]))[0]?.[0];
+    if (!link || entries.has(item.dataset.slug!)) continue;
+    entries.set(item.dataset.slug!, {
+      slug: item.dataset.slug!,
+      born: item.dataset.born ?? null,
+      died: item.dataset.died ?? null,
+      name: link.textContent!.trim(),
+      role: item.querySelector('.person-role')?.textContent?.trim() ?? '',
+      years: item.querySelector('.person-years')?.textContent?.trim() ?? '',
+      url: link.getAttribute('href')!,
+      img: smallest ?? img?.getAttribute('src') ?? null,
+      alt: img ? img.alt : null,
+    });
+  }
+  return [...entries.values()];
+}
+
 export function initDailyHero() {
   const root = document.querySelector<HTMLElement>('[data-daily-hero]');
-  const data = document.querySelector<HTMLScriptElement>('#daily-hero-data');
-  if (!root || !data) return;
-  const entries: HeroCard[] = JSON.parse(data.textContent ?? '[]');
+  if (!root) return;
+  const entries = cardEntries();
   const today = new Date();
   const picked = pickHero(entries, today);
   if (!picked) return void (root.hidden = true);

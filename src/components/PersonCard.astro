@@ -1,5 +1,5 @@
 ---
-import { personUrl, tagLabel, lifespan, isNew, searchText, type Person } from '../lib/people';
+import { personUrl, tagLabel, lifespan, isNew, searchText, monthDay, type Person } from '../lib/people';
 import Portrait from './Portrait.astro';
 import { t } from '../i18n';
 
@@ -8,9 +8,13 @@ interface Props {
   headingLevel?: 'h2' | 'h3' | 'h4';
   // "Read next" backup suggestion: hidden unless the read-marks script needs it.
   fallback?: boolean;
+  // The first card on a page whose portrait is the main image on screen (Largest Contentful Paint).
+  eager?: boolean;
+  // Birth and death "MM-DD" for the daily hero (home page card list only; no birthday when the date is approximate).
+  dates?: boolean;
 }
 
-const { person, headingLevel: Heading = 'h3', fallback = false } = Astro.props;
+const { person, headingLevel: Heading = 'h3', fallback = false, eager = false, dates = false } = Astro.props;
 const { data, lang } = person;
 const draft = person.data.status === 'draft'; // only ever rendered in dev
 const fresh = !draft && isNew(person);
@@ -26,9 +30,11 @@ const fresh = !draft && isNew(person);
   data-region={data.birthplace.region}
   data-collections={data.collections.join(',')}
   data-search={searchText(person)}
+  data-born={dates && !data.born_circa ? monthDay(data.born) : undefined}
+  data-died={dates && data.died ? monthDay(data.died) : undefined}
 >
   <article class="person">
-    <Portrait person={person} class="person-portrait" widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" />
+    <Portrait person={person} class="person-portrait" widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" loading={eager ? 'eager' : 'lazy'} />
     <p class="person-years">{lifespan(person)}</p>
     <Heading class="person-name">
       <a href={personUrl(person)}>{data.name}</a>

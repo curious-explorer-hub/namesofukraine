@@ -29,8 +29,24 @@ const ISO: Record<string, string> = {
 };
 
 type Ring = [number, number][];
-const ringPath = (ring: Ring) =>
-  'M' + ring.map(([lon, lat]) => project(lon, lat).map((v) => v.toFixed(1)).join(',')).join('L') + 'Z';
+// A closed SVG path through points rounded to 1/scale unit, written as relative steps (`l`) in whole
+// rounding units so they add up exactly: the same outline as absolute coordinates in about half the
+// bytes (the maps are in every home page). Also used by src/lib/world.ts.
+export const svgPath = (points: [number, number][], scale: number) => {
+  const steps: string[] = [];
+  let [px, py] = [0, 0];
+  for (const point of points) {
+    const [x, y] = point.map((v) => Math.round(v * scale));
+    if (steps.length && x === px && y === py) continue; // rounds onto the previous point
+    steps.push(`${(x - px) / scale},${(y - py) / scale}`);
+    [px, py] = [x, y];
+  }
+  // Fewer than 3 points (an islet at this scale) draws nothing, and an empty `l` would be an error that
+  // stops the browser drawing the rest of the path.
+  return steps.length < 3 ? '' : `M${steps[0]}l${steps.slice(1).join(' ')}Z`;
+};
+
+export const ringPath = (ring: Ring) => svgPath(ring.map(([lon, lat]) => project(lon, lat)), 10);
 
 export interface MapRegion {
   id: string;

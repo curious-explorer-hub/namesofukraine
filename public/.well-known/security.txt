@@ -1,0 +1,5 @@
+# Security contact for namesofukraine (RFC 9116). Renew "Expires" every year (docs/MAINTENANCE.md).
+Contact: https://github.com/curious-explorer-hub/namesofukraine/security/advisories/new
+Policy: https://github.com/curious-explorer-hub/namesofukraine/blob/main/docs/SECURITY.md
+Preferred-Languages: uk, en
+Expires: 2027-10-08T00:00:00Z
