@@ -17,11 +17,12 @@ places:
   - { name: "Полтава", lat: 49.589, lon: 34.551, note: "похований на Алеї Героїв Затуринського кладовища; парк його імені" }
 image:
   src: ./images/yevhenii-brakh.jpg
-  alt: "Мальований портрет Євгенія Браха для проєкту «Стріткод»"
-  position: "50% 30%"
-  author: "Сергій Федоров для проєкту «Стріткод. Історія на кожному кроці» (ГО «Історична платформа»)"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Yevhenii_Brakh_Streetcode_Portret.jpg"
+  alt: "Євгеній Брах у темній футболці, зі схрещеними руками"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorial.ua/obituaries/militaries/brah-ievhenii-10604"
+  fair_use: true
 key_accomplishments:
   - "П'ять років служби у Французькому іноземному легіоні (2015-2020), зокрема в Малі й Французькій Гвіані; капрал"
   - "Навесні 2022 року повернувся з Франції, щоб воювати за Україну"
@@ -37,7 +38,8 @@ sources:
   - title: "«Стріткод. Історія на кожному кроці» - Євгеній Брах «Малі»"
     url: "https://streetcodes.in.ua/streetcodes/yevhenii-brakh/"
 related: [maksym-yalovtsov]
-status: draft
+status: approved
+published: 2026-10-08T02:15:34Z
 ---
 
 ## Чому «Малі»?

@@ -10,7 +10,7 @@ key_accomplishments:
   - "Machine gunner in the Special Operations Forces; took part in preparing the Snake Island operation"
   - "Order for Courage, 3rd class (posthumously)"
 birthplace_name: "Mashivka, Poltava region"
-image_alt: "Drawn portrait of Yevhenii Brakh for the Streetcode project"
+image_alt: "Yevhenii Brakh in a dark T-shirt, arms crossed"
 ---
 
 ## Why “Mali”?

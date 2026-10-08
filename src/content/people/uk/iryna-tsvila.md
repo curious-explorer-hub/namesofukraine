@@ -15,8 +15,8 @@ places:
   - { name: "Ірпінь", lat: 50.522, lon: 30.25, note: "обороняла місто від російських танків у лютому 2022 року" }
 image:
   src: ./images/iryna-tsvila.jpg
-  alt: "Ірина Цвіла у військовій формі біля блокпоста"
-  position: "50% 20%"
+  alt: "Усміхнена Ірина Цвіла у формі з нашивкою «Україна»"
+  position: "50% 30%"
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://www.ukrinform.ua/rubric-ato/3413348-u-boah-za-kiiv-zaginula-clen-vo-svoboda-irina-cvila.html"
@@ -38,7 +38,8 @@ sources:
     url: "https://memorial.ua/obituaries/militaries/tsvila-iryna-6639"
 related: []
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-08T02:15:34Z
 ---
 
 ## Цвіла калина, цвіла Ірина

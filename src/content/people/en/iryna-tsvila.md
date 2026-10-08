@@ -11,7 +11,7 @@ key_accomplishments:
   - "Defended the Kyiv region from the first days of the full-scale invasion"
   - "Order for Courage, 3rd class (posthumously; Decree No. 689/2022)"
 birthplace_name: "Brovary, Kyiv region"
-image_alt: "Iryna Tsvila in military uniform at a checkpoint"
+image_alt: "A smiling Iryna Tsvila in uniform with a «Ukraine» patch"
 ---
 
 ## Easy to remember

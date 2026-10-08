@@ -33,7 +33,8 @@ sources:
   - title: "МІПЛ - В окупованому Донецьку до довічного засудили командира 36 бригади морпіхів Баранюка, який боронив Маріуполь"
     url: "https://mipl.org.ua/v-okupovanomu-doneczku-do-dovichnogo-zasudyly-komandyra-36-brygady-morpihiv-baranyuka-yakyj-boronyv-mariupol/"
 related: [serhii-volynskyi, yevhenii-bova]
-status: draft
+status: approved
+published: 2026-10-08T02:15:34Z
 ---
 
 ## Хто побив, той і полонив

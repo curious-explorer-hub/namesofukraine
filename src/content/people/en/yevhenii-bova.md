@@ -15,7 +15,7 @@ image_alt: "Yevhenii Bova in a Marine beret, arms folded"
 
 ## When the brigade commander vanished
 
-In spring 2022, Ukrainian marines were fighting a losing siege in Mariupol. When the commander of the [36th Separate Marine Brigade](/en/people/volodymyr-baraniuk/), Volodymyr Baraniuk, was taken prisoner, Lieutenant Colonel Yevhenii Bova stepped up to lead the brigade himself. He'd spent eight years rising through the ranks of a marine battalion in Mykolaiv, from platoon to battalion commander.
+In spring 2022, Ukrainian marines were fighting a losing siege in Mariupol. When the commander of the 36th Separate Marine Brigade, [Volodymyr Baraniuk](/en/people/volodymyr-baraniuk/), was taken prisoner, Lieutenant Colonel Yevhenii Bova stepped up to lead the brigade himself. He'd spent eight years rising through the ranks of a marine battalion in Mykolaiv, from platoon to battalion commander.
 
 Bova was born in 1993 in the village of Staroavramivka in the Poltava region. After military lyceum he studied at the Ground Forces academy, then from 2014 served in the 1st Separate Marine Battalion. Years before the full-scale war, he spent four years holding the line in the shelled village of Shyrokyne in the Donetsk region.
 

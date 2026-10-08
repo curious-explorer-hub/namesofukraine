@@ -11,6 +11,7 @@ key_accomplishments:
   - "Volunteer in the defense of Kyiv in 2022"
   - "Order for Courage, 3rd class (posthumously, Decree No. 81/2023 of 15 February 2023)"
 birthplace_name: "Unknown (Memorial says Russia, no town named)"
+image_alt: "Maksym Yalovtsov in uniform and a helmet with a rifle, a helicopter behind him"
 ---
 
 ## The athlete who taught civilians
