@@ -36,7 +36,8 @@ sources:
   - title: "LB.ua - AF Command gave feedback on article in The Times (30.04.2022)"
     url: "https://en.lb.ua/news/2022/04/30/14058_af_command_gave_feedback_article.html"
 related: []
-status: draft
+status: approved
+published: 2026-10-08T01:56:35Z
 ---
 
 ## Труба, фортепіано і небо

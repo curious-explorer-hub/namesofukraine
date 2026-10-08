@@ -37,7 +37,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Паєвська_Юлія_Георгіївна
 related: []
 collections: [women-army, defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-08T01:56:35Z
 ---
 
 ## Камера для Netflix

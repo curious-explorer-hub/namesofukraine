@@ -39,7 +39,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Паламар_Святослав_Ярославович
 related: [denys-prokopenko, serhii-volynskyi]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-08T01:56:35Z
 ---
 
 ## Чому «Калина»?
