@@ -16,11 +16,29 @@ places:
   - { name: "Маріуполь", lat: 47.096, lon: 37.549, note: "оборона міста й заводу «Азовсталь», 2022" }
 image:
   src: ./images/mykhailo-dianov.jpg
-  alt: "Михайло Діанов усміхається й показує знак перемоги після повернення з полону, рука на перев'язі"
-  position: "50% 20%"
-  author: "Служба безпеки України"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:SSU_report_on_liberation_of_the_defenders_of_Azovstal,_2022.09.21_(05).jpg"
+  alt: "Усміхнений Михайло Діанов у чорній футболці згинає праву руку й показує біцепс"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://vikna.tv/istorii/rozpovidi/istoriya-myhajla-dianova-zahysnyka-azovstali-yakyj-povernuvsya-dodomu/"
+  fair_use: true
+gallery:
+  - src: ./images/mykhailo-dianov-two-photos.jpg
+    alt: "Два знімки поруч: ліворуч бородатий Михайло Діанов на «Азовсталі» з перебинтованою рукою, праворуч він же, худий і поголений, після полону; на обох він показує знак перемоги"
+    caption: "Ті самі дві фотографії: на «Азовсталі» і після звільнення з полону, 2022 рік"
+    section: 1
+    fair_use: true
+    author: "Дмитро Козацький (ліворуч), Служба безпеки України (праворуч)"
+    license: "Fair use"
+    source_url: "https://vikna.tv/istorii/rozpovidi/istoriya-myhajla-dianova-zahysnyka-azovstali-yakyj-povernuvsya-dodomu/"
+  - src: ./images/mykhailo-dianov-after-captivity.jpg
+    alt: "Виснажений Михайло Діанов без сорочки, з викривленою травмованою правою рукою, слабко всміхається"
+    caption: "Після звільнення з полону, вересень 2022 року"
+    section: 3
+    fair_use: true
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://vikna.tv/istorii/rozpovidi/istoriya-myhajla-dianova-zahysnyka-azovstali-yakyj-povernuvsya-dodomu/"
 key_accomplishments:
   - "Доброволець від січня 2015 року: спершу в десантних військах, потім у морській піхоті"
   - "Старший сержант 36-ї окремої бригади морської піхоти, учасник оборони Маріуполя та «Азовсталі» (2022)"
@@ -37,7 +55,8 @@ sources:
     url: "https://life.pravda.com.ua/society/2022/10/14/250846/"
 related: [serhii-volynskyi, kateryna-polishchuk, dmytro-kozatskyi]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-08T04:03:43Z
 ---
 
 ## Дві фотографії

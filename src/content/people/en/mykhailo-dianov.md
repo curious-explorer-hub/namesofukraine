@@ -10,7 +10,12 @@ key_accomplishments:
   - "Came home from Russian captivity in the prisoner exchange of 21 September 2022"
   - "Gave the 23.4 million hryvnias raised for his treatment to treat fellow soldiers (October 2022)"
 birthplace_name: "Ternopil"
-image_alt: "Mykhailo Dianov smiling and making a victory sign after his return from captivity, his arm in a sling"
+image_alt: "A smiling Mykhailo Dianov in a black T-shirt flexing his right arm to show his biceps"
+gallery:
+  - alt: "Two photos side by side: on the left a bearded Mykhailo Dianov at Azovstal with a bandaged arm, on the right the same man, thin and shaven, after captivity; in both he makes a victory sign"
+    caption: "The same two photos: at Azovstal and after his release from captivity, 2022"
+  - alt: "An emaciated Mykhailo Dianov, shirtless, his injured right arm misshapen, smiling faintly"
+    caption: "After his release from captivity, September 2022"
 ---
 
 ## Two photos
