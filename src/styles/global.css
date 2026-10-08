@@ -92,6 +92,10 @@ body { margin: 0; }
 a { color: var(--cobalt); }
 :focus-visible { outline: 3px solid var(--wheat); outline-offset: 2px; }
 
+/* Shown only when reached with the keyboard (Tab), at the top of the page */
+.skip-link { position: absolute; top: 0.5rem; left: 0.5rem; z-index: 10; padding: 0.6rem 1rem; border-radius: 999px; background: var(--ink); color: var(--paper); font-weight: 600; text-decoration: none; translate: 0 -200%; }
+.skip-link:focus { translate: none; }
+main:focus { outline: none; }
 .visually-hidden {
   position: absolute !important;
   width: 1px; height: 1px;

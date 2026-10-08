@@ -47,14 +47,14 @@ Target: under 50 KB compressed HTML and main content under 2.5 s in Lighthouse m
 
 ## P2: polish and launch hygiene
 
-- [ ] **13. Skip link.** No "skip to content" link (WCAG 2.4.1).
-- [ ] **14. Language switch label.** It shows "EN" but is labelled "Читати англійською" (and on English pages shows "УКР" but is labelled "Читати українською"), failing Lighthouse's label-content-name-mismatch (WCAG 2.5.3) on every page. Start the label with the visible text.
-- [ ] **15. Meta descriptions.** Profiles use the 300-character summary (Google cuts at about 160); `en/about` (40 characters) and `en/new` (33) are too short.
-- [ ] **16. Sitemap `lastmod`**, from `last_reviewed` or `published`.
-- [ ] **17. `/.well-known/security.txt`**, pointing to the contact in [SECURITY.md](SECURITY.md).
-- [ ] **18. `theme-color` meta tag and a web manifest** (for "add to home screen" on phones).
-- [ ] **19. About page: who runs the site, a contact, and the corrections and sourcing policy** for readers (product_vision.md §7 has it, but it isn't public).
-- [ ] **20. Analytics preconnect.** Lighthouse suggests a preconnect to `cloudflareinsights.com` (about 240 ms); the beacon loads after the page, so this matters little.
+- [x] **13. Skip link.** No "skip to content" link (WCAG 2.4.1). *Done 2026-10-08: «Перейти до змісту» / "Skip to content", shown on Tab, moves focus to `main`.*
+- [x] **14. Language switch label.** It shows "EN" but is labelled "Читати англійською" (and on English pages shows "УКР" but is labelled "Читати українською"), failing Lighthouse's label-content-name-mismatch (WCAG 2.5.3) on every page. Start the label with the visible text. *Done 2026-10-08: the link reads "EN - читати англійською" (visible text plus hidden text, no `aria-label`).*
+- [x] **15. Meta descriptions.** Profiles use the 300-character summary (Google cuts at about 160); `en/about` (40 characters) and `en/new` (33) are too short. *Done 2026-10-08: search descriptions are cut to 100–160 characters (whole sentences when they say enough, else at a word with "…", `src/lib/meta.ts`); share cards keep the full summary. About and New got longer descriptions in both languages (text awaits the owner's review).*
+- [x] **16. Sitemap `lastmod`**, from `last_reviewed` or `published`. *Done 2026-10-08: profiles (both languages) get the later of `last_reviewed` and `published`; other pages have none.*
+- [x] **17. `/.well-known/security.txt`**, pointing to the contact in [SECURITY.md](SECURITY.md). *Done 2026-10-08: `public/.well-known/security.txt` points to GitHub's private vulnerability reporting (on, repository public); expires 2027-10-08, renewal added to MAINTENANCE.md (Yearly).*
+- [x] **18. `theme-color` meta tag and a web manifest** (for "add to home screen" on phones). *Done 2026-10-08: `theme-color` per theme and `public/site.webmanifest` (name, start page, the SVG and 180 px icons).*
+- [ ] **19. About page: who runs the site, a contact, and the corrections and sourcing policy** for readers (product_vision.md §7 has it, but it isn't public). *Partly done 2026-10-08: a «Як ми перевіряємо факти» / "How we check facts" section (sources, neutral tone, approval, how to report a mistake) drafted in both languages from §7, awaiting the owner's review. Open: who runs the site, which only the owner can write.*
+- [x] **20. Analytics preconnect.** Lighthouse suggests a preconnect to `cloudflareinsights.com` (about 240 ms); the beacon loads after the page, so this matters little. *Checked 2026-10-08: no change. Cloudflare adds the beacon after the page loads; an early connection to a third party on every page would compete with the main image on slow phones.*
 
 ## Content to settle before promotion
 

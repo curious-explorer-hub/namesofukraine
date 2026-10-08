@@ -12,7 +12,7 @@ const { lang } = Astro.props;
 const batches = additionBatches(await getPeople(lang));
 ---
 
-<BaseLayout lang={lang} title={t('new.title', lang)} description={t('new.lead', lang)}>
+<BaseLayout lang={lang} title={t('new.title', lang)} description={t('new.description', lang)}>
   <header class="page-head">
     <h1 class="page-title">{t('new.title', lang)}</h1>
     <p class="page-lead">{t('new.lead', lang)}</p>

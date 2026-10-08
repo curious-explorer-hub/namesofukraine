@@ -1,5 +1,5 @@
 // @ts-check
-import { renameSync, rmdirSync, rmSync } from 'node:fs';
+import { readdirSync, readFileSync, renameSync, rmdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
@@ -32,6 +32,19 @@ const devOnlyPages = {
   },
 };
 
+// Sitemap <lastmod> for profile pages (both languages): the later of `last_reviewed` and `published` in
+// the uk file's frontmatter.
+const peopleDir = new URL('./src/content/people/uk/', import.meta.url);
+const profileDates = new Map(
+  readdirSync(peopleDir)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => {
+      const frontmatter = readFileSync(new URL(f, peopleDir), 'utf8').split(/\n---/)[0];
+      const dates = [...frontmatter.matchAll(/^(?:last_reviewed|published): *(\S+)/gm)].map((m) => new Date(m[1]).getTime());
+      return [f.slice(0, -3), new Date(Math.max(...dates)).toISOString()];
+    }),
+);
+
 export default defineConfig({
   integrations: [
     languageNotFoundPages,
@@ -45,6 +58,10 @@ export default defineConfig({
         return !/\/404\/?$/.test(path) && !/^\/(uk|en)\/(admin|home-cards)\//.test(path) && path !== '/';
       },
       i18n: { defaultLocale: 'uk', locales: { uk: 'uk-UA', en: 'en-US' } },
+      serialize: (item) => {
+        const slug = new URL(item.url).pathname.match(/^\/(?:uk|en)\/people\/([^/]+)\/$/)?.[1];
+        return slug && profileDates.has(slug) ? { ...item, lastmod: profileDates.get(slug) } : item;
+      },
     }),
   ],
   // Inline the (small, ~5 KB compressed) stylesheet: removes the render-blocking request that held back
