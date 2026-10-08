@@ -7,6 +7,7 @@
 
 import land from '../content/geo/world-land.json';
 import oblasts from '../content/geo/ukraine-oblasts.json';
+import { svgPath } from './map';
 
 type Point = [number, number];
 
@@ -68,7 +69,7 @@ export function frame(id: ContinentId): ContinentFrame {
   const k = WIDTH / ((f.east - f.west) * cos);
   const project = (lon: number, lat: number): Point => [(lon - f.west) * cos * k, (f.north - lat) * k];
   // Whole SVG units are enough at this size (a card is 300 units across).
-  const path = (ring: Point[]) => 'M' + ring.map(([lon, lat]) => project(lon, lat).map(Math.round).join(',')).join('L') + 'Z';
+  const path = (ring: Point[]) => svgPath(ring.map(([lon, lat]) => project(lon, lat)), 1);
   const box = { west: f.west - 1, east: f.east + 1, south: f.south - 1, north: f.north + 1 };
   const touches = (ring: Point[]) => ring.some(([lon, lat]) => lon >= box.west && lon <= box.east && lat >= box.south && lat <= box.north);
 
