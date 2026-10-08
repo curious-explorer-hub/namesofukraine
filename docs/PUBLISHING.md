@@ -84,9 +84,9 @@ Names only; the values live in GitHub and Cloudflare, never in this repository.
 
 Repository protections (protected `main`, approval for outside contributors' workflows, secret scanning) are described in [SECURITY.md](SECURITY.md). Never commit tokens, `.env` files or keys; CI fails if `dist/` contains repository files or secrets (`scripts/check-dist.mjs`).
 
-## Moving to the real domain
+## The domain
 
-See the domain section of [post-launch.md](post-launch.md): register `namesofukraine.com`, add it under the Pages project's **Custom domains**, set `site` in `astro.config.mjs`, push, and redirect the `pages.dev` address to it.
+`namesofukraine.com` is registered at Cloudflare Registrar (auto-renew on) and added under the Pages project's **Custom domains**; `site` in `astro.config.mjs` uses it for canonical URLs and the sitemap. `www.namesofukraine.com` and `namesofukraine.pages.dev` redirect to it with an account-level Cloudflare Bulk Redirect (`_redirects` can't match on the host name).
 
 ## The feedback form (Tally)
 

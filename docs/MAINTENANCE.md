@@ -1,6 +1,6 @@
 # Maintenance
 
-Recurring work that keeps the site accurate and alive. Publishing mechanics are in [docs/PUBLISHING.md](PUBLISHING.md); the post-launch checks in [docs/post-launch.md](post-launch.md).
+Recurring work that keeps the site accurate and alive. Publishing mechanics are in [docs/PUBLISHING.md](PUBLISHING.md).
 
 ## Recurring tasks
 

@@ -6,7 +6,7 @@ Open and in-progress work only. What the site must do, the rules, and what's alr
 
 - **Live:** <https://namesofukraine.com> (since 2026-10-08; the soft-launch address `namesofukraine.pages.dev` redirects there), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
 - **Content:** 138 profiles published in Ukrainian and English; 15 drafts awaiting the owner's review.
-- **Next milestone:** public launch = search engines (L7) + social pages and promotion (L11, L13).
+- **Next milestone:** public launch = social pages and promotion (L11, L13).
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
 
 ## Now: priorities
@@ -24,7 +24,6 @@ In order. Pick from the top.
 
 ## Launch checklist
 
-- [ ] **L7. Search engines.** Code done. Open: Google Search Console + Bing Webmaster Tools and sitemap submission for `namesofukraine.com` (not the `pages.dev` address). *Owner.*
 - [ ] **L11. Social and support accounts.** Code done. Open: pick the social handle (`@znaisvoikh` or `@namesofukraine`), create Instagram, Threads and a Monobank jar («банка») (Patreon is set), and set their URLs in `src/site.ts` (`SOCIAL_LINKS`, `SUPPORT_LINKS`); until then the pages say "coming soon". In Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*
 - [ ] **L13. Instagram/Threads posts per batch** (D13-E). Share cards, fun facts and misconceptions are ready-made posts.
 
