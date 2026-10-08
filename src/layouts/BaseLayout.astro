@@ -95,7 +95,7 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
           <div class="switch lang-toggle" role="group" aria-label={t('lang.label', lang)} data-active={lang}>
             <span class="switch-thumb" aria-hidden="true"></span>
             {languages.map((l) => (
-              <a class="switch-option" href={pathIn(l)} hreflang={l} lang={l} aria-current={l === lang ? 'true' : undefined}>{langShort[l]}{l !== lang && <span class="visually-hidden"> - {t('lang.switch_label', lang)}</span>}</a>
+              <a class="switch-option" href={pathIn(l)} hreflang={l} lang={l} aria-current={l === lang ? 'true' : undefined}>{langShort[l]}{l !== lang && <span class="visually-hidden" lang={lang}> - {t('lang.switch_label', lang)}</span>}</a>
             ))}
           </div>
         </nav>
