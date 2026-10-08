@@ -2,8 +2,6 @@
 
 How profiles are written: curiosity first, facts intact. For readers of every age a profile should read like a story a friend tells, not an encyclopedia entry. Rules on facts and sources stay as in [product_vision.md](../product_vision.md) §7; this guide is about how the text sounds.
 
-**Status:** adopted 2026-10-06 after a pilot on Taras Shevchenko and Dmytro Kotsiubailo.
-
 ## The idea
 
 Every profile and every section opens with a **hook**: a question, a surprise or a twist that makes the reader want the next sentence. Then the text explains what actually happened. The facts are the same as before; only the order and the voice change.

@@ -36,6 +36,7 @@ sources:
   - title: "АрміяInform - Загинула, рятуючи поранених: Інна Дерусова - перша жінка, яка посмертно отримала звання Героя України (13 березня 2022)"
     url: "https://armyinform.com.ua/2022/03/13/zagynula-ryatuyuchy-poranenyh-inna-derusova-persha-zhinka-yaka-posmertno-otrymala-zvannya-geroya-ukrayiny/"
 related: []
+collections: [women-army]
 status: approved
 published: 2026-10-08T02:49:56Z
 ---

@@ -35,6 +35,7 @@ sources:
   - title: Вікіпедія - Цибух Ірина Володимирівна
     url: https://uk.wikipedia.org/wiki/Цибух_Ірина_Володимирівна
 related: [roman-ratushnyi]
+collections: [women-army]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
