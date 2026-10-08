@@ -4,6 +4,7 @@
   "person.accomplishments": "Key accomplishments",
   "person.sources": "Sources",
   "person.image_credit": "Image",
+  "person.photo_credit": "Photo in the story",
   "person.image_colorized": "colorized with AI (Gemini)",
   "person.image_fair_use": "used under fair use, not covered by the CC BY-SA license",
   "person.image_restored": "restored with AI (Gemini)",

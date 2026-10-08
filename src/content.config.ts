@@ -60,7 +60,9 @@ const people = defineCollection({
         // share images or structured data, and excluded from the site's CC BY-SA license.
         image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored', 'rendered']).optional(), fair_use: z.boolean().optional(), ...credit }).optional(),
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
-        gallery: z.array(z.object({ src: image(), caption: z.string(), ...credit })).default([]),
+        // Photos in the story: each one closes the `section`-th `##` section of the bio (both languages
+        // keep the same sections). `fair_use` as for `image`: on the profile only.
+        gallery: z.array(z.object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), fair_use: z.boolean().optional(), ...credit })).default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),
         collections: z.array(z.enum(ids(collectionsData.collections))).default([]),
@@ -87,6 +89,8 @@ const people_en = defineCollection({
     key_accomplishments: z.array(z.string()).min(1),
     birthplace_name: z.string(),
     image_alt: z.string().optional(),
+    // Same order as `gallery` in the Ukrainian file
+    gallery: z.array(z.object({ alt: z.string(), caption: z.string() })).default([]),
   }),
 });
 

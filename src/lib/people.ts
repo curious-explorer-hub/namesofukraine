@@ -26,7 +26,7 @@ const localize = (profile: Profile, translation: Translation | undefined, lang: 
     return { slug, lang, data: profile.data, body: profile, bodyFallback: lang !== 'uk' };
   }
   const tr = translation.data;
-  const { image, birthplace } = profile.data;
+  const { image, birthplace, gallery } = profile.data;
   return {
     slug,
     lang,
@@ -40,6 +40,7 @@ const localize = (profile: Profile, translation: Translation | undefined, lang: 
       key_accomplishments: tr.key_accomplishments,
       birthplace: { ...birthplace, name: tr.birthplace_name },
       image: image && { ...image, alt: tr.image_alt ?? image.alt },
+      gallery: gallery.map((g, i) => ({ ...g, ...tr.gallery[i] })),
     },
     body: translation.body?.trim() ? translation : profile,
     bodyFallback: !translation.body?.trim(),

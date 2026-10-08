@@ -4,6 +4,7 @@
   "person.accomplishments": "Ключові досягнення",
   "person.sources": "Джерела",
   "person.image_credit": "Зображення",
+  "person.photo_credit": "Фото в тексті",
   "person.image_colorized": "кольоризовано за допомогою ШІ (Gemini)",
   "person.image_fair_use": "використано на умовах добросовісного використання (fair use), не підпадає під ліцензію CC BY-SA",
   "person.image_restored": "відреставровано за допомогою ШІ (Gemini)",

@@ -33,6 +33,16 @@ const bio = (person.body.rendered?.html ?? '').replace(
   /<a href="\/(?:uk|en)\/people\/([^/"]+)\/">(.*?)<\/a>/g,
   (link, slug, text) => (published.has(slug) ? link : text),
 );
+// Story photos (`gallery`): each one closes its section of the bio, under the text it illustrates.
+const escape = (text: string) => text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+const sections = bio.split(/(?=<h2)/);
+const offset = sections[0].startsWith('<h2') ? 1 : 0;
+for (const g of data.gallery) {
+  const img = await getImage({ src: g.src, widths: [480, 720, 1080], format: 'webp' });
+  const i = Math.min(g.section - offset, sections.length - 1);
+  sections[i] += `<figure class="story-photo"><img src="${img.src}" srcset="${img.srcSet.attribute}" sizes="(min-width: 48rem) 42rem, 100vw" width="${g.src.width}" height="${g.src.height}" alt="${escape(g.alt)}" loading="lazy" decoding="async"><figcaption>${escape(g.caption)}</figcaption></figure>`;
+}
+const story = sections.join('');
 // Only link related people that are published in this build.
 const related = data.related
   .map((slug) => people.find((p) => p.slug === slug))
@@ -124,7 +134,7 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
 
       {person.bodyFallback && <p class="translation-note">{t('person.translation_pending', lang)}</p>}
       <div class="prose" lang={person.bodyFallback ? 'uk' : undefined}>
-        <Fragment set:html={bio} />
+        <Fragment set:html={story} />
       </div>
 
       <footer class="profile-sources" data-read-end>
@@ -143,6 +153,12 @@ const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birt
             </p>
           )
         }
+        {data.gallery.map((g) => (
+          <p>
+            {t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, {g.license}
+            {g.fair_use && `; ${t('person.image_fair_use', lang)}`}
+          </p>
+        ))}
         {data.living && <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>}
         <p class="profile-report"><a href={localePath(lang, `/feedback/?type=correction&profile=${person.slug}`)}>{t('person.report', lang)}</a></p>
       </footer>

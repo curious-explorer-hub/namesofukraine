@@ -27,6 +27,15 @@ image:
   author: "Дмитро Козацький"
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:ДмитроКозацький.jpg"
+gallery:
+  - src: ./images/dmytro-kozatskyi-svitlo.jpg
+    alt: "Промінь світла падає крізь зруйновану стелю цеху в темряву; у ньому стоїть боєць із розкинутими руками"
+    caption: "Найвідоміший кадр серії «Світло переможе». «Азовсталь», 2022 рік"
+    section: 2
+    fair_use: true
+    author: "Дмитро Козацький"
+    license: "Fair use"
+    source_url: "https://adamovskiy.foundation/wp-content/uploads/2025/01/655aa32b6f1491000f33ee2b_optimized.jpeg"
 sources:
   - title: "Указ Президента України № 256/2022 «Про відзначення державними нагородами України» (17 квітня 2022)"
     url: "https://zakon.rada.gov.ua/laws/show/256/2022"
@@ -38,7 +47,8 @@ sources:
     url: "https://euromaidanpress.com/2022/09/22/more-azovstal-defenders-return-home-from-russian-captivity-after-pow-exchange/"
 related: [denys-prokopenko, sviatoslav-palamar]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-07T22:25:25Z
 ---
 
 ## Очі «Азовсталі»
