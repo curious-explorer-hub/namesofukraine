@@ -11,14 +11,14 @@ The catalogue includes people who had a lasting impact on Ukrainian statehood, c
 
 ## How we check facts
 
-Every profile rests on at least two reliable sources, one of them an encyclopedia (the Encyclopedia of Modern Ukraine, the Encyclopedia of the History of Ukraine or the Internet Encyclopedia of Ukraine); Wikipedia alone isn't enough. The sources are listed at the end of each profile. People whose role is judged in different ways are described neutrally, with a "Debates and assessments" section. An editor reads and approves every profile before it's published.
+We check every fact against at least two reliable sources. The sources are listed at the end of each profile. People whose role is judged in different ways are described neutrally, with a "Debates and assessments" section. An editor reads and approves every profile before it's published.
 
 Spotted a mistake? Use the "Tell us" link at the end of the profile or the [feedback form](/en/feedback/). We check every correction against sources, and requests about living people come first.
 
 ## Privacy
 
-The site itself sets no cookies and shows no ads. We count visits with Cloudflare Web Analytics, which uses no cookies and collects no personal data: we see only totals, such as which pages are read and from which countries.
+The site sets no cookies, shows no ads and collects no personal data. We see only visit totals, such as which pages are read and from which countries.
 
 “Read” marks are stored only in your browser and are never sent anywhere. To reset them, clear this site's data in your browser settings.
 
-The [feedback form](/en/feedback/) is run by Tally. It receives only what you enter in it, plus the page language and the profile you wrote from. To have a message you sent deleted, write to us through the same form.
+The [feedback form](/en/feedback/) receives only what you enter in it, plus the page language and the profile you wrote from. To have a message you sent deleted, write to us through the same form.
