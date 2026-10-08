@@ -1,0 +1,30 @@
+---
+// Every card, grouped by field: the search and filter results on the home page. Built as its own file
+// (src/pages/{uk,en}/home-cards.astro) and fetched after the home page loads (src/scripts/catalogue.ts),
+// so the page itself stays small; without JavaScript the field tiles link to the full lists instead.
+import PersonCard from './PersonCard.astro';
+import { getPeople, groups, byBirth } from '../lib/people';
+import type { Lang } from '../i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const people = (await getPeople(lang)).sort(byBirth);
+const sections = groups
+  .map((g) => ({ ...g, people: people.filter((p) => p.data.group === g.id) }))
+  .filter((s) => s.people.length > 0);
+---
+
+{
+  sections.map((s) => (
+    <section class="group" data-group={s.id} aria-label={s.label[lang]}>
+      <ul class="shelf" role="list">
+        {s.people.map((p) => (
+          <PersonCard person={p} />
+        ))}
+      </ul>
+    </section>
+  ))
+}

@@ -42,7 +42,7 @@ Target: under 50 KB compressed HTML and main content under 2.5 s in Lighthouse m
 - [x] **8. Main image lazy-loaded on Group and New pages.** The first card's portrait is the largest thing on screen but has `loading="lazy"`. Load the first card's portrait eagerly with `fetchpriority="high"`. *Done 2026-10-08; the profile portrait now also gets `fetchpriority="high"` (Lighthouse's LCP-discovery hint on profiles).*
 - [ ] **9. Load the map on demand.** 76 KB of SVG sits in a hidden tab. Fetch it as a static fragment when the tab opens, or at least round path coordinates to whole numbers (about 30% smaller).
 - [ ] **10. Move the daily-hero data out of the HTML.** 41 KB of inline JSON could be a hashed `.json` file fetched after load (and cached, with P0-1).
-- [ ] **11. Render fewer cards up front** (BACKLOG I18): the first ~24 cards in the HTML, and filter the rest from a small JSON index. At 146 cards this is due now rather than "past ~200".
+- [x] **11. Cards out of the home page** (BACKLOG I18). At 146 cards this is due now rather than "past ~200". *Done 2026-10-08: the result cards are a separate file (`/uk/home-cards/`, `/en/home-cards/`, built from the same `PersonCard`) fetched after load; filters, the map, the insight card and read marks start once it arrives. Without JavaScript nothing changes (the cards were never shown; AC4).*
 - [ ] **12. Feedback page:** load the Tally iframe when the reader clicks a button, so the 1.7 MB isn't loaded on every visit.
 
 ## P2: polish and launch hygiene

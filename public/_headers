@@ -19,3 +19,8 @@
   Cache-Control: public, max-age=31536000, immutable
 /og/*
   Cache-Control: public, max-age=86400
+# The home page's card list, fetched by the page (src/scripts/catalogue.ts); not a page of its own.
+/uk/home-cards/
+  X-Robots-Tag: noindex
+/en/home-cards/
+  X-Robots-Tag: noindex

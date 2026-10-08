@@ -37,11 +37,12 @@ export default defineConfig({
     languageNotFoundPages,
     devOnlyPages,
     // Lists every built page (production builds hold only reviewed profiles) with uk/en alternates.
-    // Left out: the error pages, the dev-only admin pages and the bare root, which only redirects to /uk/.
+    // Left out: the error pages, the dev-only admin pages, the home page's card list (a fragment, not a
+    // page) and the bare root, which only redirects to /uk/.
     sitemap({
       filter: (page) => {
         const path = new URL(page).pathname;
-        return !/\/404\/?$/.test(path) && !/^\/(uk|en)\/admin\//.test(path) && path !== '/';
+        return !/\/404\/?$/.test(path) && !/^\/(uk|en)\/(admin|home-cards)\//.test(path) && path !== '/';
       },
       i18n: { defaultLocale: 'uk', locales: { uk: 'uk-UA', en: 'en-US' } },
     }),

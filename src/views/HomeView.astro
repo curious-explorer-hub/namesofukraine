@@ -10,7 +10,7 @@ import BirthMap from '../components/BirthMap.astro';
 import ExploreTabs from '../components/ExploreTabs.astro';
 import ReadProgress from '../components/ReadProgress.astro';
 import Insight from '../components/Insight.astro';
-import { getPeople, groups, recentlyAdded, byBirth, localePath } from '../lib/people';
+import { getPeople, recentlyAdded, byBirth, localePath } from '../lib/people';
 import { getImage } from 'astro:assets';
 import heroImage from '../assets/hero/independence-monument.jpg';
 import { t, type Lang } from '../i18n';
@@ -22,9 +22,6 @@ interface Props {
 
 const { lang } = Astro.props;
 const people = (await getPeople(lang)).sort(byBirth);
-const sections = groups
-  .map((g) => ({ ...g, people: people.filter((p) => p.data.group === g.id) }))
-  .filter((s) => s.people.length > 0);
 const recent = recentlyAdded(people);
 // Hero background (credit: src/content/hero.json, shown on the About page). It is the largest
 // element on first paint, so it is preloaded; phones show it small and faint, so they get a lighter file.
@@ -74,20 +71,9 @@ const phone = '(max-width: 47.99rem)';
   }
 
 
-  {/* Search and filter results. Without a narrowing filter the group tiles stand in for these sections;
-      every card stays in the page so search and filters cover everyone. */}
-  <div class="catalogue catalogue-results">
-    {
-      sections.map((s) => (
-        <section class="group" data-group={s.id} aria-label={s.label[lang]}>
-          <ul class="shelf" role="list">
-            {s.people.map((p) => (
-              <PersonCard person={p} />
-            ))}
-          </ul>
-        </section>
-      ))
-    }
+  {/* Search and filter results. Without a narrowing filter the group tiles stand in for these sections.
+      The cards, every person once per field, are fetched after load (src/scripts/catalogue.ts). */}
+  <div class="catalogue catalogue-results" data-src={localePath(lang, '/home-cards/')}>
     <p class="catalogue-empty" hidden data-all-read={t('filter.all_read', lang)}>
       {t('filter.empty', lang)}
     </p>
@@ -99,8 +85,12 @@ const phone = '(max-width: 47.99rem)';
   import { initBirthMap } from '../scripts/birth-map';
   import { initExplore } from '../scripts/explore';
   import { initInsight } from '../scripts/insight';
-  initFilters();
-  initBirthMap();
+  import { loadCatalogue } from '../scripts/catalogue';
   initExplore();
-  initInsight();
+  // Filters, the map and the insight card read the people from the cards.
+  loadCatalogue().then(() => {
+    initFilters();
+    initBirthMap();
+    initInsight();
+  });
 </script>
