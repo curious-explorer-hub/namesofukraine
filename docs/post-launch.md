@@ -19,13 +19,3 @@ The site is live on `https://namesofukraine.com` (since 2026-10-08; the soft-lau
 - [ ] **Search Console coverage.** Pages should move from "Discovered" to "Indexed" over a few days to a few weeks. Fix anything under "Not indexed" that should be indexed.
 - [ ] **Core Web Vitals.** Cloudflare shows real-user load times; they should agree with the Lighthouse budget in CI (performance ≥ 90 on mobile).
 
-## Every month (about 15 minutes)
-
-- [ ] **Traffic trend and top pages** (Cloudflare). Which people are read most; which referrers grow. Use this to pick who goes into the next batch and what to post on social media.
-- [ ] **Search queries** (Search Console → Performance). Which searches show the site, where it ranks, and which pages get impressions but few clicks (those may need a better title or summary).
-- [ ] **Dependency updates.** Merge or review Dependabot PRs; CI fails on any new, unreviewed advisory (`scripts/check-audit.mjs`).
-- [ ] **Suggestions and corrections** from the feedback form (product_vision.md §3.6): answer removal or correction requests about living people promptly (§7.6).
-
-## Later, if the basic numbers aren't enough
-
-Cloudflare Web Analytics can't count custom events, such as how many readers reach the end of a story or use the filters. If that becomes worth knowing, add a cookie-free event tool. **GoatCounter** is free for non-commercial sites; **Plausible** is about $9 a month. The site already detects when a story has been read (`src/scripts/read-marks.ts`), so the signal exists. Adding a tool takes about an hour: the script, a CSP update in `public/_headers`, a note on the About page, and a decision recorded in product_vision.md.

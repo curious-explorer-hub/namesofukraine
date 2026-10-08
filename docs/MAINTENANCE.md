@@ -51,8 +51,9 @@ Ask in this repository:
 
 ### Monthly (about 15 minutes)
 
-- Traffic and search: Cloudflare Web Analytics and Search Console (see [docs/post-launch.md](post-launch.md), "Every month").
-- Dependabot pull requests: review and merge; CI fails on new, unreviewed advisories (`scripts/check-audit.mjs`).
+- **Traffic trend and top pages** (Cloudflare Web Analytics). Which people are read most; which referrers grow. Use this to pick who goes into the next batch and what to post on social media.
+- **Search queries** (Search Console → Performance). Which searches show the site, where it ranks, and which pages get impressions but few clicks (those may need a better title or summary).
+- **Dependency updates.** Review and merge Dependabot pull requests; CI fails on any new, unreviewed advisory (`scripts/check-audit.mjs`).
 - Portraits still missing or weak: follow up on permission requests.
 
 ### Quarterly: security review (about 30 minutes)
