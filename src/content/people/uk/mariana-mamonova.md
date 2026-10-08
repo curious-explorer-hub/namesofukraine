@@ -17,9 +17,9 @@ places:
   - { name: "Луцьк", lat: 50.747, lon: 25.325, note: "народила доньку через кілька днів після повернення з полону, 2022" }
 image:
   src: ./images/mariana-mamonova.jpg
-  alt: "Мар'яна Мамонова усміхається на тлі маскувальної сітки"
-  position: "62% 30%"
-  author: "Telegram-канал Олександра Третяка"
+  alt: "Мар'яна Мамонова в білій сорочці на тлі міста"
+  position: "50% 25%"
+  author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://www.pravda.com.ua/eng/news/2022/09/25/7368979/"
   fair_use: true
@@ -40,7 +40,8 @@ sources:
     url: "https://kulczykfoundation.org.pl/en/news/Wydarzenia/We_Know_The_Winners_Of_This_Years_Portraits_Of_Sisterhood_Award"
 related: [kateryna-polishchuk]
 collections: [women-army, defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-08T02:49:56Z
 ---
 
 ## Новина в бомбосховищі

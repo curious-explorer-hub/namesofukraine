@@ -10,7 +10,7 @@ key_accomplishments:
   - "Commander of the 2nd Zaporozhian Regiment under the Hetmanate (1918)"
   - "Commander of the Zaporozhian Corps and of the troops in Left-Bank Ukraine (autumn 1918)"
 birthplace_name: "Yarivka (Hyzhdevo)"
-image_alt: "Photograph of Petro Bolbochan in uniform, early 20th century"
+image_alt: "Petro Bolbochan in uniform: an old photo turned by AI into a colour photo-like image"
 ---
 
 ## Twenty Cossacks on a rail trolley

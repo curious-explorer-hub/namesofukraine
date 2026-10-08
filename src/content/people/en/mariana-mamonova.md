@@ -11,7 +11,7 @@ key_accomplishments:
   - "Founded a charity that helps women after Russian captivity (2024)"
   - "Kulczyk Foundation’s Portraits of Sisterhood award (2025)"
 birthplace_name: "Unknown"
-image_alt: "Mariana Mamonova smiling in front of camouflage netting"
+image_alt: "Mariana Mamonova in a white shirt with a city behind her"
 ---
 
 ## News in a bomb shelter

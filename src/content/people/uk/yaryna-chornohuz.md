@@ -15,11 +15,12 @@ places:
   - { name: "Сєвєродонецьк", lat: 48.948, lon: 38.491, note: "воювала поблизу міста на початку повномасштабного вторгнення" }
 image:
   src: ./images/yaryna-chornohuz.jpg
-  alt: "Ярина Чорногуз усміхається, тримаючи скляну статуетку премії"
+  alt: "Ярина Чорногуз з довгими косами, у хустці й темній футболці, на червоному тлі"
   position: "50% 25%"
-  author: "Міністерство закордонних справ України"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Yaryna_Chornohuz.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://kyivindependent.com/in-every-woman-there-is-a-soldier-yaryna-chornohuz-the-brave-poet-fighting-russia/"
+  fair_use: true
 key_accomplishments:
   - "Національна премія України імені Тараса Шевченка (2024) за книжку поезій «[dasein: оборона присутності]»"
   - "Поетичні збірки «Як вигинається воєнне коло» (2020), «[dasein: оборона присутності]» (2023) і «Нічний шафран» (2025)"
@@ -37,7 +38,8 @@ sources:
     url: "https://lb.ua/culture/2026/09/28/769624_yarina_chornoguz_stala.html"
 related: []
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-08T02:49:56Z
 ---
 
 ## Вірші між завданнями

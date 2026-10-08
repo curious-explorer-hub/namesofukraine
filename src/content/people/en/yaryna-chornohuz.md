@@ -11,7 +11,7 @@ key_accomplishments:
   - "Medals “For Military Service to Ukraine” and “For a Saved Life”"
   - "The French edition of “dasein” won the Alain Bosquet Prize (Paris, 2026)"
 birthplace_name: "Kyiv"
-image_alt: "Yaryna Chornohuz smiling and holding a glass award statuette"
+image_alt: "Yaryna Chornohuz with long braids, a headscarf and a dark T-shirt, against a red background"
 ---
 
 ## Poems between missions

@@ -16,9 +16,10 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "протигетьманське повстання, листопад 1918" }
 image:
   src: ./images/petro-bolbochan.jpg
-  alt: "Фотопортрет Петра Болбочана у військовій формі, початок XX століття"
+  alt: "Петро Болбочан у мундирі: давнє фото перетворено ШІ на кольорове фотореалістичне зображення"
   author: "Невідомий автор (з книги «Полковник Петро Болбочан: трагедія українського державника»)"
   license: "Public domain"
+  ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:Petro_Bolbochan.jpg"
 key_accomplishments:
   - "Командир 1-го Українського республіканського полку (1917)"
@@ -35,7 +36,8 @@ sources:
   - title: Вікіпедія - Болбочан Петро Федорович
     url: https://uk.wikipedia.org/wiki/Петро_Болбочан
 related: [symon-petliura, pavlo-skoropadskyi]
-status: draft
+status: approved
+published: 2026-10-08T02:49:56Z
 ---
 
 ## Двадцять козаків на дрезині
