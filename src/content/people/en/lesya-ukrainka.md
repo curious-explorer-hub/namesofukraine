@@ -14,6 +14,9 @@ key_accomplishments:
   - "Translations from many European languages; recordings of Volhynian folklore"
 birthplace_name: "Zviahel"
 image_alt: "Photo portrait of Lesya Ukrainka, 1886"
+quotes:
+  - text: "Yes! I will laugh through my tears, / Sing songs amid misfortune, / Hope even without hope, / I will live! Away, sad thoughts!"
+    source: "The poem Contra spem spero! (Hoping Against Hope), 1890"
 ---
 
 ## What does a nine-year-old write about?

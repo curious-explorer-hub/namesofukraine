@@ -14,6 +14,9 @@ key_accomplishments:
   - "Runner-up in Ukraine’s first presidential election (1991); leader of Rukh"
 birthplace_name: "Yerky"
 image_alt: "Viacheslav Chornovil speaking at the Pochenkov coal mine in Makiivka, 1990s"
+quotes:
+  - text: "Ukraine begins with you"
+    source: "His well-known saying, also the title of a collection of his selected articles"
 ---
 
 ## The cell that was meant to break him

@@ -139,6 +139,20 @@ const memberOf = collections.collections.filter((c) => data.collections.includes
         }
       </dl>
       {
+        data.quotes.length > 0 && (
+          <section class="profile-quotes" aria-labelledby="quotes-title">
+            <h2 id="quotes-title">{t('person.quotes', lang)}</h2>
+            {data.quotes.map((q) => (
+              <figure>
+                {/* " / " separates lines of verse */}
+                <blockquote><p>{(lang === 'uk' ? `«${q.text}»` : `“${q.text}”`).split(' / ').map((line, i) => <>{i > 0 && <br />}{line}</>)}</p></blockquote>
+                <figcaption>{q.source}</figcaption>
+              </figure>
+            ))}
+          </section>
+        )
+      }
+      {
         sameTime.length > 0 && (
           <section class="contemporaries" aria-labelledby="contemporaries-title">
             <h2 id="contemporaries-title">{t('person.contemporaries', lang)}</h2>

@@ -1153,7 +1153,7 @@ main:focus { outline: none; }
   display: grid;
   gap: 2rem var(--gutter);
   /* Small screens: the side panel's parts join the grid, so "alive at the same time" comes after the story */
-  grid-template-areas: 'head' 'portrait' 'toggle' 'facts' 'body' 'same';
+  grid-template-areas: 'head' 'portrait' 'toggle' 'facts' 'quotes' 'body' 'same';
   padding-block: clamp(1.5rem, 1rem + 3vw, 3.5rem) 3rem;
 }
 @media (min-width: 64rem) {
@@ -1185,6 +1185,7 @@ main:focus { outline: none; }
   .profile-facts > .read-toggle { grid-area: toggle; }
   .profile-facts > dl { grid-area: facts; }
   .profile-facts > .contemporaries { grid-area: same; }
+  .profile-facts > .profile-quotes { grid-area: quotes; margin-top: 0; }
 }
 .profile-portrait { aspect-ratio: 4 / 5; border-radius: 4px; margin-bottom: 1rem; }
 @media (max-width: 63.99rem) { .profile-portrait { max-width: 22rem; } }
@@ -1275,6 +1276,13 @@ main:focus { outline: none; }
 .related { padding-bottom: 4rem; }
 
 /* Alive at the same time: in the side panel on wide screens, after the story on small ones */
+.profile-quotes { margin-top: 1.5rem; }
+.profile-quotes h2 { font-size: 0.875rem; font-weight: 400; color: var(--slate); margin: 0 0 0.5rem; }
+.profile-quotes figure { margin: 0; padding-left: 0.9rem; border-left: 3px solid var(--accent); }
+.profile-quotes figure + figure { margin-top: 1rem; }
+.profile-quotes blockquote { margin: 0; }
+.profile-quotes blockquote p { margin: 0; font-weight: 500; font-size: 1.0625rem; line-height: 1.45; text-wrap: pretty; }
+.profile-quotes figcaption { margin-top: 0.35rem; font-size: 0.875rem; color: var(--slate); }
 .contemporaries { margin-top: 1.5rem; }
 .contemporaries h2 { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.2; margin: 0 0 0.5rem; }
 .contemporary-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.5rem 1rem; }

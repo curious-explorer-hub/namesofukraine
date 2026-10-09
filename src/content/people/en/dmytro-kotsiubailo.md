@@ -11,6 +11,9 @@ key_accomplishments:
   - "Named to Forbes Ukraine’s “30 Under 30” list (2022)"
 birthplace_name: "Zadnistrianske, Ivano-Frankivsk region"
 image_alt: "Dmytro Kotsiubailo receiving the Gold Star order in the Verkhovna Rada, 1 December 2021"
+quotes:
+  - text: "A fighter isn't just muscles and a rifle. What matters is what's inside you, what you're fighting for, what drives you."
+    source: "Interview with LB.ua, December 2021"
 ---
 
 ## Why “Da Vinci”?

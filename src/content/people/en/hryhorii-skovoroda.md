@@ -13,6 +13,9 @@ key_accomplishments:
   - "Kharkiv Fables and philosophical dialogues"
 birthplace_name: "Chornukhy"
 image_alt: "Portrait of Hryhorii Skovoroda"
+quotes:
+  - text: "The world tried to catch me, but did not catch me."
+    source: "The epitaph he asked to be written on his grave, 1794"
 ---
 
 ## Why did a teacher walk out of college and take to the road?

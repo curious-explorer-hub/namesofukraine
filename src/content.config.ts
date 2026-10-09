@@ -96,6 +96,8 @@ const people_en = defineCollection({
     image_alt: z.string().optional(),
     // Same order as `gallery` in the Ukrainian file
     gallery: z.array(z.object({ alt: z.string(), caption: z.string() })).default([]),
+    // Same order as `quotes` in the Ukrainian file
+    quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
     // Same order as `videos` in the Ukrainian file
     videos: z.array(z.object({ title: z.string(), source: z.string().optional() })).default([]),
   }),
