@@ -4,6 +4,7 @@ import { t, languages, type Lang } from '../i18n';
 import { localePath } from '../lib/people';
 import { jsonForScript } from '../lib/json';
 import { shortDescription } from '../lib/meta';
+import { socialLinks } from '../lib/social';
 // Same mark as the favicon, inlined so it scales crisply and needs no extra request.
 import mark from '../../public/favicon.svg?raw';
 
@@ -119,6 +120,13 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
             </a>
           )}
         </nav>
+        {socialLinks.length > 0 && (
+          <ul class="site-footer-social" aria-label={t('community.social_title', lang)}>
+            {socialLinks.map((l) => (
+              <li><a href={l.url} target="_blank" rel="me noopener" aria-label={l.name} title={l.name}><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg></a></li>
+            ))}
+          </ul>
+        )}
       </div>
     </footer>
     <script>

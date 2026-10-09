@@ -1,8 +1,9 @@
 ---
 import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { SOCIAL_LINKS, SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
+import { SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
 import { suggestEmbedUrl } from '../lib/suggest';
+import { socialLinks } from '../lib/social';
 import { localePath } from '../lib/people';
 import eras from '../content/eras.json';
 import collections from '../content/collections.json';
@@ -19,11 +20,6 @@ const entry = await getEntry('pages', `${lang}/${page}`);
 if (!entry) throw new Error(`Missing page content: src/content/pages/${lang}/${page}.md`);
 const { Content } = await render(entry);
 
-// Only accounts whose URL is set in src/site.ts are shown.
-const social = [
-  { name: 'Instagram', url: SOCIAL_LINKS.instagram },
-  { name: 'Threads', url: SOCIAL_LINKS.threads },
-].filter((l) => l.url);
 const donate = [
   { name: t('support.monobank', lang), url: SUPPORT_LINKS.monobank },
   { name: 'Patreon', url: SUPPORT_LINKS.patreon },
@@ -52,9 +48,9 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
         </ul>
         <h2>{t('community.social_title', lang)}</h2>
         <p>{t('community.social_lead', lang)}</p>
-        {social.length ? (
+        {socialLinks.length ? (
           <ul class="link-buttons">
-            {social.map((l) => <li><a class="link-button" href={l.url} rel="me noopener">{l.name}</a></li>)}
+            {socialLinks.map((l) => <li><a class="link-button link-button-social" href={l.url} target="_blank" rel="me noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg>{l.name}</a></li>)}
           </ul>
         ) : (
           <p class="suggest-pending">{t('community.social_pending', lang)}</p>
@@ -80,9 +76,9 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
         </ul>
         <h2>{t('community.social_title', lang)}</h2>
         <p>{t('community.social_lead', lang)}</p>
-        {social.length ? (
+        {socialLinks.length ? (
           <ul class="link-buttons">
-            {social.map((l) => <li><a class="link-button" href={l.url} rel="me noopener">{l.name}</a></li>)}
+            {socialLinks.map((l) => <li><a class="link-button link-button-social" href={l.url} target="_blank" rel="me noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg>{l.name}</a></li>)}
           </ul>
         ) : (
           <p class="suggest-pending">{t('community.social_pending', lang)}</p>
