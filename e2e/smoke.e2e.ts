@@ -292,3 +292,14 @@ test('an unknown address shows the friendly not-found page in the right language
   await expect(page.locator('h1')).toHaveText('Page not found');
   await expect(page.getByRole('link', { name: 'Go to the home page' })).toHaveAttribute('href', '/en/');
 });
+
+// The header (wordmark + two switches) is the widest row on a phone; "Know Your Own" once pushed it off screen.
+for (const width of [360, 375]) {
+  test(`the home page doesn't scroll sideways on a ${width}px phone`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 800 });
+    for (const lang of ['uk', 'en']) {
+      await page.goto(`/${lang}/`);
+      expect(await page.evaluate(() => document.documentElement.scrollWidth), lang).toBe(width);
+    }
+  });
+}

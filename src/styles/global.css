@@ -172,7 +172,6 @@ main:focus { outline: none; }
 }
 @media (max-width: 30rem) {
   .site-nav { gap: 0.5rem; }
-  .logo-text { white-space: nowrap; }
   .switch-option { min-width: 2.2rem; padding: 0 0.45rem; font-size: 0.8125rem; }
   .switch-option svg { width: 1.05rem; height: 1.05rem; }
 }
