@@ -34,6 +34,13 @@ In order. Pick from the top.
 
 - [ ] **L11. Social and support accounts.** Code done. Open: pick the social handle (`@znaisvoikh` or `@namesofukraine`), create Instagram, Threads and a Monobank jar («банка») (Patreon is set), and set their URLs in `src/site.ts` (`SOCIAL_LINKS`, `SUPPORT_LINKS`); until then the pages say "coming soon". In Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*
 - [ ] **L13. Instagram/Threads posts per batch** (D13-E). Share cards, fun facts and misconceptions are ready-made posts.
+  - **Agreed (owner, 2026-10-08):** two accounts, one on Instagram and one on Threads, posted to through the official APIs on their free tiers (Threads API: 250 posts a day; Instagram Content Publishing API: 100 a day, needs a Business or Creator account). No X for now: its API is pay-per-use, about $0.20 per post with a link.
+  - **On demand, not automatic.** A GitHub Actions workflow run by hand (`workflow_dispatch`) takes a profile URL, e.g. `https://namesofukraine.com/uk/people/<slug>/`. A script in `scripts/` reads the slug, loads that profile from the repo (name, years, role, summary) and publishes a post with the profile's share card (`/og/…`, already a public JPEG) and the link. The owner chooses when and which profile to post.
+  - **Later, scheduled.** Manual runs are the first step; the goal is automation. At the start of each month the owner commits a plan file listing one profile per day of the month (in post order). The same workflow also runs on a daily schedule (`cron`) and posts the profile for today's day number: entry 1 on the 1st, entry 2 on the 2nd, and so on. A day with no entry posts nothing. The manual run stays available for one-off posts.
+  - **Threads first** (links in the text are clickable), then Instagram. Instagram captions can't hold clickable links ("link in bio"), and its feed works better with a 4:5 card than the 1200×630 share card.
+  - Tokens go in GitHub Secrets, never in the repo. Meta's long-lived tokens last 60 days and need refreshing. The script only posts profiles with `status: approved` that are live on the site.
+  - **Ukrainian first:** posts use the Ukrainian text and the `/uk/` link, since Ukrainian readers are the primary audience. English may come later.
+  - Open: the post template; the plan file's format and location; refreshing tokens before they expire.
 
 ## Ideas
 
