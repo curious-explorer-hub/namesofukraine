@@ -40,7 +40,8 @@ sources:
     url: "https://zn.ua/ukr/personalities/yogo-svit-vimiryuvavsya-vichnistyu-282418_.html"
 related: [alla-horska, vasyl-symonenko, ivan-svitlychnyi, vasyl-stus, viacheslav-chornovil, les-kurbas, ivan-drach]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T20:29:36Z
 ---
 
 ## Могили в лісі

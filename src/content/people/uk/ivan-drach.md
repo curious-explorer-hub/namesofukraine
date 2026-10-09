@@ -13,10 +13,13 @@ fun_fact: "Фільм «Криниця для спраглих» за сцена
 birthplace: { name: "Теліжинці", region: kyiv, country: UA, lat: 49.341, lon: 29.579 }
 image:
   src: ./images/ivan-drach.jpg
-  alt: "Іван Драч у кабінеті голови Національної спілки кінематографістів, 2017"
-  author: "Melnikov v n"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ivan_Drach_January_2017.jpg"
+  alt: "Іван Драч в окулярах і светрі на тлі книжкових полиць"
+  position: "50% 30%"
+  ai_edit: colorized
+  author: "Видавництво «Наш формат»"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://nashformat.ua/authors/ivan-drach-books"
 key_accomplishments:
   - Збірка «Соняшник» (1962), один із головних поетичних дебютів шістдесятників
   - Сценарій фільму «Криниця для спраглих» (1965, реж. Юрій Іллєнко)
@@ -37,7 +40,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/29310829.html"
 related: [ivan-dziuba, lina-kostenko, viacheslav-chornovil, serhii-paradzhanov, vasyl-symonenko, mykola-vinhranovskyi]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T20:29:36Z
 ---
 
 ## Ніж у сонці

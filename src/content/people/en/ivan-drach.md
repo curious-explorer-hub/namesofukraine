@@ -11,7 +11,7 @@ key_accomplishments:
   - "First leader of the People’s Movement of Ukraine (Rukh, 1989–1992); member of parliament for four terms"
   - "Hero of Ukraine (2006)"
 birthplace_name: "Telizhyntsi"
-image_alt: "Ivan Drach in the office of the head of the National Union of Cinematographers, 2017"
+image_alt: "Ivan Drach in glasses and a sweater in front of bookshelves"
 quotes:
   - text: "Poetry, my orange sun! / Every moment some young boy / Discovers you for himself, / To become a sunflower forever."
     source: "Ballad of the Sunflower, in the collection Sunflower (1962)"
