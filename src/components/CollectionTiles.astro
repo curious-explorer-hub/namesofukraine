@@ -59,4 +59,12 @@ const cards = (
     }
     <li class="ribbon-indicator" aria-hidden="true"></li>
   </ol>
+  {/* Why the selected collection exists: one shows while its card is pressed (src/scripts/filter.ts) */}
+  <div class="collection-notes" aria-live="polite">
+    {cards.map((c) => (
+      <div class="collection-note" data-collection={c.id} data-collection-note={c.id} hidden>
+        <p>{c.description[lang]}</p>
+      </div>
+    ))}
+  </div>
 </nav>

@@ -436,6 +436,9 @@ main:focus { outline: none; }
 [data-collection='money-people'] { --era: light-dark(#2c5a2e, #8fd18f); }
 [data-collection='defenders-mariupol'] { --era: light-dark(#4b4e8f, #b3b6f5); }
 [data-collection='donetsk-airport'] { --era: light-dark(#5c4a3a, #d4b89c); }
+/* The selected collection's description: a band across the cards' width, in the pressed card's colours */
+.collection-note { margin-top: 0.75rem; padding: 1rem 1.125rem; color: var(--paper); background: var(--era); border-radius: 6px; }
+.collection-note p { margin: 0; }
 .ribbon { margin: 0; }
 /* Era cards in rows: two per row on phones, four from tablet up (seven eras: 4 + 3) */
 .ribbon-bands {
