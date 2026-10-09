@@ -25,7 +25,7 @@ On 21 October 2014 a presidential decree made him a Hero of Ukraine with the Gol
 
 ## From lyceum to university
 
-Before his rehabilitation was even finished, Hordiichuk took on a new mission: heading the [Kyiv Military Lyceum](/en/people/ivan-bohun/) named after Ivan Bohun, a 17th-century Cossack colonel who defended Ukraine much as Hordiichuk defended Savur-Mohyla. For seven years he raised teenagers who, after 2022, went on to defend the country themselves. In November 2023 he moved to become deputy head of the National Defence University of Ukraine, a post he still holds.
+Before his rehabilitation was even finished, Hordiichuk took on a new mission: heading the Kyiv Military Lyceum named after [Ivan Bohun](/en/people/ivan-bohun/), a 17th-century Cossack colonel who defended Ukraine much as Hordiichuk defended Savur-Mohyla. For seven years he raised teenagers who, after 2022, went on to defend the country themselves. In November 2023 he moved to become deputy head of the National Defence University of Ukraine, a post he still holds.
 
 ## Why it matters today
 
