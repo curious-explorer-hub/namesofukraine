@@ -66,7 +66,7 @@ const people = defineCollection({
         // YouTube videos in the story, placed like `gallery`. Nothing loads from YouTube until the reader
         // presses play (D18); `source` is the channel or outlet that published the video.
         videos: z
-          .array(z.object({ youtube: z.string().regex(/^[\w-]{11}$/), title: z.string(), source: z.string(), date: z.coerce.date(), duration: z.string().regex(/^\d+:\d{2}$/), section: z.number().int().min(1) }))
+          .array(z.object({ youtube: z.string().regex(/^[\w-]{11}$/), title: z.string(), source: z.string(), date: z.coerce.date(), duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/), section: z.number().int().min(1) }))
           .default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),

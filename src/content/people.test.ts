@@ -49,6 +49,18 @@ describe('links between profiles', () => {
   }
 });
 
+// The en file pairs its `gallery` and `videos` entries with the uk ones by position; a missing entry
+// would show the Ukrainian caption or title on the English page.
+describe('en gallery and videos', () => {
+  const entries = (text: string, field: string) => text.match(new RegExp(`^${field}:\\n((?: .*\\n)*)`, 'm'))?.[1].match(/^ {2}- /gm)?.length ?? 0;
+  const enDir = join(dir, '..', 'en');
+  it.each(profiles.filter((f) => existsSync(join(enDir, f))))('%s: the en file has one entry per uk entry', (file) => {
+    const uk = readFileSync(join(dir, file), 'utf8');
+    const en = readFileSync(join(enDir, file), 'utf8');
+    for (const field of ['gallery', 'videos']) expect(entries(en, field), field).toBe(entries(uk, field));
+  });
+});
+
 // Women's profiles (`gender: female`) show the tags in feminine form in Ukrainian: Поетеса, not Поет.
 describe('categories.json tags', () => {
   const { tags } = JSON.parse(readFileSync(join(dir, '..', '..', 'categories.json'), 'utf8')) as { tags: { id: string; uk_female?: string }[] };

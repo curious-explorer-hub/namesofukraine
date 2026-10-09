@@ -55,7 +55,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Comments only where they add something** the code can't say (a why, a constraint). No narration, no commented-out code.
 - **Both languages, always.** Every UI string goes in both `uk.json` and `en.json`; every profile change touches both files where the text differs.
 - **No inline scripts or styles that need `unsafe-inline`.** The CSP in `public/_headers` forbids them; use files in `src/scripts/` or `public/` (e.g. `public/theme.js`).
-- **Static only:** no server code, no third-party requests at runtime (fonts, map and images are self-hosted).
+- **Static only:** no server code, no third-party requests at runtime (fonts, map and images are self-hosted). The one exception is a YouTube player the reader starts by pressing play (D18).
 - **Nothing private in the repo:** no tokens, `.env` contents, emails or reader submissions. Don't rewrite git history.
 
 ## Content rules (summary of product_vision.md §7)
