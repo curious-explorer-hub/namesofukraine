@@ -100,6 +100,30 @@ test('a profile in no collection has no collections row', async ({ page }) => {
   await expect(page.locator('.profile-facts a[href*="?collection="]')).toHaveCount(0);
 });
 
+for (const [lang, title, text] of [
+  ['uk', 'Відомі цитати', '«Світ ловив мене, та не спіймав.»'],
+  ['en', 'Famous quotes', '“The world tried to catch me, but did not catch me.”'],
+] as const) {
+  test(`a profile with quotes shows them in its language, with the source (${lang})`, async ({ page }) => {
+    await page.goto(`/${lang}/people/hryhorii-skovoroda/`);
+    const quotes = page.locator('.profile-quotes');
+    await expect(quotes.getByRole('heading')).toHaveText(title);
+    await expect(quotes.locator('blockquote')).toHaveText([text]);
+    await expect(quotes.locator('figcaption')).toHaveCount(1);
+  });
+}
+
+test('verse in a quote keeps its line breaks', async ({ page }) => {
+  await page.goto('/uk/people/lesya-ukrainka/');
+  await expect(page.locator('.profile-quotes blockquote br')).toHaveCount(3);
+});
+
+test('a profile without quotes has no quotes section', async ({ page }) => {
+  await page.goto('/uk/people/roksolana/');
+  await expect(page.locator('.profile-facts dl')).toBeVisible();
+  await expect(page.locator('.profile-quotes')).toHaveCount(0);
+});
+
 test('the home page shows one way to browse at a time, as tabs', async ({ page }) => {
   await page.goto('/uk/');
   await expect(page.locator('#panel-search')).toBeVisible();

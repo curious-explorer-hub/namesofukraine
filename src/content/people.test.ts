@@ -49,16 +49,27 @@ describe('links between profiles', () => {
   }
 });
 
-// The en file pairs its `gallery` and `videos` entries with the uk ones by position; a missing entry
-// would show the Ukrainian caption or title on the English page.
-describe('en gallery and videos', () => {
+// The en file pairs its `gallery`, `quotes` and `videos` entries with the uk ones by position; a missing entry
+// would show the Ukrainian caption, quote or title on the English page.
+describe('en gallery, quotes and videos', () => {
   const entries = (text: string, field: string) => text.match(new RegExp(`^${field}:\\n((?: .*\\n)*)`, 'm'))?.[1].match(/^ {2}- /gm)?.length ?? 0;
   const enDir = join(dir, '..', 'en');
   it.each(profiles.filter((f) => existsSync(join(enDir, f))))('%s: the en file has one entry per uk entry', (file) => {
     const uk = readFileSync(join(dir, file), 'utf8');
     const en = readFileSync(join(enDir, file), 'utf8');
-    for (const field of ['gallery', 'videos']) expect(entries(en, field), field).toBe(entries(uk, field));
+    for (const field of ['gallery', 'quotes', 'videos']) expect(entries(en, field), field).toBe(entries(uk, field));
   });
+});
+
+// The page adds the quote marks (« » or “ ”), so the text must not bring its own.
+describe('quotes', () => {
+  for (const lang of ['uk', 'en']) {
+    const langDir = join(dir, '..', lang);
+    it.each(readdirSync(langDir).filter((f) => f.endsWith('.md')))(`${lang}/%s: quote text has no outer quote marks`, (file) => {
+      const block = readFileSync(join(langDir, file), 'utf8').match(/^quotes:\n((?: .*\n)*)/m)?.[1] ?? '';
+      for (const [, text] of block.matchAll(/^ {2}- text: "(.*)"$/gm)) expect(text).not.toMatch(/^["«“„']|["»”']$/);
+    });
+  }
 });
 
 // Women's profiles (`gender: female`) show the tags in feminine form in Ukrainian: Поетеса, not Поет.
