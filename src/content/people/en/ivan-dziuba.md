@@ -12,6 +12,9 @@ key_accomplishments:
   - "The monograph Taras Shevchenko: Life and Work (2005); Shevchenko National Prize (1991), Hero of Ukraine (2001)"
 birthplace_name: "Mykolaivka"
 image_alt: "Ivan Dziuba, 2004"
+quotes:
+  - text: "This flywheel of Russification is already spinning so fast that it has a colossal destructive force of inertia, and it is now almost impossible to stop."
+    source: "Interview with Radio Svoboda, 2006 (asked how he would write Internationalism or Russification? today)"
 ---
 
 ## 800 seats, and a few dozen who stood up

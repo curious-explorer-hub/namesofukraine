@@ -11,6 +11,9 @@ key_accomplishments:
   - "Posthumously awarded the Taras Shevchenko State Prize of Ukraine (1995)"
 birthplace_name: "Biivtsi"
 image_alt: "Photo portrait of Vasyl Symonenko"
+quotes:
+  - text: "You know that you are a human being. / Do you know it or not?"
+    source: "The poem You know that you are a human being…"
 ---
 
 ## An obituary for a corncob

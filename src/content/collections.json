@@ -95,6 +95,30 @@
         "license": "Fair use",
         "source_url": ""
       }
+    },
+    {
+      "id": "sixtiers",
+      "label": {
+        "uk": "Шістдесятники",
+        "en": "The Sixtiers"
+      },
+      "description": {
+        "uk": "Покоління 1960-х, яке під радянською цензурою повернуло українській культурі власний голос. За вірші, картини й правду багато хто з них заплатив роботою, волею, а дехто й життям.",
+        "en": "The generation of the 1960s who, under Soviet censorship, gave Ukrainian culture its own voice back. For their poems, paintings and honesty many paid with their jobs, their freedom, and some with their lives."
+      },
+      "image": {
+        "file": "sixtiers.jpg",
+        "caption": {
+          "uk": "Шістдесятники: колаж портретів",
+          "en": "The Sixtiers: a collage of portraits"
+        },
+        "author": {
+          "uk": "Невідомий автор",
+          "en": "Unknown author"
+        },
+        "license": "Fair use",
+        "source_url": ""
+      }
     }
   ]
 }

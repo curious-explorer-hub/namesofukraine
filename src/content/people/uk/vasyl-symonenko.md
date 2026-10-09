@@ -23,6 +23,9 @@ key_accomplishments:
   - Самвидавні вірші, з яких значною мірою почався український опозиційний рух 1960–1970-х років
   - Уривки щоденника «Окрайці думок», опубліковані 1965 року в журналі «Сучасність»
   - Посмертно - Державна премія України імені Тараса Шевченка (1995)
+quotes:
+  - text: "Ти знаєш, що ти — людина. / Ти знаєш про це чи ні?"
+    source: "Вірш «Ти знаєш, що ти — людина…»"
 sources:
   - title: "Енциклопедія історії України - Симоненко Василь Андрійович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Symonenko_V_2"
@@ -30,7 +33,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CY%5CSymonenkoVasyl.htm"
   - title: Вікіпедія - Симоненко Василь Андрійович
     url: https://uk.wikipedia.org/wiki/Симоненко_Василь_Андрійович
-related: [vasyl-stus, lina-kostenko, ivan-dziuba]
+related: [vasyl-stus, lina-kostenko, ivan-dziuba, alla-horska, ivan-svitlychnyi]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

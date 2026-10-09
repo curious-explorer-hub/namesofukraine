@@ -35,7 +35,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Чорновіл_В'ячеслав_Максимович
   - title: "Вікіцитати - Чорновіл В'ячеслав Максимович"
     url: "https://uk.wikiquote.org/wiki/Чорновіл_В'ячеслав_Максимович"
-related: [vasyl-stus, bohdan-havrylyshyn, levko-lukianenko, ivan-dziuba]
+related: [vasyl-stus, bohdan-havrylyshyn, levko-lukianenko, ivan-dziuba, ivan-drach]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

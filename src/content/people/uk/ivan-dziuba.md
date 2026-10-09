@@ -26,6 +26,9 @@ key_accomplishments:
   - "Промова в Бабиному Яру на 25-ті роковини розстрілів (29 вересня 1966)"
   - "Міністр культури України (1992–1994), академік НАН України (1992), співголова редколегії Енциклопедії сучасної України"
   - "Монографія «Тарас Шевченко. Життя і творчість» (2005); Шевченківська премія (1991), Герой України (2001)"
+quotes:
+  - text: "Цей маховик русифікації вже такий розкручений, що він має колосальну знищувальну силу інерції і його вже майже неможливо зупинити."
+    source: "Інтерв’ю Радіо Свобода, 2006 (про те, як би він написав «Інтернаціоналізм чи русифікацію?» сьогодні)"
 sources:
   - title: "Енциклопедія Сучасної України - Дзюба Іван Михайлович"
     url: "https://esu.com.ua/article-24148"
@@ -35,7 +38,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CD%5CZ%5CDziubaIvan.htm"
   - title: "Радіо Свобода - Світло «Тіней забутих предків»: 60 років тому відбувся перший публічний протест проти політичних репресій в СРСР (04.09.2025)"
     url: "https://www.radiosvoboda.org/a/30812377.html"
-related: [vasyl-stus, viacheslav-chornovil, lina-kostenko, vasyl-symonenko, serhii-paradzhanov, taras-shevchenko, mykola-khvylovyi, mykola-zerov]
+related: [vasyl-stus, viacheslav-chornovil, lina-kostenko, vasyl-symonenko, serhii-paradzhanov, taras-shevchenko, mykola-khvylovyi, mykola-zerov, ivan-svitlychnyi, ivan-drach]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

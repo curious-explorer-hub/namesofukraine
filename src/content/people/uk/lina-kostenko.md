@@ -26,6 +26,9 @@ key_accomplishments:
   - Історичний роман у віршах «Маруся Чурай» (1979) і Шевченківська премія (1987)
   - Роман у віршах «Берестечко», написаний переважно наприкінці 1960-х і надрукований 1999 року
   - Роман «Записки українського самашедшого» (2011)
+quotes:
+  - text: "Поезія — це завжди неповторність, / якийсь безсмертний дотик до душі."
+    source: "Вірш «Страшні слова, коли вони мовчать…»"
 sources:
   - title: "Енциклопедія сучасної України - Костенко Ліна Василівна"
     url: "https://esu.com.ua/article-3960"
@@ -33,7 +36,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CO%5CKostenkoLina.htm"
   - title: Вікіпедія - Костенко Ліна Василівна
     url: https://uk.wikipedia.org/wiki/Костенко_Ліна_Василівна
-related: [vasyl-stus, viacheslav-chornovil, vasyl-symonenko, ivan-dziuba]
+related: [vasyl-stus, viacheslav-chornovil, vasyl-symonenko, ivan-dziuba, ivan-drach]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

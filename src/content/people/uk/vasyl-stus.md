@@ -35,8 +35,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Василь_Стус
   - title: "Національний банк України - Нова банкнота 2 000 гривень"
     url: "https://bank.gov.ua/banknote/2000uah/"
-related: [mykola-khvylovyi, ivan-franko, viacheslav-chornovil, lina-kostenko, serhii-paradzhanov, ivan-dziuba]
-collections: [money-people]
+related: [mykola-khvylovyi, ivan-franko, viacheslav-chornovil, lina-kostenko, serhii-paradzhanov, ivan-dziuba, ivan-svitlychnyi, mykhailyna-kotsiubynska, alla-horska, yevhen-sverstiuk]
+collections: [money-people, sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

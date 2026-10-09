@@ -14,6 +14,9 @@ key_accomplishments:
   - "The novel Notes of a Ukrainian Madman (2011)"
 birthplace_name: "Rzhyshchiv"
 image_alt: "Lina Kostenko, photograph, 2006"
+quotes:
+  - text: "Poetry is always something unrepeatable, / some immortal touch upon the soul."
+    source: "The poem Terrible Are Words When They Are Silent…"
 ---
 
 ## Sixteen years of silence
