@@ -109,14 +109,14 @@
       "image": {
         "file": "sixtiers.jpg",
         "caption": {
-          "uk": "Шістдесятники: колаж портретів",
-          "en": "The Sixtiers: a collage of portraits"
+          "uk": "Ілюстрація до добірки «Шістдесятники»: сонця, кобзи, голуби й розірвані кайдани",
+          "en": "Illustration for the Sixtiers collection: suns, kobzas, doves and broken chains"
         },
         "author": {
-          "uk": "Невідомий автор",
-          "en": "Unknown author"
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
         },
-        "license": "Fair use",
+        "license": "AI-generated",
         "source_url": ""
       }
     }
