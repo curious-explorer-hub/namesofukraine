@@ -17,7 +17,7 @@ Spotted a mistake? Use the "Tell us" link at the end of the profile or the [feed
 
 ## Privacy
 
-The site sets no cookies, shows no ads and collects no personal data. We see only visit totals, such as which pages are read and from which countries.
+The site sets no cookies, shows no ads and collects no personal data. If you play a video in a profile, its player loads from YouTube, and YouTube may store data in your browser under its own policy. We see only visit totals, such as which pages are read and from which countries.
 
 “Read” marks are stored only in your browser and are never sent anywhere. To reset them, clear this site's data in your browser settings.
 

@@ -137,6 +137,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-10-06 | D15 | **Map:** a static SVG of the oblasts drawn at build time, no tiles or third-party requests, tied to the filters. (Replaced Leaflet/MapLibre.) |
 | 2026-10-05 | D16 | **Portraits in full colour** everywhere on the site; the cobalt treatment remains only on share cards. Commissioned illustrations for featured figures later, if ever. |
 | 2026-09-29 | D17 | **Feedback form:** Tally (free, spam protection, no login). |
+| 2026-10-08 | D18 | **Videos in profiles:** YouTube videos (`videos` in the uk file) show as a card in the story; nothing loads from YouTube until the reader presses play, then the player (youtube-nocookie.com) replaces the card in place. Without JS the card links to YouTube. CSP: `frame-src` allows youtube-nocookie.com. |
 | 2026-09-29 | G4 | Selection criteria per §7. |
 | 2026-09-29 | — | **Content before promotion:** soft launch on `pages.dev`; buy the domain before promoting widely. |
 | 2026-09-29 | — | **Dates:** new style (Gregorian) from 1582; earlier dates as in the sources (Julian). |
@@ -220,4 +221,5 @@ Closed backlog items, by ID; details are in git history.
 | 2026-10-07 | Map zoom into the selected region (I22): the svg viewBox tweens into a region's bounding box, with a floor so small enclaves (Kyiv city, Sevastopol) don't blow up a single dot, a back-to-Ukraine control, and an instant jump under `prefers-reduced-motion` |
 | 2026-10-07 | Era "Imperial" removed (I25): its one profile, Kotliarevskyi, moved to "19th century" (his defining work and role belong with that era's writers, not the Hetmanate figures in "Cossack"); back to 7 eras, matching AC2 |
 | 2026-10-08 | Real domain `namesofukraine.com` (L3): custom domain, auto-renew, the `pages.dev` address redirected, `site` and canonical URLs on the domain; monitoring (L10): Web Analytics data confirmed, UptimeRobot on `/uk/`; home page that stays short (I18); map next steps (I20) |
+| 2026-10-08 | Videos in profiles (I24, D18): a `videos` list in the uk file (titles in the en file) places a click-to-play card after a story section; the player loads from youtube-nocookie.com only after the reader presses play, and without JS the card links to YouTube. First used on Prokopenko and Volynskyi (Ukrinform address from Azovstal, 13 April 2022) |
 | 2026-10-09 | Collections on the profile page (I27): a «Добірки» / "Spotlights" row in the facts panel links each of the person's collections to the home page with it selected; collection descriptions (I28): the selected collection's `description` shows under the cards, changes with the selection and goes when the card is released (also from a shared link) |

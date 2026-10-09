@@ -63,6 +63,11 @@ const people = defineCollection({
         // Photos in the story: each one closes the `section`-th `##` section of the bio (both languages
         // keep the same sections). `fair_use` as for `image`: on the profile only.
         gallery: z.array(z.object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), fair_use: z.boolean().optional(), ...credit })).default([]),
+        // YouTube videos in the story, placed like `gallery`. Nothing loads from YouTube until the reader
+        // presses play (D18); `source` is the channel or outlet that published the video.
+        videos: z
+          .array(z.object({ youtube: z.string().regex(/^[\w-]{11}$/), title: z.string(), source: z.string(), date: z.coerce.date(), duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/), section: z.number().int().min(1) }))
+          .default([]),
         sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
         related: z.array(z.string()).default([]),
         collections: z.array(z.enum(ids(collectionsData.collections))).default([]),
@@ -91,6 +96,8 @@ const people_en = defineCollection({
     image_alt: z.string().optional(),
     // Same order as `gallery` in the Ukrainian file
     gallery: z.array(z.object({ alt: z.string(), caption: z.string() })).default([]),
+    // Same order as `videos` in the Ukrainian file
+    videos: z.array(z.object({ title: z.string(), source: z.string().optional() })).default([]),
   }),
 });
 

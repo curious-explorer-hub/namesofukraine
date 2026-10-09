@@ -11,6 +11,9 @@ key_accomplishments:
   - "Initiated the Stalevi (“Steel”) charity foundation, which supports marines and their families (2023)"
 birthplace_name: "Poltava"
 image_alt: "Portrait of Serhii Volynskyi in marine dress uniform with the Gold Star of a Hero of Ukraine"
+videos:
+  - title: "Denys Prokopenko and Serhii Volynskyi on the 36th Brigade's breakthrough"
+    source: "Ukrinform"
 ---
 
 ## A letter from a city under siege
@@ -23,7 +26,7 @@ Volynskyi was born in Poltava in 1992. After ninth grade he went to a military l
 
 ## The breakthrough to Azovstal
 
-From the start of the full-scale invasion in 2022, Volynskyi defended Mariupol. On 13 April part of the 36th Brigade under his command broke through to the Azovstal steelworks and joined forces with [Denys Prokopenko](/en/people/denys-prokopenko/)’s Azov. In April and May he was acting commander of the brigade. He appealed to world leaders, calling for the trapped soldiers and civilians to be rescued the way the Allies were at Dunkirk in 1940. On 20 May Volynskyi was among the last to lay down his arms, and was taken prisoner by Russia.
+From the start of the full-scale invasion in 2022, Volynskyi defended Mariupol. On 13 April part of the 36th Brigade under his command broke through to the Azovstal steelworks and joined forces with [Denys Prokopenko](/en/people/denys-prokopenko/)’s Azov. The same day the two commanders released a short joint video address about the breakthrough. In April and May he was acting commander of the brigade. He appealed to world leaders, calling for the trapped soldiers and civilians to be rescued the way the Allies were at Dunkirk in 1940. On 20 May Volynskyi was among the last to lay down his arms, and was taken prisoner by Russia.
 
 ## After captivity
 
