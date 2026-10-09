@@ -24,11 +24,11 @@ Did you know that one of the brightest figures of the Ukrainian Sixtiers didn’
 
 Horska graduated from the Kyiv Art Institute and often worked together with her husband, the artist Viktor Zaretskyi. In the early 1960s she and [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), among other friends, set up the Club of Creative Youth “Suchasnyk” (The Contemporary) in Kyiv. [Ivan Drach](/en/people/ivan-drach/), [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/), [Mykhailyna Kotsiubynska](/en/people/mykhailyna-kotsiubynska/), [Ivan Dziuba](/en/people/ivan-dziuba/) and others joined it.
 
-In 1962–1963 Horska, [Vasyl Symonenko](/en/people/vasyl-symonenko/) and Les Taniuk tracked down the places where the NKVD, the Soviet secret police, had secretly buried people it shot: at Bykivnia and at the Lukianivka and Vasylkiv cemeteries. They reported it to the Kyiv city council.
+In 1962–1963 Horska, [Vasyl Symonenko](/en/people/vasyl-symonenko/) and [Les Taniuk](/en/people/les-taniuk/) tracked down the places where the NKVD, the Soviet secret police, had secretly buried people it shot: at Bykivnia and at the Lukianivka and Vasylkiv cemeteries. They reported it to the Kyiv city council.
 
 ## A window that was smashed
 
-In 1964 Horska, Opanas Zalyvakha and other artists made a stained-glass window for Kyiv University, Shevchenko. Mother: an angry Shevchenko with his arm around a wronged woman, an image of Ukraine. The administration called it “ideologically hostile” and destroyed it, and Horska was expelled from the Union of Artists. In the 1960s her mosaics also went up in Donetsk and Mariupol, among them on School No. 5 in Donetsk.
+In 1964 Horska, [Opanas Zalyvakha](/en/people/opanas-zalyvakha/) and other artists made a stained-glass window for Kyiv University, Shevchenko. Mother: an angry Shevchenko with his arm around a wronged woman, an image of Ukraine. The administration called it “ideologically hostile” and destroyed it, and Horska was expelled from the Union of Artists. In the 1960s her mosaics also went up in Donetsk and Mariupol, among them on School No. 5 in Donetsk.
 
 ## Beside those on trial
 

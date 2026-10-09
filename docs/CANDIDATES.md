@@ -170,7 +170,7 @@ At about 60 members this would be the site's largest collection by far. Owner to
 
 ### The Sixtiers
 
-**Collection:** `sixtiers`, «Шістдесятники» / "The Sixtiers" (added 2026-10-09; tile: owner-supplied collage, fair use). Labelled: `vasyl-stus`, `vasyl-symonenko`, `lina-kostenko`, `ivan-dziuba`, `viacheslav-chornovil`. Drafted 2026-10-09 (awaiting owner review, all in the collection): `alla-horska`, `ivan-svitlychnyi`, `yevhen-sverstiuk`, `mykhailyna-kotsiubynska`, `ivan-drach`, `mykola-vinhranovskyi`. Membership check (IEU «Shistdesiatnyky», ESU, UINP, KHPG):
+**Collection:** `sixtiers`, «Шістдесятники» / "The Sixtiers" (added 2026-10-09; tile: owner-supplied collage, fair use). Labelled: `vasyl-stus`, `vasyl-symonenko`, `lina-kostenko`, `ivan-dziuba`, `viacheslav-chornovil`. Drafted 2026-10-09 (awaiting owner review, all in the collection): `alla-horska`, `ivan-svitlychnyi`, `yevhen-sverstiuk`, `mykhailyna-kotsiubynska`, `ivan-drach`, `mykola-vinhranovskyi`, `opanas-zalyvakha`, `les-taniuk`, `valerii-marchenko`. Membership check (IEU «Shistdesiatnyky», ESU, UINP, KHPG):
 - `ivan-mykolaichuk`: owner decision, lean exclude. No encyclopedia calls him a Sixtier; UINP shows only the circle (his flat on Zhylianska as a meeting place).
 - `serhii-paradzhanov`: owner decision. An ally rather than a member (born 1924; the 1965 premiere protest; headed the letter of 139, per KHPG).
 - `ivan-marchuk`: exclude. Glavcom (May 2026): «чому його не прийняли до себе шістдесятники».
@@ -181,7 +181,4 @@ The owner's key source, Radomyr Mokryk's «Бунт проти імперії: �
 
 | Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Опанас Заливаха | 1925–2007 | Painter (visual-arts) | 20th c. | | Backlog | Research 2026-10-09 | Горська (вітраж «Шевченко. Мати», 1964) | ESU tags him «Шістдесятники»; arrested 1965. Years **unverified** |
-| Лесь Танюк | 1938–2016 | Theatre director (performing-arts) | 20th c. | | Backlog | Research 2026-10-09 | Горська, Симоненко (пошук поховань у Биківні, 1962–63) | Head of the Club of Creative Youth. Later an MP: public role only. Years **unverified** |
-| Валерій Марченко | 1947–1984 | Journalist, translator (literature) | 20th c. | | Backlog | Research 2026-10-09 | Стус* (обидва загинули в таборах) | Named with Stus in IEU as a Sixtier who died in the camps. Years **unverified** |
 | Ігор Калинець | b. 1939 | Poet (literature) | 20th c. | 🟢 | Backlog | Research 2026-10-09 | | Lviv poet, political prisoner (1972–81, **unverified**); named in IEU among the arrested Sixtiers |
