@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order for Courage, 3rd class (2023); Hero of Ukraine with the Order of the Golden Star (posthumously, 2025)"
 birthplace_name: "Kyiv"
 image_alt: "Pavlo Petrychenko in military gear with a yellow armband, against the sky"
+quotes:
+  - text: "All the beautiful ones keep their optimism."
+    source: "Quoted by Vladyslav Heraskevych in his address to Ukrainians, 2026"
 ---
 
 ## 25,000 signatures in a day
