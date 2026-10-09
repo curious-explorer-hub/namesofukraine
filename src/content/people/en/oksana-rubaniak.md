@@ -7,9 +7,9 @@ fun_fact: "Oksana published her first poetry collection, “Ornaments of Fate”
 key_accomplishments:
   - "In the defence of Ukraine since 24 February 2022: first in Ivano-Frankivsk’s volunteer formation, then in the Armed Forces"
   - "Machine gunner in the 72nd Separate Mechanized Brigade named after the Black Zaporozhians (call sign “Ksena”), for a year and a half the only woman in her platoon"
-  - "Poetry collections “Ornaments of Fate” (2020), “Towards Death” (2022) and “The Road of Life”"
+  - "Poetry collections “Ornaments of Fate” (2020), “Towards Death” and “The Road of Life”"
   - "Commander of an unmanned aerial systems platoon; as of October 2026, a captain in the Armed Forces"
-birthplace_name: "Hramotne, Ivano-Frankivsk Oblast"
+birthplace_name: "Ivano-Frankivsk region"
 image_alt: "Portrait of Oksana Rubaniak in a combat helmet and uniform, with a red braid, against a dark background"
 ---
 
@@ -21,7 +21,7 @@ Ksena wrote the poems at the front. In dugouts and trenches she kept the lines i
 
 ## From a Hutsul village to a machine-gun platoon
 
-Oksana was born in 2003 in the village of Hramotne in the Verkhovyna area of the Carpathians. She trained as a primary school teacher, worked in the youth and sports department of Ivano-Frankivsk city council, and in 2021 joined a university military training course.
+Oksana was born in 2003 in a Hutsul village in the Ivano-Frankivsk region, in the Carpathians. She trained as a primary school teacher, worked in the youth and sports department of Ivano-Frankivsk city council, and in 2021 joined a university military training course.
 
 On 24 February 2022, the first day of the full-scale invasion, 19-year-old Oksana joined Ivano-Frankivsk’s volunteer formation, and later the Armed Forces. With her comrades she ended up in the 72nd Separate Mechanized Brigade and became a machine gunner, call sign “Ksena”. For a year and a half she was the only woman in her platoon. At first her comrades doubted she could handle a machine gun: she weighs under 50 kilograms.
 

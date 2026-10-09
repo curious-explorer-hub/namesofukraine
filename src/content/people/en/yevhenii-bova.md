@@ -21,7 +21,7 @@ Bova was born in 1993 in the village of Staroavramivka in the Poltava region. Af
 
 ## The fight for Mariupol, and captivity
 
-By the time Bova took command, the city had already been under siege for weeks. For his courage in defending it, he was named a Hero of Ukraine. But by late April 2022, Bova himself had been captured. Among the other Mariupol defenders held alongside him were [Denys Prokopenko](/en/people/denys-prokopenko/) of the Azov regiment and [Serhii Volynskyi](/en/people/serhii-volynskyi/), who had briefly commanded the same 36th brigade. They came home only on 21 September 2022, in one of the war's largest prisoner exchanges.
+By the time Bova took command, the city had already been under siege for weeks. For his courage in defending it, he was named a Hero of Ukraine. But by late April 2022, Bova himself had been captured. He came home on 21 September 2022, in one of the war's largest prisoner exchanges. Other Mariupol defenders came home in the same exchange, among them [Denys Prokopenko](/en/people/denys-prokopenko/) of the Azov regiment and [Serhii Volynskyi](/en/people/serhii-volynskyi/), who had briefly commanded the same 36th brigade.
 
 ## Back to service
 

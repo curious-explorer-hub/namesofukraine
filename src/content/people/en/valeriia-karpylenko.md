@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/valeriia-karpylenko.md
 name: "Valeriia Karpylenko"
 role: "Azov press officer and poet"
-summary: "“Flowers and Weapons” is the title of a poetry collection by Mariupol journalist Valeriia Karpylenko, call sign Nava. In 2022, as an Azov press officer, she told the world about the defence of Azovstal; then she spent 327 days in Russian captivity and wrote a book about it."
+summary: "“Flowers and Weapons” is the title of a poetry collection by Mariupol journalist Valeriia Karpylenko, call sign Nava. In 2022, as an Azov press officer, she told the world about the defence of Azovstal; then she spent almost a year in Russian captivity and wrote a book about it."
 fun_fact: "Valeriia was promoted to captain right there at Azovstal, during the defence of the steelworks."
 key_accomplishments:
   - "From 2015 in the press service of the Azov regiment; later head of the press service of the Donetsk border guard detachment (2017–2020)"
@@ -27,7 +27,7 @@ On 5 May 2022, in a bunker at Azovstal, she married a border guard, Andrii Subot
 
 ## Captivity and books
 
-On 17 May 2022, when the Ukrainian troops left Azovstal under orders, Valeriia was taken prisoner by Russia. She came home in an exchange on 10 April 2023, after 327 days in captivity.
+In May 2022, when the Ukrainian troops left Azovstal under orders, Valeriia was taken prisoner by Russia. She came home in an exchange in April 2023, after almost a year in captivity.
 
 After her release she wrote about what she had been through. In 2024 the Folio publishing house brought out her books “Captivity” and “Azovstal: The Steel Press Service”, about the press service’s work during the defence of the plant. She signs them Valeriia “Nava” Subotina.
 

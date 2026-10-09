@@ -25,4 +25,4 @@ In early April 2022 Baraniuk led a column trying to break out of the besieged ci
 
 ## Captivity since
 
-On 8 May 2022, Russian state media showed Baraniuk alive in captivity. As of October 2026, he remains held in Russia; no official report of his release has been made.
+On 8 May 2022, Russian state media showed Baraniuk alive in captivity.
