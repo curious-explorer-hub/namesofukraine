@@ -10,7 +10,7 @@ key_accomplishments:
   - "Choral works to poems by Taras Shevchenko, a cappella sacred music, the choral piece Maidan – Kyiv"
   - "People’s Artist of Ukraine (1989), Shevchenko Prize (1995)"
 birthplace_name: "Kyiv"
-image_alt: "Valentin Silvestrov in Gohrisch, Germany, before receiving the International Shostakovich Prize, July 2022"
+image_alt: "Valentin Silvestrov in glasses, smiling, against a dark background"
 ---
 
 ## The avant-gardist no one played at home

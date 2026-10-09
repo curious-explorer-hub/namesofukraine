@@ -15,11 +15,13 @@ places:
   - { name: "Берлін", lat: 52.52, lon: 13.405, note: "переїхав сюди в березні 2022 року" }
 image:
   src: ./images/valentyn-sylvestrov.jpg
-  alt: "Валентин Сильвестров у Горіші (Німеччина) перед врученням Міжнародної премії Шостаковича, липень 2022"
-  position: "45% 25%"
-  author: "Solobratscher"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Valentyn_Silvestrov,_composer_(July_2022,_Kurort_Gohrisch,_Germany).jpg"
+  alt: "Валентин Сильвестров в окулярах усміхається, на темному тлі"
+  position: "50% 30%"
+  ai_edit: colorized
+  author: "Невідомий автор (через Huxley)"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://huxley.media/ru/valentin-silvestrov-tishina-mozhet-byt-samoj-cennoj-veshhju-na-zemle/"
 key_accomplishments:
   - "Учасник «Київського авангарду» 1960-х; Міжнародна премія Кусевицького (США, 1967) і премія конкурсу «Гаудеамус» (Нідерланди, 1970)"
   - "Симфонії, Струнний квартет № 1, вокальний цикл «Тихі пісні», цикли фортепіанних багателей"
