@@ -16,11 +16,13 @@ places:
   - { name: "Гатне", lat: 50.349, lon: 30.426, note: "місце поховання" }
 image:
   src: ./images/valerii-marchenko.jpg
-  alt: "Валерій Марченко, чорно-біле портретне фото"
-  author: "Невідомий автор"
+  alt: "Валерій Марченко у вишиванці й светрі на тлі поля"
+  position: "50% 30%"
+  ai_edit: colorized
+  author: "Невідомий автор (через Memoryon)"
   license: "Fair use"
   fair_use: true
-  source_url: "https://uk.wikipedia.org/wiki/Файл:ValeryMarchenko.jpg"
+  source_url: "https://memoryon.net/uk/pages/marchenko-valerij-veniaminovich?pageId=60a69c3f167efe000ae0c90b"
 key_accomplishments:
   - "Літературний працівник газети «Літературна Україна» (від 1970); переклади з азербайджанської та польської"
   - "Статті й нариси самвидаву, свідчення про становище політв'язнів, передані з таборів на волю"
@@ -40,7 +42,8 @@ sources:
     url: "https://web.archive.org/web/20101204081625/http://khpg.org/index.php?id=946569588&s=1999&n=30"
 related: [vasyl-stus, ivan-dziuba, ivan-svitlychnyi, yevhen-sverstiuk]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T20:37:13Z
 ---
 
 ## Декларація незалежності в засланні

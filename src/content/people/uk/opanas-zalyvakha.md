@@ -15,11 +15,13 @@ places:
   - { name: "Івано-Франківськ", lat: 48.922, lon: 24.711, note: "жив і працював від 1961 року; місце смерті" }
 image:
   src: ./images/opanas-zalyvakha.jpg
-  alt: "Опанас Заливаха з квітами, чорно-біле фото"
-  position: "50% 20%"
-  author: "Валентин"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:UANTI3.jpg"
+  alt: "Опанас Заливаха, сивий чоловік із вусами, на березі Дніпра в Гідропарку, 1999"
+  position: "50% 30%"
+  ai_edit: restored
+  author: "Василь Овсієнко"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Zalyvakha.jpg"
 key_accomplishments:
   - "Співавтор вітража «Шевченко. Мати» в Київському університеті (1964), знищеного владою"
   - "Живопис, графіка, мозаїки, скульптура й кераміка на теми української історії та віри: «Козака несуть», «Козак Мамай», «Чумацька вечеря»"
@@ -39,7 +41,8 @@ sources:
     url: "https://www.ukrinform.ua/rubric-culture/4022307-na-prikarpatti-startuvav-plener-ukrainskih-hudoznikiv-do-100ricca-opanasa-zalivahi.html"
 related: [alla-horska, ivan-svitlychnyi, ivan-dziuba, vasyl-stus, yevhen-sverstiuk, viacheslav-chornovil]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T20:38:45Z
 ---
 
 ## «А ти хто?»

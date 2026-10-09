@@ -10,7 +10,7 @@ key_accomplishments:
   - "Book designs for Vasyl Stus’s Palimpsests and Yevhen Sverstiuk’s The Prodigal Sons of Ukraine"
   - "Vasyl Stus Prize (1989), Shevchenko National Prize (1995), Honoured Artist of Ukraine (1999)"
 birthplace_name: "Husynka"
-image_alt: "Opanas Zalyvakha holding flowers, black-and-white photo"
+image_alt: "Opanas Zalyvakha, a grey-haired man with a moustache, on the bank of the Dnipro in Hidropark, 1999"
 quotes:
   - text: "That turned me around, and I began to look for my roots."
     source: "Interview with Vasyl Ovsiienko, 1999"

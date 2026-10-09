@@ -12,7 +12,7 @@ key_accomplishments:
   - "The film The Color of Pomegranates (1969)"
   - "A distinctive “poetic cinema” style that influenced filmmaking"
 birthplace_name: "Tbilisi (Georgia)"
-image_alt: "Photograph of Sergei Parajanov"
+image_alt: "Sergei Parajanov with a grey beard, in a coat with a raised collar, on a street"
 ---
 
 ## An Armenian from Tbilisi at a Kyiv film studio

@@ -16,10 +16,13 @@ misconception:
 birthplace: { name: "Тбілісі", region: abroad, country: GE, lat: 41.722, lon: 44.792 }
 image:
   src: ./images/serhii-paradzhanov.jpg
-  alt: "Фотопортрет Сергія Параджанова"
-  author: "Vahan Kochar"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D5%8D%D5%A5%D6%80%D5%A3%D5%A5%D5%B5_%D5%93%D5%A1%D6%80%D5%A1%D5%BB%D5%A1%D5%B6%D5%B8%D5%BE.jpg"
+  alt: "Сергій Параджанов із сивою бородою, у плащі з піднятим коміром, на вулиці"
+  position: "50% 30%"
+  ai_edit: colorized
+  author: "Невідомий фотограф (через WikiArt)"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://www.wikiart.org/en/sergei-parajanov"
 key_accomplishments:
   - Фільм «Тіні забутих предків» (1964) - 16 нагород міжнародних кінофестивалів
   - Фільм «Колір граната» (1969)

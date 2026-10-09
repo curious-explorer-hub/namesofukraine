@@ -10,7 +10,7 @@ key_accomplishments:
   - "Translations from English: Thomas Jefferson’s Declaration of Independence, Robert Burns, Edgar Allan Poe, Somerset Maugham and others"
   - "Member of the Ukrainian Helsinki Group (1983); posthumously awarded the Order for Courage, 1st class (2006), and the Order of Prince Yaroslav the Wise, 5th class (2017)"
 birthplace_name: "Kyiv"
-image_alt: "Valerii Marchenko, black-and-white portrait photo"
+image_alt: "Valerii Marchenko in an embroidered shirt and a sweater, with fields behind him"
 quotes:
   - text: "As I looked through my articles at the interrogation table, it struck me that they would never be read by the people for whom, in fact, they had been written."
     source: "Autobiographical essay “Ordinary Fear”, 1976"
