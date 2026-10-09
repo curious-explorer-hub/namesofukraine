@@ -13,7 +13,7 @@ key_accomplishments:
   - "Head of the Lviv regional council (1990), MP, and one of the initiators of the Declaration of Independence"
   - "Runner-up in Ukraine’s first presidential election (1991); leader of Rukh"
 birthplace_name: "Yerky"
-image_alt: "Viacheslav Chornovil speaking at the Pochenkov coal mine in Makiivka, 1990s"
+image_alt: "Viacheslav Chornovil on stage, greeting the crowd with a raised hand and holding a bouquet"
 quotes:
   - text: "Ukraine begins with you"
     source: "His well-known saying, also the title of a collection of his selected articles"

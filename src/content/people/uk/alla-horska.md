@@ -15,6 +15,7 @@ image:
   src: ./images/alla-horska.jpg
   alt: "Фотопортрет Алли Горської"
   position: "50% 45%"
+  ai_edit: colorized
   author: "SemenetsOlena"
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%BB%D0%B0_%D0%93%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B0.jpg"
@@ -37,7 +38,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/alla-gorska-50-rokiv-ubuvstva/30973779.html"
 related: [vasyl-symonenko, vasyl-stus, viacheslav-chornovil, ivan-dziuba, yevhen-sverstiuk, ivan-svitlychnyi, ivan-drach, mykola-vinhranovskyi, mykhailyna-kotsiubynska, opanas-zalyvakha, les-taniuk]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T16:09:53Z
 ---
 
 ## Мова з чужих віршів

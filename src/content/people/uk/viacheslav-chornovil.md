@@ -16,10 +16,12 @@ misconception:
 birthplace: { name: "Єрки", region: cherkasy, country: UA, lat: 48.978, lon: 30.992 }
 image:
   src: ./images/viacheslav-chornovil.jpg
-  alt: "В'ячеслав Чорновіл виступає на шахті імені Поченкова в Макіївці, 1990-ті"
-  author: "М. Яковенко, В. Білецький"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:В.М.Чорновіл_на_шахті_ім._Поченкова._1.JPG"
+  alt: "В'ячеслав Чорновіл на сцені вітає людей піднятою рукою, з букетом квітів"
+  position: "50% 30%"
+  author: "Невідомий автор (через «Тексти»)"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://texty.org.ua/fragments/92256/20_rokiv_tomu_naperedodni_vyboriv_zagynuv_Chornovil-92256/"
 key_accomplishments:
   - Збірка документів «Лихо з розуму» (1967) про політичні процеси над українською інтелігенцією
   - Засновник і редактор самвидавного журналу «Український вісник»

@@ -14,6 +14,9 @@ key_accomplishments:
   - "Posthumously awarded the title Hero of Ukraine (2005)"
 birthplace_name: "Rakhnivka"
 image_alt: "KGB case-file photograph of Vasyl Stus, 1980"
+quotes:
+  - text: "My people are going through torment and suffering, but they will live, because they have a soul"
+    source: "A saying often found in documentary and biographical materials about the poet, including his letters"
 ---
 
 ## 600 poems we will never read
