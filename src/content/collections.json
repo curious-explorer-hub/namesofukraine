@@ -71,6 +71,30 @@
         "license": "CC BY-SA 3.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Azovstal_iron_and_steel_works_in_2021_—_Азовсталь,_2021_рік_01.jpg"
       }
+    },
+    {
+      "id": "donetsk-airport",
+      "label": {
+        "uk": "Кіборги",
+        "en": "Cyborgs of Donetsk Airport"
+      },
+      "description": {
+        "uk": "242 дні, з травня 2014-го до січня 2015-го, українські воїни тримали Донецький аеропорт. За стійкість їх прозвали кіборгами.",
+        "en": "For 242 days, from May 2014 to January 2015, Ukrainian soldiers held Donetsk airport. Their endurance earned them the name «cyborgs»."
+      },
+      "image": {
+        "file": "donetsk-airport.jpg",
+        "caption": {
+          "uk": "Зруйнована диспетчерська вежа Донецького аеропорту",
+          "en": "The ruined control tower of Donetsk airport"
+        },
+        "author": {
+          "uk": "Невідомий автор",
+          "en": "Unknown author"
+        },
+        "license": "Fair use",
+        "source_url": ""
+      }
     }
   ]
 }

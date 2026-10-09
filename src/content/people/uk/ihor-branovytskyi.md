@@ -34,7 +34,9 @@ sources:
   - title: "Вікіпедія - Брановицький Ігор Євгенович"
     url: "https://uk.wikipedia.org/wiki/Брановицький_Ігор_Євгенович"
 related: [ivan-zubkov]
-status: draft
+collections: [donetsk-airport]
+status: approved
+published: 2026-10-09T00:12:13Z
 ---
 
 ## Хто був кулеметником?

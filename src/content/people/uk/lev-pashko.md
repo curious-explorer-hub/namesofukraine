@@ -35,7 +35,8 @@ sources:
   - title: "24 канал - Оборона Маріуполя. Інтерв'ю з Левом Пашком («Хорусом») про бої на «Азовсталі» і полон"
     url: "https://24tv.ua/ru/oborona-mariupolja-intervju-so-lvom-pashko-horusom-o-bojah-na-azovstali-i-plen-24-kanal_n2190536"
 related: [denys-prokopenko, nazarii-hryntsevych]
-status: draft
+status: approved
+published: 2026-10-09T00:12:13Z
 ---
 
 ## Чому «Хорус»?

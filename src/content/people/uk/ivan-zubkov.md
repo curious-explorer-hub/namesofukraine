@@ -34,7 +34,9 @@ sources:
   - title: "Вікіпедія - Зубков Іван Іванович"
     url: "https://uk.wikipedia.org/wiki/Зубков_Іван_Іванович"
 related: [valerii-chybinieiev, ihor-branovytskyi]
-status: draft
+collections: [donetsk-airport]
+status: approved
+published: 2026-10-09T00:12:13Z
 ---
 
 ## Від директора м'ясокомбінату до фронту

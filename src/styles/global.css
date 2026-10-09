@@ -435,6 +435,7 @@ main:focus { outline: none; }
 [data-collection='women-army'] { --era: light-dark(#8c2f61, #f49ac7); }
 [data-collection='money-people'] { --era: light-dark(#2c5a2e, #8fd18f); }
 [data-collection='defenders-mariupol'] { --era: light-dark(#4b4e8f, #b3b6f5); }
+[data-collection='donetsk-airport'] { --era: light-dark(#5c4a3a, #d4b89c); }
 .ribbon { margin: 0; }
 /* Era cards in rows: two per row on phones, four from tablet up (seven eras: 4 + 3) */
 .ribbon-bands {
@@ -447,7 +448,6 @@ main:focus { outline: none; }
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 @media (min-width: 48rem) { .ribbon-bands { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
-@media (min-width: 48rem) { .ribbon-bands-collections { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 .era {
   --era-c: var(--era, var(--cobalt));
   position: relative;
