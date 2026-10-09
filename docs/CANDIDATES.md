@@ -157,7 +157,7 @@ Owner request: people for three proposed collections (BACKLOG C5) and a list of 
 
 ## More collection ideas (2026-10-09)
 
-Owner ideas: three more collections (BACKLOG C6). Existing profiles were found by searching the story text, so confirm each one's fit before labelling. Suggested candidates come from general knowledge and are **unverified**.
+Owner ideas: two more collections (BACKLOG C6). Existing profiles were found by searching the story text, so confirm each one's fit before labelling. Suggested candidates come from general knowledge and are **unverified**.
 
 ### Battle for Bakhmut
 
@@ -171,18 +171,3 @@ Owner ideas: three more collections (BACKLOG C6). Existing profiles were found b
 - Anyone whose profile mentions the title without saying they were awarded it.
 
 At about 60 members this would be the site's largest collection by far. Owner to decide: a collection, or a filter on the home page. If the latter, a fact field such as `awards:` in the uk frontmatter would beat a hand-kept list (a schema change, so owner decision). The "Heroes" candidates above (Source column) also belong here once drafted.
-
-### The Sixtiers
-
-**Collection:** `sixtiers`, «Шістдесятники» / "The Sixtiers" (added 2026-10-09; tile: owner-supplied collage, fair use). Labelled: `vasyl-stus`, `vasyl-symonenko`, `lina-kostenko`, `ivan-dziuba`, `viacheslav-chornovil`. Drafted 2026-10-09 (awaiting owner review, all in the collection): `alla-horska`, `ivan-svitlychnyi`, `yevhen-sverstiuk`, `mykhailyna-kotsiubynska`, `ivan-drach`, `mykola-vinhranovskyi`, `opanas-zalyvakha`, `les-taniuk`, `valerii-marchenko`. Membership check (IEU «Shistdesiatnyky», ESU, UINP, KHPG):
-- `ivan-mykolaichuk`: owner decision, lean exclude. No encyclopedia calls him a Sixtier; UINP shows only the circle (his flat on Zhylianska as a meeting place).
-- `serhii-paradzhanov`: owner decision. An ally rather than a member (born 1924; the 1965 premiere protest; headed the letter of 139, per KHPG).
-- `ivan-marchuk`: exclude. Glavcom (May 2026): «чому його не прийняли до себе шістдесятники».
-- `levko-lukianenko`: exclude. KHPG sets him apart from «нова ґенерація політв'язнів — шістдесятники».
-- `valentyn-sylvestrov`: owner decision. The 1960s «Київський авангард», called «композитори-шестидесятники» by УП Життя (2015).
-
-The owner's key source, Radomyr Mokryk's «Бунт проти імперії: українські шістдесятники» (А-ба-ба-га-ла-ма-га, 2023), isn't online; the drafts use only what interviews and reviews quote from it ([Локальна історія](https://localhistory.org.ua/texts/interviu/meni-vdalosia-zirvati-dzhekpot-radomir-mokrik-pro-knizhku-bunt-proti-imperiyi-ukrayinski-shistdesiatniki/), [Укрінформ](https://www.ukrinform.ua/rubric-culture/3692805-bunt-proti-imperii-ak-ukrainski-inteligenti-cinili-sprotivradansini.html)). A copy of the book would let us source the ties between them better.
-
-| Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
-|---|---|---|---|---|---|---|---|---|
-| Ігор Калинець | b. 1939 | Poet (literature) | 20th c. | 🟢 | Backlog | Research 2026-10-09 | | Lviv poet, political prisoner (1972–81, **unverified**); named in IEU among the arrested Sixtiers |
