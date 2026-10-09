@@ -1,4 +1,5 @@
 import { expect, test } from '@playwright/test';
+import collections from '../src/content/collections.json' with { type: 'json' };
 
 // Uses published profiles (status: approved); update if they change.
 const visibleCards = '.catalogue .shelf > li:visible';
@@ -67,18 +68,36 @@ test("a profile's era and field link to the home page, filtered", async ({ page 
   expect(await page.locator(visibleCards).count()).toBeGreaterThan(1);
 });
 
-test("a profile lists its collections, each opening the home page with that collection's description", async ({ page }) => {
-  await page.goto('/uk/people/kateryna-polishchuk/');
-  const links = page.locator('.profile-facts a[href*="?collection="]');
-  await expect(links).toHaveText(['Берегині', 'Захисники Маріуполя']);
-  await links.last().click();
-  await expect(page).toHaveURL(/\/uk\/\?collection=defenders-mariupol$/);
-  await expect(page.locator('#panel-collections')).toBeVisible();
-  await expect(page.locator('button[data-collection="defenders-mariupol"]')).toHaveAttribute('aria-pressed', 'true');
-  await expect(page.locator('.collection-note:visible')).toHaveCount(1);
-  await expect(page.locator('[data-collection-note="defenders-mariupol"]')).toBeVisible();
-  await page.locator('button[data-collection="defenders-mariupol"]').click(); // released: the description goes too
-  await expect(page.locator('.collection-note:visible')).toHaveCount(0);
+for (const lang of ['uk', 'en'] as const) {
+  test(`a profile's collections link to the home page, filtered, with the collection's description (${lang})`, async ({ page }) => {
+    const [army, mariupol, money] = ['women-army', 'defenders-mariupol', 'money-people'].map(
+      (id) => collections.collections.find((c) => c.id === id)!,
+    );
+    await page.goto(`/${lang}/people/kateryna-polishchuk/`);
+    const links = page.locator('.profile-facts a[href*="?collection="]');
+    await expect(links).toHaveText([army.label[lang], mariupol.label[lang]]);
+    await links.last().click();
+
+    await expect(page).toHaveURL(new RegExp(`/${lang}/\\?collection=defenders-mariupol$`));
+    await expect(page.locator('#panel-collections')).toBeVisible();
+    await expect(page.locator('button[data-collection="defenders-mariupol"]')).toHaveAttribute('aria-pressed', 'true');
+    const name = { uk: ['Катерина Поліщук', 'Тарас Шевченко'], en: ['Kateryna Polishchuk', 'Taras Shevchenko'] }[lang];
+    await expect(page.locator(visibleCards).filter({ hasText: name[0] })).toHaveCount(1); // she is in it
+    await expect(page.locator(visibleCards).filter({ hasText: name[1] })).toHaveCount(0); // he isn't
+    const note = page.locator('.collection-note:visible');
+    await expect(note).toHaveText(mariupol.description[lang]);
+
+    await page.locator('button[data-collection="money-people"]').click(); // another card: its description
+    await expect(note).toHaveText(money.description[lang]);
+    await page.locator('button[data-collection="money-people"]').click(); // released: no description
+    await expect(note).toHaveCount(0);
+  });
+}
+
+test('a profile in no collection has no collections row', async ({ page }) => {
+  await page.goto('/uk/people/roksolana/');
+  await expect(page.locator('.profile-facts a[href*="?era="]')).toHaveCount(1);
+  await expect(page.locator('.profile-facts a[href*="?collection="]')).toHaveCount(0);
 });
 
 test('the home page shows one way to browse at a time, as tabs', async ({ page }) => {
