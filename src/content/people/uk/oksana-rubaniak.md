@@ -36,7 +36,8 @@ sources:
     url: "https://glavcom.ua/country/society/zakhisnitsja-oksana-rubanjak-otrimala-nove-zvannja-foto-1147723.html"
 related: []
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-09T20:56:26Z
 ---
 
 ## Звідки така назва

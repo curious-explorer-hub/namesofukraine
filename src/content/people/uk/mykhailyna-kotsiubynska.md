@@ -13,11 +13,13 @@ fun_fact: "1968 року, коли Коцюбинська вже була в н�
 birthplace: { name: "Вінниця", region: vinnytsia, country: UA, lat: 49.233, lon: 28.468 }
 image:
   src: ./images/mykhailyna-kotsiubynska.jpg
-  alt: "Михайлина Коцюбинська (праворуч) у дитинстві зі Світланою Мартиновою, 1939"
-  position: "75% 30%"
-  author: "Мартинов Андрій Семенович, батько Світлани Мартинової"
-  license: "CC BY-SA 3.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Svitlana_Martinova_%26_Mikhailina_Kotsiubinska_1939.jpg"
+  alt: "Михайлина Коцюбинська, молода жінка з мереживним комірцем"
+  position: "50% 30%"
+  ai_edit: colorized
+  author: "Невідомий автор (через «Українки»)"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://ukrainky.com.ua/buty-soboyu-istoriya-shistdesyatnyczi-myhajlyny-koczyubynskoyi/"
 key_accomplishments:
   - Книжка «Етюди про поетику Шевченка» (написана в 1960-х, видана 1990)
   - Упорядниця першої в Україні книжки Василя Стуса «Дорога болю» (1990)
@@ -35,7 +37,8 @@ sources:
     url: "https://gazeta.ua/articles/history/_mihajlinu-kocyubinsku-nazivali-aferistkoyu-i-ne-dali-vijti-zamizh/945891"
 related: [mykhailo-kotsiubynskyi, vasyl-stus, viacheslav-chornovil, ivan-dziuba, lina-kostenko, alla-horska, ivan-svitlychnyi, yevhen-sverstiuk]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T20:50:46Z
 ---
 
 ## Квиток чи ідеали

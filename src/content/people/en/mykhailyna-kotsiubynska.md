@@ -10,7 +10,7 @@ key_accomplishments:
   - "Head of the editorial board of Stus's collected works; his letters appeared there with her commentary"
   - "Shevchenko National Prize (2005) for the two-volume My Horizons"
 birthplace_name: "Vinnytsia"
-image_alt: "Mykhailyna Kotsiubynska (right) as a child with Svitlana Martynova, 1939"
+image_alt: "Mykhailyna Kotsiubynska as a young woman with a lace collar"
 quotes:
   - text: "If I have to choose between ideals and the party card, I keep the ideals for myself and give you the party card."
     source: "Her recollection of being expelled from the party in 1966, quoted by Gazeta.ua, 2020"

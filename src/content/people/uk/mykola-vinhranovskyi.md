@@ -13,12 +13,13 @@ fun_fact: "Довженко ввів юного Вінграновського �
 birthplace: { name: "Богопіль (нині в межах Первомайська)", region: mykolaiv, country: UA, lat: 48.044, lon: 30.850 }
 image:
   src: ./images/mykola-vinhranovskyi.jpg
-  alt: "Микола Вінграновський біля кінокамери, чорно-біле фото"
+  alt: "Микола Вінграновський у темному піджаку й вишитій краватці"
   position: "50% 25%"
-  author: "Невідомий автор"
+  ai_edit: colorized
+  author: "Невідомий автор (через Knigogo)"
   license: "Fair use"
   fair_use: true
-  source_url: "https://uk.wikipedia.org/wiki/Файл:Vingran.jpg"
+  source_url: "https://knigogo.top/pismenniki/mykola-vingranovskyj/"
 key_accomplishments:
   - "Головна роль у фільмі Олександра Довженка «Повість полум'яних літ» (режисерка Юлія Солнцева, 1961)"
   - "Перша збірка «Атомні прелюди» (1962), згодом «Сто поезій» (1967), «На срібнім березі» (1978)"
@@ -39,7 +40,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Вінграновський_Микола_Степанович
 related: [oleksandr-dovzhenko, ivan-drach, ivan-dziuba, vasyl-stus, lina-kostenko]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T20:48:55Z
 ---
 
 ## Рік із Довженком
