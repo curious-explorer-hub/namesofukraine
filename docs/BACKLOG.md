@@ -20,6 +20,11 @@ In order. Pick from the top.
 
 ### Content session (owner, 2026-10-06)
 
+- **C5. Three new collections** (owner, 2026-10-08). People and notes: [CANDIDATES.md](CANDIDATES.md#new-collections-and-owner-list-2026-10-08).
+  - `executed-renaissance`, «Розстріляне відродження» / "The Executed Renaissance". On the site: Хвильовий, Курбас, Зеров, Остап Вишня. To draft: Куліш, Підмогильний, Яловий, Бойчук.
+  - `neoclassicists`, «Київські неокласики» / "The Kyiv Neoclassicists". On the site: Зеров. To draft: Рильський, Филипович, Драй-Хмара, Клен.
+  - Civic icons, from «Україна без Кучми» to the Maidan (id and name to pick). On the site: Руслана, Ратушний, Стерненко (draft). To draft: Гонгадзе, Гандзюк, Костенко; owner decisions on Найєм, Сольчаник.
+  - Each needs a `collections.json` entry (label, description, freely licensed image) before profiles can list it in `collections:` (the schema only accepts known ids).
 - **C4. Grow the candidate list.** Beyond the NV, ВУ and Rubryka lists: encyclopedias (ESU, Encyclopedia of Ukrainian History), state awards (Shevchenko Prize, Hero of Ukraine), diaspora, science and sport halls of fame, regional figures for empty oblasts (Kherson, Odesa, Zakarpattia, Luhansk and others), women and living people. Each with years, field, era, source and links (C2c).
 
 ## Launch checklist
