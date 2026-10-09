@@ -15,20 +15,21 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "квартира на Уманській, 35, місце зустрічей шістдесятників; місце смерті" }
 image:
   src: ./images/ivan-svitlychnyi.jpg
-  alt: "Іван Світличний у профіль, чорно-біле фото"
-  position: "50% 30%"
-  author: "Невідомий автор"
+  alt: "Іван Світличний на палубі над річкою, у твідовому піджаку"
+  position: "40% 20%"
+  ai_edit: colorized
+  author: "Архів Музею шістдесятництва (через «Локальну історію»)"
   license: "Fair use"
   fair_use: true
-  source_url: "https://uk.wikipedia.org/wiki/Файл:Світличний_Іван.jpg"
+  source_url: "https://localhistory.org.ua/texts/kolonki/vusatii-estet-z-umanskoyi-do-tridtsiatikh-rokovin-smerti-ivana-svitlichnogo/"
 key_accomplishments:
   - "Квартира на Уманській, 35 - неофіційний Клуб творчої молоді шістдесятників; один із засновників Клубу творчої молоді в Києві"
   - "Критичні статті, книжка «Художній метод» (1962); переклади з французької, чеської, польської; переклад «Слова о полку Ігоревім»"
   - "Збірка віршів «Серце для куль і для рим» (1990)"
   - "Посмертно - Державна премія України імені Тараса Шевченка (1994)"
 quotes:
-  - text: "Найдеспотичніший володар - / Поезія, твоя свобода."
-    source: "Вірш «Поезія»; цит. за «Дзеркалом тижня», 2019"
+  - text: "Культура нації — це її щит і меч. Без неї народ втрачає своє обличчя."
+    source: "З листування та спогадів"
 sources:
   - title: "Енциклопедія історії України - Світличний Іван Олексійович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Svitlychnyj_I"
@@ -40,7 +41,8 @@ sources:
     url: "https://zn.ua/ukr/personalities/pekuchiy-moralniy-maksimalizm-323475_.html"
 related: [vasyl-stus, ivan-dziuba, vasyl-symonenko, lina-kostenko, alla-horska, ivan-drach, yevhen-sverstiuk, mykhailyna-kotsiubynska, mykola-vinhranovskyi]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T16:18:42Z
 ---
 
 ## Хата на Уманській

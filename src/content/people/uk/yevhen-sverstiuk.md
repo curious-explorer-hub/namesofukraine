@@ -36,7 +36,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/26576335.html"
 related: [ivan-svitlychnyi, alla-horska, oles-honchar, vasyl-stus, ivan-dziuba, lina-kostenko, vasyl-symonenko]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-09T16:18:42Z
 ---
 
 ## Вирок за книжку про чужий роман

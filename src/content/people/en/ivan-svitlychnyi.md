@@ -10,10 +10,10 @@ key_accomplishments:
   - "The poetry collection A Heart for Bullets and Rhymes (1990)"
   - "Posthumously awarded the Shevchenko National Prize (1994)"
 birthplace_name: "Polovynkyne (now Tolokivka)"
-image_alt: "Ivan Svitlychnyi in profile, black-and-white photo"
+image_alt: "Ivan Svitlychnyi on a boat deck above a river, in a tweed jacket"
 quotes:
-  - text: "The most despotic of rulers / Is Poetry, your freedom."
-    source: "Poem “Poetry”; quoted in Dzerkalo Tyzhnia, 2019"
+  - text: "A nation’s culture is its shield and its sword. Without it, a people loses its face."
+    source: "From his letters and recollections"
 ---
 
 ## The flat on Umanska Street
