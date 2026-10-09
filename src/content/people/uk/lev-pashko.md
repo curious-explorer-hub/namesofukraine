@@ -13,11 +13,12 @@ summary: "Позивний «Хорус» він узяв на честь дав
 fun_fact: "В указі про нагородження згадано бій 26 березня 2022 року під Маріуполем, де він особисто знищив бронетранспортер і два танки противника."
 image:
   src: ./images/lev-pashko.jpg
-  alt: "Лев Пашко в бойовому спорядженні"
-  position: "50% 15%"
-  author: "АрміяInform"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%88%D0%BA%D0%BE_%D0%9B%D0%B5%D0%B2_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87,_1.jpg"
+  alt: "Лев Пашко в однострої з шевроном «Азову» на темному тлі"
+  position: "55% 25%"
+  author: "Невідомий автор (фото надала пресслужба, через Forbes Україна)"
+  license: "Fair use"
+  source_url: "https://forbes.ua/ru/war-in-ukraine/skriz-de-e-lyudi-budut-pomilki-geroy-ukraini-lev-pashko-stav-nachalnikom-shtabu-azovu-u-26-rokiv-yakimi-pravilami-liderstva-vin-keruetsya-intervyu-07022026-36122"
+  fair_use: true
 key_accomplishments:
   - "Доброволець «Азову» з 2017 року, одразу після 18-річчя"
   - "Командир роти, учасник 86-денної оборони Маріуполя, зокрема «Азовсталі»"

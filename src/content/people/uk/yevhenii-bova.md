@@ -31,6 +31,7 @@ sources:
   - title: "Gazeta.ua - Обмін українських героїв: хто повернувся додому і як Росія забрала Медведчука"
     url: "https://gazeta.ua/articles/life/_obmen-ukrainskih-geroev-kto-vernulsya-domoj-i-kak-rossiya-zabrala-medvedchuka/1112314"
 related: [volodymyr-baraniuk, denys-prokopenko, serhii-volynskyi]
+collections: [defenders-mariupol]
 status: approved
 published: 2026-10-08T02:15:34Z
 ---
