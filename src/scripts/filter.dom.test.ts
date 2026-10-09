@@ -35,6 +35,10 @@ const fixture = `
     <li><button type="button" class="era" data-collection="money-people" aria-pressed="false">money</button></li>
     <li><button type="button" class="era" data-collection="women-army" aria-pressed="false">army</button></li>
   </ol>
+  <div class="collection-notes">
+    <p data-collection-note="money-people" hidden>about money</p>
+    <p data-collection-note="women-army" hidden>about army</p>
+  </div>
   <div class="catalogue">
     <section class="group" id="literature" data-group="literature">
       <ul>
@@ -130,6 +134,21 @@ describe('initFilters', () => {
     money.click();
     expect(money.getAttribute('aria-pressed')).toBe('false');
     expect(location.search).toBe('');
+  });
+
+  it("shows the selected collection's description, and hides it once the card is released", () => {
+    const shownNotes = () =>
+      [...document.querySelectorAll<HTMLElement>('[data-collection-note]')].filter((n) => !n.hidden).map((n) => n.textContent);
+    expect(shownNotes()).toEqual([]);
+    $<HTMLButtonElement>('.era[data-collection="women-army"]').click();
+    expect(shownNotes()).toEqual(['about army']);
+    $<HTMLButtonElement>('.era[data-collection="money-people"]').click();
+    expect(shownNotes()).toEqual(['about money']);
+    $<HTMLButtonElement>('.era[data-collection="money-people"]').click();
+    expect(shownNotes()).toEqual([]);
+
+    setup('?collection=women-army'); // a shared link
+    expect(shownNotes()).toEqual(['about army']);
   });
 
   it('an era band and a collection card each press only their own kind', () => {

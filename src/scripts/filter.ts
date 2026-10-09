@@ -47,6 +47,8 @@ export function initFilters() {
     key: (button.dataset.collection ? 'collection' : 'era') as Key,
     value: (button.dataset.collection ?? button.dataset.era)!,
   }));
+  // The selected collection's description, under the collection cards
+  const notes = [...document.querySelectorAll<HTMLElement>('[data-collection-note]')];
   // Field tiles filter in place too; their links stay for no-JS and opening in a new tab.
   const fieldTiles = tileItems.map((item) => ({ link: item.querySelector<HTMLAnchorElement>('.tile')!, value: item.dataset.group! }));
   const field = (k: Key) => form.elements.namedItem(k) as HTMLInputElement | HTMLSelectElement;
@@ -99,6 +101,7 @@ export function initFilters() {
     empty.textContent = !narrowing && state.unread ? emptyText.allRead : emptyText.none;
     status.textContent = active ? status.dataset.found!.replace('{n}', String(found)) : '';
     for (const b of ribbonButtons) b.button.setAttribute('aria-pressed', String(state[b.key] === b.value));
+    for (const n of notes) n.hidden = n.dataset.collectionNote !== state.collection;
     for (const t of fieldTiles) {
       if (state.group === t.value) t.link.setAttribute('aria-current', 'true');
       else t.link.removeAttribute('aria-current');

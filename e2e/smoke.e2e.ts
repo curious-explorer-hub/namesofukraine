@@ -67,6 +67,20 @@ test("a profile's era and field link to the home page, filtered", async ({ page 
   expect(await page.locator(visibleCards).count()).toBeGreaterThan(1);
 });
 
+test("a profile lists its collections, each opening the home page with that collection's description", async ({ page }) => {
+  await page.goto('/uk/people/kateryna-polishchuk/');
+  const links = page.locator('.profile-facts a[href*="?collection="]');
+  await expect(links).toHaveText(['Берегині', 'Захисники Маріуполя']);
+  await links.last().click();
+  await expect(page).toHaveURL(/\/uk\/\?collection=defenders-mariupol$/);
+  await expect(page.locator('#panel-collections')).toBeVisible();
+  await expect(page.locator('button[data-collection="defenders-mariupol"]')).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.locator('.collection-note:visible')).toHaveCount(1);
+  await expect(page.locator('[data-collection-note="defenders-mariupol"]')).toBeVisible();
+  await page.locator('button[data-collection="defenders-mariupol"]').click(); // released: the description goes too
+  await expect(page.locator('.collection-note:visible')).toHaveCount(0);
+});
+
 test('the home page shows one way to browse at a time, as tabs', async ({ page }) => {
   await page.goto('/uk/');
   await expect(page.locator('#panel-search')).toBeVisible();
