@@ -137,6 +137,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-10-06 | D15 | **Map:** a static SVG of the oblasts drawn at build time, no tiles or third-party requests, tied to the filters. (Replaced Leaflet/MapLibre.) |
 | 2026-10-05 | D16 | **Portraits in full colour** everywhere on the site; the cobalt treatment remains only on share cards. Commissioned illustrations for featured figures later, if ever. |
 | 2026-09-29 | D17 | **Feedback form:** Tally (free, spam protection, no login). |
+| 2026-10-08 | D18 | **Videos in profiles:** YouTube videos (`videos` in the uk file) show as a card in the story; nothing loads from YouTube until the reader presses play, then the player (youtube-nocookie.com) replaces the card in place. Without JS the card links to YouTube. CSP: `frame-src` allows youtube-nocookie.com. |
 | 2026-09-29 | G4 | Selection criteria per §7. |
 | 2026-09-29 | — | **Content before promotion:** soft launch on `pages.dev`; buy the domain before promoting widely. |
 | 2026-09-29 | — | **Dates:** new style (Gregorian) from 1582; earlier dates as in the sources (Julian). |

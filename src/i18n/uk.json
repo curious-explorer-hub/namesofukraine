@@ -7,6 +7,8 @@
   "person.photo_credit": "Фото в тексті",
   "person.image_colorized": "кольоризовано за допомогою ШІ (Gemini)",
   "person.image_fair_use": "використано на умовах добросовісного використання (fair use), не підпадає під ліцензію CC BY-SA",
+  "video.play": "Відтворити відео: {title}",
+  "video.note": "Відео завантажиться з YouTube",
   "person.image_restored": "відреставровано за допомогою ШІ (Gemini)",
   "person.image_rendered": "перетворено на фотореалістичне зображення за допомогою ШІ (Gemini); це не справжня фотографія",
   "person.last_reviewed": "Станом на",

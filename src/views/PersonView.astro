@@ -45,6 +45,13 @@ for (const g of data.gallery) {
   const i = Math.min(g.section - offset, sections.length - 1);
   sections[i] += `<figure class="story-photo"><img src="${img.src}" srcset="${img.srcSet.attribute}" sizes="(min-width: 48rem) 42rem, 100vw" width="${g.src.width}" height="${g.src.height}" alt="${escape(g.alt)}" loading="lazy" decoding="async"><figcaption>${escape(g.caption)}</figcaption></figure>`;
 }
+// Story videos (`videos`): placed like the photos. Without JS the card is a plain link to YouTube; with JS
+// it becomes a player in place, but only after the reader presses play (src/scripts/video.ts, D18).
+for (const v of data.videos) {
+  const i = Math.min(v.section - offset, sections.length - 1);
+  const meta = [v.source, fullDate(v.date, false, lang), v.duration].join(' · ');
+  sections[i] += `<figure class="story-video"><a class="story-video-play" href="https://www.youtube.com/watch?v=${v.youtube}" data-youtube="${v.youtube}" data-title="${escape(v.title)}" aria-label="${escape(t('video.play', lang, { title: v.title }))}"><span class="story-video-icon" aria-hidden="true"></span><span class="story-video-note">${t('video.note', lang)}</span></a><figcaption><span class="story-video-title">${escape(v.title)}</span><span class="story-video-meta">${escape(meta)}</span></figcaption></figure>`;
+}
 const story = sections.join('');
 // Only link related people that are published in this build.
 const related = data.related
@@ -225,5 +232,7 @@ const memberOf = collections.collections.filter((c) => data.collections.includes
 
 <script>
   import { initStickySide } from '../scripts/sticky-side';
+  import { initVideos } from '../scripts/video';
   initStickySide();
+  initVideos();
 </script>
