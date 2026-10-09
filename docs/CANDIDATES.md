@@ -147,3 +147,33 @@ Owner request: people for three proposed collections (BACKLOG C5) and a list of 
 | Тарас Чмут | | Volunteer, military analyst (civic) | Independence | 🟢 | Backlog | Owner request 2026-10-08 | | Head of the «Повернись живим» foundation; former marine. Years and career: **unverified** |
 | Сергій Притула | b. 1981 | TV host, volunteer (civic) | Independence | 🟢 ⚖️ | Decision | Owner request 2026-10-08 | | His foundation raised money for the Bayraktars and the ICEYE satellite (2022). He also ran for office (party «Голос»): a politician by §7.6, so owner decision. Years: **unverified** |
 | Олексій Ануля | | Defender, human-rights advocate (defenders) | Independence | 🟢 | Backlog | Owner request 2026-10-08 | | The owner's list spells him «Anylya». Defender from Chernihiv oblast, 10 months in Russian captivity; now works to free prisoners, supports families of the missing and documents war crimes; author of «Jingle bellz» (2025); first winner of the Ihor Kozlovskyi Prize from the Center for Civil Liberties (Dec 2025) ([УП Життя](https://life.pravda.com.ua/society/oleksiy-anulya-otrimav-premiyu-imeni-igorya-kozlovskogo-311999/), [Суспільне](https://suspilne.media/612839-znajsov-svij-avtomat-u-lukasivci-akij-zahovav-20-misaciv-tomu-pisla-bou-istoria-oleksia-anuli-z-cernigivsini/)). Years **unverified**. Captivity: public deeds only |
+
+## More collection ideas (2026-10-09)
+
+Owner ideas: three more collections (BACKLOG C6). Existing profiles were found by searching the story text, so confirm each one's fit before labelling. Suggested candidates come from general knowledge and are **unverified**.
+
+### Battle for Bakhmut
+
+**Collection:** proposed `bakhmut`, «Бахмут» / "The Battle for Bakhmut" (2022–23). Existing profiles to label: `dmytro-kotsiubailo`, `oleksandr-matsiievskyi`, `yevhen-mezhevikin` (draft; commanded on the Bakhmut axis). To check: `oksana-rubaniak` (draft; her profile only mentions driving ammunition towards Bakhmut). Not a fit: `oleksandr-trepak` (killed near Artemivsk in 2014, before the battle). New candidates: none yet; research Heroes of Ukraine decrees and unit histories for the battle (Aug 2022 – May 2023).
+
+### Heroes of Ukraine («Герої України»)
+
+**Collection:** proposed `heroes-of-ukraine`, «Герої України» / "Heroes of Ukraine". 60 existing profiles mention the title. Before labelling, confirm the award (decree number and date) for each one, and leave out:
+- `stepan-bandera`: the 2010 decree was ruled unlawful by the courts (2010–11), as his profile says.
+- `roman-shukhevych`: the 2007 award was also challenged in court; check its status.
+- Anyone whose profile mentions the title without saying they were awarded it.
+
+At about 60 members this would be the site's largest collection by far. Owner to decide: a collection, or a filter on the home page. If the latter, a fact field such as `awards:` in the uk frontmatter would beat a hand-kept list (a schema change, so owner decision). The "Heroes" candidates above (Source column) also belong here once drafted.
+
+### The Sixtiers («Шістдесятники»)
+
+**Collection:** proposed `sixtiers`, «Шістдесятники» / "The Sixtiers". Existing profiles to label: `vasyl-stus`, `vasyl-symonenko`, `lina-kostenko`, `ivan-dziuba`, `viacheslav-chornovil`. To check: `ivan-mykolaichuk`, `serhii-paradzhanov`, `ivan-marchuk`, `levko-lukianenko` (contemporaries who are sometimes counted among them).
+
+| Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
+|---|---|---|---|---|---|---|---|---|
+| Алла Горська | 1929–1970 | Painter (visual-arts) | 20th c. | 👩 | Backlog | Owner idea 2026-10-09 | Симоненко* (разом розкрили поховання в Биківні, 1962) | Painter and organiser of the Club of Creative Youth; killed in 1970 in unclear circumstances (state that plainly, with sources) |
+| Іван Світличний | 1929–1992 | Critic, poet (literature) | 20th c. | | Backlog | Owner idea 2026-10-09 | Стус*, Дзюба* | Literary critic at the centre of the Kyiv Sixtiers; arrested in 1965 and 1972 |
+| Євген Сверстюк | 1928–2014 | Essayist, dissident (literature) | 20th c. | | Backlog | Owner idea 2026-10-09 | Світличний (кандидат); Стус* | Essayist; political prisoner (1972–83); later head of Ukrainian PEN |
+| Михайлина Коцюбинська | 1931–2011 | Literary scholar (literature) | 20th c. | 👩 | Backlog | Owner idea 2026-10-09 | Михайло Коцюбинський* (родина); Стус* | Literary scholar and Sixtiers figure; niece of Mykhailo Kotsiubynskyi |
+| Іван Драч | 1936–2018 | Poet (literature) | 20th c. | ⚖️ | Backlog | Owner idea 2026-10-09 | Ліна Костенко* (покоління) | Poet; later first head of Rukh (1989). His conformist period in the 1970s needs neutral framing |
+| Микола Вінграновський | 1936–2004 | Poet, film director (literature) | 20th c. | | Backlog | Owner idea 2026-10-09 | Довженко* (учень) | Poet and Dovzhenko's student; children's books still read in schools |
