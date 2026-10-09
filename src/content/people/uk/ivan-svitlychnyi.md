@@ -15,11 +15,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "квартира на Уманській, 35, місце зустрічей шістдесятників; місце смерті" }
 image:
   src: ./images/ivan-svitlychnyi.jpg
-  alt: "Поштова марка «Шістдесятники. Іван Світличний (1929–1992)», 2019"
-  position: "65% 40%"
-  author: "ukrposhta"
-  license: "Public domain (PD-UA-exempt, stamps)"
-  source_url: "https://commons.wikimedia.org/wiki/File:Shistdesyatnyky_-_Ivan_Svitlichny_Stamps_of_Ukraine_2019.jpg"
+  alt: "Іван Світличний у профіль, чорно-біле фото"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Світличний_Іван.jpg"
 key_accomplishments:
   - "Квартира на Уманській, 35 - неофіційний Клуб творчої молоді шістдесятників; один із засновників Клубу творчої молоді в Києві"
   - "Критичні статті, книжка «Художній метод» (1962); переклади з французької, чеської, польської; переклад «Слова о полку Ігоревім»"

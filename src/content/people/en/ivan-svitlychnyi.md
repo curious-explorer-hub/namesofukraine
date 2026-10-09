@@ -10,7 +10,7 @@ key_accomplishments:
   - "The poetry collection A Heart for Bullets and Rhymes (1990)"
   - "Posthumously awarded the Shevchenko National Prize (1994)"
 birthplace_name: "Polovynkyne (now Tolokivka)"
-image_alt: "Postage stamp “The Sixtiers. Ivan Svitlychnyi (1929–1992)”, 2019"
+image_alt: "Ivan Svitlychnyi in profile, black-and-white photo"
 quotes:
   - text: "The most despotic of rulers / Is Poetry, your freedom."
     source: "Poem “Poetry”; quoted in Dzerkalo Tyzhnia, 2019"

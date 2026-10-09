@@ -14,7 +14,8 @@ birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.45, lon:
 image:
   src: ./images/pavlo-petrychenko.jpg
   alt: "Павло Петриченко у військовому спорядженні з жовтою пов'язкою на тлі неба"
-  position: "50% 15%"
+  position: "48% 15%"
+  ai_edit: restored
   author: "Невідомий автор (через Платформу пам'яті «Меморіал»)"
   license: "Fair use"
   fair_use: true

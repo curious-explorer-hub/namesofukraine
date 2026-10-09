@@ -14,6 +14,7 @@ birthplace_name: "Bohopil (now part of Pervomaisk)"
 quotes:
   - text: "If my people are counted formally, / Then I am truly a true formalist!"
     source: "Poem in reply to charges of formalism; quoted by Chytomo, 2023"
+image_alt: "Mykola Vinhranovskyi beside a film camera, black-and-white photo"
 ---
 
 ## A year with Dovzhenko
