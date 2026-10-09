@@ -1,0 +1,34 @@
+name: Post to Threads
+
+# Run by hand from the Actions tab with a profile link; posts that profile to Threads in Ukrainian.
+on:
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: Profile link, e.g. https://namesofukraine.com/uk/people/ivan-franko/
+        required: true
+      dry_run:
+        description: Dry run (print the post, don't publish)
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+# One post at a time, so a double click can't post twice in parallel.
+concurrency: post-threads
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      # Inputs go through env, never straight into the shell command.
+      - run: node scripts/post-threads.mjs "$PROFILE" $DRY_RUN
+        env:
+          PROFILE: ${{ inputs.profile }}
+          DRY_RUN: ${{ inputs.dry_run && '--dry-run' || '' }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}

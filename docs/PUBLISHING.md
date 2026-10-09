@@ -77,6 +77,7 @@ Names only; the values live in GitHub and Cloudflare, never in this repository.
 |---|---|---|
 | GitHub → Settings → Secrets and variables → Actions | `CLOUDFLARE_API_TOKEN` | A Cloudflare API token with the permission **Account · Cloudflare Pages · Edit** |
 | same | `CLOUDFLARE_ACCOUNT_ID` | The Cloudflare account ID (shown in the dashboard URL and on the account overview) |
+| same | `THREADS_ACCESS_TOKEN` | A long-lived Threads user token for posting (see [Posting to Threads](#posting-to-threads)); expires after 60 days |
 | `astro.config.mjs` | `site` | The public address; canonical, `hreflang`, sitemap, `robots.txt`, structured data and share cards are built from it |
 | `.github/workflows/ci.yml` | `--project-name=namesofukraine` | The Cloudflare Pages project the site deploys to |
 | `public/_headers` | — | Security headers (CSP and others), applied by Cloudflare Pages |
@@ -99,3 +100,16 @@ The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/e
 **Turning the form off:** set `SUGGEST_FORM_URL` in `src/site.ts` to `''` and push; the page then says the form is coming soon.
 
 Answer corrections from or about living people promptly (product_vision.md §7.6).
+
+## Posting to Threads
+
+**Post a profile:** GitHub → Actions → **Post to Threads** → Run workflow, paste a profile link (e.g. `https://namesofukraine.com/uk/people/ivan-franko/`). The first run is a dry run by default: the log shows the post without publishing it. Untick **Dry run** to publish; the log ends with the post's link. The post is in Ukrainian: name and years, role, summary, the profile link and the profile's share card. Only profiles live on the site can be posted. Locally: `node scripts/post-threads.mjs <link> --dry-run`.
+
+**One-time setup** (the Threads profile needs an Instagram account):
+
+1. At <https://developers.facebook.com/apps>, create an app with the use case **Access the Threads API**, and add the permissions `threads_basic` and `threads_content_publish`.
+2. Under **App roles → Roles**, add the site's Threads profile as a **Threads Tester**, then accept the invite in Threads (Settings → Account → Website permissions → Invites). The app can stay in development mode: it only posts to accounts that have a role in it.
+3. Generate a user token for that profile in the use case's settings, and exchange it for a long-lived one (60 days): `https://graph.threads.net/access_token?grant_type=th_exchange_token&client_secret=<app secret>&access_token=<token>`.
+4. Save the long-lived token as the `THREADS_ACCESS_TOKEN` repository secret.
+
+**Every ~50 days:** refresh the token before it expires (`https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token=<token>`) and save the new one in the secret. An expired token makes the workflow fail; nothing is posted.
