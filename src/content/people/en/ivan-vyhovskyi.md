@@ -33,7 +33,7 @@ According to the Encyclopedia of the History of Ukraine, he later moved from the
 
 ## Debates and assessments
 
-Historians judge the Treaty of Hadiach in different ways. The 19th-century historian Mykola Kostomarov saw Vyhovskyi as a fighter for independence from Moscow. The Encyclopedia of the History of Ukraine notes that the treaty “substantially limited the internal sovereignty” of Cossack Ukraine and that many Cossacks rejected it. The suppression of Pushkar’s uprising in 1658 also casts a shadow: according to the same encyclopedia, more than 50,000 people died.
+Historians judge the Treaty of Hadiach in different ways. The 19th-century historian [Mykola Kostomarov](/en/people/mykola-kostomarov/) saw Vyhovskyi as a fighter for independence from Moscow. The Encyclopedia of the History of Ukraine notes that the treaty “substantially limited the internal sovereignty” of Cossack Ukraine and that many Cossacks rejected it. The suppression of Pushkar’s uprising in 1658 also casts a shadow: according to the same encyclopedia, more than 50,000 people died.
 
 ## Why he is remembered
 

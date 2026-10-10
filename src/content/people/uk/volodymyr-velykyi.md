@@ -37,7 +37,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Володимир_Святославич
   - title: "Укрінформ - Сьогодні відзначають День Української Державності (15.07.2025)"
     url: "https://www.ukrinform.ua/rubric-society/4014918-sogodni-vidznacaut-den-ukrainskoi-derzavnosti.html"
-related: [yaroslav-mudryi, kniahynia-olha, anna-yaroslavna]
+related: [yaroslav-mudryi, kniahynia-olha, anna-yaroslavna, sviatoslav-khorobryi]
 collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
@@ -49,7 +49,7 @@ published: 2026-10-07T06:23:13Z
 
 ## Син ключниці, що став великим князем
 
-Володимир був сином князя Святослава та Малуші, ключниці [княгині Ольги](/uk/people/kniahynia-olha/). Точні дата й місце його народження невідомі; зазвичай називають приблизно 958 рік. Спершу він княжив у Новгороді, а близько 980 року, перемігши в міжусобній війні брата Ярополка, став великим князем київським.
+Володимир був сином [князя Святослава](/uk/people/sviatoslav-khorobryi/) та Малуші, ключниці [княгині Ольги](/uk/people/kniahynia-olha/). Точні дата й місце його народження невідомі; зазвичай називають приблизно 958 рік. Спершу він княжив у Новгороді, а близько 980 року, перемігши в міжусобній війні брата Ярополка, став великим князем київським.
 
 ## Від Перуна до хрещення
 

@@ -33,7 +33,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CM%5CA%5CMazepaIvan.htm"
   - title: Вікіпедія - Іван Мазепа
     url: https://uk.wikipedia.org/wiki/Іван_Мазепа
-related: [petro-sahaidachnyi, pylyp-orlyk, petro-doroshenko]
+related: [petro-sahaidachnyi, pylyp-orlyk, petro-doroshenko, feofan-prokopovych]
 collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z

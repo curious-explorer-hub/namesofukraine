@@ -31,7 +31,7 @@ For The Misfortune of Intellect, and later for the samizdat (self-published unde
 
 ## From Lviv to Rukh
 
-In 1990 Chornovil became head of the Lviv regional council, he was among the initiators of the Act of Declaration of Independence, and in the first presidential election in 1991 he came second. According to [Bohdan Havrylyshyn](/en/people/bohdan-havrylyshyn/), President Leonid Kravchuk invited Chornovil into government, even offering to let him name deputy prime ministers and ministers, but he refused and stayed in opposition. He later became head of the People’s Movement of Ukraine (Rukh). On 25 March 1999 Chornovil died in a car crash near Boryspil in circumstances that have never been cleared up.
+In 1990 Chornovil became head of the Lviv regional council, he was among the initiators of the Act of Declaration of Independence, and in the first presidential election in 1991 he came second. According to [Bohdan Havrylyshyn](/en/people/bohdan-havrylyshyn/), President [Leonid Kravchuk](/en/people/leonid-kravchuk/) invited Chornovil into government, even offering to let him name deputy prime ministers and ministers, but he refused and stayed in opposition. He later became head of the People’s Movement of Ukraine (Rukh). On 25 March 1999 Chornovil died in a car crash near Boryspil in circumstances that have never been cleared up.
 
 ## Why it matters today
 

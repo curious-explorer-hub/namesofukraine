@@ -20,7 +20,7 @@ More than a hundred roles in the theater and as many again on screen: that is Bo
 
 ## From Don Juan to Tevye
 
-In 1978 Stupka moved to the Ivan Franko Theater in Kyiv, and from 2001 to 2012 he was its artistic director. There he played Mykola Zadorozhnyi in Ivan Franko’s Stolen Happiness, Don Juan in [Lesya Ukrainka](/en/people/lesya-ukrainka/)’s The Stone Host, and the Author in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). His Tevye in Tevye-Tevel, based on Sholem Aleichem, won him the Shevchenko Prize (1993).
+In 1978 Stupka moved to the Ivan Franko Theater in Kyiv, and from 2001 to 2012 he was its artistic director. There he played Mykola Zadorozhnyi in Ivan Franko’s Stolen Happiness, Don Juan in [Lesya Ukrainka](/en/people/lesya-ukrainka/)’s The Stone Host, and the Author in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). His Tevye in Tevye-Tevel, based on [Sholem Aleichem](/en/people/sholom-aleikhem/), won him the Shevchenko Prize (1993).
 
 On screen Stupka appeared in Yurii Illienko’s A White Bird with a Black Mark, The Kaidash Family, With Fire and Sword and East/West.
 

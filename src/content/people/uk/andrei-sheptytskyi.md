@@ -36,7 +36,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CH%5CSheptytskyAndrei.htm"
   - title: Wikipedia (EN) - Andrey Sheptytsky
     url: https://en.wikipedia.org/wiki/Andrey_Sheptytsky
-related: [ivan-franko]
+related: [ivan-franko, yosyf-slipyi]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

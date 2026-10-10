@@ -19,7 +19,7 @@ image_alt: "Saint Olha, an icon from c. 1700 (detail)"
 
 ## More than revenge
 
-In the autumn of 944 the Derevlianians killed Prince Ihor of Kyiv when he tried to collect tribute from them a second time. His widow, Olha, took the throne of Kyiv and ruled in place of their young son, Sviatoslav. In 945–946 she crushed the Derevlianians and abolished their tribal principality. The chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds.
+In the autumn of 944 the Derevlianians killed Prince Ihor of Kyiv when he tried to collect tribute from them a second time. His widow, Olha, took the throne of Kyiv and ruled in place of their young son, [Sviatoslav](/en/people/sviatoslav-khorobryi/). In 945–946 she crushed the Derevlianians and abolished their tribal principality. The chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds.
 
 But Olha’s most important work came afterwards. Instead of poliuddia, the dangerous tribute rounds on one of which Ihor had been killed, she set up princely pohosty and stations across the country. Through these centers Kyiv collected taxes, held courts and governed its lands.
 

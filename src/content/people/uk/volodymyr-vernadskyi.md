@@ -36,7 +36,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CE%5CVernadskyVolodymyr.htm"
   - title: Вікіпедія - Вернадський Володимир Іванович
     url: https://uk.wikipedia.org/wiki/Володимир_Вернадський
-related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi, ahatanhel-krymskyi]
+related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi, ahatanhel-krymskyi, oleksandr-bohomolets]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

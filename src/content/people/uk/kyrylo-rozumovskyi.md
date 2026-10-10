@@ -33,7 +33,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CO%5CRozumovskyKyrylo.htm"
   - title: Вікіпедія - Кирило Розумовський
     url: https://uk.wikipedia.org/wiki/Кирило_Розумовський
-related: [ivan-mazepa, petro-kalnyshevskyi, pavlo-skoropadskyi]
+related: [ivan-mazepa, petro-kalnyshevskyi, pavlo-skoropadskyi, maksym-berezovskyi]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

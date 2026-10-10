@@ -33,6 +33,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CM%5CE%5CMechnikovIllia.htm"
   - title: Вікіпедія - Мечников Ілля Ілліч
     url: https://uk.wikipedia.org/wiki/Мечников_Ілля_Ілліч
+related: [oleksandr-bohomolets, danylo-zabolotnyi]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

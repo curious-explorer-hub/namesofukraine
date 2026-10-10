@@ -28,7 +28,7 @@ In 1921 Yohansen, [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and Volodymyr 
 
 ## Film, theater and language
 
-With Yurii Tiutiunnyk, Yohansen wrote the script of Zvenyhora, the film made by [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/). With Mykola Khvylovy and [Ostap Vyshnia](/en/people/ostap-vyshnia/) he wrote the operetta Mikado and the revue Hello, on Wave 477! for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater. In his novel Doctor Leonardo’s Travels through the Switzerland of Slobidska Ukraine (1928) he made the landscape the main character and pushed the people into supporting roles. He was a linguist too: he knew European and Scandinavian languages, helped compile a Russian–Ukrainian dictionary (1926) and worked on the draft of the 1928 Ukrainian orthography.
+With [Yurii Tiutiunnyk](/en/people/yurii-tiutiunnyk/), Yohansen wrote the script of Zvenyhora, the film made by [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/). With Mykola Khvylovy and [Ostap Vyshnia](/en/people/ostap-vyshnia/) he wrote the operetta Mikado and the revue Hello, on Wave 477! for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater. In his novel Doctor Leonardo’s Travels through the Switzerland of Slobidska Ukraine (1928) he made the landscape the main character and pushed the people into supporting roles. He was a linguist too: he knew European and Scandinavian languages, helped compile a Russian–Ukrainian dictionary (1926) and worked on the draft of the 1928 Ukrainian orthography.
 
 ## Books for children
 

@@ -22,7 +22,7 @@ His whole career lies between those dates. After a few years in other jobs and m
 
 ## A director in politics
 
-Boiko was an unofficial adviser to President Leonid Kravchuk and a member of the Donetsk regional council. In 2002 he was elected to the Verkhovna Rada, and twice more after that: in 2006 on the Socialist Party list and in 2012 on the Party of Regions list. He died in Mariupol on 10 June 2015.
+Boiko was an unofficial adviser to President [Leonid Kravchuk](/en/people/leonid-kravchuk/) and a member of the Donetsk regional council. In 2002 he was elected to the Verkhovna Rada, and twice more after that: in 2006 on the Socialist Party list and in 2012 on the Party of Regions list. He died in Mariupol on 10 June 2015.
 
 ## Debates and assessments
 

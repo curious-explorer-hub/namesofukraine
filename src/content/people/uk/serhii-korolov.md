@@ -32,7 +32,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CO%5CKorolovSerhii.htm"
   - title: Wikipedia (EN) - Sergei Korolev
     url: https://en.wikipedia.org/wiki/Sergei_Korolev
-related: [ihor-sikorskyi, volodymyr-vernadskyi]
+related: [ihor-sikorskyi, volodymyr-vernadskyi, valentyn-hlushko]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

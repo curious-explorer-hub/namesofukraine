@@ -32,7 +32,7 @@ sources:
     url: "https://www.kyivpost.com/post/85968"
   - title: Вікіпедія - Кличко Віталій Володимирович
     url: https://uk.wikipedia.org/wiki/Кличко_Віталій_Володимирович
-related: [volodymyr-klychko]
+related: [volodymyr-klychko, oleksandr-usyk]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

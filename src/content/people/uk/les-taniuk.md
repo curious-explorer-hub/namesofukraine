@@ -38,7 +38,7 @@ sources:
     url: "https://www.radiosvoboda.org/a/1964194.html"
   - title: "Дзеркало тижня - «Його світ вимірювався вічністю» (06.07.2018)"
     url: "https://zn.ua/ukr/personalities/yogo-svit-vimiryuvavsya-vichnistyu-282418_.html"
-related: [alla-horska, vasyl-symonenko, ivan-svitlychnyi, vasyl-stus, viacheslav-chornovil, les-kurbas, ivan-drach]
+related: [alla-horska, vasyl-symonenko, ivan-svitlychnyi, vasyl-stus, viacheslav-chornovil, les-kurbas, ivan-drach, yurii-rybchynskyi]
 collections: [sixtiers]
 status: approved
 published: 2026-10-09T20:29:36Z
@@ -62,4 +62,4 @@ published: 2026-10-09T20:29:36Z
 
 Тоді він узявся за громадську справу: долучився до товариства «Меморіал», яке повертало пам'ять про жертв репресій, і з 1992 року очолював його. 1990 року Танюка обрали до Верховної Ради, де він очолив комісію з питань культури і духовного відродження. Народним депутатом він був п'ять скликань.
 
-Десятиліттями Лесь Танюк щодня, навіть коштом сну, писав щоденник. Він помер у Києві 18 березня 2016 року. Поет Юрій Рибчинський назвав його записи щоденником ХХ століття, у якому автор був не глядачем, а учасником подій.
+Десятиліттями Лесь Танюк щодня, навіть коштом сну, писав щоденник. Він помер у Києві 18 березня 2016 року. Поет [Юрій Рибчинський](/uk/people/yurii-rybchynskyi/) назвав його записи щоденником ХХ століття, у якому автор був не глядачем, а учасником подій.

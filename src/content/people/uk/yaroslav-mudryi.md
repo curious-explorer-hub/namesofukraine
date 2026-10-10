@@ -35,7 +35,7 @@ sources:
     url: "http://history.org.ua/?termin=Anna_Y"
   - title: Вікіпедія - Ярослав Мудрий
     url: https://uk.wikipedia.org/wiki/Ярослав_Мудрий
-related: [volodymyr-velykyi, anna-yaroslavna, kniahynia-olha]
+related: [volodymyr-velykyi, anna-yaroslavna, kniahynia-olha, volodymyr-monomakh]
 collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z

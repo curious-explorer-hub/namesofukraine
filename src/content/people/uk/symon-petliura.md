@@ -37,7 +37,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CO%5CPogrom.htm"
   - title: Wikipedia (EN) - Symon Petliura
     url: https://en.wikipedia.org/wiki/Symon_Petliura
-related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko]
+related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko, averkii-honcharenko, mykhailo-omelianovych-pavlenko, yurii-tiutiunnyk, marko-bezruchko]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

@@ -37,7 +37,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CO%5CBoichukMykhailo.htm"
   - title: Вікіпедія - Бойчук Михайло Львович
     url: https://uk.wikipedia.org/wiki/Михайло_Бойчук
-related: [andrei-sheptytskyi, mykhailo-hrushevskyi, sofiia-nalepynska-boichuk]
+related: [andrei-sheptytskyi, mykhailo-hrushevskyi, sofiia-nalepynska-boichuk, heorhii-narbut]
 collections: [executed-renaissance]
 status: draft
 ---

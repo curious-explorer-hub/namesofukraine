@@ -21,7 +21,7 @@ quotes:
 
 ## Welding that helped win a war
 
-Borys Paton was born in 1918 in Kyiv into the family of Yevhen Paton, the scientist after whom the Institute of Electric Welding was later named. In 1941 he graduated from the Kyiv Industrial Institute (now the Kyiv Polytechnic Institute) and became an engineer at the Krasnoye Sormovo plant in the city of Gorky. From 1942 Paton worked at the Institute of Electric Welding, which had been evacuated to Nizhny Tagil, and helped introduce automatic welding of tank armor.
+Borys Paton was born in 1918 in Kyiv into the family of [Yevhen Paton](/en/people/yevhen-paton/), the scientist after whom the Institute of Electric Welding was later named. In 1941 he graduated from the Kyiv Industrial Institute (now the Kyiv Polytechnic Institute) and became an engineer at the Krasnoye Sormovo plant in the city of Gorky. From 1942 Paton worked at the Institute of Electric Welding, which had been evacuated to Nizhny Tagil, and helped introduce automatic welding of tank armor.
 
 ## How do you weld metal in space?
 

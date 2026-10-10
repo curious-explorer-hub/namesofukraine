@@ -29,7 +29,7 @@ sources:
     url: "http://history.org.ua/?termin=Bykov_L"
   - title: Вікіпедія - Биков Леонід Федорович
     url: https://uk.wikipedia.org/wiki/Биков_Леонід_Федорович
-related: [ivan-mykolaichuk, oleksandr-dovzhenko]
+related: [ivan-mykolaichuk, oleksandr-dovzhenko, mykola-hrynko]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

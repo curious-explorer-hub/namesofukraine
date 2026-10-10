@@ -29,7 +29,7 @@ sources:
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Bandera_S"
   - title: Wikipedia (EN) - Stepan Bandera
     url: https://en.wikipedia.org/wiki/Stepan_Bandera
-related: [yevhen-konovalets, roman-shukhevych]
+related: [yevhen-konovalets, roman-shukhevych, dmytro-kliachkivskyi]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

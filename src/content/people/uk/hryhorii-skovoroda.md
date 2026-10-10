@@ -34,7 +34,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CK%5CSkovorodaHryhorii.htm"
   - title: Вікіпедія - Сковорода Григорій Савич
     url: https://uk.wikipedia.org/wiki/Григорій_Сковорода
-related: [ivan-franko, taras-shevchenko]
+related: [ivan-franko, taras-shevchenko, myroslav-popovych]
 collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z

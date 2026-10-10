@@ -22,7 +22,7 @@ The trident that is Ukraine’s state coat of arms today was the personal sign o
 
 ## The housekeeper’s son who became Grand Prince
 
-Volodymyr was the son of Prince Sviatoslav and Malusha, the housekeeper of [Princess Olha](/en/people/kniahynia-olha/). The exact date and place of his birth are unknown; around 958 is usually given. He first ruled in Novgorod, and around 980, after defeating his brother Yaropolk in a war between the princes, he became Grand Prince of Kyiv.
+Volodymyr was the son of [Prince Sviatoslav](/en/people/sviatoslav-khorobryi/) and Malusha, the housekeeper of [Princess Olha](/en/people/kniahynia-olha/). The exact date and place of his birth are unknown; around 958 is usually given. He first ruled in Novgorod, and around 980, after defeating his brother Yaropolk in a war between the princes, he became Grand Prince of Kyiv.
 
 ## From Perun to baptism
 

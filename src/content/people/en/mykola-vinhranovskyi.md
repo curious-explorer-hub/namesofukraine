@@ -29,7 +29,7 @@ When he was accused of formalism and summoned to a meeting where he was expected
 
 ## Films, children’s books and Nalyvaiko
 
-Vinhranovskyi directed the feature films The Shore of Hope, Duma about Brytanka and Klymko, and in the 1990s documentaries about Chyhyryn, Baturyn and Halych. He wrote poems and stories for children, among them Siromanets (1977), and in 1984 his work for children won the Shevchenko Prize. He considered the historical novel Severyn Nalyvaiko his finest work; [Ivan Dziuba](/en/people/ivan-dziuba/) wrote the preface to its first edition. From 1989 to 1993 he headed Ukrainian PEN. He died in Kyiv on 26 May 2004.
+Vinhranovskyi directed the feature films The Shore of Hope, Duma about Brytanka and Klymko, and in the 1990s documentaries about Chyhyryn, Baturyn and Halych. He wrote poems and stories for children, among them Siromanets (1977), and in 1984 his work for children won the Shevchenko Prize. He considered the historical novel [Severyn Nalyvaiko](/en/people/severyn-nalyvaiko/) his finest work; [Ivan Dziuba](/en/people/ivan-dziuba/) wrote the preface to its first edition. From 1989 to 1993 he headed Ukrainian PEN. He died in Kyiv on 26 May 2004.
 
 ## Why it matters today
 

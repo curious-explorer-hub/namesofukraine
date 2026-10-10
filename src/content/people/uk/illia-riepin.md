@@ -36,7 +36,7 @@ sources:
     url: "https://abc17news.com/entertainment/cnn-style/2023/03/14/major-museums-around-the-world-are-quietly-recategorizing-works-from-russian-to-ukrainian/"
   - title: "Hyperallergic - Vartan Matiossian, The Met Shouldn't Have Reclassified Ivan Aivazovsky as \"Ukrainian\" (21.02.2023)"
     url: "https://hyperallergic.com/met-museum-shouldnt-have-reclassified-ivan-aivazovsky-as-ukrainian"
-related: [ivan-sirko, taras-shevchenko, mykola-hohol]
+related: [ivan-sirko, taras-shevchenko, mykola-hohol, mykola-kostomarov, mykola-pyrohov]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

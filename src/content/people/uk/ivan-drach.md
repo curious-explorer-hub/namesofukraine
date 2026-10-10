@@ -38,7 +38,7 @@ sources:
     url: "https://museum-old.khpg.org/1142694321"
   - title: "Радіо Свобода - Оксана Пахльовська, «Ми чорні гори перегорнем». Вічній пам'яті Івана Драча"
     url: "https://www.radiosvoboda.org/a/29310829.html"
-related: [ivan-dziuba, lina-kostenko, viacheslav-chornovil, serhii-paradzhanov, vasyl-symonenko, mykola-vinhranovskyi]
+related: [ivan-dziuba, lina-kostenko, viacheslav-chornovil, serhii-paradzhanov, vasyl-symonenko, mykola-vinhranovskyi, myroslav-popovych]
 collections: [sixtiers]
 status: approved
 published: 2026-10-09T20:29:36Z

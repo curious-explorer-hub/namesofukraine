@@ -28,7 +28,7 @@ For her first 30 years on stage she sang mostly ritual folk songs: New Year song
 
 ## From carols to rock
 
-From 1991 Matviienko sang with the ensemble Kyivska Kamerata. In 1995 she played 16 performances with the La MaMa theater in New York, and she acted in films and TV plays, including Marusia Churai and Kateryna Bilokur. In the 2000s she shared the stage with Okean Elzy, Tanok na Maidani Kongo and Oleh Skrypka. She won the Shevchenko Prize (1988) and was made a Hero of Ukraine (2006).
+From 1991 Matviienko sang with the ensemble Kyivska Kamerata. In 1995 she played 16 performances with the La MaMa theater in New York, and she acted in films and TV plays, including Marusia Churai and Kateryna Bilokur. In the 2000s she shared the stage with Okean Elzy, Tanok na Maidani Kongo and [Oleh Skrypka](/en/people/oleh-skrypka/). She won the Shevchenko Prize (1988) and was made a Hero of Ukraine (2006).
 
 Nina Matviienko died on 8 October 2023 in Kyiv, two days before her 76th birthday.
 

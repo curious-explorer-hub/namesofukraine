@@ -34,7 +34,7 @@ sources:
     url: "https://www.kyivpost.com/uk/post/71668"
   - title: Вікіпедія - Марчук Іван Степанович
     url: https://uk.wikipedia.org/wiki/Марчук_Іван_Степанович
-related: [taras-shevchenko, kateryna-bilokur]
+related: [taras-shevchenko, kateryna-bilokur, sofiia-rotaru]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

@@ -19,7 +19,7 @@ quotes:
 
 ## A bishop disguised as a tourist
 
-In 1977 Yosyf Slipyi, head of the Ukrainian Greek Catholic Church (UGCC), secretly ordained Liubomyr Huzar a bishop without papal approval. The secrecy had a purpose: if the Soviet authorities destroyed the Church’s underground hierarchy in Soviet Ukraine, Huzar could travel there posing as a tourist and help restore it. So for many years he did not act as a bishop.
+In 1977 [Yosyf Slipyi](/en/people/yosyf-slipyi/), head of the Ukrainian Greek Catholic Church (UGCC), secretly ordained Liubomyr Huzar a bishop without papal approval. The secrecy had a purpose: if the Soviet authorities destroyed the Church’s underground hierarchy in Soviet Ukraine, Huzar could travel there posing as a tourist and help restore it. So for many years he did not act as a bishop.
 
 ## From Lviv to Stamford and Rome
 

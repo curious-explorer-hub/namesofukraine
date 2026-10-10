@@ -34,7 +34,7 @@ sources:
     url: "https://www.istpravda.com.ua/artefacts/2015/10/14/148628/"
   - title: Вікіпедія - Петро Калнишевський
     url: https://uk.wikipedia.org/wiki/Петро_Калнишевський
-related: [petro-sahaidachnyi, ivan-mazepa]
+related: [petro-sahaidachnyi, ivan-mazepa, anton-holovatyi]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

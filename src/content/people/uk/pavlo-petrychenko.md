@@ -38,7 +38,7 @@ sources:
     url: "https://lb.ua/society/2025/12/04/710137_kiievi_vulitsyu_volgodonsku.html"
   - title: "Главком - Гераскевич звернувся до українців після дискваліфікації на Олімпіаді (2026)"
     url: "https://glavcom.ua/sport/news/heraskevich-zvernuvsja-do-ukrajintsiv-pislja-diskvalifikatsiji-na-olimpiadi-1102639.html"
-related: [roman-ratushnyi, serhii-sternenko]
+related: [roman-ratushnyi, serhii-sternenko, vladyslav-heraskevych]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

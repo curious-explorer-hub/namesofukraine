@@ -33,7 +33,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CO%5CKonashevych6SahaidachnyPetro.htm"
   - title: Вікіпедія - Петро Конашевич-Сагайдачний
     url: https://uk.wikipedia.org/wiki/Петро_Конашевич-Сагайдачний
-related: [ivan-mazepa]
+related: [ivan-mazepa, halshka-ostrozka]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

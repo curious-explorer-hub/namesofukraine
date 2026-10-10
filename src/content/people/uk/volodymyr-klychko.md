@@ -32,7 +32,7 @@ sources:
     url: "https://www.politifact.com/factchecks/2022/mar/16/facebook-posts/ukrainian-boxing-star-auctioned-olympic-gold-medal/"
   - title: "Al Jazeera - Klitschko brothers vow to defend Ukraine from Russia 'aggression' (3 лютого 2022)"
     url: "https://www.aljazeera.com/news/2022/2/3/klitschko-brothers-pledge-to-defend-kyiv-from-russian-aggression"
-related: [vitalii-klychko]
+related: [vitalii-klychko, oleksandr-usyk]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

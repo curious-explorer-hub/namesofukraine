@@ -17,7 +17,7 @@ image_alt: "Volodymyr Ivasiuk on a park bench"
 
 Where did “Chervona Ruta” come from? The idea for its words and music came to Volodymyr Ivasiuk under the influence of Kolomyiky, a collection of folk songs published by the ethnographer Volodymyr Hnatiuk in the early 20th century. In 1970 Ivasiuk wrote “Chervona Ruta” and “Vodohrai,” and on 13 September that year he first sang them with Olena Kuznetsova on Theatre Square in Chernivtsi, on live TV.
 
-His best-known songs were performed by the band Smerichka and its soloists Vasyl Zinkevych and [Nazarii Yaremchuk](/en/people/nazarii-yaremchuk/). Sung by them, his songs won the all-Union TV festivals of 1971 and 1972. Bands in many countries took up “Chervona Ruta,” and in 1974 Sofia Rotaru sang “Vodohrai” at the Sopot festival.
+His best-known songs were performed by the band Smerichka and its soloists Vasyl Zinkevych and [Nazarii Yaremchuk](/en/people/nazarii-yaremchuk/). Sung by them, his songs won the all-Union TV festivals of 1971 and 1972. Bands in many countries took up “Chervona Ruta,” and in 1974 [Sofia Rotaru](/en/people/sofiia-rotaru/) sang “Vodohrai” at the Sopot festival.
 
 ## A doctor who wrote songs
 
