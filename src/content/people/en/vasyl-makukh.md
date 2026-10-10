@@ -10,6 +10,10 @@ key_accomplishments:
   - "The first protest by self-immolation in Ukraine, on Khreshchatyk in Kyiv (5 November 1968)"
   - "A street in Dnipro named after him (2015) and a memorial plaque on Khreshchatyk (2017)"
 birthplace_name: "Kariv"
+image_alt: "Photo portrait of Vasyl Makukh in a checked shirt against grass and trees"
+quotes:
+  - text: "Sooner or later I will give my life for the freedom of Ukraine anyway..."
+    source: "Before his marriage, late 1950s"
 ---
 
 ## A village boy who joined the insurgents
@@ -29,6 +33,12 @@ At home the family spoke Ukrainian, which was already unusual in the city. In 19
 On 5 November 1968, two days before the main Soviet holiday, Vasyl Makukh came to Khreshchatyk in Kyiv, near the Bessarabsky Market, and set himself on fire. He ran towards what is now Independence Square, shouting slogans against the colonisers and the occupiers of Czechoslovakia, and “Long live a free Ukraine!” He died in hospital the next day. He was 40.
 
 It was the first protest of its kind in Ukraine. Soviet newspapers said nothing, but the news reached foreign radio stations. The KGB questioned Makukh’s wife for three months and she lost her job; his funeral in Dnipropetrovsk took place under KGB watch.
+
+## His last words in hospital
+
+When the badly burned Vasyl Makukh was brought to hospital, one of the doctors reproached him: why had he done it, when his children would now be left orphans? Makukh replied:
+
+“They will yet be proud of their father. Today we are all orphans. Ukraine is an orphan.”
 
 ## Why it matters today
 
