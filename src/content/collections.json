@@ -143,6 +143,30 @@
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:VAPLITE_-_Kharkiv.jpg"
       }
+    },
+    {
+      "id": "civic-icons",
+      "label": {
+        "uk": "Голоси свободи",
+        "en": "Voices of Freedom"
+      },
+      "description": {
+        "uk": "Журналісти, активісти й студенти, які від «України без Кучми» до Майдану й після нього боронили правду і свободу, а дехто заплатив за це життям.",
+        "en": "Journalists, activists and students who, from \"Ukraine without Kuchma\" to the Maidan and after, stood up for truth and freedom, and some paid for it with their lives."
+      },
+      "image": {
+        "file": "civic-icons.jpg",
+        "caption": {
+          "uk": "Євромайдан у Києві, 27 листопада 2013 року",
+          "en": "The Euromaidan in Kyiv, 27 November 2013"
+        },
+        "author": {
+          "uk": "Євген Фельдман",
+          "en": "Evgeny Feldman"
+        },
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Euromaidan_01.JPG"
+      }
     }
   ]
 }

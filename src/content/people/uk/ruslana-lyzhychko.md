@@ -33,6 +33,7 @@ sources:
   - title: "Journal of Folklore Research Reviews - рецензія на книжку Марії Соневицької «Wild Music»"
     url: "https://scholarworks.iu.edu/journals/index.php/jfrr/article/download/42237/43765"
 related: [nazarii-yaremchuk, nina-matviienko]
+collections: [civic-icons]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

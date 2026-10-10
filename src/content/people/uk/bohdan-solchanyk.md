@@ -31,6 +31,7 @@ sources:
   - title: "Радіо Свобода - Суд виніс вироки ексберкутівцям у справі розстрілів на Майдані (2023)"
     url: "https://www.radiosvoboda.org/a/news-maydan-sud-vyroky-berkutivtsi/32642694.html"
 related: [ihor-kostenko]
+collections: [civic-icons]
 status: draft
 ---
 

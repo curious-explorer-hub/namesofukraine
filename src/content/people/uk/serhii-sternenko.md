@@ -34,6 +34,7 @@ sources:
   - title: Вікіпедія - Стерненко Сергій В'ячеславович
     url: https://uk.wikipedia.org/wiki/Стерненко_Сергій_В'ячеславович
 related: []
+collections: [civic-icons]
 status: draft
 ---
 
