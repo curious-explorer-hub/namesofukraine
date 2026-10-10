@@ -1,5 +1,6 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import categories from '../content/categories.json';
+import collectionsData from '../content/collections.json';
 import eras from '../content/eras.json';
 import regions from '../content/regions.json';
 import { t, type Lang } from '../i18n';
@@ -58,6 +59,9 @@ export const getPeople = async (lang: Lang = 'uk'): Promise<Person[]> => {
     .filter((p) => import.meta.env.DEV || (p.data.status === 'approved' && bySlug.has(slugOf(p))))
     .map((p) => localize(p, bySlug.get(slugOf(p)), lang));
 };
+
+// Collections marked "draft": true are, like draft profiles, visible only in dev; members keep the label.
+export const collections = collectionsData.collections.filter((c) => import.meta.env.DEV || !('draft' in c && c.draft));
 
 // Paths: Ukrainian at the root, English under /en.
 // Both languages live under their own prefix: /uk/… and /en/… (the site root redirects to /uk/).

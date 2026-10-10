@@ -5,6 +5,7 @@ import PersonCard from '../components/PersonCard.astro';
 import Portrait from '../components/Portrait.astro';
 import MisconceptionCard from '../components/MisconceptionCard.astro';
 import {
+  collections,
   tagLabel,
   groupLabel,
   eraLabel,
@@ -20,7 +21,6 @@ import {
 import { t } from '../i18n';
 import { personLd, breadcrumbLd } from '../lib/structured-data';
 import { contemporaries } from '../lib/timeline';
-import collections from '../content/collections.json';
 
 interface Props {
   person: Person;
@@ -82,7 +82,7 @@ const structuredData = [
   ]),
 ];
 const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birthplace.region, lang);
-const memberOf = collections.collections.filter((c) => data.collections.includes(c.id));
+const memberOf = collections.filter((c) => data.collections.includes(c.id));
 ---
 
 <BaseLayout lang={lang} title={data.name} description={data.summary} ogImage={`/og/${lang}/${person.slug}.jpg`} structuredData={structuredData}>

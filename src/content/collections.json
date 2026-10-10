@@ -122,6 +122,7 @@
     },
     {
       "id": "executed-renaissance",
+      "draft": true,
       "label": {
         "uk": "Розстріляне відродження",
         "en": "The Executed Renaissance"
@@ -146,6 +147,7 @@
     },
     {
       "id": "civic-icons",
+      "draft": true,
       "label": {
         "uk": "Голоси свободи",
         "en": "Voices of Freedom"
@@ -175,21 +177,21 @@
         "en": "The Kyiv Neoclassicists"
       },
       "description": {
-        "uk": "«Ґроно п'ятірне» київських поетів 1920-х, які повертали українській поезії класичну форму й світову літературу. Двох розстріляли, один загинув на Колимі, один емігрував, а один вижив, але мусив писати за правилами влади.",
-        "en": "The \"fivefold cluster\" of Kyiv poets of the 1920s who brought classical form and world literature back into Ukrainian poetry. Two were shot, one died in Kolyma, one emigrated, and one survived but had to write by the regime's rules."
+        "uk": "Київські неокласики об'єднали глибоку обізнаність у світовій спадщині з довершеною майстерністю української поезії, створивши феномен високого модернізму.",
+        "en": "The Kyiv Neoclassicists combined a deep knowledge of the world's literary heritage with consummate mastery of Ukrainian verse, creating a phenomenon of high modernism."
       },
       "image": {
         "file": "neoclassicists.jpg",
         "caption": {
-          "uk": "Неокласики в Баришівці, початок 1920-х: стоять Віктор Петров і Микола Зеров; сидять Юрій Клен, Павло Филипович, Борис Якубський і Максим Рильський",
-          "en": "The Neoclassicists in Baryshivka, early 1920s: standing, Viktor Petrov and Mykola Zerov; seated, Yurii Klen, Pavlo Fylypovych, Borys Yakubskyi and Maksym Rylskyi"
+          "uk": "Ілюстрація до добірки «Київські неокласики»: дерево з книжками-іменами, античні колони й меандр",
+          "en": "Illustration for the Kyiv Neoclassicists collection: a tree bearing books with the poets' names, classical columns and a meander"
         },
         "author": {
-          "uk": "Невідомий автор",
-          "en": "Unknown author"
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
         },
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Неокласики_у_Баришівці.webp"
+        "license": "AI-generated",
+        "source_url": ""
       }
     }
   ]

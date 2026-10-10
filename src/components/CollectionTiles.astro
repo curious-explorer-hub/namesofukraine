@@ -2,9 +2,8 @@
 import { getImage } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
 import Portrait from './Portrait.astro';
-import { mostLinked, type Person } from '../lib/people';
+import { collections, mostLinked, type Person } from '../lib/people';
 import { t, type Lang } from '../i18n';
-import collections from '../content/collections.json';
 
 interface Props {
   people: Person[];
@@ -21,7 +20,7 @@ const background = async (file: string) => {
 };
 const cards = (
   await Promise.all(
-    collections.collections.map(async (c) => {
+    collections.map(async (c) => {
       const members = people.filter((p) => p.data.collections.includes(c.id));
       return { ...c, bg: await background(c.image.file), members, faces: mostLinked(members, people, 3) };
     }),

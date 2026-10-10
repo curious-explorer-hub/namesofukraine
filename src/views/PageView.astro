@@ -4,9 +4,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
 import { suggestEmbedUrl } from '../lib/suggest';
 import { socialLinks } from '../lib/social';
-import { localePath } from '../lib/people';
+import { collections, localePath } from '../lib/people';
 import eras from '../content/eras.json';
-import collections from '../content/collections.json';
 import hero from '../content/hero.json';
 import { t, type Lang } from '../i18n';
 
@@ -100,7 +99,7 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
               {e.label[lang]}: <a href={e.image.source_url}>{e.image.caption[lang]}</a> - {e.image.author[lang]}, {e.image.license}
             </li>
           ))}
-          {collections.collections.map((c) => (
+          {collections.map((c) => (
             <li>
               {c.label[lang]}: <a href={c.image.source_url}>{c.image.caption[lang]}</a> - {c.image.author[lang]}, {c.image.license}
             </li>
