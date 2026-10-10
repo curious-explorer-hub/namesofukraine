@@ -12,6 +12,9 @@ key_accomplishments:
   - "Lenin Prize (1960) for the collections Roses and Grapes and Distant Horizons"
 birthplace_name: "Kyiv"
 image_alt: "Maksym Rylskyi, 1928"
+quotes:
+  - text: "Language is the embodiment of thought. The richer the thought, the richer the language."
+    source: "On the native language"
 ---
 
 ## The boy from Romanivka
@@ -24,7 +27,7 @@ In 1923 Rylskyi returned to Kyiv and joined the circle of Neoclassicist poets: [
 
 ## Arrested on his birthday
 
-On 19 March 1931, the day Rylskyi turned 36, he was arrested. The Encyclopedia of the History of Ukraine links the arrest to the trial in the fabricated case of the “Union for the Liberation of Ukraine”. He spent five months in Kyiv’s Lukianivka prison, taken from there to interrogations by the secret police (GPU), and came to know its system of intimidation, forced self-accusation and “repentance”. After his release the poet wrote a verse “Declaration of the Duties of a Poet and Citizen” (1931) and the collection The Sign of Libra (1932), in which he accepted the new rules of Soviet literary life. Most of his Neoclassicist friends later died in Stalin’s camps, and Burghardt had to emigrate.
+On 19 March 1931, the day Rylskyi turned 36, he was arrested. The arrest is linked to the trial in the fabricated case of the “Union for the Liberation of Ukraine”. He spent five months in Kyiv’s Lukianivka prison, taken from there to interrogations by the secret police (GPU), and came to know its system of intimidation, forced self-accusation and “repentance”. After his release the poet wrote a verse “Declaration of the Duties of a Poet and Citizen” (1931) and the collection The Sign of Libra (1932), in which he accepted the new rules of Soviet literary life. Most of his Neoclassicist friends later died in Stalin’s camps, and Burghardt had to emigrate.
 
 ## Carrot and stick
 
@@ -32,8 +35,8 @@ Rylskyi became an “official” poet. During the war he was made an academician
 
 ## Debates and assessments
 
-The Internet Encyclopedia of Ukraine (Ivan Koshelivets) writes that after 1932 Rylskyi became one of the main official Soviet poets, although his eulogies of the Party and Stalin were often ambiguous; it judges his later verse merely technically proficient. At the same time it acknowledges that in his essays of the early 1960s Rylskyi carefully and tactfully, but unflaggingly, defended Ukrainian culture against Russification. The Encyclopedia of the History of Ukraine (Eleonora Solovei) notes that in the “noose” of socialist realism the poet had to write topical verse that lasted a day, yet kept his true talent, and as a public figure fearlessly defended the language and supported young talent. The Ukrainian Institute of National Memory calls him a poet of the “not-quite-executed” Renaissance.
+Some scholars write that after 1932 Rylskyi became one of the main official Soviet poets, although his eulogies of the Party and Stalin were often ambiguous, and judge his later verse merely technically proficient. At the same time they acknowledge that in his essays of the early 1960s Rylskyi carefully and tactfully, but unflaggingly, defended Ukrainian culture against Russification. Others note that in the “noose” of socialist realism the poet had to write topical verse that lasted a day, yet kept his true talent, and as a public figure fearlessly defended the language and supported young talent. He has also been called a poet of the “not-quite-executed” Renaissance.
 
 ## Why it matters today
 
-The Internet Encyclopedia of Ukraine says Rylskyi did more than any of his contemporaries to develop the Ukrainian literary language, and calls his Pan Tadeusz an excellent example of his mastery as a translator. Rylskyi died in Kyiv in 1964 and is buried at Baikove Cemetery, and the institute he ran for twenty years now bears his name.
+Rylskyi is considered to have done more than any of his contemporaries to develop the Ukrainian literary language, and his Pan Tadeusz is called an excellent example of his mastery as a translator. Rylskyi died in Kyiv in 1964 and is buried at Baikove Cemetery, and the institute he ran for twenty years now bears his name.
