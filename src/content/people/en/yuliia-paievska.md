@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order of Freedom (Decree No. 616/2025)"
 birthplace_name: "Kyiv"
 image_alt: "Yuliia Paievska in a helmet and body armor on a seashore"
+quotes:
+  - text: "My grandfather built a core in me that can be broken but not bent. My back bends only over the wounded and before God."
+    source: "First-person piece for Ukrainska Pravda, July 2022"
 ---
 
 ## A camera meant for Netflix

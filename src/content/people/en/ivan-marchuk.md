@@ -11,6 +11,9 @@ key_accomplishments:
   - "The “National Legend of Ukraine” award (2021)"
 birthplace_name: "Moskalivka"
 image_alt: "Photograph of Ivan Marchuk at the opening of his solo exhibition in Rome, 2025"
+quotes:
+  - text: "Art is my truth. If it hurts, it means it is alive."
+    source: "Interview with Radio Svoboda at the exhibition Tell Me the Truth in Vienna, May 2025"
 ---
 
 ## Paintings made of fine lines

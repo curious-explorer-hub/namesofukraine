@@ -11,6 +11,9 @@ key_accomplishments:
   - "His three-volume memoir Rebirth of a Nation (1920) is one of the key eyewitness accounts of the Ukrainian Revolution"
 birthplace_name: "Veselyi Kut, Kherson Governorate (now part of Kropyvnytskyi)"
 image_alt: "Photo portrait of the young Volodymyr Vynnychenko in an embroidered shirt, early 20th century"
+quotes:
+  - text: "We are not a nation? We are not strong? Fine. We will show, not in theory, not in resolutions […], but in life […], that we have not yet been strangled, that we want to live, can live and will live."
+    source: "The book The Rebirth of a Nation, 1920"
 ---
 
 ## The playwright who led a government

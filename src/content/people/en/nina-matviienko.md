@@ -11,6 +11,9 @@ key_accomplishments:
   - "Posthumously given the presidential distinction National Legend of Ukraine (2024)"
 birthplace_name: "Nedilyshche"
 image_alt: "Nina Matviienko singing at the Young Halychyna festival, 2008"
+quotes:
+  - text: "When there are traditions, there is a nation, there is a people, there is a state […]"
+    source: "Interview with Radio Svoboda before a concert in Prague, October 2019"
 ---
 
 ## A voice composers wrote for

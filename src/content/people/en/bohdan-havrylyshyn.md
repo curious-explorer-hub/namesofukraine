@@ -11,6 +11,9 @@ key_accomplishments:
   - "Co-founder of the International Management Institute in Kyiv"
 birthplace_name: "Koropets"
 image_alt: "Photograph of Bohdan Hawrylyshyn in his Kyiv office, 2012"
+quotes:
+  - text: "[…] from the example of my own life I say: dream, but dream big, about great things."
+    source: "Conversation with Ukrainska Pravda for its Core of the Nation project, October 2016"
 ---
 
 ## From lumberjack to Geneva

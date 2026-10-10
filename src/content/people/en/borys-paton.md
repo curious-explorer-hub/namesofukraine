@@ -14,6 +14,9 @@ key_accomplishments:
   - "A method of welding living soft human tissue for surgery"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Borys Paton, 2010"
+quotes:
+  - text: "When you’re young you think: the days are so long, your whole life is ahead of you. There’s still time! And then you look back and see it has passed like a single day."
+    source: "Interview with Glavcom for his 100th birthday, November 2018 (translated from Russian)"
 ---
 
 ## Welding that helped win a war

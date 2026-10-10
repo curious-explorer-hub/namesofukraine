@@ -12,6 +12,9 @@ key_accomplishments:
   - "The French edition of “dasein” won the Alain Bosquet Prize (Paris, 2026)"
 birthplace_name: "Kyiv"
 image_alt: "Yaryna Chornohuz with long braids, a headscarf and a dark T-shirt, against a red background"
+quotes:
+  - text: "Living in struggle is far more beautiful than living in fear and submission."
+    source: "Column for Forbes Ukraine, May 2024"
 ---
 
 ## Poems between missions

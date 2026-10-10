@@ -11,6 +11,9 @@ key_accomplishments:
   - "People’s Artist of Ukraine (1989), Shevchenko Prize (1995)"
 birthplace_name: "Kyiv"
 image_alt: "Valentin Silvestrov in glasses, smiling, against a dark background"
+quotes:
+  - text: "You have to wait for a melody; it can’t be predicted. It comes unexpectedly, you have to catch it, it is a moment. And a moment is eternity."
+    source: "Remarks at a music and poetry evening in Kyiv, November 2008 (reported by Radio Svoboda)"
 ---
 
 ## The avant-gardist no one played at home
