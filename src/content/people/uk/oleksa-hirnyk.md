@@ -16,8 +16,8 @@ key_accomplishments:
   - Близько тисячі рукописних листівок проти русифікації, розкиданих на Чернечій горі в Каневі (1978)
   - Герой України (2007, посмертно)
 quotes:
-  - text: "Протест проти російської окупації на Україні! Протест проти русифікації українського народу!"
-    source: "Листівка, січень 1978"
+  - text: "Протест проти російської окупації на Україні! Протест проти русифікації українського народу! Хай живе Самостійна Соборна Українська Держава!"
+    source: "З листівок, розкиданих на Тарасовій горі"
 sources:
   - title: "Енциклопедія сучасної України - Гірник Олексій Миколайович"
     url: "https://esu.com.ua/article-30226"
@@ -30,10 +30,12 @@ sources:
 birthplace: { name: "Богородчани", region: ivano-frankivsk, country: UA, lat: 48.808, lon: 24.538 }
 image:
   src: ./images/oleksa-hirnyk.jpg
-  alt: "Фотопортрет молодого Олекси Гірника у вишиванці"
+  alt: "Фотопортрет Олекси Гірника в костюмі й краватці"
+  ai_edit: colorized
   author: "Невідомий автор"
-  license: "Public domain (Ukraine)"
-  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Girnyk_O.jpg"
+  license: "Fair use"
+  source_url: "https://www.golos.com.ua/article/341010"
+  fair_use: true
 related: [taras-shevchenko, vasyl-makukh]
 status: draft
 ---

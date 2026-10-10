@@ -10,10 +10,10 @@ key_accomplishments:
   - "About a thousand handwritten leaflets against Russification, scattered on Chernecha Hill in Kaniv (1978)"
   - "Hero of Ukraine (2007, posthumously)"
 birthplace_name: "Bohorodchany"
-image_alt: "Photo portrait of a young Oleksa Hirnyk in an embroidered shirt"
+image_alt: "Photo portrait of Oleksa Hirnyk in a suit and tie"
 quotes:
-  - text: "A protest against the Russian occupation of Ukraine! A protest against the Russification of the Ukrainian people!"
-    source: "Leaflet, January 1978"
+  - text: "A protest against the Russian occupation of Ukraine! A protest against the Russification of the Ukrainian people! Long live an independent, united Ukrainian state!"
+    source: "From the leaflets scattered on Taras Hill"
 ---
 
 ## A thousand leaflets by hand
