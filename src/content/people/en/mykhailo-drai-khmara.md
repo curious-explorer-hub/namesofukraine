@@ -11,10 +11,10 @@ key_accomplishments:
   - "Studies of Ukrainian, Belarusian and Serbian literature and of the history of the Slavic languages"
   - "Translations from French, German, Polish, Belarusian and other languages"
 birthplace_name: "Mali Kanivtsi"
-image_alt: "Mykhailo Drai-Khmara, Kyiv, 1925"
+image_alt: "Mykhailo Drai-Khmara in a dark suit and tie"
 quotes:
-  - text: "O fivefold cluster of unconquered singers! / Through storm and snow your song of triumph rings, / that breaks the ice of hopelessness and doubt."
-    source: "The sonnet The Swans, 1928 (translated for this site)"
+  - text: "Break the age-old rock of tradition, / Shake off the dust of a life unfree. / Whoever has drunk the cup of magic hops / Can never turn back again."
+    source: "The poem “Go out on the stern and sober road…” (translated for this site)"
 ---
 
 ## Swans that break the ice

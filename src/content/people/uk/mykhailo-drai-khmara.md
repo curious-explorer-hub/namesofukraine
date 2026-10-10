@@ -17,13 +17,15 @@ places:
   - { name: "Кам'янець-Подільський", lat: 48.678, lon: 26.585, note: "викладав в університеті, 1918–1923" }
 image:
   src: ./images/mykhailo-drai-khmara.jpg
-  alt: "Михайло Драй-Хмара, Київ, 1925 рік"
-  author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Mykhailo_Drai-Khmara_in_1925.jpg"
+  alt: "Михайло Драй-Хмара в темному костюмі й краватці"
+  author: "Невідомий автор (md-eksperiment.org)"
+  license: "Fair use"
+  ai_edit: colorized
+  source_url: "https://uain.press/blogs/mihajlo-draj-hmara-ozhive-i-vstane-vse-shho-spalo-dosi-1092198/attachment/draj-hmara5"
+  fair_use: true
 quotes:
-  - text: "О, ґроно п'ятірне нездоланих співців! / Крізь бурю й сніг гримить твій переможний спів, / що розбиває лід одчаю і зневіри."
-    source: "Сонет «Лебеді», 1928"
+  - text: "Ламай традицій віковічну скелю, / Обтрушуй прах невольного життя. / Хто випив келих чарівного хмелю, / Тому назад немає вороття."
+    source: "Вірш «Виходь на путь сувору і тверезу…»"
 key_accomplishments:
   - "Сонет «Лебеді» (1928) - присвята «ґрону п'ятірному» неокласиків"
   - "Збірка поезій «Проростень» (1926) - єдина, що вийшла за його життя"
@@ -41,7 +43,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Михайло_Драй-Хмара
 related: [mykola-zerov, pavlo-fylypovych, lesya-ukrainka, maksym-rylskyi, yurii-klen]
 collections: [executed-renaissance, neoclassicists]
-status: draft
+status: approved
+published: 2026-10-10T21:55:44Z
 ---
 
 ## Лебеді, що ламають кригу
