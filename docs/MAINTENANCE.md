@@ -49,7 +49,35 @@ Ask in this repository:
 
 > Run `npm run feedback` for the last 7 days, summarize the submissions by topic, check each correction against reputable sources, propose the edits (uk + en) and new CANDIDATES.md rows, and wait for my approval before changing anything. Don't copy personal data into the repo.
 
+### Every ~50 days: refresh the Threads token
+
+The daily Threads posts ([PUBLISHING.md](PUBLISHING.md#posting-to-threads)) use a long-lived token in the `THREADS_ACCESS_TOKEN` repository secret. It lasts 60 days; once it expires, the workflow fails and nothing is posted. **Current token expires 2026-12-09; refresh by 2026-11-29.** A refresh gives a new 60-day token and works only while the old one is still valid (and at least a day old).
+
+1. Get the current token: the secret can't be read back from GitHub, so use the copy you keep in your password manager. If it's lost or expired, generate a new one instead (PUBLISHING.md, one-time setup, step 3).
+2. Refresh it, in a terminal (`read -s` keeps it out of the shell history):
+
+   ```sh
+   read -s "TOKEN?Current token: "; echo
+   curl -s "https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token=$TOKEN"
+   ```
+
+   The reply is `{"access_token":"TH…","token_type":"bearer","expires_in":5183944}`; `expires_in` is in seconds (≈ 60 days).
+3. Check the new token and note its expiry date:
+
+   ```sh
+   read -s "NEW?New token: "; echo
+   curl -s "https://graph.threads.net/v1.0/me?fields=username&access_token=$NEW"   # names_of_ukraine
+   curl -s "https://graph.threads.net/v1.0/debug_token?input_token=$NEW&access_token=$NEW"   # expires_at, Unix time
+   ```
+
+4. Save it: GitHub → repository **Settings → Secrets and variables → Actions → `THREADS_ACCESS_TOKEN` → Update secret** (or `gh secret set THREADS_ACCESS_TOKEN`), and in your password manager.
+5. Update the expiry date above, and set a calendar reminder 50 days ahead.
+
+Never paste a token into an issue, a commit or a chat.
+
 ### Monthly (about 15 minutes)
+
+- **Next month's Threads plan.** Before the 1st, commit `social/YYYY-MM.txt` for the coming month: one approved profile per day, `-` for a day off, anniversaries on their day (format in [PUBLISHING.md](PUBLISHING.md#posting-to-threads)). Without it, nothing is posted that month.
 
 - **Traffic trend and top pages** (Cloudflare Web Analytics). Which people are read most; which referrers grow. Use this to pick who goes into the next batch and what to post on social media.
 - **Search queries** (Search Console → Performance). Which searches show the site, where it ranks, and which pages get impressions but few clicks (those may need a better title or summary).
