@@ -1,12 +1,15 @@
 name: Post to Threads
 
-# Run by hand from the Actions tab with a profile link; posts that profile to Threads in Ukrainian.
+# Posts a profile to Threads in Ukrainian: daily, today's entry from the month's plan (social/YYYY-MM.txt),
+# or by hand from the Actions tab with a profile link.
 on:
+  schedule:
+    - cron: '0 7 * * *' # 10:00 Kyiv in summer, 09:00 in winter
   workflow_dispatch:
     inputs:
       profile:
-        description: Profile link, e.g. https://namesofukraine.com/uk/people/ivan-franko/
-        required: true
+        description: Profile link, e.g. https://namesofukraine.com/uk/people/ivan-franko/ (empty = today's entry in the plan)
+        required: false
       dry_run:
         description: Dry run (print the post, don't publish)
         type: boolean

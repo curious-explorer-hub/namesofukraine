@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { readdirSync, readFileSync } from 'node:fs';
-import { slugFrom, readFields, years, postText } from './post-threads.mjs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
+import { slugFrom, readFields, years, postText, parsePlan, kyivDate } from './post-threads.mjs';
 
 const dir = 'src/content/people/uk';
 const profiles = readdirSync(dir)
@@ -49,5 +49,40 @@ describe('postText', () => {
     expect(postText(fields, 'https://namesofukraine.com/uk/people/ahatanhel-krymskyi/')).toBe(
       'Агатангел Кримський (1871–1942)\nСходознавець\n\nЗнав понад 50 мов.\n\nhttps://namesofukraine.com/uk/people/ahatanhel-krymskyi/',
     );
+  });
+});
+
+describe('parsePlan', () => {
+  it('reads one entry per day: links, slugs, - for no post, trailing comments', () => {
+    const plan = 'https://namesofukraine.com/uk/people/ivan-franko/\n-\nlesya-ukrainka  # birthday\n';
+    expect(parsePlan(plan)).toEqual(['ivan-franko', null, 'lesya-ukrainka']);
+  });
+
+  it('rejects empty lines and anything that is not a profile', () => {
+    expect(() => parsePlan('ivan-franko\n\nlesya-ukrainka')).toThrow(/Line 2/);
+    expect(() => parsePlan('Іван Франко')).toThrow();
+  });
+});
+
+describe('kyivDate', () => {
+  it('uses the date in Kyiv, not UTC, in summer (UTC+3) and winter (UTC+2)', () => {
+    expect(kyivDate(new Date('2026-09-30T21:30:00Z'))).toBe('2026-10-01');
+    expect(kyivDate(new Date('2026-12-31T21:59:00Z'))).toBe('2026-12-31');
+    expect(kyivDate(new Date('2026-12-31T22:30:00Z'))).toBe('2027-01-01');
+  });
+});
+
+describe('plans in social/', () => {
+  const plans = existsSync('social') ? readdirSync('social').filter((f) => f.endsWith('.txt')) : [];
+
+  it('are named YYYY-MM.txt, fit their month and list existing profiles', () => {
+    const slugs = new Set(profiles.map((p) => p.slug));
+    for (const file of plans) {
+      const [, year, month] = file.match(/^(\d{4})-(\d{2})\.txt$/) ?? [];
+      expect(year, file).toBeTruthy();
+      const entries = parsePlan(readFileSync(`social/${file}`, 'utf8'));
+      expect(entries.length, file).toBeLessThanOrEqual(new Date(Number(year), Number(month), 0).getDate());
+      for (const slug of entries) if (slug) expect(slugs.has(slug), `${file}: ${slug}`).toBe(true);
+    }
   });
 });

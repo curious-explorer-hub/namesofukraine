@@ -105,6 +105,15 @@ Answer corrections from or about living people promptly (product_vision.md §7.6
 
 **Post a profile:** GitHub → Actions → **Post to Threads** → Run workflow, paste a profile link (e.g. `https://namesofukraine.com/uk/people/ivan-franko/`). The first run is a dry run by default: the log shows the post without publishing it. Untick **Dry run** to publish; the log ends with the post's link. The post is in Ukrainian: name and years, role, summary, the profile link and the profile's share card. Only profiles live on the site can be posted. Locally: `node scripts/post-threads.mjs <link> --dry-run`.
 
+**Monthly plan:** at the start of each month, commit `social/YYYY-MM.txt` (e.g. `social/2026-11.txt`) to `main`. Line N is the post for day N: a profile link or slug, or `-` for a day with no post; anything after `#` is a comment. Every day at 07:00 UTC (10:00 Kyiv in summer, 09:00 in winter) the workflow posts that day's entry, by the Kyiv date. A month with no plan, a `-` line or a day past the last line posts nothing. Don't leave a line empty: `npm test` fails, so a stray blank line can't shift the rest of the month by a day. The tests also check that each entry is an existing profile; a draft passes them, but its day fails at posting time because it isn't on the site, so plan only approved profiles. To check today's entry, run the workflow by hand with an empty profile link and **Dry run** ticked.
+
+```text
+ivan-franko                                              # 1st
+lesya-ukrainka                                           # 2nd
+-                                                        # 3rd: no post
+https://namesofukraine.com/uk/people/taras-shevchenko/   # 4th
+```
+
 **One-time setup** (the Threads profile needs an Instagram account):
 
 1. At <https://developers.facebook.com/apps>, create an app with the use case **Access the Threads API**, and add the permissions `threads_basic` and `threads_content_publish`.

@@ -1,20 +1,40 @@
 // Publishes one profile to Threads: the share card, name, years, role, summary and a link, in Ukrainian.
 // Run by .github/workflows/post-threads.yml; the token comes from $THREADS_ACCESS_TOKEN.
 // Only profiles live on the site can be posted: Threads fetches the card from the site, and drafts aren't there.
+// Without a profile it posts today's entry (Kyiv time) from the month's plan, social/YYYY-MM.txt.
 //
-// Usage: node scripts/post-threads.mjs <profile link or slug> [--dry-run]
+// Usage: node scripts/post-threads.mjs [profile link or slug] [--dry-run]
 import { readFileSync, existsSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
 
 const SITE = 'https://namesofukraine.com';
 const API = 'https://graph.threads.net/v1.0';
 const MAX_LENGTH = 500; // Threads text limit
+const PLAN_DIR = 'social';
 
 export function slugFrom(input) {
   const path = input.trim().replace(/^https?:\/\/[^/]+/, '');
   const slug = (path.match(/^\/(?:uk|en)\/people\/([a-z0-9-]+)\/?$/) ?? path.match(/^([a-z0-9-]+)$/))?.[1];
   if (!slug) throw new Error(`Not a profile link or slug: ${input}`);
   return slug;
+}
+
+// A month's plan: line N is day N, a profile link or slug, or `-` for no post; `#` starts a comment.
+// An empty line is an error, so a stray blank can't shift the rest of the month by a day.
+export function parsePlan(text) {
+  return text
+    .replace(/\n$/, '')
+    .split('\n')
+    .map((line, i) => {
+      const entry = line.replace(/#.*/, '').trim();
+      if (entry === '-') return null;
+      if (!entry) throw new Error(`Line ${i + 1} is empty; use - for a day with no post`);
+      return slugFrom(entry);
+    });
+}
+
+export function kyivDate(now = new Date()) {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Kyiv' }).format(now); // YYYY-MM-DD
 }
 
 // The fields a post needs, from the top-level `key: value` lines of the frontmatter (values are plain or "quoted").
@@ -52,9 +72,16 @@ async function main() {
   const args = process.argv.slice(2);
   const dryRun = args.includes('--dry-run');
   const input = args.find((a) => !a.startsWith('--'));
-  if (!input) throw new Error('Usage: node scripts/post-threads.mjs <profile link or slug> [--dry-run]');
 
-  const slug = slugFrom(input);
+  let slug;
+  if (input) slug = slugFrom(input);
+  else {
+    const today = kyivDate();
+    const plan = `${PLAN_DIR}/${today.slice(0, 7)}.txt`;
+    slug = existsSync(plan) ? parsePlan(readFileSync(plan, 'utf8'))[Number(today.slice(8)) - 1] : null;
+    if (!slug) return console.log(`Nothing planned for ${today} in ${plan}: nothing posted.`);
+    console.log(`${today}: entry ${Number(today.slice(8))} of ${plan}\n`);
+  }
   const file = `src/content/people/uk/${slug}.md`;
   if (!existsSync(file)) throw new Error(`No profile ${file}`);
   const url = `${SITE}/uk/people/${slug}/`;
