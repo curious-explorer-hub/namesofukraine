@@ -5,6 +5,8 @@ description: Know Your Own is a non-profit educational project about the people 
 
 We want everyone in Ukraine and around the world to know the people who made Ukraine - briefly, honestly, and in a way that's worth reading. Ukrainian land has always been, and still is, extraordinarily rich in bright, talented, and gifted people whose achievements changed the course of history and still inspire us today. After all, without a deep understanding of our past and an awareness of our own roots, it is simply impossible to build a successful, conscious, and strong future.
 
+These are the stories of the people who built Ukraine: who defended its freedom with weapons and with words, who shaped its language, culture and science, and who made it known on the world's stages and sports fields. And of those who carry on today, as Ukraine once again fights for the right to be itself. Every name here is a reminder that independence did not fall from the sky. Generations fought for it, and the work goes on with everyone who remembers their own.
+
 ## Who we include
 
 The catalogue includes people who had a lasting impact on Ukrainian statehood, culture, science or identity, and people of Ukrainian origin who made a notable contribution to world history. We aim for balance across eras, fields, regions, and between women and men. Living people can be included too; for them we cover only their public work.

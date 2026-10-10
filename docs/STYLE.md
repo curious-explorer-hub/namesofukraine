@@ -8,6 +8,16 @@ Every profile and every section opens with a **hook**: a question, a surprise or
 
 > **Did you know** that Neil Armstrong reportedly scooped up a handful of earth outside a house in Siberia? It belonged to a mechanic from Poltava who, fifty years before Apollo, had worked out how to get to the Moon.
 
+## Focus: people who built Ukraine
+
+The site exists to show the people who built Ukraine and those who still fight for its independence and prosperity. When collecting facts and quotes, and when choosing hooks, put first:
+
+- **The fight for Ukraine and for freedom:** resistance, defence, political prisoners, people who paid with their lives.
+- **What their work actually gave Ukraine:** to its language, culture, science, sport, economy and statehood, and how it helped Ukraine grow as a nation and an independent country.
+- **Their own words** on Ukraine, freedom, language and dignity, for the quote panel.
+
+A fact that explains this belongs in the story before one that only fills in a career. The focus never bends the facts: everything stays sourced, contested people keep a neutral «Дискусії та оцінки» section, and a person's ties to Ukraine are stated as precisely as they are (§7).
+
 ## Hooks to choose from
 
 Use one or two per profile, and vary them across profiles, so the site doesn't repeat one trick.
@@ -38,6 +48,7 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 - **Explain context in a clause,** not a paragraph: "the Soviet secret police (NKVD)".
 - **Talk to the reader** now and then ("уявіть", "imagine"), but don't overdo it.
 - **End on why it matters today:** what we still use, see or owe to this person.
+- **Don't name reference works in the text.** Not «Енциклопедія історії України пов'язує цей арешт…» or "The Internet Encyclopedia of Ukraine says…", but «Цей арешт пов'язують…», "It is considered…". Where two views meet (debates): «Одні дослідники пишуть… Інші зазначають…» / "Some scholars write… Others note…". Where sources disagree on a fact: «За різними даними…» / "Sources give…". Sources belong in `sources:` only; a work may be named when it is itself the subject (someone edited or funded it) or in an image credit.
 - **English is not a translation.** Keep the same hook and facts, written the way an English speaker would say it.
 
 ## Limits (these don't bend)
