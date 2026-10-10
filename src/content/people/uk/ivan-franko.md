@@ -26,6 +26,9 @@ key_accomplishments:
   - Доктор філософії Віденського університету (1893)
   - Співзасновник Русько-української радикальної партії (1890)
   - Перекладав з 14 мов, дослідник фольклору та історії літератури
+quotes:
+  - text: "Лиш боротись значить жить… / Vivere memento!"
+    source: "Вірш «Vivere memento!», 1883"
 sources:
   - title: "Енциклопедія історії України - Франко Іван Якович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Franko_I"

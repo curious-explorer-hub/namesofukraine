@@ -11,6 +11,9 @@ key_accomplishments:
   - "UNESCO declared 2009 the Year of Mariia Prymachenko"
 birthplace_name: "Bolotnia"
 image_alt: "Photographic portrait of Mariia Prymachenko"
+quotes:
+  - text: "I give red poppies to people, so they would love the holy land and work on it"
+    source: "Her own caption on a painting of red poppies, 1985"
 ---
 
 ## Did Picasso really bow before her?

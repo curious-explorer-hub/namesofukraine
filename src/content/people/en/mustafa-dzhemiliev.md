@@ -12,6 +12,9 @@ key_accomplishments:
   - "Hero of Ukraine (2023, Decree No. 749/2023); Order of Freedom (2018)"
 birthplace_name: "Ay-Serez (now Mizhrichchia), Crimea"
 image_alt: "Mustafa Dzhemilev on a visit to the Senate of Poland, 2014"
+quotes:
+  - text: "[…] freedom cannot be traded for any material goods."
+    source: "Interview with Radio Svoboda, June 2014"
 ---
 
 ## Exiled twice

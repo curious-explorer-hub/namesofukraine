@@ -12,6 +12,9 @@ key_accomplishments:
   - "Co-founder of the First of December Initiative Group"
 birthplace_name: "Lviv"
 image_alt: "Liubomyr Huzar in 2010"
+quotes:
+  - text: "Let us remember who we are and not let ourselves be fooled"
+    source: "Interview with ZAXID.NET during the Euromaidan, December 2013"
 ---
 
 ## A bishop disguised as a tourist

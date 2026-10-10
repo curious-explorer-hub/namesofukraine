@@ -14,6 +14,9 @@ key_accomplishments:
   - "Sheltered Jews in Greek Catholic monasteries during the Holocaust"
 birthplace_name: "Prylbychi"
 image_alt: "Photograph of Metropolitan Andrei Sheptytskyi"
+quotes:
+  - text: "The world is perishing for lack of love, perishing from human hatred!"
+    source: "The letter Thou Shalt Not Kill, November 1942"
 ---
 
 ## How Count Roman became Metropolitan Andrei

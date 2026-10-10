@@ -14,6 +14,9 @@ key_accomplishments:
   - "During the war of 1812 he raised the 5th Cossack Regiment and was made a major"
 birthplace_name: "Poltava"
 image_alt: "Oil portrait of Ivan Kotliarevskyi by Leontii Kashtelianchuk"
+quotes:
+  - text: "Where love of the fatherland stirs heroes, / No enemy force can stand, / There a breast is stronger than cannons…"
+    source: "The mock-epic Eneida, part five"
 ---
 
 ## A book published without its author

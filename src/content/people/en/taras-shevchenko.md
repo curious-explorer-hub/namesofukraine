@@ -14,6 +14,9 @@ key_accomplishments:
   - "More than 800 paintings and drawings"
 birthplace_name: "Moryntsi"
 image_alt: "Posthumous portrait of Taras Shevchenko by Ivan Kramskoi, 1871"
+quotes:
+  - text: "Fight on, and you will win, / God is helping you!"
+    source: "The poem The Caucasus, 1845"
 ---
 
 ## What does freedom cost?

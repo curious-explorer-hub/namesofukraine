@@ -12,6 +12,9 @@ key_accomplishments:
   - "After the full-scale invasion, joined the army: from 2023 an officer of the 47th Separate Mechanized Brigade, from September 2025 a battalion commander"
 birthplace_name: "Simferopol"
 image_alt: "Oleh Sentsov speaking at the Unity Forum in Mariupol, October 2019"
+quotes:
+  - text: "A court of occupiers cannot be fair by definition."
+    source: "Final statement at his trial in Rostov-on-Don, 19 August 2015 (translated from Russian)"
 ---
 
 ## 145 days

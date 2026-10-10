@@ -14,6 +14,9 @@ key_accomplishments:
   - "Translated from 14 languages; researcher of folklore and literary history"
 birthplace_name: "Nahuievychi"
 image_alt: "Photograph of Ivan Franko"
+quotes:
+  - text: "Only to struggle is to live… / Remember to live!"
+    source: "The poem Vivere memento! (Remember to Live!), 1883"
 ---
 
 ## The prisoner Vienna made a doctor

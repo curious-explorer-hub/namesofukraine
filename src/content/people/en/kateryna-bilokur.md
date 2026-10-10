@@ -13,6 +13,9 @@ key_accomplishments:
   - "People’s Artist of the Ukrainian SSR (1956)"
 birthplace_name: "Bohdanivka"
 image_alt: "Photograph of Kateryna Bilokur, 1954"
+quotes:
+  - text: "So how can I not paint them, when they are so beautiful?.. […] Then I forget everything in the world and paint flowers again..."
+    source: "Letter to the staff of the Central House of Folk Art, 12 November 1946"
 ---
 
 ## Why wouldn’t they let her study?

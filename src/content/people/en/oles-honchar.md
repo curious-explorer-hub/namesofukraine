@@ -11,6 +11,9 @@ key_accomplishments:
   - "Posthumously awarded the title Hero of Ukraine (2005)"
 birthplace_name: "Sukha"
 image_alt: "Photo portrait of Oles Honchar, c. 1945–1950"
+quotes:
+  - text: "Guard the cathedrals of your souls, my friends… The cathedrals of souls!"
+    source: "The novel The Cathedral, 1968"
 ---
 
 ## The cathedral that scared the authorities

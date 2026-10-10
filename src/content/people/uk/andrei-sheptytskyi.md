@@ -26,6 +26,9 @@ key_accomplishments:
   - Заснування Національного музею у Львові, шкіл, лікарні та інших установ
   - Пастирське послання «Не убий» (1942)
   - Рятування євреїв під час Голокосту в монастирях УГКЦ
+quotes:
+  - text: "Світ гине з браку любови, гине з людської ненависти!"
+    source: "Послання «Не убий», листопад 1942"
 sources:
   - title: "Енциклопедія історії України - Шептицький Андрей"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?Z21ID=&I21DBN=DOP&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Sheptytskyj_A"
