@@ -1,4 +1,4 @@
-// Share-preview cards (1200×630 JPEG), rendered at build time with Satori + resvg.
+// Share-preview cards (1200×630 JPEG) and Instagram cards (1080×1350), rendered at build time with Satori + resvg.
 // Uses the same visual language as the site: Fixel type, cobalt-tinted portrait, wheat accent.
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -48,9 +48,9 @@ const tintedPortrait = async (slug: string, width: number, height: number) => {
   return `data:image/jpeg;base64,${out.toString('base64')}`;
 };
 
-const render = async (tree: Node) => {
-  const svg = await satori(tree as never, { width: W, height: H, fonts });
-  const png = new Resvg(svg, { fitTo: { mode: 'width', value: W } }).render().asPng();
+const render = async (tree: Node, width = W, height = H) => {
+  const svg = await satori(tree as never, { width, height, fonts });
+  const png = new Resvg(svg, { fitTo: { mode: 'width', value: width } }).render().asPng();
   // JPEG keeps photo-heavy cards small for link previews.
   return sharp(png).jpeg({ quality: 84, mozjpeg: true }).toBuffer();
 };
@@ -71,6 +71,34 @@ export async function personCard(p: Person) {
         stitchRow(9),
       ]),
     ]),
+  );
+}
+
+// Instagram's tallest feed format (4:5): portrait on top, text below; text only when the portrait isn't free to share.
+const IG_W = 1080;
+const IG_H = 1350;
+const IG_PHOTO = 880;
+
+export async function instagramCard(p: Person) {
+  const img = freeImage(p) ? await tintedPortrait(p.slug, IG_W, IG_PHOTO) : null;
+  const long = p.data.name.length > 20;
+  return render(
+    h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
+      img ? h('img', { width: IG_W, height: IG_PHOTO, objectFit: 'cover' }, undefined, { src: img, width: IG_W, height: IG_PHOTO }) : null,
+      h('div', { display: 'flex', flexDirection: 'column', flex: 1, padding: '36px 72px 48px', borderTop: `12px solid ${C.wheat}` }, [
+        h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }, [
+          h('div', { fontSize: 34, color: C.slate, marginBottom: 12 }, lifespan(p)),
+          h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: img ? (long ? 68 : 84) : long ? 92 : 112, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
+          h('div', { fontWeight: 500, fontSize: img ? 40 : 48, color: C.cobalt, marginTop: 20, lineHeight: 1.2 }, p.data.role),
+        ]),
+        h('div', { display: 'flex', alignItems: 'center', justifyContent: 'space-between' }, [
+          h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 32 }, t('site.title', p.lang)),
+          stitchRow(7),
+        ]),
+      ]),
+    ]),
+    IG_W,
+    IG_H,
   );
 }
 

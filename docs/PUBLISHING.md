@@ -78,6 +78,7 @@ Names only; the values live in GitHub and Cloudflare, never in this repository.
 | GitHub → Settings → Secrets and variables → Actions | `CLOUDFLARE_API_TOKEN` | A Cloudflare API token with the permission **Account · Cloudflare Pages · Edit** |
 | same | `CLOUDFLARE_ACCOUNT_ID` | The Cloudflare account ID (shown in the dashboard URL and on the account overview) |
 | same | `THREADS_ACCESS_TOKEN` | A long-lived Threads user token for posting (see [Posting to Threads](#posting-to-threads)); expires after 60 days |
+| same | `INSTAGRAM_ACCESS_TOKEN` | A long-lived Instagram user token for posting (see [Posting to Instagram](#posting-to-instagram)); expires after 60 days |
 | `astro.config.mjs` | `site` | The public address; canonical, `hreflang`, sitemap, `robots.txt`, structured data and share cards are built from it |
 | `.github/workflows/ci.yml` | `--project-name=namesofukraine` | The Cloudflare Pages project the site deploys to |
 | `public/_headers` | — | Security headers (CSP and others), applied by Cloudflare Pages |
@@ -122,3 +123,18 @@ https://namesofukraine.com/uk/people/taras-shevchenko/   # 4th
 4. Save the long-lived token as the `THREADS_ACCESS_TOKEN` repository secret.
 
 **Every ~50 days:** refresh the token before it expires; steps in [MAINTENANCE.md](MAINTENANCE.md#every-50-days-refresh-the-threads-token). An expired token makes the workflow fail; nothing is posted.
+
+## Posting to Instagram
+
+**Post a profile:** GitHub → Actions → **Post to Instagram** → Run workflow, as for Threads: a profile link, or empty for today's entry in the same monthly plan (`social/YYYY-MM.txt`), and **Dry run** ticked by default. The post is the profile's 4:5 card (`/og/instagram/<slug>.jpg`, 1080×1350, built with the site; profiles with a fair-use portrait get a text-only card) and a Ukrainian caption: name and years, role, summary, then «Більше — за посиланням у профілі:» and the profile address as plain text (Instagram captions can't hold clickable links). Runs by hand only for now; the daily schedule follows once posting is tested. Locally: `node scripts/post-instagram.mjs <link> --dry-run`.
+
+**One-time setup** (in the same Meta developer account as Threads):
+
+1. Make the site's Instagram account a **professional** account (Business or Creator): Instagram → Settings → **Account type and tools → Switch to professional account**. Set the bio link to `https://namesofukraine.com/uk/`.
+2. In the Meta app (<https://developers.facebook.com/apps>), add the use case **Manage messaging & content on Instagram** (if the app doesn't offer a second use case, create a new app with it). Open **API setup with Instagram login**, and add the permissions `instagram_business_basic` and `instagram_business_content_publish`.
+3. If the dashboard asks for it, add the account under **App roles → Roles → Instagram Tester** and accept the invite (Instagram on the web → Settings → **Apps and websites → Tester invites**).
+4. In **API setup with Instagram login → Generate access tokens**, click **Add account**, log in as the site's Instagram account and approve. The dashboard shows a long-lived token (60 days).
+5. Check it: `curl -s "https://graph.instagram.com/me?fields=user_id,username&access_token=<token>"` returns the account's username.
+6. Save it as the `INSTAGRAM_ACCESS_TOKEN` repository secret, and in your password manager.
+
+**Every ~50 days:** refresh the token; steps in [MAINTENANCE.md](MAINTENANCE.md#every-50-days-refresh-the-instagram-token).

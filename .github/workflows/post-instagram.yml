@@ -1,0 +1,35 @@
+name: Post to Instagram
+
+# Run by hand from the Actions tab: posts a profile to Instagram in Ukrainian, given its link,
+# or today's entry from the month's plan (social/YYYY-MM.txt) when the link is left empty.
+on:
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: Profile link, e.g. https://namesofukraine.com/uk/people/ivan-franko/ (empty = today's entry in the plan)
+        required: false
+      dry_run:
+        description: Dry run (print the post, don't publish)
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+# One post at a time, so a double click can't post twice in parallel.
+concurrency: post-instagram
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      # Inputs go through env, never straight into the shell command.
+      - run: node scripts/post-instagram.mjs "$PROFILE" $DRY_RUN
+        env:
+          PROFILE: ${{ inputs.profile }}
+          DRY_RUN: ${{ inputs.dry_run && '--dry-run' || '' }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}

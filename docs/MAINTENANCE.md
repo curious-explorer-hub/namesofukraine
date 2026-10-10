@@ -75,6 +75,19 @@ The daily Threads posts ([PUBLISHING.md](PUBLISHING.md#posting-to-threads)) use 
 
 Never paste a token into an issue, a commit or a chat.
 
+### Every ~50 days: refresh the Instagram token
+
+The same routine for the `INSTAGRAM_ACCESS_TOKEN` secret ([PUBLISHING.md](PUBLISHING.md#posting-to-instagram)). **Expiry: not set up yet** (note the date here once the token exists, and refresh 10 days before it).
+
+```sh
+read -s "TOKEN?Current token: "; echo
+curl -s "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=$TOKEN"   # new access_token, expires_in ≈ 60 days
+read -s "NEW?New token: "; echo
+curl -s "https://graph.instagram.com/me?fields=user_id,username&access_token=$NEW"   # the site's account
+```
+
+Then save it in the secret and your password manager, update the date above and set a reminder, as for Threads. The refresh works only while the token is valid and at least a day old; if it has expired, generate a new one (PUBLISHING.md, Instagram setup, step 4).
+
 ### Monthly (about 15 minutes)
 
 - **Next month's Threads plan.** Before the 1st, commit `social/YYYY-MM.txt` for the coming month: one approved profile per day, `-` for a day off, anniversaries on their day (format in [PUBLISHING.md](PUBLISHING.md#posting-to-threads)). Without it, nothing is posted that month.
