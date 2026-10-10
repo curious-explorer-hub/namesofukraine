@@ -524,6 +524,16 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### olha-semydianova — Ольга Семидьянова
 - none found. armyinform.com.ua and life.pravda.com.ua give only paraphrases, or her daughter's and comrades' words. Vikna paraphrases her conviction that "if we leave our positions, the enemy will come to our homes", with no source.
 
+### ostap-vyshnia — Остап Вишня
+- quote 1:
+  - uk: "У мене нема жодного сумніву в тому, що я народився, хоч і під час мого появлення на світ білий і потім — років, мабуть, із десять підряд — мати казали, що мене витягли з колодязя, коли напували корову Оришку."
+  - en: "I have no doubt whatsoever that I was born, even though at the time of my appearance in this world, and for about ten years afterwards, my mother kept saying I'd been pulled out of the well while they were watering Oryshka the cow." (translation: ours)
+  - original_language: uk
+  - source_uk: "Гумореска «Моя автобіографія», 1927"
+  - source_en: "The humorous sketch My Autobiography, 1927"
+  - url: https://osvita.ua/school/literature/v/63907/ (full text, opening line)
+  - confidence: high. Note: the same anecdote is the profile's fun_fact, so as a quote it would repeat it. About 205 characters; it can be cut to "У мене нема жодного сумніву в тому, що я народився […]" if needed.
+
 ### pavlo-skoropadskyi — Павло Скоропадський
 - quote 1:
   - uk: "Хто хоче все й одразу, той зрештою нічого не дістає."
