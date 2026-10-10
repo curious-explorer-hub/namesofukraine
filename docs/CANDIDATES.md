@@ -1,6 +1,6 @@
 # People backlog
 
-Everyone we plan to add, in one table. The site's selection criteria and editorial rules are in [product_vision.md](../product_vision.md) §7; the authoring workflow is in the README. People already on the site are not listed.
+Everyone we plan to add, in one table. The site's selection criteria and editorial rules are in [product_vision.md](../product_vision.md) §7; the authoring workflow is in the README. People who already have a profile, live or draft, are not listed: drafts awaiting review are on the site in dev (Чернетки).
 
 **Sources** (the `Source` column)
 - **NV**: [НВ: 100 великих українців](https://nv.ua/ukr/ukraine/events/100-velikih-ukrajinciv-nv-nazivaye-tih-hto-viznachav-perebig-istoriji-50265222.html) (the site blocks automated access; the list was read from the [Internet Archive copy of 9 Sep 2026](http://web.archive.org/web/20260909133250/https://nv.ua/ukr/ukraine/events/100-velikih-ukrajinciv-nv-nazivaye-tih-hto-viznachav-perebig-istoriji-50265222.html). 99 of 100 entries were parsed; one needs a manual check.)
@@ -9,7 +9,7 @@ Everyone we plan to add, in one table. The site's selection criteria and editori
 - **Defenders**: owner-supplied list of fallen defenders (2026-09-29). **Unverified**; see the editorial rules below.
 - Batches 1–2 also drew on [Rubryka: 28 українців, які змінили світ](https://rubryka.com/article/28-ukrainians-changed-world/).
 
-**Status:** **Backlog** = to do · **Drafted** = draft profile on branch `collections-drafts`, awaiting owner review · **Decision** = needs an owner decision before drafting · **Removed** = drafted, then pulled pending a fact-check · **Excluded** = owner decision; kept so nobody re-adds them.
+**Status:** **Backlog** = to do · **Decision** = needs an owner decision before drafting · **Removed** = drafted, then pulled pending a fact-check · **Excluded** = owner decision; kept so nobody re-adds them.
 
 **Flags:** 👩 woman · 🟢 living · ⚖️ contested or sensitive (needs a «Дискусії та оцінки» section) · 🌍 born or worked mainly outside Ukraine (state the connection precisely) · 👥 more than one person in one entry (decide: separate profiles or skip)
 
@@ -28,44 +28,11 @@ Years are blank where the source list gave none; fill them in when drafting.
 
 | Person | Years | Field (group)                        | Era | Flags | Status | Source | Links | Notes |
 |---|---|--------------------------------------|---|---|---|---|---|---|
-| Святослав Хоробрий | | State (statehood)                    | Kyivan Rus' | | Drafted | ВУ [98] | Ольга (син), Володимир Великий (батько) | |
-| Володимир Мономах | | State (statehood)                    | Kyivan Rus' | | Drafted | ВУ [58] | Ярослав Мудрий* (онук), Володимир Великий* | |
-| Іван Федоров | бл. 1520–1583 | Printer                              | Lithuanian-Polish | 🌍 | Drafted | NV | К.-В. Острозький* (Острозька Біблія; кандидат) | |
-| Юрій Дрогобич (Котермак) | бл. 1450–1494 | Scholar, astronomer (science)        | Lithuanian-Polish | 🌍 | Drafted | Web | | First Ukrainian-born rector of a European university (Bologna, 1481–82); author of the first printed book by a Ukrainian abroad (Rome, 1483); taught at Kraków, where young Copernicus was among his students |
-| Гальшка (Єлизавета) Острозька | 1539–1582 | Patron of education (civic) | Lithuanian-Polish | 👩 | Drafted | Web | К.-В. Острозький* (рід; кандидат) | Funded the founding of the Ostroh Academy (first higher-education institution in Eastern Slavic lands); the era currently has no women on the site |
-| Памво Беринда | бл. 1550/1570–1632 | Publisher (literature)               | Cossack | | Drafted | NV | | |
-| Феофан Прокопович | 1681–1736 | Theologian (faith)                   | Cossack | ⚖️ | Drafted | NV | Мазепа* (проповідь проти нього після Полтави) | Architect of Peter I's church reform |
-| Максим Березовський | 1745–1777 | Composer (performing-arts)           | Cossack | | Drafted | NV | | |
-| Антон Головатий | 1744–1797 | Cossack officer, poet (statehood)    | Imperial | ⚖️ | Drafted | Web | Калнишевський* (Січ до 1775) | Last of the Zaporozhian-tradition kish otamans; led the Black Sea Cossacks after the Sich's destruction (1775) and their resettlement to Kuban (1792) — a complex, debated legacy to frame carefully |
-| Володимир Боровиковський | 1757–1825 | Painter (visual-arts)                | Imperial | 🌍 | Drafted | Web | | Born Myrhorod (Cossack family); leading portraitist of the era, career in St Petersburg; works held at Kyiv's National Art Museum |
-| Микола Пирогов | 1810–1881 | Surgeon (science)                    | 19th c. | 🌍 ⚖️ | Drafted | NV | | Russian-born; worked in Kyiv and Vinnytsia |
-| Микола Костомаров | 1817–1885 | Historian (science)                  | 19th c. | | Drafted | NV | | |
-| Нікола Терещенко | 1819–1903 | Industrialist and patron (civic)     | 19th c. | | Drafted | NV | Богдан Ханенко* (родина; кандидат) | |
-| Іван Пулюй | 1845–1918 | Physicist (science)                  | 19th c. | 🌍 | Drafted | NV | | |
 | Богдан Ханенко | 1849–1917 | Patron (civic)                       | 19th c. | 👥 | Backlog | NV | Нікола Терещенко* (родина; кандидат) | NV lists him with Варвара Ханенко (1852–1922): one joint profile or two? |
-| Шолом-Алейхем | 1859–1916 | Writer (literature)                  | 19th c. | 🌍 | Drafted | NV | Ступка (Тев'є) | Ukrainian-born Yiddish writer |
-| Владислав Городецький | 1863–1930 | Architect (visual-arts)              | 19th c. | 🌍 | Drafted | NV | | |
-| Євген Патон | 1870–1953 | Engineer (science)                   | 19th c. | | Drafted | NV | Борис Патон (батько) | Father of Борис Патон (on the site) |
-| Олександр Богомолець | 1881–1946 | Physiologist (science)               | 20th c. | | Drafted | NV | | |
-| Михайло Бойчук | 1882–1937 | Painter (visual-arts)                | 20th c. | | Drafted | NV | Георгій Нарбут* (Академія мистецтв, 1917; кандидат) | For the `executed-renaissance` collection (shot in 1937) |
-| Георгій Нарбут | 1886–1920 | Graphic artist (visual-arts)         | 20th c. | | Drafted | NV | Скоропадський* (герб і гроші Української Держави); Бойчук (кандидат) | Designed the 1918 banknote on the era ribbon |
-| Йосип Сліпий | | UGCC patriarch (faith)               | 20th c. | | Drafted | ВУ [48] | Шептицький* (наступник); Гузар | 18 years in Soviet camps |
-| Олег Антонов | 1906–1984 | Aircraft designer (science)          | 20th c. | 🌍 | Drafted | NV | | |
-| Антон Макаренко | | Educator (science)                   | 20th c. | 🌍 ⚖️ | Drafted | ВУ [87] | Сухомлинський* (педагогіка) | |
-| Віктор Глушков | 1923–1982 | Computer science (science)           | 20th c. | 🌍 | Drafted | NV | | |
-| Микола Гринько | | Actor (performing-arts)              | 20th c. | | Drafted | ВУ [59] | | |
-| Мирослав Попович | 1930–2018 | Philosopher (science)                | 20th c. | | Drafted | NV | Сковорода* (книга про нього) | |
-| Борис Баранов | 1940–2005 | Chornobyl liquidator (civic)         | 20th c. | | Drafted | NV | | |
-| Софія Ротару | | Singer (performing-arts)             | 20th c. | 👩 🟢 ⚖️ | Drafted | ВУ [54], Heroes | Яремчук* («Червона рута», 1971); Івасюк | Career in Russia after 2014 is debated |
-| Леонід Кравчук | | State (statehood)                    | Independence | ⚖️ | Drafted | ВУ [51] | Чорновіл, Лук'яненко* (Акт проголошення незалежності) | First president; Soviet party career |
-| Борис Ґудзяк | b. 1960 | UGCC metropolitan (faith)            | Independence | 🟢 | Drafted | NV | Шептицький* (УКУ); Гузар | |
-| Олександр Ройтбурд | 1961–2021 | Painter (visual-arts)                | Independence | | Drafted | NV | | |
-| Олег Скрипка | | Musician (performing-arts)           | Independence | 🟢 | Drafted | ВУ [90] | Ніна Матвієнко | |
 | Костянтин-Василь Острозький | 1526–1608 | State, patron (statehood)            | Lithuanian-Polish | 👥 | Decision | NV | Сагайдачний (Острозька академія), Вишневецький (рід); Федоров, Гальшка (кандидати) | The NV entry also covers his father Костянтин (1460–1530): one joint profile or two? |
 | Володимир Зеленський | | State (statehood)                    | Independence | 🟢 | Decision | | | Current leader (see editorial notes) |
 | Валерій Залужний | | Military (statehood)                 | Independence | 🟢 | Decision | Heroes | | Serving leader |
 | Кирило Буданов | | Military (statehood)                 | Independence | 🟢 | Decision | Heroes | | Lieutenant general, head of military intelligence (HUR); Hero of Ukraine (2024) |
-| Роберт Бровді («Мадяр») | | Military (statehood)                 | Independence | 🟢 | Decision | Heroes | | Founder and commander of the «Птахи Мадяра» unit; Hero of Ukraine (2025) |
 | Герої Небесної Сотні | 2014 | Collective                           | Independence | 👥 | Decision | Heroes | | The people killed during the Revolution of Dignity, awarded posthumously |
 | Захисники Азовсталі | 2022 | Collective                           | Independence | 👥 | Decision | NV | | |
 | Невідомий солдат | | Collective                           | | 👥 | Decision | ВУ [100] | | Not a person |
@@ -80,102 +47,46 @@ Owner-requested people first, then a discovery batch weighted towards defenders 
 | Данило Мельник («Фін») | | Military (defenders) | Independence | 🟢 👥 | Decision | Owner request 2026-10-07 | Прокопенко, Волинський | Owner's list names him with «other special-forces and marine fighters» on the helicopter flights into blockaded Azovstal (weapons, medicine, evacuating the wounded). Identity and role **unverified**; the flights were flown by Army Aviation crews with the HUR, so decide: profile individuals, or skip as a collective (see Editorial notes). For the defenders-mariupol collection. Checked 2026-10-08: no reputable source links this name or callsign to the Azovstal flights (the flights were a HUR operation; УП, 26 May 2022). A better-documented candidate: pilot Олександр Шемет, Hero of Ukraine, who evacuated the wounded (facts **unverified**) |
 | Євгенія Емеральд («Жанна д'Арк») | | Military (defenders) | Independence | 👩 🟢 | Decision | Owner request 2026-10-07 | Owner's list: sniper, police regiment «Сафарі»; her 2022 wedding at the front was covered by international media. Checked 2026-10-07: she says she is not a certified sniper and asked the media to stop calling her one (RBC-Styler, 15 Nov 2023); most later coverage is about her private life (court and family disputes), not public deeds. Not drafted: owner to decide whether to keep her. For the women-army collection |
 | Тетяна Чорновол | b. 1979 | Military (defenders), public figure | Independence | 👩 🟢 ⚖️ | Decision | Owner request 2026-10-07 | | Investigative journalist, Euromaidan activist, MP (2014–19); since 2022 an anti-tank missile operator in the Kyiv region and the east. Contested: suspected in the case over the death in the 2014 arson of the Party of Regions office in Kyiv; she disputes it, and the case's status needs checking (**unverified**). Needs a «Дискусії та оцінки» section. Owner decision. For the women-army collection |
-| Олександр Будько («Терен») | | Veteran, para-athlete (defenders) | Independence | 🟢 | Drafted | Owner request 2026-10-09 | | Rivne-born veteran; volunteered for the 49th Separate Rifle Battalion «Карпатська Січ», platoon commander; lost both legs in combat (**unverified**). Swimming medals at the Invictus Games; Order for Merit, 3rd class (Jan 2026, [Факти](https://fakty.com.ua/ru/styl-zhyttia/show/20260115-zelenskyj-vidznachyv-terena-derzhavnoyu-nagorodoyu-shho-vidomo/amp/)). Lead of «Холостяк» season 13 ([Kyiv Post](https://www.kyivpost.com/uk/post/32749)), which he used to speak about veterans and disability. Not linked to «Азов» in sources found. Years **unverified**. Public role only; leave the show's private side out |
-| Валерій Маркус | | Military, writer (defenders) | Independence | 🟢 ⚖️ | Drafted | Owner request 2026-10-09 | | Fought in the Donbas; former chief sergeant of the 47th Brigade «Маґура» ([Еспресо](https://espreso.tv/u-47-y-ombr-magura-priznachili-golovnogo-serzhanta-zamist-valeriya-markusa)); author of the bestseller «Сліди на дорозі» ([Vikna](https://vikna.tv/istorii/rozpovidi/valerij-markus-istoriya-ukrayinskogo-soldata-ta-avtora-knygy/amp/)); YouTube channel with 300,000+ subscribers. His video series that started with «Мрія», criticising the army, was widely debated ([Радіо Свобода](https://www.radiosvoboda.org/a/valeriy-markus-video-krytyka-reaktsiyi/33244588.html)): needs a «Дискусії та оцінки» section. Years and current role **unverified** |
-| Северин Наливайко | ?–1597 | Cossack leader (statehood) | Cossack | | Drafted | Discovery 2026-10-06 | К.-В. Острозький* (служив у нього сотником; кандидат) | Led the Cossack and peasant uprising of 1594–1596; executed in Warsaw in 1597. Sources: ESU, Енциклопедія історії України |
-| Михайло Омелянович-Павленко | 1878–1952 | Military (statehood) | 20th c. | 🌍 | Drafted | Discovery 2026-10-06 | Петлюра*; Безручко, Тютюнник (кандидати) | Commander of the Ukrainian Galician Army (1918–19) and of the UNR Army in the First Winter Campaign (1919–20); died in exile. Born in Tiflis: **unverified** |
-| Юрко Тютюнник | 1891–1930 | Military (statehood) | 20th c. | ⚖️ | Drafted | Discovery 2026-10-06 | Петлюра*; Омелянович-Павленко (кандидат) | Led the Second Winter Campaign (November 1921); lured back to Soviet Ukraine by the GPU (1923), worked there, and was shot in 1930. Sources: ESU, Енциклопедія історії України |
-| Марко Безручко | 1883–1944 | Military (statehood) | 20th c. | | Drafted | Discovery 2026-10-06 | Петлюра*; Омелянович-Павленко (кандидат) | Commander of the 6th Sich Rifle Division of the UNR Army; defended Zamość in the Polish-Soviet war (Aug–Sep 1920). Sources: ESU, Енциклопедія історії України |
-| Аверкій Гончаренко | 1890–1980 | Military (statehood) | 20th c. | 🌍 ⚖️ | Drafted | Discovery 2026-10-06 | Грушевський* (Центральна Рада) | Commanded the Ukrainian force at Kruti on 29 Jan 1918; later emigrated (Texty, ВДПУ). WWII service in German-formed Ukrainian units, and place of death: **unverified** |
-| Дмитро Клячківський («Клим Савур») | 1911–1945 | Military (statehood) | 20th c. | ⚖️ | Drafted | Discovery 2026-10-06 | Шухевич*, Бандера* | First commander of UPA-North (1943–45); the Volhynia massacres of 1943 in his area of command are at the centre of the Polish-Ukrainian debate. Needs a careful debates section |
 
 ## Donetsk airport (2026-10-08)
 
 Owner request: people from the defence of Donetsk airport (26 May 2014 – 22 Jan 2015), whose defenders became known as «кіборги», for a future collection. Everything in the Notes comes from the owner's list and is **unverified** unless a source is named; check ranks, units, callsigns and awards against decrees before drafting. Fallen defenders: see Editorial notes.
 
-**Collection:** `donetsk-airport`, «Кіборги» / "Cyborgs of Donetsk Airport" (added 2026-10-09). On the site: Валерій Чибінєєв, Ігор Брановицький, Іван Зубков.
-
-| Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
-|---|---|---|---|---|---|---|---|---|
-| Олег Мікац | | Military (defenders) | Independence | 🟢 | Decision | Owner request 2026-10-08 | Межевікін, Зінич (кандидати) | Commander of the 93rd Mechanized Brigade; one of the commanders of the airport defence in its first phase. Rank (major general?) and current post **unverified**. Living, possibly serving: owner decision. Checked 2026-10-08: Олег Михайлович, b. 23 Oct 1975, Novohrad-Volynskyi; 93rd brigade commander from 2013, led the airport defence from Sep 2014; major general (Aug 2015); commander of OC «Схід» from Aug 2021 (АрміяInform 2020, BBC Ukrainian 2020). Contested: removed as head of the Desna training centre in May 2015 over an alleged beating (outcome **unverified**); No. 3 on the «Правий сектор» list in 2014. Not drafted: needs a «Дискусії та оцінки» section with good sources, and an owner decision |
+**Collection:** `donetsk-airport`, «Кіборги» / "Cyborgs of Donetsk Airport" (added 2026-10-09). On the site: Валерій Чибінєєв, Ігор Брановицький, Іван Зубков; the other members are drafts. No candidates left.
 
 ## New collections and owner list (2026-10-08)
 
 Owner request: people for three proposed collections (BACKLOG C5) and a list of individual names. These facts come from the owner's list and general knowledge and are **unverified** unless a source is named. Check every claim against ESU and the Encyclopedia of Ukrainian History, and against decrees for awards, before drafting.
 
-**Already on the site** (cross-checked, not repeated below): Микола Хвильовий, Лесь Курбас, Микола Зеров, Руслана Лижичко, Ігор Сікорський, Сергій Корольов. Євген Патон is already in the People table above. When a collection is created, add its id to `collections:` in each existing profile listed under it.
+**Already on the site** (cross-checked, not repeated below): Микола Хвильовий, Лесь Курбас, Микола Зеров, Руслана Лижичко, Ігор Сікорський, Сергій Корольов. When a collection is created, add its id to `collections:` in each existing profile listed under it.
 
 ### Executed Renaissance («Розстріляне відродження»)
 
-**Collection:** `executed-renaissance` (proposed). Existing profiles to label: `mykola-khvylovyi`, `les-kurbas`, `mykola-zerov`, `ostap-vyshnia` (arrested 1933, ten years in the camps; survived). Candidates who also belong: Михайло Бойчук (People table above; shot in 1937).
+**Collection:** `executed-renaissance`, «Розстріляне відродження» / "The Executed Renaissance" (a draft collection, hidden on the site). Live members: Хвильовий, Курбас, Зеров, Остап Вишня, Филипович, Драй-Хмара; the rest are drafts. One open question:
 
 | Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Микола Куліш | 1892–1937 | Playwright (literature) | 20th c. | | Drafted | Owner request 2026-10-08 | Курбас (вистави «Березоля»: «Народний Малахій», «Мина Мазайло»); Хвильовий* (ВАПЛІТЕ) | The leading modernist playwright («Мина Мазайло», «Патетична соната», «Народний Малахій»); shot at Sandarmokh, 1937. Born near Chaplynka (Kherson oblast): fills an empty oblast. Kurbas's profile already names him |
-| Валер'ян Підмогильний | 1901–1937 | Writer (literature) | 20th c. | | Drafted | Owner request 2026-10-08 | Хвильовий* (сучасник) | Author of «Місто» (1928), the first Ukrainian urban psychological novel; translator of French prose; shot at Sandarmokh, 1937 |
-| Михайло Яловий (Юліан Шпол) | 1895–1937 | Writer (literature) | 20th c. | | Drafted | Owner request 2026-10-08 | Хвильовий* (ВАПЛІТЕ; його арешт передував самогубству Хвильового) | President of ВАПЛІТЕ; arrested in May 1933, days before Khvylovy's suicide; shot at Sandarmokh, 1937 (dates **unverified**) |
 | Богдан-Ігор Антонич | 1909–1937 | Poet (literature) | 20th c. | 🌍 | Decision | Owner request 2026-10-08 | | Lemko-born (now Poland) poet of interwar Lviv («Книга Лева», «Зелена Євангелія»). He was not repressed: he died of illness in Polish-ruled Lviv, so he doesn't fit this collection. Owner: profile him without the collection, or skip |
 
 #### Roster check (2026-10-10)
 
-About 45 names checked against the Internet Encyclopedia of Ukraine and the ЕІУ articles «Розстріляне відродження» (О. Рубльов) and «Соловецькі розстріли 1937–1938» (Ю. Шаповал); ESU was rate-limited, so open each person's ESU article before drafting. Oblasts are mapped from historical county names: check. Drafted on branch `collections-drafts`: Куліш, Підмогильний, Яловий, Бойчук, and all 12 ranked below (2026-10-10); the neoclassicists Рильський, Филипович, Драй-Хмара and Клен are drafted there too. Existing profiles: `ahatanhel-krymskyi` fits (arrested 1941, died in custody 1942; owner: add him to the collection?); `mykhailo-hrushevskyi` is a loose fit (older generation, statesman); Филипович, Драй-Хмара and Рильський fit both collections.
-
-| Rank | Person | Years | Fate | Free portrait | Flags |
-|---|---|---|---|---|---|
-| 1 | Михайль Семенко | 1892–1937 | Shot 1937 (23 Oct per IEU) | Yes | Place of death to confirm |
-| 2 | Майк Йогансен | 1895–1937 | Shot in Kyiv, 27 Oct 1937 | Yes | State his German–Ukrainian parentage |
-| 3 | Григорій Косинка | 1899–1934 | Shot in Kyiv, Dec 1934 (one of 28) | Yes | 17 or 15 Dec |
-| 4 | Євген Плужник | 1898–1936 | Death sentence commuted; died on Solovky | Yes (small) | Born in Russia |
-| 5 | Микола Вороний | 1871–1938 | Shot in Odesa, 7 Jun 1938 | Yes | Older generation; pairs with his son Марко |
-| 6 | Софія Налепинська-Бойчук 👩 | 1884–1937 | Shot in Kyiv, 11 Dec 1937 | Yes (small) | Born in Łódź; second source needed; pairs with Бойчук |
-| 7 | Олекса Слісаренко | 1891–1937 | Shot at Sandarmokh, 3 Nov 1937 | Yes | Born in Kharkiv oblast (not Kherson) |
-| 8 | Валер'ян Поліщук | 1897–1937 | Shot at Sandarmokh | Yes (weak provenance) | 9 Oct or 3 Nov 1937 |
-| 9 | Мирослав Ірчан | 1897–1937 | Shot at Sandarmokh, 3 Nov 1937 | Yes | Communist: neutral framing |
-| 10 | Гнат Хоткевич | 1877–1938 | Shot in Kharkiv, 8 Oct 1938 | Yes | Older generation; second source needed |
-| 11 | Андрій Ніковський | 1885–1942 | SVU trial, Solovky; died in Leningrad 1942 | Yes | UNR minister (§7.6); fills Odesa |
-| 12 | Людмила Старицька-Черняхівська 👩 | 1868–1941 | SVU case; died 1941 on the way to exile | Yes | Older generation; date uncertain |
+About 45 names checked against the Internet Encyclopedia of Ukraine and the ЕІУ articles «Розстріляне відродження» (О. Рубльов) and «Соловецькі розстріли 1937–1938» (Ю. Шаповал); ESU was rate-limited, so open each person's ESU article before drafting. Oblasts are mapped from historical county names: check. The ranked shortlist of 12 is drafted (2026-10-10). Existing profiles: `ahatanhel-krymskyi` fits (arrested 1941, died in custody 1942; owner: add him to the collection?); `mykhailo-hrushevskyi` is a loose fit (older generation, statesman); Рильський fits both collections (he is in `neoclassicists` only).
 
 Alternates (free portraits): Марко Вороний, Іван Падалка, Володимир Свідзинський (manner of death disputed), Степан Рудницький, Сергій Єфремов, Михайло Кравчук (outside the cultural scope), Гео Шкурупій, Григорій Епік, Олекса Влизько. Skip or owner decision: Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); survivors (Багряний, Антоненко-Давидович, Осьмачка, Слабченко, Суровцова, Мисик, Івченко: Багряний and Антоненко-Давидович are strong profiles on their own); political figures (Чехівський, Лозинський, Буревій); Олена Курило and Катерина Грушевська (dates conflict, thin sources); Фальківський (Cheka service); Іван Дніпровський (Kherson-born, not repressed: a profile outside the collection).
 
 ### Kyiv Neoclassicists («Київські неокласики», «п'ятірне гроно»)
 
-**Collection:** `neoclassicists` (proposed). Existing profiles to label: `mykola-zerov` (his profile already names the four below).
-
-| Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
-|---|---|---|---|---|---|---|---|---|
-| Максим Рильський | 1895–1964 | Poet, translator (literature) | 20th c. | ⚖️ | Drafted | Owner request 2026-10-08 | Зеров (неокласики) | The one neoclassicist who survived: arrested in 1931, then wrote within the Soviet system (academician; state prizes). Translator of «Пан Тадеуш» and «Євгеній Онєгін». His forced conformist verse needs neutral framing |
-| Павло Филипович | 1891–1937 | Poet, literary scholar (literature) | 20th c. | | Drafted | Owner request 2026-10-08 | Зеров (неокласики) | Poet and scholar of Shevchenko and Kulish; shot at Sandarmokh, 1937 |
-| Михайло Драй-Хмара | 1889–1939 | Poet, linguist (literature) | 20th c. | | Drafted | Owner request 2026-10-08 | Зеров (неокласики; «Лебеді» присвячено неокласикам) | His sonnet «Лебеді» (the «п'ятірне гроно») named the group; died in a Kolyma camp, 1939. The «about 20 languages» claim and the «drop of blood» quote in the owner's list are **unverified**: don't use them without a source |
-| Юрій Клен (Освальд Бурґгардт) | 1891–1947 | Poet, translator (literature) | 20th c. | 🌍 | Drafted | Owner request 2026-10-08 | Зеров (неокласики) | Of German descent; left for Germany in 1931; wrote «Прокляті роки» and the memoir «Спогади про неокласиків»; died in Augsburg |
+**Collection:** `neoclassicists`, «Київські неокласики» / "The Kyiv Neoclassicists": live, all five members (Зеров, Рильський, Филипович, Драй-Хмара, Клен). No candidates left.
 
 ### Civic icons: from «Україна без Кучми» to the Maidan
 
-**Collection:** id and name to pick; proposed `civic-icons`, «Голоси свободи» / "Voices of freedom". The owner's list spans 2000–2018, wider than the two revolutions. Existing profiles to label: `ruslana-lyzhychko`, `roman-ratushnyi`, `serhii-sternenko` (draft). Worth considering, as Maidan participants: `iryna-tsvila` (photographed the Maidan), `sviatoslav-horbenko` (Kharkiv Euromaidan self-defence).
-
-| Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
-|---|---|---|---|---|---|---|---|---|
-| Георгій Гонгадзе | 1969–2000 | Journalist (civic) | Independence | 🌍 | Drafted | Owner request 2026-10-08 | | Tbilisi-born; founded «Українська правда» (2000); abducted and killed in September 2000; the «касетний скандал» set off «Україна без Кучми». Hero of Ukraine (posthumously, 2005: **unverified**). The perpetrators were convicted; who ordered the killing is still debated, so state that with sources. Nothing graphic |
-| Мустафа Найєм | b. 1981 | Journalist (civic) | Independence | 🟢 🌍 ⚖️ | Decision | Owner request 2026-10-08 | Руслана, Ратушний* (Майдан) | Kabul-born; his Facebook post of 21 Nov 2013 called the first rally of the Euromaidan. Later an MP (2014–19) and a government official (state restoration agency): a politician by §7.6, so owner decision |
-| Катерина Гандзюк | 1985–2018 | Activist (civic) | Independence | 👩 | Drafted | Owner request 2026-10-08 | | Kherson anti-corruption activist and city council official; died in November 2018 after an acid attack in July. The investigation and trials became a symbol of the fight against impunity. Fills Kherson oblast. Nothing graphic; the case's status and who ordered it: **unverified** |
-| Ігор Костенко | 1991–2014 | Student, journalist (civic) | Independence | | Drafted | Owner request 2026-10-08 | Герої Небесної Сотні (колектив, вище) | Student and Wikipedia editor, killed on Instytutska Street on 20 Feb 2014; Hero of Ukraine (posthumously). One way to resolve the Heavenly Hundred question: profile individuals |
-| Богдан Сольчаник | 1985–2014 | Lecturer (civic) | Independence | | Decision | Owner request 2026-10-08 | Костенко (кандидат); Гузар* (УКУ) | The owner's list spells him «Сольчак»: the correct name is Сольчаник. Lviv historian at the Ukrainian Catholic University, killed on Instytutska Street on 20 Feb 2014. Owner: add him alongside Костенко, or one Heavenly Hundred profile only |
+**Collection:** `civic-icons`, «Голоси свободи» / "Voices of Freedom" (a draft collection, hidden on the site). Live members: Руслана, Ратушний; Стерненко, Гонгадзе, Гандзюк, Найєм, Костенко and Сольчаник are drafts. No candidates left. Worth considering, as Maidan participants: `iryna-tsvila` (photographed the Maidan), `sviatoslav-horbenko` (Kharkiv Euromaidan self-defence).
 
 ### Other names from the owner's list
 
 | Person | Years | Field (group) | Era | Flags | Status | Source | Links | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Данило Заболотний | 1866–1929 | Epidemiologist (science) | 20th c. | | Drafted | Owner request 2026-10-08 | Мечников* (Одеса) | Plague researcher; founded the first department of epidemiology (Odesa); president of the All-Ukrainian Academy of Sciences (1928–29). Born in Podillia (Vinnytsia oblast) |
-| Валентин Глушко | 1908–1989 | Rocket engine designer (science) | 20th c. | 🌍 ⚖️ | Drafted | Owner request 2026-10-08 | Корольов (суперник і співробітник) | Odesa-born; designed the engines for the Soviet space rockets; chief designer of «Енергія–Буран». Worked in Russia; his role in Korolyov's 1938 case and their rivalry are debated: needs a debates section |
-| Михайло Ткач | | Journalist (civic) | Independence | 🟢 | Drafted | Owner request 2026-10-08 | | Investigative journalist (formerly «Схеми», now «Українська правда»). Years and career: **unverified** |
-| Тарас Чмут | | Volunteer, military analyst (civic) | Independence | 🟢 | Drafted | Owner request 2026-10-08 | | Head of the «Повернись живим» foundation; former marine. Years and career: **unverified** |
 | Сергій Притула | b. 1981 | TV host, volunteer (civic) | Independence | 🟢 ⚖️ | Decision | Owner request 2026-10-08 | | His foundation raised money for the Bayraktars and the ICEYE satellite (2022). He also ran for office (party «Голос»): a politician by §7.6, so owner decision. Years: **unverified** |
-| Олексій Ануля | | Defender, human-rights advocate (defenders) | Independence | 🟢 | Drafted | Owner request 2026-10-08 | | The owner's list spells him «Anylya». Defender from Chernihiv oblast, 10 months in Russian captivity; now works to free prisoners, supports families of the missing and documents war crimes; author of «Jingle bellz» (2025); first winner of the Ihor Kozlovskyi Prize from the Center for Civil Liberties (Dec 2025) ([УП Життя](https://life.pravda.com.ua/society/oleksiy-anulya-otrimav-premiyu-imeni-igorya-kozlovskogo-311999/), [Суспільне](https://suspilne.media/612839-znajsov-svij-avtomat-u-lukasivci-akij-zahovav-20-misaciv-tomu-pisla-bou-istoria-oleksia-anuli-z-cernigivsini/)). Years **unverified**. Captivity: public deeds only |
-| Владислав Гераскевич | | Skeleton racer (sport) | Independence | 🟢 | Drafted | Owner request 2026-10-09 | Павло Петриченко (процитував його слова «Всі красиві зберігають оптимізм», 2026) | Ukrainian skeleton racer. At the 2026 Winter Olympics he was disqualified before the first run (12 Feb 2026) for refusing to race without his helmet showing Ukrainian athletes killed by Russia; the IOC withdrew his accreditation ([Zaxid.net](https://zaxid.net/mok_diskvalifikuvav_ukrayinskogo_skeletonista_vladislava_gerakevicha_na_olimpiadi_2026_n1630157), [УП](https://www.pravda.com.ua/eng/news/2026/02/12/8020648), [Al Jazeera](https://www.aljazeera.com/sports/2026/2/12/ukraines-heraskevych-disqualified-from-olympics-skeleton-over-helmet)). Outcome of his appeal (CAS?), years, birthplace and earlier results (Olympics 2018, 2022) **unverified**. Once drafted, link him from Petrychenko's `fun_fact` and add to `aliases.json` |
-| Еліна Світоліна | b. 1994 | Tennis player (sport) | Independence | 👩 🟢 | Drafted | Owner request 2026-10-09 | | Bronze at the Tokyo 2020 Olympics (2021), the first Olympic tennis medal for Ukraine; WTA Finals winner (2018). Years and results **unverified** |
-| Марта Костюк | b. 2002 | Tennis player (sport) | Independence | 👩 🟢 | Drafted | Owner request 2026-10-09 | Світоліна (кандидатка; збірна) | Kyiv-born; refuses handshakes with Russian and Belarusian players since 2022. Years and results **unverified** |
-| Олександр Усик | b. 1987 | Boxer (sport) | Independence | 🟢 ⚖️ | Drafted | Owner request 2026-10-09 | Віталій і Володимир Клички* (чемпіони у суперважкій вазі) | Born in Simferopol; Olympic champion (London 2012); undisputed champion at cruiserweight and heavyweight. Joined the territorial defence in 2022. His pre-2022 remarks on Crimea and "one people" drew criticism: check whether a debates section is needed. Years and titles **unverified** |
-| Ярослава Магучіх | b. 2001 | High jumper (sport) | Independence | 👩 🟢 | Drafted | Owner request 2026-10-09 | Сергій Бубка* (легка атлетика) | Dnipro-born; world record 2.10 m (Paris, 2024) and Olympic champion (Paris 2024). The owner's list spells her «Moguchih»: the correct transliteration is Mahuchikh. Years and results **unverified** |
-| Юрій Рибчинський | b. 1945 | Poet, lyricist, playwright (literature) | Independence | 🟢 | Drafted | Owner request 2026-10-10 | Ротару* (пісні; кандидатка) | Kyiv-born author of lyrics to many well-known Ukrainian pop songs, and of plays and musicals. Years, titles, awards and collaborators **unverified** |
 
 ## More collection ideas (2026-10-09)
 
