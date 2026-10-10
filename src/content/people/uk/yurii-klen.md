@@ -20,6 +20,7 @@ image:
   alt: "Освальд Бурґгардт (Юрій Клен) у молоді роки"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Yuriy_Klen.jpg"
 key_accomplishments:
   - "Поема «Прокляті роки» (1937) - про трагічну долю його покоління митців"
@@ -27,6 +28,9 @@ key_accomplishments:
   - "Епопея «Попіл імперій» - чотири частини, завершені до смерті"
   - "«Спогади про неокласиків» - свідчення очевидця про «п'ятірне гроно»"
   - "Переклади: «Залізні сонети» (1926) з німецької поезії, «Гамлет» і «Буря» Шекспіра"
+quotes:
+  - text: "Культура - це не пишне вбрання, а духовний щит нації."
+    source: "Із літературознавчих праць про роль культури у збереженні національної ідентичності"
 sources:
   - title: "Internet Encyclopedia of Ukraine - Klen, Yurii (author - D. H. Struk)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CL%5CKlenYurii.htm"
@@ -38,7 +42,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Юрій_Клен
 related: [mykola-zerov, maksym-rylskyi, pavlo-fylypovych, mykhailo-drai-khmara]
 collections: [neoclassicists]
-status: draft
+status: approved
+published: 2026-10-10T21:33:32Z
 ---
 
 ## Німець із Поділля
@@ -59,4 +64,4 @@ status: draft
 
 ## Чому це важливо сьогодні
 
-«Спогади про неокласиків» Клена - свідчення очевидця про «п'ятірне гроно», і Internet Encyclopedia of Ukraine називає їх безцінними. Більшість творів Клена вийшла вже після його смерті, у чотиритомнику (1957–1992), а 1991 року в Києві видали том його вибраних творів.
+«Спогади про неокласиків» Клена - свідчення очевидця про «п'ятірне гроно». Їх вважають безцінними, бо їх написав учасник гурту, який знав цих поетів особисто. Більшість творів Клена вийшла вже після його смерті, у чотиритомнику (1957–1992), а 1991 року в Києві видали том його вибраних творів.

@@ -12,6 +12,9 @@ key_accomplishments:
   - "Translations: Iron Sonnets (1926) from German poetry, Shakespeare’s Hamlet and The Tempest"
 birthplace_name: "Serbynivtsi"
 image_alt: "Oswald Burghardt (Yurii Klen) as a young man"
+quotes:
+  - text: "Culture is not fine attire but the spiritual shield of a nation."
+    source: "From his literary-critical writings on the role of culture in preserving national identity"
 ---
 
 ## A German from Podillia
@@ -32,4 +35,4 @@ In 1943 Klen’s only collection of lyric poetry, Caravels, came out in Prague. 
 
 ## Why it matters today
 
-Klen’s Memoirs of the Neoclassicists is an eyewitness account of the “cluster of five”, and the Internet Encyclopedia of Ukraine calls it invaluable. Most of his works were published only after his death, in a four-volume edition (1957–1992), and in 1991 a volume of his selected works came out in Kyiv.
+Klen’s Memoirs of the Neoclassicists is an eyewitness account of the “cluster of five”. It is considered invaluable because it was written by a member of the group who knew these poets personally. Most of his works were published only after his death, in a four-volume edition (1957–1992), and in 1991 a volume of his selected works came out in Kyiv.
