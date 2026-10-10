@@ -37,7 +37,8 @@ image:
   license: "CC BY 4.0"
   source_url: "https://uinp.gov.ua/istorychnyy-kalendar/lystopad/5/1968-samospalennya-vasylya-makuha-u-kyyevi"
 related: [oleksa-hirnyk]
-status: draft
+status: approved
+published: 2026-10-10T18:36:35Z
 ---
 
 ## Хлопець із Карова, який пішов у ліс

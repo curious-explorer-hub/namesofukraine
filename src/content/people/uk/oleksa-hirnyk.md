@@ -37,7 +37,8 @@ image:
   source_url: "https://www.golos.com.ua/article/341010"
   fair_use: true
 related: [taras-shevchenko, vasyl-makukh]
-status: draft
+status: approved
+published: 2026-10-10T18:36:35Z
 ---
 
 ## Тисяча листівок від руки
