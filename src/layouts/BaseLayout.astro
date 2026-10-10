@@ -121,14 +121,16 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
             </a>
           )}
         </nav>
-        {socialLinks.length > 0 && (
-          <ul class="site-footer-social" aria-label={t('community.social_title', lang)}>
-            {socialLinks.map((l) => (
-              <li><a href={l.url} target="_blank" rel="me noopener" aria-label={l.name} title={l.name}><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg></a></li>
-            ))}
-          </ul>
-        )}
-        {version && <p class="site-footer-version" data-version={version}>{t('footer.version', lang)} {version}</p>}
+        <div class="site-footer-bottom">
+          {socialLinks.length > 0 && (
+            <ul class="site-footer-social" aria-label={t('community.social_title', lang)}>
+              {socialLinks.map((l) => (
+                <li><a href={l.url} target="_blank" rel="me noopener" aria-label={l.name} title={l.name}><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg></a></li>
+              ))}
+            </ul>
+          )}
+          {version && <p class="site-footer-version" data-version={version}>{t('footer.version', lang)} {version}</p>}
+        </div>
       </div>
     </footer>
     <script>
