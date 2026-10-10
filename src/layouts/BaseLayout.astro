@@ -5,6 +5,7 @@ import { localePath } from '../lib/people';
 import { jsonForScript } from '../lib/json';
 import { shortDescription } from '../lib/meta';
 import { socialLinks } from '../lib/social';
+import { version } from '../lib/version';
 // Same mark as the favicon, inlined so it scales crisply and needs no extra request.
 import mark from '../../public/favicon.svg?raw';
 
@@ -127,6 +128,7 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
             ))}
           </ul>
         )}
+        {version && <p class="site-footer-version" data-version={version}>{t('footer.version', lang)} {version}</p>}
       </div>
     </footer>
     <script>
