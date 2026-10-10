@@ -1,8 +1,10 @@
 name: Post to Instagram
 
-# Run by hand from the Actions tab: posts a profile to Instagram in Ukrainian, given its link,
-# or today's entry from the month's plan (social/YYYY-MM.txt) when the link is left empty.
+# Posts a profile to Instagram in Ukrainian: daily, today's entry from the month's plan (social/YYYY-MM.txt),
+# or by hand from the Actions tab, given a profile link (empty = today's entry).
 on:
+  schedule:
+    - cron: '0 7 * * *' # same time as Threads: 10:00 Kyiv in summer, 09:00 in winter
   workflow_dispatch:
     inputs:
       profile:

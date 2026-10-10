@@ -77,7 +77,7 @@ Never paste a token into an issue, a commit or a chat.
 
 ### Every ~50 days: refresh the Instagram token
 
-The same routine for the `INSTAGRAM_ACCESS_TOKEN` secret ([PUBLISHING.md](PUBLISHING.md#posting-to-instagram)). **Expiry: not set up yet** (note the date here once the token exists, and refresh 10 days before it).
+The same routine for the `INSTAGRAM_ACCESS_TOKEN` secret ([PUBLISHING.md](PUBLISHING.md#posting-to-instagram)). **Current token generated 2026-10-10, expires about 2026-12-09; refresh by 2026-11-29** (with the Threads token).
 
 ```sh
 read -s "TOKEN?Current token: "; echo

@@ -74,10 +74,11 @@ export async function personCard(p: Person) {
   );
 }
 
-// Instagram's tallest feed format (4:5): portrait on top, text below; text only when the portrait isn't free to share.
+// Instagram's tallest feed format (4:5): portrait on top, a short strip with name and role below; text only when the
+// portrait isn't free to share. Years and the site name are left to the caption, so the portrait gets the space.
 const IG_W = 1080;
 const IG_H = 1350;
-const IG_PHOTO = 880;
+const IG_PHOTO = 1060;
 
 export async function instagramCard(p: Person) {
   const img = freeImage(p) ? await tintedPortrait(p.slug, IG_W, IG_PHOTO) : null;
@@ -85,16 +86,9 @@ export async function instagramCard(p: Person) {
   return render(
     h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
       img ? h('img', { width: IG_W, height: IG_PHOTO, objectFit: 'cover' }, undefined, { src: img, width: IG_W, height: IG_PHOTO }) : null,
-      h('div', { display: 'flex', flexDirection: 'column', flex: 1, padding: '36px 72px 48px', borderTop: `12px solid ${C.wheat}` }, [
-        h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }, [
-          h('div', { fontSize: 34, color: C.slate, marginBottom: 12 }, lifespan(p)),
-          h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: img ? (long ? 68 : 84) : long ? 92 : 112, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
-          h('div', { fontWeight: 500, fontSize: img ? 40 : 48, color: C.cobalt, marginTop: 20, lineHeight: 1.2 }, p.data.role),
-        ]),
-        h('div', { display: 'flex', alignItems: 'center', justifyContent: 'space-between' }, [
-          h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 32 }, t('site.title', p.lang)),
-          stitchRow(7),
-        ]),
+      h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center', padding: '28px 72px 36px', borderTop: `12px solid ${C.wheat}` }, [
+        h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: img ? (long ? 64 : 80) : long ? 92 : 112, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
+        h('div', { fontWeight: 500, fontSize: img ? 40 : 48, color: C.cobalt, marginTop: 16, lineHeight: 1.2 }, p.data.role),
       ]),
     ]),
     IG_W,

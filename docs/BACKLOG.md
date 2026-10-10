@@ -40,7 +40,7 @@ In order. Pick from the top.
   - **Threads first** (links in the text are clickable), then Instagram. Instagram captions can't hold clickable links ("link in bio"), and its feed works better with a 4:5 card than the 1200×630 share card.
   - Tokens go in GitHub Secrets, never in the repo. Meta's long-lived tokens last 60 days and need refreshing. The script only posts profiles with `status: approved` that are live on the site.
   - **Ukrainian first:** posts use the Ukrainian text and the `/uk/` link, since Ukrainian readers are the primary audience. English may come later.
-  - **Instagram: built** (2026-10-10), by hand only: 4:5 cards at `/og/instagram/<slug>.jpg`, `scripts/post-instagram.mjs`, the **Post to Instagram** workflow, same monthly plan. Open: account and token setup ([PUBLISHING.md](PUBLISHING.md#posting-to-instagram)), a first real post, then the daily schedule.
+  - **Instagram: done** (2026-10-10): 4:5 cards at `/og/instagram/<slug>.jpg`, `scripts/post-instagram.mjs`, the **Post to Instagram** workflow on the same daily schedule and monthly plan as Threads. First post (by hand) 2026-10-10.
   - Open: the post template; automatic token refresh (manual every ~50 days for now, [MAINTENANCE.md](MAINTENANCE.md#every-50-days-refresh-the-threads-token)).
 
 ## Ideas
