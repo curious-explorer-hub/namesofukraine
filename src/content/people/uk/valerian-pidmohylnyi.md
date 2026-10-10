@@ -35,6 +35,7 @@ sources:
   - title: Вікіпедія - Підмогильний Валер'ян Петрович
     url: https://uk.wikipedia.org/wiki/Валер'ян_Підмогильний
 related: [mykola-kulish, mykola-zerov, les-kurbas]
+collections: [executed-renaissance]
 status: draft
 ---
 

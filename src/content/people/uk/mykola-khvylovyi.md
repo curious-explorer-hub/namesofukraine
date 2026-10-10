@@ -31,6 +31,7 @@ sources:
   - title: Вікіпедія - Микола Хвильовий
     url: https://uk.wikipedia.org/wiki/Микола_Хвильовий
 related: [vasyl-stus, les-kurbas, ostap-vyshnia, mykola-zerov]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

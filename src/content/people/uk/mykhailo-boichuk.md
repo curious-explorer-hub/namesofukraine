@@ -38,6 +38,7 @@ sources:
   - title: Вікіпедія - Бойчук Михайло Львович
     url: https://uk.wikipedia.org/wiki/Михайло_Бойчук
 related: [andrei-sheptytskyi, mykhailo-hrushevskyi]
+collections: [executed-renaissance]
 status: draft
 ---
 

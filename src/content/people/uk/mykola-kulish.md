@@ -36,6 +36,7 @@ sources:
   - title: Вікіпедія - Куліш Микола Гурович
     url: https://uk.wikipedia.org/wiki/Микола_Куліш
 related: [les-kurbas, mykola-khvylovyi, les-taniuk, mykola-zerov, valerian-pidmohylnyi]
+collections: [executed-renaissance]
 status: draft
 ---
 

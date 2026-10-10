@@ -37,6 +37,7 @@ sources:
   - title: "Finance.ua - НБУ ввів в обіг пам'ятні монети, присвячені митцям Розстріляного відродження"
     url: "https://news.finance.ua/ua/nbu-vviv-v-obih-pam-yatni-monety-prysvyacheni-mytcyam-rozstrilyanoho-vidrodzhennya-foto"
 related: [mykola-khvylovyi]
+collections: [executed-renaissance]
 status: draft
 ---
 

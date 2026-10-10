@@ -35,6 +35,7 @@ sources:
   - title: "Остап Вишня - Моя автобіографія (УкрЛіб)"
     url: "https://www.ukrlib.com.ua/books/printit.php?tid=450"
 related: [mykola-khvylovyi, les-kurbas, mykola-hohol]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

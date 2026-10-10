@@ -119,6 +119,30 @@
         "license": "AI-generated",
         "source_url": ""
       }
+    },
+    {
+      "id": "executed-renaissance",
+      "label": {
+        "uk": "Розстріляне відродження",
+        "en": "The Executed Renaissance"
+      },
+      "description": {
+        "uk": "Покоління письменників, митців і вчених 1920-х, яке радянська влада розстріляла, заслала або змусила замовкнути, - і чиї твори пережили своїх катів.",
+        "en": "The generation of writers, artists and scholars of the 1920s whom the Soviet regime shot, exiled or silenced, and whose work outlived their executioners."
+      },
+      "image": {
+        "file": "executed-renaissance.jpg",
+        "caption": {
+          "uk": "Члени ВАПЛІТЕ, Харків, близько 1926–1927 років",
+          "en": "Members of VAPLITE, Kharkiv, around 1926–1927"
+        },
+        "author": {
+          "uk": "Невідомий автор",
+          "en": "Unknown author"
+        },
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:VAPLITE_-_Kharkiv.jpg"
+      }
     }
   ]
 }

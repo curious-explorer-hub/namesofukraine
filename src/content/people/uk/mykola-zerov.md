@@ -37,6 +37,7 @@ sources:
   - title: Вікіпедія - Зеров Микола Костянтинович
     url: https://uk.wikipedia.org/wiki/Микола_Зеров
 related: [mykola-khvylovyi, les-kurbas, lesya-ukrainka, ivan-franko]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
