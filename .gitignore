@@ -7,3 +7,4 @@ dist/
 .lighthouseci/
 test-results/
 playwright-report/
+.social-preview/

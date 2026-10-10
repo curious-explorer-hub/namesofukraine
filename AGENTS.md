@@ -32,7 +32,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/components/`, `src/lib/`, `src/scripts/` | Components; build-time helpers; browser scripts |
 | `src/site.ts` | Site settings (form, social and donation URLs) |
 | `public/_headers`, `public/_redirects` | CSP and security headers; redirects |
-| `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), feedback pull, Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`) |
+| `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), feedback pull, Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`; `preview-social.mjs` previews a post) |
 
 ## Docs
 

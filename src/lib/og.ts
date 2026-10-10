@@ -7,6 +7,7 @@ import { Resvg } from '@resvg/resvg-js';
 import sharp from 'sharp';
 import { freeImage, lifespan, type Person } from './people';
 import { t, type Lang } from '../i18n';
+import { closingSection } from './story.mjs';
 
 const W = 1200;
 const H = 630;
@@ -34,7 +35,16 @@ const stitch = (color: string) =>
 const stitchRow = (n: number, size = 22) =>
   h('div', { display: 'flex', gap: 6 }, Array.from({ length: n }, (_, i) => h('img', { width: size, height: size }, undefined, { src: stitch(i === 0 ? C.wheat : C.cobalt), width: size, height: size })));
 
-// Share images only (the site shows portraits in full colour): grayscale screened over cobalt, cropped towards the face.
+// Portraits on the person cards, in full colour as on the profile page, cropped towards the face.
+const portrait = async (slug: string, width: number, height: number) => {
+  const out = await sharp(join(root, 'src/content/people/uk/images', `${slug}.jpg`))
+    .resize(width, height, { fit: 'cover', position: 'north' })
+    .jpeg({ quality: 88 })
+    .toBuffer();
+  return `data:image/jpeg;base64,${out.toString('base64')}`;
+};
+
+// The site card's row of faces: grayscale screened over cobalt, so mixed photos read as one set.
 const tintedPortrait = async (slug: string, width: number, height: number) => {
   const gray = await sharp(join(root, 'src/content/people/uk/images', `${slug}.jpg`))
     .resize(width, height, { fit: 'cover', position: 'north' })
@@ -56,7 +66,7 @@ const render = async (tree: Node, width = W, height = H) => {
 };
 
 export async function personCard(p: Person) {
-  const img = freeImage(p) ? await tintedPortrait(p.slug, 480, H) : null;
+  const img = freeImage(p) ? await portrait(p.slug, 480, H) : null;
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', width: W, height: H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
@@ -78,18 +88,56 @@ export async function personCard(p: Person) {
 // portrait isn't free to share. Years and the site name are left to the caption, so the portrait gets the space.
 const IG_W = 1080;
 const IG_H = 1350;
-const IG_PHOTO = 1060;
+const IG_PHOTO = 1150;
 
 export async function instagramCard(p: Person) {
-  const img = freeImage(p) ? await tintedPortrait(p.slug, IG_W, IG_PHOTO) : null;
+  const img = freeImage(p) ? await portrait(p.slug, IG_W, IG_PHOTO) : null;
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
       img ? h('img', { width: IG_W, height: IG_PHOTO, objectFit: 'cover' }, undefined, { src: img, width: IG_W, height: IG_PHOTO }) : null,
-      h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center', padding: '28px 72px 36px', borderTop: `12px solid ${C.wheat}` }, [
-        h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: img ? (long ? 64 : 80) : long ? 92 : 112, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
-        h('div', { fontWeight: 500, fontSize: img ? 40 : 48, color: C.cobalt, marginTop: 16, lineHeight: 1.2 }, p.data.role),
+      h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center', padding: '20px 72px 24px', borderTop: `12px solid ${C.wheat}` }, [
+        h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: img ? (long ? 58 : 72) : long ? 92 : 112, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
+        h('div', { fontWeight: 500, fontSize: img ? 36 : 48, color: C.cobalt, marginTop: 12, lineHeight: 1.2 }, p.data.role),
       ]),
+    ]),
+    IG_W,
+    IG_H,
+  );
+}
+
+// The carousel's text slides after the portrait card (/og/instagram/<slug>/<n>.jpg, n from 2): the summary, the first
+// three key accomplishments, the story's closing section on why the person matters, and the quote (or else the fun
+// fact), so the post reads in full inside the app.
+export type Slide = { label: string; text?: string; items?: string[]; note?: string };
+
+export function instagramSlides(p: Person): Slide[] {
+  const quote = p.data.quotes[0];
+  const why = closingSection(p.body.body ?? '');
+  return [
+    { label: 'Коротко', text: p.data.summary },
+    { label: 'Головне', items: p.data.key_accomplishments.slice(0, 3) },
+    ...(why ? [{ label: why.heading, text: why.text }] : []),
+    quote ? { label: 'Цитата', text: `«${quote.text.replace(/ \/ /g, '\n')}»`, note: quote.source } : { label: 'Чи знали ви?', text: p.data.fun_fact },
+  ];
+}
+
+export async function instagramSlide(p: Person, slide: Slide, n: number, total: number) {
+  const size = (chars: number) => (chars > 560 ? 36 : chars > 400 ? 40 : slide.text?.includes('\n') || chars > 220 ? 46 : chars > 140 ? 54 : 62);
+  const length = slide.text?.length ?? slide.items?.join('').length ?? 0;
+  return render(
+    h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink, borderTop: `16px solid ${C.wheat}`, padding: '72px 80px 64px' }, [
+      h('div', { display: 'flex', justifyContent: 'space-between', fontSize: 30, color: C.slate }, [h('div', {}, t('site.title', 'uk')), h('div', {}, `${n}/${total}`)]),
+      h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }, [
+        h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 44, color: C.cobalt, marginBottom: 36 }, slide.label),
+        slide.text ? h('div', { fontSize: size(length), lineHeight: 1.3, whiteSpace: 'pre-line' }, slide.text) : null,
+        slide.items
+          ? h('div', { display: 'flex', flexDirection: 'column', gap: 34 }, slide.items.map((item) =>
+              h('div', { display: 'flex', gap: 24, fontSize: length > 360 ? 38 : 44, lineHeight: 1.3 }, [h('img', { width: 26, height: 26, marginTop: 16, flexShrink: 0 }, undefined, { src: stitch(C.wheat), width: 26, height: 26 }), h('div', { flex: 1 }, item)])))
+          : null,
+        slide.note ? h('div', { fontSize: 32, color: C.slate, marginTop: 32 }, `- ${slide.note}`) : null,
+      ]),
+      h('div', { display: 'flex', justifyContent: 'space-between', alignItems: 'center' }, [h('div', { fontWeight: 500, fontSize: 32 }, p.data.name), stitchRow(5)]),
     ]),
     IG_W,
     IG_H,
