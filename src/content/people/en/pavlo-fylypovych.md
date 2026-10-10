@@ -12,6 +12,9 @@ key_accomplishments:
   - "Defended the Neoclassicists’ views in the Literary Discussion of 1925–1928"
 birthplace_name: "Kaitanivka"
 image_alt: "Pavlo Fylypovych, 1928"
+quotes:
+  - text: "One longing unites us, / One love, one aim..."
+    source: "The poem “One Longing Unites Us”"
 ---
 
 ## How Pavel Zorev became Pavlo Fylypovych

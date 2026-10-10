@@ -20,6 +20,7 @@ image:
   alt: "Павло Филипович, 1928 рік"
   author: "О. Кореневич"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Pavlo_Fylypovych.jpg"
 key_accomplishments:
   - "Поетичні збірки «Земля і вітер» (1922) і «Простір» (1925)"
@@ -27,6 +28,9 @@ key_accomplishments:
   - "Огляд «Українське літературознавство за 10 років революції» (1928)"
   - "Переклади з французької: Бодлер, Верлен, Беранже"
   - "Обстоював позиції неокласиків у Літературній дискусії 1925–1928 років"
+quotes:
+  - text: "Єднає нас одна туга, / Одна любов, одна мета..."
+    source: "Вірш «Єднає нас одна туга»"
 sources:
   - title: "Енциклопедія історії України - Филипович Павло Петрович (автор - Г. П. Герасимова)"
     url: "https://www.history.org.ua/?termin=Fylypovych_P"
@@ -36,7 +40,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Павло_Филипович
 related: [mykola-zerov, mykhailo-drai-khmara, mykola-kulish, les-kurbas, maksym-rylskyi, yurii-klen]
 collections: [executed-renaissance, neoclassicists]
-status: draft
+status: approved
+published: 2026-10-10T21:44:00Z
 ---
 
 ## Павел Зорев стає Павлом Филиповичем
