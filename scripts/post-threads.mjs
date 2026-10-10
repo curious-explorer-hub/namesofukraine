@@ -46,7 +46,7 @@ export function readFields(markdown) {
 }
 
 export function years(f) {
-  const year = (date, circa) => (circa === 'true' ? `бл. ${date.slice(0, 4)}` : date.slice(0, 4));
+  const year = (date, circa) => (circa === 'true' ? 'бл. ' : '') + Number(date.slice(0, 4));
   return f.died ? `${year(f.born, f.born_circa)}–${year(f.died, f.died_circa)}` : `нар. ${year(f.born, f.born_circa)}`;
 }
 

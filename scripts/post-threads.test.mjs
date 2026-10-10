@@ -29,6 +29,7 @@ describe('years', () => {
     expect(years({ born: '1871-01-15', died: '1942-01-25' })).toBe('1871–1942');
     expect(years({ born: '1610-01-01', born_circa: 'true', died: '1680-08-01' })).toBe('бл. 1610–1680');
     expect(years({ born: '1930-02-27', living: 'true' })).toBe('нар. 1930');
+    expect(years({ born: '0958-01-01', born_circa: 'true', died: '1015-07-15' })).toBe('бл. 958–1015');
   });
 });
 
