@@ -1,17 +1,12 @@
-# Quotes for review
+# Quotes: candidates
 
-Research for BACKLOG I23 (October 2026): up to 2 sourced quotes per profile, for all 153 profiles. Nothing here is in the profiles yet, except the two design trials (Dovzhenko, Chornovil).
+A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes that are live sit only in the profiles' frontmatter (`quotes:`). This file has the rest: candidates, alternatives to the quote already on a profile, quotes taken off profiles while the design was reviewed ("stashed"), and attributions that were checked and rejected, so nobody researches them again.
 
-- **Coverage:** 86 profiles with at least one quote, 132 quotes in total (84 high confidence, 47 medium).
-- **Bar:** the person's own words, verbatim, checked against a source that was opened (their published work, an encyclopedia, UINP, a museum or official site, or major media). Wikiquote, Goodreads and listicles were used only to find leads. "Rejected" lists popular attributions that failed that bar.
-- **English:** "ours" means our own translation; "published" names the translation used.
-- **Medium** usually means a reputable outlet prints the quote without naming the primary source; treat those as optional.
-
-To review: delete what you don't want, or mark each quote ✓ / ✗; I'll move the ✓ ones into the uk and en files.
-
-
-
-Note: none of the profiles in this batch had existing quotes (all quotes=0), so there is nothing to verify. Translations marked "ours" are our own faithful translations.
+- **One quote per profile**, picked by the owner. Mark a candidate ✓ or ✗; ✓ quotes move into the profile and drop out of this file.
+- **Where they go:** uk text and `source_uk` in `src/content/people/uk/<slug>.md` after `key_accomplishments:` (before `sources:`); en text and `source_en` at the end of the en frontmatter. ` / ` marks a line break in verse. The source line doesn't repeat the person's name.
+- **Bar:** the person's own words, verbatim, checked against a source that was opened (their published work, an encyclopedia, UINP, a museum or official site, or major media). Wikiquote, Goodreads and listicles are leads only. osvita.ua and ukrlib are used for the text of classic literature.
+- **Confidence:** "high" means the wording was checked against the primary text or a reputable outlet quoting it; "medium" means a reputable outlet prints it without naming the primary source, so treat it as optional.
+- **English:** "ours" is our own translation; "published" names the translation used.
 
 ### ahatanhel-krymskyi — Агатангел Кримський
 - quote 1:
@@ -28,6 +23,7 @@ Note: none of the profiles in this batch had existing quotes (all quotes=0), so 
 - none found (no direct quote of his in reputable media; the results were his son's recollections and dissertations)
 
 ### andrei-sheptytskyi — Андрей Шептицький
+- on the profile: "Світ гине з браку любови, гине з людської ненависти!"
 - quote 1:
   - uk: "Людина, що проливає неповинну кров свого ворога, політичного противника, є таким самим чоловіковбивником, як людина, що це робить для рабунку […]"
   - en: "A person who sheds the innocent blood of an enemy, a political opponent, is just as much a murderer as one who does it for plunder […]" (translation: ours)
@@ -36,14 +32,6 @@ Note: none of the profiles in this batch had existing quotes (all quotes=0), so 
   - source_en: "Pastoral letter Thou Shalt Not Kill, 21 November 1942"
   - url: https://zbruc.eu/node/35078 (full text of the letter; first printed in Львівські архиєпархіальні відомості, 1942, No. 11)
   - confidence: high
-- quote 2:
-  - uk: "Світ гине з браку любови, гине з людської ненависти!"
-  - en: "The world is perishing for lack of love, perishing from human hatred!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Пастирське послання «Не убий», 21 листопада 1942"
-  - source_en: "Pastoral letter Thou Shalt Not Kill, 21 November 1942"
-  - url: https://zbruc.eu/node/35078
-  - confidence: high (period spelling «любови», «ненависти» kept as in the original)
 
 ### andriana-susak-arekhta — Андріана Сусак-Арехта
 - quote 1:
@@ -186,14 +174,7 @@ Note: none of the profiles in this batch had existing quotes (all quotes=0), so 
   - confidence: high
 
 ### dmytro-kotsiubailo — Дмитро Коцюбайло
-- quote 1:
-  - uk: "Боєць - це ж не тільки м'язи і автомат. Важливо, що в тебе всередині, за що ти воюєш, що тебе мотивує."
-  - en: "A fighter isn't just muscles and a rifle. What matters is what's inside you, what you're fighting for, what drives you." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю LB.ua, грудень 2021"
-  - source_en: "Interview with LB.ua, December 2021"
-  - url: https://lb.ua/society/2021/12/04/500174_inodi_treba_prosto_vstati_y_zrobiti.html
-  - confidence: high
+- on the profile: "Боєць - це ж не тільки м'язи і автомат. Важливо, що в тебе всередині, за що ти воюєш, що тебе мотивує."
 - quote 2:
   - uk: "Іноді треба просто встати й зробити."
   - en: "Sometimes you just have to get up and do it." (translation: ours)
@@ -227,15 +208,7 @@ Note: none of the profiles in this batch had existing quotes (all quotes=0), so 
 - none found (the song about Baida is folk, not his words; no reliably recorded words of his own)
 
 ### hryhorii-skovoroda — Григорій Сковорода
-- quote 1:
-  - uk: "Світ ловив мене, та не спіймав."
-  - en: "The world tried to catch me, but did not catch me." (translation: ours; English versions vary, e.g. "The world chased me but did not catch me")
-  - original_language: uk (18th-century bookish Ukrainian; this is the form carved on his grave monument in Skovorodynivka)
-  - source_uk: "Епітафія, яку заповів написати на своїй могилі, 1794"
-  - source_en: "The epitaph he asked to be written on his grave, 1794"
-  - url: https://www.radiosvoboda.org/a/896960.html
-  - url 2: https://bank.gov.ua/files/coins_images/B89u.pdf (NBU coin description; found in search but not opened)
-  - confidence: high (attribution is traditional and accepted everywhere; the exact original wording is debated by philologists)
+- on the profile: "Світ ловив мене, та не спіймав."
 - rejected: "Всякому місту — звичай і права" and lines from "De libertate" (incl. «Вольности отче, герою Богдане»). They are genuine, but I couldn't open an authoritative edition; ukrlib's page wouldn't decode. Worth adding later from the 1961/1973 academic edition.
 
 ### ihor-branovytskyi — Ігор Брановицький
@@ -328,13 +301,6 @@ Note: none of the profiles in this batch had existing quotes (all quotes=0), so 
   - url: same as above
   - confidence: medium
 
-
-Notes for the editor:
-- All English translations are ours unless marked otherwise. Published translations exist for some literary texts (for example Percival Cundy's translations of Franko and Lesya Ukrainka), but I did not check their wording, so I have not cited them.
-- No profile in this batch had existing `quotes:`, so there was nothing to verify.
-- osvita.ua is used for classic literary texts (the same kind of source as ukrlib). ukrlib's Franko index did not list the texts I needed.
-- Pages that blocked the fetcher (Ukrainska Pravda Life, Suspilne) were read through web.archive.org where noted.
-
 ### iryna-tsybukh — Ірина Цибух
 - quote 1:
   - uk: "Війна – найгірше місце, де я колись була, але вона дає квиток у справжнє життя, у світ непідробної незалежності […]"
@@ -358,26 +324,12 @@ Notes for the editor:
 - none found. No well-attested words of his own turn up in reputable sources, only his deeds.
 
 ### ivan-dziuba — Іван Дзюба
-- quote 1:
-  - uk: "Маховик русифікації розкручений, він має колосальну знищувальну силу інерції"
-  - en: "The flywheel of Russification is spinning; it has a colossal destructive force of inertia" (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, 2006 (на питання, як би він написав «Інтернаціоналізм чи русифікацію?» сьогодні)"
-  - source_en: "Interview with Radio Svoboda, 2006 (asked how he would write Internationalism or Russification? today)"
-  - url: https://www.radiosvoboda.org/a/ivan-dzyuba-internatsionalizm-chy-rusyfikatsiya/31377798.html
-  - confidence: high
+- on the profile: "Цей маховик русифікації вже такий розкручений, що він має колосальну знищувальну силу інерції і його вже майже неможливо зупинити."
 - rejected: the words of his 4 September 1965 speech at the Ukraina cinema. No verbatim text was found; it is retold in many versions.
 - rejected: "Гостра, нещадна, але раціональна, зважена самокритика є основою всякого національного оздоровлення…". It appeared only in a search summary, and the Radio Svoboda page I opened (24276621) does not contain it.
 
 ### ivan-franko — Іван Франко
-- quote 1:
-  - uk: "Лиш боротись значить жить… / Vivere memento!"
-  - en: "Only to struggle is to live… / Remember to live!" (translation: ours; "Vivere memento" is Latin in the original)
-  - original_language: uk (title and refrain in Latin)
-  - source_uk: "Вірш «Vivere memento!», 1883"
-  - source_en: "The poem Vivere memento!, 1883"
-  - url: https://osvita.ua/school/literature/f/76504/ (full text, dated 14 October 1883). Note that many sites write it with a dash: "Лиш боротись — значить жить". The text on this page has no dash.
-  - confidence: high
+- on the profile: "Лиш боротись значить жить… / Vivere memento!"
 - quote 2:
   - uk: "Вічний революцйонер — / Дух, що тіло рве до бою, / Рве за поступ, щастя й волю, — / Він живе, він ще не вмер."
   - en: "The eternal revolutionary, / The spirit that drives the body into battle, / For progress, happiness and freedom, / Lives on, he has not died." (translation: ours)
@@ -390,14 +342,7 @@ Notes for the editor:
 - rejected: "Ми мусимо навчитися чути себе українцями – не галицькими, не буковинськими українцями, а українцями без огляду на політичні границі" («Одвертий лист до галицької української молодежі», 1905). It is widely cited, but the wording differs between sources ("без огляду на політичні границі" or "без офіційних кордонів"). I could not open the original text (the 50-volume edition, vol. 45). Usable once someone checks the wording against the academic edition.
 
 ### ivan-kotliarevskyi — Іван Котляревський
-- quote 1:
-  - uk: "Любов к отчизні де героїть, / Там сила вража не устоїть, / Там грудь сильнійша од гармат"
-  - en: "Where love of the fatherland stirs heroes, / No enemy force can stand, / There a breast is stronger than cannons" (translation: ours)
-  - original_language: uk
-  - source_uk: "Поема «Енеїда», частина п'ята"
-  - source_en: "The mock-epic Eneida, part five"
-  - url: https://osvita.ua/school/literature/k/63591/list-19.html
-  - confidence: high
+- on the profile: "Любов к отчизні де героїть, / Там сила вража не устоїть, / Там грудь сильнійша од гармат…"
 - quote 2:
   - uk: "Де згода в сімействі, де мир і тишина, / Щасливі там люди, блаженна сторона."
   - en: "Where a family lives in harmony, peace and quiet, / The people there are happy and the land is blessed." (translation: ours)
@@ -450,14 +395,7 @@ Notes for the editor:
 - none found. Sources describe his deeds only; none quote him.
 
 ### kateryna-bilokur — Катерина Білокур
-- quote 1:
-  - uk: "Так як же їх не малювати, як вони ж такі красиві?.. […] То я все на світі забуду — та й знов малюю квіти..."
-  - en: "So how can I not paint them, when they are so beautiful?.. […] Then I forget everything in the world and paint flowers again..." (translation: ours)
-  - original_language: uk
-  - source_uk: "Лист до працівників Центрального будинку народної творчості, 12 листопада 1946"
-  - source_en: "Letter to the staff of the Central House of Folk Art, 12 November 1946"
-  - url: https://zn.ua/ART/katerina__pisma_i_tsvety.html
-  - confidence: high (Дзеркало тижня quotes the letter in Ukrainian)
+- on the profile: "Так як же їх не малювати, як вони ж такі красиві?.. […] То я все на світі забуду — та й знов малюю квіти..."
 - quote 2:
   - uk: "Доля випробовує тих, хто надумав дійти якої великої мети. І вона на їх життьовім шляху усякі перешкоди-незгоди підсовує…"
   - en: "Fate tests those who have set out to reach some great goal. It puts all kinds of obstacles and troubles in their way…" (translation: ours)
@@ -569,14 +507,7 @@ Notes for the editor:
 - rejected: "Театр — це храм". This is the title of a later article about Kurbas, not his words.
 
 ### lesya-ukrainka — Леся Українка
-- quote 1:
-  - uk: "Так! я буду крізь сльози сміятись, / Серед лиха співати пісні, / Без надії таки сподіватись, / Буду жити! Геть, думи сумні!"
-  - en: "Yes! I will laugh through my tears, / Sing songs amid misfortune, / Hope even without hope, / I will live! Away, sad thoughts!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Contra spem spero!», 1890"
-  - source_en: "The poem Contra spem spero! (Hoping Against Hope), 1890"
-  - url: https://osvita.ua/school/literature/u/63789/ (dated 2 May 1890)
-  - confidence: high
+- on the profile: "Так! я буду крізь сльози сміятись, / Серед лиха співати пісні, / Без надії таки сподіватись, / Буду жити! Геть, думи сумні!"
 - quote 2:
   - uk: "Ні! я жива! Я буду вічно жити! / Я в серці маю те, що не вмирає."
   - en: "No! I am alive! I will live forever! / I have in my heart that which does not die." (translation: ours)
@@ -597,12 +528,6 @@ Notes for the editor:
   - confidence: high (the cut removes the editor's bracketed note)
 - quote 2: none. The rest of the interview is about combat and torture in captivity, which is too graphic for the site.
 
----
-Summary: 26 profiles covered; 14 with at least one quote; 18 rejected entries.
-
-
-All English translations are ours unless stated otherwise. "Opened" means the confirming URL was fetched and the wording checked against it.
-
 ### levko-lukianenko — Левко Лук'яненко
 - quote 1:
   - uk: "Тих, хто іде проти системи, завжди небагато, але вони перемагають."
@@ -622,14 +547,7 @@ All English translations are ours unless stated otherwise. "Opened" means the co
   - confidence: medium (same block, no context; the full quote has a second sentence that this cuts)
 
 ### lina-kostenko — Ліна Костенко
-- quote 1:
-  - uk: "Поезія — це завжди неповторність, / якийсь безсмертний дотик до душі."
-  - en: "Poetry is always something unrepeatable, / some immortal touch upon the soul." (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Страшні слова, коли вони мовчать…»"
-  - source_en: "The poem Terrible Are Words When They Are Silent…"
-  - url: https://osvita.ua/school/literature/k/63914/ (full text, 3rd stanza)
-  - confidence: high (the wording is confirmed. The poem is usually placed in the collection «Над берегами вічної ріки», 1977, but I didn't confirm that, so I left the collection and year out)
+- on the profile: "Поезія — це завжди неповторність, / якийсь безсмертний дотик до душі."
 - quote 2:
   - uk: "Страшні слова, коли вони мовчать, / коли вони зненацька причаїлись"
   - en: "Words are terrible when they are silent, / when they suddenly lie in wait" (translation: ours)
@@ -641,14 +559,7 @@ All English translations are ours unless stated otherwise. "Opened" means the co
 - rejected: "Нації вмирають не від інфаркту. Спочатку їм відбирає мову." — widely quoted, but I found it only on listicles and school slides, with no named poem or collection. Keep it out until someone checks it against a printed edition.
 
 ### liubomyr-huzar — Любомир Гузар
-- quote 1:
-  - uk: "Пригадуймо собі, хто ми є, і не даймо себе дурити."
-  - en: "Let us remember who we are and not let ourselves be fooled." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю ZAXID.NET під час Євромайдану, грудень 2013"
-  - source_en: "Interview with ZAXID.NET during the Euromaidan, December 2013"
-  - url: https://zaxid.net/guzar_prigaduymo_sobi_hto_mi_ye_i_ne_daymo_sebe_duriti_n1299087
-  - confidence: high (the headline has the comma after «собі»; the body text drops it)
+- on the profile: "Пригадуймо собі, хто ми є і не даймо себе дурити"
 - quote 2:
   - uk: "Конфлікти це не є лихо, конфлікти це нагода рости, розвиватися."
   - en: "Conflicts are not a disaster; conflicts are a chance to grow and develop." (translation: ours)
@@ -660,7 +571,10 @@ All English translations are ours unless stated otherwise. "Opened" means the co
 - rejected: "Ви дуже сильні, якщо бажаєте добра…" and the other lines in Espreso's "10 цитат Любомира Гузара" (31 May 2017). It's a listicle with no source for any quote, and I couldn't trace them to a primary source.
 
 ### maksym-kryvtsov — Максим Кривцов
-- existing: **problem, needs a fix.** (1) The wording holds up: the poem «Я поверну собі своє життя…» does contain «Я поверну собі своє життя / обіцяю» (checked in ELLE.ua's publication of the poem, Jan 2024). But inside the poem these words are an inscription he quotes ("написано маркером на стіні одного / популярного закладу Києва"), not his own declaration. Later the poem returns to "я поверну собі життя / я поверну собі життя?" and ends "Обіцяю." So the attribution needs care. (2) The `source` line repeats the person's name ("Максим Кривцов, вірш…"), which breaks the source-line rule. (3) I couldn't confirm "опубліковано «Буквами», 2024". The phrase is best known as the title of his posthumous photo exhibition, «Далі: я поверну собі своє життя, обіцяю» (Lviv, Odesa, Rivne, 2024). Suggested source line: «Вірш «Я поверну собі своє життя…», 2023–2024», and drop the Bukvy claim unless the owner has the link. Or replace the quote with quote 1 below.
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "«Я поверну собі своє життя / обіцяю»"
+  - source_uk: "Максим Кривцов, вірш «Я поверну собі своє життя…» (опубліковано «Буквами», 2024)"
+- review of the stashed quote: **problem, needs a fix.** (1) The wording holds up: the poem «Я поверну собі своє життя…» does contain «Я поверну собі своє життя / обіцяю» (checked in ELLE.ua's publication of the poem, Jan 2024). But inside the poem these words are an inscription he quotes ("написано маркером на стіні одного / популярного закладу Києва"), not his own declaration. Later the poem returns to "я поверну собі життя / я поверну собі життя?" and ends "Обіцяю." So the attribution needs care. (2) The `source` line repeats the person's name ("Максим Кривцов, вірш…"), which breaks the source-line rule. (3) I couldn't confirm "опубліковано «Буквами», 2024". The phrase is best known as the title of his posthumous photo exhibition, «Далі: я поверну собі своє життя, обіцяю» (Lviv, Odesa, Rivne, 2024). Suggested source line: «Вірш «Я поверну собі своє життя…», 2023–2024», and drop the Bukvy claim unless the owner has the link. Or replace the quote with quote 1 below.
   - urls: https://elle.ua/ludi/novosty/maksim-krivcov-zaginuv-na-viyni-5-virshiv-poeta-ta-zahisnika-ukraini/ ; https://www.ofam.ua/exhibitions/dali-ya-povernu-sobi-svoie-zhittya-obicyayu
 - quote 1:
   - uk: "мої руки відірвані / проростуть фіалками навесні"
@@ -693,14 +607,7 @@ All English translations are ours unless stated otherwise. "Opened" means the co
   - confidence: high
 
 ### mariia-prymachenko — Марія Примаченко
-- quote 1:
-  - uk: "Дарую червоні маки людям, щоб землю святу любили і на ній робили"
-  - en: "I give red poppies to people, so they would love the holy land and work on it" (translation: ours)
-  - original_language: uk
-  - source_uk: "Власний підпис на картині з червоними маками, 1985"
-  - source_en: "Her own inscription on a painting of red poppies, 1985"
-  - url: https://www.radiosvoboda.org/a/khudozhnyk-prymachenko-khymery-mystetstvo/31963690.html (Radio Svoboda, 28 Jul 2022, art historian's commentary)
-  - confidence: high. These are her own written captions on the work. The painting's exact title isn't given; check it with the museum catalogue if you want to name it.
+- on the profile: "Дарую червоні маки людям, щоб землю святу любили і на ній робили"
 - rejected: "Роблю сонячні квіти, бо люблю людей…" / "Я малюю сонячні квіти, бо люблю людей…" — very popular, but found only on aggregators and school materials, in several different wordings. No primary source.
 
 ### mariia-zankovetska — Марія Заньковецька
@@ -711,14 +618,7 @@ All English translations are ours unless stated otherwise. "Opened" means the co
 - none found. No widely quoted aphorism of hers turned up; school materials quote only character lines from «Інститутка», which aren't her own sayings.
 
 ### mustafa-dzhemiliev — Мустафа Джемілєв
-- quote 1:
-  - uk: "Свободу жодними матеріальними благами не можна виміняти."
-  - en: "Freedom cannot be traded for any material goods." (translation: ours)
-  - original_language: probably ru (he usually gives interviews in Russian); published in Ukrainian by Radio Svoboda
-  - source_uk: "Інтерв'ю Радіо Свобода, червень 2014"
-  - source_en: "Interview with Radio Svoboda, June 2014"
-  - url: https://www.radiosvoboda.org/a/25418893.html
-  - confidence: high (wording as published; the full sentence starts "Щоб у нас там не було, ми все ж таки жили у вільній країні, а свободу…")
+- on the profile: "[…] свободу жодними матеріальними благами не можна виміняти."
 - quote 2:
   - uk: "Ми свою Батьківщину не виставляли на продаж."
   - en: "We never put our homeland up for sale." (translation: ours)
@@ -894,18 +794,8 @@ All English translations are ours unless stated otherwise. "Opened" means the co
 ### oleh-blokhin — Олег Блохін
 - none found. The quotes I found sit in sport.znaj.ua listicles ("найкращі цитати"), credited loosely to the Dynamo site, with no interview or date.
 
-
-Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct download) unless marked otherwise.
-
 ### oleh-sentsov — Олег Сенцов
-- quote 1:
-  - uk: "Суд окупантів не може бути справедливим за визначенням."
-  - en: "A court of occupiers cannot be fair by definition." (translation: ours)
-  - original_language: ru ("Суд оккупантов не может быть справедливым по определению.")
-  - source_uk: "Останнє слово на суді в Ростові-на-Дону, 19 серпня 2015"
-  - source_en: "Final statement at the trial in Rostov-on-Don, 19 August 2015"
-  - url: https://zona.media/online/2015/08/19/sentsov-preniya (Russian original, live transcript) ; https://zaxid.net/sud_okupantiv_ne_mozhe_buti_spravedlivim_n1362532 (Ukrainian text)
-  - confidence: high
+- on the profile: "Суд окупантів не може бути справедливим за визначенням."
 - quote 2:
   - uk: "Я хочу побажати росіянам навчитися не боятися."
   - en: "I want to wish Russians to learn not to be afraid." (translation: ours)
@@ -927,7 +817,12 @@ Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct
   - confidence: medium. The wording matches in several art-market and art-history sources. I couldn't open the 1960 book, so the book attribution comes from those secondary sources.
 
 ### oleksandr-dovzhenko — Олександр Довженко
-- existing: The words are fine, but the source line needs fixing. ESU (esu.com.ua/article-20465) confirms the text in a longer form: "Коли немає ненависті принципової, і зневаги нема, і недоброзичливості ні до одного народу в світі, ні до його долі, ні до його щастя, ні гідності чи добробуту, — невже любов до свого народу є націоналізм?" ESU presents it as his reply to Stalin after the January 1944 Kremlin meeting on «Україна в огні». It begins with "Товаришу мій Сталін, коли б ви були навіть богом…". ESU does not call it a diary entry, and I couldn't confirm the diary attribution in the osvita.ua diary text either. Two problems with the current source line, "Олександр Довженко, щоденник (цит. за Енциклопедією Сучасної України)": (1) it repeats the person's name; (2) "щоденник" is unconfirmed. Suggested: source_uk "Звернення до Сталіна після засідання Політбюро щодо кіноповісті «Україна в огні», 1944" / source_en "Words addressed to Stalin after the Politburo meeting on Ukraine in Flames, 1944". The other option is to keep "щоденник" only if the owner can check it in the academic edition of the diary.
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "Невже любов до свого народу є націоналізм?"
+  - source_uk: "Щоденник (цит. за Енциклопедією Сучасної України)"
+  - en: "Is love for one’s own people really nationalism?"
+  - source_en: "Diary (quoted in the Encyclopedia of Modern Ukraine)"
+- review of the stashed quote: The words are fine, but the source line needs fixing. ESU (esu.com.ua/article-20465) confirms the text in a longer form: "Коли немає ненависті принципової, і зневаги нема, і недоброзичливості ні до одного народу в світі, ні до його долі, ні до його щастя, ні гідності чи добробуту, — невже любов до свого народу є націоналізм?" ESU presents it as his reply to Stalin after the January 1944 Kremlin meeting on «Україна в огні». It begins with "Товаришу мій Сталін, коли б ви були навіть богом…". ESU does not call it a diary entry, and I couldn't confirm the diary attribution in the osvita.ua diary text either. Two problems with the current source line, "Олександр Довженко, щоденник (цит. за Енциклопедією Сучасної України)": (1) it repeats the person's name; (2) "щоденник" is unconfirmed. Suggested: source_uk "Звернення до Сталіна після засідання Політбюро щодо кіноповісті «Україна в огні», 1944" / source_en "Words addressed to Stalin after the Politburo meeting on Ukraine in Flames, 1944". The other option is to keep "щоденник" only if the owner can check it in the academic edition of the diary.
   - en for the existing quote: "Is love for one's own people really nationalism?" (translation: ours)
 - quote 1:
   - uk: "Не туди б'єш, Іване."
@@ -974,7 +869,8 @@ Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct
 - none found. Encyclopedias (ESU, IEU) and the media give no verbatim quotes. Her memoir writings would have to be checked in print.
 
 ### olena-teliha — Олена Теліга
-- quote 1:
+- rejected (October 2026 check): "Не треба слів. Хай буде тільки діло." In the poem these opening lines are in quotation marks: someone else's advice, which the speaker then rejects ("Але для мене — у святім союзі / Душа і тіло…"). Quoting it as her creed reverses the meaning.
+- quote 1 (rejected, kept for reference):
   - uk: "Не треба слів. Хай буде тільки діло."
   - en: "No need for words. Let there be only deeds." (translation: ours)
   - original_language: uk
@@ -993,14 +889,7 @@ Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct
 - rejected: "Якщо загину, то на вулицях Києва" (and variants) — reached us through memoirs and retellings. I found no reputable source with the exact words.
 
 ### oles-honchar — Олесь Гончар
-- quote 1:
-  - uk: "Собори душ своїх бережіть, друзі... Собори душ!.."
-  - en: "Guard the cathedrals of your souls, my friends… The cathedrals of souls!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Роман «Собор», 1968 (слова старого вчителя)"
-  - source_en: "The novel The Cathedral, 1968 (spoken by the old teacher)"
-  - url: https://www.ukrlib.com.ua/books/printit.php?tid=550&page=35 (full text; verified verbatim)
-  - confidence: high. This is a character's line, but it is the novel's best-known phrase and closely tied to Honchar himself.
+- on the profile: "Собори душ своїх бережіть, друзі... Собори душ!.."
 - rejected: "Бережіть Україну!" (said to be the last entry in his diary) — found only in school materials; not verified.
 
 ### olha-semydianova — Ольга Семидьянова
@@ -1017,6 +906,7 @@ Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct
   - confidence: high. About 205 characters; it can be cut to "У мене нема жодного сумніву в тому, що я народився […]" if needed.
 
 ### pavlo-petrychenko — Павло Петриченко
+- on the profile: "Всі красиві зберігають оптимізм."
 - none found. There is coverage of his 2024 petition against online casinos (Suspilne, Fakty, Kyiv Post), but the petition text is long and procedural and I found no memorable verbatim line. Fakty has an interview ("Є випадки, коли військові програють від пів до мільйона гривень"), not opened.
 
 ### pavlo-skoropadskyi — Павло Скоропадський
@@ -1051,7 +941,10 @@ Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct
 - none found.
 
 ### petro-yatsyk — Петро Яцик
-- existing: OK. UINP (https://uinp.gov.ua/istorychnyy-kalendar/lypen/7/1921-narodyvsya-petro-yacyk-biznesmen-mecenat-ta-filantrop-fundator-mizhnarodnogo-blagodiynogo-fondu-liga-ukrayinskyh-mecenativ) has the exact text: "Я не знав, що мене там чекає, але був переконаний, що коли б зміг вижити, я зробив би щось для України." UINP says he recalled this late in life about leaving in 1944. The next sentence on the page, "Тому взяв свою торбинку і попрямував у невідоме", could be appended if wanted. A small suggestion: the source line could say "Спогади про від'їзд на еміграцію 1944 року" / "Recollection of leaving for emigration in 1944" instead of "цитата за УІНП".
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "Я не знав, що мене там чекає, але був переконаний, що коли б зміг вижити, я зробив би щось для України."
+  - source_uk: "Про еміграцію 1944 року; цитата за Українським інститутом національної пам'яті"
+- review of the stashed quote: OK. UINP (https://uinp.gov.ua/istorychnyy-kalendar/lypen/7/1921-narodyvsya-petro-yacyk-biznesmen-mecenat-ta-filantrop-fundator-mizhnarodnogo-blagodiynogo-fondu-liga-ukrayinskyh-mecenativ) has the exact text: "Я не знав, що мене там чекає, але був переконаний, що коли б зміг вижити, я зробив би щось для України." UINP says he recalled this late in life about leaving in 1944. The next sentence on the page, "Тому взяв свою торбинку і попрямував у невідоме", could be appended if wanted. A small suggestion: the source line could say "Спогади про від'їзд на еміграцію 1944 року" / "Recollection of leaving for emigration in 1944" instead of "цитата за УІНП".
   - en for the existing quote: "I didn't know what awaited me there, but I was sure that if I managed to survive, I would do something for Ukraine." (translation: ours)
 - no new quote proposed.
 
@@ -1128,9 +1021,6 @@ Notes: "ours" = our own translation. URLs listed were opened (WebFetch or direct
   - confidence: high (the text). Editorially medium: it's tied to a 2015 political moment. Use only if a Maidan-era quote fits.
 - rejected: "Ми нарешті поставили країну на ті рейки, з яких вона вже не з'їде" — same interview, but she credits the phrase to Sviatoslav Vakarchuk, so it isn't hers.
 
-
-Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) are flagged where they matter. Where a famous attribution could not be traced to a primary or reputable source, it is listed under "rejected".
-
 ### serhii-bubka — Сергій Бубка
 - quote 1:
   - uk: "А загалом, я ніколи не був злим, я прагнув перемагати з любов'ю в душі."
@@ -1157,7 +1047,10 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
 - none found (no widely known quote; interviews such as DOU Day 2026 have no standout line verifiable in the text)
 
 ### serhii-volynskyi — Сергій Волинський
-- existing: OK. The wording matches the letter to Pope Francis as published by LB.ua (18 April 2022, citing Ukrainska Pravda): "Я не є католиком, я православний. Я вірю в Бога і знаю, що світло завжди перемагає темряву." Formatting issue: the `source` line repeats the name ("Сергій Волинський, …"). Per the rules it should be e.g. "Лист Папі Франциску з Маріуполя, квітень 2022" / "Letter to Pope Francis from Mariupol, April 2022". url: https://lb.ua/society/2022/04/18/513868_evakuyuyte_lyudey_vryatuyte_ihni.html
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "Я не є католиком, я православний. Я вірю в Бога і знаю, що світло завжди перемагає темряву."
+  - source_uk: "Сергій Волинський, лист Папі Франциску з Маріуполя, квітень 2022 (за «Українською правдою»)"
+- review of the stashed quote: OK. The wording matches the letter to Pope Francis as published by LB.ua (18 April 2022, citing Ukrainska Pravda): "Я не є католиком, я православний. Я вірю в Бога і знаю, що світло завжди перемагає темряву." Formatting issue: the `source` line repeats the name ("Сергій Волинський, …"). Per the rules it should be e.g. "Лист Папі Франциску з Маріуполя, квітень 2022" / "Letter to Pope Francis from Mariupol, April 2022". url: https://lb.ua/society/2022/04/18/513868_evakuyuyte_lyudey_vryatuyte_ihni.html
 - none found beyond the existing one (the "maybe our last appeal" wording could not be confirmed)
 
 ### serhii-zhadan — Сергій Жадан
@@ -1194,7 +1087,10 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
 - none found
 
 ### sviatoslav-palamar — Святослав Паламар
-- existing: OK. Radio Svoboda quotes him after the award in Turkey: "Я дуже гордий з того, що я – українець." (note the dash before "українець" in the RS wording). Formatting issue: the `source` line repeats the name. Suggest "Під час вручення ордена «Золота Зірка», Туреччина, 3 жовтня 2022". url: https://www.radiosvoboda.org/a/news-heroya-ukrayiny-azovstalʹ/32063643.html
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "Я дуже гордий з того, що я українець."
+  - source_uk: "Святослав Паламар під час вручення ордена «Золота Зірка», Туреччина, 3 жовтня 2022 (Офіс Президента України)"
+- review of the stashed quote: OK. Radio Svoboda quotes him after the award in Turkey: "Я дуже гордий з того, що я – українець." (note the dash before "українець" in the RS wording). Formatting issue: the `source` line repeats the name. Suggest "Під час вручення ордена «Золота Зірка», Туреччина, 3 жовтня 2022". url: https://www.radiosvoboda.org/a/news-heroya-ukrayiny-azovstalʹ/32063643.html
 - quote 1 (additional):
   - uk: "Генетичний код нації закладається в казках."
   - en: "A nation's genetic code is laid down in its fairy tales." (translation: ours)
@@ -1225,14 +1121,7 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
   - confidence: medium (Ukrinform quoting; a check against the Tryzub facsimile would raise it to high)
 
 ### taras-shevchenko — Тарас Шевченко
-- quote 1:
-  - uk: "Борітеся – поборете, / Вам Бог помагає!"
-  - en: "Fight on, and you will win, / God is helping you!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Поема «Кавказ», 1845"
-  - source_en: "The poem The Caucasus, 1845"
-  - url: https://osvita.ua/test/training/skorocheni-tvory/82446/
-  - confidence: high
+- on the profile: "Борітеся – поборете, / Вам Бог помагає!"
 - quote 2:
   - uk: "І чужому научайтесь, / Й свого не цурайтесь."
   - en: "Learn from others, / but do not turn away from your own." (translation: ours)
@@ -1285,7 +1174,10 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
   - confidence: medium (the exact interview date is not given)
 
 ### vasyl-maliuk — Василь Малюк
-- existing: OK on accuracy, with caveats. Glavcom and Gordon (7 Feb 2023, Rada speech) give: "В українському епосі ми шануємо такого героя, – як козак Мамай. У моєму кабінеті є картина, де він зображений з бандурою і сидить на черепах ворогів України." The profile has "з бандурою, сидить" where the published text has "з бандурою і сидить", so restore "і". Two more issues: (1) "sitting on the skulls of enemies" is violent imagery and may not suit young readers. Owner's call; a softer alternative is below. (2) The `source` line repeats the name.
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "В українському епосі ми шануємо такого героя, як козак Мамай. У моєму кабінеті є картина, де він зображений з бандурою, сидить на черепах ворогів України."
+  - source_uk: "Василь Малюк, виступ у Верховній Раді в день призначення головою СБУ, 7 лютого 2023 (за «Гордоном»)"
+- review of the stashed quote: OK on accuracy, with caveats. Glavcom and Gordon (7 Feb 2023, Rada speech) give: "В українському епосі ми шануємо такого героя, – як козак Мамай. У моєму кабінеті є картина, де він зображений з бандурою і сидить на черепах ворогів України." The profile has "з бандурою, сидить" where the published text has "з бандурою і сидить", so restore "і". Two more issues: (1) "sitting on the skulls of enemies" is violent imagery and may not suit young readers. Owner's call; a softer alternative is below. (2) The `source` line repeats the name.
   urls: https://glavcom.ua/country/politics/maljuk-rozpoviv-pro-uljublenoho-heroja-ta-zirvav-ovatsiji-v-radi-video-907030.html ; https://gordonua.com/ukr/news/war/maljuk-smert-tse-jedina-perspektiva-jaku-mi-mozhemo-zaproponuvati-okupantam-1649294.html
 - quote 1 (alternative):
   - uk: "Захист України – наша свята місія. Без перебільшення."
@@ -1307,6 +1199,7 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
   - confidence: medium (one source, ArmyInform of the Defence Ministry)
 
 ### vasyl-stus — Василь Стус
+- on the profile: "Мій народ іде крізь муки і страждання, але він буде жити, бо в нього є душа"
 - quote 1:
   - uk: "Як добре те, що смерті не боюсь я / і не питаю, чи тяжкий мій хрест"
   - en: "How good it is that I am not afraid of death / and do not ask whether my cross is heavy" (translation: ours)
@@ -1328,6 +1221,7 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
 - rejected: "Людина народжується, щоб лишити по собі слід вічний" and "Дитинство — найважливіший період людського життя…" — both widely quoted, but found only in school or library digests with no edition and page. Verify in «Серце віддаю дітям» / «Сто порад учителеві» before use.
 
 ### vasyl-symonenko — Василь Симоненко
+- on the profile: "Ти знаєш, що ти — людина. / Ти знаєш про це чи ні?"
 - quote 1:
   - uk: "Можна все на світі вибирати, сину, / Вибрати не можна тільки Батьківщину."
   - en: "You can choose everything in the world, my son, / except your Motherland." (translation: ours)
@@ -1336,17 +1230,6 @@ Notes: "ours" = our own translation. Pages that were blocked (403 / Cloudflare) 
   - source_en: "The poem Swans of Motherhood"
   - url: https://osvita.ua/school/literature/s/64071/
   - confidence: high
-- quote 2:
-  - uk: "Ти знаєш, що ти — людина. / Ти знаєш про це чи ні?"
-  - en: "You know that you are a human being. / Do you know it or not?" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Ти знаєш, що ти — людина…»"
-  - source_en: "The poem You know that you are a human being…"
-  - url: https://osvita.ua/school/literature/s/63927/
-  - confidence: high
-
-
-Notes: "ours" = our own translation. Every URL listed was opened and the wording checked against the page text. Nothing in the repo was edited.
 
 ### vasyl-virastiuk — Василь Вірастюк
 - none found (the Interfax-Ukraine interviews from 2023–2024 are about veterans' sports rehabilitation and contain no memorable lines; "Разом ми сила" shows up only in news captions of a social-media post)
@@ -1374,7 +1257,8 @@ Notes: "ours" = our own translation. Every URL listed was opened and the wording
 - other options (Hromadske, 16 Oct 2015, https://hromadske.ua/posts/shakhy-polunytsia-ta-zrady-briukhovetskyi-pro-vidbudovu-mohylianskoi-akademii): "Щоб з Могилянки вийшов нобелівський лауреат"; "за 9 місяців ми відкрили університет" (seen through a fetch summary only, not checked word for word)
 
 ### viacheslav-chornovil — В'ячеслав Чорновіл
-- existing: PROBLEM (weak sourcing). Both quotes are sourced to Wikiquote, which is discovery only. Wikiquote takes them from pivnich.org.ua, a small local site. The only reputable outlet I found that prints them is Istorychna Pravda ("ТОП-10 цитат", 24 Dec 2017), and it gives no primary source for either. Details:
+- on the profile: "Україна починається з тебе"
+- review of the quote on the profile: PROBLEM (weak sourcing). Both quotes are sourced to Wikiquote, which is discovery only. Wikiquote takes them from pivnich.org.ua, a small local site. The only reputable outlet I found that prints them is Istorychna Pravda ("ТОП-10 цитат", 24 Dec 2017), and it gives no primary source for either. Details:
   - "Україна починається з тебе": medium. Istorychna Pravda uses it as the headline in the form «Україна **роз**починається з тебе». The phrase is also the title of a posthumous collection of his articles (В. Чорновіл, «Україна починається з тебе», упор. В. Деревінський). Keep it if you accept medium confidence, but change the `source` to something like "Крилатий вислів; так названо збірку його вибраних статей" / "His well-known saying; also the title of a collection of his selected articles", and replace the Wikiquote URL with https://www.istpravda.com.ua/articles/2017/12/24/151821/
   - "Якби мене запитали, чи жалкую я…": medium, no primary source (Istorychna Pravda only). Also, the full original reads "…як склалося моє життя, про відсиджені 15 років, я б відповів: анітрохи…". That "15 years" conflicts with the profile's "понад 13 років у неволі". The current [...] cut hides the number, but the conflict is worth knowing about. Same fix for `source` and URL as above.
 - quote 1 (alternative, same confidence level as the existing ones):
@@ -1551,7 +1435,10 @@ Notes: "ours" = our own translation. Every URL listed was opened and the wording
 - none else (the 1919 manuscript «Тем, кто будет читать, чтобы строить» is often cited by title, but I couldn't confirm any lines from it)
 
 ### yurii-ruf — Юрій Руф
-- existing: OK in substance, but the `source` needs fixing. The wording is confirmed by Telegraf (9 Jun 2024), which gives it as his words, and it is written on the Lviv mural: "Ми вже перемогли! Історія народить нових бійців! Ми лише дрова у вогні великої ідеї!" (Telegraf writes "ідеї" in lower case; the NLTU library writes "Ідеї".) Problems:
+- stashed (taken off the profile on 2026-10-09):
+  - uk: "Ми лише дрова у вогні великої Ідеї"
+  - source_uk: "Юрій Руф (цит. за Науково-технічною бібліотекою НЛТУ України)"
+- review of the stashed quote: OK in substance, but the `source` needs fixing. The wording is confirmed by Telegraf (9 Jun 2024), which gives it as his words, and it is written on the Lviv mural: "Ми вже перемогли! Історія народить нових бійців! Ми лише дрова у вогні великої ідеї!" (Telegraf writes "ідеї" in lower case; the NLTU library writes "Ідеї".) Problems:
   - The current `source` "Юрій Руф (цит. за Науково-технічною бібліотекою НЛТУ України)" breaks the format: it repeats his name and gives no context. Suggested: "Слова, написані на його муралі у Львові (2024)" / "His words, written on his mural in Lviv (2024)", or "Улюблений вислів" / "A favourite saying of his", if the owner prefers.
   - The NLTU page uses the line only as a headline, without context.
   - The original occasion (poem, post or speech) is unknown, so confidence is medium.
