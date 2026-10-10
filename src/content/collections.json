@@ -167,6 +167,30 @@
         "license": "CC BY-SA 3.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Euromaidan_01.JPG"
       }
+    },
+    {
+      "id": "neoclassicists",
+      "label": {
+        "uk": "Київські неокласики",
+        "en": "The Kyiv Neoclassicists"
+      },
+      "description": {
+        "uk": "«Ґроно п'ятірне» київських поетів 1920-х, які повертали українській поезії класичну форму й світову літературу. Двох розстріляли, один загинув на Колимі, один емігрував, а один вижив, але мусив писати за правилами влади.",
+        "en": "The \"fivefold cluster\" of Kyiv poets of the 1920s who brought classical form and world literature back into Ukrainian poetry. Two were shot, one died in Kolyma, one emigrated, and one survived but had to write by the regime's rules."
+      },
+      "image": {
+        "file": "neoclassicists.jpg",
+        "caption": {
+          "uk": "Неокласики в Баришівці, початок 1920-х: стоять Віктор Петров і Микола Зеров; сидять Юрій Клен, Павло Филипович, Борис Якубський і Максим Рильський",
+          "en": "The Neoclassicists in Baryshivka, early 1920s: standing, Viktor Petrov and Mykola Zerov; seated, Yurii Klen, Pavlo Fylypovych, Borys Yakubskyi and Maksym Rylskyi"
+        },
+        "author": {
+          "uk": "Невідомий автор",
+          "en": "Unknown author"
+        },
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Неокласики_у_Баришівці.webp"
+      }
     }
   ]
 }

@@ -436,6 +436,9 @@ main:focus { outline: none; }
 [data-collection='defenders-mariupol'] { --era: light-dark(#4b4e8f, #b3b6f5); }
 [data-collection='donetsk-airport'] { --era: light-dark(#5c4a3a, #d4b89c); }
 [data-collection='sixtiers'] { --era: light-dark(#1f5f63, #8fd3d6); }
+[data-collection='executed-renaissance'] { --era: light-dark(#7d2a2a, #f2a0a0); }
+[data-collection='civic-icons'] { --era: light-dark(#6a5000, #e9c75c); }
+[data-collection='neoclassicists'] { --era: light-dark(#5b3f86, #cbb4f0); }
 /* The selected collection's description: a band across the cards' width, in the pressed card's colours */
 .collection-note { margin-top: 0.75rem; padding: 1rem 1.125rem; color: var(--paper); background: var(--era); border-radius: 6px; }
 .collection-note p { margin: 0; }

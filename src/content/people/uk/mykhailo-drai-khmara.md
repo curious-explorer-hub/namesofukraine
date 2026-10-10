@@ -40,7 +40,7 @@ sources:
   - title: Вікіпедія - Драй-Хмара Михайло Опанасович
     url: https://uk.wikipedia.org/wiki/Михайло_Драй-Хмара
 related: [mykola-zerov, pavlo-fylypovych, lesya-ukrainka, maksym-rylskyi, yurii-klen]
-collections: [executed-renaissance]
+collections: [executed-renaissance, neoclassicists]
 status: draft
 ---
 

@@ -35,7 +35,7 @@ sources:
   - title: Вікіпедія - Филипович Павло Петрович
     url: https://uk.wikipedia.org/wiki/Павло_Филипович
 related: [mykola-zerov, mykhailo-drai-khmara, mykola-kulish, les-kurbas, maksym-rylskyi, yurii-klen]
-collections: [executed-renaissance]
+collections: [executed-renaissance, neoclassicists]
 status: draft
 ---
 

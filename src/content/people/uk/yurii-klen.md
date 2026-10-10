@@ -37,6 +37,7 @@ sources:
   - title: Вікіпедія - Юрій Клен
     url: https://uk.wikipedia.org/wiki/Юрій_Клен
 related: [mykola-zerov, maksym-rylskyi, pavlo-fylypovych, mykhailo-drai-khmara]
+collections: [neoclassicists]
 status: draft
 ---
 
