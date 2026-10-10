@@ -29,12 +29,12 @@ With war against Moscow looming, Vyhovskyi signed the Treaty of Hadiach with the
 
 He could not make use of the victory: many Cossacks and officers would not accept a union with Poland. Seasoned colonels turned against him too, among them [Ivan Bohun](/en/people/ivan-bohun/) and [Ivan Sirko](/en/people/ivan-sirko/). In September 1659 Vyhovskyi gave up the mace, the hetman’s symbol of office, to Yurii Khmelnytskyi and left for the Commonwealth, where he became voivode (governor) of Kyiv.
 
-According to the Encyclopedia of the History of Ukraine, he later moved from the idea of autonomy to the idea of an independent Ukraine. In 1664 he was accused of a part in an uprising in Right-Bank Ukraine, and the Poles shot the former hetman without trial near the village of Vilkhovets.
+He is considered to have later moved from the idea of autonomy to the idea of an independent Ukraine. In 1664 he was accused of a part in an uprising in Right-Bank Ukraine, and the Poles shot the former hetman without trial near the village of Vilkhovets.
 
 ## Debates and assessments
 
-Historians judge the Treaty of Hadiach in different ways. The 19th-century historian [Mykola Kostomarov](/en/people/mykola-kostomarov/) saw Vyhovskyi as a fighter for independence from Moscow. The Encyclopedia of the History of Ukraine notes that the treaty “substantially limited the internal sovereignty” of Cossack Ukraine and that many Cossacks rejected it. The suppression of Pushkar’s uprising in 1658 also casts a shadow: according to the same encyclopedia, more than 50,000 people died.
+Historians judge the Treaty of Hadiach in different ways. The 19th-century historian [Mykola Kostomarov](/en/people/mykola-kostomarov/) saw Vyhovskyi as a fighter for independence from Moscow. Other scholars note that the treaty “substantially limited the internal sovereignty” of Cossack Ukraine and that many Cossacks rejected it. The suppression of Pushkar’s uprising in 1658 also casts a shadow: by some accounts, more than 50,000 people died.
 
 ## Why he is remembered
 
-Vyhovskyi’s name is tied above all to Konotop, where the Cossack army crushed the tsar’s forces. The Encyclopedia of the History of Ukraine calls him the first hetman to be executed for his part in the struggle for the Cossack state’s independence.
+Vyhovskyi’s name is tied above all to Konotop, where the Cossack army crushed the tsar’s forces. He is called the first hetman to be executed for his part in the struggle for the Cossack state’s independence.

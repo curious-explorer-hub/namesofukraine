@@ -33,4 +33,4 @@ Vinhranovskyi directed the feature films The Shore of Hope, Duma about Brytanka 
 
 ## Why it matters today
 
-The Encyclopedia of Modern Ukraine calls Vinhranovskyi one of the brightest innovators of Ukrainian verse in the 1960s to 1980s. His poems and stories for children speak just as clearly to young readers as to adults.
+Vinhranovskyi is considered one of the brightest innovators of Ukrainian verse in the 1960s to 1980s. His poems and stories for children speak just as clearly to young readers as to adults.

@@ -15,7 +15,7 @@ image_alt: "Photographic portrait of Les Kurbas, before 1923"
 
 ## How do you make Ukrainian theater European?
 
-Les Kurbas knew the answer: go and see the best, then bring it home. He was born in 1887 in Galicia into a family of actors (in Sambir, according to most encyclopedias; the Encyclopedia of the History of Ukraine, citing his Polish birth certificate, names Przemyśl), and he spent his childhood with his grandfather, a priest, in the village of Staryi Skalat in the Ternopil region. He studied philosophy at the universities of Vienna and Lviv, acted in the Hutsul Theater and the Ruska Besida theater, and in 1914 travelled to Warsaw, Prague, Berlin and Munich to see their theaters. In 1915 he founded the Ternopilski Teatralni Vechory troupe in Ternopil.
+Les Kurbas knew the answer: go and see the best, then bring it home. He was born in 1887 in Galicia into a family of actors (in Sambir, according to most sources; according to his Polish birth certificate, in Przemyśl), and he spent his childhood with his grandfather, a priest, in the village of Staryi Skalat in the Ternopil region. He studied philosophy at the universities of Vienna and Lviv, acted in the Hutsul Theater and the Ruska Besida theater, and in 1914 travelled to Warsaw, Prague, Berlin and Munich to see their theaters. In 1915 he founded the Ternopilski Teatralni Vechory troupe in Ternopil.
 
 ## From the Young Theater to the Berezil
 

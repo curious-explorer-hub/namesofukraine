@@ -29,7 +29,7 @@ In 1949, together with H. Voloshkevych, he created electroslag welding, a way of
 
 ## 58 years at the head of the Academy
 
-In 1962 Paton was elected president of the Academy of Sciences of the Ukrainian SSR (from 1994 the National Academy of Sciences of Ukraine). He headed it for 58 years, until his death in 2020. In independent Ukraine he was made a Hero of Ukraine (1998). According to the Encyclopedia of Modern Ukraine, after 1991, despite sharp cuts in funding, he managed to preserve the Academy’s main scientific schools.
+In 1962 Paton was elected president of the Academy of Sciences of the Ukrainian SSR (from 1994 the National Academy of Sciences of Ukraine). He headed it for 58 years, until his death in 2020. In independent Ukraine he was made a Hero of Ukraine (1998). After 1991, despite sharp cuts in funding, he is considered to have preserved the Academy’s main scientific schools.
 
 ## What his school left behind
 

@@ -25,7 +25,7 @@ Honcharenko was born in 1890 in the village of Dashchenky in the Poltava region 
 
 In 1916 Honcharenko began teaching tactics, topography and fortification at the Kyiv ensign school. After the 1917 revolution he Ukrainized it, and it became the First Ukrainian Bohdan Khmelnytsky Cadet School. In the winter of 1918 its cadets, together with student volunteers, set out to defend Kyiv from the Bolshevik army of Mikhail Muravyov.
 
-At Kruty about 500 Ukrainian soldiers, mostly cadets and students, faced some 4,000 Bolsheviks. About half of them were killed, but the battle held up the advance on Kyiv. According to the Encyclopedia of Ukraine, this gave the Ukrainian government time to sign the Treaty of Brest-Litovsk. Honcharenko managed to lead the rest of his force out in good order.
+At Kruty about 500 Ukrainian soldiers, mostly cadets and students, faced some 4,000 Bolsheviks. About half of them were killed, but the battle held up the advance on Kyiv. This is considered to have given the Ukrainian government time to sign the Treaty of Brest-Litovsk. Honcharenko managed to lead the rest of his force out in good order.
 
 ## After Kruty
 

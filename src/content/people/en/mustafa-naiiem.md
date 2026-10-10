@@ -37,7 +37,7 @@ Nayyem wrote that he had decided to leave on his own “because of systematic ob
 
 A government source gave a different account: the prime minister had not approved the trip because a meeting at the Cabinet on 12 June was to hear the agency’s report on protecting critical infrastructure and energy sites. The source called Nayyem’s statements “an attempt to avoid reporting on issues that matter today”, and said the prime minister himself was not going to the conference either.
 
-The Encyclopedia of the History of Ukraine notes that during his years in parliament Nayyem missed about a third of the sittings.
+It is noted that during his years in parliament Nayyem missed about a third of the sittings.
 
 ## Why it matters
 

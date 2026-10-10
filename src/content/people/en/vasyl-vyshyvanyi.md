@@ -27,7 +27,7 @@ In 1947 the Soviet secret services arrested him in Vienna (sources differ on the
 
 ## Debates and assessments
 
-The monarchist plans around Vyshyvanyi are the most debated part of his story. According to the historian Olesia Isaiuk (Radio Svoboda), the Habsburgs counted on Wilhelm becoming the “future monarch” of the Ukrainians. At the same time, the Encyclopedia of Modern Ukraine stresses that he did not move against Hetman Skoropadskyi by force, and that in 1928 he sought an understanding with him.
+The monarchist plans around Vyshyvanyi are the most debated part of his story. According to the historian Olesia Isaiuk (Radio Svoboda), the Habsburgs counted on Wilhelm becoming the “future monarch” of the Ukrainians. At the same time, other scholars stress that he did not move against Hetman Skoropadskyi by force, and that in 1928 he sought an understanding with him.
 
 His conduct in the 1930s is also contested. In Timothy Snyder’s biography The Red Prince (as summarized by Kirkus Reviews), Wilhelm was briefly taken with Hitler, hoping he would help Ukraine, but by the start of the Second World War he was a firm opponent of the Nazis. Snyder, as quoted by Radio Svoboda, writes that during the war Wilhelm’s Vienna flat became a “center of anti-Nazi intelligence”. Radio Svoboda stresses that his contacts with intelligence services still need thorough research.
 

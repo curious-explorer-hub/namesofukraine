@@ -34,4 +34,4 @@ On 21 October 1983 he was arrested again, and on the same day he joined the Ukra
 
 ## Among the Sixtiers
 
-The Internet Encyclopedia of Ukraine names Marchenko among the Sixtiers who were given long sentences, alongside [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), [Vasyl Stus](/en/people/vasyl-stus/) and [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/). Marchenko and Stus both died in captivity. Marchenko was rehabilitated in 1991. Today a school in Kyiv and a street in Bucha bear his name, and a monument to him stands in Hatne.
+Marchenko is named among the Sixtiers who were given long sentences, alongside [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), [Vasyl Stus](/en/people/vasyl-stus/) and [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/). Marchenko and Stus both died in captivity. Marchenko was rehabilitated in 1991. Today a school in Kyiv and a street in Bucha bear his name, and a monument to him stands in Hatne.

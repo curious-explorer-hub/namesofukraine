@@ -16,7 +16,7 @@ image_alt: "Ahatanhel Krymskyi, a photograph from about 1900"
 
 ## How many languages can one person know?
 
-At 18, Ahatanhel Krymskyi knew 8 languages, and by the end of his life he had mastered more than 50 more. That is what the Encyclopedia of Modern Ukraine says. He was born in 1871 in Volodymyr-Volynskyi (today Volodymyr) and grew up in Zvenyhorodka. His family had Crimean Tatar and Belarusian roots: its founder was a mullah from Bakhchysarai who converted to Christianity. Krymskyi himself called himself a conscious Ukrainian.
+At 18, Ahatanhel Krymskyi knew 8 languages, and by the end of his life he had mastered more than 50 more. He was born in 1871 in Volodymyr-Volynskyi (today Volodymyr) and grew up in Zvenyhorodka. His family had Crimean Tatar and Belarusian roots: its founder was a mullah from Bakhchysarai who converted to Christianity. Krymskyi himself called himself a conscious Ukrainian.
 
 ## An Arabist who wrote in Ukrainian
 
@@ -26,7 +26,7 @@ Krymskyi studied Arabic at the Lazarev Institute of Oriental Languages in Moscow
 
 In 1918 [Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) invited him to Kyiv to help draft the law on the Ukrainian Academy of Sciences. The academy was founded under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), and Krymskyi became one of its first academicians and its permanent secretary. He supervised The Main Rules of Ukrainian Orthography (1921).
 
-After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts. In July 1941 the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); encyclopedias give the date as 25 January 1942. He was rehabilitated in 1957.
+After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts. In July 1941 the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); the date is given as 25 January 1942. He was rehabilitated in 1957.
 
 ## Why it matters today
 

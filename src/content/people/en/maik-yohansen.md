@@ -20,7 +20,7 @@ Picture a Ukrainian adventure story that comes out in instalments, like a TV ser
 
 ## A Kharkiv boy with a German surname
 
-Mykhailo (Maik) Yohansen was born on 28 October 1895 in Kharkiv. His father, Hervasii Yohansen, taught German at Kharkiv gymnasiums. Some sources call him German; the Encyclopedia of the History of Ukraine calls him a Russified Swede. His mother, Hanna Kramarevska, was Ukrainian, from a Cossack family of the Starobilsk area. Maik went to a classical gymnasium and in 1917 graduated in history and philology from Kharkiv University with a master’s degree. As a schoolboy he wrote poems in Russian and German, but later burned them all. After the revolution he wrote only in Ukrainian; his first collection, D’hori, came out in 1921.
+Mykhailo (Maik) Yohansen was born on 28 October 1895 in Kharkiv. His father, Hervasii Yohansen, taught German at Kharkiv gymnasiums. Some sources call him German; others, a Russified Swede. His mother, Hanna Kramarevska, was Ukrainian, from a Cossack family of the Starobilsk area. Maik went to a classical gymnasium and in 1917 graduated in history and philology from Kharkiv University with a master’s degree. As a schoolboy he wrote poems in Russian and German, but later burned them all. After the revolution he wrote only in Ukrainian; his first collection, D’hori, came out in 1921.
 
 ## A manifesto and VAPLITE
 

@@ -32,7 +32,7 @@ In 1920 Bezruchko formed and took command of the 6th Sich Rifle Division. After 
 
 ## A general in Warsaw
 
-After the UNR’s defeat Bezruchko stayed in Poland. In 1920–1924 he was defence minister and deputy minister of the UNR government in exile; in 1931–1935 he headed the Ukrainian Military History Society in Warsaw, and he wrote a book about the Sich Riflemen in the struggle for statehood. According to the Encyclopedia of the History of Ukraine, at the start of the Second World War he actively supported the Organization of Ukrainian Nationalists. Marko Bezruchko died in Warsaw on 10 February 1944 and is buried in the Orthodox cemetery in Wola, next to Zmiienko.
+After the UNR’s defeat Bezruchko stayed in Poland. In 1920–1924 he was defence minister and deputy minister of the UNR government in exile; in 1931–1935 he headed the Ukrainian Military History Society in Warsaw, and he wrote a book about the Sich Riflemen in the struggle for statehood. At the start of the Second World War he actively supported the Organization of Ukrainian Nationalists. Marko Bezruchko died in Warsaw on 10 February 1944 and is buried in the Orthodox cemetery in Wola, next to Zmiienko.
 
 ## Why he is remembered
 

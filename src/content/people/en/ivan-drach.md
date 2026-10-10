@@ -31,7 +31,7 @@ In 1965 the arrests of the Sixtiers began. At the premiere of [Serhii Paradzhano
 
 ## Debates and assessments
 
-Three days after that meeting Drach wrote an explanatory note to the Party committee condemning his own actions. His biography in the Museum of the Dissident Movement of the Kharkiv Human Rights Protection Group calls this the beginning of his capitulation, but notes that he did not cross over to the opponents’ camp. In 1973 he again had to “repent”; in 1976 he received the Shevchenko Prize, and in 1983 the USSR State Prize. The Encyclopedia of Ukraine judges that his compromise with the regime weakened his later poetry. Ivan Dziuba, writing in the Encyclopedia of Modern Ukraine, says the poet had to manoeuvre to break through to a word of truth. The cultural scholar Oksana Pakhlovska recalls that Drach himself admitted writing conformist verse to get his books past the censors.
+Three days after that meeting Drach wrote an explanatory note to the Party committee condemning his own actions. His biography in the Museum of the Dissident Movement of the Kharkiv Human Rights Protection Group calls this the beginning of his capitulation, but notes that he did not cross over to the opponents’ camp. In 1973 he again had to “repent”; in 1976 he received the Shevchenko Prize, and in 1983 the USSR State Prize. Some scholars judge that his compromise with the regime weakened his later poetry. Ivan Dziuba writes that the poet had to manoeuvre to break through to a word of truth. The cultural scholar Oksana Pakhlovska recalls that Drach himself admitted writing conformist verse to get his books past the censors.
 
 ## From poetry to the state
 
@@ -39,4 +39,4 @@ In May 1986 Drach was the first at the Congress of Writers of Ukraine to speak o
 
 ## Why it matters today
 
-Drach’s works have been translated into dozens of languages, and the Encyclopedia of Modern Ukraine calls his name one of the symbols of the fullness of modern Ukrainian culture.
+Drach’s works have been translated into dozens of languages, and his name is considered one of the symbols of the fullness of modern Ukrainian culture.

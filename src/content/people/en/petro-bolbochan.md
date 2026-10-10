@@ -31,7 +31,7 @@ After the retreat from the Left Bank, Bolbochan was relieved of command. On 24 J
 
 ## Debates and assessments
 
-Historians are still divided over the Bolbochan case, as the title of a 1999 article shows: “Petro Bolbochan: who was he? An active organiser of the defence of Ukrainian statehood, or a traitor to the Ukrainian people?” The Encyclopedia of Modern Ukraine writes that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
+Historians are still divided over the Bolbochan case, as the title of a 1999 article shows: “Petro Bolbochan: who was he? An active organiser of the defence of Ukrainian statehood, or a traitor to the Ukrainian people?” Some scholars write that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
 
 ## Why he is remembered
 

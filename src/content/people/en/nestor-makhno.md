@@ -25,7 +25,7 @@ The alliance with the Bolsheviks was shaky: in 1919 the Makhnovists fought now a
 
 ## Debates and assessments
 
-Makhno is one of the most controversial figures of the Ukrainian Revolution. Ukrainian encyclopedias describe him as a gifted popular leader whose insurgent tactics were studied by many armies around the world. Soviet films and books mostly portrayed him negatively.
+Makhno is one of the most controversial figures of the Ukrainian Revolution. Ukrainian scholars describe him as a gifted popular leader whose insurgent tactics were studied by many armies around the world. Soviet films and books mostly portrayed him negatively.
 
 Researchers also debate the violence that came with the movement. Even before the revolution, the group Makhno belonged to used terror and expropriations. During the civil war the Makhnovists attacked Mennonite colonies, including a mass killing at Eichenfeld in November 1919. Mennonite tradition blames Makhno personally. The researcher Sean Patterson argues that the massacre was carried out by Makhnovists together with local peasants; no direct order from Makhno has been found, but his rhetoric against “kulaks” fed the violence. Makhno was also accused of antisemitism. He rejected the charge, and a number of historians do not support it: Makhno banned pogroms and punished those in his ranks who took part in them, and in 1919 the Makhnovists killed the otaman Nykyfor Hryhoriiv, who was involved in pogroms.
 

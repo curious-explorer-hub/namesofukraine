@@ -3,7 +3,7 @@
 name: "Dmytro Vyshnevetskyi (Baida)"
 role: "One of the first Cossack leaders"
 summary: "On tiny Baida Island near Khortytsia, archaeologists found the remains of his fortress. From there Prince Dmytro Vyshnevetskyi led campaigns against the Tatars and Turks in the 1550s, and a folk song about the Cossack Baida made him a symbol of defiance."
-fun_fact: "In 1553 Vyshnevetskyi travelled to Istanbul. According to the Encyclopedia of the History of Ukraine, he wanted to free his uncle, Prince Fedir Vyshnevetskyi, from captivity."
+fun_fact: "In 1553 Vyshnevetskyi travelled to Istanbul. He is believed to have wanted to free his uncle, Prince Fedir Vyshnevetskyi, from captivity."
 misconception:
   claim: "Baida Vyshnevetskyi founded the Zaporozhian Sich on Khortytsia Island."
   truth: "His castle (1555–1556) stood on the neighboring island of Mala Khortytsia, and the Tatars destroyed it as early as 1557. Historians see this castle as a forerunner of the Sich, but whether Vyshnevetskyi can be called its founder is still debated; the Zaporozhian Sich itself, as a military brotherhood, took shape later."
@@ -29,8 +29,8 @@ In 1554 King Sigismund II Augustus appointed him guard of Khortytsia, and in 155
 
 ## Between tsar, king and sultan
 
-When the help the Polish government had promised never came, Vyshnevetskyi entered the service of Muscovite Tsar Ivan IV and fought against the Crimean Khanate. He later returned to the allegiance of Sigismund II. In 1563, during a campaign in Moldavia, he was wounded and captured, then taken to Istanbul. According to the Encyclopedia of the History of Ukraine, he refused to enter Turkish service. On 29 October 1563 he was executed.
+When the help the Polish government had promised never came, Vyshnevetskyi entered the service of Muscovite Tsar Ivan IV and fought against the Crimean Khanate. He later returned to the allegiance of Sigismund II. In 1563, during a campaign in Moldavia, he was wounded and captured, then taken to Istanbul. Historians write that he refused to enter Turkish service. On 29 October 1563 he was executed.
 
 ## Was he Baida?
 
-According to tradition, his death inspired the folk duma about the Cossack Baida, who refuses to serve the sultan. Whether Vyshnevetskyi really was the model for Baida is debated by historians. But the Internet Encyclopedia of Ukraine calls him the first Cossack otaman in the history of Ukraine, and the Khortytsia reserve calls his town and fortress the first Zaporozhian Sich in history.
+According to tradition, his death inspired the folk duma about the Cossack Baida, who refuses to serve the sultan. Whether Vyshnevetskyi really was the model for Baida is debated by historians. But he is called the first Cossack otaman in the history of Ukraine, and the Khortytsia reserve calls his town and fortress the first Zaporozhian Sich in history.

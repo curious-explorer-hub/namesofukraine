@@ -36,7 +36,7 @@ In the summer of 1935 Makarenko moved to Kyiv to work in the labor colonies depa
 
 ## Debates and assessments
 
-Centers in Germany, Italy, Japan and other countries study Makarenko’s legacy, and an International Makarenko Association was founded in 1991. His system also has critics. The Internet Encyclopedia of Ukraine writes that order in his collectives rested on peer pressure, hierarchy, paramilitary rituals and the director’s right to punish, and that the children were constantly reminded their collective was part of the Soviet one. A separate question is his service in the NKVD during the years of terror. In 2024 an expert commission of the Ukrainian Institute of National Memory, citing an archival file, concluded that Makarenko had worked for the NKVD and that place names and monuments in his honor are propaganda of Russian imperial policy. Researching his legacy and reading his books remain legal.
+Centers in Germany, Italy, Japan and other countries study Makarenko’s legacy, and an International Makarenko Association was founded in 1991. His system also has critics, who write that order in his collectives rested on peer pressure, hierarchy, paramilitary rituals and the director’s right to punish, and that the children were constantly reminded their collective was part of the Soviet one. A separate question is his service in the NKVD during the years of terror. In 2024 an expert commission of the Ukrainian Institute of National Memory, citing an archival file, concluded that Makarenko had worked for the NKVD and that place names and monuments in his honor are propaganda of Russian imperial policy. Researching his legacy and reading his books remain legal.
 
 ## Why it matters today
 

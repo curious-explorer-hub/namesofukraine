@@ -22,7 +22,7 @@ On 5 December 1919 General Mykhailo Omelianovych-Pavlenko took command of the ar
 
 ## Five months behind enemy lines
 
-Instead of holding a front, the army went raiding through the enemy’s rear. The campaign lasted five months, until 6 May 1920. In the spring the Ukrainian units marched west to join the Polish front, and in 1920 they fought the Bolsheviks alongside the Polish army. Among the units under his command was [Marko Bezruchko](/en/people/marko-bezruchko/)’s 6th Sich Rifle Division. The Encyclopedia of the History of Ukraine says that with the Winter Campaign the commander saved the army from final disaster.
+Instead of holding a front, the army went raiding through the enemy’s rear. The campaign lasted five months, until 6 May 1920. In the spring the Ukrainian units marched west to join the Polish front, and in 1920 they fought the Bolsheviks alongside the Polish army. Among the units under his command was [Marko Bezruchko](/en/people/marko-bezruchko/)’s 6th Sich Rifle Division. It is considered that with the Winter Campaign the commander saved the army from final disaster.
 
 ## A Cossack family in Tiflis
 

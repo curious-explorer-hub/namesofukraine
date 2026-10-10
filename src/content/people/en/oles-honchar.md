@@ -26,7 +26,7 @@ Honchar was born in 1918. His birthplace is given either as the village of Sukha
 
 ## From The Standard-Bearers to The Sheep Bell
 
-Honchar made his name with The Standard-Bearers (1946–1948), a trilogy about the war that won Stalin Prizes. Then came the novels Man and Arms (Shevchenko Prize), The Sheep Bell (Lenin Prize), The Cyclone, The Shore of Love and Your Dawn. Encyclopedias judge his work differently: some of his books are placed in the socialist realist canon, while from the 1960s critics note a gradual move away from it.
+Honchar made his name with The Standard-Bearers (1946–1948), a trilogy about the war that won Stalin Prizes. Then came the novels Man and Arms (Shevchenko Prize), The Sheep Bell (Lenin Prize), The Cyclone, The Shore of Love and Your Dawn. His work is judged differently: some of his books are placed in the socialist realist canon, while from the 1960s critics note a gradual move away from it.
 
 From 1959 to 1971 Honchar headed the Writers’ Union of Ukraine. He spoke out against Russification, and later he led the fund to rebuild St Michael’s Golden-Domed Monastery. He died in Kyiv in 1995 and was buried at Baikove Cemetery.
 

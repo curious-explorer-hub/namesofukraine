@@ -35,7 +35,7 @@ In the late 1980s Dziuba returned to public life: he was one of the founders of 
 
 ## Debates and assessments
 
-The most controversial episode of Dziuba’s life is his recantation of 1973. After his conviction he wrote a public renunciation of his views and was released in November 1973. Some dissidents, notably Valentyn Moroz and Leonid Pliushch, condemned him sharply for it. Later came his book Facets of a Crystal on the literatures of the peoples of the USSR. The Encyclopedia of Ukraine regards it as a repudiation of Internationalism or Russification?; the Encyclopedia of Modern Ukraine, by contrast, says that in these studies he worked “ostensibly to defend the ideas of internationalism” while trying to show each nation’s undistorted face. In independent Ukraine Dziuba again became one of the most respected intellectuals.
+The most controversial episode of Dziuba’s life is his recantation of 1973. After his conviction he wrote a public renunciation of his views and was released in November 1973. Some dissidents, notably Valentyn Moroz and Leonid Pliushch, condemned him sharply for it. Later came his book Facets of a Crystal on the literatures of the peoples of the USSR. Some scholars regard it as a repudiation of Internationalism or Russification?. Others, by contrast, write that in these studies he worked “ostensibly to defend the ideas of internationalism” while trying to show each nation’s undistorted face. In independent Ukraine Dziuba again became one of the most respected intellectuals.
 
 ## Why it matters today
 

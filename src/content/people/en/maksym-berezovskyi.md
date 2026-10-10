@@ -6,7 +6,7 @@ summary: "His name is written in gold letters on a wall of the Bologna academy, 
 fun_fact: "His Symphony in C major, considered the first Ukrainian symphony, was found only in the early 2000s, in the private archive of the Roman aristocratic Doria Pamphilj family."
 misconception:
   claim: "Berezovskyi was a Russian composer."
-  truth: "He was born in Hlukhiv to a Cossack family and studied at the Hlukhiv singing school and the Kyiv Academy; in Saint Petersburg he served as a singer in the court choir of the Russian Empire. The Encyclopedia of the History of Ukraine and the Encyclopedia of Ukraine call him a Ukrainian composer."
+  truth: "He was born in Hlukhiv to a Cossack family and studied at the Hlukhiv singing school and the Kyiv Academy; in Saint Petersburg he served as a singer in the court choir of the Russian Empire. Scholars call him a Ukrainian composer."
 key_accomplishments:
   - "The opera Demofonte (Livorno, 1773), the first opera by a Ukrainian composer"
   - "Academician-composer and member of the Bologna Philharmonic Academy (1771)"

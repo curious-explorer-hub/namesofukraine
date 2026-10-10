@@ -18,7 +18,7 @@ quotes:
 
 ## A voice composers wrote for
 
-The Encyclopedia of Modern Ukraine describes Nina Matviienko’s voice as having a “silver, flute-like timbre”. Composers wrote music especially for it. Yevhen Stankovych wrote songs for her that became part of his folk opera The Fern Flower, Myroslav Skoryk arranged “I Will Light a Candle” for her, and Oleksandr Kyva wrote chamber cantatas to words by Tychyna and Shevchenko.
+Nina Matviienko’s voice has been described as having a “silver, flute-like timbre”. Composers wrote music especially for it. Yevhen Stankovych wrote songs for her that became part of his folk opera The Fern Flower, Myroslav Skoryk arranged “I Will Light a Candle” for her, and Oleksandr Kyva wrote chamber cantatas to words by Tychyna and Shevchenko.
 
 ## From boarding school to the Veriovka Choir
 

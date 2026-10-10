@@ -25,7 +25,7 @@ Sukhomlynskyi was born in 1918 in the village of Vasylivka in today’s Kirovohr
 
 From 1948 until the end of his life Sukhomlynskyi was director of the secondary school in the settlement of Pavlysh. Here, in an ordinary village school, he developed his ideas. In The Spiritual World of the Schoolchild, The Unique Human Being and other books he put the child’s personality at the center of teaching and upbringing, a subject the official pedagogy of the time did not touch.
 
-In 1967 the newspaper Uchitelskaya Gazeta accused him of “abstract humanism” and “petty-bourgeois individualism”. According to the Encyclopedia of the History of Ukraine, these attacks were political in nature. Sukhomlynskyi died in Pavlysh on 2 September 1970. A memorial museum dedicated to him works there, and the State Scientific and Pedagogical Library of Ukraine bears his name.
+In 1967 the newspaper Uchitelskaya Gazeta accused him of “abstract humanism” and “petty-bourgeois individualism”. These attacks are considered to have been political in nature. Sukhomlynskyi died in Pavlysh on 2 September 1970. A memorial museum dedicated to him works there, and the State Scientific and Pedagogical Library of Ukraine bears his name.
 
 ## Why it matters today
 

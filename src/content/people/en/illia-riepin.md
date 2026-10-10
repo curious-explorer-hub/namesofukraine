@@ -28,7 +28,7 @@ From 1900 Repin lived at his Penaty estate in Kuokkala near St Petersburg, which
 
 ## Debates and assessments
 
-Most encyclopedias and museums around the world have traditionally called Repin a Russian painter: he lived and worked mainly in St Petersburg, and many of his best-known canvases are about Russian life. The Encyclopedia of the History of Ukraine calls him a Ukrainian painter; the Encyclopedia of Ukraine notes that some of his works show his attachment to Ukraine.
+Most encyclopedias and museums around the world have traditionally called Repin a Russian painter: he lived and worked mainly in St Petersburg, and many of his best-known canvases are about Russian life. Some Ukrainian scholars call him a Ukrainian painter. Others note that some of his works show his attachment to Ukraine.
 
 In early 2023 the Metropolitan Museum of Art in New York changed his description to “Ukrainian, born Russian Empire”. Supporters of the change, such as the journalist and historian Oksana Semenik, point to Repin’s Ukrainian landscapes and subjects. Critics, such as Vartan Matiossian writing in Hyperallergic, argue that reclassifying 19th-century artists this way replaces one oversimplification with another.
 

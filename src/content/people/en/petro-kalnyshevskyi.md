@@ -18,7 +18,7 @@ image_alt: "Petro Kalnyshevskyi, detail of an old icon by an unknown artist"
 
 In January 1765 the Zaporozhians elected Petro Kalnyshevskyi otaman, the head of the Sich, even though Catherine II did not want him. Then they kept re-electing him for ten years, until the end of the Sich.
 
-Kalnyshevskyi was born in the village of Pustoviitivka (now in the Sumy region); the Encyclopedia of the History of Ukraine gives 1691, other sources 1690. According to tradition, he came to the Sich as a child and rose from dzhura (an officer’s attendant) to military judge, and in 1762 he first became otaman.
+Kalnyshevskyi was born in the village of Pustoviitivka (now in the Sumy region); sources give 1690 or 1691. According to tradition, he came to the Sich as a child and rose from dzhura (an officer’s attendant) to military judge, and in 1762 he first became otaman.
 
 ## Administrator and diplomat
 

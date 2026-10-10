@@ -32,4 +32,4 @@ After a quarrel with the prince Fedorov went back to Lviv, but he never managed 
 
 ## Why it matters today
 
-Encyclopedias call Fedorov the founder of book printing in Ukraine. His press passed to the Lviv Dormition Brotherhood, whose school printed on his equipment for a long time; the brotherhood kept using his ornaments until the early 19th century. In 1977 a monument to Fedorov was put up in Lviv.
+Fedorov is called the founder of book printing in Ukraine. His press passed to the Lviv Dormition Brotherhood, whose school printed on his equipment for a long time; the brotherhood kept using his ornaments until the early 19th century. In 1977 a monument to Fedorov was put up in Lviv.

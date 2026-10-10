@@ -3,7 +3,7 @@
 name: "Anatolii Solovianenko"
 role: "Operatic tenor of the Kyiv Opera"
 summary: "Until he was 30 he taught descriptive geometry at a Donetsk institute and took private singing lessons. Then came the Kyiv Opera, La Scala and the Metropolitan Opera. Anatolii Solovianenko is one of the best-known Ukrainian tenors and a Hero of Ukraine (posthumously)."
-fun_fact: "In 1964 Solovianenko reached the final of the “Naples Against All” singing contest in Naples and took third place. According to the Great Ukrainian Encyclopedia, 5 million postcards were sent to him."
+fun_fact: "In 1964 Solovianenko reached the final of the “Naples Against All” singing contest in Naples and took third place. Reportedly, 5 million postcards were sent to him."
 key_accomplishments:
   - "Soloist of the Shevchenko Kyiv Theatre of Opera and Ballet (1962–1992)"
   - "Trainee at La Scala (1963–1965); soloist of the Metropolitan Opera in New York (1977–1978)"

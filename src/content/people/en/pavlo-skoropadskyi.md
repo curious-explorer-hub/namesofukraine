@@ -29,7 +29,7 @@ After the Central Powers were defeated, on 14 November 1918, the hetman announce
 
 ## Debates and assessments
 
-Views of the Hetmanate still differ. Critics, including the Ukrainian democratic and socialist parties of the day, pointed out that Skoropadskyi’s power came from a coup backed by the German army, was authoritarian, introduced censorship and brought into government Russian figures hostile to Ukrainian independence. At the same time, historians acknowledge the Ukrainian State’s achievements in diplomacy, education and culture. The Encyclopedia of the History of Ukraine describes his rule as a temporary one-man government that drew on historical and national traditions and leaned towards authoritarianism, and notes that in exile he gave up his federalist views.
+Views of the Hetmanate still differ. Critics, including the Ukrainian democratic and socialist parties of the day, pointed out that Skoropadskyi’s power came from a coup backed by the German army, was authoritarian, introduced censorship and brought into government Russian figures hostile to Ukrainian independence. At the same time, historians acknowledge the Ukrainian State’s achievements in diplomacy, education and culture. His rule is described as a temporary one-man government that drew on historical and national traditions and leaned towards authoritarianism, and it is noted that in exile he gave up his federalist views.
 
 ## Why it matters today
 

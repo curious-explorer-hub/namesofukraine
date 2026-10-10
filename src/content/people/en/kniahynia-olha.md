@@ -27,7 +27,7 @@ Little is known about Olha herself. According to the Tale of Bygone Years she ca
 
 ## Peace instead of war
 
-With Byzantium, Olha negotiated rather than fought. She visited Constantinople and made peace with Emperor Constantine VII Porphyrogenitus. According to the Encyclopedia of the History of Ukraine, she was baptized there, in the Cathedral of Hagia Sophia, and took the name Olena (Helena). The date of the visit and the place of her baptism are still debated: 946, 955 or 957 are suggested, and some historians believe Olha was baptized earlier, in Kyiv. Around 959 she sent an embassy to the German king Otto I.
+With Byzantium, Olha negotiated rather than fought. She visited Constantinople and made peace with Emperor Constantine VII Porphyrogenitus. It is believed that she was baptized there, in the Cathedral of Hagia Sophia, and took the name Olena (Helena). The date of the visit and the place of her baptism are still debated: 946, 955 or 957 are suggested, and some historians believe Olha was baptized earlier, in Kyiv. Around 959 she sent an embassy to the German king Otto I.
 
 Olha could not make Christianity the state religion: she was opposed by the pagan nobility led by Sviatoslav. In 964 she handed power to her son but went on governing during his campaigns. Olha died in 969 and was buried according to Christian custom.
 

@@ -33,7 +33,7 @@ Because the Bolsheviks were demanding his extradition, Petliura left Poland, and
 
 In 1918–1920 Ukraine saw numerous brutal anti-Jewish pogroms. According to Nahum Gergel's count, more than 31,000 people were killed; other estimates go as high as 60,000. The pogroms were carried out by different forces, including Denikin’s army, Red Army soldiers, otaman and anarchist bands, and also UPR units, which Gergel's data credit with about 40 percent of the pogroms. The question of Petliura’s responsibility as head of state and commander in chief is one of the most debated in the history of the Ukrainian Revolution.
 
-Ukrainian encyclopedias and some historians (including Taras Hunczak) stress that Petliura tried to stop the pogroms and punished those responsible severely; for example, the otaman responsible for the pogrom in Proskuriv (today Khmelnytskyi) was executed by firing squad. Other researchers (including Zosa Szajkowski) argue that he did not do enough to stop the violence.
+Some historians (including Taras Hunczak) stress that Petliura tried to stop the pogroms and punished those responsible severely; for example, the otaman responsible for the pogrom in Proskuriv (today Khmelnytskyi) was executed by firing squad. Other researchers (including Zosa Szajkowski) argue that he did not do enough to stop the violence.
 
 Schwartzbard said he was avenging the victims of the pogroms, for which he blamed Petliura. At the trial in Paris in 1927 the defense spoke about the pogroms, while the prosecution argued that Petliura was not responsible for them and that Schwartzbard was a Soviet agent. The jury acquitted Schwartzbard. For decades Soviet propaganda used the words “Petliurism” and “Petliurites” as terms of abuse.
 

@@ -28,7 +28,7 @@ Yalovyi was a close friend and ally of [Mykola Khvylovy](/en/people/mykola-khvyl
 
 ## An arrest that sent a signal
 
-In May 1933 Yalovyi was arrested. Among other things, he was accused of being a Polish spy and a terrorist. His arrest marked the start of a purge of the Ukrainian intelligentsia led by the Communist Party official Pavel Postyshev. Soon after his friend’s arrest, Mykola Khvylovy took his own life. In the autumn of 1933 Yalovyi was sentenced to 10 years’ imprisonment, which he served on the Solovetsky Islands. On 9 October 1937 he was sentenced again, this time to death, and on 3 November 1937 he was shot. Sources differ on the place: most name the Sandarmokh forest in Karelia, while the Encyclopedia of the History of Ukraine names the town of Lodeynoye Pole. He was rehabilitated in 1957.
+In May 1933 Yalovyi was arrested. Among other things, he was accused of being a Polish spy and a terrorist. His arrest marked the start of a purge of the Ukrainian intelligentsia led by the Communist Party official Pavel Postyshev. Soon after his friend’s arrest, Mykola Khvylovy took his own life. In the autumn of 1933 Yalovyi was sentenced to 10 years’ imprisonment, which he served on the Solovetsky Islands. On 9 October 1937 he was sentenced again, this time to death, and on 3 November 1937 he was shot. Sources differ on the place: most name the Sandarmokh forest in Karelia, while some name the town of Lodeynoye Pole. He was rehabilitated in 1957.
 
 ## Why it matters today
 

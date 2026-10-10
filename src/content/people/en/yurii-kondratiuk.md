@@ -28,7 +28,7 @@ Kondratiuk built grain elevators in Siberia. In 1930 he was arrested for “sabo
 
 ## Debates and assessments
 
-How he died is still being investigated. The Internet Encyclopedia of Ukraine says he died in October 1941; the more recent Encyclopedia of Modern Ukraine says he was killed in battle between 22 and 25 February 1942 near the village of Krivtsovo (now Oryol Oblast, Russia).
+How he died is still being investigated. Older sources say he died in October 1941; more recent ones say he was killed in battle between 22 and 25 February 1942 near the village of Krivtsovo (now Oryol Oblast, Russia).
 
 ## Why it matters today
 

@@ -14,7 +14,7 @@ birthplace_name: "Kyiv"
 image_alt: "Vladyslav Heraskevych, holding the helmet of memory, receives the Order of Freedom from Volodymyr Zelenskyy, February 2026"
 quotes:
   - text: "I see the faces on my helmet, and I will not betray these athletes."
-    source: "Quoted in the Great Ukrainian Encyclopedia (OBOZ.UA, 11 February 2026)"
+    source: "Quoted in OBOZ.UA, 11 February 2026"
 ---
 
 ## First down the Olympic track

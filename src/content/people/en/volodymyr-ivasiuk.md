@@ -27,7 +27,7 @@ On 24 April 1979 Ivasiuk disappeared. On 18 May his body was found hanged in the
 
 ## Debates and assessments
 
-The Soviet investigation of 1979–1980 concluded that it was suicide. Few people believed it. The Internet Encyclopedia of Ukraine, published in the West in 1988, says the circumstantial evidence points to the KGB; the Encyclopedia of Modern Ukraine says he died in unexplained circumstances.
+The Soviet investigation of 1979–1980 concluded that it was suicide. Few people believed it. Some scholars write that the circumstantial evidence points to the KGB; others note that he died in unexplained circumstances.
 
 The investigation was reopened in 2009, and in November 2012 the case was closed again “for lack of a crime.” In June 2014 the Prosecutor General’s Office overturned that decision as unfounded. In 2019 the Kyiv Scientific Research Institute of Forensic Examinations carried out experiments and concluded that Ivasiuk could not have hanged himself unaided.
 

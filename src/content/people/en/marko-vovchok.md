@@ -6,7 +6,7 @@ summary: "Behind the male pen name Marko Vovchok was Mariia Vilinska. Her Folk S
 fun_fact: "In 1858 Taras Shevchenko and friends in Saint Petersburg collected money, bought a gold bracelet and sent it to Marko Vovchok in Nemyriv, together with a handwritten copy of his poem “The Dream.”"
 misconception:
   claim: "Marko Vovchok was a man, or if a woman, then a Russian who merely learned Ukrainian."
-  truth: "The male pen name, invented for her by Panteleimon Kulish, belonged to Mariia Vilinska. She was born in the Oryol province and grew up among Russian speakers, but according to the Encyclopedia of Modern Ukraine she came from a noble family of Ukrainian-Polish origin, and she mastered Ukrainian deeply while living in Chernihiv, Kyiv and Nemyriv in 1851–1858."
+  truth: "The male pen name, invented for her by Panteleimon Kulish, belonged to Mariia Vilinska. She was born in the Oryol province and grew up among Russian speakers, but she came from a noble family of Ukrainian-Polish origin, and she mastered Ukrainian deeply while living in Chernihiv, Kyiv and Nemyriv in 1851–1858."
 key_accomplishments:
   - "The collection Folk Stories (1857; a second volume followed in 1862) about the lives of serf peasants"
   - "The novellas The Boarding-School Girl, Marusia and other works that opened new genres in Ukrainian literature, including prose for children"

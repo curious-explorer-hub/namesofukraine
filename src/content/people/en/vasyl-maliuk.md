@@ -27,8 +27,8 @@ After Russia’s full-scale invasion in 2022 he returned to that post, became ac
 
 Under Maliuk, the SBU blew up the Crimean Bridge twice, in 2022 and 2023, hit 11 Russian warships and began fighting with sea drones. He is also credited with the capture in April 2022 of Viktor Medvedchuk, an MP suspected of treason and Vladimir Putin’s kum, a relative by godparenthood. On 21 September 2022 Medvedchuk was exchanged for Ukrainian prisoners of war, among them the commanders of the Azovstal defence: [Denys Prokopenko](/en/people/denys-prokopenko/), [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) and [Serhii Volynskyi](/en/people/serhii-volynskyi/). Maliuk was there in person to meet the freed soldiers.
 
-On 1 June 2025, in Operation Spiderweb, which he commanded, SBU drones hit more than 40 strategic aircraft that Russia had used to launch missiles at Ukraine. The Encyclopedia of Modern Ukraine calls it the largest drone attack on airbases in history.
+On 1 June 2025, in Operation Spiderweb, which he commanded, SBU drones hit more than 40 strategic aircraft that Russia had used to launch missiles at Ukraine. It is called the largest drone attack on airbases in history.
 
 ## Why it matters
 
-According to the encyclopedia, Spiderweb continued the tradition of surprise asymmetric strikes in war; it has been compared, among others, with the Doolittle Raid of 1942, the American air raid on Japan in response to Pearl Harbor. In early January 2026 Maliuk stepped down as head of the SBU, and on 13 January parliament dismissed him. The SBU’s strikes under his leadership showed that a war can be fought far beyond the front line.
+Spiderweb is considered to have continued the tradition of surprise asymmetric strikes in war; it has been compared, among others, with the Doolittle Raid of 1942, the American air raid on Japan in response to Pearl Harbor. In early January 2026 Maliuk stepped down as head of the SBU, and on 13 January parliament dismissed him. The SBU’s strikes under his leadership showed that a war can be fought far beyond the front line.

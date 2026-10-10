@@ -32,7 +32,7 @@ In 1721, on Peter I’s orders, Prokopovych wrote the Spiritual Regulation. The 
 
 ## Debates and assessments
 
-The Encyclopedia of Ukraine calls Prokopovych one of the leading theorists of Russian autocracy: under his Spiritual Regulation the church became part of the state bureaucracy. He is also criticized for changing sides: after 1709 he joined the campaign against Mazepa, whom he had once glorified, and called the hetman “the new Judas”. At the same time, scholars recognize his contribution to learning: he brought new ideas of European philosophy and natural science to the Kyiv-Mohyla Academy, and his legacy, as the historian Anna Makhinko writes, belongs to both Ukrainian and Russian culture.
+Prokopovych is called one of the leading theorists of Russian autocracy: under his Spiritual Regulation the church became part of the state bureaucracy. He is also criticized for changing sides: after 1709 he joined the campaign against Mazepa, whom he had once glorified, and called the hetman “the new Judas”. At the same time, scholars recognize his contribution to learning: he brought new ideas of European philosophy and natural science to the Kyiv-Mohyla Academy, and his legacy, as the historian Anna Makhinko writes, belongs to both Ukrainian and Russian culture.
 
 ## Why it matters today
 

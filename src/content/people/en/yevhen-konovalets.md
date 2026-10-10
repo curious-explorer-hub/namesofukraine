@@ -31,7 +31,7 @@ On 23 May 1938 Konovalets was killed in Rotterdam by the Soviet agent Pavel Sudo
 
 ## Debates and assessments
 
-The UVO, and later the OUN, waged an underground struggle against the Polish authorities, including by terrorist methods such as political assassinations. The OUN was formed in 1929 by merging the UVO with far-right nationalist student organizations. Konovalets sought support from foreign governments and intelligence services, above all German and Lithuanian ones. At the same time, according to the Encyclopedia of Modern Ukraine, he warned against excessive enthusiasm for underground and terrorist activity and totalitarian practices. The organization’s ideology and methods are still a subject of debate among historians.
+The UVO, and later the OUN, waged an underground struggle against the Polish authorities, including by terrorist methods such as political assassinations. The OUN was formed in 1929 by merging the UVO with far-right nationalist student organizations. Konovalets sought support from foreign governments and intelligence services, above all German and Lithuanian ones. At the same time, as historians note, he warned against excessive enthusiasm for underground and terrorist activity and totalitarian practices. The organization’s ideology and methods are still a subject of debate among historians.
 
 ## Why it matters today
 

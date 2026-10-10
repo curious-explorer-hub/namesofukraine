@@ -28,7 +28,7 @@ So she taught herself, from nature. She made her first drawings with charcoal on
 
 In the spring of 1940 Bilokur heard the singer Oksana Petrusenko on the radio and wrote her a letter. The letter reached specialists, and that same year Bilokur’s paintings were shown in Poltava, then in Kyiv in 1941.
 
-In 1954 three of her canvases, among them “Tsar Kolos”, were shown at an international exhibition in Paris. According to the Encyclopedia of Modern Ukraine, Pablo Picasso praised them highly, though his words about her are reported in different ways. Two of those paintings never came back to Ukraine. In 1956 Bilokur was named People’s Artist of the Ukrainian SSR.
+In 1954 three of her canvases, among them “Tsar Kolos”, were shown at an international exhibition in Paris. Pablo Picasso is said to have praised them highly, though his words about her are reported in different ways. Two of those paintings never came back to Ukraine. In 1956 Bilokur was named People’s Artist of the Ukrainian SSR.
 
 ## Why her flowers are still recognized
 

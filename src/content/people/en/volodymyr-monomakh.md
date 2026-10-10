@@ -6,7 +6,7 @@ summary: "The people of Kyiv had to ask him twice, and he took the throne at 60.
 fun_fact: "In 1966 Debrett’s Peerage, the British reference book, published the statement that Queen Elizabeth II was descended from Volodymyr Monomakh. His first wife was Gytha, daughter of the English king Harold II."
 misconception:
   claim: "Volodymyr Monomakh inherited the “Cap of Monomakh”, used to crown the Russian tsars, from his Byzantine relatives."
-  truth: "That’s a legend. According to the Encyclopedia of the History of Ukraine, the cap was made by Central Asian (Samarkand) goldsmiths in the late 13th or early 14th century, some 150–200 years after Monomakh died. It was used to crown the tsars from Ivan IV to Nicholas II."
+  truth: "That’s a legend. Historians believe the cap was made by Central Asian (Samarkand) goldsmiths in the late 13th or early 14th century, some 150–200 years after Monomakh died. It was used to crown the tsars from Ivan IV to Nicholas II."
 key_accomplishments:
   - "Grand Prince of Kyiv (1113–1125); the last to unite the lands of Rus’ under Kyiv"
   - "Initiated the Liubech congress of princes (1097); the congresses of Vytychiv (1100) and Dolobsk (1103) agreed on joint campaigns against the Cumans"

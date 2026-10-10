@@ -15,7 +15,7 @@ birthplace_name: "Vinnytsia"
 
 ## Where the “cyborgs” came from
 
-In autumn 2014 people began calling the defenders of Donetsk airport “cyborgs”: they held the airfield under constant shelling and assault. The Encyclopedia of Modern Ukraine links the nickname to deeds like those of the soldiers under Colonel Oleksandr Trepak.
+In autumn 2014 people began calling the defenders of Donetsk airport “cyborgs”: they held the airfield under constant shelling and assault. The nickname is linked to deeds like those of the soldiers under Colonel Oleksandr Trepak.
 
 Trepak was born in 1976 in Vinnytsia. He trained at the Odesa Institute of Ground Forces and served in intelligence: military, signals and information. From 2008 he commanded a detachment of the 3rd Separate Special Forces Regiment in Kirovohrad (now Kropyvnytskyi). His call sign is “Redut”, a redoubt.
 

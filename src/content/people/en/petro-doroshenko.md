@@ -33,7 +33,7 @@ The wars laid waste to the Right Bank, and people stopped supporting the hetman.
 
 ## Debates and assessments
 
-The Ottoman alliance is Doroshenko’s most disputed decision. The Encyclopedia of the History of Ukraine explains it as an effort to reunite the Ukrainian lands within an independent state. At the same time, as the Internet Encyclopedia of Ukraine notes, the idea was unpopular in Ukraine. Ottoman garrisons on the Right Bank plundered the population and carried people off into captivity, and many fled to the Left Bank.
+The Ottoman alliance is Doroshenko’s most disputed decision. Some scholars explain it as an effort to reunite the Ukrainian lands within an independent state. At the same time, as others note, the idea was unpopular in Ukraine. Ottoman garrisons on the Right Bank plundered the population and carried people off into captivity, and many fled to the Left Bank.
 
 ## Why he is remembered
 

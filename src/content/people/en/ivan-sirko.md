@@ -22,7 +22,7 @@ In 1667 the Zaporozhian Cossacks under Ivan Sirko reached Kaffa (today Feodosiia
 
 ## Where did he come from?
 
-Nobody knows for sure. Encyclopedias give different birth years, from 1605–1610 to about 1618. Sirko’s first biographer, Dmytro Yavornytskyi, believed he was born in Merefa in Sloboda Ukraine; the modern historian Yurii Mytsyk points to Murafa in Podillia. Sirko first appears in documents in 1653. In the late 1650s he was colonel of Kalnyk (Vinnytsia), and in the autumn of 1662 he was elected kish otaman for the first time.
+Nobody knows for sure. Sources give different birth years, from 1605–1610 to about 1618. Sirko’s first biographer, Dmytro Yavornytskyi, believed he was born in Merefa in Sloboda Ukraine; the modern historian Yurii Mytsyk points to Murafa in Podillia. Sirko first appears in documents in 1653. In the late 1650s he was colonel of Kalnyk (Vinnytsia), and in the autumn of 1662 he was elected kish otaman for the first time.
 
 ## Allies that kept changing
 

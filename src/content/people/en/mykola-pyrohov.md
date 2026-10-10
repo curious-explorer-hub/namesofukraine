@@ -40,7 +40,7 @@ In 1881 Moscow marked 50 years of his work with a grand celebration, and that ye
 
 ## Debates and assessments
 
-Pyrohov was not Ukrainian: he was born in Moscow and spent most of his working life in Dorpat, Saint Petersburg and the Russian Empire’s wars. The Internet Encyclopedia of Ukraine calls him a Russian surgeon. The Encyclopedia of the History of Ukraine stresses his work in Ukraine: running the schools of Odesa and Kyiv, supporting teaching in the native language, and two decades of living and practising medicine near Vinnytsia.
+Pyrohov was not Ukrainian: he was born in Moscow and spent most of his working life in Dorpat, Saint Petersburg and the Russian Empire’s wars. Some scholars call him a Russian surgeon. Others stress his work in Ukraine: running the schools of Odesa and Kyiv, supporting teaching in the native language, and two decades of living and practising medicine near Vinnytsia.
 
 Not all of his school policy was welcomed. In 1859 Pyrohov signed rules on pupils’ offences and punishments for the gymnasiums of the Kyiv district that allowed caning. The critic Nikolai Dobrolyubov mocked this sharply in the journal Sovremennik. Pyrohov himself later wrote that, in the end, his practice cut the use of the cane in the Kyiv district by 90 per cent.
 

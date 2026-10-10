@@ -10,7 +10,7 @@ key_accomplishments:
   - "Headed the Lviv Brotherhood press, where he also published his own Christmas verses (1616)"
   - "Printer, editor and translator at the Kyiv Cave Monastery press"
   - "Engraver: his engravings bear the monogram “ПБ”"
-birthplace_name: "Unknown (near Sambir according to the Encyclopedia of Ukraine; Yezupil in another version)"
+birthplace_name: "Unknown (near Sambir by some accounts, Yezupil by others)"
 image_alt: "Title page of Pamvo Berynda’s Slavonic-Ruthenian Lexicon, Kyiv Cave Monastery, 1627"
 ---
 

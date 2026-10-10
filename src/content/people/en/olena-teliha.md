@@ -14,7 +14,7 @@ image_alt: "Portrait photograph of Olena Teliha, c. 1929"
 
 ## “That dog’s language is my language!”
 
-Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv (as given by the Encyclopedia of the History of Ukraine; the Canadian Internet Encyclopedia of Ukraine gives 1907 and Saint Petersburg). In 1918 the family moved to Kyiv, and in 1922 to Poděbrady in Czechoslovakia. Olena grew up in a Russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
+Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv (other sources give 1907 and Saint Petersburg). In 1918 the family moved to Kyiv, and in 1922 to Poděbrady in Czechoslovakia. Olena grew up in a Russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
 
 In 1934, at a party in Prague, someone began mocking the Ukrainian language. By her own account, printed in Vistnyk, Olena stood up, banged her fist on the table and shouted: “That dog’s language is my language!” From then on, she wrote, she spoke only Ukrainian.
 
@@ -24,7 +24,7 @@ In 1923–1929 Olena studied at the Ukrainian Higher Pedagogical Institute in Pr
 
 ## Kyiv, 1941
 
-On 22 October 1941 she arrived in Nazi-occupied Kyiv with the OUN expeditionary groups. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. According to the Encyclopedia of the History of Ukraine, she saved the poet Yakiv Halperin from arrest. When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate. On 9 February 1942 the Gestapo arrested her at the Union’s premises.
+On 22 October 1941 she arrived in Nazi-occupied Kyiv with the OUN expeditionary groups. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She is believed to have saved the poet Yakiv Halperin from arrest. When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate. On 9 February 1942 the Gestapo arrested her at the Union’s premises.
 
 Olena Teliha was executed in February 1942, most likely at Babyn Yar; the exact date is unknown. Her poems were published as a book only after her death, in the collection The Soul on Guard (1946).
 

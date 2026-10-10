@@ -27,4 +27,4 @@ The university was built on the North American model: students were admitted thr
 
 ## Why it matters today
 
-The Encyclopedia of Ukraine says the Mohyla Academy is generally considered the least corrupt of the country’s classical universities, and Briukhovetskyi its “founding father”. Rankings consistently place it among the best universities in Ukraine, especially in the humanities, social sciences and computer science.
+The Mohyla Academy is generally considered the least corrupt of the country’s classical universities, and Briukhovetskyi its “founding father”. Rankings consistently place it among the best universities in Ukraine, especially in the humanities, social sciences and computer science.
