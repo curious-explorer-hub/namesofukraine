@@ -116,6 +116,27 @@ Owner request: people for three proposed collections (BACKLOG C5) and a list of 
 | Михайло Яловий (Юліан Шпол) | 1895–1937 | Writer (literature) | 20th c. | | Backlog | Owner request 2026-10-08 | Хвильовий* (ВАПЛІТЕ; його арешт передував самогубству Хвильового) | President of ВАПЛІТЕ; arrested in May 1933, days before Khvylovy's suicide; shot at Sandarmokh, 1937 (dates **unverified**) |
 | Богдан-Ігор Антонич | 1909–1937 | Poet (literature) | 20th c. | 🌍 | Decision | Owner request 2026-10-08 | | Lemko-born (now Poland) poet of interwar Lviv («Книга Лева», «Зелена Євангелія»). He was not repressed: he died of illness in Polish-ruled Lviv, so he doesn't fit this collection. Owner: profile him without the collection, or skip |
 
+#### Roster check (2026-10-10)
+
+About 45 names checked against the Internet Encyclopedia of Ukraine and the ЕІУ articles «Розстріляне відродження» (О. Рубльов) and «Соловецькі розстріли 1937–1938» (Ю. Шаповал); ESU was rate-limited, so open each person's ESU article before drafting. Oblasts are mapped from historical county names: check. Drafted on branch `collections-drafts`: Куліш, Підмогильний, Яловий, Бойчук. Existing profiles: `ahatanhel-krymskyi` fits (arrested 1941, died in custody 1942; owner: add him to the collection?); `mykhailo-hrushevskyi` is a loose fit (older generation, statesman); Филипович, Драй-Хмара and Рильський fit both collections.
+
+| Rank | Person | Years | Fate | Free portrait | Flags |
+|---|---|---|---|---|---|
+| 1 | Михайль Семенко | 1892–1937 | Shot 1937 (23 Oct per IEU) | Yes | Place of death to confirm |
+| 2 | Майк Йогансен | 1895–1937 | Shot in Kyiv, 27 Oct 1937 | Yes | State his German–Ukrainian parentage |
+| 3 | Григорій Косинка | 1899–1934 | Shot in Kyiv, Dec 1934 (one of 28) | Yes | 17 or 15 Dec |
+| 4 | Євген Плужник | 1898–1936 | Death sentence commuted; died on Solovky | Yes (small) | Born in Russia |
+| 5 | Микола Вороний | 1871–1938 | Shot in Odesa, 7 Jun 1938 | Yes | Older generation; pairs with his son Марко |
+| 6 | Софія Налепинська-Бойчук 👩 | 1884–1937 | Shot in Kyiv, 11 Dec 1937 | Yes (small) | Born in Łódź; second source needed; pairs with Бойчук |
+| 7 | Олекса Слісаренко | 1891–1937 | Shot at Sandarmokh, 3 Nov 1937 | Yes | Born in Kharkiv oblast (not Kherson) |
+| 8 | Валер'ян Поліщук | 1897–1937 | Shot at Sandarmokh | Yes (weak provenance) | 9 Oct or 3 Nov 1937 |
+| 9 | Мирослав Ірчан | 1897–1937 | Shot at Sandarmokh, 3 Nov 1937 | Yes | Communist: neutral framing |
+| 10 | Гнат Хоткевич | 1877–1938 | Shot in Kharkiv, 8 Oct 1938 | Yes | Older generation; second source needed |
+| 11 | Андрій Ніковський | 1885–1942 | SVU trial, Solovky; died in Leningrad 1942 | Yes | UNR minister (§7.6); fills Odesa |
+| 12 | Людмила Старицька-Черняхівська 👩 | 1868–1941 | SVU case; died 1941 on the way to exile | Yes | Older generation; date uncertain |
+
+Alternates (free portraits): Марко Вороний, Іван Падалка, Володимир Свідзинський (manner of death disputed), Степан Рудницький, Сергій Єфремов, Михайло Кравчук (outside the cultural scope), Гео Шкурупій, Григорій Епік, Олекса Влизько. Skip or owner decision: Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); survivors (Багряний, Антоненко-Давидович, Осьмачка, Слабченко, Суровцова, Мисик, Івченко: Багряний and Антоненко-Давидович are strong profiles on their own); political figures (Чехівський, Лозинський, Буревій); Олена Курило and Катерина Грушевська (dates conflict, thin sources); Фальківський (Cheka service); Іван Дніпровський (Kherson-born, not repressed: a profile outside the collection).
+
 ### Kyiv Neoclassicists («Київські неокласики», «п'ятірне гроно»)
 
 **Collection:** `neoclassicists` (proposed). Existing profiles to label: `mykola-zerov` (his profile already names the four below).
