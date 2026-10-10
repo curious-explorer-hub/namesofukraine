@@ -13,6 +13,9 @@ key_accomplishments:
   - "President of the Ukrainian Association of Football (since 25 January 2024; as of October 2026)"
 birthplace_name: "Dvirkivshchyna"
 image_alt: "Andriy Shevchenko at the podium of the Congress of the Ukrainian Association of Football, 2024"
+quotes:
+  - text: "[…] anything is possible if you truly love what you do. I believe the next Ballon d’Or winner is already growing up in Ukraine."
+    source: "Remarks at the start of the Ballon d’Or tour of Ukraine, Kyiv, December 2024"
 ---
 
 ## Eighteen, and a goal against Bayern

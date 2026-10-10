@@ -12,6 +12,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, Decree No. 144/2025)"
 birthplace_name: "Lviv"
 image_alt: "Photo portrait of Iryna Tsybukh in uniform"
+quotes:
+  - text: "I want children. I want a house. I want to plant tomatoes… but ending the war matters most"
+    source: "From her writings, shared by the Hospitallers battalion, May 2024"
 ---
 
 ## A premiere the day before the war

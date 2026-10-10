@@ -16,6 +16,9 @@ gallery:
     caption: "The same two photos: at Azovstal and after his release from captivity, 2022"
   - alt: "An emaciated Mykhailo Dianov, shirtless, his injured right arm misshapen, smiling faintly"
     caption: "After his release from captivity, September 2022"
+quotes:
+  - text: "There was the Ukrainian flag. I wanted to cry, but there were no tears."
+    source: "On coming home from captivity, account for Vikna (STB), October 2022"
 ---
 
 ## Two photos

@@ -12,6 +12,9 @@ key_accomplishments:
   - "Sang in the final of season 12 of the TV show “The Voice of the Country” (2022)"
 birthplace_name: "Sosnivka, Ternopil region"
 image_alt: "Kateryna Polishchuk after her return from captivity, on the night of 21 September 2022"
+quotes:
+  - text: "Unfree will be the one who nursed slavery in his heart; / The brave will win freedom in the struggle. / Sing louder, brother, in the bloody fight, / We will win a state tempered in fire."
+    source: "A poem she wrote in Russian captivity; she read it publicly in January 2023"
 ---
 
 ## Songs in a bomb shelter

@@ -22,24 +22,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### anatolii-solovianenko — Анатолій Солов'яненко
 - none found (no direct quote of his in reputable media; the results were his son's recollections and dissertations)
 
-### andriana-susak-arekhta — Андріана Сусак-Арехта
-- quote 1:
-  - uk: "[…] тільки я вирішую, яким має бути моє життя. Я народилася вільною, я вільна і помру вільною."
-  - en: "[…] only I get to decide what my life should be. I was born free, I am free, and I will die free." (translation: original as published in English by UN Women; Ukrainian is ours)
-  - original_language: en (as published; she likely spoke Ukrainian, so the UN Women English text is the only published version)
-  - source_uk: "Розповідь для кампанії ООН Жінки «12 голосів», жовтень 2019"
-  - source_en: "Story for the UN Women campaign 12 Voices, October 2019"
-  - url: https://eca.unwomen.org/en/news/stories/2019/10/in-the-words-of-andriana-susak-arekhta-only-i-get-to-decide-what-my-life-should-be-i-was-born-free
-  - confidence: high
-- quote 2:
-  - uk: "Якщо я частина професійного військового складу, якщо виконую свої обов'язки не гірше, а іноді й краще за чоловіків, чому мені не можна захищати свою країну?"
-  - en: "If I'm a part of professional military personnel, if I perform my duties, not any worse and sometimes better than men, why am I not allowed to defend my country?" (translation: original as published by UN Women; Ukrainian is ours)
-  - original_language: en (as published)
-  - source_uk: "Розповідь для кампанії ООН Жінки «12 голосів», жовтень 2019"
-  - source_en: "Story for the UN Women campaign 12 Voices, October 2019"
-  - url: same as above
-  - confidence: high
-
 ### andrii-pilshchykov — Андрій Пільщиков
 - quote 1:
   - uk: "Як професіонали, ми маємо зберігати спокій і холодну голову."
@@ -58,17 +40,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: same as above
   - confidence: medium (the full sentence goes on: "But it's also limited, because we don't want to die"; the cut is fair but changes the tone, so the editor should decide)
 - rejected: "Потрібна не лише якість, а й кількість" (on F-16s, 1+1/LIGA): verified in the headlines but not memorable, so not proposed.
-
-### andrii-shevchenko — Андрій Шевченко
-- quote 1:
-  - uk: "[…] усе можливо, якщо ти справді любиш те, що робиш. Вірю, що в Україні вже підростає наступний володар «Золотого м'яча»."
-  - en: "[…] anything is possible if you truly love what you do. I believe the next Ballon d'Or winner is already growing up in Ukraine." (translation: ours)
-  - original_language: uk
-  - source_uk: "Слова на відкритті турне «Золотого м'яча» Україною, Київ, грудень 2024"
-  - source_en: "Remarks at the start of the Ballon d'Or tour of Ukraine, Kyiv, December 2024"
-  - url: https://lb.ua/sport/2024/12/07/649055_shevchenko_priviz_ukrainu_zolotiy.html
-  - url 2: https://www.ukrinform.ua/rubric-sports/3940749-andrij-sevcenko-use-mozlivo-akso-ti-spravdi-lubis-te-so-robis.html (Ukrinform headline uses the same words)
-  - confidence: high
 
 ### anna-yaroslavna — Анна Ярославна
 - none found
@@ -237,25 +208,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: same as above
   - confidence: medium
 
-### iryna-tsybukh — Ірина Цибух
-- quote 1:
-  - uk: "Війна – найгірше місце, де я колись була, але вона дає квиток у справжнє життя, у світ непідробної незалежності […]"
-  - en: "War is the worst place I have ever been, but it gives you a ticket to real life, to a world of genuine independence […]" (translation: ours)
-  - original_language: uk
-  - source_uk: "З її текстів, оприлюднених батальйоном «Госпітальєри», травень 2024"
-  - source_en: "From her writings, shared by the Hospitallers battalion, May 2024"
-  - url: https://nsju.org/novini/na-vijni-zagynula-zhurnalistka-suspilnogo-ta-bojova-medykynya-iryna-czybuh
-  - confidence: high (the NSJU text quotes the battalion's post verbatim. The cut leaves out "вона таврує знання про скороминущість існування")
-- quote 2:
-  - uk: "Хочу дітей. Хочу будинок. Хочу садити помідори… але війну закінчити найважливіше"
-  - en: "I want children. I want a house. I want to plant tomatoes… but ending the war matters most" (translation: ours)
-  - original_language: uk
-  - source_uk: "З її текстів, оприлюднених батальйоном «Госпітальєри», травень 2024"
-  - source_en: "From her writings, shared by the Hospitallers battalion, May 2024"
-  - url: https://nsju.org/novini/na-vijni-zagynula-zhurnalistka-suspilnogo-ta-bojova-medykynya-iryna-czybuh
-  - confidence: high
-- alternative (same source): "Єдиний вибір про свободу в країні, де йде війна… єдина історія про волю в цьому контексті – це боротьба за цю волю"
-
 ### ivan-bohun — Іван Богун
 - none found. No well-attested words of his own turn up in reputable sources, only his deeds.
 
@@ -280,26 +232,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### ivan-zubkov — Іван Зубков
 - none found. Sources describe his deeds only; none quote him.
-
-### kateryna-polishchuk — Катерина Поліщук
-- quote 1:
-  - uk: "Невільним буде той, плекав, хто рабство в серці, / Здобуде волю муж хоробрий у борні. […] Здобудемо державу, згартовану в огні."
-  - en: "Unfree will be the one who nursed slavery in his heart; / The brave will win freedom in the struggle. […] We will win a state tempered in fire." (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш, написаний у російському полоні; прочитала його в січні 2023"
-  - source_en: "A poem she wrote in Russian captivity; she read it publicly in January 2023"
-  - url: https://web.archive.org/web/2023/https://life.pravda.com.ua/society/2023/01/03/252136/ (Ukrainska Pravda Life, 3 January 2023)
-  - confidence: high
-- quote 2:
-  - uk: "Вірш-молитва, написаний мною в тюремних стінах […]. Я вивчила його та молилась ним щоранку і щоночі всі чотири місяці"
-  - en: "A poem-prayer I wrote within prison walls […]. I learned it by heart and prayed with it every morning and every night for all four months" (translation: ours)
-  - original_language: uk
-  - source_uk: "Допис про свій вірш, написаний у полоні, січень 2023"
-  - source_en: "Her post about the poem she wrote in captivity, January 2023"
-  - url: https://web.archive.org/web/2023/https://life.pravda.com.ua/society/2023/01/03/252136/
-  - confidence: high
-- rejected: anything from the videos recorded in captivity (Russian propaganda footage, Radio Svoboda https://www.radiosvoboda.org/a/azov-ptashka-polon-rosiya-olenivka/32040939.html). Those statements were coerced.
-- rejected: "частинка мого серця залишилась там, в російському полоні". It appeared only in a search summary of her video address; the Suspilne page (403) could not be opened.
 
 ### kateryna-stupnytska — Катерина Ступницька
 - none found. The only words recorded ("Ще навідпочиваюсь") come second-hand from fellow soldiers' recollections.
@@ -435,24 +367,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### marko-vovchok — Марко Вовчок
 - none found. No widely quoted aphorism of hers turned up; school materials quote only character lines from «Інститутка», which aren't her own sayings.
 
-### mykhailo-dianov — Михайло Діанов
-- quote 1:
-  - uk: "Був український прапор. Хотів заплакати, але сліз не було."
-  - en: "There was the Ukrainian flag. I wanted to cry, but there were no tears." (translation: ours)
-  - original_language: uk
-  - source_uk: "Про повернення з полону, розповідь для «Вікон» (СТБ), жовтень 2022"
-  - source_en: "On coming home from captivity, account for Vikna (STB), October 2022"
-  - url: https://vikna.tv/istorii/rozpovidi/knyga-pryrivnyuvalas-do-czygarky-chy-buhanky-hliba-istoriya-morpiha-myhajla-dianova-pro-budni-polonu/
-  - confidence: high
-- quote 2:
-  - uk: "Ми не здавались у полон, а виконували наказ президента."
-  - en: "We did not surrender; we were carrying out the President's order." (translation: ours)
-  - original_language: uk
-  - source_uk: "Про вихід з «Азовсталі», розповідь для «Вікон» (СТБ), жовтень 2022"
-  - source_en: "On leaving Azovstal, account for Vikna (STB), October 2022"
-  - url: same as above
-  - confidence: high
-
 ### mykhailo-drahomanov — Михайло Драгоманов
 - quote 1:
   - uk: "Космополітизм в ідеях і цілях, національність у ґрунті і формах."
@@ -477,24 +391,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found. I couldn't open a primary text («Хто такі українці і чого вони хочуть», the 1917 articles) to confirm any famous sentence.
 - rejected: "Народ, який не знає свого минулого, не вартий майбутнього" and similar lines often attributed to him. No primary source.
 
-### mykhailo-kotsiubynskyi — Михайло Коцюбинський
-- quote 1:
-  - uk: "Я тепер маю окремий світ, він наче перлова скойка: стулились краями дві половини — одна зелена, друга блакитна — й замкнули у собі сонце, немов перлину."
-  - en: "Now I have a world of my own, like a pearl shell: two halves have closed their edges, one green, the other blue, and locked the sun inside like a pearl." (translation: ours)
-  - original_language: uk
-  - source_uk: "Новела «Intermezzo», 1908"
-  - source_en: "The novella Intermezzo, 1908"
-  - url: https://www.ukrlib.com.ua/books/printit.php?tid=1065
-  - confidence: high
-- quote 2:
-  - uk: "Я утомився. Мене втомили люди."
-  - en: "I am tired. People have worn me out." (translation: ours)
-  - original_language: uk
-  - source_uk: "Новела «Intermezzo», 1908"
-  - source_en: "The novella Intermezzo, 1908"
-  - url: https://www.ukrlib.com.ua/books/printit.php?tid=1065
-  - confidence: high (out of context it could read as misanthropic; "На небі сонце — серед нив я." from the same text is a gentler alternative)
-
 ### mykola-amosov — Микола Амосов
 - quote 1:
   - uk: "Не сподівайтеся на медицину."
@@ -513,24 +409,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://gazeta.ua/articles/necrology/_rosiyanin-mikola-amosov-stav-velikim-ukrayincem-usih-chasiv/808825
   - confidence: medium
 - rejected: "Щоб бути здоровим, потрібні власні зусилля, постійні і значні. Замінити їх не можна нічим." — the most famous Amosov line, but I found it only in paraphrases and on blogs, with the word order varying. Very likely genuine («Раздумья о здоровье»), and worth confirming against the book because it's the best one.
-
-### mykola-hohol — Микола Гоголь
-- quote 1:
-  - uk: "Немає уз святіших за товариство!"
-  - en: "There is no more sacred brotherhood." (translation: published, the English text on americanliterature.com, translator not named there, probably Isabel Hapgood, 1886. Ours, closer to the original: "There are no bonds more sacred than comradeship!")
-  - original_language: ru ("Нет уз святее товарищества!")
-  - source_uk: "Повість «Тарас Бульба», розділ IX, редакція 1842 року"
-  - source_en: "The novella Taras Bulba, chapter IX, 1842 edition"
-  - url: https://ru.wikisource.org/wiki/Тарас_Бульба_(Гоголь)/Глава_IX ; https://americanliterature.com/author/nikolai-vasilievich-gogol/book/taras-bulba/chapter-ix
-  - confidence: high
-- quote 2:
-  - uk: "Чудовий Дніпро при тихій погоді, коли вільно й плавно мчить крізь ліси й гори повні води свої."
-  - en: "Wondrous is the Dnieper in calm weather, when it rushes its full waters freely and smoothly through forests and hills." (translation: ours)
-  - original_language: ru ("Чуден Днепр при тихой погоде, когда вольно и плавно мчит сквозь леса и горы полные воды свои.")
-  - source_uk: "Повість «Страшна помста», 1832"
-  - source_en: "The story A Terrible Vengeance, 1832"
-  - url: https://ru.wikisource.org/wiki/Страшная_месть_(Гоголь)
-  - confidence: high (I checked the opening words "Чуден Днепр при тихой погоде, когда вольно и плавно мчит" in the Wikisource text. Wikisource is used here as a primary-text edition, not as a quote aggregator.)
 
 ### mykola-khvylovyi — Микола Хвильовий
 - quote 1:
@@ -561,25 +439,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### mykola-zerov — Микола Зеров
 - none found.
 - rejected: "Ad fontes!" ("До джерел!"). It's the title of his 1926 essay collection and the neoclassicists' watchword. It works as a fact in the profile text, not as a quote.
-
-### nazarii-hryntsevych — Назарій Гринцевич
-- quote 1:
-  - uk: "Що б не було у вас, любіть маму, їжте кашу і любіть Україну."
-  - en: "Whatever happens to you, love your mum, eat your porridge and love Ukraine." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Українській правді», серпень 2023"
-  - source_en: "Interview with Ukrainska Pravda, August 2023"
-  - url: https://www.pravda.com.ua/articles/2023/08/3/7413772/ (epigraph of the interview; also the headline of Liga.net's report on his Hero of Ukraine title)
-  - confidence: high
-- quote 2:
-  - uk: "Це війна молодих, війна молодого покоління заради молодого покоління."
-  - en: "This is a war of the young, a war of the young generation for the sake of the young generation." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю LB.ua, грудень 2022"
-  - source_en: "Interview with LB.ua, December 2022"
-  - url: https://lb.ua/society/2022/12/06/538121_tse_viyna_molodih_19richniy.html
-  - confidence: high
-- note: «Я – звичайний солдат» (already in the profile summary) is confirmed in the same Ukrainska Pravda interview, Aug 2023. Also usable there: "Ніхто не народжений для війни." / "Техніка не виграє війну. Люди її виграють."
 
 ### nazarii-yaremchuk — Назарій Яремчук
 - none found. Only his son's statements and coverage of the 2024 documentary.
@@ -664,16 +523,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### olha-semydianova — Ольга Семидьянова
 - none found. armyinform.com.ua and life.pravda.com.ua give only paraphrases, or her daughter's and comrades' words. Vikna paraphrases her conviction that "if we leave our positions, the enemy will come to our homes", with no source.
-
-### ostap-vyshnia — Остап Вишня
-- quote 1:
-  - uk: "У мене нема жодного сумніву в тому, що я народився, хоч і під час мого появлення на світ білий і потім — років, мабуть, із десять підряд — мати казали, що мене витягли з колодязя, коли напували корову Оришку."
-  - en: "I have no doubt whatsoever that I was born, even though at the time of my appearance in this world, and for about ten years afterwards, my mother kept saying I'd been pulled out of the well while they were watering Oryshka the cow." (translation: ours)
-  - original_language: uk
-  - source_uk: "Гумореска «Моя автобіографія», 1927"
-  - source_en: "The humorous sketch My Autobiography, 1927"
-  - url: https://osvita.ua/school/literature/v/63907/ (full text, opening line)
-  - confidence: high. About 205 characters; it can be cut to "У мене нема жодного сумніву в тому, що я народився […]" if needed.
 
 ### pavlo-skoropadskyi — Павло Скоропадський
 - quote 1:
@@ -1037,26 +886,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### volodymyr-velykyi — Володимир Великий
 - none found
 - rejected: "Руси єсть веселіє питі…": these are words the chronicle (Повість минулих літ, 986) puts in his mouth, so they are not verifiable as his. Out of context they are also embarrassing.
-
-### volodymyr-vernadskyi — Володимир Вернадський
-- quote 1:
-  - uk: "Ноосфера — нове геологічне явище на нашій планеті. У ній людина вперше стає наймогутнішою геологічною силою. Вона може і мусить перебудовувати своєю працею і думкою сферу свого життя."
-  - en: "The noösphere is a new geological phenomenon on our planet. In it for the first time man becomes a large-scale geological force. He can and must rebuild the province of his life by his work and thought." (translation: published, George Vernadsky's translation in American Scientist, vol. 33, no. 1, January 1945)
-  - original_language: ru (Ukrainian is ours, made from the published English and the known Russian text "…впервые человек становится крупнейшей геологической силой…")
-  - source_uk: "Стаття «Кілька слів про ноосферу», 1944"
-  - source_en: "The essay \"The Biosphere and the Noösphere\" (\"A Few Words about the Noösphere\"), written 1943, published 1944–45"
-  - url: https://monoskop.org/images/5/59/Vernadsky_WI_1945_The_Biosphere_and_the_Noosphere.pdf (JSTOR scan of the American Scientist article; I extracted the text and checked the wording)
-  - confidence: high (English); medium for the exact Ukrainian wording (ours)
-- quote 2:
-  - uk: "Сила людства — не в його масі, а в його мозку. Якщо людина це зрозуміє і не використає свій мозок і свою працю для самознищення, перед нею відкривається величезне майбутнє."
-  - en: "Its strength is derived not from its matter, but from its brain. If man understands this, and does not use his brain and his work for self-destruction, an immense future is open before him in the geological history of the biosphere." (translation: published, American Scientist, 1945)
-  - original_language: ru (Ukrainian is ours)
-  - source_uk: "Стаття «Кілька слів про ноосферу», 1944"
-  - source_en: "The essay \"The Biosphere and the Noösphere\", 1944–45"
-  - url: same as quote 1
-  - confidence: high (English); medium (Ukrainian wording, ours)
-- also from the same essay, the closing lines: "Therefore we may face the future with confidence. It is in our hands. We will not let it go."
-- rejected: the "freedom of thought / dreamers" lines from depo.ua listicles, which have no primary source. His 1918–1919 diary lines on Ukraine (Istorychna Pravda, 2019) do have sources, but are too ambiguous out of context.
 
 ### yaroslav-mudryi — Ярослав Мудрий
 - none found as his own verifiable words

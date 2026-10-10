@@ -14,6 +14,9 @@ key_accomplishments:
   - "A co-founder of the National Library of Ukraine (1918)"
 birthplace_name: "Saint Petersburg (Russia)"
 image_alt: "Photograph of Volodymyr Vernadskyi, 1934"
+quotes:
+  - text: "Therefore we may face the future with confidence. It is in our hands. We will not let it go."
+    source: "The essay A Few Words about the Noösphere, 1944 (English as published in American Scientist, 1945)"
 ---
 
 ## A Petersburger with Poltava summers

@@ -11,6 +11,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, Decree No. 467/2025 of 8 July 2025)"
 birthplace_name: "Vinnytsia"
 image_alt: "Portrait of Nazarii Hryntsevych"
+quotes:
+  - text: "Whatever happens to you, love your mum, eat your porridge and love Ukraine."
+    source: "Video address to Ukrainians before the battles in Mariupol, spring 2022 (reported by Ukrainska Pravda)"
 ---
 
 ## “I’m an ordinary soldier”

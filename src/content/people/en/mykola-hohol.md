@@ -13,6 +13,9 @@ key_accomplishments:
   - "The story The Overcoat (1842), which influenced world literature"
 birthplace_name: "Velyki Sorochyntsi"
 image_alt: "Portrait of Nikolai Gogol by Fyodor Moller, 1840"
+quotes:
+  - text: "Wondrous is the Dnipro in calm weather, when it rushes its full waters freely and smoothly through forests and hills."
+    source: "The story A Terrible Vengeance, 1832 (translated from Russian)"
 ---
 
 ## A flop, then fame

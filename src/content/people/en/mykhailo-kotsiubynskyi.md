@@ -11,6 +11,9 @@ key_accomplishments:
   - "Headed the Prosvita society in Chernihiv (1906–1908)"
 birthplace_name: "Vinnytsia"
 image_alt: "Photograph of Mykhailo Kotsiubynskyi, Chernihiv, before 1913"
+quotes:
+  - text: "Now I have a world of my own, like a pearl shell: two halves have closed their edges, one green, the other blue, and locked the sun inside like a pearl."
+    source: "The novella Intermezzo, 1908"
 ---
 
 ## A tutor under police watch

@@ -44,6 +44,9 @@ key_accomplishments:
   - "Старший сержант 36-ї окремої бригади морської піхоти, учасник оборони Маріуполя та «Азовсталі» (2022)"
   - "Повернувся з російського полону під час обміну 21 вересня 2022 року"
   - "Передав 23,4 мільйона гривень, зібраних на його лікування, на лікування побратимів (жовтень 2022)"
+quotes:
+  - text: "Був український прапор. Хотів заплакати, але сліз не було."
+    source: "Про повернення з полону, розповідь для «Вікон» (СТБ), жовтень 2022"
 sources:
   - title: "The Kyiv Independent - Ukraine returns 215 POWs, including Azovstal defenders, from Russian captivity (21 September 2022)"
     url: "https://kyivindependent.com/news-feed/ukraine-returns-some-azovstal-defenders-from-russian-captivity"

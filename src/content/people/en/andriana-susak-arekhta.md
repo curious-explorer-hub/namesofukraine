@@ -15,6 +15,9 @@ image_alt: "Andriana Susak-Arekhta in pixel camouflage, arms crossed and smiling
 gallery:
   - alt: "A black poster reading “Invisible Battalion”: six drawn faces of the women featured, above them “3 directors, 9 women’s views of war, 6 heroines”, below the names of the directors Alina Horlova, Iryna Tsilyk and Svitlana Lishchynska"
     caption: "Poster for the film “Invisible Battalion”"
+quotes:
+  - text: "[…] only I get to decide what my life should be. I was born free, I am free, and I will die free."
+    source: "Story for the UN Women campaign 12 Voices, October 2019"
 ---
 
 ## The seamstress who went on assaults
