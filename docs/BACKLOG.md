@@ -2,11 +2,12 @@
 
 Open and in-progress work only. What the site must do, the rules, and what's already built are in [product_vision.md](../product_vision.md) (built items: §10). When an item is done, add a line to §10 and remove it here.
 
-## Status (2026-10-08)
+## Status (2026-10-10)
 
 - **Live:** <https://namesofukraine.com> (since 2026-10-08; the soft-launch address `namesofukraine.pages.dev` redirects there), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
-- **Content:** 138 profiles published in Ukrainian and English; 15 drafts awaiting the owner's review.
-- **Next milestone:** public launch = social pages and promotion (L11, L13).
+- **Content:** 151 profiles published in Ukrainian and English; 22 drafts awaiting the owner's review.
+- **Social:** daily posts on Threads and Instagram (@names_of_ukraine) from monthly plans in `social/`; October–December planned, 83 of the 151 profiles used, 68 left (about two months).
+- **Next milestone:** public launch = the rest of L11 (Monobank jar, "join the team" in Tally) and promotion.
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
 
 ## Now: priorities
@@ -15,8 +16,9 @@ In order. Pick from the top.
 
 | # | Item                                                                              | Why now                                                                                                                                                    | Who            |
 |---|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| 1 | **Social and donation accounts** (L11, L13)                                       | Many readers, younger ones especially, find content on Instagram and Threads, not search. The About and Support pages are ready and show each link once its URL is set | Owner          |
-| 2 | **Content session** C1–C4 below, in order                                         | The catalogue and its links now limit the site more than features do                                                                                       | Code + content |
+| 1 | **Rest of L11:** Monobank jar, "join the team" in Tally                         | Instagram and Threads are live and linked; the Support page still says "coming soon" for Monobank                                                         | Owner          |
+| 2 | **Content session** C4–C6 below, and the 22 drafts                            | The catalogue and its links now limit the site more than features do, and daily posts use a profile a day: 68 unposted profiles last until about February | Code + content |
+| 3 | **Social upkeep:** January plan by 2026-12-31; both tokens refreshed by 2026-11-29 | Without a plan or with an expired token, nothing is posted, and only the account that last edited a schedule gets GitHub's failure email ([MAINTENANCE.md](MAINTENANCE.md)) | Owner + code   |
 
 ### Content session (owner, 2026-10-06)
 
@@ -32,21 +34,13 @@ In order. Pick from the top.
 
 ## Launch checklist
 
-- [ ] **L11. Social and support accounts.** Code done. Open: pick the social handle (`@znaisvoikh` or `@namesofukraine`), create Instagram, Threads and a Monobank jar («банка») (Patreon is set), and set their URLs in `src/site.ts` (`SOCIAL_LINKS`, `SUPPORT_LINKS`); until then the pages say "coming soon". In Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*
-- [ ] **L13. Instagram/Threads posts per batch** (D13-E). Share cards, fun facts and misconceptions are ready-made posts.
-  - **Agreed (owner, 2026-10-08):** two accounts, one on Instagram and one on Threads, posted to through the official APIs on their free tiers (Threads API: 250 posts a day; Instagram Content Publishing API: 100 a day, needs a Business or Creator account). No X for now: its API is pay-per-use, about $0.20 per post with a link.
-  - **On demand, not automatic.** A GitHub Actions workflow run by hand (`workflow_dispatch`) takes a profile URL, e.g. `https://namesofukraine.com/uk/people/<slug>/`. A script in `scripts/` reads the slug, loads that profile from the repo (name, years, role, summary) and publishes a post with the profile's share card (`/og/…`, already a public JPEG) and the link. The owner chooses when and which profile to post.
-  - **Scheduled: done for Threads** (2026-10-10). First manual post 2026-10-10; daily posts from [social/2026-10.txt](../social/2026-10.txt) from the 11th. Plan format in [PUBLISHING.md](PUBLISHING.md#posting-to-threads); token refresh and the monthly plan in [MAINTENANCE.md](MAINTENANCE.md). At the start of each month the owner commits a plan file listing one profile per day of the month (in post order). The same workflow also runs on a daily schedule (`cron`) and posts the profile for today's day number: entry 1 on the 1st, entry 2 on the 2nd, and so on. A day with no entry posts nothing. The manual run stays available for one-off posts.
-  - **Threads first** (links in the text are clickable), then Instagram. Instagram captions can't hold clickable links ("link in bio"), and its feed works better with a 4:5 card than the 1200×630 share card.
-  - Tokens go in GitHub Secrets, never in the repo. Meta's long-lived tokens last 60 days and need refreshing. The script only posts profiles with `status: approved` that are live on the site.
-  - **Ukrainian first:** posts use the Ukrainian text and the `/uk/` link, since Ukrainian readers are the primary audience. English may come later.
-  - **Instagram: done** (2026-10-10): 4:5 cards at `/og/instagram/<slug>.jpg`, `scripts/post-instagram.mjs`, the **Post to Instagram** workflow on the same daily schedule and monthly plan as Threads. First post (by hand) 2026-10-10.
-  - Open: the post template; automatic token refresh (manual every ~50 days for now, [MAINTENANCE.md](MAINTENANCE.md#every-50-days-refresh-the-threads-token)).
+- [ ] **L11. Social and support accounts.** Done: handle `@names_of_ukraine`, Instagram and Threads created and set in `src/site.ts`, Patreon set. Open: create a Monobank jar («банка») and set it in `SUPPORT_LINKS` (until then the Support page says "coming soon"); in Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*
 
 ## Ideas
 
 Not scheduled.
 
+- **I29. Social posts, next steps** (from L13). Automatic token refresh (a monthly workflow that refreshes both tokens and saves them back to the secrets, which needs a GitHub token that can write secrets) or a reminder run that fails 10 days before expiry; a richer post template (fun fact or misconception as a second post or carousel); English posts.
 - **I1. "Share this person" buttons** on profiles.
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked and was removed pending refinement; `places[]` and `quotes[]` exist in the schema but are empty. Open: keeping a timeline in sync with the prose; a real map vs a list of OpenStreetMap links; whether every profile needs all three.
 - **I16. "Most read".** (a) Private, now: Cloudflare Web Analytics → Top paths, adding the `/uk/` and `/en/` rows per person. (b) A public "Most read this month" row: a nightly GitHub Action reads the Web Analytics GraphQL API, writes `src/content/popular.json` and rebuilds (no server code; one read-only token). Only at a few hundred profile views a week.
