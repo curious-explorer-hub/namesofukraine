@@ -33,7 +33,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKurbasLes.htm"
   - title: "Велика українська енциклопедія - Курбас, Лесь"
     url: "https://vue.gov.ua/%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D1%81,_%D0%9B%D0%B5%D1%81%D1%8C"
-related: [oleksandr-dovzhenko, lesya-ukrainka, mykola-khvylovyi, ostap-vyshnia, mykola-zerov]
+related: [oleksandr-dovzhenko, lesya-ukrainka, mykola-khvylovyi, ostap-vyshnia, mykola-zerov, myroslav-irchan, maik-yohansen]
 collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z

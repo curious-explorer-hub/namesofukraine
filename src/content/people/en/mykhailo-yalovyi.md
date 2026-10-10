@@ -20,7 +20,7 @@ Yulian Shpol was the name on the books of one of the best-known writers in 1920s
 
 ## Futurist, poet, novelist
 
-In 1921 Yalovyi, Mykhailo Semenko and Vasyl Aleshko founded the Combat Group of Futurist Poets. Then came his poetry collection Verkhy (The Peaks, 1923), the comedy Katia’s Love, or Building Propaganda (1928) and the novel Golden Fox Cubs (1929).
+In 1921 Yalovyi, [Mykhailo Semenko](/en/people/mykhail-semenko/) and Vasyl Aleshko founded the Combat Group of Futurist Poets. Then came his poetry collection Verkhy (The Peaks, 1923), the comedy Katia’s Love, or Building Propaganda (1928) and the novel Golden Fox Cubs (1929).
 
 ## VAPLITE and Khvylovy
 

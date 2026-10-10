@@ -32,7 +32,7 @@ In 1917 Boichuk became one of the founders of the Ukrainian Academy of Arts in K
 
 ## Arrest and execution
 
-On 25 November 1936 Boichuk was arrested. He was accused of “Ukrainian bourgeois nationalism” and of leading a made-up terrorist organization. On 13 July 1937 he was shot in Kyiv, on the same day as his students Ivan Padalka and Vasyl Sedliar. His wife, the artist Sofiia Nalepynska-Boichuk, was also shot later. Most of Boichuk’s works were destroyed: in 1952, 14 of his paintings were removed from the National Museum in Lviv and destroyed as “ideologically harmful”.
+On 25 November 1936 Boichuk was arrested. He was accused of “Ukrainian bourgeois nationalism” and of leading a made-up terrorist organization. On 13 July 1937 he was shot in Kyiv, on the same day as his students Ivan Padalka and Vasyl Sedliar. His wife, the artist [Sofiia Nalepynska-Boichuk](/en/people/sofiia-nalepynska-boichuk/), was also shot later. Most of Boichuk’s works were destroyed: in 1952, 14 of his paintings were removed from the National Museum in Lviv and destroyed as “ideologically harmful”.
 
 ## Why it matters today
 

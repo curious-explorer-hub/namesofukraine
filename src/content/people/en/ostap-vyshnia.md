@@ -21,7 +21,7 @@ In the 1920s, 23 of Ostap Vyshnia’s books went through 42 editions. Only Shevc
 
 In 1919, in Kamianets-Podilskyi, where the government of the Ukrainian People’s Republic was then based, he began publishing as P. Hrunskyi. In 1920 the Bolshevik security service jailed him; Vasyl Blakytnyi, editor of the newspaper Visti VUTsVK, helped get him out.
 
-From 1921 Kharkiv newspapers and magazines ran his feuilletons and “smiles”, now signed Ostap Vyshnia: about the village, language, Ukrainization and Russian great-power chauvinism. With Maik Yohansen and [Mykola Khvylovy](/en/people/mykola-khvylovyi/) he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
+From 1921 Kharkiv newspapers and magazines ran his feuilletons and “smiles”, now signed Ostap Vyshnia: about the village, language, Ukrainization and Russian great-power chauvinism. With [Maik Yohansen](/en/people/maik-yohansen/) and [Mykola Khvylovy](/en/people/mykola-khvylovyi/) he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
 
 ## Ten years in the North
 

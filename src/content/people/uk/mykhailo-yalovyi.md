@@ -36,7 +36,7 @@ sources:
     url: https://uk.wikipedia.org/wiki/Михайло_Яловий
   - title: "Finance.ua - НБУ ввів в обіг пам'ятні монети, присвячені митцям Розстріляного відродження"
     url: "https://news.finance.ua/ua/nbu-vviv-v-obih-pam-yatni-monety-prysvyacheni-mytcyam-rozstrilyanoho-vidrodzhennya-foto"
-related: [mykola-khvylovyi]
+related: [mykola-khvylovyi, mykhail-semenko]
 collections: [executed-renaissance]
 status: draft
 ---
@@ -47,7 +47,7 @@ status: draft
 
 ## Футурист, поет, романіст
 
-1921 року Яловий разом із Михайлем Семенком і Василем Алешком заснував «Ударну групу поетів-футуристів». Потім вийшли його збірка поезій «Верхи» (1923), комедія «Катина любов, або Будівельна пропаганда» (1928) і роман «Золоті лисенята» (1929).
+1921 року Яловий разом із [Михайлем Семенком](/uk/people/mykhail-semenko/) і Василем Алешком заснував «Ударну групу поетів-футуристів». Потім вийшли його збірка поезій «Верхи» (1923), комедія «Катина любов, або Будівельна пропаганда» (1928) і роман «Золоті лисенята» (1929).
 
 ## ВАПЛІТЕ і Хвильовий
 

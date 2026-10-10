@@ -36,7 +36,7 @@ sources:
     url: "http://history.org.ua/?termin=Solovetski_rozstrily_1937"
   - title: Вікіпедія - Зеров Микола Костянтинович
     url: https://uk.wikipedia.org/wiki/Микола_Зеров
-related: [mykola-khvylovyi, les-kurbas, lesya-ukrainka, ivan-franko]
+related: [mykola-khvylovyi, les-kurbas, lesya-ukrainka, ivan-franko, maksym-rylskyi, yurii-klen, pavlo-fylypovych, mykhailo-drai-khmara, hryhorii-kosynka]
 collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z

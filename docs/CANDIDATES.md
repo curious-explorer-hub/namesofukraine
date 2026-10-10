@@ -118,7 +118,7 @@ Owner request: people for three proposed collections (BACKLOG C5) and a list of 
 
 #### Roster check (2026-10-10)
 
-About 45 names checked against the Internet Encyclopedia of Ukraine and the ЕІУ articles «Розстріляне відродження» (О. Рубльов) and «Соловецькі розстріли 1937–1938» (Ю. Шаповал); ESU was rate-limited, so open each person's ESU article before drafting. Oblasts are mapped from historical county names: check. Drafted on branch `collections-drafts`: Куліш, Підмогильний, Яловий, Бойчук. Existing profiles: `ahatanhel-krymskyi` fits (arrested 1941, died in custody 1942; owner: add him to the collection?); `mykhailo-hrushevskyi` is a loose fit (older generation, statesman); Филипович, Драй-Хмара and Рильський fit both collections.
+About 45 names checked against the Internet Encyclopedia of Ukraine and the ЕІУ articles «Розстріляне відродження» (О. Рубльов) and «Соловецькі розстріли 1937–1938» (Ю. Шаповал); ESU was rate-limited, so open each person's ESU article before drafting. Oblasts are mapped from historical county names: check. Drafted on branch `collections-drafts`: Куліш, Підмогильний, Яловий, Бойчук, and all 12 ranked below (2026-10-10); the neoclassicists Рильський, Филипович, Драй-Хмара and Клен are drafted there too. Existing profiles: `ahatanhel-krymskyi` fits (arrested 1941, died in custody 1942; owner: add him to the collection?); `mykhailo-hrushevskyi` is a loose fit (older generation, statesman); Филипович, Драй-Хмара and Рильський fit both collections.
 
 | Rank | Person | Years | Fate | Free portrait | Flags |
 |---|---|---|---|---|---|

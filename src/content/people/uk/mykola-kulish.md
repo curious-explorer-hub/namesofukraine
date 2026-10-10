@@ -35,7 +35,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKulishMykola.htm"
   - title: Вікіпедія - Куліш Микола Гурович
     url: https://uk.wikipedia.org/wiki/Микола_Куліш
-related: [les-kurbas, mykola-khvylovyi, les-taniuk, mykola-zerov, valerian-pidmohylnyi]
+related: [les-kurbas, mykola-khvylovyi, les-taniuk, mykola-zerov, valerian-pidmohylnyi, myroslav-irchan, pavlo-fylypovych, oleksa-slisarenko, valerian-polishchuk]
 collections: [executed-renaissance]
 status: draft
 ---

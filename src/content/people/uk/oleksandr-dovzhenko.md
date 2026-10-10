@@ -34,7 +34,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CD%5CO%5CDovzhenkoOleksander.htm"
   - title: Вікіпедія - Довженко Олександр Петрович
     url: https://uk.wikipedia.org/wiki/Олександр_Довженко
-related: [les-kurbas, oleksandr-arkhypenko, ivan-mykolaichuk, mykola-vinhranovskyi]
+related: [les-kurbas, oleksandr-arkhypenko, ivan-mykolaichuk, mykola-vinhranovskyi, maik-yohansen]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

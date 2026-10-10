@@ -34,7 +34,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CI%5CPidmohylnyValeriian.htm"
   - title: Вікіпедія - Підмогильний Валер'ян Петрович
     url: https://uk.wikipedia.org/wiki/Валер'ян_Підмогильний
-related: [mykola-kulish, mykola-zerov, les-kurbas]
+related: [mykola-kulish, mykola-zerov, les-kurbas, yevhen-pluzhnyk, hryhorii-kosynka, valerian-polishchuk]
 collections: [executed-renaissance]
 status: draft
 ---

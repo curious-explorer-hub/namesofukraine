@@ -35,7 +35,7 @@ sources:
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=DOP&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Ukrainka_Lesia"
   - title: Вікіпедія - Леся Українка
     url: https://uk.wikipedia.org/wiki/Леся_Українка
-related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov, ahatanhel-krymskyi]
+related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov, ahatanhel-krymskyi, liudmyla-starytska-cherniakhivska]
 collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
