@@ -37,4 +37,4 @@ Vernadskyi’s views on the Ukrainian question were moderate: he was a liberal, 
 
 ## Why it matters today
 
-Vernadskyi’s ideas influenced modern ecological thinking. The National Library of Ukraine, which he helped found, bears his name.
+Vernadskyi’s ideas influenced modern ecological thinking. The National Library of Ukraine, which he helped found, bears his name, and since 2019 his portrait has been on the 1,000-hryvnia banknote.

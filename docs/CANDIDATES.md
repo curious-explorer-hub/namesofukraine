@@ -59,7 +59,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Захисники Азовсталі | 2022 | Collective | 👥 | See Collectives |
 | Невідомий солдат | | Collective | 👥 | Not a person; see Collectives |
 
-**Existing profiles to label** (owner to confirm): `ahatanhel-krymskyi` for `executed-renaissance` (arrested 1941, died in custody 1942); `iryna-tsvila` (photographed the Maidan) and `sviatoslav-horbenko` (Kharkiv Euromaidan self-defence) for `civic-icons`.
 
 ## Don't add
 

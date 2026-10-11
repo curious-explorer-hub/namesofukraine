@@ -35,7 +35,7 @@ sources:
   - title: "Книга пам'яті полеглих за Україну - Горбенко Святослав (Скельд)"
     url: "https://memorybook.org.ua/soldiers/sviatoslav-s-horbenko"
 related: [serhii-tabala]
-collections: [donetsk-airport]
+collections: [donetsk-airport, civic-icons]
 status: draft
 ---
 

@@ -122,7 +122,6 @@
     },
     {
       "id": "executed-renaissance",
-      "draft": true,
       "label": {
         "uk": "Розстріляне відродження",
         "en": "The Executed Renaissance"
@@ -134,15 +133,15 @@
       "image": {
         "file": "executed-renaissance.jpg",
         "caption": {
-          "uk": "Члени ВАПЛІТЕ, Харків, близько 1926–1927 років",
-          "en": "Members of VAPLITE, Kharkiv, around 1926–1927"
+          "uk": "Ілюстрація до добірки «Розстріляне відродження»: розбиті постаті, з яких виривається потік літер, книжок і нот",
+          "en": "Illustration for the Executed Renaissance collection: shattered figures from which a stream of letters, books and music bursts out"
         },
         "author": {
-          "uk": "Невідомий автор",
-          "en": "Unknown author"
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
         },
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:VAPLITE_-_Kharkiv.jpg"
+        "license": "AI-generated",
+        "source_url": ""
       }
     },
     {

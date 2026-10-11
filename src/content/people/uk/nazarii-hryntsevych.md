@@ -35,6 +35,7 @@ sources:
   - title: "Українська правда - інтерв'ю з Назарієм Гринцевичем (2023)"
     url: "https://www.pravda.com.ua/articles/2023/08/3/7413772/"
 related: [oleksandr-matsiievskyi, vasyl-stus, denys-prokopenko]
+collections: [defenders-mariupol]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

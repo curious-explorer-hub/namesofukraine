@@ -34,6 +34,7 @@ sources:
   - title: Вікіпедія - Степанів Олена Іванівна
     url: https://uk.wikipedia.org/wiki/Степанів_Олена_Іванівна
 related: []
+collections: [women-army]
 status: approved
 published: 2026-10-08T04:31:23Z
 ---

@@ -41,6 +41,7 @@ sources:
   - title: Вікіпедія - Кримський Агатангел Юхимович
     url: https://uk.wikipedia.org/wiki/Агатангел_Кримський
 related: [volodymyr-vernadskyi, lesya-ukrainka, ivan-franko, mykhailo-drahomanov, pavlo-skoropadskyi]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

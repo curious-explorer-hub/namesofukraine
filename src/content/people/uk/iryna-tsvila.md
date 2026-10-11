@@ -37,7 +37,7 @@ sources:
   - title: "Меморіал - Цвіла Ірина"
     url: "https://memorial.ua/obituaries/militaries/tsvila-iryna-6639"
 related: []
-collections: [women-army]
+collections: [women-army, civic-icons]
 status: approved
 published: 2026-10-08T02:15:34Z
 ---

@@ -35,7 +35,7 @@ sources:
   - title: "АрміяInform - Найстарший «кіборг»"
     url: "https://armyinform.com.ua/2020/01/23/najstarshyj-kiborg/"
 related: [sviatoslav-horbenko]
-collections: [donetsk-airport]
+collections: [donetsk-airport, civic-icons]
 status: draft
 ---
 

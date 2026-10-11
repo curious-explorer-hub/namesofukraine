@@ -36,7 +36,10 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CE%5CVernadskyVolodymyr.htm"
   - title: Вікіпедія - Вернадський Володимир Іванович
     url: https://uk.wikipedia.org/wiki/Володимир_Вернадський
+  - title: "ZAXID.NET - НБУ запроваджує в обіг банкноти по 1000 грн"
+    url: "https://zaxid.net/nbu_zaprovadzhuye_v_obig_kupyuri_u_1000_grn_n1484096"
 related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi, ahatanhel-krymskyi, oleksandr-bohomolets]
+collections: [money-people]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
@@ -59,4 +62,4 @@ published: 2026-10-07T06:23:13Z
 
 ## Чому це важливо сьогодні
 
-Ідеї Вернадського вплинули на сучасну екологічну думку. Його ім'я носить Національна бібліотека України, яку він допоміг заснувати.
+Ідеї Вернадського вплинули на сучасну екологічну думку. Його ім'я носить Національна бібліотека України, яку він допоміг заснувати, а з 2019 року його портрет - на банкноті 1000 гривень.
