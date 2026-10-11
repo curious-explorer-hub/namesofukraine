@@ -10,7 +10,7 @@ key_accomplishments:
   - "Twice elected to Zaporizhzhia city council (2015, 2020)"
   - "Order for Courage, 3rd class, and 2nd class (posthumously, decree No. 805/2022 of 28 November 2022)"
 birthplace_name: "Ivanivka, Zaporizhzhia region"
-image_alt: "Black-and-white portrait of Viacheslav Zaitsev with his arms crossed, wearing a diamond-patterned sweater"
+image_alt: "Viacheslav Zaitsev with his arms crossed, wearing a diamond-patterned sweater, by a river"
 ---
 
 ## The grenadier who got on the enemy’s nerves

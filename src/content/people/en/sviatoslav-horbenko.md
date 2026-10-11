@@ -11,7 +11,7 @@ key_accomplishments:
   - "Defended Donetsk airport from the end of September 2014"
   - "Hero of Ukraine with the Order of the Gold Star (decree No. 449/2021 of 28 August 2021, posthumously)"
 birthplace_name: "Poltava"
-image_alt: "Sviatoslav Horbenko in a helmet, body armor and a scarf"
+image_alt: "Sviatoslav Horbenko in camouflage uniform and a cap, holding a rifle"
 ---
 
 ## Four languages and one war

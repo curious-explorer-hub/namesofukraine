@@ -18,8 +18,10 @@ image:
   alt: "Олег Мікац у військовій формі й шапці на березі водойми"
   position: "60% 30%"
   author: "Міністерство оборони України"
-  license: "CC BY-SA 2.0"
+  license: "Fair use"
   source_url: "https://commons.wikimedia.org/wiki/File:Міжнародне_навчання_«Світла_лавина_–_2018»_за_участю_підрозділів_багатонаціонального_інженерного_батальйону_«Тиса»_(45133786201).jpg"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "У Збройних силах України з 1992 року; випускник Харківського вищого танкового командного училища (1996)"
   - "Командир 93-ї окремої механізованої бригади (з літа 2013 року); у липні 2014-го бригада взяла під контроль Піски й Первомайське"
@@ -37,7 +39,8 @@ sources:
     url: "https://web.archive.org/web/20141217001928/http://www.cvk.gov.ua/pls/vnd2014/WP407?PT001F01=910&pf7201=12598"
 related: []
 collections: [donetsk-airport]
-status: draft
+status: approved
+published: 2026-10-11T19:07:13Z
 ---
 
 ## Генерал без радянського минулого

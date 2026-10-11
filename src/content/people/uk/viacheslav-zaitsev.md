@@ -18,11 +18,13 @@ key_accomplishments:
 birthplace: { name: "Іванівка, Запорізька область", region: zaporizhzhia, country: UA }
 image:
   src: ./images/viacheslav-zaitsev.jpg
-  alt: "Чорно-білий портрет В'ячеслава Зайцева зі схрещеними руками, у светрі з ромбами"
+  alt: "В'ячеслав Зайцев зі схрещеними руками, у светрі з ромбами, на березі річки"
   position: "50% 25%"
   author: "Анатолій Волков (Anatoliy Volkov)"
-  license: "CC BY-SA 4.0"
+  license: "Fair use"
   source_url: "https://commons.wikimedia.org/wiki/File:Zaitcev01.jpg"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Українська бібліотечна енциклопедія - Зайцев В'ячеслав Олексійович"
     url: "https://ube.nlu.org.ua/article/%D0%97%D0%B0%D0%B9%D1%86%D0%B5%D0%B2%20%D0%92'%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%20%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87"
@@ -34,7 +36,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/news-khortytsia-pamyatnyi-znak-zaporizkyi-kiborh-vyacheslav-zaitsev/33449954.html"
 related: [valerii-chybinieiev, pavlo-chaika]
 collections: [donetsk-airport]
-status: draft
+status: approved
+published: 2026-10-11T19:07:13Z
 ---
 
 ## Гранатометник, який «дістав» ворога

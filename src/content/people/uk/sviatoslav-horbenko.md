@@ -12,11 +12,11 @@ summary: "Студент-японіст, який вільно говорив а
 fun_fact: "У Київському університеті імені Тараса Шевченка, де Святослав вивчав японську, його ім'я носить аудиторія Інституту філології, а 2019 року на його честь там посадили сакуру."
 image:
   src: ./images/sviatoslav-horbenko.jpg
-  alt: "Святослав Горбенко в шоломі, бронежилеті й шарфі"
-  position: "50% 30%"
+  alt: "Святослав Горбенко в камуфляжній формі й кепці, зі зброєю в руках"
+  position: "45% 20%"
   author: "Невідомий автор"
   license: "Fair use"
-  source_url: "https://memorybook.org.ua/soldiers/sviatoslav-s-horbenko"
+  source_url: "https://knu.ua/ua/virtual-memorial/gorbenko/"
   fair_use: true
 key_accomplishments:
   - У 15 років закінчив Полтавський ліцей імені Івана Котляревського; навчався в Харкові, а з квітня 2014 року - на японістиці в Інституті філології Київського університету
@@ -36,7 +36,8 @@ sources:
     url: "https://memorybook.org.ua/soldiers/sviatoslav-s-horbenko"
 related: [serhii-tabala]
 collections: [donetsk-airport, civic-icons]
-status: draft
+status: approved
+published: 2026-10-11T19:07:13Z
 ---
 
 ## Чотири мови й одна війна
