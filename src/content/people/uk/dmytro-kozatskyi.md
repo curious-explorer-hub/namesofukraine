@@ -36,6 +36,9 @@ gallery:
     author: "Дмитро Козацький"
     license: "Fair use"
     source_url: "https://adamovskiy.foundation/wp-content/uploads/2025/01/655aa32b6f1491000f33ee2b_optimized.jpeg"
+quotes:
+  - text: "Ну от і все. Дякую за прихисток Азовсталь – місце моєї смерті і мого життя."
+    source: "Допис у Twitter перед виходом з «Азовсталі» в полон, 20 травня 2022"
 sources:
   - title: "Указ Президента України № 256/2022 «Про відзначення державними нагородами України» (17 квітня 2022)"
     url: "https://zakon.rada.gov.ua/laws/show/256/2022"

@@ -11,6 +11,9 @@ key_accomplishments:
   - "Hero of Ukraine (2007); Order of Merit, 3rd class (1997)"
 birthplace_name: "Vladikavkaz"
 image_alt: "Viacheslav Briukhovetskyi in academic dress, 2009"
+quotes:
+  - text: "Yes, they were given freedom, allowed to be free. But often they don't fully understand that you have to take responsibility for your freedom."
+    source: "Interview on the NaUKMA website, April 2016 (on students)"
 ---
 
 ## “I am starting work as rector”

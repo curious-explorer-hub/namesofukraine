@@ -12,6 +12,9 @@ key_accomplishments:
   - "Survived 120 days in solitary confinement in Russian captivity; freed in an exchange in 2022"
 birthplace_name: "Kyiv"
 image_alt: "Bearded Illia Samoilenko in camouflage with “Samoilenko” and “Azov” name tapes, in front of the red building of Kyiv University"
+quotes:
+  - text: "Surrender is not an option because Russia is not interested in our lives."
+    source: "Online press conference from besieged Azovstal, 8 May 2022"
 ---
 
 ## A hook for a hand

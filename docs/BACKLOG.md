@@ -22,14 +22,10 @@ In order. Pick from the top.
 
 ### Content session (owner, 2026-10-06)
 
-- **C5. Three new collections** (owner, 2026-10-08). People and notes: [CANDIDATES.md](CANDIDATES.md#new-collections-and-owner-list-2026-10-08).
-  - `executed-renaissance`, «Розстріляне відродження» / "The Executed Renaissance". On the site: Хвильовий, Курбас, Зеров, Остап Вишня. To draft: Куліш, Підмогильний, Яловий, Бойчук.
-  - `neoclassicists`, «Київські неокласики» / "The Kyiv Neoclassicists". On the site: Зеров. To draft: Рильський, Филипович, Драй-Хмара, Клен.
-  - Civic icons, from «Україна без Кучми» to the Maidan (id and name to pick). On the site: Руслана, Ратушний, Стерненко (draft). To draft: Гонгадзе, Гандзюк, Костенко; owner decisions on Найєм, Сольчаник.
-  - Each needs a `collections.json` entry (label, description, freely licensed image) before profiles can list it in `collections:` (the schema only accepts known ids).
-- **C6. Two more collections** (owner, 2026-10-09). People and notes: [CANDIDATES.md](CANDIDATES.md#more-collection-ideas-2026-10-09).
-  - `bakhmut`, «Бахмут» / "The Battle for Bakhmut". On the site: Коцюбайло, Мацієвський, Межевікін (draft). Needs new candidates.
-  - `heroes-of-ukraine`, «Герої України» / "Heroes of Ukraine". About 60 profiles mention the title; confirm each by decree (Бандера's award was annulled). Owner: a collection, or a filter backed by an `awards:` field.
+- **C5. Collections waiting on approvals.** `executed-renaissance` and `civic-icons` are draft collections (`"draft": true` in `collections.json`, hidden on the site) until enough members are approved; remove the flag to publish. `neoclassicists` is live.
+- **C6. Two more collections** (owner, 2026-10-09).
+  - `bakhmut`, «Бахмут» / "The Battle for Bakhmut" (2022–23). To label: `dmytro-kotsiubailo`, `oleksandr-matsiievskyi`, `yevhen-mezhevikin` (draft); check `oksana-rubaniak` (draft; only mentions driving ammunition towards Bakhmut); not `oleksandr-trepak` (killed in 2014). Needs new candidates: research Heroes of Ukraine decrees and unit histories for Aug 2022 – May 2023.
+  - `heroes-of-ukraine`, «Герої України» / "Heroes of Ukraine". About 60 profiles mention the title; confirm each by decree, and leave out `stepan-bandera` (the 2010 decree was ruled unlawful) and anyone whose profile mentions the title without saying they got it; check `roman-shukhevych` (2007 award challenged in court). Owner: a collection, or a home-page filter backed by an `awards:` field (schema change).
 - **C4. Grow the candidate list.** Beyond the NV, ВУ and Rubryka lists: encyclopedias (ESU, Encyclopedia of Ukrainian History), state awards (Shevchenko Prize, Hero of Ukraine), diaspora, science and sport halls of fame, regional figures for empty oblasts (Kherson, Odesa, Zakarpattia, Luhansk and others), women and living people. Each with years, field, era, source and links (C2c).
 
 ## Launch checklist

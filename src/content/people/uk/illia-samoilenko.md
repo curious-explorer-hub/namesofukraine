@@ -28,6 +28,9 @@ image:
   license: "Fair use"
   source_url: "https://www.kyivpost.com/uk/post/56392"
   fair_use: true
+quotes:
+  - text: "Здатися — не варіант, бо Росію не цікавлять наші життя."
+    source: "Онлайн-пресконференція з обложеної «Азовсталі», 8 травня 2022"
 sources:
   - title: "Указ Президента України № 256/2022 «Про відзначення державними нагородами України» (17 квітня 2022)"
     url: "https://zakon.rada.gov.ua/laws/show/256/2022"

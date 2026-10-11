@@ -12,6 +12,9 @@ key_accomplishments:
   - "Borys Hrinchenko Prize (2008) and Ivan Ohiienko Prize (2016)"
 birthplace_name: "Lviv"
 image_alt: "Portrait of a smiling Iryna Farion at the Second Bandera Readings, 2015"
+quotes:
+  - text: "A nation is defined not by territory but by spirit and the will to be master of its own land."
+    source: "On historical choice and state-building"
 ---
 
 ## Language on posters

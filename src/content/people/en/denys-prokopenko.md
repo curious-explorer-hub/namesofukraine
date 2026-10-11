@@ -14,6 +14,9 @@ image_alt: "Denys Prokopenko in uniform in front of an Azov flag"
 videos:
   - title: "Denys Prokopenko and Serhii Volynskyi on the 36th Brigade's breakthrough"
     source: "Ukrinform"
+quotes:
+  - text: "[…] And until that happens, we will not stop and will not give up the fight. We will bring everyone back. And we will free every one of them."
+    source: "Post on the second anniversary of the Azovstal exit, about Azov fighters held captive, 20 May 2024"
 ---
 
 ## An English teacher who became a commander

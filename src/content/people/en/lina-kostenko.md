@@ -13,7 +13,7 @@ key_accomplishments:
   - "The novel in verse Berestechko, written mostly in the late 1960s and published in 1999"
   - "The novel Notes of a Ukrainian Madman (2011)"
 birthplace_name: "Rzhyshchiv"
-image_alt: "Lina Kostenko, photograph, 2006"
+image_alt: "Lina Kostenko in a grey jumper, portrait photograph"
 quotes:
   - text: "Poetry is always something unrepeatable, / some immortal touch upon the soul."
     source: "The poem Terrible Are Words When They Are Silent…"

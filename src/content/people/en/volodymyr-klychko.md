@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order of Freedom (2017)"
 birthplace_name: "Solnechnyi (now Zhangiztobe), Kazakhstan"
 image_alt: "Wladimir Klitschko at the Munich Security Conference, February 2023"
+quotes:
+  - text: "Truth is on our side. […] It's a fight between good and evil."
+    source: "Interview with CNN in Kyiv, March 2022"
 ---
 
 ## The medal that came back

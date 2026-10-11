@@ -16,11 +16,13 @@ misconception:
 birthplace: { name: "Ржищів", region: kyiv, country: UA, lat: 49.961, lon: 31.044 }
 image:
   src: ./images/lina-kostenko.jpg
-  alt: "Ліна Костенко, фотографія 2006 року"
-  position: "40% 30%"
-  author: "keymaster"
-  license: "GFDL 1.2"
-  source_url: "https://commons.wikimedia.org/wiki/File:Lina_Kostenko_(cropped).jpg"
+  alt: "Ліна Костенко в сірому светрі, портретна світлина"
+  position: "50% 30%"
+  author: "Невідомий автор (Аркуші)"
+  license: "Fair use"
+  ai_edit: colorized
+  source_url: "https://arkushi.com/poety/lina-kostenko/"
+  fair_use: true
 key_accomplishments:
   - Збірки «Проміння землі» (1957), «Вітрила» (1958) і «Мандрівки серця» (1961)
   - Історичний роман у віршах «Маруся Чурай» (1979) і Шевченківська премія (1987)

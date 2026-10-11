@@ -15,6 +15,9 @@ image_alt: "A smiling Dmytro Kozatskyi in a helmet and body armour among blossom
 gallery:
   - alt: "A beam of light falls through the shattered roof of a workshop into the darkness, onto a soldier standing with arms spread wide"
     caption: "The best-known shot of the series “The Light Will Win”. Azovstal, 2022"
+quotes:
+  - text: "Well, that's it. Thank you for the shelter, Azovstal, the place of my death and my life."
+    source: "Twitter post before leaving Azovstal for captivity, 20 May 2022"
 ---
 
 ## The eyes of Azovstal

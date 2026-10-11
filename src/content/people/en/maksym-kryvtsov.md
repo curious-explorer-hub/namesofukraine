@@ -12,6 +12,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, decree No. 608/2025 of 22 August 2025)"
 birthplace_name: "Rivne"
 image_alt: "Maksym Kryvtsov in military gear and ear protectors"
+quotes:
+  - text: "my torn-off arms / will sprout as violets in spring"
+    source: "The poem My Head Is Rolling…, from the collection Poems from the Embrasure, 2023"
 ---
 
 ## A poet with a camera

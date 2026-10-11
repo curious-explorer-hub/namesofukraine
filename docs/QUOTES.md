@@ -22,25 +22,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### anatolii-solovianenko — Анатолій Солов'яненко
 - none found (no direct quote of his in reputable media; the results were his son's recollections and dissertations)
 
-### andrii-pilshchykov — Андрій Пільщиков
-- quote 1:
-  - uk: "Як професіонали, ми маємо зберігати спокій і холодну голову."
-  - en: "As professionals, we should keep calm and keep our minds cold." (translation: original)
-  - original_language: en (interview given in English)
-  - source_uk: "Інтерв'ю журналістові Нолану Петерсону, березень 2022 (за CNN)"
-  - source_en: "Interview with journalist Nolan Peterson, March 2022 (as quoted by CNN)"
-  - url: https://localnews8.com/?p=1245762 (CNN Opinion piece by Nolan Peterson, syndicated via CNN Newsource, 1 September 2023)
-  - confidence: high
-- quote 2:
-  - uk: "Ми всі готові воювати. […] У нас чудовий бойовий дух."
-  - en: "All of us are ready to fight. […] We have great morale." (translation: original)
-  - original_language: en
-  - source_uk: "Інтерв'ю журналістові Нолану Петерсону, березень 2022 (за CNN)"
-  - source_en: "Interview with journalist Nolan Peterson, March 2022 (as quoted by CNN)"
-  - url: same as above
-  - confidence: medium (the full sentence goes on: "But it's also limited, because we don't want to die"; the cut is fair but changes the tone, so the editor should decide)
-- rejected: "Потрібна не лише якість, а й кількість" (on F-16s, 1+1/LIGA): verified in the headlines but not memorable, so not proposed.
-
 ### anna-yaroslavna — Анна Ярославна
 - none found
 - rejected: the "letter to her father" calling France a barbaric, backward country is a 19th-century fake. It matches neither 11th-century realities nor the style of the time (expert Oleksandr Titochka, as cited by Radio Svoboda: https://www.radiosvoboda.org/a/29305070.html). Her signature «Анна Ръина» is a document, not a quote.
@@ -77,44 +58,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### danylo-halytskyi — Данило Галицький
 - none found (his words survive only as retellings in the Galician-Volhynian Chronicle, not as his own words)
 
-### denys-prokopenko — Денис Прокопенко
-- quote 1:
-  - uk: "Ситуація вкрай складна, але, не дивлячись ні на що, ми продовжуємо виконувати наказ тримати оборону."
-  - en: "The situation is extremely difficult, but despite everything we continue to carry out the order to hold the defence." (translation: ours)
-  - original_language: uk
-  - source_uk: "Відеозвернення з «Азовсталі», 4 травня 2022"
-  - source_en: "Video address from Azovstal, 4 May 2022"
-  - url: https://24tv.ua/prodovzhuyemo-trimati-oboronu-komandir-oborontsiv-azovstali-zapisav_n1971507/amp
-  - confidence: medium (24 Kanal quoting Azov's Telegram; a second outlet would be good)
-- quote 2:
-  - uk: "[…] І поки цього не станеться, ми не зупинимось і не припинимо боротьбу. Ми повернемо всіх. І визволимо кожного."
-  - en: "[…] And until that happens, we will not stop and will not give up the fight. We will bring everyone back. And we will free every one of them." (translation: ours)
-  - original_language: uk
-  - source_uk: "Допис до другої річниці виходу з «Азовсталі» про полонених азовців, 20 травня 2024"
-  - source_en: "Post on the second anniversary of the Azovstal exit, about Azov fighters held captive, 20 May 2024"
-  - url: https://focus.ua/uk/voennye-novosti/647481-proyshlo-2-roki-prokopenko-z-azova-pokazav-foto-peregovoriv-pid-chas-bojiv-u-mariupoli-foto
-  - url 2: https://www.pravda.com.ua/news/2024/05/20/7456659/ (Ukrainska Pravda headline: «Ми не зупинимось, доки не повернемо всіх»; the page returned 403, so I couldn't open it)
-  - confidence: high
-
-### dmytro-kozatskyi — Дмитро Козацький
-- quote 1:
-  - uk: "Ну от і все. Дякую за прихисток Азовсталь – місце моєї смерті і мого життя."
-  - en: "Well, that's it. Thank you for the shelter, Azovstal, the place of my death and my life." (translation: ours)
-  - original_language: uk
-  - source_uk: "Допис у Twitter перед виходом з «Азовсталі» в полон, 20 травня 2022"
-  - source_en: "Twitter post before leaving Azovstal for captivity, 20 May 2022"
-  - url: https://armyinform.com.ua/2022/05/20/svitlo-peremozhe-temryavu-voyin-polku-azov-zrobyv-unikalne-foto-zahysnyka-mariupolya/
-  - url 2: https://life.pravda.com.ua/society/2022/05/20/248735/ (headline quotes "Місце моєї смерті і мого життя"; the page returned 403 to the fetcher)
-  - confidence: high
-- quote 2 (optional):
-  - uk: "Доречі, поки я буду в полоні, залишу вам фото в найкращій якості, відправляйте їх на всі журналістські премії і фотоконкурси […]"
-  - en: "By the way, while I'm in captivity I'll leave you the photos in the best quality; send them to every journalism award and photo contest […]" (translation: ours)
-  - original_language: uk
-  - source_uk: "Той самий допис, 20 травня 2022"
-  - source_en: "Same post, 20 May 2022"
-  - url: same ArmyInform link
-  - confidence: high ("Доречі" is his spelling; standard spelling is "До речі", so the editor should decide whether to keep it)
-
 ### dmytro-vyshnevetskyi — Дмитро Вишневецький (Байда)
 - none found (the song about Baida is folk, not his words; no reliably recorded words of his own)
 
@@ -148,47 +91,8 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### illia-riepin — Ілля Рєпін
 - none found (not searched deeply; no well-known, verifiable short quote surfaced. Lines about his "Little Russian" identity from his letters circulate without reliable sourcing, so avoid them.)
 
-### illia-samoilenko — Ілля Самойленко
-- quote 1:
-  - uk: "Здатися — не варіант, бо Росію не цікавлять наші життя."
-  - en: "Surrender is not an option because Russia is not interested in our lives." (translation: original)
-  - original_language: en (press conference held in English)
-  - source_uk: "Онлайн-пресконференція з обложеної «Азовсталі», 8 травня 2022"
-  - source_en: "Online press conference from besieged Azovstal, 8 May 2022"
-  - url: https://www.dailymaverick.co.za/article/2022-05-09-mariupol-steel-plants-dead-men-defenders-call-for-rescue-plan (Reuters copy)
-  - url 2: https://kyivindependent.com/azovstal-defenders-surrender-is-not-an-option/ ("Surrender is not an option.")
-  - confidence: high
-- quote 2:
-  - uk: "Багато хто називає нас героями. Ми робимо свою роботу. Героїзм з'являється тоді, коли планування й організація зазнають невдачі."
-  - en: "Many call us heroes. We do our job. Heroism comes when planning and organization fail." (translation: as published by Hromadske, which may have edited his spoken English)
-  - original_language: en
-  - source_uk: "Онлайн-пресконференція з обложеної «Азовсталі», 8 травня 2022"
-  - source_en: "Online press conference from besieged Azovstal, 8 May 2022"
-  - url: https://hromadske.ua/en/posts/defenders-of-mariupol-give-a-press-conference-at-besieged-azovstal-highlights
-  - confidence: medium (it's a "highlights" write-up, so the wording may not be verbatim)
-- rejected: "We are basically here dead men. Most of us know this and it's why we fight so fearlessly." (Reuters) is verified but too grim for young readers out of context.
-
 ### inna-derusova — Інна Дерусова
 - none found (sources give comrades' memories about her, not her own words)
-
-### iryna-farion — Ірина Фаріон
-- quote 1:
-  - uk: "Якщо ти маєш внутрішню волю, якщо ти самодостатній, то для тебе глухого кута взагалі в природі не існує."
-  - en: "If you have inner will, if you are self-sufficient, then for you there is no such thing as a dead end." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, квітень 2005"
-  - source_en: "Interview with Radio Svoboda, April 2005"
-  - url: https://www.radiosvoboda.org/a/929600.html
-  - confidence: high
-- quote 2:
-  - uk: "[…] мова є духовною капсулою, в якій цей народ здійснюється […]"
-  - en: "[…] language is the spiritual capsule in which this people comes into being […]" (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, квітень 2005"
-  - source_en: "Interview with Radio Svoboda, April 2005"
-  - url: same as above
-  - confidence: high
-- rejected: her best-known media statements (about Russian-speaking soldiers, about other nations and politicians) are deliberately left out: they are inflammatory, could be read as hateful, and are best covered in the «Дискусії та оцінки» section rather than as quotes. «Мова — твого життя основа» is the name of the poster contest she started in 1998 (Radio Svoboda 2005 confirms she initiated the contest), so it's a slogan rather than a personal quote. The sources don't prove she wrote it herself; don't present it as her quote.
 
 ### iryna-tsvila — Ірина Цвіла
 - quote 1:
@@ -323,21 +227,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Words quoted by Radio Svoboda in its obituary, July 2018"
   - url: https://www.radiosvoboda.org/a/29350518.html
   - confidence: medium (same block, no context; the full quote has a second sentence that this cuts)
-
-### maksym-kryvtsov — Максим Кривцов
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "«Я поверну собі своє життя / обіцяю»"
-  - source_uk: "Максим Кривцов, вірш «Я поверну собі своє життя…» (опубліковано «Буквами», 2024)"
-- review of the stashed quote: **problem, needs a fix.** (1) The wording holds up: the poem «Я поверну собі своє життя…» does contain «Я поверну собі своє життя / обіцяю» (checked in ELLE.ua's publication of the poem, Jan 2024). But inside the poem these words are an inscription he quotes ("написано маркером на стіні одного / популярного закладу Києва"), not his own declaration. Later the poem returns to "я поверну собі життя / я поверну собі життя?" and ends "Обіцяю." So the attribution needs care. (2) The `source` line repeats the person's name ("Максим Кривцов, вірш…"), which breaks the source-line rule. (3) I couldn't confirm "опубліковано «Буквами», 2024". The phrase is best known as the title of his posthumous photo exhibition, «Далі: я поверну собі своє життя, обіцяю» (Lviv, Odesa, Rivne, 2024). Suggested source line: «Вірш «Я поверну собі своє життя…», 2023–2024», and drop the Bukvy claim unless the owner has the link. Or replace the quote with quote 1 below.
-  - urls: https://elle.ua/ludi/novosty/maksim-krivcov-zaginuv-na-viyni-5-virshiv-poeta-ta-zahisnika-ukraini/ ; https://www.ofam.ua/exhibitions/dali-ya-povernu-sobi-svoie-zhittya-obicyayu
-- quote 1:
-  - uk: "мої руки відірвані / проростуть фіалками навесні"
-  - en: "my torn-off arms / will sprout as violets in spring" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Моя голова котиться…», збірка «Вірші з бійниці», 2023"
-  - source_en: "The poem My Head Is Rolling…, from the collection Poems from the Embrasure, 2023"
-  - url: https://www.radiosvoboda.org/a/maksym-kryvtsov-poet/32771318.html (Radio Svoboda, 12 Jan 2024); https://elle.ua/ludi/novosty/maksim-krivcov-zaginuv-na-viyni-5-virshiv-poeta-ta-zahisnika-ukraini/
-  - confidence: high for the wording. The collection attribution is medium: the line is widely tied to «Вірші з бійниці», but the sources I opened don't name the book. Also flag "руки відірвані" as somewhat graphic. It is his best-known line (a violet variety was later named after him), but it's the owner's call.
 
 ### maksym-yalovtsov — Максим Яловцов
 - none found. Reports of his death (Obozrevatel, FC Dynamo) quote his comrades, not him.
@@ -811,25 +700,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### vasyl-vyshyvanyi — Василь Вишиваний (Вільгельм Габсбург)
 - none found (his poetry collection «Минають дні…» (Vienna, 1921) is on chtyvo.org.ua as djvu/pdf, but no reputable source that I could open quotes specific lines; Radio Svoboda (Feb 2020) and gazeta.ua quote historians, not him. Lines could be taken straight from the 1921 edition if someone checks the scan by hand)
 
-### viacheslav-briukhovetskyi — В'ячеслав Брюховецький
-- quote 1:
-  - uk: "Так, їм дали свободу, дозволили бути вільними. Проте часто вони не до кінця розуміють, що за свою свободу потрібно нести відповідальність."
-  - en: "Yes, they were given freedom, allowed to be free. But often they don't fully understand that you have to take responsibility for your freedom." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю на сайті НаУКМА, квітень 2016 (про студентів)"
-  - source_en: "Interview on the NaUKMA website, April 2016 (on students)"
-  - url: https://www.ukma.edu.ua/index.php/news/2590-v-iacheslav-briukhovetskyi-ranishe-studenty-ishly-v-naukma-bo-khotily-vchytysia-zaraz-nam-zahrozhuie-moda-na-mohylianku
-  - confidence: high
-- quote 2:
-  - uk: "Раніше студенти йшли в НаУКМА, бо хотіли вчитися. Зараз нам загрожує мода на Могилянку."
-  - en: "Students used to come to NaUKMA because they wanted to learn. Now we are threatened by Mohyla becoming fashionable." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю на сайті НаУКМА, квітень 2016"
-  - source_en: "Interview on the NaUKMA website, April 2016"
-  - url: same as quote 1 (the line is in the body text and is also the headline)
-  - confidence: high
-- other options (Hromadske, 16 Oct 2015, https://hromadske.ua/posts/shakhy-polunytsia-ta-zrady-briukhovetskyi-pro-vidbudovu-mohylianskoi-akademii): "Щоб з Могилянки вийшов нобелівський лауреат"; "за 9 місяців ми відкрили університет" (seen through a fetch summary only, not checked word for word)
-
 ### vira-kholodna — Віра Холодна
 - none found (no reliably sourced words of hers; the press of the time, «Пегас» / «Кино-газета», is not available online)
 
@@ -874,24 +744,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://vogue.ua/article/culture/muzyka/ti-priznaysya-meni-zvidki-v-tebe-ti-chari-5-nayvidomishih-pisen-volodimira-ivasyuka-51517.html (the first line is the headline; the song is dated 1970). Authorship: ESU calls him a "композитор, поет-пісняр", https://esu.com.ua/article-13545
   - confidence: medium. The first line is confirmed by Vogue UA. The second line I could confirm only on a chords site, so check it against a recording or a songbook before use. If in doubt, use only the first line.
 - rejected: "Ми, українці, з колиски стаємо націоналістами, якщо матері співають нам українські колискові…": only on Wikiquote and a religious blog, with no date or outlet. Unverified.
-
-### volodymyr-klychko — Володимир Кличко
-- quote 1:
-  - uk: "Наше коріння тут, наші рідні поховані тут, у Києві. Наші рідні, наші друзі — кожна вулиця навіює спогади."
-  - en: "Our roots are here, our relatives are buried in the ground here, in Kyiv. Our relatives, our friends, every single street brings back memories." (translation: original)
-  - original_language: en
-  - source_uk: "Інтерв'ю CNN у Києві, березень 2022"
-  - source_en: "Interview with CNN in Kyiv, March 2022"
-  - url: https://abc17news.com/news/national-world/cnn-europe-mideast-africa/2022/03/24/a-fight-between-good-and-evil-the-klitschko-brothers-on-the-battle-for-ukraine/
-  - confidence: high
-- quote 2:
-  - uk: "Правда на нашому боці. […] Це боротьба добра зі злом."
-  - en: "Truth is on our side. […] It's a fight between good and evil." (translation: original)
-  - original_language: en
-  - source_uk: "Інтерв'ю CNN у Києві, березень 2022"
-  - source_en: "Interview with CNN in Kyiv, March 2022"
-  - url: same as quote 1
-  - confidence: high
 
 ### volodymyr-velykyi — Володимир Великий
 - none found

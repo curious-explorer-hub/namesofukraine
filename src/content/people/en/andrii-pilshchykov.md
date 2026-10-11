@@ -14,6 +14,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, 2024)"
 birthplace_name: "Kharkiv"
 image_alt: "Andrii Pilshchykov holding his flight helmet"
+quotes:
+  - text: "You can wait years for us to adapt, or you can give us the tools now, and we will do the job."
+    source: "On F-16 fighter jets and defending Ukraine’s skies"
 ---
 
 ## The boy who photographed planes
