@@ -17,10 +17,11 @@ places:
   - { name: "Сандармох", lat: 62.861, lon: 34.728, note: "місце розстрілу, 1937" }
 image:
   src: ./images/mykola-zerov.jpg
-  alt: "Микола Зеров, 1914–1915 роки"
-  author: "Антон Курко"
+  alt: "Микола Зеров, 1920-ті роки"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B5%D1%80%D0%BE%D0%B2_%D0%9C.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Zerov._1920-s.jpg"
 key_accomplishments:
   - "«Антологія римської поезії» (1920) - переклади Катулла, Верґілія, Горація, Овідія"
   - "Збірка поезій і перекладів «Камена» (1924); посмертні «Sonnetarium», «Catalepton», «Corollarium»"

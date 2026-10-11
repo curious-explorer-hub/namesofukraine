@@ -10,7 +10,7 @@ key_accomplishments:
   - "Shevchenko Prize (1988) and the title Hero of Ukraine (2006)"
   - "Posthumously given the presidential distinction National Legend of Ukraine (2024)"
 birthplace_name: "Nedilyshche"
-image_alt: "Nina Matviienko singing at the Young Halychyna festival, 2008"
+image_alt: "Nina Matviienko in an embroidered shirt and beads"
 quotes:
   - text: "When there are traditions, there is a nation, there is a people, there is a state […]"
     source: "Interview with Radio Svoboda before a concert in Prague, October 2019"

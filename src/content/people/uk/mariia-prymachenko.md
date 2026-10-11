@@ -13,12 +13,13 @@ fun_fact: "Від 1970-х років Примаченко писала на зв
 birthplace: { name: "Болотня", region: kyiv, country: UA, lat: 50.964, lon: 29.878 }
 image:
   src: ./images/mariia-prymachenko.jpg
-  alt: "Фотопортрет Марії Примаченко"
-  author: "Невідомий автор"
+  alt: "Марія Примаченко у вишитій сорочці й білій хустці, з медаллю"
+  position: "50% 20%"
+  author: "Невідомий автор (libr.dp.ua)"
   license: "Fair use"
   ai_edit: colorized
   fair_use: true
-  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D1%80%D0%B8%D0%B9%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C.jpg"
+  source_url: "https://www.libr.dp.ua/?do=ukrainica&lng=1&id=41&idg=380m"
 key_accomplishments:
   - "Понад 60 років творчості, понад 800 робіт; найбільша колекція - у Національному музеї українського народного декоративного мистецтва"
   - "Учасниця Всесвітньої виставки в Парижі (1937) та понад 120 виставок в Україні й за кордоном"

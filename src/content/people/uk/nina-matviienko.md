@@ -13,11 +13,13 @@ fun_fact: "Перш ніж потрапити на сцену, Ніна Матв
 birthplace: { name: "Неділище", region: zhytomyr, country: UA, lat: 50.755, lon: 28.054 }
 image:
   src: ./images/nina-matviienko.jpg
-  alt: "Ніна Матвієнко співає на фестивалі «Молода Галичина», 2008"
-  position: "50% 12%"
-  author: "BimbaUA"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%93_2008_(cropped).jpg"
+  alt: "Ніна Матвієнко у вишиванці й намисті"
+  position: "50% 15%"
+  author: "Невідомий автор (АрміяInform)"
+  license: "Fair use"
+  ai_edit: colorized
+  source_url: "https://armyinform.com.ua/2019/10/10/zolotyj-golos-ukrayiny-nina-matviyenko-vidznachaye-sogodni-den-narodzhennya/"
+  fair_use: true
 key_accomplishments:
   - Солістка Українського народного хору імені Григорія Верьовки (1968–1991) і тріо «Золоті ключі»
   - Перша виконавиця творів, написаних спеціально для неї, зокрема пісень Євгена Станковича, що ввійшли до фольк-опери «Цвіт папороті»

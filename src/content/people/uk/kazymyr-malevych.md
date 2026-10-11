@@ -19,7 +19,7 @@ image:
   alt: "Фотопортрет Казимира Малевича, бл. 1925"
   author: "Невідомий автор"
   license: "Public domain"
-  ai_edit: restored
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Casimir_Malevich_photo.jpg"
 key_accomplishments:
   - Заснував супрематизм - напрям геометричної абстракції (1915)

@@ -10,7 +10,7 @@ key_accomplishments:
   - "Shevchenko Republican Prize (1966); People’s Artist of the Ukrainian SSR (1988)"
   - "UNESCO declared 2009 the Year of Mariia Prymachenko"
 birthplace_name: "Bolotnia"
-image_alt: "Photographic portrait of Mariia Prymachenko"
+image_alt: "Mariia Prymachenko in an embroidered blouse and white headscarf, with a medal"
 quotes:
   - text: "I give red poppies to people, so they would love the holy land and work on it"
     source: "Her own caption on a painting of red poppies, 1985"

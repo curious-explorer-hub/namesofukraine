@@ -10,6 +10,7 @@ key_accomplishments:
   - "Shevchenko Prize (1986) and the title Hero of Ukraine (2003)"
   - "The autobiographical book I Am Your Cossack Woman, Ukraine (2003)"
 birthplace_name: "Koreshchyna"
+image_alt: "Raisa Kyrychenko in Ukrainian folk dress with flowers in her hair"
 ---
 
 ## From a factory choir to the big stage

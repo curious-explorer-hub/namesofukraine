@@ -11,7 +11,7 @@ key_accomplishments:
   - "The books New Ukrainian Writing (1924), To the Sources (1926) and From Kulish to Vynnychenko (1929)"
   - "The slogan “Ad fontes!” (“To the sources!”) in the 1925–1928 Literary Discussion"
 birthplace_name: "Zinkiv"
-image_alt: "Mykola Zerov, 1914–1915"
+image_alt: "Mykola Zerov, 1920s"
 ---
 
 ## The poet who brought back Rome

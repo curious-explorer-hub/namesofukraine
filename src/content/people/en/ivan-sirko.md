@@ -13,7 +13,7 @@ key_accomplishments:
   - "Several campaigns into Crimea, including one that reached Bakhchysarai, and against the Turkish fortresses of Ochakiv and Islam-Kermen"
   - "Together with the forces of Hetman Ivan Samoilovych, halted the Turkish and Tatar offensive during the Chyhyryn campaigns (1677–1678)"
 birthplace_name: "Unknown (according to different versions, Merefa in the Kharkiv region or Murafa in Podillia)"
-image_alt: "Otaman Ivan Sirko as imagined by Ilya Repin: a study for the painting Reply of the Zaporozhian Cossacks, 1889"
+image_alt: "Ivan Sirko: an imagined portrait made with AI"
 ---
 
 ## Two thousand people set free

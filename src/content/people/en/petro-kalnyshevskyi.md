@@ -11,7 +11,7 @@ key_accomplishments:
   - "Distinguished himself in the Russo-Turkish War of 1768–1774"
   - "Canonized by the Ukrainian Orthodox Church of the Kyiv Patriarchate as the Righteous Petro the Long-Suffering (2008)"
 birthplace_name: "Pustoviitivka"
-image_alt: "Petro Kalnyshevskyi, detail of an old icon by an unknown artist"
+image_alt: "Petro Kalnyshevskyi with a mace, portrait by an unknown artist"
 ---
 
 ## Otaman in defiance of an empress

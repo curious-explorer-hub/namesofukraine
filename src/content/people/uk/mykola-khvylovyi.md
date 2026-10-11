@@ -17,7 +17,7 @@ image:
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
-  ai_edit: restored
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:MykolaHvylovyukraine.jpg"
 key_accomplishments:
   - Збірки новел «Сині етюди» та «Осінь», новела «Я (Романтика)»

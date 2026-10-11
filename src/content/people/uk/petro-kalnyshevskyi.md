@@ -14,11 +14,12 @@ fun_fact: "Коли 1801 року новий імператор Олександ
 birthplace: { name: "Пустовійтівка", region: sumy, country: UA, lat: 50.778, lon: 33.575 }
 image:
   src: ./images/petro-kalnyshevskyi.jpg
-  alt: "Петро Калнишевський, фрагмент давньої ікони невідомого автора"
-  position: "50% 0%"
+  alt: "Петро Калнишевський з булавою, портрет невідомого автора"
+  position: "50% 15%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%BB%D0%BD%D0%B8%D1%88%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE.jpg"
+  ai_edit: colorized
+  source_url: "https://en.wikipedia.org/wiki/File:Kalnyshevsky.jpg"
 key_accomplishments:
   - "Кошовий отаман Запорозької Січі 1762 року і безперервно в 1765–1775 роках"
   - "Заохочував заселення запорозьких земель, хліборобство й торгівлю"
