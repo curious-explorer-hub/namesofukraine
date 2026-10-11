@@ -12,6 +12,9 @@ key_accomplishments:
   - "The poetry collection Palm Branches, the novel Andrii Lahovskyi, and translations from Arabic, Persian and Turkish"
 birthplace_name: "Volodymyr-Volynskyi (today Volodymyr)"
 image_alt: "Ahatanhel Krymskyi, a photograph from about 1900"
+quotes:
+  - text: "It would be easier to say which languages I don't know."
+    source: "From a letter (as cited by the National Museum of Literature of Ukraine)"
 ---
 
 ## How many languages can one person know?

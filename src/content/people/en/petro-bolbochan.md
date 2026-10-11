@@ -11,6 +11,9 @@ key_accomplishments:
   - "Commander of the Zaporozhian Corps and of the troops in Left-Bank Ukraine (autumn 1918)"
 birthplace_name: "Yarivka (Hyzhdevo)"
 image_alt: "Petro Bolbochan in uniform: an old photo turned by AI into a colour photo-like image"
+quotes:
+  - text: "We are fighting for an independent democratic Ukrainian Republic, not for a united Russia."
+    source: "Order to his troops, 1918–1919"
 ---
 
 ## Twenty Cossacks on a rail trolley

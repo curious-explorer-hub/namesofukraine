@@ -12,6 +12,9 @@ key_accomplishments:
   - "The Kyiv feature film studio was named after him in 1957"
 birthplace_name: "Viunyshche hamlet (now part of Sosnytsia)"
 image_alt: "Oleksandr Dovzhenko: Danylo Demutskyi’s photograph turned by AI into a photo-like image with an invented background"
+quotes:
+  - text: "A people that does not know its history is a people of the blind."
+    source: "From his notes"
 ---
 
 ## From cartoons to cinema

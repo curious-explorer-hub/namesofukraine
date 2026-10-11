@@ -11,6 +11,9 @@ key_accomplishments:
   - "Political Songs of the Ukrainian People in the 18th–19th Centuries and other works on folklore and history"
 birthplace_name: "Hadiach"
 image_alt: "Photograph of Mykhailo Drahomanov, 1870s"
+quotes:
+  - text: "Cosmopolitanism in the ideas and the ends, nationality in the ground and the forms."
+    source: "A slogan from his political writing"
 ---
 
 ## A lecturer is fired. What next?

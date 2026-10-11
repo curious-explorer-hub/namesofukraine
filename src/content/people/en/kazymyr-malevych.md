@@ -14,6 +14,9 @@ key_accomplishments:
   - "The books From Cubism to Suprematism (1916) and Suprematism (1920)"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Kazimir Malevich, c. 1925"
+quotes:
+  - text: "When the mind's habit of seeing depictions of corners of nature, Madonnas and shameless Venuses in paintings vanishes, only then will we see purely painterly works."
+    source: "The essay From Cubism and Futurism to Suprematism: The New Painterly Realism, 1915–1916 (translated from Russian)"
 ---
 
 ## The square that changed art

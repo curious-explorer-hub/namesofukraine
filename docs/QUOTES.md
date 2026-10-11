@@ -8,33 +8,12 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - **Confidence:** "high" means the wording was checked against the primary text or a reputable outlet quoting it; "medium" means a reputable outlet prints it without naming the primary source, so treat it as optional.
 - **English:** "ours" is our own translation; "published" names the translation used.
 
-### ahatanhel-krymskyi — Агатангел Кримський
-- quote 1:
-  - uk: "Легше буде сказати, яких мов я не знаю."
-  - en: "It would be easier to say which languages I don't know." (translation: ours)
-  - original_language: uk
-  - source_uk: "З листа (за матеріалами Національного музею літератури України)"
-  - source_en: "From a letter (as cited by the National Museum of Literature of Ukraine)"
-  - url: https://www.radiosvoboda.org/a/2276061.html (Радіо Свобода, quoting the letter; museum researcher Myroslava Tarakhan interviewed)
-  - url 2: https://gazeta.ua/articles/history/_legshe-bude-skazati-yakih-mov-ya-ne-znayu--146-rokiv-z-dnya-narodzhennya-agatangela-krimskogo/814679
-  - confidence: medium (the letter's recipient and date aren't named; the wording is consistent across sources)
-
 ### anatolii-solovianenko — Анатолій Солов'яненко
 - none found (no direct quote of his in reputable media; the results were his son's recollections and dissertations)
 
 ### anna-yaroslavna — Анна Ярославна
 - none found
 - rejected: the "letter to her father" calling France a barbaric, backward country is a 19th-century fake. It matches neither 11th-century realities nor the style of the time (expert Oleksandr Titochka, as cited by Radio Svoboda: https://www.radiosvoboda.org/a/29305070.html). Her signature «Анна Ръина» is a document, not a quote.
-
-### bohdan-khmelnytskyi — Богдан Хмельницький
-- quote 1:
-  - uk: "Я вже доказав, про що ніколи не мислив, докажу й далі, що задумав: виб'ю з лядської неволі народ весь руський."
-  - en: "I have already achieved what I never dreamed of; I will go on to achieve what I have set out to do: I will free the whole Ruthenian people from Polish bondage." (translation: ours)
-  - original_language: pl (recorded in the Polish diary of the royal embassy led by Adam Kysil, which included Wojciech Miaskowski; the Ukrainian is the standard historiographic translation)
-  - source_uk: "Слова до польських королівських послів, Переяслав, лютий 1649 (за записом посольства)"
-  - source_en: "Words to the Polish royal envoys, Pereiaslav, February 1649 (as recorded by the embassy)"
-  - url: https://www.istpravda.com.ua/articles/2010/12/27/11084/ (Історична правда, historian Oleksandr Zinchenko)
-  - confidence: medium (a well-known line, but it comes to us second-hand through the envoys' record and wording varies slightly between editions; "руський" here means Ruthenian, not Russian, which a note should explain)
 
 ### bohdan-stupka — Богдан Ступка
 - quote 1:
@@ -73,17 +52,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Interview with LB.ua, August 2021"
   - url: https://lb.ua/society/2021/08/19/491734_igor_gordiychuk_vorogi_hochut_abi.html
   - confidence: high
-
-### ihor-sikorskyi — Ігор Сікорський
-- quote 1:
-  - uk: "Якщо людина потребує порятунку, літак може прилетіти й скинути на неї квіти. А гвинтокрил може прилетіти й урятувати їй життя."
-  - en: "If a man is in need of rescue, an airplane can come and throw flowers on him. But a direct lift aircraft could come in and save his life." (translation: original)
-  - original_language: en
-  - source_uk: "Роздуми про створення гелікоптера, пізні роки"
-  - source_en: "Reflecting on the creation of the helicopter, later years"
-  - url: https://news.lockheedmartin.com/2014-09-12-Igor-Sikorsky-s-VS-300-Helicopter-Transformed-Aviation-75-Years-Ago (Lockheed Martin/Sikorsky press release)
-  - confidence: medium (wording varies between versions: Sikorsky Archive News has "...throw flowers on him and that's just about all"; the popular "drop flowers ... save your life" version is only on aggregators. Use the Lockheed/Sikorsky Archives wording.)
-  - note: in the Ukrainian, "гвинтокрил" renders "direct lift aircraft"; "гелікоптер" also works.
 
 ### illia-mechnykov — Ілля Мечников
 - none found (not searched deeply; no well-known, verifiable short quote surfaced)
@@ -150,17 +118,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://texty.org.ua/articles/113328/30-rokiv-u-taborah-istoriya-nezlamnoyi-pidpilnyci-kateryny-zaryckoyi-uryvok-z-knyzhky/ (Texty.org.ua, excerpt from Sviatoslav Lypovetskyi's book, 4 September 2024)
   - confidence: medium (one source, a book excerpt)
 
-### kazymyr-malevych — Казимир Малевич
-- quote 1:
-  - uk: "Коли зникне звичка свідомості бачити в картинах зображення куточків природи, мадонн і безсоромних венер, тоді тільки побачимо суто живописний твір."
-  - en: "When the mind's habit of seeing depictions of corners of nature, Madonnas and shameless Venuses in paintings vanishes, only then will we see purely painterly works." (translation: published, as quoted by ArtDependence with the essay as source. The exact translator is not given; scholarly English versions, e.g. Bowlt's, word it slightly differently)
-  - original_language: ru ("Когда исчезнет привычка сознания видеть в картинах изображение уголков природы, мадонн и бесстыдных венер, тогда только увидим чисто живописное произведение")
-  - source_uk: "Брошура «Від кубізму і футуризму до супрематизму. Новий живописний реалізм», 1915–1916 (переклад з російської)"
-  - source_en: "The essay From Cubism and Futurism to Suprematism: The New Painterly Realism, 1915–1916 (translated from Russian)"
-  - url: https://www.artdependence.com/articles/kazimir-malevichs-suprematist-composition/ ; https://rg.ru/2024/02/23/ne-tolko-chernyj-kvadrat-145-let-nazad-rodilsia-kazimir-malevich.html (Russian original; note this is Russian state media, used only to confirm the wording)
-  - confidence: medium (I did not open a primary edition)
-- rejected: "Квадрат живий, царствене немовля". I found it only on quote aggregators and in a paraphrase (vokrugsveta.ru), not verbatim from the text.
-
 ### kniahynia-olha — Княгиня Ольга
 - rejected: her speeches in the Primary Chronicle (to the Drevlians, to Constantine VII). These are the chronicler's literary text from about 150 years after her death, not her own words.
 - none found.
@@ -186,18 +143,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### leonid-bykov — Леонід Биков
 - rejected: "Будем жить!" / "Будемо жити!". This is the catchphrase of his character Titarenko in Only "Old Men" Are Going to Battle (1973, a Russian-language film he co-wrote). It is a character's line in a co-written script, not his own statement. Usable only if the editor accepts film lines, credited as "the film's line".
 - none found. His diaries were published (in Russian), but no reputable outlet I checked quotes them verbatim.
-
-### les-kurbas — Лесь Курбас
-- quote 1:
-  - uk: "Виростити нове мистецтво на гіллі тисячолітньої культури і на гнилих листках опадаючої сучасності"
-  - en: "To grow a new art on the branches of a thousand-year-old culture and on the rotting leaves of a fading present" (translation: ours)
-  - original_language: uk
-  - source_uk: "Про завдання українського театру, 1910-ті (зі статей «Березіль» / «Естетство»)"
-  - source_en: "On the task of Ukrainian theatre, 1910s (from his articles Berezil / Aestheticism)"
-  - url: https://zaxid.net/berezil_u_kurbasi_n1297025
-  - confidence: medium (one media source, and the exact article and year are not pinned down)
-- rejected: "Я вибираю березіль — він ламає все старе" (the Berezil motto). These are Bjørnstjerne Bjørnson's words, which Kurbas adopted.
-- rejected: "Театр — це храм". This is the title of a later article about Kurbas, not his words.
 
 ### lev-pashko — Лев Пашко
 - quote 1:
@@ -256,16 +201,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### marko-vovchok — Марко Вовчок
 - none found. No widely quoted aphorism of hers turned up; school materials quote only character lines from «Інститутка», which aren't her own sayings.
 
-### mykhailo-drahomanov — Михайло Драгоманов
-- quote 1:
-  - uk: "Космополітизм в ідеях і цілях, національність у ґрунті і формах."
-  - en: "Cosmopolitanism in the ideas and the ends, nationality in the ground and the forms." (translation: published, Internet Encyclopedia of Ukraine)
-  - original_language: uk
-  - source_uk: "Гасло з публіцистики"
-  - source_en: "A slogan from his political writing"
-  - url: https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CD%5CR%5CDrahomanovMykhailo.htm (says he "coined the slogan")
-  - confidence: medium. The IEU confirms the slogan in English but names no work. I didn't confirm the exact Ukrainian wording against a primary text (it's often tied to his writing for «Громада», 1878).
-
 ### mykhailo-drapatyi — Михайло Драпатий
 - quote 1:
   - uk: "Служіння Україні завжди було для мене честю, а під час війни за незалежність воно означає абсолютну відповідальність."
@@ -299,25 +234,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: medium
 - rejected: "Щоб бути здоровим, потрібні власні зусилля, постійні і значні. Замінити їх не можна нічим." — the most famous Amosov line, but I found it only in paraphrases and on blogs, with the word order varying. Very likely genuine («Раздумья о здоровье»), and worth confirming against the book because it's the best one.
 
-### mykola-khvylovyi — Микола Хвильовий
-- quote 1:
-  - uk: "Європа – це досвід багатьох віків. Це Європа грандіозної цивілізації."
-  - en: "Europe is the experience of many centuries. It is the Europe of a grand civilization." (translation: ours)
-  - original_language: uk
-  - source_uk: "Памфлет «Апологети писаризму», 1926"
-  - source_en: "The pamphlet Apologists of Scribbling, 1926"
-  - url: https://www.radiosvoboda.org/a/mykola-xvyliovyj-het-vid-moskvy-dajosh-jevropu/29798514.html (Radio Svoboda, 10 Mar 2019, quotes it verbatim, followed by "Європа Гете, Дарвіна, Байрона, Ньютона, Маркса і т. д.")
-  - confidence: medium (wording confirmed. The pamphlet attribution comes from an academic article (KNUTD 2020), not from a primary text I opened.)
-- quote 2 (optional):
-  - uk: "Невже я зайвий чоловік тому, що люблю безумно Україну?"
-  - en: "Am I a superfluous man because I love Ukraine madly?" (translation: ours)
-  - original_language: uk
-  - source_uk: "Слова з часу початку цькування, кінець 1920-х (за Радіо Свобода)"
-  - source_en: "Words from the time the attacks on him began, late 1920s (as quoted by Radio Svoboda)"
-  - url: same Radio Svoboda article
-  - confidence: medium (the work isn't named)
-- rejected: "Геть від Москви!" as a verbatim quote. It's universally called his slogan (the IEU says he later recanted it), but the exact words in that form aren't in the pamphlet texts I could open, and one reviewer says he never wrote them as such. Present it as a slogan in the profile text, not as a quote.
-
 ### mykola-leontovych — Микола Леонтович
 - none found. Only diary entries about his work and secondhand paraphrases ("народна пісня — вияв душі народу").
 
@@ -347,31 +263,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "The book Archipenko: Fifty Creative Years, 1908–1958, 1960"
   - url: https://theartstory.org/artist/archipenko-alexander/ (full quote, no book citation); the scholarly citation is Stephen Kern, The Culture of Time and Space 1880–1918 (1983), p. 159 (found through search, not opened)
   - confidence: medium. The wording matches in several art-market and art-history sources. I couldn't open the 1960 book, so the book attribution comes from those secondary sources.
-
-### oleksandr-dovzhenko — Олександр Довженко
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "Невже любов до свого народу є націоналізм?"
-  - source_uk: "Щоденник (цит. за Енциклопедією Сучасної України)"
-  - en: "Is love for one’s own people really nationalism?"
-  - source_en: "Diary (quoted in the Encyclopedia of Modern Ukraine)"
-- review of the stashed quote: The words are fine, but the source line needs fixing. ESU (esu.com.ua/article-20465) confirms the text in a longer form: "Коли немає ненависті принципової, і зневаги нема, і недоброзичливості ні до одного народу в світі, ні до його долі, ні до його щастя, ні гідності чи добробуту, — невже любов до свого народу є націоналізм?" ESU presents it as his reply to Stalin after the January 1944 Kremlin meeting on «Україна в огні». It begins with "Товаришу мій Сталін, коли б ви були навіть богом…". ESU does not call it a diary entry, and I couldn't confirm the diary attribution in the osvita.ua diary text either. Two problems with the current source line, "Олександр Довженко, щоденник (цит. за Енциклопедією Сучасної України)": (1) it repeats the person's name; (2) "щоденник" is unconfirmed. Suggested: source_uk "Звернення до Сталіна після засідання Політбюро щодо кіноповісті «Україна в огні», 1944" / source_en "Words addressed to Stalin after the Politburo meeting on Ukraine in Flames, 1944". The other option is to keep "щоденник" only if the owner can check it in the academic edition of the diary.
-  - en for the existing quote: "Is love for one's own people really nationalism?" (translation: ours)
-- quote 1:
-  - uk: "Не туди б'єш, Іване."
-  - en: "You're hitting the wrong one, Ivan." (translation: ours)
-  - original_language: uk
-  - source_uk: "Фільм «Арсенал», 1929 (напис у кадрі)"
-  - source_en: "The film Arsenal, 1929 (an intertitle)"
-  - url: https://esu.com.ua/article-20465 (ESU quotes it and notes it entered everyday Ukrainian speech)
-  - confidence: high (as a line Dovzhenko wrote for the film; a horse says it to a peasant beating it)
-- quote 2:
-  - uk: "Народ, що не знає своєї історії, є народ сліпців."
-  - en: "A people that does not know its history is a people of the blind." (translation: ours)
-  - original_language: uk
-  - source_uk: "Записи (цит. за Енциклопедією Сучасної України)"
-  - source_en: "From his notes (as quoted by the Encyclopedia of Modern Ukraine)"
-  - url: https://esu.com.ua/article-20465
-  - confidence: medium. ESU quotes it as his words but doesn't name the work. I didn't find it in the online diary text. Use only if the source line "цит. за ЕСУ" is acceptable.
 
 ### oleksandr-oksanchenko — Олександр Оксанченко
 - none found. The coverage I found (espreso.tv, armyinform.com.ua, sandboxx, Task & Purpose) quotes comrades or paraphrases him. I found no verbatim quote of his own.
@@ -432,18 +323,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Memoirs, 1919–1920"
   - url: https://www.radiosvoboda.org/a/29368235.html
   - confidence: medium. Radio Svoboda quotes it but doesn't give the edition or page. In the memoir it is aimed at Ukrainian activists and their language policy. Check the context before use so it doesn't read as a jab.
-
-### petro-bolbochan — Петро Болбочан
-- quote 1:
-  - uk: "Ми боремося за самостійну демократичну Українську Республіку, а не за єдину Росію."
-  - en: "We are fighting for an independent democratic Ukrainian Republic, not for a united Russia." (translation: ours)
-  - original_language: uk
-  - source_uk: "Наказ військам, 1918–1919"
-  - source_en: "Order to his troops, 1918–1919"
-  - url: https://zaxid.net/polkovnik_petro_bolbochan_komanduvach_odniyeyi_z_nayuspishnishih_operatsiy_armiyi_unr_n1621524 (quotes the order; draws on UINP). Related wording in the same order: "Ніяких совєтів робочих депутатів, монархічних організацій… я не допущу" is also at https://www.radiosvoboda.org/a/30876941.html
-  - confidence: medium. The order is undated in both sources.
-- rejected: "З більшовиками я можу розмовляти тільки зброєю" — popular (uahistory.com and others), but I found no reputable confirming source.
-- rejected: "Слава Україні!" as his last words — no source records his last words.
 
 ### petro-doroshenko — Петро Дорошенко
 - none found. The only "quotes" are from novels (Kostomarov, Telniuk), which are fiction. Documentary letters exist but I found no short, well-known line.
@@ -623,16 +502,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "The song Bez boiu (Without a Fight), album Mira, 2007"
   - url: https://www.unian.ua/culture/amp-43210-okean-elzi-prezentuvav-noviy-albom-mira.html (UNIAN, 25 April 2007: Mira presented, "all lyrics written by Sviatoslav Vakarchuk". The track list is not on that page; the lyric line was checked on chord sites only)
   - confidence: medium
-
-### symon-petliura — Симон Петлюра
-- quote 1:
-  - uk: "В українську державність ми віруємо, українську державність ми ісповідуємо, – в її неминучості ми переконані."
-  - en: "We believe in Ukrainian statehood, we profess Ukrainian statehood, and we are convinced it is inevitable." (translation: ours)
-  - original_language: uk
-  - source_uk: "Тижневик «Тризуб», перше число, 1925"
-  - source_en: "The weekly Tryzub, first issue, 1925"
-  - url: https://www.ukrinform.ua/rubric-polytics/4128624-petlura-povertaetsa.html
-  - confidence: medium (Ukrinform quoting; a check against the Tryzub facsimile would raise it to high)
 
 ### vadym-hetman — Вадим Гетьман
 - none found

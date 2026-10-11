@@ -10,6 +10,9 @@ key_accomplishments:
   - "Pamphlets of 1925–1926 calling for a “psychological Europe”"
 birthplace_name: "Trostianets"
 image_alt: "Photo portrait of Mykola Khvylovyi, before 1933"
+quotes:
+  - text: "Ukrainian art must step out onto the great international stage. We must create our own great literature, not be a provincial corner of Russian culture."
+    source: "On cultural orientation and Ukraine’s independence"
 ---
 
 ## The slogan Stalin noticed

@@ -14,6 +14,9 @@ key_accomplishments:
   - "Founded an aircraft company in the US in 1923 (today’s Sikorsky)"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Igor Sikorsky"
+quotes:
+  - text: "If a man is in need of rescue, an airplane can come and throw flowers on him. But a direct lift aircraft could come in and save his life."
+    source: "Reflecting on the creation of the helicopter, later years"
 ---
 
 ## Helicopter first, airplane second

@@ -11,6 +11,9 @@ key_accomplishments:
   - "Founded the weekly Tryzub in Paris and led the UPR government in exile"
 birthplace_name: "Poltava"
 image_alt: "Symon Petliura in Kamianets-Podilskyi, 1919: the photograph turned by AI into a photo-like image; uniform and insignia changed"
+quotes:
+  - text: "We believe in Ukrainian statehood, we profess Ukrainian statehood, and we are convinced it is inevitable."
+    source: "The weekly Tryzub, first issue, 1925"
 ---
 
 ## From bookkeeper to Chief Otaman

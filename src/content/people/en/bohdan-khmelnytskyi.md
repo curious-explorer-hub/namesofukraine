@@ -14,6 +14,9 @@ key_accomplishments:
   - "Wide-ranging diplomacy with the Crimean Khanate, the Ottoman Empire, Sweden, Transylvania and Muscovy"
 birthplace_name: "Subotiv (probably)"
 image_alt: "Engraving by Willem Hondius with a portrait of Bohdan Khmelnytskyi, 1651"
+quotes:
+  - text: "I have already achieved what I never dreamed of; I will go on to achieve what I have set out to do: I will free the whole Ruthenian people from Polish bondage."
+    source: "Words to the Polish royal envoys, Pereiaslav, February 1649 (as recorded by the embassy)"
 ---
 
 ## It started with a homestead
