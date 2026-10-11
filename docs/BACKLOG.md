@@ -7,7 +7,7 @@ Open and in-progress work only. What the site must do, the rules, and what's alr
 - **Live:** <https://namesofukraine.com> (since 2026-10-08; the soft-launch address `namesofukraine.pages.dev` redirects there), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
 - **Content:** 151 profiles published in Ukrainian and English; 22 drafts awaiting the owner's review.
 - **Social:** daily posts on Threads and Instagram (@names_of_ukraine) from monthly plans in `social/`; October–December planned, 83 of the 151 profiles used, 68 left (about two months).
-- **Next milestone:** public launch = the rest of L11 (Monobank jar, "join the team" in Tally) and promotion.
+- **Next milestone:** public launch = the rest of L11 ("join the team" in Tally) and promotion.
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
 
 ## Now: priorities
@@ -16,7 +16,7 @@ In order. Pick from the top.
 
 | # | Item                                                                              | Why now                                                                                                                                                    | Who            |
 |---|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| 1 | **Rest of L11:** Monobank jar, "join the team" in Tally                         | Instagram and Threads are live and linked; the Support page still says "coming soon" for Monobank                                                         | Owner          |
+| 1 | **Rest of L11:** "join the team" in Tally                                          | Instagram, Threads, Patreon and the Monobank jar are live and linked; volunteers can't yet pick «join the team» in the form                                  | Owner          |
 | 2 | **Content session** C4–C6 below, and the 22 drafts                            | The catalogue and its links now limit the site more than features do, and daily posts use a profile a day: 68 unposted profiles last until about February | Code + content |
 | 3 | **Social upkeep:** January plan by 2026-12-31; both tokens refreshed by 2026-11-29 | Without a plan or with an expired token, nothing is posted, and only the account that last edited a schedule gets GitHub's failure email ([MAINTENANCE.md](MAINTENANCE.md)) | Owner + code   |
 
@@ -30,7 +30,7 @@ In order. Pick from the top.
 
 ## Launch checklist
 
-- [ ] **L11. Social and support accounts.** Done: handle `@names_of_ukraine`, Instagram and Threads created and set in `src/site.ts`, Patreon set. Open: create a Monobank jar («банка») and set it in `SUPPORT_LINKS` (until then the Support page says "coming soon"); in Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*
+- [ ] **L11. Social and support accounts.** Done: handle `@names_of_ukraine`, Instagram and Threads created and set in `src/site.ts`, Patreon and the Monobank jar set (2026-10-10). Open: in Tally, add a choice like «Хочу долучитися до команди / I want to join the team» to «Про що ваше повідомлення?» (messages are already tagged by the hidden `type` field). *Owner.*
 
 ## Ideas
 

@@ -14,6 +14,6 @@ export const SOCIAL_LINKS = {
 
 // Donation pages (product_vision.md §3.6, AC17), shown on the Support page. Same rule: empty means hidden.
 export const SUPPORT_LINKS = {
-  monobank: '', // a Monobank jar («банка»), e.g. 'https://send.monobank.ua/jar/<id>'
+  monobank: 'https://send.monobank.ua/jar/8o3gVQtFuC', // the Monobank jar («банка»)
   patreon: 'https://www.patreon.com/cw/NamesOfUkraine/membership',
 };

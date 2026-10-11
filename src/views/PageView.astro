@@ -3,7 +3,7 @@ import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
 import { suggestEmbedUrl } from '../lib/suggest';
-import { socialLinks } from '../lib/social';
+import { socialLinks, supportLinks } from '../lib/social';
 import { collections, localePath } from '../lib/people';
 import eras from '../content/eras.json';
 import hero from '../content/hero.json';
@@ -19,10 +19,7 @@ const entry = await getEntry('pages', `${lang}/${page}`);
 if (!entry) throw new Error(`Missing page content: src/content/pages/${lang}/${page}.md`);
 const { Content } = await render(entry);
 
-const donate = [
-  { name: t('support.monobank', lang), url: SUPPORT_LINKS.monobank },
-  { name: 'Patreon', url: SUPPORT_LINKS.patreon },
-].filter((l) => l.url);
+const donate = supportLinks(lang);
 const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
 ---
 
@@ -64,7 +61,7 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
         <h2>{t('support.donate_title', lang)}</h2>
         {donate.length > 0 && (
           <ul class="link-buttons">
-            {donate.map((l) => <li><a class="link-button link-button-primary" href={l.url} rel="noopener">{l.name}</a></li>)}
+            {donate.map((l) => <li><a class="link-button link-button-social" href={l.url} target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg>{l.name}</a></li>)}
           </ul>
         )}
         {!SUPPORT_LINKS.monobank && <p class="suggest-pending">{t('support.monobank_pending', lang)}</p>}

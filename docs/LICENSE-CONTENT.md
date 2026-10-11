@@ -10,6 +10,6 @@ The code in this repository is licensed under the MIT License (see [LICENSE](../
 | Map outlines (oblast borders) | `src/content/geo/ukraine-oblasts.json` | From [geoBoundaries](https://www.geoboundaries.org/) UKR ADM1, © OpenStreetMap contributors, [Open Database License 1.0 (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/); simplified. Credited under the map and on the Credits page |
 | Continent outlines (coastlines) | `src/content/geo/world-land.json` | [Natural Earth](https://www.naturalearthdata.com/) 1:110m land, public domain; rounded to 0.1°. No country borders; Ukraine on the continent cards is drawn from the oblast outlines above |
 | Fonts (Fixel) | `public/fonts/`, `src/assets/fonts/` | SIL Open Font License 1.1 (see `OFL.txt` next to the fonts) |
-| Instagram and Threads icons | `src/lib/social.ts` | From [Simple Icons](https://simpleicons.org), CC0 1.0. The logos are trademarks of Meta, used only to link to the site's own accounts |
+| Instagram, Threads and Patreon icons | `src/lib/social.ts` | From [Simple Icons](https://simpleicons.org), CC0 1.0. The logos are trademarks of Meta and Patreon, used only to link to the site's own accounts. The cat icon on the Monobank button is the project's own drawing, not Monobank's logo |
 
 To reuse the text, credit «Знай своїх» / "Know Your Own" with a link to the page, and share any adaptation under CC BY-SA 4.0. To reuse an image, follow that image's own license and credit.
