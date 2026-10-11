@@ -11,6 +11,9 @@ key_accomplishments:
   - "Euromaidan activist (2013–2014); Vasyl Stus Prize (2014)"
 birthplace_name: "Lviv"
 image_alt: "Ruslana at the US Embassy in Kyiv, July 2014"
+quotes:
+  - text: "We won, because the authorities are afraid of us."
+    source: "Interview with Radio Svoboda about the Maidan, November 2015"
 ---
 
 ## A trembita at Eurovision

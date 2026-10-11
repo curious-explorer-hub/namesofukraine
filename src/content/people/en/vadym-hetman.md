@@ -13,6 +13,9 @@ key_accomplishments:
   - "Hero of Ukraine (2005, posthumously)"
 birthplace_name: "Snityn"
 image_alt: "Vadym Hetman, official photo as a member of the first-convocation parliament, 1990"
+quotes:
+  - text: "History exists for future generations only as long as books exist."
+    source: "On why he wrote a book about the adoption of Ukraine’s Constitution"
 ---
 
 ## Whose signature is on the first hryvnias?

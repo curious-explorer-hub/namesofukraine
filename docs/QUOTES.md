@@ -155,17 +155,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### ihor-zinych — Ігор Зінич
 - none found (ArmyInform 2020 and the other reports I searched quote only comrades (Lisnichuk, Kaliniuk, Piasetskyi) and the people he rescued; the 2015 Ukrainska Pravda feature blocked fetching; no recorded words of his own)
 
-### illia-mechnykov — Ілля Мечников
-- none found (not searched deeply; no well-known, verifiable short quote surfaced)
-- quote 1:
-  - uk: "[…] вони давали мені надію боротися далі. Контрольовані спостереження над живим організмом не можуть помилятися." (translation: ours, from the English published version)
-  - en: "[…] these gave me hope to fight on. Controlled observations on living organism can not be wrong." (translation: published, Nobel Foundation English text of the lecture)
-  - original_language: fr (the lecture was given in French; the English is the Nobel Foundation's published translation)
-  - source_uk: "Нобелівська лекція «Про сучасний стан питання імунітету при інфекційних хворобах», Стокгольм, 11 грудня 1908"
-  - source_en: "Nobel Lecture, 'On the Present State of the Question of Immunity in Infectious Diseases', Stockholm, 11 December 1908"
-  - url: https://www.nobelprize.org/prizes/medicine/1908/mechnikov/lecture/
-  - confidence: high (his own lecture text on the Nobel Prize's official site). The cut […] removes "The memory of the Bipinnaria and the splinter surrounded by mobile cells and the Daphniae with their blood corpuscles devouring the dangerous spores…", i.e. the starfish larvae and water fleas from his experiments. Context: his theory "came under heavy fire from the greatest names in science". This is a calling/work line, not one of the thematic-focus topics. "Living organism" (no article) is as published.
-
 ### inna-derusova — Інна Дерусова
 - none found (sources give comrades' memories about her, not her own words)
 - still none found (I searched again for interviews from before 2022; the results are only obituaries and comrades' memories, e.g. Espreso)
@@ -692,17 +681,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://www.unian.ua/sport/boxing/oleksandr-usik-bokser-vidreaguvav-na-shkval-kritiki-na-svoyu-adresu-video-novini-boksu-10991945.html
   - confidence: high (UNIAN quotes the video. Cut: "Якщо б я хотів кудись поїхати, то я б це вже давно зробив." Sensitive: this was his answer to critics, the same address the «Дискусії та оцінки» section quotes ("Не розділяйте людей"), so it only reads right next to that section. Quote 1 is the safer pick)
 
-### oleksii-mes — Олексій Месь
-- quote 1:
-  - uk: "Це справді надзвичайно класний літак, на ньому дуже весело літати. […] F-16 точно маневреніший."
-  - en: "It is really a super fun jet to fly. […] the F-16 is definitely more agile." (translation: original as published in English)
-  - original_language: uk (probably; English is as quoted by the media)
-  - source_uk: "Відеоінтерв'ю під час навчання на F-16 у Данії, літо 2024"
-  - source_en: "Video interview during F-16 training in Denmark, summer 2024"
-  - url: https://twz.com/air/ukrainian-pilot-killed-in-first-f-16-loss
-  - confidence: medium. The outlet that recorded the original video isn't named, and this reaches us through English. It's a light quote; use only if a fun line fits.
-- rejected: "Andriy was the 'ideas man' and the main driving force behind it all… And I feel responsible to him for ensuring these planes arrive" — attributed to a CNN interview (Nov 2023), but I couldn't open a confirming page.
-
 ### olena-stepaniv — Олена Степанів
 - none found. Encyclopedias (ESU, IEU) and the media give no verbatim quotes. Her memoir writings would have to be checked in print.
 - still none found (not retried in depth; her memoirs would need checking in print)
@@ -710,16 +688,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### olha-semydianova — Ольга Семидьянова
 - none found. armyinform.com.ua and life.pravda.com.ua give only paraphrases, or her daughter's and comrades' words. Vikna paraphrases her conviction that "if we leave our positions, the enemy will come to our homes", with no source.
 - still none found (not retried in depth; the earlier note stands)
-
-### ostap-vyshnia — Остап Вишня
-- quote 1:
-  - uk: "У мене нема жодного сумніву в тому, що я народився, хоч і під час мого появлення на світ білий і потім — років, мабуть, із десять підряд — мати казали, що мене витягли з колодязя, коли напували корову Оришку."
-  - en: "I have no doubt whatsoever that I was born, even though at the time of my appearance in this world, and for about ten years afterwards, my mother kept saying I'd been pulled out of the well while they were watering Oryshka the cow." (translation: ours)
-  - original_language: uk
-  - source_uk: "Гумореска «Моя автобіографія», 1927"
-  - source_en: "The humorous sketch My Autobiography, 1927"
-  - url: https://osvita.ua/school/literature/v/63907/ (full text, opening line)
-  - confidence: high. Note: the same anecdote is the profile's fun_fact, so as a quote it would repeat it. About 205 characters; it can be cut to "У мене нема жодного сумніву в тому, що я народився […]" if needed.
 
 ### pamvo-berynda — Памво Беринда
 - quote 1:
@@ -731,16 +699,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://www.radiosvoboda.org/a/968303.html
   - confidence: medium (Radio Svoboda, 2007, says he wrote it but doesn't name the book or give the original text. A riddle hiding his name "Памво", fun for young readers, but it's a characteristic line, not one of the main themes)
 - rejected: none. I couldn't open the text of the 1627 dedication to the Balabans; scholars only paraphrase it (e.g. N. Chernysh, pvs.uad.lviv.ua/media/32/40.pdf).
-
-### pavlo-skoropadskyi — Павло Скоропадський
-- quote 1:
-  - uk: "Хто хоче все й одразу, той зрештою нічого не дістає."
-  - en: "Whoever wants everything at once ends up getting nothing." (translation: ours)
-  - original_language: ru (the memoirs were written in Russian, 1919–1920; the uk is the published translation as quoted)
-  - source_uk: "«Спогади», 1919–1920"
-  - source_en: "Memoirs, 1919–1920"
-  - url: https://www.radiosvoboda.org/a/29368235.html
-  - confidence: medium. Radio Svoboda quotes it but doesn't give the edition or page. In the memoir it is aimed at Ukrainian activists and their language policy. Check the context before use so it doesn't read as a jab.
 
 ### petro-doroshenko — Петро Дорошенко
 - none found. The only "quotes" are from novels (Kostomarov, Telniuk), which are fiction. Documentary letters exist but I found no short, well-known line.
@@ -778,31 +736,9 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found. Her letters to Suleiman (Ottoman Turkish, Topkapı archive) survive, but I found no authoritative published translation I could open. Lines circulating online are from blogs, or from Nazaruk's novel (fiction).
 - still none found (retry: search results lead only to the Zahrebelnyi and Nazaruk novels, which are fiction, and to the Kyiv Post piece paraphrasing her request to the sultan; there's still no published translation of her letters I could open)
 
-### roman-hrybov — Роман Грибов
-- quote 1:
-  - uk: "Нас «поховали» 24 лютого, але Бог так зробив, що ми вижили всі."
-  - en: "They 'buried' us on 24 February, but God made it so that we all survived." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Главкому», лютий 2025"
-  - source_en: "Interview with Glavcom, February 2025"
-  - url: https://glavcom.ua/longreads/avtor-frazi-pro-russkij-vojennij-korabl-nas-pokhovali-vidrazu-24-ljutoho-ale-boh-tak-zrobiv-shcho-mi-vizhili-vsi-1046531.html
-  - confidence: medium. It is the headline; the body has "в медіа нас відразу 24 лютого «поховали»", so the headline may be lightly edited.
-- rejected (owner decision): the famous four-word reply to the Russian warship ("Русский военный корабль, иди на…") — authentic and world-famous, but obscene. Out of scope under the "no embarrassing quotes" rule unless the owner wants it in censored form. He himself said in the same Glavcom interview, "Загалом я нематюклива людина" ("Generally I'm not someone who swears").
-
 ### roman-shukhevych — Роман Шухевич
 - none found. No verbatim, sourced lines in IEU, ESU or UINP materials I could find. Popular attributions online are unverified.
 - still none found (retry: no UINP or encyclopedia page with a verbatim line signed "Тарас Чупринка" turned up)
-
-### ruslana-lyzhychko — Руслана Лижичко
-- quote 1:
-  - uk: "Ми перемогли, тому що влада нас боїться."
-  - en: "We won, because the authorities are afraid of us." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода про Майдан, листопад 2015"
-  - source_en: "Interview with Radio Svoboda about the Maidan, November 2015"
-  - url: https://www.radiosvoboda.org/a/27394279.html
-  - confidence: high (the text). Editorially medium: it's tied to a 2015 political moment. Use only if a Maidan-era quote fits.
-- rejected: "Ми нарешті поставили країну на ті рейки, з яких вона вже не з'їде" — same interview, but she credits the phrase to Sviatoslav Vakarchuk, so it isn't hers.
 
 ### serhii-korolov — Сергій Корольов
 - rejected: "Космонавтика має безмежне майбутнє, і її перспективи безмежні, як сам Всесвіт" — quoted everywhere (school and conference epigraphs) with no work, speech or date. No primary source found.
@@ -901,16 +837,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found
 - rejected: «Іду на ви» and «Мертві сорому не мають» (and his other speeches) — words the Primary Chronicle puts in his mouth, not his own text. «Іду на ви» is also already in the summary.
 
-### sviatoslav-vakarchuk — Святослав Вакарчук
-- quote 1:
-  - uk: "Я не здамся без бою"
-  - en: "I won't give up without a fight" (translation: ours)
-  - original_language: uk
-  - source_uk: "Пісня «Без бою», альбом «Міра», 2007"
-  - source_en: "The song Bez boiu (Without a Fight), album Mira, 2007"
-  - url: https://www.unian.ua/culture/amp-43210-okean-elzi-prezentuvav-noviy-albom-mira.html (UNIAN, 25 April 2007: Mira presented, "all lyrics written by Sviatoslav Vakarchuk". The track list is not on that page; the lyric line was checked on chord sites only)
-  - confidence: medium
-
 ### taras-chmut — Тарас Чмут
 - quote 1:
   - uk: "Нам вдалось мобілізувати суспільство. І, як показують реалії нашої війни, люди важливіші, ніж залізо."
@@ -928,26 +854,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Interview with LB.ua, March 2022"
   - url: https://lb.ua/society/2022/03/25/510915_taras_chmut_lyudi_vazhlivishi_nizh.html
   - confidence: high (in the text it reads "Але держава повільна…"; the lead quote drops the "Але")
-
-### vadym-hetman — Вадим Гетьман
-- none found
-- quote 1:
-  - uk: "Історія для нащадків існує доти, доки існують книжки."
-  - en: "History exists for future generations only as long as books exist." (translation: ours)
-  - original_language: ru (as printed; the language he actually spoke is not stated)
-  - source_uk: "Відповідь на запитання, навіщо він написав книжку «Як приймалась Конституція України»; за ZN.ua, 2008"
-  - source_en: "His answer when asked why he wrote a book on the adoption of the Constitution; as quoted by ZN.ua, 2008"
-  - url: https://zn.ua/SOCIUM/desyat_let_nazad__tragicheski_pogib_vadim_getman.html
-  - confidence: medium (an unsigned memorial piece in ZN.ua quotes it with no date or primary source. Printed as «История для потомков существует до тех пор, пока существуют книги»; the Ukrainian is ours. It's about his calling, not the core themes)
-- quote 2:
-  - uk: "Якщо політика — це бруд, то вибори — це шлях очищення."
-  - en: "If politics is dirt, then elections are the way to clean it." (translation: ours)
-  - original_language: uk (as printed)
-  - source_uk: "Передвиборче інтерв'ю; за ZN.ua, 2003"
-  - source_en: "Pre-election interview; as quoted by ZN.ua, 2003"
-  - url: https://zn.ua/ukr/SOCIUM/pyat_rokiv_bez_getmana.html
-  - confidence: medium (memorial article by Анатолій Дробязко, 18 April 2003. The interview is not named or dated. The line is political, so the owner should decide whether it suits the site)
-- rejected: "Надо любить Украину в себе, а не себя в Украине". ZN.ua (2008) calls it "жизненное кредо, которому Гетьман следовал", not his words. It is also a reworking of Stanislavsky's well-known saying.
 
 ### valentyn-hlushko — Валентин Глушко
 - none found (his 1923 letter to Tsiolkovsky ("Эта просьба касается проекта межпланетного и межзвездного путешествия…") is quoted only by business-gazeta.ru, which isn't on our list of sources; no encyclopedia or reputable outlet prints it. He is also a contested figure)

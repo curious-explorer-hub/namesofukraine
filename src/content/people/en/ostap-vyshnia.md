@@ -11,6 +11,9 @@ key_accomplishments:
   - "Translations of Nikolai Gogol, Anton Chekhov, Jaroslav Hašek and Mark Twain"
 birthplace_name: "Chechva farmstead (now the village of Hrun)"
 image_alt: "Ostap Vyshnia in his last years; an AI-made image, the source photograph not identified"
+quotes:
+  - text: "I have no doubt whatsoever that I was born […]"
+    source: "The humorous sketch My Autobiography, 1927"
 ---
 
 ## Print runs second only to Shevchenko

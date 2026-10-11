@@ -26,6 +26,9 @@ key_accomplishments:
   - Утримувався в російському полоні з 24 лютого по 24 березня 2022 року
   - Отримав почесну відзнаку «За заслуги перед Черкащиною» від голови Черкаської ОВА 29 березня 2022 року
 birthplace: { name: "Золотоноша, Черкаська область", region: cherkasy, country: UA, lat: 49.383, lon: 32.216 }
+quotes:
+  - text: "Бог так зробив, що ми вижили всі."
+    source: "Інтерв'ю «Главкому» про оборону острова Зміїний, лютий 2025"
 sources:
   - title: "Газета.ua - Ромка правильно орків послав: як живе автор крилатої фрази про російський корабель"
     url: "https://gazeta.ua/articles/life/_romka-pravilno-orkiv-poslav-yak-zhive-avtor-krilatoyi-frazi-pro-russkij-korabl-i-scho-pro-nogo-rozpovidayut-zemlyaki/1079595"

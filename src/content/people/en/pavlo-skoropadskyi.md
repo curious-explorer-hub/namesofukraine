@@ -11,6 +11,9 @@ key_accomplishments:
   - "In exile, initiated the founding of the Ukrainian Scientific Institute in Berlin (1926)"
 birthplace_name: "Wiesbaden (Germany)"
 image_alt: "Pavlo Skoropadskyi in Cossack dress with the St. George Cross, about 1918–1920"
+quotes:
+  - text: "Whoever wants everything at once ends up getting nothing."
+    source: "Memoirs, 1919–1920"
 ---
 
 ## Seven and a half months that outlived a century

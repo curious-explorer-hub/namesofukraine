@@ -12,6 +12,9 @@ key_accomplishments:
   - Awarded the honor “For Services to Cherkasy Region” by the head of the Cherkasy Regional Military Administration on 29 March 2022
 birthplace_name: "Zolotonosha, Cherkasy region"
 image_alt: "Roman Hrybov in a military fleece with a sleeve patch, sitting at a table with a phone in his hand"
+quotes:
+  - text: "God made it so that we all survived."
+    source: "Interview with Glavcom on the defence of Snake Island, February 2025"
 ---
 
 ## Four words heard worldwide

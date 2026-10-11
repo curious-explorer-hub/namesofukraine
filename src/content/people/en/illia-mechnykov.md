@@ -11,6 +11,9 @@ key_accomplishments:
   - "One of the founders of evolutionary embryology and scientific gerontology"
 birthplace_name: "Ivanivka"
 image_alt: "Photograph of Ilya Mechnikov, about 1908"
+quotes:
+  - text: "[…] these gave me hope to fight on. Controlled observations on living organism can not be wrong."
+    source: "Nobel Lecture, Stockholm, December 1908 (Nobel Foundation English text)"
 ---
 
 ## Cells that eat microbes

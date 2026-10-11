@@ -13,6 +13,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, decree No. 165/2025)"
 birthplace_name: "Shepetivka"
 image_alt: "Oleksii Mes in a fighter cockpit, 2019"
+quotes:
+  - text: "It is really a super fun jet to fly. […] the F-16 is definitely more agile."
+    source: "Video interview during F-16 training in Denmark, summer 2024"
 ---
 
 ## Two from the same class
