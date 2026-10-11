@@ -17,6 +17,7 @@ image:
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://memorybook.org.ua/soldiers/ihor-v-zinych"
+  ai_edit: restored
   fair_use: true
 key_accomplishments:
   - Фельдшер за освітою (Білоцерківський медичний коледж, 2009), працював на швидкій допомозі Рокитнянської районної лікарні
@@ -35,7 +36,8 @@ sources:
     url: "https://ukraine-memorial.org/ua/biography/zinich-igor-viktorovich/"
 related: [ivan-zubkov, ihor-branovytskyi, petro-polytsiak]
 collections: [donetsk-airport]
-status: draft
+status: approved
+published: 2026-10-11T16:50:28Z
 ---
 
 ## Чому «Псих»?

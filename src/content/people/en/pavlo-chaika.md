@@ -3,7 +3,7 @@
 name: "Pavlo Chaika"
 role: "Holder of all three Orders for Courage"
 summary: "Three Orders for Courage in eight months of war. Paratrooper Pavlo Chaika of the 79th Brigade, call sign “Sigl”, fought at Lyman and Zelenopillia, did two rotations at Donetsk airport and fought at Debaltseve, becoming only the third person in Ukraine to hold all three classes."
-fun_fact: "When he broke out of encirclement near Marinka, he brought out more than himself: a militant KamAZ truck with a mortar, captured by his unit, which went on serving Ukrainian troops for a long time."
+fun_fact: "When presidential adviser Yurii Biriukov called to congratulate Pavlo on his award, Pavlo asked which one: he already had two classes of the Order for Courage. That is how he learned he now held all three."
 key_accomplishments:
   - "Paratrooper of the 79th Separate Airmobile Brigade; in 2014–2015 fought near Lyman and Zelenopillia, at Donetsk airport (two rotations) and on the Debaltseve bridgehead"
   - "Order for Courage, 3rd class (8 July 2014), 2nd class (4 December 2014) and 1st class (decree No. 108/2015 of 26 February 2015)"
@@ -19,9 +19,17 @@ The Order for Courage has three classes, and few people ever receive all of them
 
 Pavlo was born in 1988 in Rozhyshche in the Volyn region, into a family of doctors. He studied at the Volyn military lyceum, did his military service as a paratrooper in Mykolaiv in 2007 and signed on as a contract soldier. His call sign was “Sigl”.
 
-## From Crimea to Debaltseve
+## He ran from hospital back to the war
 
-For Pavlo the war began in spring 2014 near Armiansk, on the boundary with Crimea. Then came the fighting in the Donetsk region. Near Chervonyi Lyman his convoy was ambushed and Pavlo was wounded; the doctors prescribed a month of rehabilitation, but he went back to his unit early. Soon after, near Zelenopillia, his unit spent more than a month encircled, out of food and almost out of ammunition, and fought its way out.
+For Pavlo the war began in spring 2014 near Armiansk, on the boundary with Crimea. Then came the fighting in the Donetsk region. Near Chervonyi Lyman his paratroopers’ convoy was ambushed at a checkpoint. They returned fire for about 40 minutes, and Pavlo became one of the first paratroopers wounded in this war.
+
+He couldn’t rest and heal. In hospital he kept hearing that another comrade had been wounded, then another. The doctors prescribed a month of rehabilitation, but he turned it down and went straight back to his unit from hospital. His stitches had only just come out and kept opening, so he dabbed them with brilliant green antiseptic and wrapped them in an elastic bandage himself.
+
+## A trophy from the encirclement
+
+About a week later his unit was encircled near Zelenopillia. For more than a month the troops were shelled and bombed and told to surrender, and they ran out of food and ammunition. Nobody gave up, and the unit fought its way out. Pavlo didn’t leave empty-handed: he drove out a militant KamAZ truck, armoured with extra steel plates and carrying a mortar. Ukrainian mortar crews had knocked it out earlier, and afterwards, Pavlo said, it got the troops out of trouble many times.
+
+## From the airport to Debaltseve
 
 Next came two rotations at Donetsk airport, about ten days each, with the 79th Brigade, which also had [Valerii Chybinieiev](/en/people/valerii-chybinieiev/) and [Viacheslav Zaitsev](/en/people/viacheslav-zaitsev/) among the terminals’ defenders. The hardest part there, Pavlo said, was losing friends. Then came the Debaltseve bridgehead, which he called the most frightening fight of all. In February 2015, by then a junior lieutenant, Chaika received the 1st class of the order. “I always dreamed of becoming an officer, and thanks to this war I became one,” he said.
 

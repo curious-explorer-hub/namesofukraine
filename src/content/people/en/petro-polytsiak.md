@@ -1,16 +1,17 @@
 ---
 # English text only; facts (dates, places, group, sources, image) live in ../uk/petro-polytsiak.md
 name: "Petro Polytsiak"
-role: "80th Brigade soldier, “cyborg”"
-summary: "When his call-up papers reached the village council, Petro Polytsiak was working on a building site in Kyiv - and he came home to collect them himself. An 80th Airmobile Brigade soldier, call sign “Chornyi”, he held the new terminal of Donetsk airport to the end. Order for Courage, posthumously."
+role: "Hero of Ukraine, 80th Brigade “cyborg”"
+summary: "When his call-up papers reached the village council, Petro Polytsiak was working on a building site in Kyiv - and he came home to collect them himself. An 80th Airmobile Brigade soldier, call sign “Chornyi”, he held the new terminal of Donetsk airport to the end. Hero of Ukraine, posthumously."
 fun_fact: "Petro Polytsiak and his brigade's combat medic, Hero of Ukraine Ihor Zinych, were killed in the same terminal on the same day: 20 January 2015."
 key_accomplishments:
   - "A builder from the Rivne region; mobilized in August 2014"
   - "Rifleman of the 80th Separate Airmobile Brigade, call sign “Chornyi”"
   - "One of the defenders of Donetsk airport's new terminal in January 2015"
   - "Order for Courage, 3rd class (decree No. 282/2015 of 23 May 2015, posthumously)"
+  - "Hero of Ukraine with the Order of the Golden Star (decree No. 620/2021 of 3 December 2021, posthumously)"
 birthplace_name: "Borbyn, Rivne region"
-image_alt: "Petro Polytsiak in uniform, portrait"
+image_alt: "Petro Polytsiak in a maroon beret and paratrooper’s dress uniform with a striped undershirt, portrait"
 ---
 
 ## The call-up he came back for
@@ -21,10 +22,12 @@ Petro was born on 5 July 1992 in the village of Borbyn in the Rivne region and w
 
 ## The new terminal
 
-In January 2015 Petro and other soldiers of the 80th Brigade were defending the new terminal of Donetsk airport - the defenders known as "cyborgs". His family last heard from him on 20 January 2015; after the explosion in the terminal, there was no more news.
+In January 2015 Petro and other soldiers of the 80th Brigade were defending the new terminal of Donetsk airport - the defenders known as "cyborgs". The troops there came under fire every day. His family recall that during that fighting Petro and a comrade carried a badly wounded soldier out under fire, for almost half a kilometre, and the comrade helping him was wounded too.
 
-Private Petro Polytsiak was killed on 20 January 2015 defending the new terminal of Donetsk airport. He was 22. That same day his brigade's combat medic [Ihor Zinych](/en/people/ihor-zinych/) and [Ivan Zubkov](/en/people/ivan-zubkov/) were killed there too. Petro's body was found under the rubble and identified only a month later; he is buried in his home village of Borbyn.
+His family last heard from him on 20 January 2015; after the explosion in the terminal, there was no more news.
+
+Private Petro Polytsiak was killed on 20 January 2015 defending the new terminal of Donetsk airport. He was 22. That same day his brigade's combat medic [Ihor Zinych](/en/people/ihor-zinych/) and [Ivan Zubkov](/en/people/ivan-zubkov/) were killed there too. Petro is buried in his home village of Borbyn.
 
 ## How he is remembered
 
-On 23 May 2015 Petro Polytsiak was posthumously awarded the Order for Courage, 3rd class, "for personal courage and high professionalism shown in defending the state sovereignty and territorial integrity of Ukraine". His portrait is on the Wall of Remembrance of the Fallen for Ukraine in Kyiv.
+On 23 May 2015 Petro Polytsiak was posthumously awarded the Order for Courage, 3rd class, "for personal courage and high professionalism shown in defending the state sovereignty and territorial integrity of Ukraine". On 3 December 2021, for the 30th anniversary of the Armed Forces, he was posthumously made a Hero of Ukraine. His portrait is on the Wall of Remembrance of the Fallen for Ukraine in Kyiv.
