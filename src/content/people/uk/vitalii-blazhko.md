@@ -35,7 +35,8 @@ sources:
     url: "https://memory-book.mvs.gov.ua/blazko-vitalii-olegovic"
 related: [denys-prokopenko]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-11T15:46:14Z
 ---
 
 ## Як воювати без ступнів?

@@ -10,7 +10,7 @@ key_accomplishments:
   - "Medal “For Military Service to Ukraine” (decree No. 343/2022 of 17 May 2022)"
   - "Author of the poetry collection “Flowers and Weapons” and of the books “Captivity” and “Azovstal: The Steel Press Service” (2024)"
 birthplace_name: "Mariupol"
-image_alt: "Valeriia Karpylenko in uniform with blue armbands and a red bead necklace, by a brick wall in a shelter at Azovstal"
+image_alt: "Valeriia Karpylenko in camouflage, sitting on a rock among yellow flowers and smiling"
 ---
 
 ## Flowers and weapons
@@ -23,7 +23,7 @@ In 2015 Valeriia joined the press service of the Azov regiment as a volunteer, w
 
 When the full-scale invasion began, she went back to Azov. On 27 February 2022 she was brought to the Azovstal steelworks in Mariupol. There she worked in the regiment’s press service, led by [Dmytro Kozatskyi](/en/people/dmytro-kozatskyi/): it was largely through their work that the world learned what was happening in the encircled city. At the plant Valeriia was promoted to captain, and on 17 May 2022 the President awarded her the medal “For Military Service to Ukraine”.
 
-On 5 May 2022, in a bunker at Azovstal, she married a border guard, Andrii Subotin. Two days later he was killed.
+On 5 May 2022, in a bunker at Azovstal, she married a border guard, [Andrii Subotin](/en/people/andrii-subotin/). Two days later he was killed.
 
 ## Captivity and books
 

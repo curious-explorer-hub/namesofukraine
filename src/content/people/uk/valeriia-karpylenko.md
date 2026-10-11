@@ -4,7 +4,7 @@ gender: female
 born: 1988-01-01
 born_circa: true
 living: true
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-11
 era: war-for-independence
 group: defenders
 tags: [warrior, poet, writer]
@@ -16,11 +16,13 @@ places:
   - { name: "Маріуполь", lat: 47.096, lon: 37.549, note: "пресслужба «Азову» на заводі «Азовсталь», лютий – травень 2022" }
 image:
   src: ./images/valeriia-karpylenko.jpg
-  alt: "Валерія Карпиленко у військовій формі з синіми пов'язками й червоним намистом біля цегляної стіни в укритті «Азовсталі»"
-  position: "50% 25%"
-  author: "Дмитро Козацький"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Nava_Azovstal.jpg"
+  alt: "Валерія Карпиленко у військовому камуфляжі сидить на камені серед жовтих квітів і всміхається"
+  position: "50% 20%"
+  author: "Особистий архів Валерії Суботіної (через svoi.city та ІМІ)"
+  license: "Fair use"
+  source_url: "https://imi.org.ua/news/valeriya-karpylenko-subotina-stala-presofitserkoyu-brygadnoyi-grupy-azovu-i65042"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "З 2015 року в пресслужбі полку «Азов»; згодом очолювала пресслужбу Донецького прикордонного загону (2017–2020)"
   - "Під час оборони Маріуполя 2022 року працювала в пресслужбі «Азову» на заводі «Азовсталь»; там отримала звання капітана"
@@ -35,9 +37,10 @@ sources:
     url: "https://detector.media/infospace/article/224135/2024-03-13-eksrechnytsya-azovu-cholovik-yakoi-zagynuv-cherez-dva-dni-pislya-vesillya-na-azovstali-napysala-knyzhku-pro-rosiyskyy-polon/"
   - title: Вікіпедія - Суботіна Валерія Андріївна
     url: https://uk.wikipedia.org/wiki/Суботіна_Валерія_Андріївна
-related: [dmytro-kozatskyi]
+related: [dmytro-kozatskyi, andrii-subotin]
 collections: [defenders-mariupol, women-army]
-status: draft
+status: approved
+published: 2026-10-11T15:46:14Z
 ---
 
 ## Квіти і зброя
@@ -50,7 +53,7 @@ status: draft
 
 Коли почалося повномасштабне вторгнення, Валерія повернулася до «Азову». 27 лютого 2022 року її привезли на завод «Азовсталь» у Маріуполі. Там вона працювала в пресслужбі полку, яку очолював [Дмитро Козацький](/uk/people/dmytro-kozatskyi/): значною мірою завдяки роботі пресслужби світ дізнавався, що відбувається в оточеному місті. На заводі Валерія отримала звання капітана, а 17 травня 2022 року президент нагородив її медаллю «За військову службу Україні».
 
-5 травня 2022 року в бункері «Азовсталі» вона одружилася з прикордонником Андрієм Суботіним. За два дні він загинув.
+5 травня 2022 року в бункері «Азовсталі» вона одружилася з прикордонником [Андрієм Суботіним](/uk/people/andrii-subotin/). За два дні він загинув.
 
 ## Полон і книжки
 
