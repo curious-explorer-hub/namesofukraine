@@ -23,9 +23,9 @@ In 2014, when Russia’s war in Donbas began, Yevhenii was 19, and the army then
 
 ## Coming home
 
-In spring 2022 “Mali” came back to Ukraine. He first fought in a volunteer battalion, trained in the UK that summer, and then became a machine gunner in the Special Operations Forces. Sources disagree on his unit: the Poltava city council and Memorial name the Special Operations Forces, while Streetcode names Tymur’s special unit of the Defence Intelligence Directorate. He took part in preparing the operation on Snake Island in the Black Sea. That same summer his son was born.
+In spring 2022 “Mali” came back to Ukraine. He first fought in a volunteer battalion, trained in the UK that summer, and then became a machine gunner in the Special Operations Forces. Sources disagree on his unit: the Poltava city council and Memorial name the Special Operations Forces, while Streetcode names Tymur’s special unit of the Defence Intelligence Directorate. He took part in preparing the operation on Snake Island in the Black Sea.
 
-Yevhenii Brakh was killed on 21 September 2022 on a combat mission near Enerhodar in the Zaporizhzhia region. He was 26. Tymur, the commander of a military intelligence special unit, later said that three fighters were killed in those landings near Enerhodar, among them “Mali” and “Rugbyist”, [Maksym Yalovtsov](/en/people/maksym-yalovtsov/).
+Yevhenii Brakh was killed on 21 September 2022 on a combat mission near Enerhodar in the Zaporizhzhia region. He was 26. His comrade “Rugbyist”, [Maksym Yalovtsov](/en/people/maksym-yalovtsov/), was killed alongside him near Enerhodar.
 
 ## How he is remembered
 

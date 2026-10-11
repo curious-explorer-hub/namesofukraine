@@ -30,7 +30,7 @@ Later Berezovskyi went to study in Italy. In Bologna he was taught by Padre Giov
 
 ## The return
 
-In the mid-1770s Berezovskyi returned to Saint Petersburg, but his talent was not valued there. He died in 1777, aged 31. The circumstances of his death are not known for certain; according to a widespread version, he took his own life. Most of his works have been lost.
+In the mid-1770s Berezovskyi returned to Saint Petersburg, but his talent was not valued there. He died in 1777, aged 31. The circumstances of his death are not known for certain. Most of his works have been lost.
 
 ## Why it matters today
 

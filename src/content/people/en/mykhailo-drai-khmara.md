@@ -31,7 +31,7 @@ Drai-Khmara was a Slavist: he studied Ukrainian, Belarusian and Serbian literatu
 
 ## Arrests and Kolyma
 
-Drai-Khmara was first arrested in 1933. He was later released, but lost his job. In September 1935 he was arrested again, and in 1936, in a fabricated case, he was convicted of “counter-revolutionary terrorism” and sent to Kolyma, where he did hard labour in a camp. According to the official records, Drai-Khmara died on 19 January 1939, aged 49. A former fellow prisoner later gave a different account of his death in his memoirs, but no documents confirm it. The poet was rehabilitated in 1989.
+Drai-Khmara was first arrested in 1933. He was later released, but lost his job. In September 1935 he was arrested again, and in 1936, in a fabricated case, he was convicted of “counter-revolutionary terrorism” and sent to Kolyma, where he did hard labour in a camp. According to the official records, Drai-Khmara died on 19 January 1939, aged 49. The poet was rehabilitated in 1989.
 
 ## Why it matters today
 

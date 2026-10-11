@@ -36,7 +36,7 @@ On the night of 9 February 1924 the Polish police searched her flat and found UV
 
 ## Debates and assessments
 
-The Polish police first hid her death for several days, then announced that Basarab had taken her own life. Ukrainians in Lviv did not believe it: people at the time doubted that a small woman worn out by interrogations could have reached the window bars on her own. Encyclopedia entries say she was tortured to death. Reports say the wall of the cell bore an inscription signed with her name: “I am dying, tortured, avenge me!” After protests her body was exhumed and an investigation opened, but it found nothing. How she died has never been fully established. The Polish authorities regarded Basarab as a spy, accusing her of gathering information on the Polish army.
+The Polish police announced that Basarab had taken her own life. Ukrainians in Lviv did not believe it: she is believed to have died under torture. After protests an investigation was opened, but it found nothing. How she died has never been fully established. The Polish authorities regarded Basarab as a spy, accusing her of gathering information on the Polish army.
 
 ## Why she is remembered
 

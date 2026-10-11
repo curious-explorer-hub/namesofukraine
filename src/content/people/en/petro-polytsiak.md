@@ -3,7 +3,7 @@
 name: "Petro Polytsiak"
 role: "Hero of Ukraine, 80th Brigade “cyborg”"
 summary: "When his call-up papers reached the village council, Petro Polytsiak was working on a building site in Kyiv - and he came home to collect them himself. An 80th Airmobile Brigade soldier, call sign “Chornyi”, he held the new terminal of Donetsk airport to the end. Hero of Ukraine, posthumously."
-fun_fact: "Petro Polytsiak and his brigade's combat medic, Hero of Ukraine Ihor Zinych, were killed in the same terminal on the same day: 20 January 2015."
+fun_fact: "His family recall that in January 2015 Petro and a comrade carried a badly wounded soldier almost half a kilometre under fire."
 key_accomplishments:
   - "A builder from the Rivne region; mobilized in August 2014"
   - "Rifleman of the 80th Separate Airmobile Brigade, call sign “Chornyi”"

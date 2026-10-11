@@ -30,7 +30,7 @@ The KGB asked him to work for them, and he refused. After that he was watched, a
 
 In the camps Marchenko gathered information about prisoners’ conditions and secretly sent it out, together with statements and essays. In 1981 he came back to Kyiv, worked as a watchman and went on writing protests against the abuses of the authorities.
 
-On 21 October 1983 he was arrested again, and on the same day he joined the Ukrainian Helsinki Group. Although he was gravely ill, the court gave him 10 years in special-regime camps and 5 years of exile, and he was sent to a camp in the Perm region. The medical department of the Soviet Interior Ministry concluded that he should be released as incurably ill, but the KGB would not allow it. Valerii Marchenko died on 7 October 1984 in a prison hospital in Leningrad, aged 37. His mother obtained his body and buried her son in the village of Hatne near Kyiv.
+On 21 October 1983 he was arrested again, and on the same day he joined the Ukrainian Helsinki Group. Although he was gravely ill, the court gave him 10 years in special-regime camps and 5 years of exile, and he was sent to a camp in the Perm region. The medical department of the Soviet Interior Ministry concluded that he should be released as incurably ill, but the KGB would not allow it. Valerii Marchenko died on 7 October 1984 in a prison hospital in Leningrad, aged 37. He was buried in the village of Hatne near Kyiv.
 
 ## Among the Sixtiers
 
