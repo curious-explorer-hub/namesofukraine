@@ -12,6 +12,9 @@ key_accomplishments:
   - "Lead of season 13 of the TV show The Bachelor (2024)"
 birthplace_name: "Rivne"
 image_alt: "A smiling Oleksandr Budko in a dark hoodie, sitting at a table with his arms crossed, in front of a blue banner"
+quotes:
+  - text: "People with disabilities are not people with limited abilities; it is society that creates limitations for them. Inclusivity is not about pity, it is about equal rights and comfort for everyone."
+    source: "Interview with Suspilne"
 ---
 
 ## A barista who went to the front
@@ -26,9 +29,9 @@ In August 2022, in the fighting in the Kharkiv region, Oleksandr was badly wound
 
 In September 2023, at the Invictus Games in Düsseldorf, Oleksandr won bronze in the 50-metre freestyle. He also competed for Ukraine at the 2025 Games in Vancouver and Whistler. In January 2026 the President awarded him the Order For Merit, 3rd class, as a silver and bronze medallist in swimming at the Invictus Games.
 
-## A book and a TV show
+## The fight goes on
 
-In the autumn of 2023 Oleksandr presented his autobiographical book The Story of a Stubborn Man, about his life after 24 February 2022. In 2024 he became the lead of season 13 of The Bachelor on the STB channel. As he told the American broadcaster NPR, “I wanted to show the possibilities. I wanted to give people faith.”
+Oleksandr Budko works to make Ukraine barrier-free and more inclusive, starting social projects that help veterans and people with disabilities adapt. Through his example and his work he is changing how society sees veterans and fighting for equal opportunities and comfortable conditions for everyone.
 
 ## Why it matters today
 

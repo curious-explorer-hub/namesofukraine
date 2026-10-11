@@ -1,14 +1,14 @@
 {
   "groups": [
-    { "id": "statehood", "label": { "uk": "Державні й військові діячі", "en": "Statesmen & military leaders" } },
+    { "id": "statehood", "label": { "uk": "Державотворення", "en": "Statecraft" } },
     { "id": "literature", "label": { "uk": "Література", "en": "Literature" } },
-    { "id": "visual-arts", "label": { "uk": "Художники й скульптори", "en": "Painters & sculptors" } },
+    { "id": "visual-arts", "label": { "uk": "Живопис і скульптура", "en": "Painting & sculpture" } },
     { "id": "performing-arts", "label": { "uk": "Музика, театр і кіно", "en": "Music, stage & screen" } },
     { "id": "science", "label": { "uk": "Наука й техніка", "en": "Science & technology" } },
-    { "id": "civic", "label": { "uk": "Правозахисники й активісти", "en": "Activists & rights defenders" } },
-    { "id": "faith", "label": { "uk": "Релігійні діячі", "en": "Religious leaders" } },
+    { "id": "civic", "label": { "uk": "Громадянське суспільство", "en": "Civil society" } },
+    { "id": "faith", "label": { "uk": "Релігія", "en": "Religion" } },
     { "id": "sport", "label": { "uk": "Спорт", "en": "Sports" } },
-    { "id": "defenders", "label": { "uk": "Захисники", "en": "Defenders" } }
+    { "id": "defenders", "label": { "uk": "Захисники й захисниці", "en": "Defenders" } }
   ],
   "tags": [
     { "id": "politician", "label": { "uk": "Державний діяч", "en": "Statesman" }, "uk_female": "Державна діячка" },

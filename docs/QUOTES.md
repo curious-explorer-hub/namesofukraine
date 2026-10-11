@@ -611,25 +611,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (searched for lines from «Продление жизни» (1938/39) and for his longevity sayings; no reputable source prints his own words, and the 1939 scan on RSU DSpace could not be reached)
 - rejected: "150 лет, товарищ Сталин" (his supposed answer to Stalin about how long a person can live): an anecdote from popular articles (weekend.rambler.ru) with no primary source.
 
-### oleksandr-budko — Олександр Будько
-- quote 1:
-  - uk: "Хочеться показати, що ветеран – це ось не людина, яка там на кріслі колісному, на протезах, а це людина самовпевнена, людина самодостатня. Яка живе. Яка не просто живе, власне, формує суспільство."
-  - en: "I want to show that a veteran is not someone in a wheelchair or on prostheses, but a confident, self-reliant person. Someone who lives. Who doesn't just live, but actually shapes society." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, червень 2024"
-  - source_en: "Interview with Radio Svoboda, June 2024"
-  - url: https://www.radiosvoboda.org/a/veteran-teren-protezy/32970465.html
-  - confidence: high (about 190 characters; on veterans with disabilities, which is his public cause)
-- quote 2:
-  - uk: "Не було сенсу злитися на когось чи на щось через те, що сталося. Краще було натомість зробити щось добре."
-  - en: "There was no point in me being angry at anyone or anything about what happened. It was better to do something good instead." (translation: published, NPR interpreter)
-  - original_language: uk (NPR gives only the interpreter's English; the uk is our back-translation, not his exact words)
-  - source_uk: "Інтерв'ю NPR, грудень 2024"
-  - source_en: "Interview with NPR, December 2024"
-  - url: https://www.npr.org/2024/12/17/nx-s1-5225312/ukraines-the-bachelor-stars-a-young-veteran-whos-a-double-amputee
-  - confidence: medium (the wording is the interpreter's English; we have no Ukrainian original)
-- rejected: "Я не шукаю ідеал…" (Kyiv Post, 2024) — about the partner he is looking for on «Холостяк», which is personal life, not public role.
-
 ### oleksandr-oksanchenko — Олександр Оксанченко
 - none found. The coverage I found (espreso.tv, armyinform.com.ua, sandboxx, Task & Purpose) quotes comrades or paraphrases him. I found no verbatim quote of his own.
 - still none found (retry: ESU, Espreso "Герої України", ArmyInform and Sandboxx have only third-party words, e.g. his unit's line about skill and responsibility)
