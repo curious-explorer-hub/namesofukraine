@@ -39,7 +39,7 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
         <h2 id="community">{t('community.title', lang)}</h2>
         <p>{t('community.lead', lang)}</p>
         <ul class="link-buttons">
-          <li><a class="link-button link-button-primary" href={localePath(lang, '/support/')}>{t('community.support_link', lang)}</a></li>
+          <li><a class="link-button" href={localePath(lang, '/support/')}>{t('community.support_link', lang)}</a></li>
           <li><a class="link-button" href={joinUrl}>{t('community.join_link', lang)}</a></li>
         </ul>
         <h2>{t('community.social_title', lang)}</h2>
@@ -70,15 +70,6 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
         <ul class="link-buttons">
           <li><a class="link-button" href={joinUrl}>{t('community.join_link', lang)}</a></li>
         </ul>
-        <h2>{t('community.social_title', lang)}</h2>
-        <p>{t('community.social_lead', lang)}</p>
-        {socialLinks.length ? (
-          <ul class="link-buttons">
-            {socialLinks.map((l) => <li><a class="link-button link-button-social" href={l.url} target="_blank" rel="me noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={l.icon} /></svg>{l.name}</a></li>)}
-          </ul>
-        ) : (
-          <p class="suggest-pending">{t('community.social_pending', lang)}</p>
-        )}
       </section>
     )
   }

@@ -30,6 +30,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Григорій Епік | 1901–1937 | Writer (literature) | | `executed-renaissance` | Shot at Sandarmokh. Free portrait |
 | Олекса Влизько | 1908–1934 | Poet (literature) | | `executed-renaissance` | Shot in Kyiv with the 28, December 1934. Free portrait |
 | Іван Дніпровський | 1895–1934 | Writer (literature) | | | Kherson-born, not repressed: a profile outside the collection; fills Kherson oblast |
+| Микола Лемик | 1914–1941 | OUN member (statehood) | ⚖️ | | Owner request 2026-10-10. In October 1933 he shot an official of the Soviet consulate in Lviv in protest against the Holodomor, and used his trial to tell the world about the famine; sentenced to life, freed in 1939, killed by the Nazis in 1941 (all **unverified**). A political killing: needs a neutral «Дискусії та оцінки» section |
 
 ## Needs a decision
 
