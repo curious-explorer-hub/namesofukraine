@@ -24,6 +24,9 @@ image:
   license: "CC BY 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE.jpg"
   ai_edit: restored
+quotes:
+  - text: "Ми дорожимо кожним бійцем, кожен із них є просто неймовірною людиною."
+    source: "Інтерв'ю Міністерству оборони, березень 2015"
 sources:
   - title: "Міністерство оборони України - Повний кавалер ордена «За мужність» Павло Чайка: «Я завжди мріяв стати офіцером, завдяки цій війні я ним став» (архівна копія)"
     url: "https://web.archive.org/web/20211029171823/https://www.mil.gov.ua/news/2015/03/18/povnij-kavaler-ordena-za-muzhnist--8523/"

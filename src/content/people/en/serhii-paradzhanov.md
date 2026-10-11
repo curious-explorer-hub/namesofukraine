@@ -13,6 +13,9 @@ key_accomplishments:
   - "A distinctive “poetic cinema” style that influenced filmmaking"
 birthplace_name: "Tbilisi (Georgia)"
 image_alt: "Sergei Parajanov with a grey beard, in a coat with a raised collar, on a street"
+quotes:
+  - text: "We must not let a time come when there is no word in Ukrainian or no Ukrainian song, no Ukrainian sun and no Ukrainian sunflower!"
+    source: "Last interview in Ukrainian, 1988"
 ---
 
 ## An Armenian from Tbilisi at a Kyiv film studio

@@ -12,6 +12,9 @@ key_accomplishments:
   - "The slogan “Ad fontes!” (“To the sources!”) in the 1925–1928 Literary Discussion"
 birthplace_name: "Zinkiv"
 image_alt: "Mykola Zerov, 1920s"
+quotes:
+  - text: "Life lives on, and still holds strength, / This green and drowsy hill, / This blue sky studded with gold."
+    source: "Sonnet “Kyiv from the Left Bank”, 1923"
 ---
 
 ## The poet who brought back Rome

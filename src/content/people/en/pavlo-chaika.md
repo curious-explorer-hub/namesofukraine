@@ -11,6 +11,9 @@ key_accomplishments:
   - "Honorary citizen of Rozhyshche"
 birthplace_name: "Rozhyshche, Volyn region"
 image_alt: "Pavlo Chaika in a paratrooper’s blue beret and striped undershirt, with his orders on his chest"
+quotes:
+  - text: "We treasure every soldier; every one of them is simply an incredible person."
+    source: "Interview with the Ministry of Defence, March 2015"
 ---
 
 ## Three orders in eight months

@@ -8,25 +8,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - **Confidence:** "high" means the wording was checked against the primary text or a reputable outlet quoting it; "medium" means a reputable outlet prints it without naming the primary source, so treat it as optional.
 - **English:** "ours" is our own translation; "published" names the translation used.
 
-### anatolii-solovianenko — Анатолій Солов'яненко
-- none found (no direct quote of his in reputable media; the results were his son's recollections and dissertations)
-- quote 1:
-  - uk: "Для мене ця пісня дуже багато значить. У неї не просто вокальний потенціал треба вкласти, а всю свою душу!" (translation: ours, from Russian)
-  - en: "This song means a great deal to me. You have to put into it not just your vocal potential but your whole soul!" (translation: ours)
-  - original_language: ru ("Для меня эта песня очень много значит. В нее не просто вокальный потенциал нужно вложить, а всю свою душу!")
-  - source_uk: "Інтерв'ю «Дзеркалу тижня», 11 жовтня 1996 (про народну пісню «Дивлюсь я на небо»)"
-  - source_en: "Interview with Zerkalo Nedeli (ZN.ua), 11 October 1996 (on the folk song «Dyvlius ya na nebo»)"
-  - url: https://zn.ua/ART/anatoliy_solovyanenko_iskusstvo__velikiy_uchitel.html
-  - confidence: high (his answer in a published Q&A interview by Ruslan Novakovych, read in full on ZN.ua). Note: the profile mentions he sang «Дивлюсь я на небо» at Expo-67, so the line ties in. A reader needs the song's name for context.
-- quote 2:
-  - uk: "Україна, я думаю, має бути задоволена тим, що я залишився тут, тим, що я зробив для цієї землі." (translation: ours, from Russian)
-  - en: "I think Ukraine should be pleased that I stayed here, and with what I have done for this land." (translation: ours)
-  - original_language: ru ("Украина, я думаю, должна быть довольна тем, что я остался здесь, тем, что я сделал для этой земли.")
-  - source_uk: "Інтерв'ю «Дзеркалу тижня», 11 жовтня 1996"
-  - source_en: "Interview with Zerkalo Nedeli (ZN.ua), 11 October 1996"
-  - url: https://zn.ua/ART/anatoliy_solovyanenko_iskusstvo__velikiy_uchitel.html
-  - confidence: high (same interview). Caveat: in the interview it is his answer to "is there anything you are ashamed of?", and the next sentence is a jab at the state ("Я не говорю для державы…"). On its own it may read as boastful, so the editor should decide. Another option from the same interview is "Я думаю, что в этом виноваты только мы. Уже пять лет независимости, а о нашей культуре за границей знают очень и очень мало." (on Ukrainian song being little known abroad), but it is negative in tone.
-
 ### andrii-nikovskyi — Андрій Ніковський
 - none found (searched his name with language, Central Rada, «Vita Nova», Radio Svoboda/Zbruč/ЕІУ; only biographical and scholarly texts came up, no quoted line of his own. His letters to Petliura, 1920–1921, are published on chtyvo as a scholarly PDF and might be worth a manual look.)
 
@@ -168,25 +149,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (his self-identification as the machine gunner in captivity is a witness account, not a recorded quote)
 - still none found (I searched again; there are only witness accounts of captivity, no recorded words of his own)
 
-### ihor-kalynets — Ігор Калинець
-- quote 1:
-  - uk: "Знав, що це виклик, свідомо йшов на це. Але це був мій обов'язок як поета стати на захист людей, які були переслідувані, які щось зробили для України."
-  - en: "I knew it was a challenge, and I went into it knowingly. But it was my duty as a poet to stand up for people who were persecuted, who had done something for Ukraine." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, липень 2019"
-  - source_en: "Interview with Radio Svoboda, July 2019"
-  - url: https://www.radiosvoboda.org/a/30044933.html
-  - confidence: high (verbatim on the page; it's about his 1960s support for persecuted dissidents such as Valentyn Moroz)
-- quote 2:
-  - uk: "В ув'язненні ми не здавались – оголошували голодування, протести, була напруга."
-  - en: "In prison we didn't give in: we declared hunger strikes and protests; there was tension." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, липень 2019"
-  - source_en: "Interview with Radio Svoboda, July 2019"
-  - url: https://www.radiosvoboda.org/a/30044933.html
-  - confidence: high (verbatim on the page)
-- rejected: «Дуже сильна «п'ята колона», і ми не можемо подолати її у гуманний спосіб» (headline of the same interview) — a political line that needs heavy context; not suitable
-
 ### ihor-kostenko — Ігор Костенко
 - none found (zaxid.net, ZN.UA and Ukrainska Pravda pieces on his Wikipedian of the Year award quote Jimmy Wales and others, not him; I found no reputable report of a post or statement in his own words)
 
@@ -203,19 +165,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Nobel Lecture, 'On the Present State of the Question of Immunity in Infectious Diseases', Stockholm, 11 December 1908"
   - url: https://www.nobelprize.org/prizes/medicine/1908/mechnikov/lecture/
   - confidence: high (his own lecture text on the Nobel Prize's official site). The cut […] removes "The memory of the Bipinnaria and the splinter surrounded by mobile cells and the Daphniae with their blood corpuscles devouring the dangerous spores…", i.e. the starfish larvae and water fleas from his experiments. Context: his theory "came under heavy fire from the greatest names in science". This is a calling/work line, not one of the thematic-focus topics. "Living organism" (no article) is as published.
-
-### illia-riepin — Ілля Рєпін
-- none found (not searched deeply; no well-known, verifiable short quote surfaced. Lines about his "Little Russian" identity from his letters circulate without reliable sourcing, so avoid them.)
-- quote 1:
-  - uk: "Ніхто в усьому світі не відчував так глибоко свободи, рівності і братерства. В усьому житті Запоріжжя залишилось вільним, нічому не підкорилось!" (translation: published, as printed by Radio Svoboda; the original is Russian)
-  - en: "No one in the whole world felt freedom, equality and brotherhood so deeply. All its life the Zaporozhian Sich remained free and submitted to nothing!" (translation: ours)
-  - original_language: ru
-  - source_uk: "Лист В. Стасову про запорожців, 1880 (під час роботи над «Запорожцями»)"
-  - source_en: "Letter to Vladimir Stasov about the Zaporozhian Cossacks, 1880 (while working on the 'Reply of the Zaporozhian Cossacks')"
-  - url: https://www.radiosvoboda.org/a/illya-repin-kartyna-zaporozhtsi-viyna-ukrayina-rosiya/33501273.html
-  - url 2: https://zn.ua/ART/utrachennaya_pamyat.html (ZN.ua prints the Russian opening of the same letter to Stasov: "…всему виноваты запорожцы, ну и народец же! … Недаром про них Гоголь писал, все это правда! Чертовский народ!", but not the "freedom, equality" sentences)
-  - url 3: https://www.kyivpost.com/uk/post/18793 (Kyiv Post, Ukrainian edition, same line with small differences)
-  - confidence: medium. Radio Svoboda says only "в одному з листів". The wording differs between outlets: Kyiv Post has "Ніхто на Світі… рівності та братерства. На все життя Запоріжжя залишилося вільним, нічому не підкорилося!" I did not open a page with the Russian original of these two sentences (from memory it is "Никто во всем свете не чувствовал так глубоко свободы, равенства и братства… Во всю жизнь Запорожье осталось свободным, ничему не подчинилось", unverified). A check against the published Repin–Stasov correspondence is recommended. Both outlets open the quote with "Чортовий народ!", which I left out as it may read oddly for young readers. Also check overlap with the profile's summary, which already leads with the Zaporozhians painting; that fits the quote well.
 
 ### inna-derusova — Інна Дерусова
 - none found (sources give comrades' memories about her, not her own words)
@@ -234,19 +183,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Afterword to the Lviv Apostol, 1574"
   - url: https://ru.wikisource.org/wiki/Послесловие_к_львовскому_«Апостолу»_1574_года (transcription of the primary text; the page cites the NBUV digital copy)
   - confidence: high for the wording of the original (his own signed afterword, so it's a document he wrote, not chronicle speech). Cut: "наручныхъ дѣлъ съсуды" ("the tools of handiwork"). The Ukrainian and English are ours; I found no published Ukrainian translation online. Owner: Wikisource is a transcription, not a quote aggregator, but swap in a library or scholarly edition if you prefer one (the azbyka.ru edition of «Библиотека литературы Древней Руси», т. 12, prepared by D. M. Bulanin, didn't show the text on its page).
-
-### ivan-mazepa — Іван Мазепа
-- rejected: "Всі покою щиро прагнуть, / А не в один гуж тягнуть" (the duma traditionally attributed to Mazepa). Radio Svoboda (https://www.radiosvoboda.org/a/909581.html) says folk memory "приписує йому" ("attributes to him") the verse. Wording also varies between editions ("оден/один гуж", "А не / та не"). The Internet Encyclopedia of Ukraine and ЕІУ only say he wrote verse. Usable only with an "attributed" framing.
-- none found otherwise. His letters to Motrona Kochubei are authentic but private love letters, which are not suitable.
-- quote 1:
-  - uk: "Що нам лишається […], щоб ми всі, як один, стали на захист наших законів і свобод" (translation: published, from Latin by Olha Tsyhanok, «Сіверянський літопис», 2009, №6; reprinted in «День»)
-  - en: "What is left for us […] but that we all, as one, stand in defence of our laws and freedoms" (translation: ours, from the Ukrainian)
-  - original_language: la
-  - source_uk: "Універсал до Полтавського полку та всієї України, весна 1709 (латинський текст, бібліотека Уппсальського університету)"
-  - source_en: "Universal to the Poltava regiment and all estates, spring 1709 (Latin text, Uppsala University Library)"
-  - url: https://day.kyiv.ua/uk/article/ukrayina-incognita/znaydeno-programniy-universal-mazepi-1709-roku (opened via web.archive.org; «День», 12 березня 2010, №43, by historian Oleksandr Dubyna, with the full translated text)
-  - confidence: medium (a document issued in his name and found by a historian; I read the full translation, but universals were drafted by the hetman's chancery, so "his own words" means "issued under his name"). The first cut removes "при такій великій шведській відвазі, (як не те)". The sentence continues "…котрі втрачаємо під москалями, і самі від них загинемо, якщо не будемо триматися захисту Шведської Королівської Величності", which I cut because it needs heavy political context. Contested figure: flag for the editor. Another option from the same text: "задля збереження Вітчизни нашої і всього народу".
-- rejected: the oath "Я кличу всемогутнього Бога у свідки й присягаюся…" (quoted by Ukrinform). It is known from Pylyp Orlyk's 1721 letter to Stefan Yavorskyi, i.e. Orlyk's retelling, not Mazepa's own text.
 
 ### ivan-mykolaichuk — Іван Миколайчук
 - none found. His interviews and scripts are collected in «Білий птах з чорною ознакою» (Київ: Мистецтво, 1991), but I found no verbatim quote online that a reputable source confirms.
@@ -318,18 +254,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - rejected: her speeches in the Primary Chronicle (to the Drevlians, to Constantine VII). These are the chronicler's literary text from about 150 years after her death, not her own words.
 - none found.
 - still none found (no text of her own survives; the chronicle speeches were already rejected)
-
-### kuzma-skriabin — Кузьма Скрябін
-- rejected: "Війна — самий ідіотський винахід людей", "Українці хворіють на відсутність власної гідності…" and similar lines. They circulate only in listicles (Obozrevatel, Telegraf) with no interview, date or outlet given. I found no primary source.
-- none found. A possible next step is his book «Я, «Побєда» і Берлін» (2006) or the Radio Svoboda documentary (2018).
-- quote 1:
-  - uk: "Нині всі знають, що український народ може в якийсь момент вийти й відстояти свої прагнення. […] люди показали, що вони здатні відстоювати свої ідеї й стояти за них більше двох місяців."
-  - en: "Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want. […] people have shown that they are able to defend their ideas and stand for them for more than two months." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Українській правді. Життя», 7 лютого 2014 (про Євромайдан)"
-  - source_en: "Interview with Ukrainska Pravda. Zhyttia, 7 February 2014 (on the Euromaidan)"
-  - url: https://life.pravda.com.ua/society/2014/02/07/151734/ (the live site returns 403; I read it via https://web.archive.org/web/2016/https://life.pravda.com.ua/society/2014/02/07/151734/)
-  - confidence: high (his answer in a published Q&A, verbatim). The cut […] removes "В українців був такий імідж, що моя хата скраю, а тепер". Caveats: in the same answer he goes on "Але я не вірю, що стане краще…", and the article's lead notes that he sang at concerts supporting Yanukovych in 2004. A shorter version (only the first sentence) also works. From the same interview, also usable: "Я живу із цими людьми в одній країні, тому я абсолютно солідарний із тим, що вони відстоюють."
 
 ### kyrylo-rozumovskyi — Кирило Розумовський
 - none found.
@@ -404,18 +328,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found. Reports of his death (Obozrevatel, FC Dynamo) quote his comrades, not him.
 - still none found (I searched again for interviews; there are only obituaries quoting comrades and the club)
 
-### mariia-zankovetska — Марія Заньковецька
-- none found.
-- rejected: the often-retold line about refusing the Imperial theatre to serve only her own people. It's a paraphrase in biographies, with no verbatim source. "Заручаю тебе, Марусю, зі сценою" is Kropyvnytskyi's line, not hers.
-- quote 1:
-  - uk: "Він теж умовляв мене перейти на російську сцену, а я, своєю чергою, соромила його, що він, сам українець, підмовляє мене до зради. Дорікала йому, що він не пише рідною мовою…" (translation: ours, from Russian)
-  - en: "He too urged me to move to the Russian stage, and I in turn shamed him that he, a Ukrainian himself, was talking me into betrayal. I reproached him for not writing in his native language…" (translation: ours)
-  - original_language: ru ("Он тоже уговаривал меня перейти на русскую сцену, а я в свою очередь стыдила его, что он, сам украинец, подговаривает меня к измене. Журила его, что он не пишет на родном языке...")
-  - source_uk: "Спогад про Антона Чехова, опублікований у «Литературном наследстве», т. 68 (1960), с. 593"
-  - source_en: "Recollection about Anton Chekhov, published in Literaturnoe nasledstvo, vol. 68 (1960), p. 593"
-  - url: https://zn.ua/ukr/ART/ya_tozhe_lenivyy_hohol.html (ZN.ua article «Я тоже ленивый хохол...», which quotes it with that citation)
-  - confidence: medium. There is only one reputable outlet, which cites the academic volume; I could not open the volume itself, and it may be her words as written down by someone else. "He" is Chekhov, so the quote needs that name in context. The theme fits well (loyalty to the Ukrainian stage and language). Make sure it isn't confused with the imperial-theatre paraphrase that was already rejected; this is a different, sourced line.
-
 ### marko-bezruchko — Марко Безручко
 - none found (LB.ua (Center for Research of the Liberation Movement, 2016), Ukrinform and Suspilne describe the defence of Zamość but quote none of his orders or writings; I found no verified excerpt from his writings in «За державність»)
 
@@ -488,18 +400,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Words quoted by Radio Svoboda"
   - url: https://www.radiosvoboda.org/a/24250508.html
   - confidence: medium (same article, where the line is the epigraph of a monograph on his school; no primary source given. Its meaning is bittersweet given his execution)
-
-### mykhailo-hrushevskyi — Михайло Грушевський
-- none found. I couldn't open a primary text («Хто такі українці і чого вони хочуть», the 1917 articles) to confirm any famous sentence.
-- rejected: "Народ, який не знає свого минулого, не вартий майбутнього" and similar lines often attributed to him. No primary source.
-- quote 1:
-  - uk: "Якого б не був він роду, віри чи звання – се не важно. Його воля і свідомість рішає діло."
-  - en: "Whatever his origin, faith or rank, that does not matter. His own will and awareness decide it." (translation: ours)
-  - original_language: uk
-  - source_uk: "Стаття 1917 року про те, хто такі українці (цит. за Радіо Свобода, 2009)"
-  - source_en: "1917 article on who Ukrainians are (quoted by Radio Svoboda, 2009)"
-  - url: https://www.radiosvoboda.org/a/1617083.html
-  - confidence: medium. Radio Svoboda (column of 28 April 2009) quotes the longer passage in old spelling and introduces it as the words of the chairman of the Central Rada in 1917, but it doesn't name the work. The passage looks like the chapter of «Хто такі українці і чого вони хочуть» (1917) that answers "Хто може бути Українцем…?", but I couldn't open that text to confirm. The context needed: the passage answers "who can be a Ukrainian?", and "he" is anyone who sincerely wants to be one of the Ukrainians and works for the people's good. A fuller cut: "…всякий той, хто щиро хоче бути з Українцями […] Якого б не був він роду, віри чи звання – се не важно." Owner: confirm the work before using it.
 
 ### mykhailo-omelianovych-pavlenko — Михайло Омелянович-Павленко
 - quote 1:
@@ -584,18 +484,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found. Only diary entries about his work and secondhand paraphrases ("народна пісня — вияв душі народу").
 - still none found (retry: the ESU article has no words of his own; a web search found no verifiable letter or diary line)
 
-### mykola-lysenko — Микола Лисенко
-- none found.
-- rejected: the famous story of his refusal to have «Тарас Бульба» staged in Russian (the Tchaikovsky / Imperial Opera episode). It's told in paraphrase only; I found no verbatim letter text.
-- quote 1:
-  - uk: "Фольклор — це саме життя"
-  - en: "Folklore is life itself" (translation: ours)
-  - original_language: uk
-  - source_uk: "Лист до Філарета Колесси"
-  - source_en: "Letter to Filaret Kolessa"
-  - url: https://esu.com.ua/article-54864
-  - confidence: high. Quoted by the ESU article (L. Parkhomenko), which says he wrote it in one of his letters to F. Kolessa. Second-choice theme: his calling, not freedom or Ukraine as such. The letter's date isn't given. I checked the ESU PDF, https://www.esu.com.ua/pdf/file/54864.pdf.
-
 ### mykola-pyrohov — Микола Пирогов
 - quote 1:
   - uk: "Майбутнє належить медицині запобіжній."
@@ -624,18 +512,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Poem 'For Ukraine!', 1917"
   - url: https://osvita.ua/school/literature/v/67309/
   - confidence: high (primary text)
-
-### mykola-zerov — Микола Зеров
-- none found.
-- rejected: "Ad fontes!" ("До джерел!"). It's the title of his 1926 essay collection and the neoclassicists' watchword. It works as a fact in the profile text, not as a quote.
-- quote 1:
-  - uk: "Живе життя, і силу ще таїть / Оця гора зелена і дрімлива, / Ця золотом цвяхована блакить."
-  - en: "Life lives on, and still holds strength, / This green and drowsy hill, / This blue sky studded with gold." (translation: ours)
-  - original_language: uk
-  - source_uk: "Сонет «Київ з лівого берега», 1923"
-  - source_en: "Sonnet \"Kyiv from the Left Bank\", 1923"
-  - url: https://osvita.ua/school/literature/z/69028/
-  - confidence: high. These are the closing tercet of the sonnet; I checked the full text on osvita.ua. Theme: love for Kyiv and faith in its living strength after its glory and statehood have passed (the earlier lines mourn "Твого буяння, цвіту і держави"). In context, "гора" is the Kyiv hills seen across the Dnipro.
 
 ### myroslav-irchan — Мирослав Ірчан
 - none found (the ArmyInform anniversary piece and others quote only Skovoroda and NKVD verdict wording; no verified line of his own surfaced)
@@ -669,24 +545,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### nikola-tereshchenko — Нікола Терещенко
 - none found (the family motto «Прагненням до суспільної користі» is a coat-of-arms device, already in the summary, and not his own recorded words; no letters or statements of his surfaced)
 
-### oksana-rubaniak — Оксана Рубаняк
-- quote 1:
-  - uk: "Військова справа неважка, просто треба не боятися, бути впевненим у собі й вірити в нашу перемогу."
-  - en: "Soldiering isn't hard: you just have to not be afraid, believe in yourself and believe in our victory." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Gazeta.ua, жовтень 2022"
-  - source_en: "Interview with Gazeta.ua, October 2022"
-  - url: https://gazeta.ua/articles/people-and-things-journal/_vazhu-mensh-yak-50-kilogramiv-pobratimi-dumali-scho-ne-vporayusya-z-kulemetom/1113906
-  - confidence: high
-- quote 2:
-  - uk: "[…] перемога для мене буде днем пам'яті про людей, які віддали життя за Україну […]. Це для мене день перемоги."
-  - en: "[…] for me, victory will be a day to remember the people who gave their lives for Ukraine […]. That, for me, is victory day." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Укрінформу, лютий 2024"
-  - source_en: "Interview with Ukrinform, February 2024"
-  - url: https://www.ukrinform.ua/rubric-ato/3833318-oksana-rubanak-ksena-komandir-vzvodu-zsu.html
-  - confidence: high (cuts: the opening "Але зараз більшість з них загинули, тому" and the repeat "які полягли на полі бою, які віддали життя нашій країні"; the clause about most of her comrades being killed can be restored if the owner prefers the full context)
-
 ### oleh-antonov — Олег Антонов
 - quote 1:
   - uk: "Є в світі три прекрасні сестри: віра в свої сили, надія на перемогу та любов до життя… З ними я б не хотів розлучатися до того дня, коли перестане існувати моє бентежне «я»."
@@ -704,18 +562,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "As quoted by Gazeta.ua, February 2017"
   - url: https://gazeta.ua/articles/science/_ot-an2-do-mriya-segodnya-otmechayut-den-rozhdeniya-antonova/751354
   - confidence: medium (printed as "говорив він" with no primary source; it's about his calling, not one of the main themes)
-
-### oleh-blokhin — Олег Блохін
-- none found. The quotes I found sit in sport.znaj.ua listicles ("найкращі цитати"), credited loosely to the Dynamo site, with no interview or date.
-- quote 1:
-  - uk: "Пишаюся тим, що представляю саме українську футбольну школу, тим, що мав можливість прославляти український футбол на найвищому міжнародному рівні."
-  - en: "I am proud to represent the Ukrainian school of football, and to have had the chance to bring glory to Ukrainian football at the highest international level." (translation: ours)
-  - original_language: uk
-  - source_uk: "Заява після нагородження орденом «Легенда українського футболу», травень 2023"
-  - source_en: "Statement on receiving the \"Legend of Ukrainian Football\" order, May 2023"
-  - url: https://espreso.tv/blokhina-nagorodili-ordenom-legenda-ukrainskogo-futbolu
-  - confidence: high. A direct statement that Espreso (3 May 2023) quotes in full, attributed to him and reported via the Ukrainian Association of Football (uaf.ua). The original UAF post wasn't checked. 150 characters.
-- rejected: the comment that the UAF and the national team are "an answer to the aggressor" and that "Ukrainians can't be fooled" (Ukrainian News, late 2022). The page returned 403 and only the search snippet was seen; ukranews.com isn't on the list of major outlets.
 
 ### oleh-mikats — Олег Мікац
 - quote 1:
@@ -886,24 +732,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: medium (Radio Svoboda, 2007, says he wrote it but doesn't name the book or give the original text. A riddle hiding his name "Памво", fun for young readers, but it's a characteristic line, not one of the main themes)
 - rejected: none. I couldn't open the text of the 1627 dedication to the Balabans; scholars only paraphrase it (e.g. N. Chernysh, pvs.uad.lviv.ua/media/32/40.pdf).
 
-### pavlo-chaika — Павло Чайка
-- quote 1:
-  - uk: "Ми дорожимо кожним бійцем, кожен із них є просто неймовірною людиною."
-  - en: "We treasure every soldier; every one of them is simply an incredible person." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Міністерству оборони, березень 2015"
-  - source_en: "Interview with the Ministry of Defence, March 2015"
-  - url: https://web.archive.org/web/20211029171823/https://www.mil.gov.ua/news/2015/03/18/povnij-kavaler-ordena-za-muzhnist--8523/
-  - confidence: high (from his answer about the airport rotations)
-- quote 2:
-  - uk: "Війна кардинально змінила цінності в житті. Раніше думав, що у мене є багато побутових проблем, а зараз розумію, що це усе дрібниці. Найголовніша цінність — це життя, здоров'я."
-  - en: "The war completely changed my values. I used to think I had lots of everyday problems; now I understand they are all trifles. The most important thing is life and health." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Міністерству оборони, березень 2015"
-  - source_en: "Interview with the Ministry of Defence, March 2015"
-  - url: https://web.archive.org/web/20211029171823/https://www.mil.gov.ua/news/2015/03/18/povnij-kavaler-ordena-za-muzhnist--8523/
-  - confidence: high (the same answer goes on with "Я завжди мріяв стати офіцером…", which the profile already uses)
-
 ### pavlo-skoropadskyi — Павло Скоропадський
 - quote 1:
   - uk: "Хто хоче все й одразу, той зрештою нічого не дістає."
@@ -929,14 +757,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### petro-sahaidachnyi — Петро Конашевич-Сагайдачний
 - none found.
 - still none found (not retried in depth; no document he authored with a known short line turned up)
-
-### petro-yatsyk — Петро Яцик
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "Я не знав, що мене там чекає, але був переконаний, що коли б зміг вижити, я зробив би щось для України."
-  - source_uk: "Про еміграцію 1944 року; цитата за Українським інститутом національної пам'яті"
-- review of the stashed quote: OK. UINP (https://uinp.gov.ua/istorychnyy-kalendar/lypen/7/1921-narodyvsya-petro-yacyk-biznesmen-mecenat-ta-filantrop-fundator-mizhnarodnogo-blagodiynogo-fondu-liga-ukrayinskyh-mecenativ) has the exact text: "Я не знав, що мене там чекає, але був переконаний, що коли б зміг вижити, я зробив би щось для України." UINP says he recalled this late in life about leaving in 1944. The next sentence on the page, "Тому взяв свою торбинку і попрямував у невідоме", could be appended if wanted. A small suggestion: the source line could say "Спогади про від'їзд на еміграцію 1944 року" / "Recollection of leaving for emigration in 1944" instead of "цитата за УІНП".
-  - en for the existing quote: "I didn't know what awaited me there, but I was sure that if I managed to survive, I would do something for Ukraine." (translation: ours)
-- no new quote proposed.
 
 ### pylyp-orlyk — Пилип Орлик
 - none found. The 1710 Constitution (Latin original) is a collective treaty text with many translation variants. I found no short, well-known line confirmed in an authoritative translation (the rada.gov.ua text could not be fetched).
@@ -994,41 +814,12 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found
 - still none found (retry: Glavred, Zaxid and Fakty quote comrades and Avakov only; the life.pravda.com.ua piece "Полк признал своего генерала", 30 May 2014, may hold his words but returned 403)
 
-### serhii-paradzhanov — Сергій Параджанов
-- rejected: "У мене три батьківщини: народився в Грузії, працював в Україні, помирати поїду до Вірменії" — widely repeated but no interview or memoir source found. The media only paraphrase it.
-- none found
-- quote 1:
-  - uk: "Не можна допустити, щоб настав час, коли не буде слова українською чи не буде пісні української, чи не буде сонця українського і не буде соняшника українського!"
-  - en: "We must not let a time come when there is no word in Ukrainian or no Ukrainian song, no Ukrainian sun and no Ukrainian sunflower!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Останнє інтерв'ю українською мовою, 1988"
-  - source_en: "Last interview in Ukrainian, 1988"
-  - url: https://www.radiosvoboda.org/a/news-100-rokiv-paradzhanovu/32767203.html
-  - url 2: https://bank.gov.ua/files/coins_images/C53u.pdf (NBU coin leaflet; seen only as a search snippet that paraphrases the same 1988 interview, not opened)
-  - confidence: high. Radio Svoboda (9 January 2024) quotes it verbatim as his last interview in Ukrainian, 1988. 158 characters.
-- quote 2:
-  - uk: "Я – вірменин, який народився у Тбілісі й сидів у російській в'язниці за український націоналізм"
-  - en: "I am an Armenian who was born in Tbilisi and did time in a Russian prison for Ukrainian nationalism." (translation: ours)
-  - original_language: uk (probably said in Russian; the original wording isn't given)
-  - source_uk: "Самохарактеристика (цит. за Радіо Свобода, 2024)"
-  - source_en: "Self-description (quoted by Radio Svoboda, 2024)"
-  - url: https://www.radiosvoboda.org/a/news-100-rokiv-paradzhanovu/32767203.html
-  - confidence: medium. Radio Svoboda prints it as his own words, with no interview or date. Mildly sensitive: it touches on his imprisonment; "Ukrainian nationalism" was the Soviet charge, and the profile should already explain this.
-- also in the same article, as background rather than a quote candidate: "І тоді почались оці гоніння, за те, що я відмовився робити російський варіант цього фільму" (on «Тіні забутих предків»). It's verbatim on Radio Svoboda, undated; usable if the owner wants a line about refusing the Russian dub.
-
 ### serhii-sternenko — Сергій Стерненко
 - none found (no widely known quote; interviews such as DOU Day 2026 have no standout line verifiable in the text)
 - still none found (retry: the interviews found, UNIAN/Bukvy on the SBU offer and coverage of his court cases, have only political or legal remarks, no line on the theme suitable for young readers)
 
 ### serhii-tabala — Сергій Табала
 - none found (checked Книга пам'яті, Український меморіал, ArmyInform and Suspilne Sumy; only fellow soldiers' and relatives' memories, none of his own words)
-
-### serhii-volynskyi — Сергій Волинський
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "Я не є католиком, я православний. Я вірю в Бога і знаю, що світло завжди перемагає темряву."
-  - source_uk: "Сергій Волинський, лист Папі Франциску з Маріуполя, квітень 2022 (за «Українською правдою»)"
-- review of the stashed quote: OK. The wording matches the letter to Pope Francis as published by LB.ua (18 April 2022, citing Ukrainska Pravda): "Я не є католиком, я православний. Я вірю в Бога і знаю, що світло завжди перемагає темряву." Formatting issue: the `source` line repeats the name ("Сергій Волинський, …"). Per the rules it should be e.g. "Лист Папі Франциску з Маріуполя, квітень 2022" / "Letter to Pope Francis from Mariupol, April 2022". url: https://lb.ua/society/2022/04/18/513868_evakuyuyte_lyudey_vryatuyte_ihni.html
-- none found beyond the existing one (the "maybe our last appeal" wording could not be confirmed)
 
 ### serhii-zhadan — Сергій Жадан
 - quote 1:
@@ -1158,27 +949,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: medium (memorial article by Анатолій Дробязко, 18 April 2003. The interview is not named or dated. The line is political, so the owner should decide whether it suits the site)
 - rejected: "Надо любить Украину в себе, а не себя в Украине". ZN.ua (2008) calls it "жизненное кредо, которому Гетьман следовал", not his words. It is also a reworking of Stanislavsky's well-known saying.
 
-### vadym-voroshylov — Вадим Ворошилов
-- rejected: "Шолом від крові не відмиватиму, збережу для історії" (ArmyInform headline, Dec 2022) — it is real but graphic, so it doesn't suit young readers. "Літаки, на яких ми воюємо, виробляє ворог" is only a Radio NV headline and is not checked against the broadcast.
-- none found
-- quote 1:
-  - uk: "Нас ніхто і ніщо не зламає. Сили оборони України захищають не лише нашу державу, вони стоять на захисті всього цивілізованого світу."
-  - en: "No one and nothing can break us. The Defense Forces of Ukraine protect not only our state, they stand to protect the whole civilised world." (translation: original, as published in English by VICE)
-  - original_language: en (as published; the interview was most likely given in Ukrainian, so the uk text is our back-translation)
-  - source_uk: "Інтерв'ю VICE, грудень 2022"
-  - source_en: "Interview with VICE, December 2022"
-  - url: https://www.vice.com/en/article/vadym-voroshilov-ukraine-fighter-pilot/
-  - confidence: medium (VICE, 16 December 2022, Shelby Wilder, prints both sentences as his. It doesn't say whether a translator was used, and no Ukrainian original was found, so the uk wording is ours, not his)
-- quote 2:
-  - uk: "Ми діємо більш сучасними методами, які взагалі не прописані в жодному з підручників будь-якої країни світу."
-  - en: "We use more modern methods that aren't written in any textbook of any country in the world." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Українській правді», грудень 2022"
-  - source_en: "Interview with Ukrainska Pravda, December 2022"
-  - url: https://texty.org.ua/fragments/108585/my-diyemo-metodamy-yaki-ne-propysani-v-zhodnomu-z-pidruchnykiv-bud-yakoyi-krayiny-svitu-pilot-karaya
-  - url 2: https://www.pravda.com.ua/articles/2022/12/28/7382581/ (the original interview, 28 Dec 2022; it returned 403 to the fetch tool, so the wording was checked through Texty's reprint)
-  - confidence: high (Texty.org.ua reprints the UP interview and credits it. It's about his work, not the core themes, so it's a second choice)
-
 ### valentyn-hlushko — Валентин Глушко
 - none found (his 1923 letter to Tsiolkovsky ("Эта просьба касается проекта межпланетного и межзвездного путешествия…") is quoted only by business-gazeta.ru, which isn't on our list of sources; no encyclopedia or reputable outlet prints it. He is also a contested figure)
 
@@ -1204,25 +974,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: medium (the poem is quoted by Radio Svoboda; I couldn't check it against a published collection: the chtyvo PDF of «Вибрані твори» (Смолоскип, 2014) wouldn't download)
 - rejected: the epigram «Фу ти, ну ти, / Ну й панфути…» (quoted in the same programme) — a jab at the rival Futurists, not suitable for the site.
 
-### valerii-chybinieiev — Валерій Чибінєєв
-- none found ("Будь, як Валера" is the billboard campaign slogan, not his words)
-- quote 1:
-  - uk: "Наш дух, який росіяни думали зламати, не зламаний. […] Цей дух не просто відродився, він розправив свої крила і став більшим, ніж був будь-коли."
-  - en: "Our spirit, which the Russians thought they would break, is not broken. […] This spirit hasn't just been reborn; it has spread its wings and grown bigger than ever." (translation: ours)
-  - original_language: ru (as printed by UNIAN's Russian edition; no Ukrainian version found)
-  - source_uk: "Інтерв'ю УНІАН, грудень 2016"
-  - source_en: "Interview with UNIAN, December 2016"
-  - url: https://www.unian.net/war/1664122-geroy-ukrainyi-valeriy-chibineev-duh-voina-u-soldat-i-ofitserov-ukrainskoy-armii-kotoryiy-rossiyane-dumali-slomat-ne-slomlen.html
-  - confidence: high (UNIAN's own interview, by Ірина Шевченко, 6 Dec 2016, and the headline uses the same line. The answer is to "Кто или что в украинской армии сегодня вызывает у вас наибольшую гордость?". Printed as: "Вот этот наш дух, который россияне думали сломать, не сломлен. Благодаря действиям бойцов на передовой, этот дух не просто возродился, он крылья свои расправил и стал больше, чем был когда-либо." The cut removes "Благодаря действиям бойцов на передовой". The Ukrainian is ours)
-- quote 2:
-  - uk: "Мій підрозділ в Авдіївці виконує бойове завдання, а я буду вдома — це було б неправильно."
-  - en: "My unit is in Avdiivka carrying out a combat mission while I'd be at home — that would be wrong." (translation: ours)
-  - original_language: ru (as printed)
-  - source_uk: "Інтерв'ю УНІАН, грудень 2016"
-  - source_en: "Interview with UNIAN, December 2016"
-  - url: https://www.unian.net/war/1664122-geroy-ukrainyi-valeriy-chibineev-duh-voina-u-soldat-i-ofitserov-ukrainskoy-armii-kotoryiy-rossiyane-dumali-slomat-ne-slomlen.html
-  - confidence: high (same interview. Printed as "Мое подразделение в Авдеевке, выполняет боевую задачу, а я буду дома – это было бы неправильно". The context is staying at the front after being made a Hero of Ukraine)
-
 ### valerii-lobanovskyi — Валерій Лобановський
 - rejected: "Перемагає та команда, яка робить менше помилок" — widely attributed, but not traced to an interview or to his book «Бесконечный матч». Sport24.ru-style lists are the only carriers.
 - none found
@@ -1239,24 +990,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: high (Forbes Ukraine isn't on the brief's list, but it is a major national business outlet; the owner should confirm it's acceptable. Contested figure: this line is neutral and doesn't touch the 47th brigade dispute)
 - rejected: "Люди, які вважають себе елітою, але за вісім років жодного разу не були на війні, морального права не мають називатися елітою…" (same Forbes piece) — a political jab, not suitable.
 - rejected: "Україна — це ідея сміливості, а бути українцем — мати персональну відповідальність…" (vikna.tv, retelling an Elle interview) — vikna gives it as a paraphrase, not a direct quote, and the Elle original wasn't found.
-
-### valeriia-karpylenko — Валерія Карпиленко
-- quote 1:
-  - uk: "Але всі, хто довго перебувають у полоні, усвідомлюють: скільки ти там би не знаходився, Україна не могла тебе покинути, як і друзі, і рідні."
-  - en: "But everyone who spends a long time in captivity comes to understand: however long you're there, Ukraine could not abandon you, and neither could your friends and family." (translation: ours)
-  - original_language: uk
-  - source_uk: "Творча зустріч у Будинку кіно, травень 2023 (за АрміяInform)"
-  - source_en: "At a literary evening at the Kyiv House of Cinema, May 2023 (as reported by ArmyInform)"
-  - url: https://armyinform.com.ua/2023/05/14/v-kyyivskomu-budynku-kino-vidbulasya-tvorcha-zustrich-z-ukrayinskoyu-poetesoyu-ta-zahysnyczeyu-valeriyeyu-subotinoyu/
-  - confidence: high (direct speech in ArmyInform; I read it through a fetch tool because the raw page was blocked, so recheck the punctuation before publishing. Nothing graphic)
-- quote 2:
-  - uk: "І чим ви лякатимете її тепер? Чи ви обмежите її волю? Їй би квіти в руках тримати, а доводиться — вогнепальну зброю"
-  - en: "And what will you scare her with now? Will you curb her freedom? She ought to be holding flowers, but instead she has to hold a gun" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш зі збірки «Квіти і зброя», 2021"
-  - source_en: "Poem from the collection Flowers and Weapons, 2021"
-  - url: https://vikna.tv/istorii/valeriya-subotina-karpylenko-istoriya-vijskovoyi-na-psevdo-nava/
-  - confidence: medium (Vikna (TV channel site) prints the lines as Serhii Zhadan read them aloud; line breaks unknown and not checked against the book. It also echoes the collection's title, which the summary already uses)
 
 ### vasyl-kuk — Василь Кук
 - quote 1:
@@ -1281,17 +1014,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### vasyl-virastiuk — Василь Вірастюк
 - none found (the Interfax-Ukraine interviews from 2023–2024 are about veterans' sports rehabilitation and contain no memorable lines; "Разом ми сила" shows up only in news captions of a social-media post)
 - still none found (the Radio Svoboda piece from 28 Dec 2007 quotes his brother Roman, not Vasyl. A Glavred piece and netfreedom.org.ua carry only self-descriptions or the authors' own framing)
-
-### vasyl-vyshyvanyi — Василь Вишиваний (Вільгельм Габсбург)
-- none found (his poetry collection «Минають дні…» (Vienna, 1921) is on chtyvo.org.ua as djvu/pdf, but no reputable source that I could open quotes specific lines; Radio Svoboda (Feb 2020) and gazeta.ua quote historians, not him. Lines could be taken straight from the 1921 edition if someone checks the scan by hand)
-- quote 1:
-  - uk: "О хмари, що в сторони рідні йдете, / Гуцулів від мене вітайте — / О птиці, що в гори на південь пливете, / З вітанням від них повертайте."
-  - en: "O clouds that drift toward my native lands, / Greet the Hutsuls for me — / O birds that sail south to the mountains, / Come back with their greetings." (translation: ours)
-  - original_language: uk
-  - source_uk: "Збірка «Минають дні…», Відень, 1921"
-  - source_en: "From the collection Minaiut dni… (Days Go By), Vienna, 1921"
-  - url: https://gazeta.ua/articles/history-newspaper/_vilgelm-gabsburg-hotel-stat-korolem-ukrainy/247995
-  - confidence: medium (one source: Gazeta.ua, 22 Aug 2008, Ольга Омельченко. It names the collection but not the poem's title. Gazeta.ua runs the lines together, so the line breaks here are reconstructed from the rhyme; check them against the 1921 scan on chtyvo before use. The theme fits: love for Ukraine and the Hutsul region)
 
 ### viacheslav-zaitsev — В'ячеслав Зайцев
 - quote 1:
@@ -1486,18 +1208,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Verse dedication in the Prognostic Judgment of the Current Year 1483, Rome, 1483"
   - url: https://www.radiosvoboda.org/a/939715.html
   - confidence: medium (same as quote 1; this is a line about his calling, not one of the main themes)
-
-### yurii-ruf — Юрій Руф
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "Ми лише дрова у вогні великої Ідеї"
-  - source_uk: "Юрій Руф (цит. за Науково-технічною бібліотекою НЛТУ України)"
-- review of the stashed quote: OK in substance, but the `source` needs fixing. The wording is confirmed by Telegraf (9 Jun 2024), which gives it as his words, and it is written on the Lviv mural: "Ми вже перемогли! Історія народить нових бійців! Ми лише дрова у вогні великої ідеї!" (Telegraf writes "ідеї" in lower case; the NLTU library writes "Ідеї".) Problems:
-  - The current `source` "Юрій Руф (цит. за Науково-технічною бібліотекою НЛТУ України)" breaks the format: it repeats his name and gives no context. Suggested: "Слова, написані на його муралі у Львові (2024)" / "His words, written on his mural in Lviv (2024)", or "Улюблений вислів" / "A favourite saying of his", if the owner prefers.
-  - The NLTU page uses the line only as a headline, without context.
-  - The original occasion (poem, post or speech) is unknown, so confidence is medium.
-  - Confirming URL: https://news.telegraf.com.ua/ukr/lvov/2024-06-09/5856842-zamist-geroiv-minulogo-geroy-sogodennya-u-lvovi-vidkrili-mural-yuriyu-rufu
-  - Optional: lengthen it to "Ми вже перемогли! Історія народить нових бійців! Ми лише дрова у вогні великої Ідеї!"
-- no new quotes found (his collections «Багряна лірика», «Час Революції», «Ваніль чи сталь?!» and «На зламі епох» are not quoted in reputable outlets I could open)
 
 ### yurii-rybchynskyi — Юрій Рибчинський
 - quote 1:

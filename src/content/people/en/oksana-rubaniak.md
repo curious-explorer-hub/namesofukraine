@@ -11,6 +11,9 @@ key_accomplishments:
   - "Commander of an unmanned aerial systems platoon; as of October 2026, a captain in the Armed Forces"
 birthplace_name: "Ivano-Frankivsk region"
 image_alt: "Portrait of Oksana Rubaniak in a combat helmet and uniform, with a red braid, against a dark background"
+quotes:
+  - text: "Soldiering isn't hard: you just have to not be afraid, believe in yourself and believe in our victory."
+    source: "Interview with Gazeta.ua, October 2022"
 ---
 
 ## Where the title came from

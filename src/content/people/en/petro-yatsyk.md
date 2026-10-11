@@ -11,6 +11,9 @@ key_accomplishments:
   - "First president of the League of Ukrainian Patrons"
 birthplace_name: "Verkhnie Synovydne"
 image_alt: "Photographic portrait of Petro Yatsyk"
+quotes:
+  - text: "I didn't know what awaited me there, but I was sure that if I managed to survive, I would do something for Ukraine."
+    source: "Recollection of leaving for emigration in 1944"
 ---
 
 ## From dishwasher to patron

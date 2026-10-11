@@ -11,6 +11,9 @@ key_accomplishments:
   - "Officer of Ukraine’s Defence Intelligence (HUR), took part in the defense of the Kyiv region in 2022"
 birthplace_name: "Berdiansk"
 image_alt: "Portrait of Valerii Chybinieiev"
+quotes:
+  - text: "Our spirit, which the Russians thought they would break, is not broken. […] This spirit hasn't just been reborn; it has spread its wings and grown bigger than ever."
+    source: "Interview with UNIAN, December 2016"
 ---
 
 ## “Be like Valera”

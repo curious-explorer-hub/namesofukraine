@@ -14,6 +14,9 @@ key_accomplishments:
   - "Alliance with Sweden in 1708 to free Ukraine from dependence on Moscow"
 birthplace_name: "Mazepyntsi (near Bila Tserkva)"
 image_alt: "Portrait of Ivan Mazepa"
+quotes:
+  - text: "What is left for us […] but that we all, as one, stand in defence of our laws and freedoms."
+    source: "Universal of 1709 (translated from Latin)"
 ---
 
 ## A hetman with a European education

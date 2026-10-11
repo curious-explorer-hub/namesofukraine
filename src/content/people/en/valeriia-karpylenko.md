@@ -11,6 +11,9 @@ key_accomplishments:
   - "Author of the poetry collection “Flowers and Weapons” and of the books “Captivity” and “Azovstal: The Steel Press Service” (2024)"
 birthplace_name: "Mariupol"
 image_alt: "Valeriia Karpylenko in camouflage, sitting on a rock among yellow flowers and smiling"
+quotes:
+  - text: "But everyone who spends a long time in captivity comes to understand: however long you're there, Ukraine could not abandon you, and neither could your friends and family."
+    source: "At a literary evening at the Kyiv House of Cinema, May 2023 (as reported by ArmyInform)"
 ---
 
 ## Flowers and weapons

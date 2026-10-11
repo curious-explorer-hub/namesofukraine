@@ -11,6 +11,9 @@ key_accomplishments:
   - "People’s Artist of the USSR (1975), Shevchenko Prize (1997), Hero of Ukraine (2008, posthumously, Decree No. 615/2008)"
 birthplace_name: "Stalino (now Donetsk)"
 image_alt: "Anatolii Solovianenko: a photo from Soviet Life (1984) turned by AI into a photo-like image"
+quotes:
+  - text: "This song means a great deal to me. You have to put into it not just your vocal potential but your whole soul!"
+    source: "Interview with Dzerkalo Tyzhnia, October 1996 (on the folk song Dyvlius ya na nebo)"
 ---
 
 ## The engineer who sang

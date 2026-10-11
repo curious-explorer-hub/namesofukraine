@@ -14,6 +14,9 @@ key_accomplishments:
   - "Founded a school of music and drama in Kyiv (1904)"
 birthplace_name: "Hrynky"
 image_alt: "Photograph of Mykola Lysenko"
+quotes:
+  - text: "Folklore is life itself."
+    source: "Letter to Filaret Kolessa"
 ---
 
 ## The opera he wouldn’t give up

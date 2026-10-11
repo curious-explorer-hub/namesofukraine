@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order of Merit, 1st class (2015, posthumously); Hero of Ukraine (2020, posthumously, Decree No. 323/2020)"
 birthplace_name: "Sambir"
 image_alt: "Kuzma Skriabin after a concert in Melitopol, 2014"
+quotes:
+  - text: "Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want."
+    source: "Interview with Ukrainska Pravda. Zhyttia, February 2014 (on the Euromaidan)"
 ---
 
 ## A rock star with a medical degree

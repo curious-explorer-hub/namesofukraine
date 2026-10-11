@@ -14,6 +14,9 @@ key_accomplishments:
   - "Proclamation of the independence of the Ukrainian People’s Republic by the Fourth Universal (January 1918)"
 birthplace_name: "Kholm (now Chełm, Poland)"
 image_alt: "Photograph of Mykhailo Hrushevskyi"
+quotes:
+  - text: "Whatever his origin, faith or rank, that does not matter. His own will and awareness decide it."
+    source: "1917 article on who can be a Ukrainian"
 ---
 
 ## Whose history is it?

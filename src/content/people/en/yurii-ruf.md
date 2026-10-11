@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order for Courage, 3rd class (posthumously, decree No. 334/2022 of 14 May 2022)"
 birthplace_name: "Berezhany"
 image_alt: "Yurii Ruf in a black T-shirt with the word «Stus» on it"
+quotes:
+  - text: "We are only firewood in the fire of a great Idea."
+    source: "His words, written on his mural in Lviv, 2024"
 ---
 
 ## Who was Yurii Ruf?

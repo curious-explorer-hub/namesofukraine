@@ -12,6 +12,9 @@ key_accomplishments:
   - "People’s Artist of the Ukrainian SSR (1923)"
 birthplace_name: "Zanky, Nizhyn district, Chernihiv province"
 image_alt: "Photograph of Mariia Zankovetska, 1892"
+quotes:
+  - text: "He too urged me to move to the Russian stage, and I in turn shamed him that he, a Ukrainian himself, was talking me into betrayal."
+    source: "Recollection of Anton Chekhov"
 ---
 
 ## One role, a first time twice

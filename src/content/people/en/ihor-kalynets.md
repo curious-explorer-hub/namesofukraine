@@ -11,6 +11,9 @@ key_accomplishments:
   - "Shevchenko National Prize (1992), Vasyl Stus Prize (1992), Order of Freedom (2009)"
 birthplace_name: "Khodoriv"
 image_alt: "Ihor Kalynets, a grey-haired man with a moustache, in a grey suit and tie on a street, 2007"
+quotes:
+  - text: "I knew it was a challenge, and I went into it knowingly. But it was my duty as a poet to stand up for people who were persecuted, who had done something for Ukraine."
+    source: "Interview with Radio Svoboda, July 2019"
 ---
 
 ## The book they took off the shelves

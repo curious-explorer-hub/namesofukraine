@@ -14,6 +14,9 @@ image_alt: "Portrait of Serhii Volynskyi in marine dress uniform with the Gold S
 videos:
   - title: "Denys Prokopenko and Serhii Volynskyi on the 36th Brigade's breakthrough"
     source: "Ukrinform"
+quotes:
+  - text: "I am not a Catholic, I am Orthodox. I believe in God and I know that light always defeats darkness."
+    source: "Letter to Pope Francis from Mariupol, April 2022"
 ---
 
 ## A letter from a city under siege
