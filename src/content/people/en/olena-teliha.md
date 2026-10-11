@@ -10,13 +10,16 @@ key_accomplishments:
   - "In 1941, in occupied Kyiv, headed the Union of Ukrainian Writers and edited the literary weekly Litavry"
 birthplace_name: "Ilyinskoye (Moscow Governorate)"
 image_alt: "Portrait photograph of Olena Teliha, c. 1929"
+quotes:
+  - text: "Victory is given only to those who could laugh even in pain."
+    source: "On endurance and victory through pain"
 ---
 
 ## “That dog’s language is my language!”
 
 Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv (other sources give 1907 and Saint Petersburg). In 1918 the family moved to Kyiv, and in 1922 to Poděbrady in Czechoslovakia. Olena grew up in a Russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
 
-In 1934, at a party in Prague, someone began mocking the Ukrainian language. By her own account, printed in Vistnyk, Olena stood up, banged her fist on the table and shouted: “That dog’s language is my language!” From then on, she wrote, she spoke only Ukrainian.
+In 1934, at a party in Prague, someone began mocking the Ukrainian language. By her own account, printed in Vistnyk, Olena stood up, banged her fist on the table and shouted: “You boors! That dog’s language is my language! The language of my father and my mother! And I don’t want to know you any more!” From then on, she wrote, she spoke only Ukrainian.
 
 ## A poet of Vistnyk
 

@@ -36,7 +36,8 @@ sources:
     url: "https://zaxid.net/u_lvovi_poproshhalisya_z_pismennikom_ta_disidentom_igorem_kalintsem_n1613662"
 related: [ivan-dziuba, ivan-drach, ivan-svitlychnyi, alla-horska, yevhen-sverstiuk, viacheslav-chornovil, lina-kostenko]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-11T03:38:47Z
 ---
 
 ## Книжка, яку зняли з продажу

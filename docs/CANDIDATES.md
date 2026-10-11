@@ -31,6 +31,14 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Олекса Влизько | 1908–1934 | Poet (literature) | | `executed-renaissance` | Shot in Kyiv with the 28, December 1934. Free portrait |
 | Іван Дніпровський | 1895–1934 | Writer (literature) | | | Kherson-born, not repressed: a profile outside the collection; fills Kherson oblast |
 | Микола Лемик | 1914–1941 | OUN member (statehood) | ⚖️ | | Owner request 2026-10-10. In October 1933 he shot an official of the Soviet consulate in Lviv in protest against the Holodomor, and used his trial to tell the world about the famine; sentenced to life, freed in 1939, killed by the Nazis in 1941 (all **unverified**). A political killing: needs a neutral «Дискусії та оцінки» section |
+| Микола Міхновський | 1873–1924 | Lawyer, political thinker (statehood) | ⚖️ | | Owner request 2026-10-10. Author of «Самостійна Україна» (1900), the first programme calling for an independent Ukraine; founder of the Ukrainian People's Party. His nationalism is debated: needs a «Дискусії та оцінки» section |
+| Іван Огієнко (митрополит Іларіон) | 1882–1972 | Linguist, church leader (faith) | 🌍 | | Owner request 2026-10-10. Linguist and historian of the language; UNR minister of education and of religious affairs; first rector of the Kamianets-Podilskyi Ukrainian University; translated the whole Bible into Ukrainian; later metropolitan of the Ukrainian Orthodox Church of Canada |
+| Дмитро Донцов | 1883–1973 | Political thinker (statehood) | 🌍 ⚖️ | | Owner request 2026-10-10. Ideologist of Ukrainian integral nationalism («Націоналізм», 1926); a strong influence on the OUN; emigrated to Canada. Contested: needs a careful «Дискусії та оцінки» section |
+| Григорій Голоскевич | 1884–1935 | Linguist (science) | | `executed-renaissance` | Owner request 2026-10-10. Author of the «Правописний словник» (1929) for the 1928 orthography; arrested in the SVU case, exiled to Siberia, died there in 1935 |
+| Олекса Синявський | 1887–1931 | Linguist (science) | | | Owner request 2026-10-10. One of the authors of the 1928 Ukrainian orthography («скрипниківка»); «Норми української літературної мови» (1931) |
+| Олександр Смакула | 1900–1983 | Physicist (science) | 🌍 | | Owner request 2026-10-10. Born near Ternopil; at Carl Zeiss in 1935 invented the anti-reflective coating for lenses, now on glasses and camera optics worldwide; later worked at MIT |
+| Олена Вітер | 1904–1988 | Nun, abbess (faith) | 👩 | | Owner request 2026-10-10. Basilian nun from 1922; abbess of the Studite convent in Lviv (1939–40, 1941–45); organised help for imprisoned nationalists (ESU); later repressed by the Soviet regime (**unverified**) |
+| Богдан Казанівський | | OUN member (statehood) | | | Owner request 2026-10-10. OUN member; memoir «Шляхом легенди» (from general knowledge; no biography found in a first search, so check years and role before drafting) |
 
 ## Needs a decision
 
@@ -46,6 +54,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Євгенія Емеральд («Жанна д'Арк») | | Defender (defenders) | 👩 🟢 | She says she is not a certified sniper (RBC-Styler, 15 Nov 2023); most later coverage is about her private life, not public deeds. Keep or drop? For `women-army` |
 | Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (above)? |
 | Богдан-Ігор Антонич | 1909–1937 | Poet (literature) | 🌍 | Lemko-born poet of interwar Lviv («Книга Лева», «Зелена Євангелія»); not repressed (died of illness), so not for `executed-renaissance`. Profile him without the collection, or skip? |
+| Катерина Гучко | | | | Owner request 2026-10-10. No one by this name turns up in a search: owner, who is she (years, field, a link)? |
 | Герої Небесної Сотні | 2014 | Collective | 👥 | See Collectives in Editorial notes. Костенко and Сольчаник are drafted as individuals |
 | Захисники Азовсталі | 2022 | Collective | 👥 | See Collectives |
 | Невідомий солдат | | Collective | 👥 | Not a person; see Collectives |

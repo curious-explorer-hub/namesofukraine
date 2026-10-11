@@ -189,26 +189,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### olena-stepaniv — Олена Степанів
 - none found. Encyclopedias (ESU, IEU) and the media give no verbatim quotes. Her memoir writings would have to be checked in print.
 
-### olena-teliha — Олена Теліга
-- rejected (October 2026 check): "Не треба слів. Хай буде тільки діло." In the poem these opening lines are in quotation marks: someone else's advice, which the speaker then rejects ("Але для мене — у святім союзі / Душа і тіло…"). Quoting it as her creed reverses the meaning.
-- quote 1 (rejected, kept for reference):
-  - uk: "Не треба слів. Хай буде тільки діло."
-  - en: "No need for words. Let there be only deeds." (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Не треба слів. Хай буде тільки діло…»"
-  - source_en: "The poem No Need for Words. Let There Be Only Deeds…"
-  - url: https://osvita.ua/school/literature/t/75785/ (poem text, first line)
-  - confidence: high (the text). The poem's year isn't given on the page; it's from the 1930s, so check a printed edition if a year is needed.
-- quote 2 (optional, longer context needed):
-  - uk: "По ваших же слідах підемо хоч на смерть!"
-  - en: "We will follow in your own footsteps, even to death!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Мужчинам»"
-  - source_en: "The poem To Men"
-  - url: https://osvita.ua/school/literature/t/75782/
-  - confidence: high (the text). Editorially weaker: without the poem around it, it reads oddly. Prefer quote 1.
-- rejected: "Якщо загину, то на вулицях Києва" (and variants) — reached us through memoirs and retellings. I found no reputable source with the exact words.
-
 ### olha-semydianova — Ольга Семидьянова
 - none found. armyinform.com.ua and life.pravda.com.ua give only paraphrases, or her daughter's and comrades' words. Vikna paraphrases her conviction that "if we leave our positions, the enemy will come to our homes", with no source.
 
