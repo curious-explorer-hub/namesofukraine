@@ -17,6 +17,7 @@ image:
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://memorybook.org.ua/soldiers/serhii-o-tabala"
+  ai_edit: restored
   fair_use: true
 key_accomplishments:
   - Учасник Революції гідності від перших днів; з листопада 2013 року в «Правому секторі»
@@ -36,7 +37,8 @@ sources:
     url: "https://armyinform.com.ua/2020/01/23/najstarshyj-kiborg/"
 related: [sviatoslav-horbenko]
 collections: [donetsk-airport, civic-icons]
-status: draft
+status: approved
+published: 2026-10-11T19:17:10Z
 ---
 
 ## Від кондитерської до барикад
