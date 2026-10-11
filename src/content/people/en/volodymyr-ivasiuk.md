@@ -11,6 +11,9 @@ key_accomplishments:
   - "Shevchenko Prize (1994, posthumously); Hero of Ukraine (2009, posthumously, Decree No. 110/2009)"
 birthplace_name: "Kitsman"
 image_alt: "Volodymyr Ivasiuk on a park bench"
+quotes:
+  - text: "Tell me, confess, where your magic comes from"
+    source: "The song Chervona Ruta, 1970 (words and music)"
 ---
 
 ## A song from a book of kolomyikas

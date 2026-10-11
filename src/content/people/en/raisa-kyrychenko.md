@@ -11,6 +11,9 @@ key_accomplishments:
   - "The autobiographical book I Am Your Cossack Woman, Ukraine (2003)"
 birthplace_name: "Koreshchyna"
 image_alt: "Raisa Kyrychenko in Ukrainian folk dress with flowers in her hair"
+quotes:
+  - text: "Ukraine must be loved not in words but in everyday work, and in what you leave behind for people."
+    source: "On her native land, her roots and love for Ukraine"
 ---
 
 ## From a factory choir to the big stage

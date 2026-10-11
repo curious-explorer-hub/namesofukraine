@@ -16,10 +16,12 @@ misconception:
 birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.45, lon: 30.524 }
 image:
   src: ./images/borys-paton.jpg
-  alt: "Фотографія Бориса Патона, 2010"
-  author: "Russian Presidential Press and Information Office"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Boris_Paton.jpg"
+  alt: "Борис Патон за робочим столом"
+  position: "50% 20%"
+  author: "Невідомий автор (КПІ ім. Ігоря Сікорського)"
+  license: "Fair use"
+  source_url: "https://kpi.ua/en/paton_borys-foto"
+  fair_use: true
 key_accomplishments:
   - Разом з Г. Волошкевичем створив електрошлакове зварювання (1949)
   - Перші у світі досліди зі зварювання в космосі - на кораблі «Союз-6» (1969)

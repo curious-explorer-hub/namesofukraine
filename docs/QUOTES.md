@@ -15,25 +15,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found
 - rejected: the "letter to her father" calling France a barbaric, backward country is a 19th-century fake. It matches neither 11th-century realities nor the style of the time (expert Oleksandr Titochka, as cited by Radio Svoboda: https://www.radiosvoboda.org/a/29305070.html). Her signature «Анна Ръина» is a document, not a quote.
 
-### bohdan-stupka — Богдан Ступка
-- quote 1:
-  - uk: "Чи кожен може бути актором? Шекспір сказав, що весь світ – театр, а Сковорода додав, що кожен грає ту роль, на яку його поставили. А ставить на роль Бог."
-  - en: "Can everyone be an actor? Shakespeare said all the world's a stage, and Skovoroda added that everyone plays the role they were cast in. And it is God who does the casting." (translation: ours)
-  - original_language: uk
-  - source_uk: "Висловлювання в журналі «Країна», 2011"
-  - source_en: "Remarks in Kraina magazine, 2011"
-  - url: https://www.radiosvoboda.org/a/24654276.html (Радіо Свобода, July 2012, quoting Kraina)
-  - confidence: medium (relayed by Radio Svoboda from the magazine; the magazine original wasn't opened)
-  - note: mentions Skovoroda, who is in this batch, so it could also work as a cross-link.
-- quote 2:
-  - uk: "Прощаю все. Це прийшло з часом. Дехто старіє і ще дурніший стає, а хтось – навпаки. Відношу себе до тих, що мудріші."
-  - en: "I forgive everything. That came with time. Some people grow older and get even sillier, others the opposite. I count myself among the wiser ones." (translation: ours)
-  - original_language: uk
-  - source_uk: "Висловлювання в журналі «Країна», 2011"
-  - source_en: "Remarks in Kraina magazine, 2011"
-  - url: https://www.radiosvoboda.org/a/24654276.html
-  - confidence: medium
-
 ### danylo-halytskyi — Данило Галицький
 - none found (his words survive only as retellings in the Galician-Volhynian Chronicle, not as his own words)
 
@@ -90,11 +71,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### ivan-mykolaichuk — Іван Миколайчук
 - none found. His interviews and scripts are collected in «Білий птах з чорною ознакою» (Київ: Мистецтво, 1991), but I found no verbatim quote online that a reputable source confirms.
 
-### ivan-piddubnyi — Іван Піддубний
-- rejected: claims that he insisted "я українець" or similar. These are popular stories with no primary source.
-- rejected: "Не той козак, що за водою пливе, а той, що проти води" is a folk proverb, not his own saying.
-- none found.
-
 ### ivan-sirko — Іван Сірко
 - rejected: the "Letter of the Zaporozhian Cossacks to the Turkish Sultan". Its authenticity is disputed (it survives in late copies), and its language is obscene.
 - none found.
@@ -108,16 +84,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### kateryna-stupnytska — Катерина Ступницька
 - none found. The only words recorded ("Ще навідпочиваюсь") come second-hand from fellow soldiers' recollections.
 
-### kateryna-zarytska — Катерина Зарицька
-- quote 1:
-  - uk: "І от коли Ви подорожували по Кавказі, я з книжкою в руках перетнула з експедицією гори Тянь-Шань, Чукотський півострів, Уссурійську тайгу, відкривала з Колумбом Америку"
-  - en: "And while you were travelling around the Caucasus, I, book in hand, crossed the Tian Shan mountains with an expedition, the Chukotka Peninsula, the Ussuri taiga, and discovered America with Columbus" (translation: ours)
-  - original_language: uk (as published; letters from Soviet prisons were sometimes required in Russian, but the wording here, e.g. "свойому", reads as an original Galician Ukrainian text)
-  - source_uk: "Лист до матері з Владимирської в'язниці, грудень 1953"
-  - source_en: "Letter to her mother from Vladimir prison, December 1953"
-  - url: https://texty.org.ua/articles/113328/30-rokiv-u-taborah-istoriya-nezlamnoyi-pidpilnyci-kateryny-zaryckoyi-uryvok-z-knyzhky/ (Texty.org.ua, excerpt from Sviatoslav Lypovetskyi's book, 4 September 2024)
-  - confidence: medium (one source, a book excerpt)
-
 ### kniahynia-olha — Княгиня Ольга
 - rejected: her speeches in the Primary Chronicle (to the Drevlians, to Constantine VII). These are the chronicler's literary text from about 150 years after her death, not her own words.
 - none found.
@@ -125,17 +91,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### kuzma-skriabin — Кузьма Скрябін
 - rejected: "Війна — самий ідіотський винахід людей", "Українці хворіють на відсутність власної гідності…" and similar lines. They circulate only in listicles (Obozrevatel, Telegraf) with no interview, date or outlet given. I found no primary source.
 - none found. A possible next step is his book «Я, «Побєда» і Берлін» (2006) or the Radio Svoboda documentary (2018).
-
-### kvitka-tsisyk — Квітка Цісик
-- quote 1:
-  - uk: "вплітати радісні ноти в зношену тканину, на якій вишите життя нашого народу"
-  - en: "weaving joyful notes into the frayed fabric on which the life of our people is embroidered" (translation: original)
-  - original_language: en
-  - source_uk: "Текст на обкладинці альбому «Два кольори», 1989 (переклад з англійської)"
-  - source_en: "Liner notes to the album Two Colors, 1989"
-  - url: https://ukrainianweek.com/the-myth-of-kvitka/
-  - confidence: medium (it is a fragment and the only source. The Ukrainian Week paraphrases the start of the sentence, saying she "devoted her life to" it)
-- rejected: "Я в Америці, але я українка" and similar lines from her only video interview (1992, recorded by Oleksandr Hornostai). They appear on gendermuseum.com without a verbatim transcript or source.
 
 ### kyrylo-rozumovskyi — Кирило Розумовський
 - none found.
@@ -154,24 +109,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://www.radiosvoboda.org/a/heroy-ukraini-u-22-pro-boi-ta-polon/32786877.html
   - confidence: high (the cut removes the editor's bracketed note)
 - quote 2: none. The rest of the interview is about combat and torture in captivity, which is too graphic for the site.
-
-### levko-lukianenko — Левко Лук'яненко
-- quote 1:
-  - uk: "Тих, хто іде проти системи, завжди небагато, але вони перемагають."
-  - en: "Those who go against the system are always few, but they win." (translation: ours)
-  - original_language: uk
-  - source_uk: "Слова, наведені Радіо Свобода в некролозі, липень 2018"
-  - source_en: "Words quoted by Radio Svoboda in its obituary, July 2018"
-  - url: https://www.radiosvoboda.org/a/29350518.html
-  - confidence: medium (Radio Svoboda gives it in a "Цитати" block with no date or occasion; I found no primary source)
-- quote 2:
-  - uk: "У генетичному коді українців закладено прагнення до незалежності."
-  - en: "A striving for independence is written into Ukrainians' genetic code." (translation: ours)
-  - original_language: uk
-  - source_uk: "Слова, наведені Радіо Свобода в некролозі, липень 2018"
-  - source_en: "Words quoted by Radio Svoboda in its obituary, July 2018"
-  - url: https://www.radiosvoboda.org/a/29350518.html
-  - confidence: medium (same block, no context; the full quote has a second sentence that this cuts)
 
 ### maksym-yalovtsov — Максим Яловцов
 - none found. Reports of his death (Obozrevatel, FC Dynamo) quote his comrades, not him.
@@ -215,25 +152,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found. I couldn't open a primary text («Хто такі українці і чого вони хочуть», the 1917 articles) to confirm any famous sentence.
 - rejected: "Народ, який не знає свого минулого, не вартий майбутнього" and similar lines often attributed to him. No primary source.
 
-### mykola-amosov — Микола Амосов
-- quote 1:
-  - uk: "Не сподівайтеся на медицину."
-  - en: "Don't rely on medicine." (translation: ours)
-  - original_language: ru ("Не надейтесь на медицину", the opening of «Раздумья о здоровье»)
-  - source_uk: "Книжка «Роздуми про здоров'я», 1977"
-  - source_en: "The book Reflections on Health, 1977"
-  - url: https://gazeta.ua/articles/necrology/_rosiyanin-mikola-amosov-stav-velikim-ukrayincem-usih-chasiv/808825
-  - confidence: medium (Gazeta.ua lists it among his health advice. I downloaded the book PDF from booksite.ru but couldn't extract the text here to confirm the exact opening.)
-- quote 2:
-  - uk: "Хірургія була моїм стражданням і щастям."
-  - en: "Surgery was my suffering and my happiness." (translation: ours)
-  - original_language: ru (his diaries and books were in Russian; Ukrainian as quoted by Gazeta.ua)
-  - source_uk: "Із щоденника"
-  - source_en: "From his diary"
-  - url: https://gazeta.ua/articles/necrology/_rosiyanin-mikola-amosov-stav-velikim-ukrayincem-usih-chasiv/808825
-  - confidence: medium
-- rejected: "Щоб бути здоровим, потрібні власні зусилля, постійні і значні. Замінити їх не можна нічим." — the most famous Amosov line, but I found it only in paraphrases and on blogs, with the word order varying. Very likely genuine («Раздумья о здоровье»), and worth confirming against the book because it's the best one.
-
 ### mykola-leontovych — Микола Леонтович
 - none found. Only diary entries about his work and secondhand paraphrases ("народна пісня — вияв душі народу").
 
@@ -253,16 +171,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### oleh-blokhin — Олег Блохін
 - none found. The quotes I found sit in sport.znaj.ua listicles ("найкращі цитати"), credited loosely to the Dynamo site, with no interview or date.
-
-### oleksandr-arkhypenko — Олександр Архипенко
-- quote 1:
-  - uk: "Я експериментував, використовуючи зворотну ідею, і дійшов висновку, що скульптура може починатися там, де простір охоплений матеріалом."
-  - en: "Ignoring this tradition, I experimented, using the reverse idea, and concluded that sculpture may begin where space is encircled by the material." (translation: original; the uk is ours)
-  - original_language: en
-  - source_uk: "Книга «Архипенко: п'ятдесят років творчості, 1908–1958», 1960"
-  - source_en: "The book Archipenko: Fifty Creative Years, 1908–1958, 1960"
-  - url: https://theartstory.org/artist/archipenko-alexander/ (full quote, no book citation); the scholarly citation is Stephen Kern, The Culture of Time and Space 1880–1918 (1983), p. 159 (found through search, not opened)
-  - confidence: medium. The wording matches in several art-market and art-history sources. I couldn't open the 1960 book, so the book attribution comes from those secondary sources.
 
 ### oleksandr-oksanchenko — Олександр Оксанченко
 - none found. The coverage I found (espreso.tv, armyinform.com.ua, sandboxx, Task & Purpose) quotes comrades or paraphrases him. I found no verbatim quote of his own.
@@ -343,17 +251,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### pylyp-orlyk — Пилип Орлик
 - none found. The 1710 Constitution (Latin original) is a collective treaty text with many translation variants. I found no short, well-known line confirmed in an authoritative translation (the rada.gov.ua text could not be fetched).
-
-### raisa-kyrychenko — Раїса Кириченко
-- quote 1:
-  - uk: "У дитинстві брала батькову гармошку, вилазила на вишню — грала і співала голосно, щоби чуло все село."
-  - en: "As a child I would take my father's accordion, climb up the cherry tree and play and sing loudly so the whole village could hear." (translation: ours)
-  - original_language: uk
-  - source_uk: "Спогади про дитинство"
-  - source_en: "Recalling her childhood"
-  - url: https://armyinform.com.ua/2020/10/15/ne-spivaj-pisni-yaki-ni-pro-shho-vybyraj-ti-shho-zapadayut-v-lyudsku-dushu/
-  - confidence: medium. It's a pull quote in the article, given as her words, with no original interview named.
-- rejected: "Не співай пісні, які ні про що. Вибирай ті, що западають в людську душу!" — her mother's advice, not her own words (per ArmyInform).
 
 ### robert-brovdi — Роберт Бровді
 - quote 1:
@@ -552,17 +449,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://armyinform.com.ua/2021/06/29/pyat-rokiv-tomu-na-donbasi-zagynuv-geroj-ukrayiny-voyin-spivak-vasyl-slipak/
   - confidence: medium (one source, ArmyInform of the Defence Ministry)
 
-### vasyl-sukhomlynskyi — Василь Сухомлинський
-- quote 1:
-  - uk: "Любов – це, образно висловлюючись, фокус, в якому сходиться проміння від найпотаємніших куточків людської душі."
-  - en: "Love is, figuratively speaking, a focus in which the rays from the most hidden corners of the human soul converge." (translation: ours)
-  - original_language: uk
-  - source_uk: "Стаття «Про красу людської душі», 1961"
-  - source_en: "The article On the Beauty of the Human Soul, 1961"
-  - url: https://epub.chnpu.edu.ua/jspui/bitstream/123456789/8492/1/ (Chernihiv Pedagogical University repository, conference paper "Філософський концепт «любов» у спадщині В. Сухомлинського", citing «Молодий комунар», 20 Oct 1961, p. 3)
-  - confidence: medium
-- rejected: "Людина народжується, щоб лишити по собі слід вічний" and "Дитинство — найважливіший період людського життя…" — both widely quoted, but found only in school or library digests with no edition and page. Verify in «Серце віддаю дітям» / «Сто порад учителеві» before use.
-
 ### vasyl-virastiuk — Василь Вірастюк
 - none found (the Interfax-Ukraine interviews from 2023–2024 are about veterans' sports rehabilitation and contain no memorable lines; "Разом ми сила" shows up only in news captions of a social-media post)
 
@@ -603,17 +489,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### volodymyr-boiko — Володимир Бойко
 - none found
 
-### volodymyr-ivasiuk — Володимир Івасюк
-- quote 1:
-  - uk: "Ти признайся мені, звідки в тебе ті чари, / Я без тебе всі дні у полоні печалі."
-  - en: "Tell me, confess, where your magic comes from — / Without you, all my days are held captive by sorrow." (translation: ours)
-  - original_language: uk
-  - source_uk: "Пісня «Червона рута», 1970 (слова і музика)"
-  - source_en: "The song Chervona Ruta, 1970 (words and music)"
-  - url: https://vogue.ua/article/culture/muzyka/ti-priznaysya-meni-zvidki-v-tebe-ti-chari-5-nayvidomishih-pisen-volodimira-ivasyuka-51517.html (the first line is the headline; the song is dated 1970). Authorship: ESU calls him a "композитор, поет-пісняр", https://esu.com.ua/article-13545
-  - confidence: medium. The first line is confirmed by Vogue UA. The second line I could confirm only on a chords site, so check it against a recording or a songbook before use. If in doubt, use only the first line.
-- rejected: "Ми, українці, з колиски стаємо націоналістами, якщо матері співають нам українські колискові…": only on Wikiquote and a religious blog, with no date or outlet. Unverified.
-
 ### volodymyr-velykyi — Володимир Великий
 - none found
 - rejected: "Руси єсть веселіє питі…": these are words the chronicle (Повість минулих літ, 986) puts in his mouth, so they are not verifiable as his. Out of context they are also embarrassing.
@@ -632,17 +507,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### yevhenii-brakh — Євгеній Брах
 - none found (fallen; he ran a YouTube and Instagram blog, but no media outlet quotes his words)
-
-### yurii-kondratiuk — Юрій Кондратюк
-- quote 1:
-  - uk: "Саме в можливості у найближчому ж майбутньому почати по-справжньому господарювати на нашій планеті і слід бачити основне величезне значення для нас у завоюванні просторів Сонячної системи."
-  - en: "It is precisely in the possibility of beginning, in the very near future, to truly manage our own planet that we should see the main, enormous significance for us of conquering the spaces of the Solar System." (translation: ours)
-  - original_language: ru (the Ukrainian translation is the one quoted by Radio Svoboda)
-  - source_uk: "Книжка «Завоювання міжпланетних просторів», 1929"
-  - source_en: "The book The Conquest of Interplanetary Space, 1929"
-  - url: https://www.radiosvoboda.org/a/965539.html (Radio Svoboda, 20 June 2007, quotes it as his words)
-  - confidence: medium. Radio Svoboda attributes it to him but doesn't name the work. That it comes from the 1929 book is my inference, from its theme and from parafia.org.ua; I couldn't open a copy of the book to check.
-- none else (the 1919 manuscript «Тем, кто будет читать, чтобы строить» is often cited by title, but I couldn't confirm any lines from it)
 
 ### yurii-ruf — Юрій Руф
 - stashed (taken off the profile on 2026-10-09):

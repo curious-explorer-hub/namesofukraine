@@ -13,6 +13,9 @@ key_accomplishments:
   - "The albums Kvitka: Songs of Ukraine (1980) and Two Colors (1989)"
 birthplace_name: "Queens, New York"
 image_alt: "Kvitka Cisyk at a filming in Denver, 1989"
+quotes:
+  - text: "weaving joyful notes into the frayed fabric on which the life of our people is embroidered"
+    source: "Liner notes to the album Two Colors, 1989"
 ---
 
 ## Whose voice is in the Oscar-winning song?

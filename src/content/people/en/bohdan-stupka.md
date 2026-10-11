@@ -12,6 +12,9 @@ key_accomplishments:
   - "Title of Hero of Ukraine (2011)"
 birthplace_name: "Kulykiv"
 image_alt: "Photographic portrait of Bohdan Stupka in a hat"
+quotes:
+  - text: "The dream of my life was for Ukrainian culture to become known all over the world. Dreams should come true, and I am happy that I can help make it happen."
+    source: "On love for his homeland and its culture"
 ---
 
 ## Two hundred roles, one actor

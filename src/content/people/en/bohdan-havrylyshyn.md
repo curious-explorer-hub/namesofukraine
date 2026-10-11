@@ -10,7 +10,7 @@ key_accomplishments:
   - "Chair of the Consultative Advisory Council to the Presidium of the Verkhovna Rada of Ukraine (1991–1998)"
   - "Co-founder of the International Management Institute in Kyiv"
 birthplace_name: "Koropets"
-image_alt: "Photograph of Bohdan Hawrylyshyn in his Kyiv office, 2012"
+image_alt: "Bohdan Hawrylyshyn in an embroidered shirt"
 quotes:
   - text: "[…] from the example of my own life I say: dream, but dream big, about great things."
     source: "Conversation with Ukrainska Pravda for its Core of the Nation project, October 2016"

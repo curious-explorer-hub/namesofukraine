@@ -12,6 +12,9 @@ key_accomplishments:
   - "Hero of Ukraine (2005), Shevchenko Prize (2016)"
 birthplace_name: "Khrypivka"
 image_alt: "Levko Lukianenko in an embroidered shirt at the Shevchenko Prize award ceremony, 2016"
+quotes:
+  - text: "Those who go against the system are always few, but they win."
+    source: "Words quoted by Radio Svoboda in its obituary, July 2018"
 ---
 
 ## 72 days on death row

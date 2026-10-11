@@ -13,11 +13,12 @@ fun_fact: "Не вступивши з першої спроби до уніве�
 birthplace: { name: "Рівня (нині у складі Вижниці)", region: chernivtsi, country: UA, lat: 48.250, lon: 25.190 }
 image:
   src: ./images/nazarii-yaremchuk.jpg
-  alt: "Назарій Яремчук на концерті ВІА «Смерічка», 1984"
-  position: "45% 15%"
-  author: "Sascha1952"
-  license: "CC0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%92%D0%86%D0%90_%C2%AB%D0%A1%D0%BC%D0%B5%D1%80%D1%96%D1%87%D0%BA%D0%B0%C2%BB,1984,_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82.jpg"
+  alt: "Назарій Яремчук сидить на сходах"
+  position: "50% 25%"
+  author: "Невідомий автор (Український інтерес)"
+  license: "Fair use"
+  source_url: "https://uain.press/blogs/nazarij-yaremchuk-bez-pisni-ya-ne-uyavlyayu-svogo-zhittya-1121086"
+  fair_use: true
 key_accomplishments:
   - Соліст (з 1969) і художній керівник (з 1982) вокально-інструментального ансамблю «Смерічка»
   - «Червона рута» й «Водограй» Володимира Івасюка в дуеті з Василем Зінкевичем, що принесли їм перше визнання

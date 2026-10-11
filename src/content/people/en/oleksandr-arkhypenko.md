@@ -13,6 +13,9 @@ key_accomplishments:
   - "118 solo exhibitions in Europe and the United States"
 birthplace_name: "Kyiv"
 image_alt: "Photograph of Alexander Archipenko"
+quotes:
+  - text: "Ignoring this tradition, I experimented, using the reverse idea, and concluded that sculpture may begin where space is encircled by the material."
+    source: "The book Archipenko: Fifty Creative Years, 1908–1958, 1960"
 ---
 
 ## Sculpture with empty space

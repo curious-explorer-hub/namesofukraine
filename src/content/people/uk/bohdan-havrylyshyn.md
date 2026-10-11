@@ -13,11 +13,12 @@ fun_fact: "Його доповідь Римському клубові «Дор�
 birthplace: { name: "Коропець", region: ternopil, country: UA, lat: 48.939, lon: 25.179 }
 image:
   src: ./images/bohdan-havrylyshyn.jpg
-  alt: "Фотографія Богдана Гаврилишина в київському офісі, 2012"
-  position: "50% 40%"
-  author: "Perohanych"
-  license: "CC BY-SA 3.0"
+  alt: "Богдан Гаврилишин у вишитій сорочці"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
   source_url: "https://commons.wikimedia.org/wiki/File:Bohdan_Dmytrovych_Havrylyshyn_2012.jpg"
+  fair_use: true
 key_accomplishments:
   - Директор Міжнародного інституту менеджменту в Женеві (1968–1986)
   - Доповідь Римському клубові «Дороговкази в майбутнє» (1980)

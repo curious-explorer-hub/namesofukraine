@@ -13,7 +13,7 @@ key_accomplishments:
   - "Director of the Institute of Electric Welding (1953–2020) and president of the Academy of Sciences of Ukraine (1962–2020)"
   - "A method of welding living soft human tissue for surgery"
 birthplace_name: "Kyiv"
-image_alt: "Photograph of Borys Paton, 2010"
+image_alt: "Borys Paton at his desk"
 quotes:
   - text: "When you’re young you think: the days are so long, your whole life is ahead of you. There’s still time! And then you look back and see it has passed like a single day."
     source: "Interview with Glavcom for his 100th birthday, November 2018 (translated from Russian)"

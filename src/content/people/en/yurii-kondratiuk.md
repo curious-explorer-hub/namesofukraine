@@ -12,6 +12,9 @@ key_accomplishments:
   - "A crater on the far side of the Moon bears his name; inducted into the International Space Hall of Fame (New Mexico, USA) in 2014"
 birthplace_name: "Poltava"
 image_alt: "Yurii Kondratiuk, photograph from 1941"
+quotes:
+  - text: "It is precisely in the possibility of beginning, in the very near future, to truly manage our own planet that we should see the main, enormous significance for us of conquering the spaces of the Solar System."
+    source: "The book The Conquest of Interplanetary Space, 1929"
 ---
 
 ## How do you get to the Moon without hauling the whole ship there and back?

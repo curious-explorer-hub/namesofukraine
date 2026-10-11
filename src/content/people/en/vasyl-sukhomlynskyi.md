@@ -11,6 +11,9 @@ key_accomplishments:
   - "Corresponding member of the USSR Academy of Pedagogical Sciences (1968)"
 birthplace_name: "Vasylivka"
 image_alt: "Photo portrait of Vasyl Sukhomlynskyi"
+quotes:
+  - text: "Whoever does not know their native, mother tongue, or shuns it, condemns themselves to poverty of soul and becomes rootless."
+    source: "On self-development, human dignity and language"
 ---
 
 ## The book that came out in Germany first

@@ -11,6 +11,9 @@ key_accomplishments:
   - "Silver Cross of Merit of the UPA"
 birthplace_name: "Kolomyia"
 image_alt: "Photograph of Kateryna Zarytska, around 1930"
+quotes:
+  - text: "When I opened my eyes and felt blood in my mouth, because I had cut myself on the glass of the ampoule, I realised with horror that I was alive"
+    source: "Recalling her arrest in Khodoriv, 1947"
 ---
 
 ## A salute from the laundry window
