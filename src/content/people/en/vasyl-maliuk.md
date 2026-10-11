@@ -11,6 +11,9 @@ key_accomplishments:
   - "Lieutenant general (2024); Hero of Ukraine (decree No. 299/2025 of 8 May 2025)"
 birthplace_name: "Korostyshiv"
 image_alt: "Portrait of Vasyl Maliuk"
+quotes:
+  - text: "Death is the only prospect we can offer the occupiers."
+    source: "On special operations, eliminating enemies and “bavovna” (explosions in Russia)"
 ---
 
 ## The painting in his office

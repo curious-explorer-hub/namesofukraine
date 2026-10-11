@@ -11,6 +11,9 @@ key_accomplishments:
   - "Deputy head of the National Defence University of Ukraine since November 2023"
 birthplace_name: "Zaliznytsia, Rivne region"
 image_alt: "Ihor Hordiichuk in dress uniform with the Hero of Ukraine star, Kyiv, 2016"
+quotes:
+  - text: "[…] how can you find a consensus when the enemy wants us to die and we want to live? There is no middle ground. It's either victory or capitulation."
+    source: "Interview with LB.ua, August 2021"
 ---
 
 ## Why “Sumrak”?

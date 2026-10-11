@@ -12,6 +12,9 @@ key_accomplishments:
   - "Kulczyk Foundation’s Portraits of Sisterhood award (2025)"
 birthplace_name: "Unknown"
 image_alt: "Mariana Mamonova in a white shirt with a city behind her"
+quotes:
+  - text: "Motherhood makes you much stronger, more focused, more resilient."
+    source: "Account of her captivity for Vikna (STB), May 2023"
 ---
 
 ## News in a bomb shelter

@@ -24,16 +24,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### ihor-branovytskyi — Ігор Брановицький
 - none found (his self-identification as the machine gunner in captivity is a witness account, not a recorded quote)
 
-### ihor-hordiichuk — Ігор Гордійчук
-- quote 1:
-  - uk: "[…] як знайти консенсус, якщо вороги хочуть, аби ми вмерли, а ми хочемо жити? Посередині не буде. Тут або перемога, або капітуляція."
-  - en: "[…] how can you find a consensus when the enemy wants us to die and we want to live? There is no middle ground. It's either victory or capitulation." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю LB.ua, серпень 2021"
-  - source_en: "Interview with LB.ua, August 2021"
-  - url: https://lb.ua/society/2021/08/19/491734_igor_gordiychuk_vorogi_hochut_abi.html
-  - confidence: high
-
 ### illia-mechnykov — Ілля Мечников
 - none found (not searched deeply; no well-known, verifiable short quote surfaced)
 
@@ -42,24 +32,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### inna-derusova — Інна Дерусова
 - none found (sources give comrades' memories about her, not her own words)
-
-### iryna-tsvila — Ірина Цвіла
-- quote 1:
-  - uk: "Мене легко запам'ятати – цвіла калина, цвіла Ірина."
-  - en: "I'm easy to remember: the guelder rose was blooming (tsvila), Iryna was blooming." (translation: ours; the pun on her surname doesn't carry into English, so a gloss is needed)
-  - original_language: uk
-  - source_uk: "Слова, сказані журналістці під час знайомства (спогад в «Обозревателі», 2022)"
-  - source_en: "Said to a journalist when they met (recollection published in Obozrevatel, 2022)"
-  - url: https://news.obozrevatel.com/ukr/society/spalahnula-yasnim-vognem-i-lyagla-v-zemlyu-popelom-scho-vidomo-zagiblij-vijskovij-irini-tsvili.htm
-  - confidence: medium (one source, a journalist's memory; the profile's summary already uses it)
-- quote 2:
-  - uk: "Навіть у мирному житті ми можемо всі робити те, що вміємо, так чи інакше наближати перемогу. Це можна і потрібно робити не лише на фронті."
-  - en: "Even in peacetime we can all do what we know how to do and bring victory closer one way or another. It can and must be done, and not only at the front." (translation: ours)
-  - original_language: uk
-  - source_uk: "Розмова з журналісткою (спогад в «Обозревателі», 2022)"
-  - source_en: "Conversation with a journalist (recollection published in Obozrevatel, 2022)"
-  - url: same as above
-  - confidence: medium
 
 ### ivan-bohun — Іван Богун
 - none found. No well-attested words of his own turn up in reputable sources, only his deeds.
@@ -99,37 +71,8 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - rejected: "Будем жить!" / "Будемо жити!". This is the catchphrase of his character Titarenko in Only "Old Men" Are Going to Battle (1973, a Russian-language film he co-wrote). It is a character's line in a co-written script, not his own statement. Usable only if the editor accepts film lines, credited as "the film's line".
 - none found. His diaries were published (in Russian), but no reputable outlet I checked quotes them verbatim.
 
-### lev-pashko — Лев Пашко
-- quote 1:
-  - uk: "Багато моїх друзів вже брали у них участь, а мені не дозволяв вік… Тому я навіть не задумувався, правильно чи неправильно […]. Це потрібно було країні у той момент."
-  - en: "Many of my friends were already taking part, but I was too young… So I didn't even stop to think whether it was right or wrong […]. It was what the country needed at that moment." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, січень 2024 (про те, як у 18 пішов в «Азов»)"
-  - source_en: "Interview with Radio Svoboda, January 2024 (on joining Azov at 18)"
-  - url: https://www.radiosvoboda.org/a/heroy-ukraini-u-22-pro-boi-ta-polon/32786877.html
-  - confidence: high (the cut removes the editor's bracketed note)
-- quote 2: none. The rest of the interview is about combat and torture in captivity, which is too graphic for the site.
-
 ### maksym-yalovtsov — Максим Яловцов
 - none found. Reports of his death (Obozrevatel, FC Dynamo) quote his comrades, not him.
-
-### mariana-mamonova — Мар'яна Мамонова
-- quote 1:
-  - uk: "На той час у мене була єдина втіха — це моя дитина, яку в мене не забрали. І я тішилась тим, що не сама."
-  - en: "At that time I had one comfort: my child, whom they had not taken from me. And I was glad I was not alone." (translation: ours)
-  - original_language: uk
-  - source_uk: "Розповідь про полон для «Вікон» (СТБ), травень 2023"
-  - source_en: "Account of her captivity for Vikna (STB), May 2023"
-  - url: https://vikna.tv/istorii/rozpovidi/istoriya-maryany-mamonovoyi-pro-vagitnist-u-poloni-ta-materynstvo/
-  - confidence: high
-- quote 2:
-  - uk: "Материнство робить значно сильнішою, зібранішою, витривалішою."
-  - en: "Motherhood makes you much stronger, more focused, more resilient." (translation: ours)
-  - original_language: uk
-  - source_uk: "Розповідь про полон для «Вікон» (СТБ), травень 2023"
-  - source_en: "Account of her captivity for Vikna (STB), May 2023"
-  - url: https://vikna.tv/istorii/rozpovidi/istoriya-maryany-mamonovoyi-pro-vagitnist-u-poloni-ta-materynstvo/
-  - confidence: high
 
 ### mariia-zankovetska — Марія Заньковецька
 - none found.
@@ -137,16 +80,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### marko-vovchok — Марко Вовчок
 - none found. No widely quoted aphorism of hers turned up; school materials quote only character lines from «Інститутка», which aren't her own sayings.
-
-### mykhailo-drapatyi — Михайло Драпатий
-- quote 1:
-  - uk: "Служіння Україні завжди було для мене честю, а під час війни за незалежність воно означає абсолютну відповідальність."
-  - en: "Serving Ukraine has always been an honour for me, and during the war for independence it means absolute responsibility." (translation: ours)
-  - original_language: uk
-  - source_uk: "Допис після призначення Головнокомандувачем, липень 2026"
-  - source_en: "Post after his appointment as Commander-in-Chief, July 2026"
-  - url: https://tsn.ua/ukrayina/drapatyy-zvernuvsia-do-viyskovykh-i-prezydenta-persha-zaiava-pislia-pryznachennia-holovkomom-zsu-3132662.html (TSN, 21 Jul 2026); also reported by Fakty
-  - confidence: high (the profile is still a draft)
 
 ### mykhailo-hrushevskyi — Михайло Грушевський
 - none found. I couldn't open a primary text («Хто такі українці і чого вони хочуть», the 1917 articles) to confirm any famous sentence.
@@ -258,25 +191,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: medium. It is the headline; the body has "в медіа нас відразу 24 лютого «поховали»", so the headline may be lightly edited.
 - rejected (owner decision): the famous four-word reply to the Russian warship ("Русский военный корабль, иди на…") — authentic and world-famous, but obscene. Out of scope under the "no embarrassing quotes" rule unless the owner wants it in censored form. He himself said in the same Glavcom interview, "Загалом я нематюклива людина" ("Generally I'm not someone who swears").
 
-### roman-ratushnyi — Роман Ратушний
-- quote 1:
-  - uk: "Тільки самоорганізація порятує нас від кінця світу."
-  - en: "Only self-organisation will save us from the end of the world." (translation: ours)
-  - original_language: uk
-  - source_uk: "Про захист Протасового Яру, 2018"
-  - source_en: "On defending Protasiv Yar, 2018"
-  - url: https://lb.ua/society/2022/06/15/520104_kiyanin_z_protasovogo_yaru_pamyati.html
-  - confidence: medium (LB.ua quotes it; exact occasion and date not given beyond the 2018 section)
-- quote 2:
-  - uk: "Єдине, що треба — показати приклад і задати напрямок."
-  - en: "All you need to do is set an example and give a direction." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю LB.ua"
-  - source_en: "Interview with LB.ua"
-  - url: https://lb.ua/society/2022/06/15/520104_kiyanin_z_protasovogo_yaru_pamyati.html
-  - confidence: medium (the date of the original interview isn't stated in the memorial article)
-- rejected: "Чим більше росіян ми вб'ємо зараз…" — authentic per LB.ua, but violent; not suitable for young readers out of context.
-
 ### roman-shukhevych — Роман Шухевич
 - none found. No verbatim, sourced lines in IEU, ESU or UINP materials I could find. Popular attributions online are unverified.
 
@@ -290,16 +204,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://www.radiosvoboda.org/a/27394279.html
   - confidence: high (the text). Editorially medium: it's tied to a 2015 political moment. Use only if a Maidan-era quote fits.
 - rejected: "Ми нарешті поставили країну на ті рейки, з яких вона вже не з'їде" — same interview, but she credits the phrase to Sviatoslav Vakarchuk, so it isn't hers.
-
-### serhii-bubka — Сергій Бубка
-- quote 1:
-  - uk: "А загалом, я ніколи не був злим, я прагнув перемагати з любов'ю в душі."
-  - en: "On the whole, I was never angry; I wanted to win with love in my heart." (translation: ours)
-  - original_language: uk (as published; the piece was compiled from TV appearances on Inter and press interviews, so the original may have been in Russian. Not stated)
-  - source_uk: "Інтерв'ю, зведене «Дзеркалом тижня» з телевиступів і газетних розмов, квітень 2001"
-  - source_en: "Interview compiled by Dzerkalo Tyzhnia from TV and press interviews, April 2001"
-  - url: https://zn.ua/ukr/SOCIUM/sergiy_bubka_peremagati_z_lyubovyu_v_dushi.html
-  - confidence: medium
 
 ### serhii-korolov — Сергій Корольов
 - rejected: "Космонавтика має безмежне майбутнє, і її перспективи безмежні, як сам Всесвіт" — quoted everywhere (school and conference epigraphs) with no work, speech or date. No primary source found.
@@ -356,20 +260,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - rejected: lines from the anonymous "Ghost of Kyiv" interview (Censor.net, 27 March 2022). It was published after his death (13 March), the Air Force denied that he was the "Ghost", and the pilot was never named, so the words can't be attributed to him.
 - none found
 
-### sviatoslav-palamar — Святослав Паламар
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "Я дуже гордий з того, що я українець."
-  - source_uk: "Святослав Паламар під час вручення ордена «Золота Зірка», Туреччина, 3 жовтня 2022 (Офіс Президента України)"
-- review of the stashed quote: OK. Radio Svoboda quotes him after the award in Turkey: "Я дуже гордий з того, що я – українець." (note the dash before "українець" in the RS wording). Formatting issue: the `source` line repeats the name. Suggest "Під час вручення ордена «Золота Зірка», Туреччина, 3 жовтня 2022". url: https://www.radiosvoboda.org/a/news-heroya-ukrayiny-azovstalʹ/32063643.html
-- quote 1 (additional):
-  - uk: "Генетичний код нації закладається в казках."
-  - en: "A nation's genetic code is laid down in its fairy tales." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Вікнам», вересень 2025"
-  - source_en: "Interview with Vikna, September 2025"
-  - url: https://vikna.tv/istorii/interviu/svyatoslav-palamar-pro-propagandu-ta-spilkuvannya-z-ditmy/amp/
-  - confidence: medium
-
 ### sviatoslav-vakarchuk — Святослав Вакарчук
 - quote 1:
   - uk: "Я не здамся без бою"
@@ -404,21 +294,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://www.radiosvoboda.org/a/969315.html
   - confidence: medium (the exact interview date is not given)
 
-### vasyl-maliuk — Василь Малюк
-- stashed (taken off the profile on 2026-10-09):
-  - uk: "В українському епосі ми шануємо такого героя, як козак Мамай. У моєму кабінеті є картина, де він зображений з бандурою, сидить на черепах ворогів України."
-  - source_uk: "Василь Малюк, виступ у Верховній Раді в день призначення головою СБУ, 7 лютого 2023 (за «Гордоном»)"
-- review of the stashed quote: OK on accuracy, with caveats. Glavcom and Gordon (7 Feb 2023, Rada speech) give: "В українському епосі ми шануємо такого героя, – як козак Мамай. У моєму кабінеті є картина, де він зображений з бандурою і сидить на черепах ворогів України." The profile has "з бандурою, сидить" where the published text has "з бандурою і сидить", so restore "і". Two more issues: (1) "sitting on the skulls of enemies" is violent imagery and may not suit young readers. Owner's call; a softer alternative is below. (2) The `source` line repeats the name.
-  urls: https://glavcom.ua/country/politics/maljuk-rozpoviv-pro-uljublenoho-heroja-ta-zirvav-ovatsiji-v-radi-video-907030.html ; https://gordonua.com/ukr/news/war/maljuk-smert-tse-jedina-perspektiva-jaku-mi-mozhemo-zaproponuvati-okupantam-1649294.html
-- quote 1 (alternative):
-  - uk: "Захист України – наша свята місія. Без перебільшення."
-  - en: "Defending Ukraine is our sacred mission. No exaggeration." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Інтерфакс-Україна», жовтень 2022"
-  - source_en: "Interview with Interfax-Ukraine, October 2022"
-  - url: https://interfax.com.ua/news/interview/868357.html
-  - confidence: medium (the page was read through a summariser; check the exact punctuation)
-
 ### vasyl-slipak — Василь Сліпак
 - quote 1:
   - uk: "Тяжко сидіти в тому Парижі. Душа рветься до вас."
@@ -440,25 +315,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### vitalii-blazhko — Віталій Блажко
 - none found (memorial pages and ESU describe his deeds only; no interview quotes surfaced)
-
-### vitalii-klychko — Віталій Кличко
-- quote 1:
-  - uk: "Ми розуміємо, що це наша земля, ми розуміємо, що це наше майбутнє, це наша свобода. Ми готові за це боротися."
-  - en: "We understand it's our land, we understand it's our future, it's our freedom. We're ready to fight for that." (translation: original)
-  - original_language: en
-  - source_uk: "Інтерв'ю CNN у Києві, березень 2022"
-  - source_en: "Interview with CNN in Kyiv, March 2022"
-  - url: https://abc17news.com/news/national-world/cnn-europe-mideast-africa/2022/03/24/a-fight-between-good-and-evil-the-klitschko-brothers-on-the-battle-for-ukraine/ (CNN Wire syndication of the CNN article by Cotovio, Pleitgen and Blunt, 24 Mar 2022)
-  - confidence: high
-- quote 2:
-  - uk: "Українські солдати борються за свободу, за дітей, щоб захистити наші родини, щоб захистити наше майбутнє."
-  - en: "Ukrainian soldiers are fighting for freedom, for children, to defend our families, to defend our future." (translation: original)
-  - original_language: en
-  - source_uk: "Інтерв'ю CNN у Києві, березень 2022"
-  - source_en: "Interview with CNN in Kyiv, March 2022"
-  - url: same as quote 1
-  - confidence: high
-- other option: the ITV Good Morning Britain interview of 24 Feb 2022 ("I don't have another choice, I have to do that. I'd be fighting"). Wording differs between outlets and I couldn't render the ITV page, so I didn't use it.
 
 ### vitalii-skakun — Віталій Скакун
 - none found (fallen defender; there are no recorded public statements of his own)

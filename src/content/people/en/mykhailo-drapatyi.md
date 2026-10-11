@@ -11,6 +11,9 @@ key_accomplishments:
   - "Commander of Ukraine's Joint Forces (2025); Commander-in-Chief of the Armed Forces of Ukraine since 21 July 2026"
 birthplace_name: "Kamianets-Podilskyi, Khmelnytskyi region"
 image_alt: "Mykhailo Drapatyi in military uniform"
+quotes:
+  - text: "Serving Ukraine has always been an honour for me, and during the war for independence it means absolute responsibility."
+    source: "Post after his appointment as Commander-in-Chief, July 2026"
 ---
 
 ## Commander of the “flying BMP”

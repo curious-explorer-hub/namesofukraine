@@ -29,6 +29,9 @@ key_accomplishments:
   - "Повернулася з російського полону під час обміну 21 вересня 2022 року"
   - "Заснувала благодійний фонд, що допомагає жінкам після російського полону (2024)"
   - "Відзнака «Портрети сестринства» (Portraits of Sisterhood) фонду Кульчиків (2025)"
+quotes:
+  - text: "Материнство робить значно сильнішою, зібранішою, витривалішою."
+    source: "Розповідь про полон для «Вікон» (СТБ), травень 2023"
 sources:
   - title: "Ukrainska Pravda - Ukrainian medic Mariana Mamonova, who was pregnant in Russian captivity, gives birth (25 September 2022)"
     url: "https://www.pravda.com.ua/eng/news/2022/09/25/7368979/"

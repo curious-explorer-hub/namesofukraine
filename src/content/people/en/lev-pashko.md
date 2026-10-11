@@ -12,6 +12,9 @@ key_accomplishments:
   - "Taken prisoner when Azovstal fell; freed on 21 September 2022 in a prisoner exchange"
 birthplace_name: "Kyiv"
 image_alt: "Lev Pashko in uniform with an Azov patch, against a dark background"
+quotes:
+  - text: "Many of my friends were already taking part, but I was too young… So I didn't even stop to think whether it was right or wrong […]. It was what the country needed at that moment."
+    source: "Interview with Radio Svoboda, January 2024 (on joining Azov at 18)"
 ---
 
 ## Why “Horus”?

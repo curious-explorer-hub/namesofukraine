@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order for Courage, 3rd class (posthumously; Decree No. 689/2022)"
 birthplace_name: "Brovary, Kyiv region"
 image_alt: "A smiling Iryna Tsvila in uniform with a «Ukraine» patch"
+quotes:
+  - text: "Even in peacetime we can all do what we know how to do and bring victory closer one way or another. It can and must be done, and not only at the front."
+    source: "Conversation with a journalist (recollection published in Obozrevatel, 2022)"
 ---
 
 ## Easy to remember
