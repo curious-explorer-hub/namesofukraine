@@ -29,10 +29,14 @@ Piddubnyi toured Kyiv, Odesa, Katerynoslav (now Dnipro) and cities abroad. In th
 
 In the mid-1920s Piddubnyi performed in the United States. There he quickly mastered freestyle wrestling, a style new to him, and won the title of best wrestler in it. At 56 he also won a men’s beauty contest in the United States.
 
-## Old age in Yeysk
+## Repression and arrest
 
-Later Piddubnyi settled in the town of Yeysk (now Krasnodar Krai, Russia). In old age he lived in poverty and faced harassment from the authorities, in part because he openly stressed his Ukrainian identity. He lived through the Nazi occupation and died in 1949.
+Later Piddubnyi settled in the town of Yeysk (now Krasnodar Krai, Russia). In 1937 he was issued a Soviet passport that spelled his name “Poddubny” and recorded him as Russian. He crossed this out himself and wrote “Piddubnyi” and “Ukrainian”. It happened at the height of the repressions against Ukrainians, and soon he was arrested. He spent about a year in prison in Rostov-on-Don. A medical orderly who treated him later recalled the scars of torture on his back. After the Soviet pact with Nazi Germany in 1939, the authorities decided to make use of his world fame: they “rehabilitated” him and gave him the title of Honoured Artist and an order.
+
+## A life and death in poverty
+
+Piddubnyi lived through the Nazi occupation of Yeysk (1942–1943). After the war the Soviet Union rationed food with cards, and a ration meant for an ordinary person fell desperately short for a man of his build. To buy food he sold his medals, won in arenas around the world, to dealers, but even that money was not enough: at times, weak from hunger, he lay in bed for days to save his strength. Ivan Piddubnyi died in Yeysk on 8 August 1949, worn out by illness and poverty.
 
 ## Why it matters today
 
-Piddubnyi is one of the iconic figures in the history of physical culture. His path from port loader to star of the world’s arenas shows what strength, training and fair competition can achieve.
+Piddubnyi is one of the iconic figures in the history of physical culture. His path from port loader to star of the world’s arenas shows what strength, training and fair competition can achieve. And neither prison nor torture made him renounce who he was: he defended his right to call himself Ukrainian.
