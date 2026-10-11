@@ -19,6 +19,7 @@ image:
   src: ./images/mariana-mamonova.jpg
   alt: "Мар'яна Мамонова в білій сорочці на тлі міста"
   position: "50% 25%"
+  ai_edit: restored
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://www.pravda.com.ua/eng/news/2022/09/25/7368979/"
