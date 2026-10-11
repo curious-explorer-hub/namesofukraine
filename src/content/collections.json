@@ -51,11 +51,11 @@
     {
       "id": "defenders-mariupol",
       "label": {
-        "uk": "Захисники Маріуполя",
-        "en": "Defenders of Mariupol"
+        "uk": "Оборона Маріуполя",
+        "en": "The Defence of Mariupol"
       },
       "description": {
-        "uk": "2022 року захисники Маріуполя писали історію героїзму й опору. Ці люди, цивільні й військові, стали символом незламності.",
+        "uk": "2022 року захисники й захисниці Маріуполя писали історію героїзму й опору. Ці люди, цивільні й військові, стали символом незламності.",
         "en": "In 2022, Mariupol's defenders made history. Civilians and soldiers alike became symbols of resistance."
       },
       "image": {
@@ -99,7 +99,7 @@
     {
       "id": "sixtiers",
       "label": {
-        "uk": "Шістдесятники",
+        "uk": "Шістдесятництво",
         "en": "The Sixtiers"
       },
       "description": {
@@ -109,7 +109,7 @@
       "image": {
         "file": "sixtiers.jpg",
         "caption": {
-          "uk": "Ілюстрація до добірки «Шістдесятники»: сонця, кобзи, голуби й розірвані кайдани",
+          "uk": "Ілюстрація до добірки «Шістдесятництво»: сонця, кобзи, голуби й розірвані кайдани",
           "en": "Illustration for the Sixtiers collection: suns, kobzas, doves and broken chains"
         },
         "author": {
@@ -172,7 +172,7 @@
     {
       "id": "neoclassicists",
       "label": {
-        "uk": "Київські неокласики",
+        "uk": "Київська неокласика",
         "en": "The Kyiv Neoclassicists"
       },
       "description": {
@@ -182,7 +182,7 @@
       "image": {
         "file": "neoclassicists.jpg",
         "caption": {
-          "uk": "Ілюстрація до добірки «Київські неокласики»: дерево з книжками-іменами, античні колони й меандр",
+          "uk": "Ілюстрація до добірки «Київська неокласика»: дерево з книжками-іменами, античні колони й меандр",
           "en": "Illustration for the Kyiv Neoclassicists collection: a tree bearing books with the poets' names, classical columns and a meander"
         },
         "author": {
