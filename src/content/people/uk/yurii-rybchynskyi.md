@@ -13,16 +13,20 @@ fun_fact: "Одним із перших хітів Юрія Рибчинсько
 birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.450, lon: 30.523 }
 image:
   src: ./images/yurii-rybchynskyi.jpg
-  alt: "Юрій Рибчинський у світло-синьому піджаку тримає грамоту на церемонії в Києві, 2020 рік"
-  position: "65% 20%"
-  author: "Офіс Президента України"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Герой_України_Юрій_Рибчинський.jpeg"
+  alt: "Юрій Рибчинський усміхається, у смугастій сорочці й краватці в горошок, піджак перекинуто через плече"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uacrr.org.ua/members/ribchinskij-yurij-evgenovich.html"
+  fair_use: true
 key_accomplishments:
   - "Слова до пісні «Ой летіли дикі гуси» (1969, музика Ігоря Поклада)"
   - "Слова до пісні «Минає день» (музика Миколи Мозгового)"
   - "Тексти пісень з 1965 року; серед виконавців - Софія Ротару, Ніна Матвієнко, Руслана"
   - "Звання Герой України з врученням ордена Держави (2020, указ № 340/2020)"
+quotes:
+  - text: "Я без тебе, мово, — без зерна полова, / Соняшник без сонця, без птахів діброва. / Як вогонь, у серці я несу в майбутнє / Незгасиму мову, слово незабутнє!"
+    source: "Вірш «Мова, наша мова, мова кольорова…»"
 sources:
   - title: "Енциклопедія сучасної України - Мозговий Микола Петрович"
     url: "https://esu.com.ua/article-68320"
@@ -33,7 +37,8 @@ sources:
   - title: "ГОРДОН - Інтерв'ю Гордона з Рибчинським. Де і коли дивитися (22.05.2020)"
     url: "https://gordonua.com/ukr/news/culture/-interv-ju-gordona-z-ribchinskim-de-i-koli-divitisja-1500958.html"
 related: [sofiia-rotaru, nina-matviienko, ruslana-lyzhychko]
-status: draft
+status: approved
+published: 2026-10-12T21:40:49Z
 ---
 
 ## Гуси, що летять уже пів століття

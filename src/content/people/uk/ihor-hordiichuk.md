@@ -12,11 +12,13 @@ summary: "Позивний «Сумрак» наводив жах на воро�
 fun_fact: "Після ранення він довго відновлювався в американському військовому госпіталі Walter Reed, а потім сім років очолював кадетів Київського військового ліцею імені Івана Богуна."
 image:
   src: ./images/ihor-hordiichuk.jpg
-  alt: "Ігор Гордійчук у парадній формі із зіркою Героя України, Київ, 2016"
+  alt: "Ігор Гордійчук у формі й кашкеті із зіркою Героя України усміхається на площі перед Михайлівським собором у Києві"
   position: "50% 15%"
-  author: "Міністерство оборони України (mil.gov.ua)"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D0%B3%D0%BE%D1%80_%D0%93%D0%BE%D1%80%D0%B4%D1%96%D0%B9%D1%87%D1%83%D0%BA.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uacrr.org.ua/members/ribchinskij-yurij-evgenovich.html"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Очолив розвідувальну групу, яка 12 серпня 2014 року здобула й 12 днів утримувала висоту Савур-Могила на Донеччині; під час відходу з оточення зазнав важкого ранення в голову"
   - "Указом Президента № 816/2014 від 21 жовтня 2014 року отримав звання Герой України з орденом «Золота Зірка»"
@@ -36,7 +38,8 @@ sources:
   - title: "АрміяInform - Героя України Ігоря Гордійчука призначено заступником начальника Національного університету оборони"
     url: "https://armyinform.com.ua/2023/11/07/geroya-ukrayiny-igorya-gordijchuka-pryznacheno-zastupnykom-nachalnyka-naczionalnogo-universytetu-oborony/"
 related: [ivan-bohun]
-status: draft
+status: approved
+published: 2026-10-12T21:40:49Z
 ---
 
 ## Чому «Сумрак»?

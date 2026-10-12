@@ -10,7 +10,7 @@ key_accomplishments:
   - "Promoted to major general at the 2016 Independence Day parade; headed the Kyiv Military Lyceum named after Ivan Bohun until 2023"
   - "Deputy head of the National Defence University of Ukraine since November 2023"
 birthplace_name: "Zaliznytsia, Rivne region"
-image_alt: "Ihor Hordiichuk in dress uniform with the Hero of Ukraine star, Kyiv, 2016"
+image_alt: "Ihor Hordiichuk in uniform and peaked cap with the Hero of Ukraine star, smiling on the square in front of St Michael's Cathedral in Kyiv"
 quotes:
   - text: "[…] how can you find a consensus when the enemy wants us to die and we want to live? There is no middle ground. It's either victory or capitulation."
     source: "Interview with LB.ua, August 2021"

@@ -10,7 +10,10 @@ key_accomplishments:
   - "Song lyrics since 1965; performers include Sofiia Rotaru, Nina Matviienko and Ruslana"
   - "Hero of Ukraine with the Order of the State (2020, decree No. 340/2020)"
 birthplace_name: "Kyiv"
-image_alt: "Yurii Rybchynskyi in a light blue jacket holding a certificate at a ceremony in Kyiv, 2020"
+image_alt: "Yurii Rybchynskyi smiling, in a striped shirt and a polka-dot tie, with a jacket slung over his shoulder"
+quotes:
+  - text: "Without you, my language, I am chaff without grain, / A sunflower without sun, an oak wood without birds. / Like a flame in my heart I carry to the future / The language that won't go out, the word that won't be forgotten!"
+    source: "Poem \"Our language, our language, our colourful language…\" (translated from Ukrainian)"
 ---
 
 ## Geese that have been flying for half a century
