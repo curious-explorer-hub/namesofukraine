@@ -10,6 +10,10 @@ key_accomplishments:
   - "Helped displaced people; worked at the office of the UN High Commissioner for Refugees (UNHCR)"
   - "Member of the Kherson regional and city (2014) councils; from 2016, acting manager of affairs of the Kherson city council’s executive committee"
 birthplace_name: "Kherson"
+image_alt: "Kateryna Handziuk in a navy coat and sunglasses, smiling on a riverbank with an old castle with red roofs behind her"
+quotes:
+  - text: "Yes, I know I look bad right now. But at least I'm being treated. Good Ukrainian doctors are treating me. And I know for sure that I look much better now than justice and the rule of law look in Ukraine. Because today no one is treating them."
+    source: "Video address from her hospital bed on the eve of the 27 September 2018 rally (as reported by Novynarnia, September 2018; translated from Ukrainian)"
 ---
 
 ## The question on the placards

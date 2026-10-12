@@ -14,11 +14,23 @@ birthplace: { name: "Тбілісі", region: abroad, country: GE, lat: 41.722, 
 places:
   - { name: "Львів", lat: 49.841, lon: 24.022, note: "Львівський університет (закінчив 1993); Рух (1990–1991); ведучий на львівському телебаченні (1992–1993)" }
   - { name: "Київ", lat: 50.45, lon: 30.524, note: "працював тут із 1993 року; заснував «Українську правду» (2000); тут зник 16 вересня 2000 року; похований 2016 року" }
+image:
+  src: ./images/heorhii-honhadze.jpg
+  alt: "Георгій Гонгадзе у вишиванці з червоно-чорним орнаментом, із ременем сумки на плечі, усміхається на тлі книжкових полиць"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://surma.com.ua/232-pamiati-georgiia-gongadze-rozdumy-pro-zhurnalistyku.html"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "2000 року заснував і очолив інтернет-видання «Українська правда»"
   - "Автор документальних фільмів «Біль моєї землі» (1993) і «Тіні війни» (1994)"
   - "Ведучий телепрограм у Львові й Києві; очолював інформаційну службу радіо «Континент» (1999–2000)"
   - "Герой України з удостоєнням ордена Держави (посмертно, 2005)"
+quotes:
+  - text: "Страх є в кожному з нас. Але коли ти робиш свою справу, ти мусиш його долати, тому що якщо ти не подолаєш страх, ти не зможеш бути вільним."
+    source: "Про свободу слова та залякування (приписується; першоджерело не встановлено)"
 sources:
   - title: "Енциклопедія історії України - Ґонґадзе Георгій Русланович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=DOP&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Gongadze_G"
@@ -30,7 +42,8 @@ sources:
     url: "https://espreso.tv/kultura-laureatami-premii-imeni-georgiya-gongadze-2026-stali-olga-rudenko-ta-mikhaylo-tkach"
 related: []
 collections: [civic-icons]
-status: draft
+status: approved
+published: 2026-10-12T19:11:08Z
 ---
 
 ## Хлопець із Тбілісі, який обрав Україну

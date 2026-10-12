@@ -10,6 +10,10 @@ key_accomplishments:
   - "Hosted TV programmes in Lviv and Kyiv; headed the news service of Radio Kontynent (1999–2000)"
   - "Hero of Ukraine with the Order of the State (posthumously, 2005)"
 birthplace_name: "Tbilisi (Georgia)"
+image_alt: "Georgiy Gongadze in an embroidered shirt with a red and black pattern, a bag strap over his shoulder, smiling in front of bookshelves"
+quotes:
+  - text: "There is fear in each of us. But when you do your work, you have to overcome it, because if you don't overcome fear, you can't be free."
+    source: "On freedom of speech and intimidation (attributed; original source not established)"
 ---
 
 ## A boy from Tbilisi who chose Ukraine
