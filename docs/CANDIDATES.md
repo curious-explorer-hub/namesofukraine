@@ -17,9 +17,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
-| Олександр Шемет | | Pilot (defenders) | | `defenders-mariupol` | Army Aviation pilot, Hero of Ukraine; flew into blockaded Azovstal and evacuated the wounded (HUR operation, УП 26 May 2022). Better documented than Данило Мельник (below) |
-| Іван Багряний | 1906–1963 | Writer (literature) | 🌍 | | Survived the camps; «Тигролови», «Сад Гетсиманський»; emigrated. A strong profile on its own |
-| Борис Антоненко-Давидович | 1899–1984 | Writer (literature) | | | Survived the camps; «Як ми говоримо». A strong profile on its own |
 | Марко Вороний | 1904–1937 | Poet, translator (literature) | | `executed-renaissance` | Son of Микола Вороний (draft); shot at Sandarmokh. Free portrait |
 | Іван Падалка | 1894–1937 | Painter (visual-arts) | | `executed-renaissance` | Boichukist; shot 1937. Free portrait |
 | Володимир Свідзинський | 1885–1941 | Poet (literature) | | `executed-renaissance` | Died in NKVD custody in 1941; the manner of death is disputed. Free portrait |
@@ -31,18 +28,11 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Олекса Влизько | 1908–1934 | Poet (literature) | | `executed-renaissance` | Shot in Kyiv with the 28, December 1934. Free portrait |
 | Іван Дніпровський | 1895–1934 | Writer (literature) | | | Kherson-born, not repressed: a profile outside the collection; fills Kherson oblast |
 | Микола Лемик | 1914–1941 | OUN member (statehood) | ⚖️ | | Owner request 2026-10-10. In October 1933 he shot an official of the Soviet consulate in Lviv in protest against the Holodomor, and used his trial to tell the world about the famine; sentenced to life, freed in 1939, killed by the Nazis in 1941 (all **unverified**). A political killing: needs a neutral «Дискусії та оцінки» section |
-| Микола Міхновський | 1873–1924 | Lawyer, political thinker (statehood) | ⚖️ | | Owner request 2026-10-10. Author of «Самостійна Україна» (1900), the first programme calling for an independent Ukraine; founder of the Ukrainian People's Party. His nationalism is debated: needs a «Дискусії та оцінки» section |
-| Іван Огієнко (митрополит Іларіон) | 1882–1972 | Linguist, church leader (faith) | 🌍 | | Owner request 2026-10-10. Linguist and historian of the language; UNR minister of education and of religious affairs; first rector of the Kamianets-Podilskyi Ukrainian University; translated the whole Bible into Ukrainian; later metropolitan of the Ukrainian Orthodox Church of Canada |
 | Дмитро Донцов | 1883–1973 | Political thinker (statehood) | 🌍 ⚖️ | | Owner request 2026-10-10. Ideologist of Ukrainian integral nationalism («Націоналізм», 1926); a strong influence on the OUN; emigrated to Canada. Contested: needs a careful «Дискусії та оцінки» section |
 | Григорій Голоскевич | 1884–1935 | Linguist (science) | | `executed-renaissance` | Owner request 2026-10-10. Author of the «Правописний словник» (1929) for the 1928 orthography; arrested in the SVU case, exiled to Siberia, died there in 1935 |
 | Олекса Синявський | 1887–1931 | Linguist (science) | | | Owner request 2026-10-10. One of the authors of the 1928 Ukrainian orthography («скрипниківка»); «Норми української літературної мови» (1931) |
-| Олександр Смакула | 1900–1983 | Physicist (science) | 🌍 | | Owner request 2026-10-10. Born near Ternopil; at Carl Zeiss in 1935 invented the anti-reflective coating for lenses, now on glasses and camera optics worldwide; later worked at MIT |
-| Олена Вітер | 1904–1988 | Nun, abbess (faith) | 👩 | | Owner request 2026-10-10. Basilian nun from 1922; abbess of the Studite convent in Lviv (1939–40, 1941–45); organised help for imprisoned nationalists (ESU); later repressed by the Soviet regime (**unverified**) |
 | Богдан Казанівський | | OUN member (statehood) | | | Owner request 2026-10-10. OUN member; memoir «Шляхом легенди» (from general knowledge; no biography found in a first search, so check years and role before drafting) |
-| Ольга Харлан | b. 1990 | Sabre fencer (sport) | 👩 🟢 | | Owner request 2026-10-12. From Mykolaiv; Olympic team champion (2008, 2024) and individual medallist at several Games; multiple world champion. Disqualified at the 2023 World Championships for refusing to shake a Russian opponent's hand; the IOC then guaranteed her an Olympic place. Check her medal count and whether she is Ukraine's most decorated Olympian |
-| Оксана Баюл | b. 1977 | Figure skater (sport) | 👩 🟢 | | Owner request 2026-10-12. From Dnipro; world champion 1993 and Olympic champion 1994 (Lillehammer), the first Olympic gold of independent Ukraine. Later lived in the US: keep to her sports career |
 | Олена Підгрушна (Білосюк) | b. 1987 | Biathlete (sport) | 👩 🟢 | | Owner request 2026-10-12. Olympic champion in the women's relay (Sochi 2014); world sprint champion 2013. Later a deputy minister of youth and sports (check years). Check the name she competes under now and the birthplace (Kyiv or Slavutych) |
-| Лілія Подкопаєва | b. 1978 | Gymnast (sport) | 👩 🟢 | | Owner request 2026-10-12. From Donetsk; Olympic all-around and floor champion (Atlanta 1996), world all-around champion 1995; an element bears her name |
 | Олексій Середа | b. 2005 | Diver (sport) | 🟢 | | Owner request 2026-10-12. From Mykolaiv; European champion on the 10 m platform at 13 (2019), among the youngest ever; competed at the Tokyo and Paris Games. Young and with no Olympic medal yet: encyclopedias may not cover him, so check sources before drafting |
 
 ## Needs a decision
@@ -58,7 +48,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Сергій Притула | b. 1981 | TV host, volunteer (civic) | 🟢 ⚖️ | His foundation raised money for the Bayraktars and the ICEYE satellite (2022), but he also ran for office («Голос»): a politician by §7.6 |
 | Тетяна Чорновол | b. 1979 | Journalist, defender (defenders) | 👩 🟢 ⚖️ | Investigative journalist, Euromaidan activist, MP (2014–19), since 2022 an anti-tank missile operator. Suspected in the case over a death in the 2014 arson of the Party of Regions office; she disputes it, and the case's status needs checking. Needs a debates section. For `women-army` |
 | Євгенія Емеральд («Жанна д'Арк») | | Defender (defenders) | 👩 🟢 | She says she is not a certified sniper (RBC-Styler, 15 Nov 2023); most later coverage is about her private life, not public deeds. Keep or drop? For `women-army` |
-| Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (above)? |
+| Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (now drafted)? |
 | Богдан-Ігор Антонич | 1909–1937 | Poet (literature) | 🌍 | Lemko-born poet of interwar Lviv («Книга Лева», «Зелена Євангелія»); not repressed (died of illness), so not for `executed-renaissance`. Profile him without the collection, or skip? |
 | Катерина Гучко | | | | Owner request 2026-10-10. No one by this name turns up in a search: owner, who is she (years, field, a link)? |
 | Герої Небесної Сотні | 2014 | Collective | 👥 | See Collectives in Editorial notes. Костенко and Сольчаник are drafted as individuals |
