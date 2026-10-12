@@ -146,7 +146,6 @@
     },
     {
       "id": "civic-icons",
-      "draft": true,
       "label": {
         "uk": "Голоси свободи",
         "en": "Voices of Freedom"
@@ -158,15 +157,15 @@
       "image": {
         "file": "civic-icons.jpg",
         "caption": {
-          "uk": "Євромайдан у Києві, 27 листопада 2013 року",
-          "en": "The Euromaidan in Kyiv, 27 November 2013"
+          "uk": "Ілюстрація до добірки «Голоси свободи»: Майдан Незалежності, монумент Незалежності й натовп із синьо-жовтими прапорами",
+          "en": "Illustration for the Voices of Freedom collection: Independence Square, the Independence Monument and a crowd with blue-and-yellow flags"
         },
         "author": {
-          "uk": "Євген Фельдман",
-          "en": "Evgeny Feldman"
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
         },
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Euromaidan_01.JPG"
+        "license": "AI-generated",
+        "source_url": ""
       }
     },
     {

@@ -22,7 +22,7 @@ In order. Pick from the top.
 
 ### Content session (owner, 2026-10-06)
 
-- **C5. Collections waiting on approvals.** `civic-icons` is a draft collection (`"draft": true` in `collections.json`, hidden on the site) until enough members are approved; remove the flag to publish. `neoclassicists` and `executed-renaissance` are live.
+- **C5. Collections waiting on approvals.** None: `civic-icons`, `neoclassicists` and `executed-renaissance` are live. `civic-icons` still has draft members (Solchanyk, Honhadze, Kostenko, Handziuk, Naiiem, Sternenko), which join it on the site as they're approved.
 - **C6. Two more collections** (owner, 2026-10-09).
   - `bakhmut`, «Бахмут» / "The Battle for Bakhmut" (2022–23). To label: `dmytro-kotsiubailo`, `oleksandr-matsiievskyi`, `yevhen-mezhevikin` (draft); check `oksana-rubaniak` (draft; only mentions driving ammunition towards Bakhmut); not `oleksandr-trepak` (killed in 2014). Needs new candidates: research Heroes of Ukraine decrees and unit histories for Aug 2022 – May 2023.
   - `heroes-of-ukraine`, «Герої України» / "Heroes of Ukraine". About 60 profiles mention the title; confirm each by decree, and leave out `stepan-bandera` (the 2010 decree was ruled unlawful) and anyone whose profile mentions the title without saying they got it; check `roman-shukhevych` (2007 award challenged in court). Owner: a collection, or a home-page filter backed by an `awards:` field (schema change).
