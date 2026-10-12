@@ -39,6 +39,11 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Олександр Смакула | 1900–1983 | Physicist (science) | 🌍 | | Owner request 2026-10-10. Born near Ternopil; at Carl Zeiss in 1935 invented the anti-reflective coating for lenses, now on glasses and camera optics worldwide; later worked at MIT |
 | Олена Вітер | 1904–1988 | Nun, abbess (faith) | 👩 | | Owner request 2026-10-10. Basilian nun from 1922; abbess of the Studite convent in Lviv (1939–40, 1941–45); organised help for imprisoned nationalists (ESU); later repressed by the Soviet regime (**unverified**) |
 | Богдан Казанівський | | OUN member (statehood) | | | Owner request 2026-10-10. OUN member; memoir «Шляхом легенди» (from general knowledge; no biography found in a first search, so check years and role before drafting) |
+| Ольга Харлан | b. 1990 | Sabre fencer (sport) | 👩 🟢 | | Owner request 2026-10-12. From Mykolaiv; Olympic team champion (2008, 2024) and individual medallist at several Games; multiple world champion. Disqualified at the 2023 World Championships for refusing to shake a Russian opponent's hand; the IOC then guaranteed her an Olympic place. Check her medal count and whether she is Ukraine's most decorated Olympian |
+| Оксана Баюл | b. 1977 | Figure skater (sport) | 👩 🟢 | | Owner request 2026-10-12. From Dnipro; world champion 1993 and Olympic champion 1994 (Lillehammer), the first Olympic gold of independent Ukraine. Later lived in the US: keep to her sports career |
+| Олена Підгрушна (Білосюк) | b. 1987 | Biathlete (sport) | 👩 🟢 | | Owner request 2026-10-12. Olympic champion in the women's relay (Sochi 2014); world sprint champion 2013. Later a deputy minister of youth and sports (check years). Check the name she competes under now and the birthplace (Kyiv or Slavutych) |
+| Лілія Подкопаєва | b. 1978 | Gymnast (sport) | 👩 🟢 | | Owner request 2026-10-12. From Donetsk; Olympic all-around and floor champion (Atlanta 1996), world all-around champion 1995; an element bears her name |
+| Олексій Середа | b. 2005 | Diver (sport) | 🟢 | | Owner request 2026-10-12. From Mykolaiv; European champion on the 10 m platform at 13 (2019), among the youngest ever; competed at the Tokyo and Paris Games. Young and with no Olympic medal yet: encyclopedias may not cover him, so check sources before drafting |
 
 ## Needs a decision
 
@@ -49,6 +54,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Володимир Зеленський | | State (statehood) | 🟢 | Current leader (see Editorial notes) |
 | Валерій Залужний | | Military (statehood) | 🟢 | Serving leader |
 | Кирило Буданов | | Military (statehood) | 🟢 | Head of military intelligence (HUR); Hero of Ukraine (2024). Serving leader |
+| Жан Беленюк | b. 1991 | Greco-Roman wrestler (sport) | 🟢 | Owner request 2026-10-12. From Kyiv; Olympic champion (Tokyo 2020), silver (Rio 2016) and bronze (Paris 2024); world champion 2015 and 2019. But he is also an MP («Слуга народу», since 2019): a current partisan politician by §7.6 (see Editorial notes). Profile the sports career now, or wait? |
 | Сергій Притула | b. 1981 | TV host, volunteer (civic) | 🟢 ⚖️ | His foundation raised money for the Bayraktars and the ICEYE satellite (2022), but he also ran for office («Голос»): a politician by §7.6 |
 | Тетяна Чорновол | b. 1979 | Journalist, defender (defenders) | 👩 🟢 ⚖️ | Investigative journalist, Euromaidan activist, MP (2014–19), since 2022 an anti-tank missile operator. Suspected in the case over a death in the 2014 arson of the Party of Regions office; she disputes it, and the case's status needs checking. Needs a debates section. For `women-army` |
 | Євгенія Емеральд («Жанна д'Арк») | | Defender (defenders) | 👩 🟢 | She says she is not a certified sniper (RBC-Styler, 15 Nov 2023); most later coverage is about her private life, not public deeds. Keep or drop? For `women-army` |
