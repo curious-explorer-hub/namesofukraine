@@ -18,6 +18,15 @@ image:
   author: "Міністерство молоді та спорту України"
   license: "CC BY 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:Андрій_Шевченко_2024.png"
+gallery:
+  - src: ./images/andrii-shevchenko-ball.webp
+    alt: "Андрій Шевченко у червоно-чорній формі «Мілана» тримає над собою «Золотий м'яч» і дивиться на нього"
+    caption: "Шевченко показує «Золотий м'яч» уболівальникам «Мілана»"
+    section: 2
+    fair_use: true
+    author: "Getty Images"
+    license: "Fair use"
+    source_url: "https://champion.com.ua/ukr/football/shevchenko-pryvitav-milan-z-vykhodom-v-chvertfinal-lihy-chempioniv-924148/"
 key_accomplishments:
   - "П'ять чемпіонств України з «Динамо» (Київ)"
   - "Переможець Ліги чемпіонів 2003 року і чемпіон Італії з «Міланом»; двічі найкращий бомбардир Серії A"

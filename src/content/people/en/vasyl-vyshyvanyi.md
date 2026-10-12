@@ -12,7 +12,7 @@ key_accomplishments:
 birthplace_name: "Pula (Austria-Hungary, now Croatia)"
 image_alt: "Vasyl Vyshyvanyi in an embroidered shirt and sheepskin coat, a photograph from about 1918"
 quotes:
-  - text: "O clouds that drift toward my native lands, / Greet the Hutsuls for me — / O birds that sail south to the mountains, / Come back with their greetings."
+  - text: "O clouds that drift toward my native lands, / Greet the Hutsuls for me - / O birds that sail south to the mountains, / Come back with their greetings."
     source: "From the collection Days Go By, Vienna, 1921"
 ---
 

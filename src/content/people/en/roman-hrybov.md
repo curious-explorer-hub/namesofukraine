@@ -29,7 +29,7 @@ At that moment, nobody knew whether the defenders would live. At that moment, no
 
 At first it seemed all 13 island defenders were dead. President Zelensky announced he would award them Hero of Ukraine medals posthumously. But on 28 February the Ukrainian Navy posted: they were alive. The Russians had taken them prisoner.
 
-Roman Hrybov spent a month in Russian captivity—24 February to 24 March 2022. He was moved three times: first to Crimea, then to tent camps and detention facilities. "We were treated worse than dogs," he said later. "They put us in prisoner uniforms, applied psychological pressure. They didn't care if you were military, a woman, or a priest." His captors inflicted both psychological and physical torture, falsely claiming Russian forces had already taken Kyiv to break his spirit.
+Roman Hrybov spent a month in Russian captivity - 24 February to 24 March 2022. He was moved three times: first to Crimea, then to tent camps and detention facilities. "We were treated worse than dogs," he said later. "They put us in prisoner uniforms, applied psychological pressure. They didn't care if you were military, a woman, or a priest." His captors inflicted both psychological and physical torture, falsely claiming Russian forces had already taken Kyiv to break his spirit.
 
 This account changes how we understand the phrase. Hrybov doesn't remember clearly when he said it. And here was the crucial part: he didn't even know anyone was looking for him. "They didn't know who said it," he explained. "That was good, because I don't think I would have come home otherwise."
 
@@ -41,4 +41,4 @@ On 29 March 2022, the head of Cherkasy region's military administration Ihor Tab
 
 ## Why it matters
 
-His four words became a rallying cry for resistance around the world—they appeared on billboards, were repeated at protests, and rang out as a message to those who thought Ukraine would fall in days. Hrybov's story shows that heroism isn't always about remembering everything you did. Sometimes it's just about speaking up when it matters most.
+His four words became a rallying cry for resistance around the world - they appeared on billboards, were repeated at protests, and rang out as a message to those who thought Ukraine would fall in days. Hrybov's story shows that heroism isn't always about remembering everything you did. Sometimes it's just about speaking up when it matters most.

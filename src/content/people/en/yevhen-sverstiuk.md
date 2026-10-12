@@ -12,7 +12,7 @@ key_accomplishments:
 birthplace_name: "Siltse"
 image_alt: "Yevhen Sverstiuk in glasses and a grey jacket, 2009"
 quotes:
-  - text: "It was the eternal quiet language of truth — its stream flows through all of history."
+  - text: "It was the eternal quiet language of truth - its stream flows through all of history."
     source: "Lecture “The Sixtiers and the West”, 1991"
 ---
 

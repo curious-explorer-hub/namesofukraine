@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/yevhenii-bova.md
 name: "Yevhenii Bova"
 role: "Hero of Ukraine, marine officer"
-summary: "When his brigade's commander was taken prisoner, marine officer Yevhenii Bova stepped up to defend Mariupol himself — and was named a Hero of Ukraine for it. Weeks later the Russians captured him too; he spent five months as a prisoner of war before an exchange brought him home in September 2022."
+summary: "When his brigade's commander was taken prisoner, marine officer Yevhenii Bova stepped up to defend Mariupol himself - and was named a Hero of Ukraine for it. Weeks later the Russians captured him too; he spent five months as a prisoner of war before an exchange brought him home in September 2022."
 fun_fact: "Years before Mariupol, Bova spent four years holding the line in the shelled village of Shyrokyne in the Donetsk region."
 key_accomplishments:
   - "Served from 2014 in the 1st Separate Marine Battalion (Mykolaiv), rising from platoon to battalion commander (2018)"
@@ -25,4 +25,4 @@ By the time Bova took command, the city had already been under siege for weeks. 
 
 ## Back to service
 
-Bova stayed in uniform. In 2023–2025 he commanded the 38th Separate Marine Brigade, and in 2024 was promoted to colonel. His path — from a young lieutenant on the front line to brigade commander — traces what many Ukrainian officers have had to learn: how to fight and how to survive captivity, often within the same war.
+Bova stayed in uniform. In 2023–2025 he commanded the 38th Separate Marine Brigade, and in 2024 was promoted to colonel. His path - from a young lieutenant on the front line to brigade commander - traces what many Ukrainian officers have had to learn: how to fight and how to survive captivity, often within the same war.
