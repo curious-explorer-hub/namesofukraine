@@ -1,6 +1,7 @@
 ---
 import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import License from '../components/License.astro';
 import { SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
 import { suggestEmbedUrl } from '../lib/suggest';
 import { socialLinks, supportLinks } from '../lib/social';
@@ -80,16 +81,16 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
         <h2 id="era-credits">{t('about.era_credits', lang)}</h2>
         <ul>
           <li>
-            {t('about.hero_credit', lang)}: <a href={hero.source_url}>{hero.caption[lang]}</a> - {hero.author}, {hero.license}
+            {t('about.hero_credit', lang)}: <a href={hero.source_url}>{hero.caption[lang]}</a> - {hero.author}, <License name={hero.license} />
           </li>
           {eras.map((e) => (
             <li>
-              {e.label[lang]}: <a href={e.image.source_url}>{e.image.caption[lang]}</a> - {e.image.author[lang]}, {e.image.license}
+              {e.label[lang]}: <a href={e.image.source_url}>{e.image.caption[lang]}</a> - {e.image.author[lang]}, <License name={e.image.license} />
             </li>
           ))}
           {collections.map((c) => (
             <li>
-              {c.label[lang]}: <a href={c.image.source_url}>{c.image.caption[lang]}</a> - {c.image.author[lang]}, {c.image.license}
+              {c.label[lang]}: <a href={c.image.source_url}>{c.image.caption[lang]}</a> - {c.image.author[lang]}, <License name={c.image.license} />
             </li>
           ))}
           <li>

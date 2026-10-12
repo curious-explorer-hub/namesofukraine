@@ -1,0 +1,8 @@
+---
+import { licenseUrl } from '../lib/license';
+
+const { name } = Astro.props as { name: string };
+const url = licenseUrl(name);
+---
+
+{url ? <a href={url}>{name}</a> : name}

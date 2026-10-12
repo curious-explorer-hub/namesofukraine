@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PersonCard from '../components/PersonCard.astro';
 import Portrait from '../components/Portrait.astro';
 import MisconceptionCard from '../components/MisconceptionCard.astro';
+import License from '../components/License.astro';
 import {
   collections,
   tagLabel,
@@ -208,7 +209,7 @@ const memberOf = collections.filter((c) => data.collections.includes(c.id));
         {
           data.image && (
             <p>
-              {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, {data.image.license}
+              {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, <License name={data.image.license} />
               {data.image.ai_edit && `; ${t(`person.image_${data.image.ai_edit}`, lang)}`}
               {data.image.fair_use && `; ${t('person.image_fair_use', lang)}`}
             </p>
@@ -216,7 +217,7 @@ const memberOf = collections.filter((c) => data.collections.includes(c.id));
         }
         {data.gallery.map((g) => (
           <p>
-            {t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, {g.license}
+            {t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, <License name={g.license} />
             {g.fair_use && `; ${t('person.image_fair_use', lang)}`}
           </p>
         ))}
