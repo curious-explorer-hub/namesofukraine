@@ -34,7 +34,7 @@ const fresh = !draft && isNew(person);
   data-died={dates && data.died ? monthDay(data.died) : undefined}
 >
   <article class="person">
-    <Portrait person={person} class="person-portrait" widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" loading={eager ? 'eager' : 'lazy'} />
+    <Portrait person={person} class="person-portrait" ratio={1} widths={[240, 400, 640]} sizes="(min-width: 48rem) 18rem, 80vw" loading={eager ? 'eager' : 'lazy'} />
     <p class="person-years">{lifespan(person)}</p>
     <Heading class="person-name">
       <a href={personUrl(person)}>{data.name}</a>

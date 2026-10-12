@@ -10,10 +10,16 @@ interface Props {
   loading?: 'lazy' | 'eager';
   // 'span' inside buttons and other phrasing-only content (era bands)
   tag?: 'div' | 'span';
+  // Width / height of the frame. A photo wider than the frame is cropped to its middle, so the browser
+  // needs a proportionally wider file than the frame width to stay sharp.
+  ratio?: number;
 }
 
-const { person, sizes, widths, class: className, loading = 'lazy', tag: Tag = 'div' } = Astro.props;
+const { person, sizes: frameSizes, widths: frameWidths, class: className, loading = 'lazy', tag: Tag = 'div', ratio } = Astro.props;
 const image = person.data.image;
+const scale = image && ratio ? Math.max(1, image.src.width / image.src.height / ratio) : 1;
+const widths = scale > 1 ? [...new Set(frameWidths.map((w) => Math.min(Math.round(w * scale), image!.src.width)))] : frameWidths;
+const sizes = scale > 1 ? frameSizes.replace(/(\S+)(?=\s*(,|$))/g, `calc($1 * ${scale.toFixed(2)})`) : frameSizes;
 // Faces sit in the upper part of most portraits.
 const position = image?.position ?? '50% 22%';
 const words = person.data.name.split(/\s+/);

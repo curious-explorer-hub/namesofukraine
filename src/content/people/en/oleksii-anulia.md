@@ -12,6 +12,9 @@ key_accomplishments:
   - "First winner of the Ihor Kozlovskyi Prize from the Center for Civil Liberties (December 2025)"
 birthplace_name: "Chernihiv Oblast"
 image_alt: "Oleksii Anulia in a grey sweater holding up his book “Jingle bellz” in front of bookshelves and a Ukrainian flag"
+gallery:
+  - alt: "Two photos side by side: on the left an emaciated Oleksii Anulia, shirtless with his ribs showing, just after captivity; on the right, in a black jacket ten months later"
+    caption: "Oleksii Anulia after his return from captivity, and ten months after rehabilitation"
 quotes:
   - text: "For me, dignity is when you can give a part of yourself for the good of another, for your homeland, your family, your word."
     source: "Video address to the guests of the Ihor Kozlovskyi Prize, December 2025"
@@ -27,7 +30,11 @@ Before the war Oleksii was a kickboxer. When the full-scale invasion began, he j
 
 ## Captivity
 
-In March 2022, when Russian troops took the village, Oleksii was captured. He was held first in Chernihiv Oblast and then taken to Russia. He was freed in the New Year’s Eve exchange.
+On 9 March 2022, when Russian troops took Lukashivka, Oleksii was captured. Over almost ten months he was moved through six places of detention, among them a pre-trial prison in Kursk and a penal colony in Donskoy in Russia’s Tula region. He spent 108 days in a punishment cell.
+
+He was beaten, tortured with a stun gun and forced to eat a military patch. His daily food was a piece of bread and two spoons of porridge. He lost 40 kilograms and became 7 centimetres shorter. To survive, he spent months hunting a rat and finally ate it. His captors broke his fingers, jaw, collarbones and spine, and tore his tendons.
+
+He was freed in the New Year’s Eve exchange. By July 2024 he had been in hospital 36 times.
 
 ## A voice for those still held
 
@@ -40,5 +47,7 @@ In 2025 Oleksii published “Jingle bellz”, a book in which he reflects on cap
 On 10 December 2025 the Center for Civil Liberties gave out the Ihor Kozlovskyi Prize for the first time. It is named after a philosopher and scholar of religion who spent 700 days held captive in occupied territory. The first winner was Oleksii Anulia. He was away on an advocacy trip and spoke to the guests by video. At the same ceremony, paramedic [Yuliia “Taira” Paievska](/en/people/yuliia-paievska/) received an award from PEN Ukraine.
 
 ## Why it matters
+
+Oleksii tells the world about captivity because his voice speaks for the Ukrainians still held in Russian prisons. His case is registered with the International Criminal Court in The Hague.
 
 Ukrainians are still held captive by Russia. Oleksii Anulia’s story is a reminder that each of them must be spoken about until they are brought home.

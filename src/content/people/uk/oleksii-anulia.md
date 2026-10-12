@@ -22,6 +22,15 @@ image:
   author: "Daniel Nikitin"
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BD%D1%83%D0%BB%D1%8F.jpg"
+gallery:
+  - src: ./images/oleksii-anulia-polon.jpg
+    alt: "Два фото поруч: ліворуч виснажений Олексій Ануля без сорочки, з випнутими ребрами, одразу після полону; праворуч він у чорній куртці через десять місяців"
+    caption: "Олексій Ануля після повернення з полону і через 10 місяців після реабілітації"
+    section: 3
+    author: "Особистий архів Олексія Анулі"
+    license: "Fair use"
+    source_url: "https://texty.org.ua/articles/111196/devjat-misjatsiv-u-rosijskomu-poloni-oleksij-anulja-rozpoviv-jak-zmuchenyj-holodom-yiv-chervjakiv-i-zhyvu-myshu/"
+    fair_use: true
 quotes:
   - text: "Для мене гідність – це коли ти можеш віддати частину себе заради блага іншого, заради своєї Батьківщини, своєї сім'ї, свого слова."
     source: "Відеозвернення до гостей Премії імені Ігоря Козловського, грудень 2025"
@@ -34,14 +43,15 @@ key_accomplishments:
 sources:
   - title: "Українська правда. Життя - Ветеран Олексій Ануля, який пережив 10 місяців полону, отримав Премію імені Ігоря Козловського (12 грудня 2025)"
     url: "https://life.pravda.com.ua/society/oleksiy-anulya-otrimav-premiyu-imeni-igorya-kozlovskogo-311999/"
-  - title: "Укрінформ - Колишній полонений Олексій Ануля став першим лауреатом премії імені Ігоря Козловського (11 грудня 2025)"
-    url: "https://www.ukrinform.ua/rubric-society/4068527-kolisnij-polonenij-oleksij-anula-stav-persim-laureatom-premii-imeni-igora-kozlovskogo.html"
+  - title: "Твоє місто - «Я хотів повіситись, але вдома чекали діти», - ветеран, що пережив полон (23 квітня 2024)"
+    url: "https://tvoemisto.tv/exclusive/istoriya_nezlamnosti_ukrainskyy_viyskovyy_yakyy_proviv_u_rosiyskomu_poloni_10_misyatsiv_ale_vytrymav_i_teper_dopomagaie_ryatuvaty_inshyh_163427.html"
   - title: "Суспільне Чернігів - Знайшов свій автомат у Лукашівці, який заховав 20 місяців тому після бою: історія Олексія Анулі з Чернігівщини (4 грудня 2023)"
     url: "https://suspilne.media/612839-znajsov-svij-avtomat-u-lukasivci-akij-zahovav-20-misaciv-tomu-pisla-bou-istoria-oleksia-anuli-z-cernigivsini/"
   - title: "Geneva Solutions - 'Fighting for their release keeps me strong': Ex-Ukrainian POW on mission to reveal horrors of Russian captivity (26 July 2024)"
     url: "https://genevasolutions.news/human-rights/fighting-for-their-release-keeps-me-strong-ex-ukrainian-pow-on-mission-to-reveal-horrors-of-russian-captivity"
 related: [yuliia-paievska]
-status: draft
+status: approved
+published: 2026-10-12T21:53:02Z
 ---
 
 ## Останній день 2022-го
@@ -54,7 +64,11 @@ status: draft
 
 ## Полон
 
-У березні 2022 року, коли росіяни зайняли село, Олексій потрапив у полон. Спершу його тримали на Чернігівщині, потім вивезли до Росії. Звільнили його під час новорічного обміну.
+9 березня 2022 року, коли росіяни зайняли Лукашівку, Олексій потрапив у полон. За майже десять місяців його провезли через шість місць ув'язнення, серед них СІЗО в Курську й колонію в Донському Тульської області. 108 днів він провів у карцері.
+
+Його били й катували електрошокером, змушували з'їсти шеврон. На день давали шматок хліба й дві ложки каші. Олексій схуд на 40 кілограмів і став нижчим на 7 сантиметрів. Щоб вижити, він кілька місяців полював на щура й зрештою з'їв його. Йому зламали пальці, щелепу, ключиці й хребет, порвали сухожилля.
+
+Звільнили його під час новорічного обміну. До липня 2024 року він 36 разів лягав до лікарні.
 
 ## Голос тих, хто досі там
 
@@ -67,5 +81,7 @@ status: draft
 10 грудня 2025 року Центр громадянських свобод уперше вручив Премію імені Ігоря Козловського. Її назвали на честь філософа й релігієзнавця, який провів 700 днів у неволі на окупованій території. Першим лауреатом став Олексій Ануля. Він сам у той час був в адвокаційній поїздці й звернувся до гостей у відео. На тій самій церемонії відзнаку Українського ПЕН отримала парамедикиня [Юлія «Тайра» Паєвська](/uk/people/yuliia-paievska/).
 
 ## Чому це важливо
+
+Олексій розповідає про полон на весь світ, бо його голос - це голос українців, які досі в російських в'язницях. Його справу зареєстровано в Міжнародному кримінальному суді в Гаазі.
 
 Українці досі є в російському полоні. Історія Олексія Анулі нагадує: про кожного з них треба говорити, доки його не повернуть додому.
