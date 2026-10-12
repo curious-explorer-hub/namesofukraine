@@ -17,17 +17,21 @@ places:
   - { name: "Київ, вулиця Інститутська", lat: 50.447, lon: 30.528, note: "Євромайдан; загинув 20 лютого 2014 року" }
 image:
   src: ./images/ihor-kostenko.jpg
-  alt: "Ігор Костенко, 31 грудня 2013 року"
-  position: "50% 35%"
-  author: "Марія Мудра (Mariia Mudra)"
-  license: "CC BY-SA 3.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ihor_Kostenko_1.jpg"
+  alt: "Ігор Костенко у смугастій сорочці з коричневим коміром, руки схрещені на грудях, на темному тлі"
+  position: "50% 20%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://detector.media/community/article/90654/2014-02-20-na-maydani-zagynuv-lvivskiy-student-igor-kostenko-yakyy-pratsyuvav-zhurnalistom/"
+  fair_use: true
 key_accomplishments:
   - "Під ніком Ig2000 написав понад 280 статей української Вікіпедії й відредагував понад 1600 (2011–2014)"
   - "Його статтю про есмінець «Незаможник» спільнота Вікіпедії визнала «доброю статтею»"
   - "Журналіст спортивного інтернет-видання «Спортаналітика»"
   - "Учасник студентських протестів за Угоду про асоціацію з ЄС у Львові й Києві (2013–2014)"
   - "Герой України (посмертно, 2014); «Вікіпедист року» (посмертно, 2014)"
+quotes:
+  - text: "Сидіти вдома і чекати, що хтось змінить країну за нас — це шлях у нікуди. Кожен має робити те, що вміє, там, де він є."
+    source: "Про відповідальність перед країною та майбутнє"
 sources:
   - title: "Енциклопедія історії України - Костенко Ігор Ігорович"
     url: "https://history.org.ua/?termin=kostenko_igor_igorovych"
@@ -39,7 +43,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/news-maydan-sud-vyroky-berkutivtsi/32642694.html"
 related: [bohdan-solchanyk]
 collections: [civic-icons]
-status: draft
+status: approved
+published: 2026-10-12T19:51:17Z
 ---
 
 ## Хто такий Ig2000?

@@ -11,6 +11,7 @@ key_accomplishments:
   - "On 22 November 2013 led a column of several thousand Lviv students in support of closer ties with the EU"
   - "Hero of Ukraine (posthumously, 2014); his poems came out as the collection Kitchens of My Generation (2014)"
 birthplace_name: "Staryi Sambir"
+image_alt: "Bohdan Solchanyk in a white embroidered shirt holding a black hat decorated with viburnum berries and flowers, portrait"
 ---
 
 ## A historian who studied elections

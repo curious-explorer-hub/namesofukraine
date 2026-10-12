@@ -11,7 +11,10 @@ key_accomplishments:
   - "Took part in the student protests for the EU Association Agreement in Lviv and Kyiv (2013–2014)"
   - "Hero of Ukraine (posthumously, 2014); Wikipedian of the Year (posthumously, 2014)"
 birthplace_name: "Zubrets"
-image_alt: "Ihor Kostenko, 31 December 2013"
+image_alt: "Ihor Kostenko in a striped shirt with a brown collar, arms crossed, against a dark background"
+quotes:
+  - text: "Sitting at home and waiting for someone else to change the country for us is a road to nowhere. Everyone should do what they can, where they are."
+    source: "On responsibility to the country and the future (translated from Ukrainian)"
 ---
 
 ## Who was Ig2000?
