@@ -40,7 +40,8 @@ sources:
     url: "https://www.ukrinform.ua/rubric-society/4092823-sprava-gandzuk-nezaversena-istoria.html"
 related: [pavlo-petrychenko]
 collections: [civic-icons]
-status: draft
+status: approved
+published: 2026-10-12T19:39:52Z
 ---
 
 ## Питання на плакатах
