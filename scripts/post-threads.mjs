@@ -12,6 +12,7 @@ import { SITE, years, pickProfile, assertLive, graphApi } from './social.mjs';
 import { closingSection } from '../src/lib/story.mjs';
 
 const MAX_LENGTH = 500; // Threads text limit
+export const TOPIC = 'історіяукраїни'; // Threads allows one topic a post; it goes on the first, which the topic's feed shows
 const length = (s) => [...s].length;
 
 // Pieces of at most `max` characters, cut between sentences (or between words if one sentence is longer).
@@ -57,7 +58,7 @@ async function main() {
   await assertLive(profile.url);
   await assertLive(image);
 
-  console.log(`${texts.join('\n\n--- reply ---\n\n')}\n\nImage: ${image}\n`);
+  console.log(`${texts.join('\n\n--- reply ---\n\n')}\n\nImage: ${image}\nTopic: ${TOPIC}\n`);
   if (dryRun) return console.log('Dry run: nothing posted.');
   if (!process.env.THREADS_ACCESS_TOKEN) throw new Error('Set THREADS_ACCESS_TOKEN');
   const api = graphApi('https://graph.threads.net/v1.0', 'Threads', process.env.THREADS_ACCESS_TOKEN);
@@ -73,7 +74,7 @@ async function main() {
     return (await api('me/threads_publish', { creation_id: container })).id;
   };
 
-  const first = await publish({ media_type: 'IMAGE', image_url: image, text: texts[0] });
+  const first = await publish({ media_type: 'IMAGE', image_url: image, text: texts[0], topic_tag: TOPIC });
   let previous = first;
   for (const text of texts.slice(1)) previous = await publish({ media_type: 'TEXT', text, reply_to_id: previous });
   const { permalink } = await api(first, { fields: 'permalink' }, 'GET');

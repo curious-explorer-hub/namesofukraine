@@ -8,19 +8,19 @@ import { resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { pickProfile } from './social.mjs';
 import { caption } from './post-instagram.mjs';
-import { postTexts } from './post-threads.mjs';
+import { postTexts, TOPIC } from './post-threads.mjs';
 
 const OUT = '.social-preview';
 const escape = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const file = (path) => pathToFileURL(resolve(path)).href;
 
 function page(profile) {
-  const { slug, fields, markdown, url } = profile;
+  const { slug, fields, markdown, enName, url } = profile;
   const card = `dist/og/instagram/${slug}.jpg`;
   if (!existsSync(card)) throw new Error(`No ${card}: run npm run build first`);
   const dir = `dist/og/instagram/${slug}`;
   const slides = [card, ...(existsSync(dir) ? readdirSync(dir).sort((a, b) => parseInt(a) - parseInt(b)).map((f) => `${dir}/${f}`) : [])];
-  const ig = caption(fields, url, markdown);
+  const ig = caption(fields, url, markdown, enName);
   const [first, ...rest] = ig.split('\n');
   const threads = postTexts(fields, url, markdown);
 
@@ -40,7 +40,7 @@ function page(profile) {
   <div class="slides">${slides.map((s) => `<img src="${file(s)}" alt="">`).join('')}</div>
   <div class="text"><b>names_of_ukraine</b> <details><summary>${escape(first)}</summary>${escape(rest.join('\n'))}</details></div>
 </div>
-<div class="phone threads"><h2>Threads · ${threads.length === 1 ? 'one post' : `post + ${threads.length - 1} replies`}</h2>
+<div class="phone threads"><h2>Threads · ${threads.length === 1 ? 'one post' : `post + ${threads.length - 1} replies`} · topic: ${TOPIC}</h2>
   ${threads.map((t, i) => `<div class="text">${escape(t)}<div class="meta">${[...t].length}/500</div></div>${i === 0 ? `<div class="text"><img src="${file(`dist/og/uk/${slug}.jpg`)}" alt=""></div>` : ''}`).join('<hr>')}
 </div>`;
 }

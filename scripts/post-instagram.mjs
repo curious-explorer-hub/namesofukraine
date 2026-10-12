@@ -13,7 +13,33 @@ import { SITE, years, pickProfile, assertLive, graphApi } from './social.mjs';
 const MAX_LENGTH = 2200; // Instagram caption limit
 const STORY_LENGTH = 1500; // keeps the caption a read of a minute or so
 const MAX_SLIDES = 10; // Instagram carousel limit
-const TAGS = '#знайсвоїх #історіяукраїни #українці #namesofukraine';
+// Instagram allows 5 hashtags a post: the project, the topic, one in English, the person's field and their name.
+const TAGS = ['#знайсвоїх', '#історіяукраїни', '#ukraine'];
+const GROUP_TAGS = {
+  statehood: '#державотворення',
+  literature: '#українськалітература',
+  'visual-arts': '#українськемистецтво',
+  'performing-arts': '#українськакультура',
+  science: '#українськанаука',
+  civic: '#громадянськесуспільство',
+  faith: '#українськацерква',
+  sport: '#українськийспорт',
+  defenders: '#захисникиукраїни',
+};
+
+// The English surname as a tag (#Shevchenko, #AntonenkoDavydovych); names without one, like "Yaroslav the Wise",
+// in full (#YaroslavTheWise).
+export function nameTag(enName) {
+  const name = enName.replace(/\s*\(.*\)/, '');
+  const words = (/ [a-z]/.test(name) ? name : name.split(' ').at(-1)).split(/[ -]/);
+  return `#${words.map((w) => w[0].toUpperCase() + w.slice(1)).join('')}`;
+}
+
+export function hashtags(f, enName) {
+  const group = GROUP_TAGS[f.group];
+  if (!group) throw new Error(`No hashtag for group ${f.group}`);
+  return [...TAGS, group, ...(enName ? [nameTag(enName)] : [])].join(' ');
+}
 
 // The profile's story as plain paragraphs: no headings, links reduced to their text, no emphasis marks.
 export function storyParagraphs(markdown) {
@@ -40,9 +66,9 @@ function story(markdown, budget) {
   return out.filter(Boolean).join('\n\n');
 }
 
-export function caption(f, url, markdown = '') {
+export function caption(f, url, markdown = '', enName) {
   const head = `${f.name} (${years(f)})\n${f.role}`;
-  const tail = `Повна історія, фото й джерела — за посиланням у профілі:\n${url.replace(/^https:\/\//, '')}\n\n${TAGS}`;
+  const tail = `Повна історія, фото й джерела — за посиланням у профілі:\n${url.replace(/^https:\/\//, '')}\n\n${hashtags(f, enName)}`;
   const budget = Math.min(STORY_LENGTH, MAX_LENGTH - head.length - tail.length - 4);
   const text = `${head}\n\n${story(markdown, budget) || f.summary}\n\n${tail}`;
   if ([...text].length > MAX_LENGTH) throw new Error(`Caption is ${[...text].length} characters; Instagram allows ${MAX_LENGTH}`);
@@ -65,7 +91,7 @@ async function main() {
   const dryRun = args.includes('--dry-run');
   const profile = pickProfile(args.find((a) => !a.startsWith('--')));
   if (!profile) return;
-  const text = caption(profile.fields, profile.url, profile.markdown);
+  const text = caption(profile.fields, profile.url, profile.markdown, profile.enName);
   await assertLive(profile.url);
   await assertLive(`${SITE}/og/instagram/${profile.slug}.jpg`);
   const slides = await images(profile.slug);

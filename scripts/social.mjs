@@ -59,7 +59,9 @@ export function pickProfile(input) {
   const file = `src/content/people/uk/${slug}.md`;
   if (!existsSync(file)) throw new Error(`No profile ${file}`);
   const markdown = readFileSync(file, 'utf8');
-  return { slug, fields: readFields(markdown), markdown, url: `${SITE}/uk/people/${slug}/` };
+  const en = `src/content/people/en/${slug}.md`;
+  const enName = existsSync(en) ? readFields(readFileSync(en, 'utf8')).name : undefined;
+  return { slug, fields: readFields(markdown), markdown, enName, url: `${SITE}/uk/people/${slug}/` };
 }
 
 // Meta's APIs fetch the image from the site, so the profile and its card must be live (drafts aren't).
