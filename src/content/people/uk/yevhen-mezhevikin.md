@@ -36,7 +36,8 @@ sources:
     url: "https://lb.ua/society/2024/11/02/642878_geroy_ukraini_ievgen_adam.html"
 related: [oleksandr-trepak]
 collections: [donetsk-airport]
-status: draft
+status: approved
+published: 2026-10-12T18:50:38Z
 ---
 
 ## Чому «Адам»

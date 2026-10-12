@@ -38,7 +38,8 @@ sources:
     url: "https://armyinform.com.ua/2024/05/12/spodivayusya-kolys-po-czomu-zhetonu-my-zmozhemo-vpiznaty-syna-maty-zahysnyka-azovstali/"
 related: [valeriia-karpylenko, denys-prokopenko]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-12T18:50:38Z
 ---
 
 ## Син генерала, а не генеральський синок
