@@ -12,6 +12,9 @@ key_accomplishments:
   - "Illustrations for Nikolai Gogol’s Taras Bulba (1872) and for Dmytro Yavornytskyi’s book on the Zaporozhian Cossacks (1888)"
 birthplace_name: "Chuhuiv"
 image_alt: "Ilya Repin’s self-portrait (1887), turned into a photo-like image with AI"
+gallery:
+  - alt: "A crowd of Zaporozhian Cossacks around a table: a scribe writes the letter while the Cossacks laugh, one sits bare-backed facing away"
+    caption: "Reply of the Zaporozhian Cossacks (1880–1891)"
 quotes:
   - text: "No one in the whole world felt freedom, equality and brotherhood so deeply. All its life the Zaporozhian Sich remained free and submitted to nothing!"
     source: "Letter to Vladimir Stasov, 1880"

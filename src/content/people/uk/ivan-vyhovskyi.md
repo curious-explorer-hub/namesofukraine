@@ -17,10 +17,12 @@ places:
   - { name: "Гадяч", lat: 50.367, lon: 34.0, note: "Гадяцький договір, 1658" }
 image:
   src: ./images/ivan-vyhovskyi.jpg
-  alt: "Портрет Івана Виговського з булавою, XIX ст. (Гаврило Васько за мініатюрою з літопису Самійла Величка)"
-  author: "Гаврило Васько"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ivan_Vyhovsky_(Portrait,_19th_century,_after_restoration).jpg"
+  alt: "Портрет Івана Виговського з булавою в червоному жупані й хутряній шапці, повністю згенерований ШІ"
+  author: "Невідомий автор"
+  license: "Fair use"
+  ai_edit: rendered
+  source_url: "https://libr.rv.ua/sections/items/11275"
+  fair_use: true
 key_accomplishments:
   - "Генеральний писар Війська Запорозького за Богдана Хмельницького (з 1649–1650)"
   - "Гетьман Війська Запорозького (1657–1659)"
@@ -34,7 +36,8 @@ sources:
   - title: Вікіпедія - Іван Виговський
     url: https://uk.wikipedia.org/wiki/Іван_Виговський
 related: [bohdan-khmelnytskyi, ivan-bohun, ivan-sirko, mykola-kostomarov]
-status: draft
+status: approved
+published: 2026-10-12T23:34:13Z
 ---
 
 ## Полонений, який став писарем

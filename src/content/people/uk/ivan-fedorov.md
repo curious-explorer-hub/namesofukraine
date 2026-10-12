@@ -20,11 +20,11 @@ places:
   - { name: "Острог", lat: 50.329, lon: 26.513, note: "Острозька друкарня; Острозька Біблія, 1581" }
 image:
   src: ./images/ivan-fedorov.jpg
-  alt: "Остання сторінка львівського «Апостола» 1574 року: герб Львова, друкарський знак Івана Федорова і підпис «Іоанн Федорович, друкар москвитин»"
-  position: "50% 50%"
-  author: "Іван Федоров (друкарня у Львові, 1574)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Autograph_of_Ivan_Fyodorov_(1574).jpg"
+  alt: "Рисований портрет Івана Федорова: сивобородий друкар у жупані тримає відбитий аркуш, поруч книжки, угорі його друкарський знак"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://libr.rv.ua/sections/items/11275"
+  fair_use: true
 key_accomplishments:
   - "Разом із Петром Мстиславцем видав у Москві перші друковані книжки (1564–1565)"
   - "Львівський «Апостол» (1574) - найдавніша відома книжка, надрукована в Україні"
@@ -39,7 +39,8 @@ sources:
   - title: Вікіпедія - Іван Федоров
     url: https://uk.wikipedia.org/wiki/Іван_Федоров
 related: []
-status: draft
+status: approved
+published: 2026-10-12T23:34:13Z
 ---
 
 ## Чому друкар утік із Москви?

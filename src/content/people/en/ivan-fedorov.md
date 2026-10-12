@@ -11,7 +11,7 @@ key_accomplishments:
   - "Founded the press in Ostroh, which published the Azbuka (1578), the New Testament (1580) and the Ostroh Bible (1581)"
   - "His press passed to the Lviv Dormition Brotherhood and served it for a long time"
 birthplace_name: "Unknown"
-image_alt: "Last page of the 1574 Lviv Apostol: the coat of arms of Lviv, Ivan Fedorov’s printer’s mark and the signature “Ioann Fedorovych, the Muscovite printer”"
+image_alt: "Drawn portrait of Ivan Fedorov: a grey-bearded printer in a zhupan holds a printed sheet, books beside him, his printer’s mark above"
 ---
 
 ## Why did a printer flee Moscow?

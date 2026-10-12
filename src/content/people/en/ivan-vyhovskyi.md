@@ -10,7 +10,7 @@ key_accomplishments:
   - "The Treaty of Hadiach with the Polish-Lithuanian Commonwealth (1658)"
   - "Victory over the Muscovite army at Konotop (1659)"
 birthplace_name: "Unknown"
-image_alt: "Portrait of Ivan Vyhovskyi holding a mace, 19th century (Havrylo Vasko, after a miniature in Samiilo Velychko’s chronicle)"
+image_alt: "Portrait of Ivan Vyhovskyi holding a mace, in a red zhupan and fur hat, fully generated with AI"
 ---
 
 ## The prisoner who became chancellor

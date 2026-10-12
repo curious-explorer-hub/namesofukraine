@@ -10,7 +10,7 @@ key_accomplishments:
   - "Victories over Polish armies at Brailiv (1666) and Batih (1672)"
   - "Alliance with the Ottoman Empire, approved by a Cossack council in Korsun (1669)"
 birthplace_name: "Chyhyryn"
-image_alt: "Portrait of Petro Doroshenko holding a mace, 19th century"
+image_alt: "Portrait of Petro Doroshenko holding a mace, in a plumed hat and brocade zhupan, enhanced with AI"
 ---
 
 ## A country cut in two

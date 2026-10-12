@@ -14,10 +14,12 @@ fun_fact: "Дорошенко був онуком гетьмана Михайл�
 birthplace: { name: "Чигирин", region: cherkasy, country: UA, lat: 49.081, lon: 32.659 }
 image:
   src: ./images/petro-doroshenko.jpg
-  alt: "Портрет Петра Дорошенка з булавою, XIX ст."
+  alt: "Портрет Петра Дорошенка з булавою, у шапці з пір'ям і парчевому жупані, покращений ШІ"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Petro_Doroshenko_19.jpg"
+  license: "Fair use"
+  ai_edit: restored
+  source_url: "https://libr.rv.ua/sections/items/11275"
+  fair_use: true
 key_accomplishments:
   - "Гетьман Правобережної України (1665–1676)"
   - "1668 року проголошений гетьманом обох берегів Дніпра"
@@ -31,7 +33,8 @@ sources:
   - title: Вікіпедія - Петро Дорошенко
     url: https://uk.wikipedia.org/wiki/Петро_Дорошенко
 related: [bohdan-khmelnytskyi, ivan-vyhovskyi, ivan-sirko]
-status: draft
+status: approved
+published: 2026-10-12T23:34:13Z
 ---
 
 ## Країна, розрізана навпіл

@@ -21,6 +21,14 @@ image:
   license: "Public domain"
   ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:RepinSelfPortrait.jpg"
+gallery:
+  - src: ./images/illia-riepin-zaporozhtsi.jpg
+    alt: "Гурт запорожців довкола столу: писар пише листа, козаки навколо регочуть, один сидить спиною з голим торсом"
+    caption: "«Запорожці пишуть листа турецькому султанові» (1880–1891)"
+    section: 1
+    author: "Ілля Рєпін"
+    license: "Public domain"
+    source_url: "https://commons.wikimedia.org/wiki/File:Repin_Cossacks.jpg"
 key_accomplishments:
   - "Картина «Запорожці пишуть листа турецькому султанові» (1880–1891)"
   - "«Бурлаки на Волзі» (1873), «Вечорниці» (1881), «Гайдамаки», «Чорноморська вольниця» (1908) та інші полотна"
