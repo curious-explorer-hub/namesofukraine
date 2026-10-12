@@ -12,6 +12,12 @@ key_accomplishments:
   - "International Gymnastics Hall of Fame (2008); UN Goodwill Ambassador on HIV/AIDS in Ukraine"
 birthplace_name: "Donetsk"
 image_alt: "Lilia Podkopayeva, with dark hair and a black dress, smiling, portrait"
+gallery:
+  - alt: "Young Lilia Podkopayeva in Ukraine's white, blue and yellow Olympic jacket holds up a gold medal, with a bouquet of flowers beside her"
+    caption: "Lilia Podkopayeva with her Olympic gold medal in Atlanta, 1996"
+quotes:
+  - text: "This victory was never mine alone. It has always belonged, and always will belong, to Ukraine. Thirty years on, and my heart still pounds just as it did then, on the podium in Atlanta."
+    source: "Message to fans and coaches on the 30th anniversary of her Atlanta win, 2026"
 ---
 
 ## A name in the rulebook

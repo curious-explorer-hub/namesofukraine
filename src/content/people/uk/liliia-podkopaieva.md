@@ -27,6 +27,18 @@ key_accomplishments:
   - "Абсолютна чемпіонка Європи (1996), а також золото на брусах і у вільних вправах"
   - "Її ім'я носять два елементи вільних вправ і опорний стрибок у міжнародних правилах гімнастики"
   - "Член Міжнародної зали слави гімнастики (2008); посолка доброї волі ООН з питань ВІЛ/СНІДу в Україні"
+gallery:
+  - src: ./images/liliia-podkopaieva-medal.webp
+    alt: "Юна Лілія Подкопаєва в біло-синьо-жовтій олімпійській куртці збірної України тримає золоту медаль, поруч букет квітів"
+    caption: "Лілія Подкопаєва із золотою медаллю Олімпійських ігор в Атланті, 1996 рік"
+    section: 4
+    fair_use: true
+    author: "Особистий архів Лілії Подкопаєвої"
+    license: "Fair use"
+    source_url: "https://hromadske.ua/personaliyi/250054-liliia-podkopayeva-ukrayinska-meni-zdavalasia-shtuchnoiu-ale-pislia-vtorhnennia-ne-mozu-rozmovliaty-psiachoiu-movoiu"
+quotes:
+  - text: "Ця перемога ніколи не була лише моєю. Вона завжди належала і належатиме Україні. 30 років - а серце й досі калатає так само, як тоді, на п'єдесталі в Атланті."
+    source: "Звернення до вболівальників і тренерів до 30-річчя перемоги в Атланті, 2026"
 sources:
   - title: "Велика українська енциклопедія - Подкопаєва, Лілія Олександрівна"
     url: "https://vue.gov.ua/Подкопаєва,_Лілія_Олександрівна"
@@ -37,7 +49,8 @@ sources:
   - title: "FIG - Women's Artistic Gymnastics Code of Points 2025-2028"
     url: "https://www.gymnastics.sport/publicdir/rules/files/en_1.1%20-%20WAG%20COP%202025-2028.pdf"
 related: []
-status: draft
+status: approved
+published: 2026-10-12T22:44:26Z
 ---
 
 ## Ім'я в правилах

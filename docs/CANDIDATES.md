@@ -34,6 +34,25 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Богдан Казанівський | | OUN member (statehood) | | | Owner request 2026-10-10. OUN member; memoir «Шляхом легенди» (from general knowledge; no biography found in a first search, so check years and role before drafting) |
 | Олена Підгрушна (Білосюк) | b. 1987 | Biathlete (sport) | 👩 🟢 | | Owner request 2026-10-12. Olympic champion in the women's relay (Sochi 2014); world sprint champion 2013. Later a deputy minister of youth and sports (check years). Check the name she competes under now and the birthplace (Kyiv or Slavutych) |
 | Олексій Середа | b. 2005 | Diver (sport) | 🟢 | | Owner request 2026-10-12. From Mykolaiv; European champion on the 10 m platform at 13 (2019), among the youngest ever; competed at the Tokyo and Paris Games. Young and with no Olympic medal yet: encyclopedias may not cover him, so check sources before drafting |
+| Петро Могила | 1596–1647 | Metropolitan of Kyiv, educator (faith) | 🌍 | | Owner request 2026-10-12. Founded the Kyiv-Mohyla Collegium (1632), the forerunner of the Kyiv-Mohyla Academy. Born in Moldavia: state the connection precisely |
+| Галшка Гулевичівна | c. 1575–1642 | Patron (civic) | 👩 | | Owner request 2026-10-12. In 1615 gave her Kyiv estate to the Kyiv Brotherhood for a school and monastery, the start of the brotherhood school. Birth year uncertain (`born_circa`); no authentic portrait known, so check |
+| Варвара Ханенко | 1852–1922 | Collector, museum founder (civic) | 👩 | | Owner request 2026-10-12. Listed on her own; see Богдан Ханенко under Needs a decision (one joint profile or two). Their collection became the Khanenko Museum in Kyiv. Daughter of Нікола Терещенко (draft) |
+| Пантелеймон Куліш | 1819–1897 | Writer, translator (literature) | | | Owner request 2026-10-12. «Чорна рада», the first Ukrainian historical novel; the «кулішівка» orthography; translated the Bible. Free portrait |
+| Іван Нечуй-Левицький | 1838–1918 | Writer (literature) | | | Owner request 2026-10-12. «Кайдашева сім'я», «Микола Джеря». Free portrait |
+| Панас Мирний | 1849–1920 | Writer (literature) | | | Owner request 2026-10-12. Pen name of Панас Рудченко; «Хіба ревуть воли, як ясла повні?» (with his brother Іван Білик). Poltava. Free portrait |
+| Володимир Сосюра | 1898–1965 | Poet (literature) | | | Owner request 2026-10-12. «Любіть Україну» (1944), condemned as nationalist in 1951. Served in the UNR army, then the Red Army; Stalin Prize 1948: state both plainly |
+| Дмитро Бортнянський | 1751–1825 | Composer (performing-arts) | 🌍 | | Owner request 2026-10-12. Born in Hlukhiv; worked mainly in St Petersburg (court choir) after study in Italy; choral concertos. State the connection precisely |
+| Олександр Мурашко | 1875–1919 | Painter (visual-arts) | | | Owner request 2026-10-12. «Карусель», «Дівчина в червоному капелюшку»; a founder of the Ukrainian Academy of Arts (1917); killed in Kyiv in 1919. Free portrait |
+| Анатолій Базилевич | 1926–2005 | Graphic artist, illustrator (visual-arts) | | | Owner request 2026-10-12. Best known for his illustrations to Котляревський's «Енеїда». A free portrait may be hard to find |
+| Євген Чикаленко | 1861–1929 | Patron, publisher (civic) | | | Owner request 2026-10-12. Funded the newspaper «Рада» and many Ukrainian causes; died in Prague. The «до глибини кишені» quote is often attributed to him: verify before using |
+| Микола Миклухо-Маклай | 1846–1888 | Explorer, anthropologist (science) | 🌍 | | Owner request 2026-10-12. Studied the peoples of New Guinea. Born in Russia to a family of Cossack descent from the Chernihiv region; worked mainly abroad: the Ukrainian connection must be stated precisely (§7) |
+| Архип Люлька | 1908–1984 | Jet engine designer (science) | 🌍 | | Owner request 2026-10-12. Born near Kyiv; designed the first Soviet turbojet engines; worked mainly in Russia |
+| Олександр Засядько | 1779–1837 | Rocket engineer, general (science) | 🌍 | | Owner request 2026-10-12. Born in Poltava region; artillery officer of the Russian Empire who developed military rockets; a lunar crater bears his name |
+| Всеволод Петрів | 1883–1948 | General, UNR war minister (statehood) | | | Owner request 2026-10-12. UNR general and military historian; memoirs. Died in emigration in Germany |
+| Ніл Хасевич | 1905–1952 | Graphic artist (visual-arts) | ⚖️ | | Owner request 2026-10-12. Woodcut artist; made graphics for the UPA underground; killed in an MGB raid in 1952. UPA context: needs a «Дискусії та оцінки» section |
+| Андрій Медведєв | b. 1974 | Tennis player (sport) | 🟢 | | Owner request 2026-10-12. From Kyiv; French Open finalist 1999; Masters titles in Monte Carlo and Hamburg |
+| Михайло Вербицький | 1815–1870 | Composer, priest (performing-arts) | | | Owner request 2026-10-12. Wrote the music of «Ще не вмерла України» (1863); Greek Catholic priest in Galicia. Born near Przemyśl (now Poland) |
+| Павло Чубинський | 1839–1884 | Poet, ethnographer (literature) | | | Owner request 2026-10-12. Wrote the words of «Ще не вмерла України» (1862); led ethnographic expeditions; exiled to Arkhangelsk Governorate |
 
 ## Needs a decision
 
@@ -54,6 +73,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Герої Небесної Сотні | 2014 | Collective | 👥 | See Collectives in Editorial notes. Костенко and Сольчаник are drafted as individuals |
 | Захисники Азовсталі | 2022 | Collective | 👥 | See Collectives |
 | Невідомий солдат | | Collective | 👥 | Not a person; see Collectives |
+| Лариса Латиніна | b. 1934 | Gymnast (sport) | 👩 🟢 ⚖️ 🌍 | Owner request 2026-10-12. Born in Kherson; 18 Olympic medals for the USSR. Has lived in Russia for decades and has publicly backed Russian positions on Crimea (**unverified**, check). Add, add with a «Дискусії та оцінки» section, or don't add? |
 
 
 ## Don't add
