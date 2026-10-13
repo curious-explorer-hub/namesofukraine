@@ -1,30 +1,6 @@
 {
   "collections": [
     {
-      "id": "women-army",
-      "label": {
-        "uk": "Берегині",
-        "en": "Women Defenders"
-      },
-      "description": {
-        "uk": "Жінки, які показали справжній героїзм: безстрашні, незламні, з непохитною волею до свободи.",
-        "en": "Women who have shown true heroism: fearless, unbreakable, with an unshakeable will to be free."
-      },
-      "image": {
-        "file": "women-army.jpg",
-        "caption": {
-          "uk": "Військові медикині на параді до Дня Незалежності, Хрещатик, Київ, 2018",
-          "en": "Military medics at the Independence Day parade, Khreshchatyk, Kyiv, 2018"
-        },
-        "author": {
-          "uk": "U.S. Army Europe",
-          "en": "U.S. Army Europe"
-        },
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Tennessee_Army_National_Guard_participates_in_the_Ukrainian_Independence_Day_parade_Aug._24,_2018_(29366943467).jpg"
-      }
-    },
-    {
       "id": "money-people",
       "label": {
         "uk": "На гривнях",
@@ -49,68 +25,20 @@
       }
     },
     {
-      "id": "defenders-mariupol",
+      "id": "neoclassicists",
       "label": {
-        "uk": "Оборона Маріуполя",
-        "en": "The Defence of Mariupol"
+        "uk": "Київська неокласика",
+        "en": "The Kyiv Neoclassicists"
       },
       "description": {
-        "uk": "2022 року захисники й захисниці Маріуполя писали історію героїзму й опору. Ці люди, цивільні й військові, стали символом незламності.",
-        "en": "In 2022, Mariupol's defenders made history. Civilians and soldiers alike became symbols of resistance."
+        "uk": "Київські неокласики об'єднали глибоку обізнаність у світовій спадщині з довершеною майстерністю української поезії, створивши феномен високого модернізму.",
+        "en": "The Kyiv Neoclassicists combined a deep knowledge of the world's literary heritage with consummate mastery of Ukrainian verse, creating a phenomenon of high modernism."
       },
       "image": {
-        "file": "defenders-mariupol.jpg",
+        "file": "neoclassicists.jpg",
         "caption": {
-          "uk": "Комбінат «Азовсталь», Маріуполь, серпень 2021",
-          "en": "Azovstal iron and steel works, Mariupol, August 2021"
-        },
-        "author": {
-          "uk": "Blast furnace chip worker",
-          "en": "Blast furnace chip worker"
-        },
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Azovstal_iron_and_steel_works_in_2021_—_Азовсталь,_2021_рік_01.jpg"
-      }
-    },
-    {
-      "id": "donetsk-airport",
-      "label": {
-        "uk": "Кіборги",
-        "en": "Cyborgs of Donetsk Airport"
-      },
-      "description": {
-        "uk": "242 дні, з травня 2014-го до січня 2015-го, українські воїни тримали Донецький аеропорт. За неймовірну стійкість їх прозвали кіборгами.",
-        "en": "For 242 days, from May 2014 to January 2015, Ukrainian soldiers held Donetsk airport. Their unbelievable endurance earned them the name «cyborgs»."
-      },
-      "image": {
-        "file": "donetsk-airport.jpg",
-        "caption": {
-          "uk": "Зруйнована диспетчерська вежа Донецького аеропорту",
-          "en": "The ruined control tower of Donetsk airport"
-        },
-        "author": {
-          "uk": "Невідомий автор",
-          "en": "Unknown author"
-        },
-        "license": "Fair use",
-        "source_url": ""
-      }
-    },
-    {
-      "id": "sixtiers",
-      "label": {
-        "uk": "Шістдесятництво",
-        "en": "The Sixtiers"
-      },
-      "description": {
-        "uk": "Покоління 1960-х, яке під радянською цензурою повернуло українській культурі власний голос. За вірші, картини й правду багато хто з них заплатив роботою, волею, а дехто й життям.",
-        "en": "The generation of the 1960s who, under Soviet censorship, gave Ukrainian culture its own voice back. For their poems, paintings and honesty many paid with their jobs, their freedom, and some with their lives."
-      },
-      "image": {
-        "file": "sixtiers.jpg",
-        "caption": {
-          "uk": "Ілюстрація до добірки «Шістдесятництво»: сонця, кобзи, голуби й розірвані кайдани",
-          "en": "Illustration for the Sixtiers collection: suns, kobzas, doves and broken chains"
+          "uk": "Ілюстрація до добірки «Київська неокласика»: дерево з книжками-іменами, античні колони й меандр",
+          "en": "Illustration for the Kyiv Neoclassicists collection: a tree bearing books with the poets' names, classical columns and a meander"
         },
         "author": {
           "uk": "«Знай своїх» (згенеровано ШІ)",
@@ -145,6 +73,30 @@
       }
     },
     {
+      "id": "sixtiers",
+      "label": {
+        "uk": "Шістдесятництво",
+        "en": "The Sixtiers"
+      },
+      "description": {
+        "uk": "Покоління 1960-х, яке під радянською цензурою повернуло українській культурі власний голос. За вірші, картини й правду багато хто з них заплатив роботою, волею, а дехто й життям.",
+        "en": "The generation of the 1960s who, under Soviet censorship, gave Ukrainian culture its own voice back. For their poems, paintings and honesty many paid with their jobs, their freedom, and some with their lives."
+      },
+      "image": {
+        "file": "sixtiers.jpg",
+        "caption": {
+          "uk": "Ілюстрація до добірки «Шістдесятництво»: сонця, кобзи, голуби й розірвані кайдани",
+          "en": "Illustration for the Sixtiers collection: suns, kobzas, doves and broken chains"
+        },
+        "author": {
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
+        },
+        "license": "AI-generated",
+        "source_url": ""
+      }
+    },
+    {
       "id": "civic-icons",
       "label": {
         "uk": "Голоси свободи",
@@ -169,27 +121,75 @@
       }
     },
     {
-      "id": "neoclassicists",
+      "id": "donetsk-airport",
       "label": {
-        "uk": "Київська неокласика",
-        "en": "The Kyiv Neoclassicists"
+        "uk": "Кіборги",
+        "en": "Cyborgs of Donetsk Airport"
       },
       "description": {
-        "uk": "Київські неокласики об'єднали глибоку обізнаність у світовій спадщині з довершеною майстерністю української поезії, створивши феномен високого модернізму.",
-        "en": "The Kyiv Neoclassicists combined a deep knowledge of the world's literary heritage with consummate mastery of Ukrainian verse, creating a phenomenon of high modernism."
+        "uk": "242 дні, з травня 2014-го до січня 2015-го, українські воїни тримали Донецький аеропорт. За неймовірну стійкість їх прозвали кіборгами.",
+        "en": "For 242 days, from May 2014 to January 2015, Ukrainian soldiers held Donetsk airport. Their unbelievable endurance earned them the name «cyborgs»."
       },
       "image": {
-        "file": "neoclassicists.jpg",
+        "file": "donetsk-airport.jpg",
         "caption": {
-          "uk": "Ілюстрація до добірки «Київська неокласика»: дерево з книжками-іменами, античні колони й меандр",
-          "en": "Illustration for the Kyiv Neoclassicists collection: a tree bearing books with the poets' names, classical columns and a meander"
+          "uk": "Зруйнована диспетчерська вежа Донецького аеропорту",
+          "en": "The ruined control tower of Donetsk airport"
         },
         "author": {
-          "uk": "«Знай своїх» (згенеровано ШІ)",
-          "en": "Know Your Own (AI-generated)"
+          "uk": "Невідомий автор",
+          "en": "Unknown author"
         },
-        "license": "AI-generated",
+        "license": "Fair use",
         "source_url": ""
+      }
+    },
+    {
+      "id": "defenders-mariupol",
+      "label": {
+        "uk": "Оборона Маріуполя",
+        "en": "The Defence of Mariupol"
+      },
+      "description": {
+        "uk": "2022 року захисники й захисниці Маріуполя писали історію героїзму й опору. Ці люди, цивільні й військові, стали символом незламності.",
+        "en": "In 2022, Mariupol's defenders made history. Civilians and soldiers alike became symbols of resistance."
+      },
+      "image": {
+        "file": "defenders-mariupol.jpg",
+        "caption": {
+          "uk": "Комбінат «Азовсталь», Маріуполь, серпень 2021",
+          "en": "Azovstal iron and steel works, Mariupol, August 2021"
+        },
+        "author": {
+          "uk": "Blast furnace chip worker",
+          "en": "Blast furnace chip worker"
+        },
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Azovstal_iron_and_steel_works_in_2021_—_Азовсталь,_2021_рік_01.jpg"
+      }
+    },
+    {
+      "id": "women-army",
+      "label": {
+        "uk": "Берегині",
+        "en": "Women Defenders"
+      },
+      "description": {
+        "uk": "Жінки, які показали справжній героїзм: безстрашні, незламні, з непохитною волею до свободи.",
+        "en": "Women who have shown true heroism: fearless, unbreakable, with an unshakeable will to be free."
+      },
+      "image": {
+        "file": "women-army.jpg",
+        "caption": {
+          "uk": "Військові медикині на параді до Дня Незалежності, Хрещатик, Київ, 2018",
+          "en": "Military medics at the Independence Day parade, Khreshchatyk, Kyiv, 2018"
+        },
+        "author": {
+          "uk": "U.S. Army Europe",
+          "en": "U.S. Army Europe"
+        },
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tennessee_Army_National_Guard_participates_in_the_Ukrainian_Independence_Day_parade_Aug._24,_2018_(29366943467).jpg"
       }
     }
   ]

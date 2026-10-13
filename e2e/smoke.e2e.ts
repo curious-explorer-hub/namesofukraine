@@ -75,8 +75,8 @@ for (const lang of ['uk', 'en'] as const) {
     );
     await page.goto(`/${lang}/people/kateryna-polishchuk/`);
     const links = page.locator('.profile-facts a[href*="?collection="]');
-    await expect(links).toHaveText([army.label[lang], mariupol.label[lang]]);
-    await links.last().click();
+    await expect(links).toHaveText([mariupol.label[lang], army.label[lang]]);
+    await links.first().click();
 
     await expect(page).toHaveURL(new RegExp(`/${lang}/\\?collection=defenders-mariupol$`));
     await expect(page.locator('#panel-collections')).toBeVisible();
