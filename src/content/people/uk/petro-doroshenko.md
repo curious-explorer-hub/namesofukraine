@@ -16,10 +16,9 @@ image:
   src: ./images/petro-doroshenko.jpg
   alt: "Портрет Петра Дорошенка з булавою, у шапці з пір'ям і парчевому жупані, покращений ШІ"
   author: "Невідомий автор"
-  license: "Fair use"
+  license: "Public domain"
   ai_edit: restored
-  source_url: "https://libr.rv.ua/sections/items/11275"
-  fair_use: true
+  source_url: "https://commons.wikimedia.org/wiki/File:Petro_Doroshenko_19.jpg"
 key_accomplishments:
   - "Гетьман Правобережної України (1665–1676)"
   - "1668 року проголошений гетьманом обох берегів Дніпра"

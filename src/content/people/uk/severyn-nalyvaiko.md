@@ -23,11 +23,10 @@ image:
   src: ./images/severyn-nalyvaiko.jpg
   alt: "Уявний портрет Северина Наливайка з булавою, в кольчузі й червоному плащі з хутром, на тлі табору й палаючої фортеці, повністю згенерований ШІ за мотивами картин"
   position: "50% 30%"
-  author: "Невідомий автор"
-  license: "Fair use"
+  author: "Невідомий художник (XIX ст.)"
+  license: "Public domain"
   ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:Nalivajko_severin.jpg"
-  fair_use: true
 key_accomplishments:
   - "Зібрав 2-тисячний загін для оборони Поділля від татар (1594)"
   - "Зруйнував турецьку фортецю Паркани, ходив на Бендери, воював у Молдові й Трансильванії (1594–1595)"

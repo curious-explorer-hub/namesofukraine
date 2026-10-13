@@ -21,11 +21,10 @@ image:
   src: ./images/mykola-kostomarov.jpg
   alt: "Літографічний портрет Миколи Костомарова в окулярах, із бородою, у темному сюртуку й білій сорочці з бантом, кольоризований ШІ"
   position: "50% 25%"
-  author: "Невідомий автор"
-  license: "Fair use"
+  author: "Петро Борель"
+  license: "Public domain"
   ai_edit: colorized
-  source_url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CO%5CKostomarovMykola.htm"
-  fair_use: true
+  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Kostomarov_by_Petr_Borel_(cropped).jpg"
 key_accomplishments:
   - "Ідеолог Кирило-Мефодіївського братства, автор «Книги буття українського народу»"
   - "Монографії «Богдан Хмельницкий» (1859), «Руина» (1879–1880), «Мазепа» (1882)"

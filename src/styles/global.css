@@ -1258,6 +1258,21 @@ main:focus { outline: none; }
 }
 
 .prose { font-size: 1.0625rem; line-height: 1.7; }
+/* Image credits on the Credits page: closed by default; the list slides open where the browser can animate it */
+.credits summary { display: flex; align-items: center; gap: 0.75rem; margin-top: 2.5rem; cursor: pointer; list-style: none; }
+.credits summary::-webkit-details-marker { display: none; }
+.credits summary h2 { margin: 0; }
+.credits summary::after { content: ""; flex: none; width: 0.6rem; height: 0.6rem; margin-left: auto; border: solid var(--accent); border-width: 0 2px 2px 0; rotate: 45deg; translate: 0 -0.15rem; }
+.credits[open] summary::after { rotate: -135deg; translate: 0 0.15rem; }
+.credits summary:focus-visible { outline: 3px solid var(--cobalt); outline-offset: 3px; border-radius: 4px; }
+.credits-count { font-family: var(--font-text); font-weight: 400; font-size: 0.6em; color: var(--slate); }
+.credits ul { margin-top: 1rem; }
+@media (prefers-reduced-motion: no-preference) {
+  .credits { interpolate-size: allow-keywords; }
+  .credits summary::after { transition: rotate 0.2s, translate 0.2s; }
+  .credits::details-content { block-size: 0; overflow: clip; transition: block-size 0.3s ease, content-visibility 0.3s allow-discrete; }
+  .credits[open]::details-content { block-size: auto; }
+}
 .translation-note { margin: 2.5rem 0 -1.5rem; padding: 0.75rem 1rem; font-size: 0.9375rem; color: var(--slate); background: var(--mist); border-radius: 4px; }
 .prose p, .prose ul { margin: 0 0 1rem; }
 .prose ul { padding-left: 1.25rem; }
