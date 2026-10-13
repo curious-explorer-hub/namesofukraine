@@ -21,6 +21,7 @@ image:
   position: "50% 30%"
   author: "Микола Дашкієв"
   license: "GFDL"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Володимир_Сосюра_у_1950-ті.jpg"
 key_accomplishments:
   - "Збірки «Поезії» (1921) і «Червона зима» (1922), що принесли йому славу"
@@ -41,7 +42,8 @@ sources:
   - title: "Osvita.ua - Володимир Сосюра, «Любіть Україну!» (текст вірша)"
     url: "https://osvita.ua/school/literature/s/63930/"
 related: [ivan-bahrianyi]
-status: draft
+status: approved
+published: 2026-10-13T23:18:09Z
 ---
 
 ## Хлопець із Третьої Роти
