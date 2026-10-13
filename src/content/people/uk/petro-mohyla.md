@@ -35,7 +35,8 @@ sources:
   - title: "Національний університет «Києво-Могилянська академія» - History. Chronicle"
     url: "https://www.ukma.edu.ua/eng/index.php/about-us/history"
 related: [viacheslav-briukhovetskyi, petro-sahaidachnyi, ivan-mazepa, pylyp-orlyk, hryhorii-skovoroda]
-status: draft
+status: approved
+published: 2026-10-13T23:12:14Z
 ---
 
 ## Син господаря, який обрав школу
