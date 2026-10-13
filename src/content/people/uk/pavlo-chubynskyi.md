@@ -21,6 +21,7 @@ image:
   position: "55% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Pavlo_Chubynskyi.jpg"
 key_accomplishments:
   - "Вірш «Ще не вмерла України» (1862) - перший куплет і приспів є текстом Державного гімну України (закон 2003 року)"
@@ -38,7 +39,8 @@ sources:
   - title: "Верховна Рада України - Закон «Про Державний Гімн України» від 6 березня 2003 року № 602-IV"
     url: "https://zakon.rada.gov.ua/laws/show/602-15"
 related: [mykhailo-verbytskyi, mykhailo-drahomanov, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-13T23:08:39Z
 ---
 
 ## Вірш за один вечір
