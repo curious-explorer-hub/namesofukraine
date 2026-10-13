@@ -58,6 +58,35 @@ const tintedPortrait = async (slug: string, width: number, height: number) => {
   return `data:image/jpeg;base64,${out.toString('base64')}`;
 };
 
+// In place of a portrait that isn't free to share (or is missing): the person's initials in a wheat-ringed medallion over
+// a faint cross-stitch field of diamonds, so the preview still has a picture.
+const initials = (name: string) => {
+  const words = name.replace(/\(.*?\)/g, '').trim().split(/\s+/);
+  return [words[0], words.length > 1 ? words.at(-1) : undefined].map((w) => w?.[0] ?? '').join('');
+};
+
+const stitchField = (width: number, height: number, cell = 20) => {
+  let paths = '';
+  for (let r = 0; r < Math.ceil(height / cell); r++)
+    for (let c = 0; c < Math.ceil(width / cell); c++) {
+      const d = Math.abs((c % 12) - 6) + Math.abs((r % 12) - 6);
+      if (d === 5 || d === 3 || d === 0 || (d === 1 && (c % 12 === 6 || r % 12 === 6))) {
+        const x = c * cell, y = r * cell, a = cell * 0.2, b = cell * 0.8;
+        paths += `<path d="M${x + a} ${y + a}L${x + b} ${y + b}M${x + b} ${y + a}L${x + a} ${y + b}"/>`;
+      }
+    }
+  return `data:image/svg+xml;base64,${Buffer.from(
+    `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}"><rect width="${width}" height="${height}" fill="${C.cobalt}"/><g stroke="#3a64bd" stroke-width="1.6" stroke-linecap="round" fill="none">${paths}</g></svg>`,
+  ).toString('base64')}`;
+};
+
+const medallion = (name: string, width: number, height: number, ring: number) =>
+  h('div', { display: 'flex', width, height, alignItems: 'center', justifyContent: 'center', backgroundImage: `url(${stitchField(width, height)})` }, [
+    h('div', { display: 'flex', width: ring, height: ring, borderRadius: ring / 2, background: C.cobalt, alignItems: 'center', justifyContent: 'center', border: `${Math.round(ring / 37)}px solid ${C.wheat}` }, [
+      h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: Math.round(ring * 0.43), color: C.paper, letterSpacing: 4, lineHeight: 1 }, initials(name)),
+    ]),
+  ]);
+
 const render = async (tree: Node, width = W, height = H) => {
   const svg = await satori(tree as never, { width, height, fonts });
   const png = new Resvg(svg, { fitTo: { mode: 'width', value: width } }).render().asPng();
@@ -70,7 +99,7 @@ export async function personCard(p: Person) {
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', width: W, height: H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
-      img ? h('img', { width: 480, height: H, objectFit: 'cover' }, undefined, { src: img, width: 480, height: H }) : null,
+      img ? h('img', { width: 480, height: H, objectFit: 'cover' }, undefined, { src: img, width: 480, height: H }) : medallion(p.data.name, 480, H, 300),
       h('div', { display: 'flex', flexDirection: 'column', flex: 1, padding: '56px 64px', borderLeft: `10px solid ${C.wheat}` }, [
         h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 30, color: C.ink }, t('site.title', p.lang)),
         h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }, [
@@ -84,8 +113,8 @@ export async function personCard(p: Person) {
   );
 }
 
-// Instagram's tallest feed format (4:5): portrait on top, a short strip with name and role below; text only when the
-// portrait isn't free to share. Years and the site name are left to the caption, so the portrait gets the space.
+// Instagram's tallest feed format (4:5): portrait on top (or the initials medallion when it isn't free to share), a
+// short strip with name and role below. Years and the site name are left to the caption, so the portrait gets the space.
 const IG_W = 1080;
 const IG_H = 1350;
 const IG_PHOTO = 1150;
@@ -95,10 +124,10 @@ export async function instagramCard(p: Person) {
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
-      img ? h('img', { width: IG_W, height: IG_PHOTO, objectFit: 'cover' }, undefined, { src: img, width: IG_W, height: IG_PHOTO }) : null,
+      img ? h('img', { width: IG_W, height: IG_PHOTO, objectFit: 'cover' }, undefined, { src: img, width: IG_W, height: IG_PHOTO }) : medallion(p.data.name, IG_W, IG_PHOTO, 560),
       h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center', padding: '20px 72px 24px', borderTop: `12px solid ${C.wheat}` }, [
-        h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: img ? (long ? 58 : 72) : long ? 92 : 112, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
-        h('div', { fontWeight: 500, fontSize: img ? 36 : 48, color: C.cobalt, marginTop: 12, lineHeight: 1.2 }, p.data.role),
+        h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: long ? 58 : 72, lineHeight: 1.02, letterSpacing: -2 }, p.data.name),
+        h('div', { fontWeight: 500, fontSize: 36, color: C.cobalt, marginTop: 12, lineHeight: 1.2 }, p.data.role),
       ]),
     ]),
     IG_W,
