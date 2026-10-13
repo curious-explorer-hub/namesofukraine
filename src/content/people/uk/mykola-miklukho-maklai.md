@@ -22,6 +22,7 @@ image:
   alt: "Микола Миклухо-Маклай з бородою сидить, підперши голову рукою, фото близько 1880 року"
   author: "Ательє «Везенберг і Ко», Санкт-Петербург (Бібліотека Конгресу США)"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Nikolaĭ_Nikolaevich_Miklukho-Maklaĭ_half-length_portrait,_facing_front_LCCN99615563.jpg"
 key_accomplishments:
   - "Близько 15 років (1871–1886) досліджував Нову Гвінею, Філіппіни, Індонезію, Меланезію, Мікронезію та Австралію"
@@ -40,7 +41,8 @@ sources:
   - title: "Australian Dictionary of Biography - Mikluho-Maklai, Nicholai Nicholaievich (автор - R. W. de M. Maclay)"
     url: "https://adb.anu.edu.au/biography/mikluhomaklai-nicholai-nicholaievich-4198"
 related: [taras-shevchenko, borys-antonenko-davydovych]
-status: draft
+status: approved
+published: 2026-10-13T23:04:34Z
 ---
 
 ## Козацький рід
