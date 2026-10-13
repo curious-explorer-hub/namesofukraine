@@ -23,7 +23,7 @@ image:
   alt: "Рисований портрет Івана Федорова: сивобородий друкар у жупані тримає відбитий аркуш, поруч книжки, угорі його друкарський знак"
   author: "Невідомий автор"
   license: "Fair use"
-  source_url: "https://libr.rv.ua/sections/items/11275"
+  source_url: "https://ukrainian-nation.org.ua/ukraintsi/1657-ivan-fedorov/"
   fair_use: true
 key_accomplishments:
   - "Разом із Петром Мстиславцем видав у Москві перші друковані книжки (1564–1565)"

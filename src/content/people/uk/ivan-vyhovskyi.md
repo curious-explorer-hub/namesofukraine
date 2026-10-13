@@ -21,7 +21,7 @@ image:
   author: "Невідомий автор"
   license: "Fair use"
   ai_edit: rendered
-  source_url: "https://libr.rv.ua/sections/items/11275"
+  source_url: "https://blogs.pravda.com.ua/authors/farion/59bea83013a9e/"
   fair_use: true
 key_accomplishments:
   - "Генеральний писар Війська Запорозького за Богдана Хмельницького (з 1649–1650)"
