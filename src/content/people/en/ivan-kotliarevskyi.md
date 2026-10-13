@@ -33,4 +33,4 @@ In 1819, while he was running the Poltava theater, he wrote two plays for it: Na
 
 ## Why it matters today
 
-Great actors, from Mikhail Shchepkin to Mariia Zankovetska, have played in Kotliarevskyi’s plays. Natalka Poltavka has been filmed several times, and Mykola Lysenko wrote music for it. In 1903 Poltava unveiled the world’s first monument to Kotliarevskyi.
+Kotliarevskyi proved that the language people spoke at home and at the market was fit for great literature. Modern Ukrainian literature began with his Eneida, and modern Ukrainian drama with Natalka Poltavka and Moskal-Charivnyk. Great actors, from Mikhail Shchepkin to Mariia Zankovetska, played in them, and Mykola Lysenko set Natalka Poltavka to music. Anyone who writes in Ukrainian today, for a reader or for the stage, follows a road he opened more than two hundred years ago.

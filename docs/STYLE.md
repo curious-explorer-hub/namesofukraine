@@ -47,16 +47,31 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 - **One idea per paragraph.** About 200–350 words of story in all; cut what a reader won't miss: minor dates, offices, committees, institution names, sums.
 - **Explain context in a clause,** not a paragraph: "the Soviet secret police (NKVD)".
 - **Talk to the reader** now and then ("уявіть", "imagine"), but don't overdo it.
-- **End on why it matters today:** what we still use, see or owe to this person.
+- **End on why it matters today** (see [The ending](#the-ending-why-this-person-matters)).
 - **Don't name reference works in the text.** Not «Енциклопедія історії України пов'язує цей арешт…» or "The Internet Encyclopedia of Ukraine says…", but «Цей арешт пов'язують…», "It is considered…". Where two views meet (debates): «Одні дослідники пишуть… Інші зазначають…» / "Some scholars write… Others note…". Where sources disagree on a fact: «За різними даними…» / "Sources give…". Sources belong in `sources:` only; a work may be named when it is itself the subject (someone edited or funded it) or in an image credit.
 - **English is not a translation.** Keep the same hook and facts, written the way an English speaker would say it.
+
+## The ending: why this person matters
+
+The last section, «Чому це важливо сьогодні» / "Why it matters today" or a hook heading in its place, is the reason the person is on the site. It answers one question: **what did this person change for Ukraine, for people, for the world, and why can we be proud of them?** A reader should finish it knowing what the person gave and feeling that it is worth carrying on.
+
+It must be the **last section** (only «Дискусії та оцінки» may come after it): it is also the text posted to social media. A story section such as «Як він повернувся» can come before it, but it never replaces it.
+
+- **Impact, not remembrance.** Say what their work, choices or way of thinking changed: what we still read, sing, use or build on; what they proved was possible; what they defended; who followed them. Death, burial, awards, streets, monuments, museums and reprints are how a person is remembered, not why. They get at most one closing clause, and only when they add something (a banknote, a mass reburial).
+- **Built from the story.** The ending draws on facts already told and sourced in the profile. It adds no new facts, and interpretations stay close to them: "his plays began modern Ukrainian drama", not "he changed everything".
+- **Proud and motivating, without pathos.** Plain words, a concrete link to today, now and then to the reader ("кожен, хто…", "anyone who…"). No preaching, no slogans, no superlatives without a source.
+- **Contested people:** state the impact as plainly and neutrally as the rest; the debates stay in «Дискусії та оцінки».
+- **Not a «Як його пам'ятають» section.** If memorial facts are worth keeping, fold the important one into the ending and drop the rest.
+
+> Before: "Her funeral became a gathering of the Sixtiers… A street in Vasylkiv now bears her name."
+> After: "Alla Horska showed that being Ukrainian can be a choice: as an adult she learned the language no one had taught her… The Suchasnyk club she helped found became a home for the Sixtiers…"
 
 ## Limits (these don't bend)
 
 - **The hook must be true** and backed by the profile's sources. No invented scenes, thoughts, feelings, dialogue or quotes. A scene opener is allowed only when a source describes the scene.
 - **No misleading clickbait.** The answer must deliver what the hook promises. Superlatives ("the first", "the biggest") only when a source says so.
 - **Tone follows the subject.** Deaths, wars, repressions, the fallen and their families: plain and respectful, no playful hooks about the death itself. Contested people: the debates section stays neutral; hooks never take a side.
-- **Fallen defenders:** hooks come from their life and service (a call sign, a first, a choice they made), never from their death or the fighting. The death gets one plain sentence with the full name, place and age. The story ends on how they are remembered. No battle drama, no graphic detail, nothing private about the family.
+- **Fallen defenders:** hooks come from their life and service (a call sign, a first, a choice they made), never from their death or the fighting. The death gets one plain sentence with the full name, place and age. The story ends on what their service gave: what they held, whom they saved, what they showed others; how they are remembered gets one sentence at most. No battle drama, no graphic detail, nothing private about the family.
 - **Living people:** public role only, as always.
 - **Limits stay:** role ≤ 40 characters, summary ≤ 300, at most 4 sources (§7.3).
 
@@ -75,3 +90,4 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 4. Could a 15-year-old retell the story after one reading?
 5. Is anything left that nobody would miss?
 6. Do Ukrainian and English say the same things, each in its own voice?
+7. Does the ending say what this person changed and why we can be proud of them, not only how they are remembered?

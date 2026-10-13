@@ -35,6 +35,4 @@ Ivan Nechui-Levytskyi was one of the most steadfast defenders of Ukrainian ident
 
 In 1877 he wrote an essay with a telling title, “The Uselessness of Great Russian Literature for Ukraine and for the Slavs”. He argued that Ukrainian literature was a national, European kind of literature with a tradition of its own. And he finished the Ukrainian translation of the Bible that [Panteleimon Kulish](/en/people/panteleimon-kulish/) and [Ivan Puliui](/en/people/ivan-puliui/) had begun.
 
-## How he is remembered
-
-Nechui-Levytskyi died in Kyiv in 1918. A museum opened in his house in Stebliv in 1968, and a literary prize in his name was founded in 1993. Streets in Kyiv, Lviv, Poltava, Cherkasy and other cities bear his name, and Kaidash’s Family and Mykola Dzheria are still read today.
+Kaidash’s Family and Mykola Dzheria are still read today: the Ukrainian village of the 19th century, seen as in a mirror, in a language the empire would not let him print at home.

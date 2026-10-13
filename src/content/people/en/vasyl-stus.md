@@ -34,3 +34,7 @@ In 1972 Stus was arrested for “anti-Soviet agitation”: 5 years in camps and 
 ## How he came back
 
 In 1989 his remains were brought back to Ukraine, and more than 30,000 people came to his reburial at Baikove Cemetery in Kyiv. In 2005 Stus was posthumously made a Hero of Ukraine. And Donetsk University, where he had studied, refused to take his name in 2009. In 2016, relocated to Vinnytsia because of the war, the university was renamed after Vasyl Stus. And on 4 September 2026, the anniversary of his death, the National Bank of Ukraine put into circulation a 2,000-hryvnia banknote, the hryvnia’s highest denomination, with Stus’s portrait. Its back shows the Faculty of Philology of Donetsk University, where he studied.
+
+## Why it matters today
+
+Stus gave up neither his words nor his beliefs, though they cost him two sentences and more than 600 poems destroyed. He kept writing: Palimpsests took shape in captivity, and there too he translated Rilke and Goethe. He joined the Ukrainian Helsinki Group knowing that defending human rights meant years in the camps. His life shows that a person can be imprisoned but not made to fall silent. Anyone today who stands up for a truth others want drowned out can lean on his example.
