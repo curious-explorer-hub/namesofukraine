@@ -12,6 +12,9 @@ key_accomplishments:
   - "Chief designer, and from 1962 general designer, of the Kyiv design bureau (1952–1984)"
 birthplace_name: "Troitsa, Moscow Governorate"
 image_alt: "Oleh Antonov, photo from the Polish magazine Skrzydlata Polska, 1976"
+quotes:
+  - text: "There are three beautiful sisters in the world: faith in your own strength, hope of victory and love of life."
+    source: "As quoted by ArmyInform, February 2021"
 ---
 
 ## A glider at 18

@@ -12,6 +12,9 @@ key_accomplishments:
   - "Head of Ukraine’s delegation to the Trilateral Contact Group on the war in Donbas (from 2020)"
 birthplace_name: "Velykyi Zhytyn"
 image_alt: "Leonid Kravchuk in the Polish Senate, 2013"
+quotes:
+  - text: "Whatever happened, in the Białowieża Forest I took young Ukraine into my arms. And my signature is on every document of independent Ukraine. That is my pride."
+    source: "Interview with LB.ua, August 2021"
 ---
 
 ## The ideologist from a Volhynian village

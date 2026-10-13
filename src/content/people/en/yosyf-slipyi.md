@@ -12,6 +12,9 @@ key_accomplishments:
   - "Built St Sophia Cathedral in Rome (1969)"
 birthplace_name: "Zazdrist"
 image_alt: "Cardinal Yosyf Slipyi with his bishop’s staff, Sydney, 1968"
+quotes:
+  - text: "[…] they gave me a paper to sign renouncing the Pope, and in return they would give me the Kyiv metropolitan see. But I firmly refused."
+    source: "Memoirs, on his 1945 interrogations"
 ---
 
 ## A boy from Zazdrist
