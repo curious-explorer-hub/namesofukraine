@@ -77,8 +77,8 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
 
   {
     page === 'credits' && (
-      <section class="page-body prose credits" aria-labelledby="era-credits">
-        <h2 id="era-credits">{t('about.era_credits', lang)}</h2>
+      <details class="page-body prose credits">
+        <summary><h2>{t('about.era_credits', lang)} <span class="credits-count">({eras.length + collections.length + 3})</span></h2></summary>
         <ul>
           <li>
             {t('about.hero_credit', lang)}: <a href={hero.source_url}>{hero.caption[lang]}</a> - {hero.author}, <License name={hero.license} />
@@ -100,7 +100,7 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
             {t('about.world_credit', lang)}: <a href="https://www.naturalearthdata.com/">Natural Earth</a> (1:110m land), public domain
           </li>
         </ul>
-      </section>
+      </details>
     )
   }
 

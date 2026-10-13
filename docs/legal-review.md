@@ -77,7 +77,7 @@ Don't make new AI edits of non-free photos or of modern artworks: an unauthorise
 ## Done (round 1, branch `legal-review`)
 
 - **Zaitsev and Mikats relabelled.** Their portraits are AI edits of free Commons photos (Volkov, CC BY-SA 4.0; Ministry of Defence, CC BY-SA 2.0), checked against the Commons API and by eye. `fair_use` removed, so they now also appear in share cards.
-- **Credits page rewritten** (UK and EN), renamed "Авторські права та зображення" / "Copyright and images", with five sections: our texts, images, images without a free license, quotes and videos, and rights holders and families (48-hour removal). It describes the practice rather than claiming fair use as a right.
+- **Credits page rewritten** (UK and EN), renamed "Авторські права" / "Copyright", with five sections: our texts, images, images without a free license, quotes and videos, and rights holders and families (48-hour removal). It describes the practice rather than claiming fair use as a right.
 - **Footer link** renamed "Авторські права" / "Copyright".
 - **Note under non-free images** rephrased: "без вільної ліцензії, використано лише на цьому сайті; не підпадає під ліцензію CC BY-SA" / "not freely licensed, used on this site only; …".
 - **License names link to their deeds** in every image credit: `licenseUrl()` in `src/lib/license.ts` (tested) and `src/components/License.astro`.

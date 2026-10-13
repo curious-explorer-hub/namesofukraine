@@ -1,6 +1,6 @@
 ---
-title: Copyright and images
-description: Where the site's images, quotes and videos come from, under which licenses, and how rights holders can reach us.
+title: Copyright
+description: How you may reuse our texts, where the images, quotes and videos come from, under which licenses, and how rights holders can reach us.
 ---
 
 ## Our texts
