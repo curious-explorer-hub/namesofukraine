@@ -11,6 +11,7 @@ key_accomplishments:
   - "Head of the Ukrainian National Council and vice-president of the Ukrainian People’s Republic in exile"
   - "Shevchenko National Prize of Ukraine (1992, posthumously)"
 birthplace_name: "Okhtyrka"
+image_alt: "Ivan Bahrianyi in a dark suit and tie, looking to one side"
 quotes:
   - text: "I am a Ukrainian writer. In our cultural development we must look to Europe, not to Moscow."
     source: "Statement under interrogation after his arrest in 1932"
@@ -22,7 +23,7 @@ Why did people the war had thrown into Germany refuse to go home? In 1945, in Au
 
 ## A poet they couldn’t break
 
-Ivan Lozoviaha was born in 1906 in Okhtyrka, in today’s Sumy region. He studied at the Kyiv Art Institute and joined MARS, a circle of writers who stood in opposition to the regime. With [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/) and other friends he travelled around Ukraine by bicycle to see how people really lived. Censors cut his poems, and his poem “Ave Maria”, which he published at his own expense, was confiscated.
+Ivan Lozoviaha was born in 1906 in Okhtyrka, in today’s Sumy region. The pen name Bahrianyi (“crimson”) appeared around 1926, inspired by the writing of [Mykola Khvylovy](/en/people/mykola-khvylovyi/), in which the word stood for a revolutionary, romantic urge. He studied at the Kyiv Art Institute and joined MARS, a circle of writers who stood in opposition to the regime. With [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/) and other friends he travelled around Ukraine by bicycle to see how people really lived. Censors cut his poems, and his poem “Ave Maria”, which he published at his own expense, was confiscated.
 
 In 1932 he was arrested. Under interrogation he said: “I am a Ukrainian writer.” He was then exiled to the Soviet Far East. In 1938 he was arrested again and spent almost two years under interrogation in a Kharkiv prison. He was released “for lack of evidence”.
 

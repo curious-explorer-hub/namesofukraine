@@ -21,11 +21,10 @@ image:
   src: ./images/ivan-sirko.jpg
   alt: "Іван Сірко: уявний портрет, створений за допомогою ШІ"
   position: "50% 25%"
-  author: "Невідомий автор"
-  license: "Fair use"
+  author: "Ілля Рєпін"
+  license: "Public domain"
   ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:Sirko_by_Repin.jpg"
-  fair_use: true
 key_accomplishments:
   - "Багаторазово обирався кошовим отаманом Запорозької Січі (уперше - восени 1662 року, востаннє - 1673-го, і залишався на посаді до смерті)"
   - "Похід на Кафу (Феодосію) 1667 року, під час якого визволив близько 2 тисяч християнських невільників"
