@@ -11,7 +11,10 @@ key_accomplishments:
   - "The dictionary Phraseology of Business Language (1926), with Yevhen Pluzhnyk"
   - "Stories about the famine of 1921–1923 (“The Dog”, “The Problem of Bread”, “The Son”)"
 birthplace_name: "Chapli"
-image_alt: "Valerian Pidmohylnyi, 1932"
+image_alt: "Valerian Pidmohylnyi in profile, in a jacket and tie, a 1932 photo colorized with AI"
+quotes:
+  - text: "Happy are the whole natures that misfortune only tempers, and that draw from failure a new stubbornness to fight."
+    source: "The novel A Little Drama, 1930"
 ---
 
 ## The boy from Chapli

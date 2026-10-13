@@ -18,16 +18,20 @@ places:
   - { name: "Сандармох", lat: 62.861, lon: 34.728, note: "місце розстрілу, 1937" }
 image:
   src: ./images/mykola-kulish.jpg
-  alt: "Микола Куліш, 1928 рік"
-  author: "О. Кореневич"
+  alt: "Микола Куліш у темному піджаку, фото 1920-х років, кольоризоване ШІ"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Kulish_(1928).jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Kulish.jpg"
 key_accomplishments:
   - "П'єса «97» (1924) - перший великий успіх; її поставив Гнат Юра в Харківському театрі ім. І. Франка"
   - "Трилогія «Народний Малахій», «Патетична соната», «Вічний бунт»"
   - "Комедія «Мина Мазайло» (1929) - сатира на те, як сприймали українізацію"
   - "Вистави «Березоля» Леся Курбаса: «Народний Малахій», «Мина Мазайло», «Маклена Граса»"
   - "Президент літературної організації ВАПЛІТЕ (1926–1928)"
+quotes:
+  - text: "На московському кумачі України самостійної не вишити!"
+    source: "З творів, за Українським інститутом національної пам'яті"
 sources:
   - title: "Енциклопедія історії України - Куліш Микола Гурович (автор - Г. П. Герасимова)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Kulish_M_G"
@@ -37,7 +41,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Микола_Куліш
 related: [les-kurbas, mykola-khvylovyi, les-taniuk, mykola-zerov, valerian-pidmohylnyi, myroslav-irchan, pavlo-fylypovych, oleksa-slisarenko, valerian-polishchuk]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-13T03:14:04Z
 ---
 
 ## Сирота з Чаплинки

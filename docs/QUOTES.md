@@ -451,24 +451,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://osvita.ua/school/literature/k/80834/list-2.html
   - confidence: high (primary text; the cut drops the list of abolished ranks: "і почують крик її, і встане Слав'янщина, і не позостанеться ні царя…". Its pan-Slavic framing may need context; quote 1 is cleaner)
 
-### mykola-kulish — Микола Куліш
-- quote 1:
-  - uk: "Нічого важчого нема, як написати буквар."
-  - en: "There is nothing harder than writing a primer." (translation: ours)
-  - original_language: uk
-  - source_uk: "Лист, весна 1926"
-  - source_en: "Letter, spring 1926"
-  - url: https://www.ukrinform.ua/rubric-culture/2831076-mikola-kulis-1-hvora-mria-potomlenogo-ludstva.html (Ukrinform, 7 Dec 2019)
-  - confidence: medium (Ukrinform quotes the letter without naming its edition. A line about his work: he compiled a primer and reader as a school official. The full sentence lists genres, including "записку про самогубство", so use only this closing line. The letter was written to Olimpiada Korneieva-Maslova; leave out who the recipient was, because the letters were private)
-- quote 2:
-  - uk: "Пора вклонитися літературі, бо залишилося не більш як сім-десять років."
-  - en: "It's time to bow to literature, because there are no more than seven to ten years left." (translation: ours)
-  - original_language: uk
-  - source_uk: "Слова кінця 1924 року"
-  - source_en: "Words from late 1924"
-  - url: https://www.ukrinform.ua/rubric-culture/2831076-mikola-kulis-1-hvora-mria-potomlenogo-ludstva.html
-  - confidence: medium (one outlet, no primary source; reads as a grim premonition, since he was arrested ten years later. Optional)
-
 ### mykola-leontovych — Микола Леонтович
 - none found. Only diary entries about his work and secondhand paraphrases ("народна пісня — вияв душі народу").
 - still none found (retry: the ESU article has no words of his own; a web search found no verifiable letter or diary line)

@@ -17,9 +17,10 @@ places:
   - { name: "Сандармох", lat: 62.861, lon: 34.728, note: "місце розстрілу, 1937" }
 image:
   src: ./images/valerian-pidmohylnyi.jpg
-  alt: "Валер'ян Підмогильний, 1932 рік"
+  alt: "Валер'ян Підмогильний у профіль, у піджаку й краватці, фото 1932 року, кольоризоване ШІ"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Pidmohylnyi.jpg"
 key_accomplishments:
   - "Роман «Місто» (1928) - про зустріч села й міста в добу непу"
@@ -27,6 +28,9 @@ key_accomplishments:
   - "Переклади французької прози: Бальзак, Дідро, Анатоль Франс, Мопассан, Стендаль, Меріме"
   - "Словник «Фразеологія ділової мови» (1926) - разом з Євгеном Плужником"
   - "Оповідання про голод 1921–1923 років («Собака», «Проблема хліба», «Син»)"
+quotes:
+  - text: "Щасливі цільні натури, що в нещастях тільки загартовуються і з невдачі здобувають нову впертість до боротьби."
+    source: "Роман «Невеличка драма», 1930"
 sources:
   - title: "Енциклопедія історії України - Підмогильний Валер'ян Петрович (автор - С. І. Лущій)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Pidmohylnyj_V"
@@ -36,7 +40,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Валер'ян_Підмогильний
 related: [mykola-kulish, mykola-zerov, les-kurbas, yevhen-pluzhnyk, hryhorii-kosynka, valerian-polishchuk]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-13T03:20:22Z
 ---
 
 ## Хлопець із Чаплів

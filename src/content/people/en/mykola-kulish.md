@@ -11,7 +11,10 @@ key_accomplishments:
   - "Les Kurbas’s Berezil productions: The People’s Malakhii, Myna Mazailo and Maklena Grasa"
   - "President of the literary organization VAPLITE (1926–1928)"
 birthplace_name: "Chaplynka"
-image_alt: "Mykola Kulish, 1928"
+image_alt: "Mykola Kulish in a dark jacket, a 1920s photo colorized with AI"
+quotes:
+  - text: "You cannot embroider an independent Ukraine on Moscow’s red calico!"
+    source: "From his works, as quoted by the Ukrainian Institute of National Memory"
 ---
 
 ## The orphan from Chaplynka

@@ -13,8 +13,8 @@ key_accomplishments:
 birthplace_name: "Troitsa, Moscow Governorate"
 image_alt: "Oleh Antonov in a light jacket, a portrait photo"
 videos:
-  - title: "The An-225 Mriya landing at Hostomel"
-    source: "Denys & Artem"
+  - title: "The An-225 Mriya over Khreshchatyk on Independence Day, 2021"
+    source: "Fakty ICTV"
 quotes:
   - text: "There are three beautiful sisters in the world: faith in your own strength, hope of victory and love of life."
     source: "As quoted by ArmyInform, February 2021"
