@@ -12,6 +12,9 @@ key_accomplishments:
   - "Finished the Ukrainian translation of the Bible begun by Panteleimon Kulish and Ivan Puliui"
 birthplace_name: "Stebliv"
 image_alt: "An elderly Ivan Nechui-Levytskyi with a grey moustache and beard, in a frock coat and bow tie, a photo from 1912"
+quotes:
+  - text: "Ukraine has no state of its own, but it has a people, a nationality and very rich national poetry […]. We have this ground, and we have and will have our own literature even without a state of our own."
+    source: "Ukrainianness in the Literary Disputes with Muscovy, 1891"
 ---
 
 ## Books he couldn’t print at home
@@ -26,10 +29,12 @@ He was born in 1838 in the small town of Stebliv in the Kyiv region (now the Che
 
 Nechui-Levytskyi saw literature as a mirror of life. In Mykola Dzheria (1878) a serf goes looking for freedom: from the landlord’s estate, through work at a sugar mill, to the free lands of Bessarabia. The story was filmed in 1927. In Kaidash’s Family (1879) he showed, with irony, the old village world colliding with the new.
 
-## A literature, not a province
+## Why it matters today
+
+Ivan Nechui-Levytskyi was one of the most steadfast defenders of Ukrainian identity, language and culture in the years of the harshest imperial bans (the Valuev Circular of 1863 and the Ems Decree of 1876).
 
 In 1877 he wrote an essay with a telling title, “The Uselessness of Great Russian Literature for Ukraine and for the Slavs”. He argued that Ukrainian literature was a national, European kind of literature with a tradition of its own. And he finished the Ukrainian translation of the Bible that [Panteleimon Kulish](/en/people/panteleimon-kulish/) and [Ivan Puliui](/en/people/ivan-puliui/) had begun.
 
-## Why it matters today
+## How he is remembered
 
 Nechui-Levytskyi died in Kyiv in 1918. A museum opened in his house in Stebliv in 1968, and a literary prize in his name was founded in 1993. Streets in Kyiv, Lviv, Poltava, Cherkasy and other cities bear his name, and Kaidash’s Family and Mykola Dzheria are still read today.
