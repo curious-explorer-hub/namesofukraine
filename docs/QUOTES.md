@@ -164,14 +164,7 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - still none found (no letter text or recorded words of his are quoted in reputable sources)
 
 ### ivan-fedorov — Іван Федоров (Федорович)
-- quote 1:
-  - uk: "Не личило мені ні ралом, ні сіянням зерна скорочувати час свого життя: замість рала маю ремесло […], а замість житнього зерна – духовне насіння по світу розсівати." (translation: ours)
-  - en: "It was not fitting for me to shorten the time of my life with the plough or the sowing of grain: instead of a plough I have my craft […], and instead of seeds of rye I am to sow spiritual seeds throughout the world." (translation: ours)
-  - original_language: cu (Church Slavonic). Original: «Еже не удобно ми бѣ — раломъ ниже сѣменъ сѣяниемъ время живота своего съкращати; но имам убо въмѣсто рала — художьство, наручныхъ дѣлъ съсуды, въмѣсто же житныхъ сѣменъ — духовная сѣмена по вселеннѣй разсѣвати»
-  - source_uk: "Післямова до львівського «Апостола», 1574"
-  - source_en: "Afterword to the Lviv Apostol, 1574"
-  - url: https://risu.ua/ivan-fedorov-realnij-i-mifichnij-chastina-1_n162365 (RISU, article by historian Petro Kraliuk, which prints the original passage verbatim; the 1574 edition itself: https://archive.org/details/sucho-id-00000002-print-hist-fedorov-1574)
-  - confidence: high for the wording of the original (his own signed afterword, so it's a document he wrote, not chronicle speech). Cut: "наручныхъ дѣлъ съсуды" ("the tools of handiwork"). The Ukrainian and English are ours; the free renderings on spadshina.com and hroniky.com are retellings, not translations.
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Не личило мені ні ралом, ні сіянням зерна скорочувати час свого життя: замість рала маю ремесло […], а замість житнього зерна – духовне насіння по світу розсівати.» (Післямова до львівського «Апостола», 1574)
 
 ### ivan-mykolaichuk — Іван Миколайчук
 - none found. His interviews and scripts are collected in «Білий птах з чорною ознакою» (Київ: Мистецтво, 1991), but I found no verbatim quote online that a reputable source confirms.
@@ -434,22 +427,8 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (search turned up only bios, his widow's and colleagues' recollections, and Russian tabloids; no verified interview quote)
 
 ### mykola-kostomarov — Микола Костомаров
-- quote 1:
-  - uk: "Лежить в могилі Україна, але не вмерла."
-  - en: "Ukraine lies in the grave, but she has not died." (translation: ours)
-  - original_language: uk
-  - source_uk: "«Книги битія українського народу», 1846, § 95"
-  - source_en: "The Books of the Genesis of the Ukrainian People, 1846, § 95"
-  - url: https://osvita.ua/school/literature/k/80834/list-2.html
-  - confidence: high (primary text. Note: the programme of the Cyril and Methodius Brotherhood is generally credited to Kostomarov, which the profile already states)
-- quote 2:
-  - uk: "Бо голос України не затих. І встане Україна з своєї могили і знову озоветься до всіх братів своїх Слав'ян […]"
-  - en: "For the voice of Ukraine has not fallen silent. And Ukraine will rise from her grave and call out again to all her Slavic brothers […]" (translation: ours)
-  - original_language: uk
-  - source_uk: "«Книги битія українського народу», 1846, § 103"
-  - source_en: "The Books of the Genesis of the Ukrainian People, 1846, § 103"
-  - url: https://osvita.ua/school/literature/k/80834/list-2.html
-  - confidence: high (primary text; the cut drops the list of abolished ranks: "і почують крик її, і встане Слав'янщина, і не позостанеться ні царя…". Its pan-Slavic framing may need context; quote 1 is cleaner)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Лежить в могилі Україна, але не вмерла.» («Книги битія українського народу», 1846, § 95)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Бо голос України не затих. І встане Україна з своєї могили і знову озоветься до всіх братів своїх Слав'ян […]» («Книги битія українського народу», 1846, § 103)
 
 ### mykola-leontovych — Микола Леонтович
 - none found. Only diary entries about his work and secondhand paraphrases ("народна пісня — вияв душі народу").
@@ -517,22 +496,8 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (the family motto «Прагненням до суспільної користі» is a coat-of-arms device, already in the summary, and not his own recorded words; no letters or statements of his surfaced)
 
 ### oleh-mikats — Олег Мікац
-- quote 1:
-  - uk: "Найбільше ризикує солдат з окопу, який недоспав, недоїв, перемерз. От вони і є двожильними «кіборгами»."
-  - en: "The one who risks the most is the soldier in the trench who hasn't slept, hasn't eaten, is frozen through. They are the real tough-as-nails 'cyborgs'." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Новинарні», грудень 2018"
-  - source_en: "Interview with Novynarnia, December 2018"
-  - url: https://novynarnia.com/2018/12/14/boyoviy-general-oleg-mikats-buvaye-prihodish-pislya-upravlinnya-boyem/
-  - confidence: high (this answer directly follows "Та я ж не обороняв ДАП, я керував обороною", which the profile already uses; don't run both)
-- quote 2:
-  - uk: "В Іраку було все без напрягу. На Сході важче – це наша земля, і на ній гинуть люди."
-  - en: "In Iraq everything was easy. In the East it's harder: this is our land, and people are dying on it." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Новинарні», грудень 2018"
-  - source_en: "Interview with Novynarnia, December 2018"
-  - url: https://novynarnia.com/2018/12/14/boyoviy-general-oleg-mikats-buvaye-prihodish-pislya-upravlinnya-boyem/
-  - confidence: high (he is comparing his peacekeeping service in Iraq, which the profile mentions, with the war in Donbas)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Найбільше ризикує солдат з окопу, який недоспав, недоїв, перемерз. От вони і є двожильними «кіборгами».» (Інтерв'ю «Новинарні», грудень 2018)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «В Іраку було все без напрягу. На Сході важче – це наша земля, і на ній гинуть люди.» (Інтерв'ю «Новинарні», грудень 2018)
 
 ### oleh-skrypka — Олег Скрипка
 - quote 1:
@@ -596,17 +561,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Interview with Radio Svoboda, 2019"
   - url: https://www.radiosvoboda.org/a/roytburd-pomer-odesa-museum/31399483.html
   - confidence: high (said during the 2019 fight over his dismissal. Cuts: the opening "Це реванш ідіотизму", left out as a political jab, and his ironic imagined line "Ах, мене образили, купуйте мої картини…")
-
-### oleksandr-trepak — Олександр Трепак
-- quote 1:
-  - uk: "Я — ніхто без моїх хлопців. Саме солдати роблять свого командира. Вони виховували мене в аеропорту і виховують зараз — і на землі, і на небесах."
-  - en: "I am nothing without my guys. It is the soldiers who make their commander. They taught me at the airport and they teach me now, both on earth and in heaven." (translation: ours)
-  - original_language: uncertain (Focus printed the speech in Russian, Telegraf in Ukrainian; the uk text is Telegraf's)
-  - source_uk: "Виступ на прем'єрі фільму «Аеропорт», Київ, 11 травня 2015 року"
-  - source_en: "Speech at the premiere of the film \"Airport\", Kyiv, 11 May 2015"
-  - url: https://news.telegraf.com.ua/ukr/ukraina/2024-05-09/5851032-geroya-ukraini-oleksandra-trepaka-priznacheno-novim-golovoyu-sso-shcho-pro-nogo-vidomo
-  - url 2: https://focus.ua/ukraine/329854 (Focus, 2015, same speech in Russian: "Я никто без моих ребят…")
-  - confidence: medium (two outlets agree in substance; Telegraf is mid-tier and the language of the original is unclear. The speech goes on with an apology to the 16 men killed while he commanded, which I left out)
 
 ### oleksandr-usyk — Олександр Усик
 - quote 1:
@@ -684,6 +638,9 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### roman-shukhevych — Роман Шухевич
 - none found. No verbatim, sourced lines in IEU, ESU or UINP materials I could find. Popular attributions online are unverified.
 - still none found (retry: no UINP or encyclopedia page with a verbatim line signed "Тарас Чупринка" turned up)
+
+### serhii-bubka — Сергій Бубка
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Я прагнув перемагати з любов'ю в душі.» (Інтерв'ю «Дзеркалу тижня», 20 квітня 2001, https://zn.ua/ukr/SOCIUM/sergiy_bubka_peremagati_z_lyubovyu_v_dushi.html; verbatim)
 
 ### serhii-korolov — Сергій Корольов
 - rejected: "Космонавтика має безмежне майбутнє, і її перспективи безмежні, як сам Всесвіт" — quoted everywhere (school and conference epigraphs) with no work, speech or date. No primary source found.
@@ -866,25 +823,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (the Interfax-Ukraine interviews from 2023–2024 are about veterans' sports rehabilitation and contain no memorable lines; "Разом ми сила" shows up only in news captions of a social-media post)
 - still none found (the Radio Svoboda piece from 28 Dec 2007 quotes his brother Roman, not Vasyl. A Glavred piece and netfreedom.org.ua carry only self-descriptions or the authors' own framing)
 
-### viacheslav-zaitsev — В'ячеслав Зайцев
-- quote 1:
-  - uk: "Це наша пам'ять, це приклад для інших і наступних поколінь, і це наша історія."
-  - en: "It is our memory, an example for others and for the generations to come, and it is our history." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, вересень 2018"
-  - source_en: "Interview with Radio Svoboda, September 2018"
-  - url: https://www.radiosvoboda.org/a/29514854.html
-  - confidence: high (he is speaking about honouring fallen comrades; "Це" refers to that, so the source line or context should make it clear)
-- quote 2:
-  - uk: "І я не один, нас багато тут таких – умотивованих цією війною України за незалежність від «русского мира»."
-  - en: "And I'm not alone; there are many of us here, driven by this war of Ukraine's for independence from the 'Russian world'." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, вересень 2018"
-  - source_en: "Interview with Radio Svoboda, September 2018"
-  - url: https://www.radiosvoboda.org/a/29514854.html
-  - confidence: high
-- rejected: the Motorola radio-intercept anecdote (Glavcom, from a 2015 interview) — it contains "вбий уже цього гранатометника", which is violent; the summary already covers the episode.
-
 ### viktor-hlushkov — Віктор Глушков
 - quote 1 (second choice, about his calling as a scientist):
   - uk: "Не слід розпочинати практичну роботу, якою б важливою вона не здавалась, якщо не проведено її попереднє теоретичне осмислення."
@@ -902,6 +840,9 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### vitalii-blazhko — Віталій Блажко
 - none found (memorial pages and ESU describe his deeds only; no interview quotes surfaced)
 - still none found (no interview with "Хват" surfaced. The ESU entry and the prosthetics stories about other Azov fighters don't quote him)
+
+### vitalii-klychko — Віталій Кличко
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): "It's already a bloody war. I don't have another choice. I have to do that. I would fight." (Good Morning Britain, ITV, 24 February 2022, in English, as reported by CBS News/AP and ESPN)
 
 ### vitalii-skakun — Віталій Скакун
 - none found (fallen defender; there are no recorded public statements of his own)
@@ -924,24 +865,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 ### volodymyr-borovykovskyi — Володимир Боровиковський
 - none found (checked EIU/IEU sources, the LB.ua blog, uahistory.com; his letters to relatives are cited in older studies, e.g. a 1931 Kharkiv book, but no reputable online text with verbatim wording)
 
-### volodymyr-monomakh — Володимир Мономах
-- quote 1:
-  - uk: "Усього ж паче — убогих не забувайте, але, наскільки є змога, по силі годуйте і подавайте сироті, і за вдовицю вступітесь самі, а не давайте сильним погубити людину."
-  - en: "Above all, do not forget the poor: feed them as far as you are able, give to the orphan, defend the widow yourselves, and do not let the strong destroy a person." (translation: ours)
-  - original_language: orv (Old East Slavic)
-  - source_uk: "«Повчання дітям», переклад Леоніда Махновця"
-  - source_en: "Instruction for My Children"
-  - url: http://litopys.org.ua/litop/lit27.htm (Izbornyk: «Літопис руський» in Leonid Makhnovets's translation, Kyiv, 1989)
-  - confidence: high (published scholarly Ukrainian translation, verbatim). Makhnovets dates the Instruction to spring 1099, others to c. 1117, so the source line gives no year.
-- quote 2:
-  - uk: "А коли добре щось умієте — того не забувайте, а чого не вмієте — то того учітесь, так же, як отець мій. Удома сидячи, він зумів знати п'ять мов […]"
-  - en: "And what good you know, do not forget, and what you do not know, learn, just as my father did. Sitting at home, he came to know five languages […]" (translation: ours)
-  - original_language: orv
-  - source_uk: "«Повчання дітям», переклад Леоніда Махновця"
-  - source_en: "Instruction for My Children"
-  - url: http://litopys.org.ua/litop/lit27.htm
-  - confidence: high (verbatim; cut: "— а за се почесть єсть од інших країв"). A line about learning, not one of the main themes.
-
 ### volodymyr-velykyi — Володимир Великий
 - none found
 - rejected: "Руси єсть веселіє питі…": these are words the chronicle (Повість минулих літ, 986) puts in his mouth, so they are not verifiable as his. Out of context they are also embarrassing.
@@ -951,6 +874,7 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found as his own verifiable words
 - rejected (but usable if the owner accepts chronicle attribution): his testament to his sons as recorded in the chronicle (Літопис руський, 1054, tr. Л. Махновець): "А ви, сини мої, майте межи собою любов, бо ви єсте брати від одного отця і одної матері. І якщо будете ви в любові межи собою, то й бог буде в вас…" (text: https://osvita.ua/school/literature/l/70684/list-24.html). Reason: these are words the chronicler gives him, and Shakhmatov and later scholars regard the testament as a literary composition written about 20 years later. If used, the source should say "За літописом, 1054" / "As recorded in the Primary Chronicle, 1054".
 - still none found (nothing beyond the chronicle testament already listed. «Руська правда» is a law code, not his own words)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): the chronicle testament above; don't propose it again
 
 ### yaroslava-mahuchikh — Ярослава Магучіх
 - quote 1:
@@ -977,22 +901,8 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - still none found (his «Причинки до історії української революції» (2021 PDF on chtyvo) is behind a bot check, and no UINP, ESU or media page quotes a line from it or from his articles in «Сурма» or «Розбудова нації». A reader with the book could pick a line with a page reference)
 
 ### yevhen-mezhevikin — Євген Межевікін
-- quote 1:
-  - uk: "Головне моє завдання було, щоб у наших підрозділах не було втрат, навіть поранених. Я намагався опинитися у потрібний час у потрібному місці."
-  - en: "My main task was to make sure our units had no losses, not even wounded. I tried to be in the right place at the right time." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, травень 2016"
-  - source_en: "Interview with Radio Svoboda, May 2016"
-  - url: https://www.radiosvoboda.org/a/27720876.html
-  - confidence: high
-- quote 2:
-  - uk: "Це – військовополонені й зараз вони беззахисні. Якщо хочете щось кричати, показати, то показуйте в бою!"
-  - en: "These are prisoners of war, and right now they are defenceless. If you want to shout something or show something, show it in battle!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю Радіо Свобода, травень 2016"
-  - source_en: "Interview with Radio Svoboda, May 2016"
-  - url: https://www.radiosvoboda.org/a/27720876.html
-  - confidence: high (he quotes what he told his soldiers when some of them were abusing captured enemy fighters; the line works only with that one-line context, so the owner should decide)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Головне моє завдання було, щоб у наших підрозділах не було втрат, навіть поранених. Я намагався опинитися у потрібний час у потрібному місці.» (Інтерв'ю Радіо Свобода, травень 2016)
+- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Це – військовополонені й зараз вони беззахисні. Якщо хочете щось кричати, показати, то показуйте в бою!» (Інтерв'ю Радіо Свобода, травень 2016)
 
 ### yevhen-paton — Євген Патон
 - none found (his memoirs, «Воспоминания», 1955, are not online in a citable text; ESU, paton.org.ua and IEU quote nothing verbatim; well-known lines about work and science online belong to his son Borys Paton)

@@ -24,6 +24,9 @@ image:
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:Zaitcev01.jpg"
   ai_edit: colorized
+quotes:
+  - text: "І я не один, нас багато тут таких – умотивованих цією війною України за незалежність від «русского мира»."
+    source: "Інтерв'ю Радіо Свобода, вересень 2018"
 sources:
   - title: "Українська бібліотечна енциклопедія - Зайцев В'ячеслав Олексійович"
     url: "https://ube.nlu.org.ua/article/%D0%97%D0%B0%D0%B9%D1%86%D0%B5%D0%B2%20%D0%92'%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%20%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87"

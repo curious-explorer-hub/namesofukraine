@@ -11,6 +11,9 @@ key_accomplishments:
   - "Order for Courage, 3rd class, and 2nd class (posthumously, decree No. 805/2022 of 28 November 2022)"
 birthplace_name: "Ivanivka, Zaporizhzhia region"
 image_alt: "Viacheslav Zaitsev with his arms crossed, wearing a diamond-patterned sweater, by a river"
+quotes:
+  - text: "And I'm not alone; there are many of us here, driven by this war of Ukraine's for independence from the 'Russian world'."
+    source: "Interview with Radio Svoboda, September 2018"
 ---
 
 ## The grenadier who got on the enemy’s nerves

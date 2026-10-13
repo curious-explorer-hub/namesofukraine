@@ -11,6 +11,9 @@ key_accomplishments:
   - "Hero of Ukraine with the Gold Star order (decree No. 74/2015 of 12 February 2015)"
   - "Commander of the 3rd Special Forces Regiment (2016–2020); from May 2024, commander of Ukraine’s Special Operations Forces; major general (2024)"
 birthplace_name: "Vinnytsia"
+quotes:
+  - text: "I am nothing without my guys. It is the soldiers who make their commander. They taught me at the airport and they teach me now, both on earth and in heaven."
+    source: "Speech at the premiere of the film \"Airport\", Kyiv, 11 May 2015"
 ---
 
 ## Where the “cyborgs” came from
