@@ -21,6 +21,7 @@ image:
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Myrnyi.jpg"
 key_accomplishments:
   - "Роман «Хіба ревуть воли, як ясла повні?» (1872–1875) разом із братом Іваном Біликом - перший великий реалістичний роман української літератури"
@@ -35,7 +36,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Myrny, Panas"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CM%5CY%5CMyrnyPanas.htm"
 related: [taras-shevchenko, mykhailo-drahomanov, ivan-kotliarevskyi]
-status: draft
+status: approved
+published: 2026-10-13T23:24:09Z
 ---
 
 ## Чиновник, який писав ночами
