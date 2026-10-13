@@ -13,7 +13,7 @@ key_accomplishments:
   - "Created the Ukrainian Cossack state, the Hetmanate"
   - "Wide-ranging diplomacy with the Crimean Khanate, the Ottoman Empire, Sweden, Transylvania and Muscovy"
 birthplace_name: "Subotiv (probably)"
-image_alt: "Engraving by Willem Hondius with a portrait of Bohdan Khmelnytskyi, 1651"
+image_alt: "Portrait of Bohdan Khmelnytskyi holding a mace, in a plumed hat, green zhupan and red cloak, 19th century, enhanced with AI"
 quotes:
   - text: "I have already achieved what I never dreamed of; I will go on to achieve what I have set out to do: I will free the whole Ruthenian people from Polish bondage."
     source: "Words to the Polish royal envoys, Pereiaslav, February 1649 (as recorded by the embassy)"

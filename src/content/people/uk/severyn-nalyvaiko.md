@@ -21,11 +21,13 @@ places:
   - { name: "Варшава", lat: 52.230, lon: 21.012, note: "місце страти, 1597" }
 image:
   src: ./images/severyn-nalyvaiko.jpg
-  alt: "Портрет Северина Наливайка, написаний невідомим художником у XIX столітті, через два з половиною століття після його смерті"
+  alt: "Уявний портрет Северина Наливайка з булавою, в кольчузі й червоному плащі з хутром, на тлі табору й палаючої фортеці, повністю згенерований ШІ за мотивами картин"
   position: "50% 30%"
-  author: "Невідомий художник (XIX ст.)"
-  license: "Public domain"
+  author: "Невідомий автор"
+  license: "Fair use"
+  ai_edit: rendered
   source_url: "https://commons.wikimedia.org/wiki/File:Nalivajko_severin.jpg"
+  fair_use: true
 key_accomplishments:
   - "Зібрав 2-тисячний загін для оборони Поділля від татар (1594)"
   - "Зруйнував турецьку фортецю Паркани, ходив на Бендери, воював у Молдові й Трансильванії (1594–1595)"
@@ -39,7 +41,8 @@ sources:
   - title: "Читомо - Микола Вінграновський: поет у поезії, у прозі, у житті (Василь Слапчук, 2023)"
     url: "https://chytomo.com/mykola-vinhranovskyj-poet-u-poezii-u-prozi-u-zhytti/"
 related: [taras-shevchenko, mykola-vinhranovskyi]
-status: draft
+status: approved
+published: 2026-10-12T23:52:54Z
 ---
 
 ## Від служби князю до власного війська

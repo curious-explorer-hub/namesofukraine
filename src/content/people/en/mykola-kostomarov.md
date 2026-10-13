@@ -12,7 +12,7 @@ key_accomplishments:
   - "Compiler and editor of Shevchenko’s first posthumous Kobzar (1867)"
   - "The poetry collections Ukrainian Ballads (1839) and The Branch (1840)"
 birthplace_name: "Yurasivka, Voronezh Governorate (now Voronezh Oblast, Russia)"
-image_alt: "Mykola Kostomarov, portrait by Mykola Ge"
+image_alt: "Lithograph portrait of Mykola Kostomarov with glasses and a beard, in a dark frock coat and white shirt with a bow, colorized with AI"
 ---
 
 ## The serf who became a professor

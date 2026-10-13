@@ -17,10 +17,11 @@ misconception:
 birthplace: { name: "Суботів (імовірно)", region: cherkasy, country: UA, lat: 49.096, lon: 32.556 }
 image:
   src: ./images/bohdan-khmelnytskyi.jpg
-  alt: "Гравюра Віллема Гондіуса з портретом Богдана Хмельницького, 1651"
-  author: "Willem Hondius"
+  alt: "Портрет Богдана Хмельницького з булавою, у шапці з пір'ям, зеленому жупані й червоному плащі, XIX ст., покращений ШІ"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Hondius_Bohdan_Khmelnytsky.jpg"
+  ai_edit: restored
+  source_url: "https://commons.wikimedia.org/wiki/File:Bohdan_Khmelnytsky.jpg"
 key_accomplishments:
   - Очолив національно-визвольну війну 1648–1657 років
   - Перемоги під Жовтими Водами, Корсунем і Пилявцями (1648)

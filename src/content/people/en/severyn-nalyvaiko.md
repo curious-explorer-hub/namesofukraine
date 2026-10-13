@@ -10,7 +10,7 @@ key_accomplishments:
   - "Led the uprising of 1594–1596 across the Bratslav region, Volhynia, the Kyiv region and Belarus"
   - "Elected hetman in the spring of 1596"
 birthplace_name: "Unknown (probably Husiatyn in the Ternopil region, or Ostroh)"
-image_alt: "Portrait of Severyn Nalyvaiko by an unknown 19th-century artist, painted some two and a half centuries after his death"
+image_alt: "Imagined portrait of Severyn Nalyvaiko holding a mace, in chain mail and a fur-trimmed red cloak, with a camp and a burning fortress behind him, fully generated with AI from paintings"
 ---
 
 ## From a prince’s service to an army of his own

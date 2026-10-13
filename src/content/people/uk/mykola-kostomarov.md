@@ -19,11 +19,13 @@ places:
   - { name: "Санкт-Петербург", lat: 59.939, lon: 30.316, note: "Петропавловська фортеця; професор університету; місце смерті" }
 image:
   src: ./images/mykola-kostomarov.jpg
-  alt: "Микола Костомаров, портрет роботи Миколи Ге"
+  alt: "Літографічний портрет Миколи Костомарова в окулярах, із бородою, у темному сюртуку й білій сорочці з бантом, кольоризований ШІ"
   position: "50% 25%"
-  author: "Микола Ге"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Lwowska_Galeria_Sztuki_-_Nikolay_Ghe_-_Portrait_of_Historian_M._Kostomarov.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  ai_edit: colorized
+  source_url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CO%5CKostomarovMykola.htm"
+  fair_use: true
 key_accomplishments:
   - "Ідеолог Кирило-Мефодіївського братства, автор «Книги буття українського народу»"
   - "Монографії «Богдан Хмельницкий» (1859), «Руина» (1879–1880), «Мазепа» (1882)"
@@ -39,7 +41,8 @@ sources:
   - title: Вікіпедія - Костомаров Микола Іванович
     url: https://uk.wikipedia.org/wiki/Микола_Костомаров
 related: [taras-shevchenko, bohdan-khmelnytskyi, ivan-mazepa, ivan-sirko, pylyp-orlyk, hryhorii-skovoroda, volodymyr-velykyi, mykhailo-hrushevskyi, mykhailo-drahomanov]
-status: draft
+status: approved
+published: 2026-10-12T23:46:51Z
 ---
 
 ## Кріпак, який став професором
