@@ -21,6 +21,7 @@ image:
   position: "50% 30%"
   author: "Т. Маєргофер"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Mykhaylo_Verbytsky.jpg"
 key_accomplishments:
   - "Мелодія «Ще не вмерла Україна» (1863) - з 15 січня 1992 року музика Державного гімну України"
@@ -38,7 +39,8 @@ sources:
   - title: "ZAXID.NET - Михайло Вербицький: автор двох гімнів та гітарист-віртуоз"
     url: "https://zaxid.net/mihaylo_verbitskiy_avtor_dvoh_gimniv_ta_gitarist_virtuoz_n1581139"
 related: [pavlo-chubynskyi, dmytro-bortnianskyi, taras-shevchenko, ivan-kotliarevskyi]
-status: draft
+status: approved
+published: 2026-10-13T23:01:08Z
 ---
 
 ## Хлопчик із соборного хору
