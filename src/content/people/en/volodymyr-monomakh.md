@@ -14,7 +14,7 @@ key_accomplishments:
   - "Volodymyr Monomakh’s Statute in the Ruska Pravda law code: capped interest on loans and ended servitude as a way of paying off debt"
   - "The Instruction for My Children and a letter to Prince Oleh Sviatoslavych, preserved in the Laurentian Chronicle"
 birthplace_name: "Unknown"
-image_alt: "Imagined portrait of Prince Volodymyr Monomakh, an illustration from Mykola Arkas’s History of Ukraine-Rus’, 1912"
+image_alt: "Imagined portrait of Prince Volodymyr Monomakh in a fur hat and coat, a pencil-style drawing made with AI"
 ---
 
 ## The prince they had to ask twice

@@ -32,8 +32,8 @@ sources:
     url: "https://esu.com.ua/article-31674"
   - title: "Постанова Верховної Ради України № 325-IX «Про відзначення пам'ятних дат і ювілеїв у 2020 році»"
     url: "https://zakon.rada.gov.ua/laws/show/325-20"
-  - title: "Энциклопедия кино (2010) - Гринько Николай Григорьевич"
-    url: "https://dic.academic.ru/dic.nsf/enc_cinema/4542/%D0%93%D0%A0%D0%98%D0%9D%D0%AC%D0%9A%D0%9E"
+  - title: Вікіпедія - Гринько Микола Григорович
+    url: https://uk.wikipedia.org/wiki/Гринько_Микола_Григорович
 related: [leonid-bykov]
 status: draft
 ---

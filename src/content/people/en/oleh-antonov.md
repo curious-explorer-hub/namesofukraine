@@ -11,7 +11,10 @@ key_accomplishments:
   - "The An-24, An-26, An-72 and the An-124 Ruslan, his last project"
   - "Chief designer, and from 1962 general designer, of the Kyiv design bureau (1952–1984)"
 birthplace_name: "Troitsa, Moscow Governorate"
-image_alt: "Oleh Antonov, photo from the Polish magazine Skrzydlata Polska, 1976"
+image_alt: "Oleh Antonov in a light jacket, a portrait photo"
+videos:
+  - title: "The An-225 Mriya landing at Hostomel"
+    source: "Denys & Artem"
 quotes:
   - text: "There are three beautiful sisters in the world: faith in your own strength, hope of victory and love of life."
     source: "As quoted by ArmyInform, February 2021"
@@ -31,8 +34,18 @@ In 1946 Antonov took charge of a new design bureau in Novosibirsk, and by 1947 t
 
 ## Kyiv and the heavy lifters
 
-In 1952 Antonov’s bureau was moved to Kyiv, and he worked there for the rest of his life: first as chief designer and from 1962 as general designer. In Kyiv the bureau built the An-10, An-12, An-24 and An-26 passenger and transport planes. The An-22 Antei became the world’s first wide-body long-range transport aircraft, and the An-124 Ruslan, Antonov’s last project, the world’s largest four-engine transport. Antonov was a member of the Academy of Sciences of the Ukrainian SSR and a deputy of the USSR Supreme Soviet. In the 1960s he signed open letters defending Ukrainian culture and the persecuted Ukrainian intelligentsia. He died in Kyiv on 4 April 1984 and is buried at Baikove Cemetery.
+In 1952 Antonov’s bureau was moved to Kyiv, and he worked there for the rest of his life: first as chief designer and from 1962 as general designer. In Kyiv the bureau built the An-10, An-12, An-24 and An-26 passenger and transport planes. The An-22 Antei became the world’s first wide-body long-range transport aircraft, and the An-124 Ruslan, Antonov’s last project, the world’s largest four-engine transport.
+
+## The Mriya
+
+The Kyiv bureau bears Antonov’s name. Over the years it has created more than 100 types and versions of An aircraft and built more than 22,000 of them. Antonov did not live to see the most famous of them: the An-225 Mriya (“Dream”) first flew in 1988, four years after his death.
+
+Just three months after its first flight, the Mriya set 110 world records in a single flight, and 240 in all, something unprecedented in aviation. In 2009 it carried a generator weighing more than 187 tonnes from Frankfurt to Yerevan, and the flight entered Guinness World Records as the largest single-piece cargo in aviation history. The Mriya was called the flagship of Ukrainian aviation. On 27 February 2022 it became known that Russian troops had destroyed it at the Antonov airfield in Hostomel, near Kyiv.
 
 ## Why it matters today
 
-The Kyiv bureau bears Antonov’s name. In 1988 it flew the An-225 Mriya (“Dream”), the world’s largest aircraft. In February 2022 Russian invaders destroyed the Mriya at the airfield in Hostomel. Over the years the company has created more than 100 types and versions of An aircraft and built more than 22,000 of them.
+Antonov stood up for more than his aircraft. In 1965, as a member of the Academy of Sciences of the Ukrainian SSR and a deputy of the USSR Supreme Soviet, he signed the so-called Letter of the 78 to the Central Committee of the Soviet Communist Party, an open protest against the political repression of Ukrainian creative intellectuals and discrimination against Ukrainian culture.
+
+His aircraft outlived their designer. Decades after Antonov’s death, the An-124 Ruslan still led the world in long-distance cargo transport, and the An-26 served in military aviation. The Mriya went down in history as the world’s largest aircraft. In 1997 the National Academy of Sciences of Ukraine founded the Antonov Prize for achievements in mechanics and aircraft engineering.
+
+Oleh Antonov died on 4 April 1984 in Kyiv, where he had lived for more than 30 years, and is buried at Baikove Cemetery.

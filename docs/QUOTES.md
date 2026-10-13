@@ -4,7 +4,7 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 - **One quote per profile**, picked by the owner. Mark a candidate ✓ or ✗; a ✓ quote moves into the profile and the person's section is deleted.
 - **Where they go:** uk text and `source_uk` in `src/content/people/uk/<slug>.md` after `key_accomplishments:` (before `sources:`); en text and `source_en` at the end of the en frontmatter. ` / ` marks a line break in verse. The source line doesn't repeat the person's name.
-- **Bar:** the person's own words, verbatim, checked against a source that was opened (their published work, an encyclopedia, UINP, a museum or official site, or major media). Wikiquote, Goodreads and listicles are leads only. osvita.ua and ukrlib are used for the text of classic literature.
+- **Bar:** the person's own words, verbatim, checked against a source that was opened (their published work, an encyclopedia, UINP, a museum or official site, or major media), never a Russian one (§7.3). Wikiquote, Goodreads and listicles are leads only. osvita.ua and ukrlib are used for the text of classic literature.
 - **Confidence:** "high" means the wording was checked against the primary text or a reputable outlet quoting it; "medium" means a reputable outlet prints it without naming the primary source, so treat it as optional.
 - **English:** "ours" is our own translation; "published" names the translation used.
 
@@ -21,14 +21,14 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### anton-makarenko — Антон Макаренко
 - quote 1: (second choice: about his work, not about Ukraine)
-  - uk: "Моїм основним принципом […] завжди було: якомога більше вимогливості до людини, але водночас і якомога більше поваги до неї."
-  - en: "My basic principle […] has always been: as much demand on a person as possible, and at the same time as much respect for them as possible." (translation: ours)
-  - original_language: ru ("Моим основным принципом (а я считал, что это принцип не только мой, но и всех советских педагогов) всегда было: как можно больше требования к человеку, но вместе с тем и как можно больше уважения к нему.")
-  - source_uk: "Доповідь «Деякі висновки з мого педагогічного досвіду»"
-  - source_en: "Talk \"Some conclusions from my teaching experience\""
-  - url: https://ru.wikisource.org/wiki/Некоторые_выводы_из_моего_педагогического_опыта_(Макаренко) (text of Pedagogical Works in 8 vols., vol. 4, 1984)
-  - url 2: https://ru.wikisource.org/wiki/Проблемы_школьного_советского_воспитания_(Макаренко)/Версия_2 (he gives the same formula in his lectures: "как можно больше требования к человеку и как можно больше уважения к нему")
-  - confidence: high (checked against the text of his collected works; Wikisource is the transcription. The cut is the aside "(а я считал, что это принцип не только мой, но и всех советских педагогов)" — "and I thought it was not just my principle but that of all Soviet teachers". Ukrainian is our translation; no published Ukrainian version was checked.)
+  - uk: "Якомога більше вимогливості до людини і якомога більше поваги до неї."
+  - en: "As much demand on a person as possible, and as much respect for them as possible." (translation: ours)
+  - original_language: ru (he gives the formula in his talk «Деякі висновки з мого педагогічного досвіду» and in his lectures; the Russian original was checked earlier only on ru.wikisource, which is no longer used, §7.3)
+  - source_uk: "Його педагогічний принцип"
+  - source_en: "His principle of teaching"
+  - url: https://eduglos.iitta.gov.ua/index.php/Макаренко_Антон_Семенович (Українська електронна енциклопедія освіти: "Зміст свого педагогічного досвіду визначив принципом «якомога більше вимогливості до людини і якомога більше поваги до неї»")
+  - url 2: https://msmb.org.ua/biblioresursi/bibliografiya/osobistosti/pedagog-yakiy-stvoriv-poemu/ (Mykolaiv regional library: "головний постулат педагогічної віри Макаренка")
+  - confidence: medium (a Ukrainian encyclopedia gives the formula in Ukrainian as his principle, without naming the work; the longer verbatim sentence from the talk would need a Ukrainian edition of his works)
 
 ### averkii-honcharenko — Аверкій Гончаренко
 - quote 1:
@@ -170,8 +170,8 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - original_language: cu (Church Slavonic). Original: «Еже не удобно ми бѣ — раломъ ниже сѣменъ сѣяниемъ время живота своего съкращати; но имам убо въмѣсто рала — художьство, наручныхъ дѣлъ съсуды, въмѣсто же житныхъ сѣменъ — духовная сѣмена по вселеннѣй разсѣвати»
   - source_uk: "Післямова до львівського «Апостола», 1574"
   - source_en: "Afterword to the Lviv Apostol, 1574"
-  - url: https://ru.wikisource.org/wiki/Послесловие_к_львовскому_«Апостолу»_1574_года (transcription of the primary text; the page cites the NBUV digital copy)
-  - confidence: high for the wording of the original (his own signed afterword, so it's a document he wrote, not chronicle speech). Cut: "наручныхъ дѣлъ съсуды" ("the tools of handiwork"). The Ukrainian and English are ours; I found no published Ukrainian translation online. Owner: Wikisource is a transcription, not a quote aggregator, but swap in a library or scholarly edition if you prefer one (the azbyka.ru edition of «Библиотека литературы Древней Руси», т. 12, prepared by D. M. Bulanin, didn't show the text on its page).
+  - url: https://risu.ua/ivan-fedorov-realnij-i-mifichnij-chastina-1_n162365 (RISU, article by historian Petro Kraliuk, which prints the original passage verbatim; the 1574 edition itself: https://archive.org/details/sucho-id-00000002-print-hist-fedorov-1574)
+  - confidence: high for the wording of the original (his own signed afterword, so it's a document he wrote, not chronicle speech). Cut: "наручныхъ дѣлъ съсуды" ("the tools of handiwork"). The Ukrainian and English are ours; the free renderings on spadshina.com and hroniky.com are retellings, not translations.
 
 ### ivan-mykolaichuk — Іван Миколайчук
 - none found. His interviews and scripts are collected in «Білий птах з чорною ознакою» (Київ: Мистецтво, 1991), but I found no verbatim quote online that a reputable source confirms.
@@ -533,24 +533,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### nikola-tereshchenko — Нікола Терещенко
 - none found (the family motto «Прагненням до суспільної користі» is a coat-of-arms device, already in the summary, and not his own recorded words; no letters or statements of his surfaced)
-
-### oleh-antonov — Олег Антонов
-- quote 1:
-  - uk: "Є в світі три прекрасні сестри: віра в свої сили, надія на перемогу та любов до життя… З ними я б не хотів розлучатися до того дня, коли перестане існувати моє бентежне «я»."
-  - en: "There are three beautiful sisters in the world: faith in your own strength, hope of victory and love of life… I would not want to part with them until the day my restless 'I' ceases to exist." (translation: ours)
-  - original_language: uk (as printed; the original was probably Russian, not confirmed)
-  - source_uk: "За публікацією АрміяInform, лютий 2021"
-  - source_en: "As quoted by ArmyInform, February 2021"
-  - url: https://armyinform.com.ua/2021/02/07/genij-aviacziyi-115-rokiv-z-dnya-narodzhennya-aviakonstruktora-olega-antonova/
-  - confidence: medium (ArmyInform says only that he "said it more than once" and names no book or interview; over 200 characters, so the second sentence could be dropped)
-- quote 2:
-  - uk: "Якби я не став конструктором, то став би художником."
-  - en: "If I hadn't become an aircraft designer, I would have become an artist." (translation: ours)
-  - original_language: uk (as printed; probably Russian originally)
-  - source_uk: "За публікацією Gazeta.ua, лютий 2017"
-  - source_en: "As quoted by Gazeta.ua, February 2017"
-  - url: https://gazeta.ua/articles/science/_ot-an2-do-mriya-segodnya-otmechayut-den-rozhdeniya-antonova/751354
-  - confidence: medium (printed as "говорив він" with no primary source; it's about his calling, not one of the main themes)
 
 ### oleh-mikats — Олег Мікац
 - quote 1:
@@ -962,21 +944,21 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 
 ### volodymyr-monomakh — Володимир Мономах
 - quote 1:
-  - uk: "Над усе ж убогих не забувайте, але, скільки можете, по силі годуйте, і подавайте сироті, і вдову захищайте самі, а не давайте сильним погубити людину." (translation: ours, from the Old East Slavic original)
+  - uk: "Усього ж паче — убогих не забувайте, але, наскільки є змога, по силі годуйте і подавайте сироті, і за вдовицю вступітесь самі, а не давайте сильним погубити людину."
   - en: "Above all, do not forget the poor: feed them as far as you are able, give to the orphan, defend the widow yourselves, and do not let the strong destroy a person." (translation: ours)
-  - original_language: orv (Old East Slavic): "Всего же паче убогых не забывайте, но елико могуще по силѣ кормите, и придайте сиротѣ, и вдовицю оправдите сами, а не вдавайте силным погубити человѣка."
-  - source_uk: "«Повчання дітям», близько 1117 року"
-  - source_en: "Instruction to His Children, c. 1117"
-  - url: http://lib.pushkinskijdom.ru/Default.aspx?tabid=4874 (Pushkin House "Library of Old Rus' Literature": Laurentian Chronicle text with a scholarly Russian translation)
-  - confidence: high (checked against the primary text; the Ukrainian wording is ours, as no published Ukrainian translation was opened)
+  - original_language: orv (Old East Slavic)
+  - source_uk: "«Повчання дітям», переклад Леоніда Махновця"
+  - source_en: "Instruction for My Children"
+  - url: http://litopys.org.ua/litop/lit27.htm (Izbornyk: «Літопис руський» in Leonid Makhnovets's translation, Kyiv, 1989)
+  - confidence: high (published scholarly Ukrainian translation, verbatim). Makhnovets dates the Instruction to spring 1099, others to c. 1117, so the source line gives no year.
 - quote 2:
-  - uk: "Що вмієте доброго, того не забувайте, а чого не вмієте, того вчіться, як батько мій, дома сидячи, знав п'ять мов." (translation: ours, from the Old East Slavic original)
-  - en: "What good you know, do not forget, and what you do not know, learn, just as my father, sitting at home, knew five languages." (translation: ours)
-  - original_language: orv: "Егоже умѣючи, того не забывайте доброго, а егоже не умѣючи, а тому ся учите, якоже бо отець мой, дома сѣдя, изумѣяше 5 языкъ"
-  - source_uk: "«Повчання дітям», близько 1117 року"
-  - source_en: "Instruction to His Children, c. 1117"
-  - url: http://lib.pushkinskijdom.ru/Default.aspx?tabid=4874
-  - confidence: high (primary text). This is a line about learning, not one of the main themes. Ukrainian school versions differ ("навчайтесь", "учіться"), so the owner may prefer a published Ukrainian translation if one is found.
+  - uk: "А коли добре щось умієте — того не забувайте, а чого не вмієте — то того учітесь, так же, як отець мій. Удома сидячи, він зумів знати п'ять мов […]"
+  - en: "And what good you know, do not forget, and what you do not know, learn, just as my father did. Sitting at home, he came to know five languages […]" (translation: ours)
+  - original_language: orv
+  - source_uk: "«Повчання дітям», переклад Леоніда Махновця"
+  - source_en: "Instruction for My Children"
+  - url: http://litopys.org.ua/litop/lit27.htm
+  - confidence: high (verbatim; cut: "— а за се почесть єсть од інших країв"). A line about learning, not one of the main themes.
 
 ### volodymyr-velykyi — Володимир Великий
 - none found

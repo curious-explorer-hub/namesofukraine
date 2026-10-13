@@ -55,10 +55,11 @@ const people = defineCollection({
           .default([]),
         // `position` is the CSS object-position used to crop to the face (default: centred, upper third)
         // `ai_edit`: the photo was colorized or restored with AI (Gemini), or a painting was rendered as a
-        // photo-like image (`rendered`); the credit says so, and for `rendered` that it isn't a real photograph.
+        // photo-like image (`rendered`), or made by AI from scratch based on the source image (`generated`); the credit says so, and
+        // for `rendered` that it isn't a real photograph, for `generated` that it's an imagined portrait.
         // `fair_use`: not freely licensed (owner decision); shown on the site (profile, cards), never in
         // share images or structured data, and excluded from the site's CC BY-SA license.
-        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored', 'rendered']).optional(), fair_use: z.boolean().optional(), ...credit }).optional(),
+        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored', 'rendered', 'generated']).optional(), fair_use: z.boolean().optional(), ...credit }).optional(),
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
         // Photos in the story: each one closes the `section`-th `##` section of the bio (both languages
         // keep the same sections). `fair_use` as for `image`: on the profile only.

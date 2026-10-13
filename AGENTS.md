@@ -62,6 +62,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 - **Every new profile is a draft** (`status: draft` in the uk file) until the owner reviews it. Never set `status: approved` or `published` unless the owner tells you to approve that profile; then set `status: approved` and add `published: <current UTC time>` (e.g. `published: 2026-10-07T09:00:00Z`) under it. Drafts are not on the site, and links to them render as plain text.
 - **Facts:** ≥ 2 reputable sources per profile, at least one encyclopedic (ЕСУ esu.com.ua, ЕІУ history.org.ua, Internet Encyclopedia of Ukraine). Wikipedia alone is never enough. Don't invent quotes, numbers or awards.
+- **No Russian sources:** don't search, open or cite Russian media, publishers, institutions or `.ru` sites (ru.wikipedia and ru.wikisource included) for facts, quotes or images; Russia is known for propaganda and disinformation. Verify through Ukrainian, English-language or other international sources.
 - **Sources listed:** at most 4 per profile, no more than one per website, together backing every fact in the text. Fact-checking may use more; if a fact rests only on a source that doesn't make the list, shorten or drop the fact.
 - **Limits:** role ≤ 40 characters, summary ≤ 300, in both languages (the schema enforces them).
 - **Dates:** Gregorian from 1582; `born_circa` / `died_circa` when uncertain. Living people: `living: true`, and no wording that goes stale ("currently", "still lives"); use "as of <month year>" where needed.

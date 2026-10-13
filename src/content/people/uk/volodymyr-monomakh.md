@@ -22,10 +22,11 @@ places:
   - { name: "Київ", lat: 50.453, lon: 30.514, note: "великий князь, 1113–1125; похований у Софійському соборі" }
 image:
   src: ./images/volodymyr-monomakh.jpg
-  alt: "Уявний портрет князя Володимира Мономаха, ілюстрація з «Історії України-Русі» Миколи Аркаса, 1912"
-  position: "50% 35%"
+  alt: "Уявний портрет князя Володимира Мономаха в хутряній шапці й шубі, малюнок олівцем, створений ШІ"
+  position: "50% 30%"
   author: "Невідомий автор, ілюстрація з книги Миколи Аркаса «Історія України-Русі» (1912)"
   license: "Public domain"
+  ai_edit: generated
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-%D0%A0%D1%83%D1%81%D1%96._1912._%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%85.jpg"
 key_accomplishments:
   - "Великий князь київський (1113–1125); востаннє об'єднав руські землі під владою Києва"
@@ -41,7 +42,8 @@ sources:
   - title: Вікіпедія - Володимир Мономах
     url: https://uk.wikipedia.org/wiki/Володимир_Мономах
 related: [yaroslav-mudryi, volodymyr-velykyi]
-status: draft
+status: approved
+published: 2026-10-13T02:04:48Z
 ---
 
 ## Князь, якого кликали двічі
