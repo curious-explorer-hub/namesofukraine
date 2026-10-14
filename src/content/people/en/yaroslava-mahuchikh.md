@@ -11,7 +11,13 @@ key_accomplishments:
   - "European champion three times in a row (2022, 2024, 2026)"
   - "Order of Princess Olga, third (2021) and second (2023) class; World Athletics female field athlete of the year 2024"
 birthplace_name: "Dnipro"
+gallery:
+  - alt: "A smiling Yaroslava Mahuchikh leans on a scoreboard reading “New WR, UKR 2.10, Mahuchikh Y”"
+    caption: "Mahuchikh by the scoreboard showing her 2.10 m world record, Paris, 7 July 2024"
 image_alt: "Yaroslava Mahuchikh at the Olympic Games in Paris, 2024"
+quotes:
+  - text: "I didn't think I was doing it for myself or my medal, I was doing it for all the Ukrainian nation, to show that we are the strongest in the world. Our military protect our country at home and today I protect my country on the track."
+    source: "After winning the World Indoor Championships, Belgrade, March 2022; quoted by RunBlogRun"
 ---
 
 ## Three days on the road to gold
@@ -30,6 +36,10 @@ On 7 July 2024, at a Diamond League meeting in Paris, Mahuchikh cleared 2.10 m a
 
 In August 2026 in Birmingham Mahuchikh won the European title for the third time in a row. Then on 11 September 2026 in Budapest she cleared 1.99 m and became the first ever high jump champion of World Athletics’ new competition, the Ultimate Championship.
 
+## A ritual of calm and focus
+
+Between attempts, Mahuchikh lies down to rest in a sleeping bag right next to the high jump area. It is how she relaxes: she counts, follows her breathing or watches the clouds. At the Paris Olympics, photos of her in the sleeping bag went around the world. Her example shows how much it matters to master your emotions and keep a cool head when the stakes are highest.
+
 ## Why it matters today
 
-Mahuchikh wins the world’s biggest competitions for Ukraine in the years of the full-scale war. The first of those golds came in 2022, after three days on the road from Dnipro to Belgrade. Since then she has become Olympic, world and European champion, and in 2026 the first ever Ultimate world champion. Her 2.10 m broke a world record that had stood since 1987, and as of October 2026 the women’s high jump world record is hers. Her story shows that even with war at home you can hold on to a dream and set the bar higher than anyone.
+Mahuchikh wins the world’s biggest competitions for Ukraine in the years of the full-scale war. The first of those golds came in 2022, after three days on the road from Dnipro to Belgrade. Since then she has become Olympic, world and European champion, and in 2026 the first ever Ultimate world champion. Her 2.10 m broke a world record that had stood since 1987, and as of October 2026 the women’s high jump world record is hers. Her story shows that even with war at home you can hold on to a dream and set the bar higher than anyone. Success is not just talent: it is the ability to stay focused in the hardest times, to believe in your country and to take one step forward every day, even when it seems impossible.
