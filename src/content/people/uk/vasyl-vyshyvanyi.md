@@ -41,6 +41,7 @@ sources:
   - title: "Kirkus Reviews - Timothy Snyder, The Red Prince (2008)"
     url: "https://www.kirkusreviews.com/book-reviews/timothy-snyder/the-red-prince/"
 related: [pavlo-skoropadskyi, symon-petliura, yevhen-konovalets]
+collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

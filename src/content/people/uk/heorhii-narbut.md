@@ -34,6 +34,7 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Narbut, Heorhii"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CA%5CNarbutHeorhii.htm"
 related: [pavlo-skoropadskyi, mykhailo-boichuk, hryhorii-skovoroda, petro-doroshenko, ivan-kotliarevskyi]
+collections: [ukrainian-revolution]
 status: draft
 ---
 

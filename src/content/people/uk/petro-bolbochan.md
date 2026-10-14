@@ -39,6 +39,7 @@ sources:
   - title: Вікіпедія - Болбочан Петро Федорович
     url: https://uk.wikipedia.org/wiki/Петро_Болбочан
 related: [symon-petliura, pavlo-skoropadskyi]
+collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-08T02:49:56Z
 ---

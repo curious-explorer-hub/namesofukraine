@@ -33,6 +33,7 @@ sources:
   - title: Wikipedia (EN) - Yevhen Konovalets
     url: https://en.wikipedia.org/wiki/Yevhen_Konovalets
 related: [stepan-bandera, roman-shukhevych, olena-teliha, marko-bezruchko]
+collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

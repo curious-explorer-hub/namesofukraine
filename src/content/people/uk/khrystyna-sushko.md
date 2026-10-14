@@ -38,7 +38,7 @@ sources:
   - title: "Київська міська рада - У Києві перейменували 12 вулиць і дали назви 4 новим об'єктам топоніміки (листопад 2021)"
     url: "https://kyivcity.gov.ua/news/u_kiyevi_pereymenuvali_12_vulits_i_dali_nazvi_4_novim_obyektam_toponimiki/"
 related: [symon-petliura, marko-bezruchko, yevhen-konovalets]
-collections: [women-army]
+collections: [women-army, ukrainian-revolution]
 status: draft
 ---
 

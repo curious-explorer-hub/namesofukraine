@@ -44,6 +44,7 @@ sources:
   - title: "АрміяInform - Незабаром друком вийде книга про Миколу Міхновського, організатора українських збройних сил (2021)"
     url: "https://armyinform.com.ua/2021/04/nezabarom-drukom-vyjde-knyga-pro-mykolu-mihnovskogo-organizatora-ukrayinskyh-zbrojnyh-syl/"
 related: [taras-shevchenko, mykhailo-hrushevskyi, volodymyr-vynnychenko, pavlo-skoropadskyi]
+collections: [ukrainian-revolution]
 status: draft
 ---
 

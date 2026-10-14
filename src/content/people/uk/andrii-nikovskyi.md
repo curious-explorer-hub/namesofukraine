@@ -38,7 +38,7 @@ sources:
   - title: Вікіпедія - Ніковський Андрій Васильович
     url: https://uk.wikipedia.org/wiki/Ніковський_Андрій_Васильович
 related: [mykhailo-hrushevskyi, liudmyla-starytska-cherniakhivska]
-collections: [executed-renaissance]
+collections: [executed-renaissance, ukrainian-revolution]
 status: approved
 published: 2026-10-14T00:20:29Z
 ---

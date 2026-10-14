@@ -41,6 +41,7 @@ sources:
   - title: Wikipedia (EN) - Symon Petliura
     url: https://en.wikipedia.org/wiki/Symon_Petliura
 related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko, averkii-honcharenko, mykhailo-omelianovych-pavlenko, yurii-tiutiunnyk, marko-bezruchko]
+collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

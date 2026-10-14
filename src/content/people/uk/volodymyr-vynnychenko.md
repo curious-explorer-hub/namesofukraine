@@ -39,6 +39,7 @@ sources:
   - title: Вікіпедія - Винниченко Володимир Кирилович
     url: https://uk.wikipedia.org/wiki/Винниченко_Володимир_Кирилович
 related: [mykhailo-hrushevskyi, symon-petliura, pavlo-skoropadskyi, ivan-franko, lesya-ukrainka]
+collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

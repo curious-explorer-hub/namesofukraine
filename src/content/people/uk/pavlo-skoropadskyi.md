@@ -41,6 +41,7 @@ sources:
   - title: "Енциклопедія сучасної України - Протигетьманське повстання 1918"
     url: "https://esu.com.ua/article-884170"
 related: [symon-petliura, mykhailo-hrushevskyi, volodymyr-vernadskyi, nestor-makhno, volodymyr-vynnychenko, ahatanhel-krymskyi, heorhii-narbut]
+collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

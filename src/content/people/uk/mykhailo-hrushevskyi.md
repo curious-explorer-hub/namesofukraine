@@ -35,7 +35,7 @@ sources:
   - title: Вікіпедія - Грушевський Михайло Сергійович
     url: https://uk.wikipedia.org/wiki/Грушевський_Михайло_Сергійович
 related: [ivan-franko, volodymyr-vernadskyi, pavlo-skoropadskyi, symon-petliura, volodymyr-vynnychenko, andrii-nikovskyi]
-collections: [money-people]
+collections: [money-people, ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

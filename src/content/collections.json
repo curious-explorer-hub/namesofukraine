@@ -25,6 +25,30 @@
       }
     },
     {
+      "id": "ukrainian-revolution",
+      "label": {
+        "uk": "Українська революція",
+        "en": "The Ukrainian Revolution"
+      },
+      "description": {
+        "uk": "У 1917–1921 роках українці створили першу сучасну українську державу: Центральну Раду, Гетьманат, Директорію, ЗУНР. Ці люди її проголошували, будували й боронили.",
+        "en": "In 1917–1921 Ukrainians created the first modern Ukrainian state: the Central Rada, the Hetmanate, the Directorate, the Western Ukrainian People's Republic. These people proclaimed it, built it and defended it."
+      },
+      "image": {
+        "file": "ukrainian-revolution.jpg",
+        "caption": {
+          "uk": "Ілюстрація до добірки «Українська революція»: розколотий тризуб над синьо-жовтою лавою, що йде в бій",
+          "en": "Illustration for the Ukrainian Revolution collection: a cracked trident above a blue-and-yellow line going into battle"
+        },
+        "author": {
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
+        },
+        "license": "AI-generated",
+        "source_url": ""
+      }
+    },
+    {
       "id": "neoclassicists",
       "label": {
         "uk": "Київська неокласика",

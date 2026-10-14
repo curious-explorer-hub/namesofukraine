@@ -43,6 +43,7 @@ sources:
   - title: "Кам'янець-Подільський національний університет імені Івана Огієнка - офіційний сайт"
     url: "https://kpnu.edu.ua/"
 related: [pavlo-skoropadskyi]
+collections: [ukrainian-revolution]
 status: draft
 ---
 

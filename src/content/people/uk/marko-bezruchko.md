@@ -37,6 +37,7 @@ sources:
   - title: "АрміяInform - Сквер у Варшаві назвуть на честь генерала армії УНР Марка Безручка (2020)"
     url: "https://armyinform.com.ua/2020/08/01/skver-u-varshavi-nazvut-na-chest-generala-armiyi-unr-marka-bezruchka/"
 related: [symon-petliura, mykhailo-omelianovych-pavlenko, yevhen-konovalets]
+collections: [ukrainian-revolution]
 status: draft
 ---
 

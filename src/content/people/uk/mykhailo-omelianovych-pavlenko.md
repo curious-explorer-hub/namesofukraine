@@ -38,6 +38,7 @@ sources:
   - title: Вікіпедія - Омелянович-Павленко Михайло Володимирович
     url: https://uk.wikipedia.org/wiki/Омелянович-Павленко_Михайло_Володимирович
 related: [symon-petliura, yurii-tiutiunnyk, marko-bezruchko]
+collections: [ukrainian-revolution]
 status: draft
 ---
 

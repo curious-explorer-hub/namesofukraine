@@ -37,6 +37,7 @@ sources:
   - title: "АрміяInform - 20 жовтня 1930-го у Москві був розстріляний генерал-хорунжий армії УНР Юрій Тютюнник"
     url: "https://armyinform.com.ua/2021/10/20/20-zhovtnya-1930-go-u-moskvi-buv-rozstrilyanyj-legendarnyj-general-horunzhyj-armiyi-unr-yurij-tyutyunnyk/"
 related: [symon-petliura, mykhailo-omelianovych-pavlenko, maik-yohansen, oleksandr-dovzhenko]
+collections: [ukrainian-revolution]
 status: draft
 ---
 

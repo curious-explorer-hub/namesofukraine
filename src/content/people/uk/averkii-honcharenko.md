@@ -37,6 +37,7 @@ sources:
   - title: "Радіо Свобода - Від Крут до Огайо. Невідомі факти про легендарного командира Аверкія Гончаренка (2021)"
     url: "https://www.radiosvoboda.org/a/biy-pid-krutamy-averkiy-honcharenko/31075486.html"
 related: [symon-petliura]
+collections: [ukrainian-revolution]
 status: draft
 ---
 
