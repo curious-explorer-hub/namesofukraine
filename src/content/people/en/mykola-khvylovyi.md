@@ -27,6 +27,6 @@ Mykola Fitilov was born in 1893 in Trostianets in Slobozhanshchyna (Sloboda Ukra
 
 The authorities kept up the pressure, and Khvylovy gave ground: in 1927 he left VAPLITE, and in January 1928, in an open letter, he renounced the slogan “Away from Moscow!”. Yet after returning from abroad he founded the journal Literaturnyi yarmarok, which carried on VAPLITE’s line. By the early 1930s he had almost no way left to write and publish. In the spring of 1933 he saw the Holodomor in the Poltava region with his own eyes. After the arrest of his friend, the writer Mykhailo Yalovyi, Khvylovy took his own life on 13 May 1933. His contemporaries saw his death as a protest.
 
-## Why he is read today
+## Why it matters today
 
-Right after his death his works, and even his name, were banned. Today Khvylovy is a symbol of the Executed Renaissance, the generation of artists of the 1920s–1930s destroyed by the Soviet authorities. And his idea of a European path for Ukraine sounds relevant again.
+Mykola Khvylovy put a question to Ukrainian culture that stirred up the whole literary world: should it look to Moscow or to a “psychological Europe”? Young writers took up his bold style, and VAPLITE formed around him. He wrote that Ukrainian art “must step out onto the great international stage” rather than be “a provincial corner of Russian culture.” Right after his death his works, and even his name, were banned, yet today Khvylovy is a symbol of the Executed Renaissance, the generation of artists of the 1920s–1930s destroyed by the Soviet authorities. And his idea of a European path for Ukraine sounds relevant again.

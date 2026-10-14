@@ -36,4 +36,4 @@ Gogol’s national identity is a long-standing subject of dispute. He wrote in R
 
 ## Why it matters today
 
-Gogol showed the world a vivid picture of Ukraine: its people, customs, history and humor.
+Gogol showed the world a vivid picture of Ukraine: its people, customs, history and humor. The son of Ukrainian nobles from the Poltava region, whose father wrote comedies in Ukrainian, he made his name with stories of the Ukrainian village, full of humor, folklore and the supernatural. Evenings on a Farm Near Dikanka, Taras Bulba and Viy brought Ukraine into world literature, while The Government Inspector, Dead Souls and The Overcoat shaped the development of world prose. After critics tore apart his first poem, he found his own voice in what he had known since childhood, an example for anyone who writes about home.

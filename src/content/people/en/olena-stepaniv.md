@@ -33,6 +33,6 @@ After the war Stepaniv earned a doctorate in history and geography from the Univ
 
 In 1949 the Soviet authorities sentenced Stepaniv to ten years for "Ukrainian nationalism" and sent her to a labour camp in Mordovia. Her property was confiscated and her documents destroyed. She returned to Lviv only in 1956 and died there in 1963; she is buried at Lychakiv Cemetery.
 
-## Why she still matters
+## Why it matters today
 
-Olena Stepaniv's life ran through war, scholarship and repression, one after another: she fought for a Ukrainian state, helped build Ukrainian geography as a science, and paid for it with ten years of unfreedom. Her story is a reminder that the "firsts" of Ukrainian history often earned that word not through one feat, but through an entire life.
+Olena Stepaniv disguised herself as a man to join the Sich Riflemen Legion, and her bravery at Makivka earned her officer rank, which very few women held in any army of the First World War. She fought for a Ukrainian state and helped prepare the November uprising; after the war she helped build Ukrainian geography: a Vienna doctorate, over 75 scholarly works, teaching in Lviv. Banned from the classroom, she went on working for Ridna Shkola. She paid for it with ten years of unfreedom. Her story is a reminder that the “firsts” of Ukrainian history often earned that word not through one feat, but through an entire life.

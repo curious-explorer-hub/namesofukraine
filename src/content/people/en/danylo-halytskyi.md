@@ -28,4 +28,4 @@ To keep his state alive, in 1246 Danylo went to the Horde and accepted the khan�
 
 ## Why it matters today
 
-After the fall of Kyiv, Danylo kept a Rus’ state alive in the west and tied it to Europe. And Lviv, founded in his time, became one of Ukraine’s main cities.
+After the fall of Kyiv, Danylo kept a Rus’ state alive in the west and tied it to Europe. A child refugee who had lost his father’s state, he spent thirty years winning it back: he united Volhynia, took Halych with the townspeople’s support and beat his rivals at Yaroslav. Between the Horde and the West he looked for ways to keep his state safe: he built fortresses, created an infantry of peasants and in 1253 became the first king of Rus’. And Lviv, founded in his time, became one of Ukraine’s main cities. His story shows that what is lost can be won back with patience and work.

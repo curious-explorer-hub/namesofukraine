@@ -34,4 +34,4 @@ In 2023 journalists at Bihus.Info reported that Serhii Bubka co-owned companies 
 
 ## Why it matters today
 
-Bubka is called one of the greatest athletes of the 20th century. His 6 metres became a new horizon for pole vaulters, and his six world titles in a row a yardstick for a long career at the top.
+Bubka is called one of the greatest athletes of the 20th century. Until 1985 no pole vaulter had cleared 6 metres; he did it first and set world records 35 times. Both his records stood for more than 20 years, and no other athlete has won six world titles in the same individual event. The boy who started vaulting in Luhansk showed that one person can set the bar for the world for years. His 6 metres became a new horizon for pole vaulters, and his six world titles in a row a yardstick for a long career at the top.

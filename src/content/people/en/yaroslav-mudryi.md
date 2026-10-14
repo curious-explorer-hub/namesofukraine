@@ -30,6 +30,6 @@ Another part of his legacy isn't made of stone. The Rus' Justice is the first kn
 
 Yaroslav was also known for his diplomacy. His daughters became queens: [Anna](/en/people/anna-yaroslavna/) of France, Yelyzaveta of Norway, Anastasiia of Hungary. That is why he is called the “father-in-law of Europe.”
 
-## Where we see him today
+## Why it matters today
 
-Yaroslav showed that a state's strength lies not only in its army but in its laws, learning and culture. Ukraine awards the Order of Yaroslav the Wise, and his portrait is on the 2 hryvnia banknote.
+Yaroslav showed that a state’s strength lies not only in its army but in its laws, learning and culture. The Rus’ Justice is the first known written law code of Rus’, and its oldest part is tied to his name. At Saint Sophia he founded a school and a library, where scribes translated and copied books. Saint Sophia and the Golden Gate made Kyiv an architectural rival of Constantinople, and his daughters’ marriages linked Rus’ with France, Norway and Hungary. He won Kyiv in a long struggle, yet he is remembered for what he built. Little wonder his portrait is on today’s 2-hryvnia banknote.

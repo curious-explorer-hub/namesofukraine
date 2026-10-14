@@ -31,4 +31,4 @@ On 23 January 1921 Leontovych was murdered in his parents’ home by an agent of
 
 ## Why it matters today
 
-“Shchedryk” is an example of cultural diplomacy: a Ukrainian melody that became part of Christmas around the world. At the same time, Leontovych’s fate is a reminder of how many Ukrainian artists the Soviet regime destroyed.
+A village singing teacher from Podillia who spent years polishing each arrangement created a melody the world now sings. “Shchedryk” is an example of cultural diplomacy: the Ukrainian Republic Capella, set up with the backing of the Ukrainian People’s Republic, carried it across Europe and the Americas, as far as Carnegie Hall, and a Ukrainian New Year’s song became part of Christmas worldwide. It has since been rearranged more than 150 times. Whenever “Carol of the Bells” plays, anyone can say it began as a Ukrainian song about a swallow. At the same time, Leontovych’s fate is a reminder of how many Ukrainian artists the Soviet regime destroyed.

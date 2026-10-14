@@ -26,6 +26,6 @@ In 1914 Vira had a small part in the film Anna Karenina. The next year the direc
 
 In the summer of 1918 Kharitonov's troupe moved to Odesa. There Kholodna kept filming and performed at charity concerts. In early 1919 she caught the “Spanish flu,” the pandemic influenza, and died on 16 February. She was 25. She was buried at the First Christian Cemetery in Odesa, but the cemetery was destroyed in the 1930s and her grave has not survived.
 
-## A queen remembered through legends
+## Why it matters today
 
-Vira Kholodna was one of the first film stars in the modern sense. She was born and died in Ukraine, although she worked mostly in Moscow cinema. Only a few of her films survive, so today she is remembered more through legends than through her roles.
+Vira Kholodna was one of the first film stars in the modern sense: audiences called her the “queen of the screen,” though her whole career lasted less than five years. Born in Poltava, she became a star after a single film, made dozens more, and in Odesa, where her troupe moved, also performed at charity concerts. She was born and died in Ukraine, although she worked mostly in Moscow cinema. Only a few of her films survive, among them Children of the Age and Mirages, and they let us see the actress herself behind the legends.

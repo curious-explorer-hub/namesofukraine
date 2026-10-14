@@ -30,4 +30,4 @@ Symonenko died in Cherkasy on 13 December 1963, at the age of 28. According to a
 
 ## Why it matters today
 
-Symonenko’s poems largely mark the beginning of the Ukrainian opposition movement of the 1960s and 1970s. He became one of the defining figures in the struggle for Ukraine’s state and cultural sovereignty in the second half of the 20th century. In 1995 he was posthumously awarded the Shevchenko Prize.
+Vasyl Symonenko lived only 28 years and published a single collection, yet his poems reached people past the censors, retyped and passed from hand to hand. He wrote about the hard life of the peasants, mocked the Soviet system, called for resisting despotism and great-power chauvinism, and wrote of his love for Ukraine. Those poems largely mark the beginning of the Ukrainian opposition movement of the 1960s and 1970s, and Symonenko became one of the defining figures in the struggle for Ukraine’s state and cultural sovereignty. His lines “You know that you are a human being. / Do you know it or not?” still speak to every reader.
