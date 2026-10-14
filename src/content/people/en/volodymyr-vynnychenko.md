@@ -40,4 +40,4 @@ In emigration harsher accusations were heard: the very title of Petro Solukha’
 
 ## Why it matters today
 
-Vynnychenko headed Ukraine’s first government and co-wrote the Universals of the Central Rada, including the Fourth Universal, which proclaimed the independence of the UPR. His archive is kept at Columbia University in New York, and in 2021 an English collection of his plays, Disharmony and Other Plays, was published.
+Vynnychenko headed Ukraine’s first government and co-wrote the Universals of the Central Rada, including the Fourth Universal, which proclaimed the independence of the UPR. His plays were staged across Europe, and The Sun Machine is seen as the first utopian novel in Ukrainian literature. His memoir Rebirth of a Nation is one of the key eyewitness accounts of the Ukrainian Revolution. In it he wrote: “We will show, not in theory, not in resolutions […], but in life […], that we have not yet been strangled, that we want to live, can live and will live.” In 2021 his plays came out in English as Disharmony and Other Plays.

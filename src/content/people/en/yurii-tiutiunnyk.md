@@ -47,4 +47,4 @@ Historians also point to the pressure on him: his family had in effect become ho
 
 ## Why it matters today
 
-Tiutiunnyk’s story shows how the Soviet secret services fought the Ukrainian emigration, not only with weapons but with traps and propaganda. And the memorial to the heroes of Bazar recalls the 359 soldiers who refused to serve in the Red Army.
+Tiutiunnyk’s story shows how the Soviet secret services fought the Ukrainian emigration, not only with weapons but with traps and propaganda. A peasant’s son, he became otaman of the Free Cossacks, an initiator of the First Winter Campaign and commander of the insurgent army on the Second. In 1923 the GPU lured him into a trap and then used him for its own ends; his family in effect became hostages. His fate shows how pressure on a person and their family can be turned against a whole emigration. And the memorial to the heroes of Bazar recalls the 359 soldiers who refused to serve in the Red Army.

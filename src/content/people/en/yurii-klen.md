@@ -35,4 +35,4 @@ In 1943 Klen’s only collection of lyric poetry, Caravels, came out in Prague. 
 
 ## Why it matters today
 
-Klen’s Memoirs of the Neoclassicists is an eyewitness account of the “cluster of five”. It is considered invaluable because it was written by a member of the group who knew these poets personally. Most of his works were published only after his death, in a four-volume edition (1957–1992), and in 1991 a volume of his selected works came out in Kyiv.
+Yurii Klen showed that you can become a Ukrainian poet by choice: the son of German colonists, he began writing in Ukrainian and became one of the five Kyiv Neoclassicists. His translations, from Iron Sonnets to Shakespeare’s Hamlet and The Tempest, enriched Ukrainian literature. In Germany he wrote about the friends who stayed in Soviet Ukraine: The Accursed Years tells their generation’s tragic fate, and his Memoirs of the Neoclassicists is considered an invaluable eyewitness account of the “cluster of five”. In The Ashes of Empires he criticized both Stalin’s and Hitler’s regimes. Thanks to him, we know the Neoclassicists as living people, not only through their poems.

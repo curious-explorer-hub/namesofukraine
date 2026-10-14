@@ -25,4 +25,8 @@ By the time Bova took command, the city had already been under siege for weeks. 
 
 ## Back to service
 
-Bova stayed in uniform. In 2023–2025 he commanded the 38th Separate Marine Brigade, and in 2024 was promoted to colonel. His path - from a young lieutenant on the front line to brigade commander - traces what many Ukrainian officers have had to learn: how to fight and how to survive captivity, often within the same war.
+Bova stayed in uniform. In 2023–2025 he commanded the 38th Separate Marine Brigade, and in 2024 was promoted to colonel.
+
+## Why it matters today
+
+Yevhenii Bova took charge when it was hardest: his brigade’s commander had been captured, and Mariupol had been besieged for weeks. The lieutenant colonel took over the brigade and kept up the defense. He had spent four years holding the line in shelled Shyrokyne and eight years rising from platoon to battalion commander. After captivity he stayed in the service and commanded a marine brigade again. His path traces what many Ukrainian officers have had to learn: how to fight and how to survive captivity. It reminds anyone who serves or studies today that years of steady work prepare you for the moment you have to lead.

@@ -36,4 +36,4 @@ Accounts of Hlushko’s role in Korolov’s 1938 arrest differ. The European Spa
 
 ## Why it matters today
 
-Hlushko was born and grew up in Odesa but worked mostly in Russia. The Ukrainian Week writes that he always called himself Ukrainian. His engines made the first satellite and the first human spaceflight possible, and the RD-170 engine built for Energia became the basis of the Zenit rockets.
+Hlushko was born and grew up in Odesa but worked mostly in Russia; he is said to have always called himself Ukrainian. As a teenager he wrote to Tsiolkovsky about rockets, and in 1929–1933 he designed the world’s first electrothermal rocket engine. His engines made the first satellite and the first human spaceflight possible, and under his leadership came Energia, Buran and the Mir space station. The RD-170 engine built for Energia became the basis of the Zenit rockets. His path shows how far a teenager’s dream of space can go when decades of engineering work stand behind it.

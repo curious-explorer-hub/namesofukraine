@@ -30,4 +30,4 @@ The plant’s road into private hands was disputed. In 2000 parliament passed a 
 
 ## Why it matters today
 
-Boiko’s story shows how big Soviet factories turned into private companies in independent Ukraine, and how much controversy that caused.
+Boiko went the whole way at a single plant: he joined it as a pipe fitter in 1955, graduated from the metallurgical institute, ran the sheet-rolling shop and in 1990 became head of the works. Under his leadership the plant rebuilt its 1700 sheet-rolling mill and cold-rolling shop and brought a continuous casting machine into service. He ran it for more than two decades, including the years when it became a joint-stock company. His career shows how far knowing a plant from the inside can take you. And the plant’s story shows how big Soviet factories turned into private companies in independent Ukraine, and how much controversy that caused.

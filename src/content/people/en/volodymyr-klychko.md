@@ -35,4 +35,4 @@ In 2003 the Klitschko brothers set up the Klitschko Brothers Foundation. In 2017
 
 ## Why it matters today
 
-Wladimir Klitschko is counted among the all-time greats of heavyweight boxing. His Olympic gold and long reign as champion made Ukrainian boxing known around the world.
+Wladimir Klitschko is counted among the all-time greats of heavyweight boxing. His Olympic gold in Atlanta and nine and a half years in a row as world champion made Ukrainian boxing known around the world. He turned even that Olympic medal into help: the million dollars it raised at auction went to Ukrainian children. And in February 2022, before the full-scale invasion, the former world champion signed up for the Territorial Defence Forces in Kyiv. “Truth is on our side,” he said in March 2022. His example shows that strength lies not only in winning in the ring, but in what you do with those wins.

@@ -30,7 +30,7 @@ On 4 September 1965, during a screening of the film Shadows of Forgotten Ancesto
 
 In 1972 the KGB summoned her for questioning for several months on end. They wanted her to recant in public, and she would not. At Stus's trial she gave him a strong, positive character reference.
 
-## The voice she brought back
+## Why it matters today
 
 Kotsiubynska wrote letters to friends in the camps. From exile, Stus called her his sister. After his death she compiled The Road of Pain (1990), his first book in Ukraine, and then led the team that published his collected works; a whole volume of it holds his letters, with her commentary. She considered this the most important work of her life. With Valentyna Chornovil she also compiled the volume of letters of [Viacheslav Chornovil](/en/people/viacheslav-chornovil/).
 

@@ -28,6 +28,6 @@ The trophy cabinet shows the result. Dynamo won the Cup Winners' Cup twice, in 1
 
 In 2002 he suffered a stroke during a match in Zaporizhzhia and died a few days later. He was posthumously made a Hero of Ukraine.
 
-## What he left behind
+## Why it matters today
 
-Lobanovskyi showed that a Ukrainian club could beat Europe's best through system, hard work and science. Kyiv's Dynamo Stadium bears his name.
+Lobanovskyi showed that a Ukrainian club could beat Europe’s best through system, hard work and science. An engineer by training, he and Anatolii Zelentsov measured players and counted match statistics when hardly anyone did, and that, rather than any single tactic, was his truly pioneering contribution. With that method Dynamo won the Cup Winners’ Cup twice, [Oleh Blokhin](/en/people/oleh-blokhin/) and Ihor Belanov won the Ballon d’Or, and in the 1990s he raised a new generation with [Andriy Shevchenko](/en/people/andrii-shevchenko/) and Serhii Rebrov. His example shows that winning takes more than talent: it also takes knowledge and precise calculation. Kyiv’s Dynamo Stadium bears his name.

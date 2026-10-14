@@ -29,7 +29,7 @@ He was born Borys Davydov (Antonenko-Davydovych is a pen name) on 5 August 1899 
 
 On 17 December 1934 his friends, among them [Hryhorii Kosynka](/en/people/hryhorii-kosynka/), were shot in Kyiv. On 2 January 1935 Antonenko-Davydovych was arrested in Alma-Ata. He was given 10 years in the camps, and in 1937 another 10. He worked as a miner, a digger, a metalworker and a medical assistant. Released in 1947, he slipped back into Ukraine, but in 1951 he was exiled to Siberia for life without trial. He was rehabilitated in 1956 and returned to Kyiv the following year.
 
-## A voice for the young
+## Why it matters today
 
 He had a strong influence on the Sixtiers. He signed letters against political trials, and in 1970 he refused to testify at the trial of Valentyn Moroz. After that his work was no longer published, and his home was searched and his manuscripts taken. How We Speak was the last book of his to come out in Ukraine in his lifetime.
 

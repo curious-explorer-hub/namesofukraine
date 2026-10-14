@@ -32,4 +32,4 @@ In 2021 he ran for parliament for the Servant of the People party in a by-electi
 
 ## Why it matters today
 
-Virastiuk became one of the faces of Ukrainian strongman worldwide: his wins in 2004 and 2007 showed that Ukrainian strongmen could compete with the best.
+Virastiuk became one of the faces of Ukrainian strongman worldwide: his wins in 2004 and 2007 showed that Ukrainian strongmen could compete with the best. He switched to the sport only in 2000, after years in the shot put, and four years later he was the World’s Strongest Man. He went on to become honorary president of the Strongman Federation of Ukraine and coached Ukraine’s team at the Invictus Games, where veterans with combat injuries compete. His path shows that strength can be shared: first through records that inspire, then by supporting those who have come back from war.

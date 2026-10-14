@@ -34,4 +34,4 @@ On 22 April 1998 Vadym Hetman was shot dead by a hired killer in the entrance of
 
 ## Why it matters today
 
-Hetman was one of the builders of independent Ukraine’s monetary system: the National Bank, its own currency and an interbank exchange. The Kyiv National Economic University and a street in Kyiv bear his name.
+Hetman was one of the builders of independent Ukraine’s monetary system: the National Bank, its own currency and an interbank currency exchange. His signature is on the first paper hryvnias, and his name is linked with Ukraine joining the IMF, the World Bank and the EBRD. As an MP he co-wrote the laws on economic independence and on banks, and he left the National Bank because he disagreed with the terms of leaving the “rouble zone”. He helped adopt the 1996 Constitution and wrote a book about it, because “history exists for future generations only as long as books exist.” The Kyiv National Economic University bears his name.

@@ -30,4 +30,4 @@ As early as 2006 Klitschko won a seat on Kyiv City Council, and in 2010 he becam
 
 ## Why it matters today
 
-Klitschko went from kickboxing to the WBC heavyweight belt, and then to running his country’s capital. Together with his brother he made Ukrainian boxers known all over the world.
+Klitschko went from kickboxing to the WBC heavyweight belt, and then to running his country’s capital. He won 45 of his 47 professional fights, and after injuries and years away he came back and won the world title again. In 2013, still the reigning champion, he gave up the belt himself to go into politics. Together with his brother [Wladimir](/en/people/volodymyr-klychko/) he made Ukrainian boxers known all over the world. As of October 2026 he leads Kyiv, a city living under constant Russian attacks. His story shows that you can make it back to the top, and that a new goal can be worth giving up what you have won.

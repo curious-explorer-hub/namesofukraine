@@ -34,4 +34,4 @@ When the full-scale invasion began, volunteers gathered around Mezhevikin. At th
 
 ## Why it matters today
 
-Adam’s tank runs were the road by which ammunition, fuel and water reached the “cyborgs” in the terminals. Today Mezhevikin passes on what he learned in those battles to the people who train new crews.
+Adam’s tank runs were the road by which ammunition, fuel and water reached the “cyborgs” in the terminals of Donetsk airport: his tank led the convoy and drew the enemy’s fire while the soldiers unloaded. In 2022 volunteers gathered around him again: he repaired training tanks and took them into battle, and his group helped free Irpin and Bucha. Later he began passing on what he learned in those battles at the General Staff, in the directorate of doctrine and training, to the people who train new crews. The nickname “Adam” is about someone having to go first, so that others can follow.

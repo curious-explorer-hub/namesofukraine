@@ -30,4 +30,4 @@ In March 2022, after Russia’s full-scale invasion, the 84-year-old composer le
 
 ## Why it matters today
 
-Silvestrov’s works are published by leading Western publishers, and his music is heard across Europe, Japan and the United States. His path from an avant-gardist no one played at home to a composer recognized worldwide shows how Ukrainian music broke through to the world despite Soviet isolation.
+Silvestrov’s path from an avant-gardist no one played at home to a composer recognized worldwide shows how Ukrainian music broke through to the world despite Soviet isolation. While the press attacked his works and he was temporarily expelled from the Union of Composers, he kept composing and found his own quiet, meditative language: “metamusic.” Leading Western publishers print his works, and his music is heard across Europe, Japan and the United States. He set poems by [Taras Shevchenko](/en/people/taras-shevchenko/) to music and answered the Maidan with Maidan – Kyiv and choral prayers for Ukraine. Anyone who creates can take his advice: “You have to wait for a melody.”

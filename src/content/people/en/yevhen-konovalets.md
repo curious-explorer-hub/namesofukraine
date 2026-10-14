@@ -35,4 +35,4 @@ The UVO, and later the OUN, waged an underground struggle against the Polish aut
 
 ## Why it matters today
 
-Konovalets is one of the key figures of the Ukrainian national movement between the world wars. He linked the military experience of the independence struggle of 1917–1921 with an underground political organization that shaped many later events. A museum dedicated to him is open in his native Zashkiv.
+Konovalets is one of the key figures of the Ukrainian national movement between the world wars. An escaped prisoner of war, within months he was commanding the Sich Riflemen, who played a key role in restoring the Ukrainian People’s Republic in 1918. After defeat he kept going: he led the UVO, and in 1929 became the first leader of the OUN. From exile he set up Ukrainian information bureaus across Europe and tried to bring the Ukrainian question, including the Holodomor, before the League of Nations. He linked the military experience of the 1917–1921 independence struggle with an underground political organization that shaped many later events.

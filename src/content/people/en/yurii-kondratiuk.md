@@ -35,4 +35,4 @@ How he died is still being investigated. Older sources say he died in October 19
 
 ## Why it matters today
 
-Kondratiuk’s idea made landing people on the Moon technically possible. A technical university and the aviation and space museum in Poltava bear his name, and so does a crater on the far side of the Moon.
+Kondratiuk’s idea made landing people on the Moon technically possible. In 1916–1919 a young man from Poltava wrote in his notebooks that you needn’t haul the whole ship to the Moon: leave it in orbit and send a small cabin down. Apollo used this “Kondratiuk route”, and NASA credits him with the first concept of lunar orbit rendezvous. He worked it out alone, then lived under a borrowed name, built a granary without a single nail that stood for more than 60 years, and designed a wind power station. He saw in space travel a chance “to truly manage our own planet.” Today a crater on the far side of the Moon bears his name.

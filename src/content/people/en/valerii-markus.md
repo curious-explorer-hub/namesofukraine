@@ -35,4 +35,4 @@ Markus’s videos sparked a heated debate. Some felt he had raised questions tha
 
 ## Why it matters today
 
-Markus’s story shows how an army changes during a big war: soldiers themselves help build it, and arguments about commanders, training and responsibility happen in the open, in front of millions of viewers.
+Markus’s story is about how an army changes during a big war. In 2014 many Ukrainians first saw the war in the Donbas through his videos, and his novel Tracks on the Road told what he lived through there from the inside. After the full-scale invasion he went back to the army and helped form the battalion that grew into the 47th Brigade Magura. His story shows that soldiers themselves help build the army, and that arguments about commanders, training and responsibility happen in the open: the first video of his Dream series passed 700,000 views within a day. Views on the videos themselves differ.

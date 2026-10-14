@@ -34,6 +34,6 @@ In May 2022, when the Ukrainian troops left Azovstal under orders, Valeriia was 
 
 After her release she wrote about what she had been through. In 2024 the Folio publishing house brought out her books “Captivity” and “Azovstal: The Steel Press Service”, about the press service’s work during the defence of the plant. She signs them Valeriia “Nava” Subotina.
 
-## Why it matters
+## Why it matters today
 
-During the siege, Azov’s press service was one of the few voices getting the truth about Mariupol out to the world. Valeriia’s books now keep that story for those who come after.
+During the siege, Azov’s press service was one of the few voices getting the truth about Mariupol out to the world, and Valeriia was among those doing that work. A scholar and lecturer, she turned to military journalism in 2014 and went back to Azov when the full-scale invasion began. Almost a year in captivity did not silence her: after her release she wrote “Captivity” and “Azovstal: The Steel Press Service”, books that now keep that story for those who come after. Her words that “Ukraine could not abandon you” are worth hearing for anyone waiting for someone to come home from captivity.

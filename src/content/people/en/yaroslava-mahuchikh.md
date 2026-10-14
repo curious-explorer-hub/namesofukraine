@@ -32,4 +32,4 @@ In August 2026 in Birmingham Mahuchikh won the European title for the third time
 
 ## Why it matters today
 
-Mahuchikh wins the world’s biggest competitions for Ukraine in the years of the full-scale war. As of October 2026 the women’s high jump world record is hers.
+Mahuchikh wins the world’s biggest competitions for Ukraine in the years of the full-scale war. The first of those golds came in 2022, after three days on the road from Dnipro to Belgrade. Since then she has become Olympic, world and European champion, and in 2026 the first ever Ultimate world champion. Her 2.10 m broke a world record that had stood since 1987, and as of October 2026 the women’s high jump world record is hers. Her story shows that even with war at home you can hold on to a dream and set the bar higher than anyone.

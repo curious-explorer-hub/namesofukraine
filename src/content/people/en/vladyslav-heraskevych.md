@@ -33,4 +33,4 @@ On the day of his disqualification the President of Ukraine awarded him the Orde
 
 ## Why it matters today
 
-Heraskevych left the Olympics without a result next to his name, but his helmet made news around the world. It reminded people that behind the phrase “war losses” stand real people: athletes who will never race again.
+Heraskevych was Ukraine’s first Olympic skeleton racer and in 2025 came within 0.08 seconds of a world bronze, showing that even in a sport new to the country a Ukrainian can be among the best. In 2026, with a chance of a medal, he refused to take off a helmet bearing the portraits of Ukrainian athletes killed by the war. “I see the faces on my helmet, and I will not betray these athletes,” he said. He left the Games without a result, but his helmet made news around the world. It reminded people that behind the phrase “war losses” stand real people: athletes who will never race again.

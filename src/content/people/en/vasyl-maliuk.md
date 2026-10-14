@@ -32,6 +32,8 @@ Under Maliuk, the SBU blew up the Crimean Bridge twice, in 2022 and 2023, hit 11
 
 On 1 June 2025, in Operation Spiderweb, which he commanded, SBU drones hit more than 40 strategic aircraft that Russia had used to launch missiles at Ukraine. It is called the largest drone attack on airbases in history.
 
-## Why it matters
+In early January 2026 Maliuk stepped down as head of the SBU, and on 13 January parliament dismissed him.
 
-Spiderweb is considered to have continued the tradition of surprise asymmetric strikes in war; it has been compared, among others, with the Doolittle Raid of 1942, the American air raid on Japan in response to Pearl Harbor. In early January 2026 Maliuk stepped down as head of the SBU, and on 13 January parliament dismissed him. The SBU’s strikes under his leadership showed that a war can be fought far beyond the front line.
+## Why it matters today
+
+The SBU’s strikes under Maliuk showed that a war can be fought far beyond the front line. The service blew up the Crimean Bridge twice, hit 11 Russian warships and began fighting with sea drones. The exchange of Medvedchuk, whose capture is credited to Maliuk, brought the commanders of the Azovstal defence home, and Maliuk met the freed soldiers in person. Spiderweb hit more than 40 strategic aircraft that Russia had used to launch missiles at Ukraine; it has been compared, as a surprise asymmetric strike, with the Doolittle Raid of 1942. These operations showed that an enemy can be answered where it least expects it.

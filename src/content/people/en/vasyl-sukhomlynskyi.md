@@ -32,4 +32,4 @@ In 1967 the newspaper Uchitelskaya Gazeta accused him of “abstract humanism”
 
 ## Why it matters today
 
-Sukhomlynskyi showed that a school can raise dignified, free and kind people by respecting the uniqueness of every child. His legacy has been recognized around the world.
+Sukhomlynskyi showed that a school can raise dignified, free and kind people by respecting the uniqueness of every child. He developed his ideas in an ordinary village school in Pavlysh, which he ran for more than twenty years. He put the child’s personality at the center of schooling when official pedagogy did not touch the subject, even though it earned him charges of “abstract humanism”. I Give My Heart to Children, a book no publisher at first wanted, came out in 25 languages, and for children themselves he wrote about 1,200 stories, fairy tales and essays. Every teacher who sees a unique person in a pupil carries on his work.

@@ -30,4 +30,4 @@ The university was built on the North American model: students were admitted thr
 
 ## Why it matters today
 
-The Mohyla Academy is generally considered the least corrupt of the country’s classical universities, and Briukhovetskyi its “founding father”. Rankings consistently place it among the best universities in Ukraine, especially in the humanities, social sciences and computer science.
+Briukhovetskyi had no experience of higher education, yet in 1991 he wrote Order No. 1 himself and set about building the Mohyla Academy anew. It was the first university in Ukraine to introduce a four-year bachelor’s degree, a 100-point grading scale and a two-year master’s, and it admitted students only through rigorous tests. It is generally considered the least corrupt of the country’s classical universities, rankings consistently place it among the best, and Briukhovetskyi is called its “founding father”. He has also given its library more than 15,000 of his own books. His path shows that an honest university can be built from scratch, if someone dares to start.
