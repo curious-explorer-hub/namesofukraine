@@ -28,6 +28,6 @@ In 2004, as a student activist in the youth group Pora!, Solchanyk helped bring 
 
 Bohdan Solchanyk was killed on Instytutska Street in Kyiv on 20 February 2014. He was 28. [Ihor Kostenko](/en/people/ihor-kostenko/), a Lviv University student, was killed on Instytutska that same morning. In 2023 the Sviatoshynskyi District Court of Kyiv found three former officers of the Berkut riot police guilty of killing protesters on the Maidan; back in 2019 they had been released from custody in a prisoner exchange with Russia.
 
-## Kitchens of My Generation
+## Why it matters today
 
-In 2014 his friends published his poems as a collection, Kitchens of My Generation. He was posthumously made a Hero of Ukraine with the Order of the Golden Star. In Staryi Sambir, the street he lived on and School No. 1 are named after him. The Cambridge and Oxford communities set up a travel grant in Solchanyk’s name, and in 2016 the Ukrainian Catholic University created its first doctoral scholarship in memory of its lecturer.
+Bohdan Solchanyk brought together scholarship, teaching and civic action. As a historian he studied how ordinary people vote in a small town; as a lecturer he taught students modern Ukrainian history. And he brought students out onto the streets himself: with Pora! in 2004, and in 2013 at the head of a column of several thousand marching for the EU agreement. Yet he cared that protest should not cost lives: a friend recalled him talking people out of storming a building, because people could be killed. His friends published his poems as Kitchens of My Generation, and his memory went back to scholarship: the Ukrainian Catholic University created its first doctoral scholarship in his name.

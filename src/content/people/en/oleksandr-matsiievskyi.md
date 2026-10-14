@@ -26,8 +26,6 @@ When the full-scale invasion began, Matsiievskyi volunteered. On 11 March 2022 h
 
 In late December 2022, during the battles for Soledar, Oleksandr Matsiievskyi was taken prisoner, and on 30 December, unarmed, he was shot by Russian soldiers after he said “Slava Ukraini!”; he was 42.
 
-## How he is remembered
+## Why it matters today
 
-On 14 February 2023 he was buried on the Alley of Glory in Nizhyn. In March 2023, after a video appeared online, the SBU (Security Service of Ukraine) confirmed his identity, and on 13 March he was posthumously awarded the title Hero of Ukraine.
-
-His last words became a symbol of resilience for Ukrainians. Streets in Nizhyn, Chernihiv, Kramatorsk and Izium, and a lane in Hrebinky, bear his name. His story is a reminder that killing a prisoner is a war crime, and that such crimes are investigated so that those responsible are held to account.
+Oleksandr Matsiievskyi was not a career soldier: born in Chișinău, he worked as an electrician in Nizhyn and Kyiv. When the full-scale invasion began, he volunteered, trained and became a sniper. He showed that Ukraine is defended by people of many paths, for whom it has become home. His last words, “Slava Ukraini!”, became a symbol of resilience for Ukrainians and carried far beyond the country: there are monuments to him in Tbilisi and murals in Berlin. His story is also a reminder that killing a prisoner is a war crime, and that such crimes are investigated so those responsible are held to account.

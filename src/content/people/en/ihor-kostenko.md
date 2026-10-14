@@ -31,6 +31,6 @@ From the first days of the Euromaidan, Ihor joined the student protests in Lviv 
 
 Ihor Kostenko was killed on Instytutska Street in Kyiv on 20 February 2014, as protesters moved up the street. He was 22. The historian [Bohdan Solchanyk](/en/people/bohdan-solchanyk/), a graduate of the same university, was killed on Instytutska that same morning. In 2023 the Sviatoshynskyi District Court of Kyiv found three former officers of the Berkut riot police guilty of killing protesters on the Maidan; back in 2019 they had been released from custody in a prisoner exchange with Russia.
 
-## How he is remembered
+## Why it matters today
 
-Ihor Kostenko was posthumously made a Hero of Ukraine with the Order of the Golden Star. On 10 August 2014, at the Wikimania conference in London, Wikipedia co-founder Jimmy Wales named him Wikipedian of the Year. The Faculty of Geography opened a classroom in his name (2014) and put up a monument to him in its courtyard (2018). A school in his home village of Zubrets and a government scholarship for geography students carry his name.
+Ihor Kostenko lived by his own words: “Everyone should do what they can, where they are.” What he could do was write, and in two and a half years he added more than 280 articles to the Ukrainian Wikipedia, on geography, the history of Ukraine’s armed forces, economics and football. He didn’t only write; he brought in new contributors, and the community did hold his wiki flash mob in the end, in his memory. And he went to the Maidan himself. Every article someone adds to the Ukrainian Wikipedia today carries his work on; in 2014 Jimmy Wales named him Wikipedian of the Year.

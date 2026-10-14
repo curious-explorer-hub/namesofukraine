@@ -25,6 +25,6 @@ On 17 December 2014 Zinych arrived at the new terminal of Donetsk airport, where
 
 Junior Sergeant Ihor Zinych was killed on 20 January 2015 under the rubble of Donetsk airport's new terminal. He was 25. That same day his fellow 80th Brigade soldier [Petro Polytsiak](/en/people/petro-polytsiak/) and [Ivan Zubkov](/en/people/ivan-zubkov/) were killed there too, while [Ihor Branovytskyi](/en/people/ihor-branovytskyi/) was carrying the wounded out of the same rubble.
 
-## How he is remembered
+## Why it matters today
 
-On 14 October 2015 Ihor Zinych was posthumously made a Hero of Ukraine with the Order of the Gold Star. Memorial plaques were unveiled at the Rokytne hospital where he worked, at the school where he studied and at the Bila Tserkva Medical College. In 2016 a street in Rokytne was renamed Ihor Zinych Street.
+Ihor Zinych took what he had learned on the ambulance in Rokytne to Donetsk airport. In the new terminal he set up a first-aid post and treated the wounded under fire when they could not be got out. He was neither an anesthetist nor an intensive-care doctor, yet he intubated wounded men so they could breathe. Four times he turned down rotation rather than leave the men, and from 16 to 19 January 2015 alone he helped at least fifty soldiers. He showed how much one person can do who knows the job and won’t leave those in need. He was made a Hero of Ukraine posthumously.

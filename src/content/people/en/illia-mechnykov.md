@@ -30,6 +30,6 @@ In 1886, together with Mykola Hamaliia and Yakiv Bardakh, Mechnikov founded in O
 
 From 1888 Mechnikov worked at the Pasteur Institute in Paris. He headed a laboratory there for the rest of his life and from 1905 was deputy director. In 1908 he shared the Nobel Prize in Physiology or Medicine with Paul Ehrlich. He also studied ageing and recommended fermented milk products as a way to stay young for longer. Mechnikov died in Paris in 1916.
 
-## Why he is remembered
+## Why it matters today
 
-Mechnikov is regarded as one of the founders of immunology and microbiology. Odesa National University bears his name, as does a research institute in Odesa that grew out of his bacteriological station. In 2005 a monument to him was unveiled in Kharkiv.
+Ilya Mechnikov discovered that the body has its own defenders: cells that engulf and digest microbes. On that he built the phagocytic theory of immunity, and he is regarded as one of the founders of immunology and microbiology. In Odesa, with Mykola Hamaliia and Yakiv Bardakh, he founded a station to fight infectious diseases, the second in the world, and the research institute that grew out of it bears his name. He also studied ageing and advised how to stay young for longer. A scientist from the Kharkiv region who graduated from Kharkiv University, he showed that careful observation of living things can change how humanity protects itself from disease.

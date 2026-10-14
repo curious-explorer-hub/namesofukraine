@@ -35,6 +35,6 @@ For the engagement Andrii made two rings out of foil and packed them in a small 
 
 Andrii Subotin was killed on 7 May 2022 at Azovstal in Mariupol. He was 34.
 
-## How he is remembered
+## Why it matters today
 
-Andrii Subotin was awarded the Order for Courage, 3rd class, posthumously, and on 23 August 2024 he was made a Hero of Ukraine with the Gold Star order. He is remembered as an officer who saved the wounded and civilians in a city under siege.
+Andrii Subotin made his own way. After failing the medical exam for the border guard academy, he became a lawyer, then came to serve in Mariupol without his father’s help, on principle. In the besieged city he went back on duty after being wounded, carried the wounded from the boats to the Azovstal field hospital, and shared food and water with civilians in a shelter. More than 80 civilians were kept alive. Even under siege he made rings out of foil and married [Valeriia Karpylenko](/en/people/valeriia-karpylenko/). He showed that you can choose your own path and look after others along it. He was made a Hero of Ukraine posthumously.

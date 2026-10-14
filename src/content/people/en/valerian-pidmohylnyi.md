@@ -39,4 +39,4 @@ On 8 December 1934 Pidmohylnyi was arrested as a supposed member of a “group o
 
 ## Why it matters today
 
-In 1989 The City was published in Ukraine again. Pidmohylnyi’s works have been translated into English, German, Polish and Russian; A Little Drama came out in English in 1972 as A Little Touch of Drama.
+Pidmohylnyi wrote a novel about what happens to someone who leaves the village for the big city, a question anyone who has ever moved will recognise. He translated Balzac, Maupassant, Anatole France, Stendhal and others into Ukrainian and edited multi-volume editions of Balzac and France, and those translations had a marked influence on Ukrainian literature in the 1920s. With [Yevhen Pluzhnyk](/en/people/yevhen-pluzhnyk/) he compiled a dictionary of business language, and his stories bear witness to the famine of 1921–1923. He was shot, but his books came back: The City was published in Ukraine again in 1989, and his work is read in English, German and Polish.

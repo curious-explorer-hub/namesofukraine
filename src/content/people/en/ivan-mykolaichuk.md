@@ -23,6 +23,6 @@ After graduating, Mykolaichuk worked at the Oleksandr Dovzhenko Kyiv Film Studio
 
 As a director Mykolaichuk made Babylon XX (1979), based on a novel by Vasyl Zemliak, and Such a Late, Such a Warm Autumn (1982). In both films he co-wrote the script, arranged the music and played one of the roles. Ivan Mykolaichuk died in Kyiv in 1987.
 
-## How he is remembered
+## Why it matters today
 
-In 1988 Mykolaichuk was posthumously awarded the Taras Shevchenko State Prize. His home village of Chortoryia has a memorial museum-estate, and Kyiv and Chernivtsi have streets named after him.
+Playing Ivan in Shadows of Forgotten Ancestors and [Taras Shevchenko](/en/people/taras-shevchenko/) in The Dream made Mykolaichuk one of the faces of Ukrainian poetic cinema. But he didn’t stay just an actor: he wrote screenplays, and in Babylon XX and Such a Late, Such a Warm Autumn he was director, co-writer, music arranger and one of the cast all at once. A boy from a Bukovyna village showed that Ukrainian cinema could be made from the first word of the script to the last note. Anyone who discovers these films today meets him in them.

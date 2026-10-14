@@ -29,6 +29,6 @@ From then on she played in the best Ukrainian troupes, those of Kropyvnytskyi, M
 
 In 1907, together with Sadovskyi, she founded the first permanent Ukrainian theater in Kyiv, and in 1918 she led her own troupe in Nizhyn. She last appeared on stage in December 1922, at a celebration of her 40 years in the theater. In 1923 she was named People’s Artist of the Ukrainian SSR. She died in Kyiv in 1934.
 
-## Where her name lives on
+## Why it matters today
 
-The National Academic Ukrainian Drama Theatre in Lviv bears her name. A prize in her name has existed since 1993, and memorial museums dedicated to her are open in Kyiv and in her native Zanky.
+Zankovetska showed that Ukrainian theater could have an actress of world rank: her contemporaries ranked her alongside Sarah Bernhardt and Eleonora Duse. People urged her to move to the Russian stage, Anton Chekhov among them, but she stayed with the Ukrainian one and even shamed him for asking. For 40 years she brought the Ukrainian classics to the stage, from [Kotliarevskyi](/en/people/ivan-kotliarevskyi/) to Karpenko-Karyi. And in 1907, with Mykola Sadovskyi, she founded the first permanent Ukrainian theater in Kyiv, giving the Ukrainian stage a home of its own. Today the Ukrainian drama theater in Lviv bears her name.

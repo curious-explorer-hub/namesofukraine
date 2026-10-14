@@ -29,6 +29,6 @@ The front was part of her life long before 2022: at seventeen she began travelin
 
 Iryna Tsybukh was killed on 29 May 2024 during a rotation on the Kharkiv front. She was 25.
 
-## How she is remembered
+## Why it matters today
 
-Her farewell was held in St Michael’s Cathedral and on Independence Square in Kyiv, and she was buried at the Field of Mars in Lviv. She was posthumously awarded the Order for Courage, 3rd class, and on 26 February 2025 the title Hero of Ukraine. The Chekafest festival is held in her honor. About remembrance she once said: “Honoring is not for the fallen, but for those who will go on keeping their memory.”
+Iryna Tsybukh went where she was needed most. She taught media literacy to children in remote villages of Donbas and told their story in her film “Distance”. At the front her crew carried the wounded straight from the front line; they refitted their vehicle so a wounded soldier was warm straight away, and filmed it so other crews could learn. She dreamed of a house and tomatoes, but believed that ending the war mattered most. And about remembrance she left words meant for us: “Honoring is not for the fallen, but for those who will go on keeping their memory.”

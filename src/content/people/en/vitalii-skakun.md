@@ -23,6 +23,6 @@ Henichesk, in the Kherson region, sits right next to Crimea. On 24 February 2022
 
 Sailor Vitalii Skakun was killed blowing up the bridge near Henichesk. He was 25.
 
-## How he is remembered
+## Why it matters today
 
-Just two days later, on 26 February 2022, he was posthumously made a Hero of Ukraine. He was buried in his home town of Berezhany. He is an honorary citizen of Berezhany and of Leszno in Poland, where he once worked. Berezhany issued a postage stamp with his portrait, the Lviv vocational school where he studied put up a memorial plaque, and streets bear his name in Kyiv, Mukachevo, Berezhany, Kostiantynivka and Antonivka in the Kherson region.
+Vitalii Skakun had a welder’s trade, a job in Poland and software-engineering studies, and he chose to serve as a combat engineer. On the first day of the full-scale invasion he volunteered to blow up the bridge near Henichesk. The blast slowed a Russian tank column considerably, and Ukrainian troops had time to regroup and set up a defence. He showed that one person’s choice at the right moment can buy time for many others. His deed is known beyond Ukraine too: Prague has a Vitalii Skakun Bridge.

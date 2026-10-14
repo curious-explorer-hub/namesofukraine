@@ -30,4 +30,4 @@ She sang folk songs such as “Quiet Water” and “Oh, I Am Pretty”, and son
 
 ## Why it matters today
 
-Her unique voice and heartfelt singing won her the love of the whole nation, which is why she is called the “guardian of Ukrainian song”. In 2005 Poltava launched a song festival in her name, Song Wings of Churaivna, and a memorial plaque to her was put up on a building in Poltava.
+Raisa Kyrychenko reached the big stage from a factory choir. Her voice joined old folk songs such as “Quiet Water” with new ones such as “Two Colors”, and audiences heard them from Poltava to Canada and Australia. She did more than sing: the ensemble Churaivna was her idea, and once famous she trained as a choral conductor and taught singing at the Poltava music college. That is why she is called the “guardian of Ukrainian song”: she kept it alive by passing it on. Her own words are advice for anyone: love Ukraine “in everyday work, and in what you leave behind for people.”

@@ -27,6 +27,6 @@ His best-known film is Only “Old Men” Are Going to Battle, about Second Worl
 
 On 11 April 1979 Bykov was killed in a car crash on a highway near Kyiv. He had left a letter, a kind of will, for his friends Ivan Mykolaichuk and Mykola Mashchenko, and as he asked, he was buried at Baikove Cemetery without official speeches.
 
-## Why he is remembered
+## Why it matters today
 
-Bykov’s films mix humor, lyricism and humanity, and new generations keep watching them. Kyiv has a monument to him, and a squadron of a Ukrainian aviation regiment bears his name.
+Leonid Bykov was thrown out of flight school, yet he reached the sky after all, on screen. He directed Only “Old Men” Are Going to Battle himself and played its Captain Titarenko, and it became the best-known film about Second World War pilots. Bykov’s films mix humor, lyricism and humanity, so even his war stories are first of all about people, and new generations keep watching them. His path shows that a dream that fails one way can find another. Fittingly, a squadron of a Ukrainian aviation regiment now bears his name.

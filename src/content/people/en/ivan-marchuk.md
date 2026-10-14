@@ -32,4 +32,4 @@ Marchuk’s work spans landscapes, portraits, still lifes, and fantastic and abs
 
 ## Why it matters today
 
-Marchuk shows that an artist can hold to his own path even when the authorities refuse to recognize him. He is a Shevchenko Prize laureate (1997) and a People’s Artist of Ukraine (2002). In 2026, for his 90th birthday, a large retrospective of his work opened in Kyiv.
+Ivan Marchuk created his own painting language: plontanism, pictures of fine interwoven lines that seem to glow, is almost impossible to copy. His style did not fit socialist realism, so the Soviet authorities refused to recognize him and the KGB pressed him. He kept working his own way; the Union of Artists admitted him only in 1988, sixteen years after his first plontanist painting. Today the National Art Museum of Ukraine holds his works. He shows that an artist can hold to his path when the authorities refuse to see him. His words are for anyone who creates: “Art is my truth. If it hurts, it means it is alive.”

@@ -25,6 +25,6 @@ In January 2015 Branovytskyi arrived for a second rotation defending Donetsk air
 
 Ihor Branovytskyi was killed in captivity on 21 January 2015. He was 38.
 
-## How he is remembered
+## Why it matters today
 
-On 23 August 2016 Ihor Branovytskyi was made a Hero of Ukraine with the Order of the Golden Star, posthumously. The 90th Battalion where he served now carries the name of another defender of the airport, [Ivan Zubkov](/en/people/ivan-zubkov/), who was killed there the same month. A memorial plaque in his honour was unveiled in Kyiv.
+All his life, Ihor Branovytskyi stepped into other people’s place. He served as a peacekeeper in Angola, took part in the Revolution of Dignity, and in 2014 volunteered for the front. At Donetsk airport he pulled wounded comrades from the rubble of the new terminal and put tourniquets on them. Then, in captivity, when his captors were looking for the machine gunner, he said it was him, to draw the blow away from the others. He showed that courage can mean taking the danger on yourself to protect the people beside you. He was made a Hero of Ukraine posthumously.

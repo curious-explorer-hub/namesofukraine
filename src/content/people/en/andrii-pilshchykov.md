@@ -31,6 +31,8 @@ In 2021 Pilshchykov quit: he disliked the Soviet ways that lingered in the army,
 
 How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and his classmate and close friend [Oleksii Mes](/en/people/oleksii-mes/), “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also gave his own savings to buy helmets for his fellow pilots.
 
-## How he is remembered
+On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30.
 
-On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30. The pilots Viacheslav Minka and Serhii Prokazin were killed with him. Andrii was posthumously promoted to major, and in 2024 he was made a Hero of Ukraine. He is remembered as a pilot who defended his country both in the sky and with his voice.
+## Why it matters today
+
+Andrii Pilshchykov defended his country both in the sky and with his voice. He tried to change the Soviet ways in the army and, meeting resistance, quit. But when the full-scale invasion began he went back to his brigade and flew 101 combat sorties, including over Kyiv. When the “Ghost of Kyiv” legend came to stand for his brigade’s pilots, he gave the credit to the whole unit. In Washington, with [Oleksii Mes](/en/people/oleksii-mes/), he told senators why Ukraine needed F-16s, and he spent his own savings on helmets for fellow pilots. He showed that a country’s sky can be defended from more than a cockpit.

@@ -28,6 +28,6 @@ The world’s stages followed. At the opening of Expo 67 in Montreal he sang ari
 
 Anatolii Solovianenko died in 1999 in the settlement of Kozyn near Kyiv and is buried there.
 
-## How he is remembered
+## Why it matters today
 
-All his life he also sang Ukrainian songs and romances, and he recorded 18 LPs. In 1999 the Donetsk Theatre of Opera and Ballet was named after him, in 2001 a museum opened in Kozyn, and in 2008 he was posthumously made a Hero of Ukraine. The minor planet 6755 bears his name too.
+Solovianenko proved that a voice from a Donbas coal miner’s family could fill La Scala and the Metropolitan Opera. He only turned professional at 30, after years of teaching at an institute, which shows it is never too late to find your calling. At the opening of Expo 67 in Montreal he sang Verdi and Puccini, and alongside them “Povii, Vitre, na Vkrainu” and “Dyvlius Ya na Nebo”. All his life he sang Ukrainian songs and romances, recorded 18 LPs and, in his own words, put “his whole soul” into them. In 2008 he was posthumously made a Hero of Ukraine.

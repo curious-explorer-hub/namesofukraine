@@ -35,4 +35,4 @@ From 1941 to 1944 Sosiura was a war correspondent. In 1944 he wrote the poem “
 
 ## Why it matters today
 
-In 1963 Sosiura received the Shevchenko Prize. He died in Kyiv on 8 January 1965. Mazepa and The Third Company were published in full only in 1988. And the poem he was hounded for is read and learned again today.
+A boy from the Third Company who worked as a labourer from the age of 11 became a lyric poet whose very first collections made him famous. In the 1930s, the years of the purges, he was almost the only Ukrainian poet who kept writing about love. His Mazepa was hushed up, his collection Heart was confiscated, and “Love Ukraine!” got him accused of “bourgeois nationalism” and threatened with arrest. [Ivan Bahrianyi](/en/people/ivan-bahrianyi/) wrote that Sosiura was in constant conflict with the authorities because of his love for his people. Today the poem is read and learned again, and its words “Love Ukraine as you love the sun” belong to everyone who says them.

@@ -38,6 +38,6 @@ On 15 March 2008 the Kyiv Court of Appeal found three former officers of the Int
 
 The Prosecutor General’s Office named the former interior minister Yurii Kravchenko as the man who ordered the killing, but he died in 2005, before any trial. A court has not established that Leonid Kuchma was involved in organising the killing. As of September 2026, the question of everyone who ordered or took part in the crime remains open.
 
-## How he is remembered
+## Why it matters today
 
-In 2005 Georgiy Gongadze was posthumously made a Hero of Ukraine with the Order of the State, for his civic courage in defending democracy and freedom of speech. He was buried in Kyiv on 22 March 2016. And every year on 21 May, his birthday, the Georgiy Gongadze Prize is awarded to journalists.
+Gongadze showed that a journalist can write openly about corruption in power even while being followed: instead of going quiet, he wrote an open letter to the Prosecutor General. The website he founded was called Ukrainska Pravda, “Ukrainian Truth”, and the truth about him was what people demanded: his disappearance didn’t silence the country, it brought it out for the “Ukraine without Kuchma” protests, and in 2004 the same demand was heard again. Anyone who writes about those in power without asking their permission follows his road, and every year on 21 May, his birthday, the Georgiy Gongadze Prize is awarded to journalists.

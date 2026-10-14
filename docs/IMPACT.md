@@ -183,7 +183,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 6: status: for review (posts 5.12–16.12)
+## Batch 6: status: approved, applied 2026-10-13 (posts 5.12–16.12)
 
 | Profile | Before | After |
 |---|---|---|
@@ -223,7 +223,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 7: status: for review (posts 28.12–30.12)
+## Batch 7: status: approved, applied 2026-10-13 (posts 28.12–30.12)
 
 | Profile | Before | After |
 |---|---|---|
@@ -260,7 +260,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 8: status: for review
+## Batch 8: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -282,11 +282,49 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 <details><summary>Notes, batch 8</summary>
 
-- Ihor Kostenko: Kostenko: kept Wikipedian of the Year as the one memorial clause, because it is about his work; dropped Hero of Ukraine, the classroom, monument, school and scholarship. The line “he went to the Maidan because he would not wait…” rests on his quote; if that feels too interpretive, drop the «бо…» / “because…” part.
+- Ihor Kostenko: Kostenko: kept Wikipedian of the Year as the one memorial clause, because it is about his work; dropped Hero of Ukraine, the classroom, monument, school and scholarship.
 - Bohdan Solchanyk: Solchanyk: heading kept. Dropped Hero of Ukraine, the street, the school and the Cambridge/Oxford grant; kept the UCU doctoral scholarship, because it continues his own field. The storming detail keeps the “a friend recalled” hedge from the body. In English, “a building” is deliberately vaguer than the body’s “the SBU building in Lviv”; use the full wording if preferred.
-- Ivan Mykolaichuk: Mykolaichuk: keeps the Shevchenko link from the body. Dropped the Shevchenko Prize, museum and streets (the prize is still in key_accomplishments). “Audiences still remember that face” («глядачі пам'ятають досі») is mild interpretation with no source; drop it if too loose. Wording follows the body’s “one of the faces”, not the summary’s “the face”.
+- Ivan Mykolaichuk: Mykolaichuk: keeps the Shevchenko link from the body. Dropped the Shevchenko Prize, museum and streets (the prize is still in key_accomplishments). Wording follows the body’s “one of the faces”, not the summary’s “the face”.
 - Anatolii Solovianenko: Solovianenko: “turned professional at 30” is from summary (“until 30 taught…”) plus 1962 Kyiv Opera (born 1932). Donetsk opera named after him (1999) is dropped in favour of Hero of Ukraine; owner may prefer the Donetsk clause instead.
 - Volodymyr Sosiura: Sosiura: Shevchenko Prize 1963 and 1988 full publication of Mazepa / The Third Company dropped as remembrance. The Bahrianyi link is new in this section (already in the body and in `related:`).
+
+</details>
+
+## Batch 9: status: approved, applied 2026-10-13
+
+| Profile | Before | After |
+|---|---|---|
+| Валер'ян Підмогильний | **Чому це важливо сьогодні**<br>1989 року «Місто» знову видали в Україні. Твори Підмогильного перекладено англійською, німецькою, польською й російською; англійською «Невеличка драма» вийшла 1972 року. | **Чому це важливо сьогодні**<br>Підмогильний написав роман про те, що переживає людина, яка з села приходить у велике місто, і це питання знайоме кожному, хто колись переїжджав. Він переклав українською Бальзака, Мопассана, Анатоля Франса, Стендаля й інших, редагував багатотомні видання Бальзака і Франса, і ці переклади помітно вплинули на українську літературу 1920-х. Разом із [Євгеном Плужником](/uk/people/yevhen-pluzhnyk/) він уклав словник ділової мови, а в оповіданнях лишив свідчення про голод 1921–1923 років. Його розстріляли, але книжки повернулися: 1989 року «Місто» знову видали в Україні, а його твори читають англійською, німецькою й польською. |
+| Андрій Суботін | **Як його пам'ятають**<br>Посмертно Андрія Суботіна нагородили орденом «За мужність» III ступеня, а 23 серпня 2024 року йому присвоїли звання Героя України з орденом «Золота Зірка». Його пам'ятають як офіцера, який в оточеному місті рятував поранених і цивільних. | **Чому це важливо сьогодні**<br>Андрій Суботін усього досяг сам. Не пройшовши медкомісію до прикордонної академії, він став юристом, а згодом приїхав служити до Маріуполя без батькової допомоги, бо так для себе вирішив. В обложеному місті він після поранення повернувся до виконання завдань, приймав поранених із катерів і доставляв їх до шпиталю на «Азовсталі», а мирним жителям в укритті віддав їжу та воду. Тоді вдалося зберегти життя понад 80 цивільних. І навіть в оточенні він зробив каблучки з фольги й одружився з [Валерією Карпиленко](/uk/people/valeriia-karpylenko/). Він показав, що свій шлях можна вибрати самому і на ньому дбати про інших. Звання Героя України йому присвоїли посмертно. |
+| Ігор Брановицький | **Як його пам'ятають**<br>23 серпня 2016 року Ігорю Брановицькому присвоїли звання Героя України з орденом «Золота Зірка» - посмертно. 90-й батальйон, де він служив, сьогодні носить ім'я іншого захисника ДАПу, Івана Зубкова, який загинув там того ж місяця. У Києві на його честь відкрили пам'ятну дошку. | **Чому це важливо сьогодні**<br>Ігор Брановицький усе життя ставав на місце інших. Він служив миротворцем в Анголі, був учасником Революції гідності, а 2014 року пішов добровольцем на фронт. У Донецькому аеропорту він виносив ранених побратимів із завалів нового терміналу й накладав їм джгути. А в полоні, коли бойовики шукали кулеметника, назвав ним себе, щоб відвести удар від інших. Він показав, що мужність - це й готовність узяти небезпеку на себе, аби вберегти тих, хто поруч. Звання Героя України йому присвоїли посмертно. |
+| Ігор Калинець | **Імпресаріо колишнього поета**<br>1981 року Калинець повернувся до Львова і вірші писати перестав. До того він склав сімнадцять збірок, дев'ять із них ще до арешту. Себе він відтоді називав «імпресаріо колишнього Ігоря Калинця». 1987 року допомагав видавати неофіційний часопис «Євшан-зілля», згодом писав казки для дітей. 1992 року отримав Шевченківську премію. Ігор Калинець помер 28 червня 2025 року у Львові, у 85 років, і похований на полі почесних поховань Личаківського цвинтаря. Його вірші, які в СРСР десятиліттями ходили лише в самвидаві та закордонних виданнях, 1991 року нарешті вийшли повним зібранням. | «Імпресаріо колишнього поета» лишається, без останнього речення (про повне зібрання 1991 року: воно є в новому розділі). Після нього новий, останній розділ:<br>**Чому це важливо сьогодні**<br>Ігор Калинець знав, на що йде. Він казав, що його обов'язок як поета - стати на захист переслідуваних людей, які щось зробили для України, і за вірші, надруковані на Заході, відбув шість років таборів і три роки заслання. Ще в таборі його прийняли до ПЕН-клубу. Перша його збірка зникла з продажу, наступні виходили тільки за кордоном, але сімнадцять збірок поета 1991 року вийшли повним зібранням, і тепер їх може прочитати кожен. А дітям він залишив казки. Його життя показує, що слово, яке намагаються заборонити, зрештою доходить до читача. |
+| Ігор Зінич | **Як його пам'ятають**<br>14 жовтня 2015 року Ігорю Зіничу посмертно присвоїли звання Героя України з орденом «Золота Зірка». Пам'ятні дошки на його честь відкрили на лікарні в Рокитному, де він працював, на школі, де він навчався, і на Білоцерківському медичному коледжі. 2016 року одну з вулиць Рокитного назвали вулицею Ігоря Зінича. | **Чому це важливо сьогодні**<br>Ігор Зінич приніс у Донецький аеропорт те, чого навчився на швидкій у Рокитному. У новому терміналі він облаштував медпункт і лікував поранених під обстрілами, коли вивезти їх було неможливо. Він не був ні анестезіологом, ні реаніматологом, але робив пораненим інтубацію, щоб вони могли дихати. Чотири рази він відмовлявся від ротації, бо не хотів залишати хлопців, і лише за 16-19 січня 2015 року допоміг щонайменше п'ятдесятьом бійцям. Він показав, скільки може одна людина, яка знає свою справу і не залишає тих, кому потрібна. Звання Героя України йому присвоїли посмертно. |
+
+<details><summary>English, batch 9</summary>
+
+- **Valerian Pidmohylnyi.** Pidmohylnyi wrote a novel about what happens to someone who leaves the village for the big city, a question anyone who has ever moved will recognise. He translated Balzac, Maupassant, Anatole France, Stendhal and others into Ukrainian and edited multi-volume editions of Balzac and France, and those translations had a marked influence on Ukrainian literature in the 1920s. With [Yevhen Pluzhnyk](/en/people/yevhen-pluzhnyk/) he compiled a dictionary of business language, and his stories bear witness to the famine of 1921–1923. He was shot, but his books came back: The City was published in Ukraine again in 1989, and his work is read in English, German and Polish.
+- **Andrii Subotin.** Andrii Subotin made his own way. After failing the medical exam for the border guard academy, he became a lawyer, then came to serve in Mariupol without his father’s help, on principle. In the besieged city he went back on duty after being wounded, carried the wounded from the boats to the Azovstal field hospital, and shared food and water with civilians in a shelter. More than 80 civilians were kept alive. Even under siege he made rings out of foil and married [Valeriia Karpylenko](/en/people/valeriia-karpylenko/). He showed that you can choose your own path and look after others along it. He was made a Hero of Ukraine posthumously.
+- **Ihor Branovytskyi.** All his life, Ihor Branovytskyi stepped into other people’s place. He served as a peacekeeper in Angola, took part in the Revolution of Dignity, and in 2014 volunteered for the front. At Donetsk airport he pulled wounded comrades from the rubble of the new terminal and put tourniquets on them. Then, in captivity, when his captors were looking for the machine gunner, he said it was him, to draw the blow away from the others. He showed that courage can mean taking the danger on yourself to protect the people beside you. He was made a Hero of Ukraine posthumously.
+- **Ihor Kalynets.** Ihor Kalynets knew what he was taking on. He said it was his duty as a poet to stand up for persecuted people who had done something for Ukraine, and for poems printed in the West he served six years in the camps and three in exile. While still in the camp he was made a member of PEN. His first collection was taken off sale and the next came out only abroad, yet in 1991 all seventeen collections were published together. For children, he left fairy tales. His life shows that words someone tries to ban do reach their readers in the end.
+- **Ihor Zinych.** Ihor Zinych took what he had learned on the ambulance in Rokytne to Donetsk airport. In the new terminal he set up a first-aid post and treated the wounded under fire when they could not be got out. He was neither an anesthetist nor an intensive-care doctor, yet he intubated wounded men so they could breathe. Four times he turned down rotation rather than leave the men, and from 16 to 19 January 2015 alone he helped at least fifty soldiers. He showed how much one person can do who knows the job and won’t leave those in need. He was made a Hero of Ukraine posthumously.
+
+</details>
+
+<details><summary>Notes, batch 9</summary>
+
+- Valerian Pidmohylnyi: Pidmohylnyi: Pluzhnyk link is new in this section (slug in `related:`; his profile is a draft, so it renders as plain text until approved). Russian translation omitted from the list (subset of an existing fact).
+- Andrii Subotin: Fallen defender: the death sentence already stands at the end of «Весілля на «Азовсталі»» / “A wedding at Azovstal”, outside the replaced section; nothing moves. No fighting or death detail in the ending.
+- Andrii Subotin: “More than 80 civilians were kept alive” is kept impersonal, as in the body, which credits the soldiers collectively, not Andrii alone.
+- Andrii Subotin: Memorial: kept only the posthumous Hero title; the Order for Courage and the decree date are dropped (both in key_accomplishments).
+- Ihor Branovytskyi: Fallen defender: the death sentence already stands at the end of «Останні дні на ДАПі» / “The last days at the airport”; nothing moves. The ending repeats the act of naming himself the machine gunner (it is the core of the story and the hook) but nothing about his death in captivity.
+- Ihor Branovytskyi: Dropped the sentence about the 90th Battalion bearing Ivan Zubkov’s name, so the inline link to ivan-zubkov goes from this section; it is still in related: and in fun_fact. Restore it if the owner wants the cross-link in the story text.
+- Ihor Branovytskyi: Dropped the Kyiv memorial plaque; kept only the posthumous Hero title.
+- Ihor Kalynets: «Імпресаріо колишнього поета» is a story section (return, journal, tales, prize), so it stays and the new section is added after it. Its last paragraph (death, burial, 1991 complete edition) also stays unchanged per the brief.
+- Ihor Kalynets: The 1991 complete edition now appears in both the previous section’s last sentence and the new ending; the owner may want to trim one. The 1991 edition is also in key_accomplishments (“Пробуджена Муза”, “Невольнича Муза”).
+- Ihor Kalynets: The duty quote is paraphrased from the profile’s quotes: entry (Radio Svoboda, 2019), not a new quote.
+- Ihor Zinych: Fallen defender: the death sentence already stands at the end of «Медпункт у терміналі» / “A first-aid post in the terminal”; nothing moves. No fighting or death detail in the ending; his own head wound is left out.
+- Ihor Zinych: The intubation fact comes from fun_fact; it is now repeated in the ending.
+- Ihor Zinych: Memorial: kept only the posthumous Hero title; the plaques and the Rokytne street are dropped. The plaque at the hospital where he worked could replace it if the owner prefers a local tie.
 
 </details>
 
@@ -321,26 +359,26 @@ Batch numbers are the review order. "Remembrance only": the ending is memorial f
 | 5 ✅ | [Назарій Яремчук](../src/content/people/uk/nazarii-yaremchuk.md) | 30.11 | approved | performing-arts | weak | applied |
 | 5 ✅ | [Євген Сверстюк](../src/content/people/uk/yevhen-sverstiuk.md) | 1.12 | approved | literature | weak | applied |
 | 5 ✅ | [Катерина Поліщук](../src/content/people/uk/kateryna-polishchuk.md) | 3.12 | approved | defenders | weak | applied |
-| 6 | [Ілля Мечников](../src/content/people/uk/illia-mechnykov.md) | 5.12 | approved | science | weak | drafted |
-| 6 | [Андрій Пільщиков](../src/content/people/uk/andrii-pilshchykov.md) | 6.12 | approved | defenders | remembrance only | drafted |
-| 6 | [Раїса Кириченко](../src/content/people/uk/raisa-kyrychenko.md) | 9.12 | approved | performing-arts | weak | drafted |
-| 6 | [Леонід Биков](../src/content/people/uk/leonid-bykov.md) | 12.12 | approved | performing-arts | weak | drafted |
-| 6 | [Ірина Цибух](../src/content/people/uk/iryna-tsybukh.md) | 16.12 | approved | defenders | remembrance only | drafted |
-| 7 | [Іван Марчук](../src/content/people/uk/ivan-marchuk.md) | 28.12 | approved | visual-arts | weak | drafted |
-| 7 | [Марія Заньковецька](../src/content/people/uk/mariia-zankovetska.md) | 29.12 | approved | performing-arts | remembrance only | drafted |
-| 7 | [Олександр Мацієвський](../src/content/people/uk/oleksandr-matsiievskyi.md) | 30.12 | approved | defenders | remembrance only | drafted |
-| 7 | [Віталій Скакун](../src/content/people/uk/vitalii-skakun.md) |  | approved | defenders | remembrance only | drafted |
-| 7 | [Георгій Гонгадзе](../src/content/people/uk/heorhii-honhadze.md) |  | approved | civic | remembrance only | drafted |
-| 8 | [Ігор Костенко](../src/content/people/uk/ihor-kostenko.md) |  | approved | civic | remembrance only | drafted |
-| 8 | [Богдан Сольчаник](../src/content/people/uk/bohdan-solchanyk.md) |  | approved | civic | remembrance only | drafted |
-| 8 | [Іван Миколайчук](../src/content/people/uk/ivan-mykolaichuk.md) |  | approved | performing-arts | remembrance only | drafted |
-| 8 | [Анатолій Солов'яненко](../src/content/people/uk/anatolii-solovianenko.md) |  | approved | performing-arts | remembrance only | drafted |
-| 8 | [Володимир Сосюра](../src/content/people/uk/volodymyr-sosiura.md) |  | approved | literature | remembrance only | drafted |
-| 9 | [Валер'ян Підмогильний](../src/content/people/uk/valerian-pidmohylnyi.md) |  | approved | literature | remembrance only | drafted |
-| 9 | [Андрій Суботін](../src/content/people/uk/andrii-subotin.md) |  | approved | defenders | remembrance only | to draft |
-| 9 | [Ігор Брановицький](../src/content/people/uk/ihor-branovytskyi.md) |  | approved | defenders | remembrance only | to draft |
-| 9 | [Ігор Калинець](../src/content/people/uk/ihor-kalynets.md) |  | approved | literature | remembrance only | to draft |
-| 9 | [Ігор Зінич](../src/content/people/uk/ihor-zinych.md) |  | approved | defenders | remembrance only | to draft |
+| 6 ✅ | [Ілля Мечников](../src/content/people/uk/illia-mechnykov.md) | 5.12 | approved | science | weak | applied |
+| 6 ✅ | [Андрій Пільщиков](../src/content/people/uk/andrii-pilshchykov.md) | 6.12 | approved | defenders | remembrance only | applied |
+| 6 ✅ | [Раїса Кириченко](../src/content/people/uk/raisa-kyrychenko.md) | 9.12 | approved | performing-arts | weak | applied |
+| 6 ✅ | [Леонід Биков](../src/content/people/uk/leonid-bykov.md) | 12.12 | approved | performing-arts | weak | applied |
+| 6 ✅ | [Ірина Цибух](../src/content/people/uk/iryna-tsybukh.md) | 16.12 | approved | defenders | remembrance only | applied |
+| 7 ✅ | [Іван Марчук](../src/content/people/uk/ivan-marchuk.md) | 28.12 | approved | visual-arts | weak | applied |
+| 7 ✅ | [Марія Заньковецька](../src/content/people/uk/mariia-zankovetska.md) | 29.12 | approved | performing-arts | remembrance only | applied |
+| 7 ✅ | [Олександр Мацієвський](../src/content/people/uk/oleksandr-matsiievskyi.md) | 30.12 | approved | defenders | remembrance only | applied |
+| 7 ✅ | [Віталій Скакун](../src/content/people/uk/vitalii-skakun.md) |  | approved | defenders | remembrance only | applied |
+| 7 ✅ | [Георгій Гонгадзе](../src/content/people/uk/heorhii-honhadze.md) |  | approved | civic | remembrance only | applied |
+| 8 ✅ | [Ігор Костенко](../src/content/people/uk/ihor-kostenko.md) |  | approved | civic | remembrance only | applied |
+| 8 ✅ | [Богдан Сольчаник](../src/content/people/uk/bohdan-solchanyk.md) |  | approved | civic | remembrance only | applied |
+| 8 ✅ | [Іван Миколайчук](../src/content/people/uk/ivan-mykolaichuk.md) |  | approved | performing-arts | remembrance only | applied |
+| 8 ✅ | [Анатолій Солов'яненко](../src/content/people/uk/anatolii-solovianenko.md) |  | approved | performing-arts | remembrance only | applied |
+| 8 ✅ | [Володимир Сосюра](../src/content/people/uk/volodymyr-sosiura.md) |  | approved | literature | remembrance only | applied |
+| 9 ✅ | [Валер'ян Підмогильний](../src/content/people/uk/valerian-pidmohylnyi.md) |  | approved | literature | remembrance only | applied |
+| 9 ✅ | [Андрій Суботін](../src/content/people/uk/andrii-subotin.md) |  | approved | defenders | remembrance only | applied |
+| 9 ✅ | [Ігор Брановицький](../src/content/people/uk/ihor-branovytskyi.md) |  | approved | defenders | remembrance only | applied |
+| 9 ✅ | [Ігор Калинець](../src/content/people/uk/ihor-kalynets.md) |  | approved | literature | remembrance only | applied |
+| 9 ✅ | [Ігор Зінич](../src/content/people/uk/ihor-zinych.md) |  | approved | defenders | remembrance only | applied |
 | 10 | [Ірина Фаріон](../src/content/people/uk/iryna-farion.md) |  | approved | civic | remembrance only | to draft |
 | 10 | [Катерина Гандзюк](../src/content/people/uk/kateryna-handziuk.md) |  | approved | civic | remembrance only | to draft |
 | 10 | [Катерина Ступницька](../src/content/people/uk/kateryna-stupnytska.md) |  | approved | defenders | remembrance only | to draft |
