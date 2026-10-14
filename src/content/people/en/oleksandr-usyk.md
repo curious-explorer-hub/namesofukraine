@@ -11,6 +11,15 @@ key_accomplishments:
   - "Order of Freedom (2024), the National Legend of Ukraine award (2024), the Order of Merit in all three classes"
 birthplace_name: "Simferopol"
 image_alt: "Oleksandr Usyk at the Web Summit conference in Lisbon, 2022"
+gallery:
+  - alt: "Oleksandr Usyk with his arms raised, wearing four championship belts over his shoulders and around his waist"
+    caption: "Usyk with the four belts after beating Tyson Fury, May 2024"
+videos:
+  - title: "Oleksandr Usyk's ring walk before his fight with Tyson Fury, 2024"
+    source: "DAZN Boxing"
+quotes:
+  - text: "Russia destroyed so much in my country... But we will survive. We will rebuild our country, like a mosaic, piece by piece."
+    source: "Speech in Trafalgar Square, London, quoted by The Guardian, 15 July 2025"
 ---
 
 ## Undisputed, three times over
@@ -35,6 +44,10 @@ Before 2022 some Ukrainians criticized Usyk for words and actions linked to Russ
 
 Usyk himself never gave up his Ukrainian citizenship. In 2020 he answered his critics: “Don’t divide people,” and explained: “For me a Ukrainian is a Ukrainian. And it doesn’t matter whether he lives in Lviv, Crimea, Donetsk or Odesa.” After the 2022 invasion he joined the territorial defence, and in 2024 the state awarded him the Order of Freedom.
 
+## Ukrainian identity on the world stage
+
+Usyk made Ukrainian culture fashionable in the boxing world: he comes to weigh-ins in Cossack zhupans and vyshyvankas, wears the traditional Cossack oseledets haircut, dances the hopak in the ring after his wins and keeps promoting Ukrainian traditions to an audience of millions.
+
 ## Why it matters today
 
-Usyk became undisputed champion in two weight classes and the first to win that title three times. From Olympic gold in London he went on to hold the belts of all the major boxing organizations: in 2018 he became the first Ukrainian undisputed world champion, then proved he could beat the biggest boxers at heavyweight too. He showed that a boxer from Ukraine can hold every major belt at once, and do it again. And in February 2022, at the peak of his career, he came home to defend Kyiv and put a rematch on hold: “It is my duty to fight, to defend my home, my family.”
+Usyk became undisputed champion in two weight classes and the first to win that title three times. From Olympic gold in London he went on to hold the belts of all the major boxing organizations: in 2018 he became the first Ukrainian undisputed world champion, then proved he could beat the biggest boxers at heavyweight too. He also made Ukrainian traditions part of world boxing: millions of viewers see the zhupan, the oseledets and the hopak in the ring.
