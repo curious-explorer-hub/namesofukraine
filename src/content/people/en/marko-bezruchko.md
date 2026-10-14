@@ -34,6 +34,6 @@ In 1920 Bezruchko formed and took command of the 6th Sich Rifle Division. After 
 
 After the UNR’s defeat Bezruchko stayed in Poland. In 1920–1924 he was defence minister and deputy minister of the UNR government in exile; in 1931–1935 he headed the Ukrainian Military History Society in Warsaw, and he wrote a book about the Sich Riflemen in the struggle for statehood. At the start of the Second World War he actively supported the Organization of Ukrainian Nationalists. Marko Bezruchko died in Warsaw on 10 February 1944 and is buried in the Orthodox cemetery in Wola, next to Zmiienko.
 
-## Why he is remembered
+## Why it matters today
 
-In 2020 Warsaw city council named a square after him, and Ukraine’s embassy thanked the Poles for recognizing the role of their Ukrainian allies in the war with the Bolsheviks in 1920. A roundabout in Wrocław bears his name, and in Ukraine, since 2022, the 110th Separate Mechanized Brigade of the Armed Forces has been named after General Marko Bezruchko.
+Marko Bezruchko helped build the UNR Army: in 1917 he Ukrainized units at the front, then headed the General Staff’s operations department, and in 1920 he formed the 6th Sich Rifle Division. At Zamość his men and Polish troops held off Budyonny’s cavalry for almost three days, and it never got to help the Reds at Warsaw. Historians count this among the reasons for the Polish victory there. His story shows that Ukrainians and Poles have stopped an enemy together before, and that holding one town can shape a great battle. Since 2022 the 110th Separate Mechanized Brigade has carried his name.

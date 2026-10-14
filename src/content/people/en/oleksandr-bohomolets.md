@@ -32,4 +32,4 @@ In 1930 Bohomolets was elected president of the Academy of Sciences of the Ukrai
 
 ## Why it matters today
 
-Since 1946 a medical school in Kyiv, today the National Medical University, has borne Bohomolets’s name, and since 1953 so has the Institute of Physiology of the National Academy of Sciences. The Academy awards a prize in his name for work in physiology. His son and granddaughter carried on his work in pathophysiology.
+Oleksandr Bohomolets showed that a doctor should ask not only what caused a disease but how well the body itself resists it. He found that connective tissue protects and nourishes the body, and he created a serum to stimulate those defences, which brought him international recognition. A man born in a prison led the Academy of Sciences of the Ukrainian SSR for 16 years, founded institutes in Kyiv that grew into the Institute of Physiology named after him, and built a large school of pathophysiologists. His son and granddaughter carried on his work, and the National Medical University in Kyiv, where future doctors train, bears his name.

@@ -29,6 +29,8 @@ In 1984 the book Hryhorii Skovoroda came out, written by Popovych together with 
 
 In 2001 Popovych received the Shevchenko Prize for An Outline of the History of Ukrainian Culture. His book The Red Century (2005) is about the 20th century, and The Philosophy of Freedom came out in 2018. After 1989 he sat on the leadership of the People’s Movement of Ukraine (Rukh), and later joined the First of December Initiative Group, whose founders included [Liubomyr Huzar](/en/people/liubomyr-huzar/).
 
+Myroslav Popovych died in Kyiv on 10 February 2018.
+
 ## Why it matters today
 
-Myroslav Popovych died in Kyiv on 10 February 2018. A few days later the president posthumously awarded him the Order of Freedom for strengthening Ukraine’s independence, developing democracy and many years of scholarly and public work. His main themes, the history of Ukrainian culture and human freedom, still matter to Ukraine today.
+Myroslav Popovych started out as a village history teacher and became the philosopher whose Outline of the History of Ukrainian Culture won the Shevchenko Prize. He wrote about the 20th century in The Red Century, and his Philosophy of Freedom came out in 2018. He did not keep his ideas in the study: after 1989 he sat on the leadership of Rukh, and later joined the First of December Initiative Group. Hence his Order of Freedom, for strengthening Ukraine’s independence and developing democracy. The history of Ukrainian culture and human freedom, his main themes, still matter today, and anyone curious about them can start with his books.

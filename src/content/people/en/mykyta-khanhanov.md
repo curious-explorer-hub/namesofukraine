@@ -28,6 +28,6 @@ On 15 June 2023 the European Parliament passed a resolution on the two teenagers
 
 In June 2023, 16-year-old Mykyta Khanhanov and Tihran were killed in occupied Berdiansk. The occupation authorities called them “pro-Ukrainian terrorists”; human rights defenders say the boys were shot by snipers. As of July 2025, their bodies had not been returned to their families.
 
-## How he is remembered
+## Why it matters today
 
-In 2024 Zaporizhzhia split Lassalle Street in two and named the parts after the friends: Mykyta Khanhanov Street and Tihran Ohannisian Street. On 19 July 2025 the President of Ukraine posthumously awarded both boys the Order of Freedom for their civic courage and patriotism.
+Mykyta Khanhanov was a schoolboy from Berdiansk. When Russia occupied his city, he made no secret of backing Ukraine, just like his friend [Tihran Ohannisian](/en/people/tihran-ohannisian/). The occupiers answered with searches, interrogations and a fabricated case. But the story of the two teenagers reached Europe: the European Parliament voted 425 to 3 to demand that the boys be allowed to leave the occupied territory. Mykyta showed that civic courage has nothing to do with age, and it was for that courage and his patriotism that he was posthumously awarded the Order of Freedom. His story is about staying true to yourself even where that is punished.

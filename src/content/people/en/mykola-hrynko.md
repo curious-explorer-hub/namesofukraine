@@ -26,6 +26,8 @@ Hrynko acted in films from 1951, and in 1963 he joined the Oleksandr Dovzhenko F
 
 In A Subject for a Short Story Hrynko became Anton Chekhov; in [Leonid Bykov](/en/people/leonid-bykov/)’s Aty-baty, the Soldiers Were Going he was a colonel, and in Yaroslav the Wise he played Nikon. And for children he became Papa Carlo, who carves Buratino out of a log in The Adventures of Buratino (1975). He was later made a People’s Artist of the Ukrainian SSR.
 
+Mykola Hrynko died in Kyiv in 1989.
+
 ## Why it matters today
 
-Mykola Hrynko died in Kyiv in 1989. He lives on in films people still love, from the fairy tale about a wooden boy to Stalker. Ukraine’s parliament included the 100th anniversary of his birth among the dates the country marked in 2020.
+Mykola Hrynko went through the war, the drama theatres of Zaporizhzhia and Uzhhorod and the variety stage before joining Kyiv’s Dovzhenko Film Studio in 1963. He could become utterly different people: the icon painter Daniil Chorny in Andrei Rublev, the Professor in Stalker, Anton Chekhov, a colonel in [Leonid Bykov](/en/people/leonid-bykov/)’s film. And for children he was Papa Carlo, who carves Buratino out of a log. People still love these films, from the fairy tale about a wooden boy to Stalker, so each new generation of viewers discovers the actor from Kherson. In 2020 Ukraine marked the 100th anniversary of his birth as a national commemorative date.

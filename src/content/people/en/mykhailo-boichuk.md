@@ -36,4 +36,4 @@ On 25 November 1936 Boichuk was arrested. He was accused of “Ukrainian bourgeo
 
 ## Why it matters today
 
-What survived is being seen again: in 1991 the exhibition Boichuk and the Boichukists, Boichukism was shown in Lviv, Kyiv and Ternopil. Since 2000 a Kyiv school of decorative and applied art and design has carried Mykhailo Boichuk’s name.
+Mykhailo Boichuk showed that new art can grow from its own roots: medieval Kyivan frescoes, icons and folk painting. These ideas caught the attention of critics in Paris, among them Guillaume Apollinaire, and his search ran close to that of the Mexican muralist Diego Rivera. At home he rescued old icons, helped found the Ukrainian Academy of Arts and raised a whole school, the Boichukists, who painted walls with him in Kyiv, Odesa and Kharkiv. Most of that work was destroyed, but what survived is being seen again. And his idea still holds: you don’t have to give up what is yours to make something modern.

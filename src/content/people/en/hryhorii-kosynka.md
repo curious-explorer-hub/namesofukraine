@@ -39,4 +39,4 @@ On 4 November 1934, after a critical speech at the Writers’ House, Kosynka was
 
 ## Why it matters today
 
-Since 1962 Kosynka’s books have come out in Kyiv again, and his work has been translated into Russian, Belarusian, German, Italian, Polish, Bulgarian, Hungarian and other languages. His wife, Tamara Moroz-Strilets, collected and published memoirs about him. In 1979 a monument to him was put up in his home village of Shcherbanivka.
+Hryhorii Kosynka learned to read from his grandfather and worked at a sugar mill as a boy, yet became one of the best short-story writers of the 1920s. He had once been amazed that people wrote “simply, the way peasants talk”, and that is how he wrote about the Ukrainian village in years of revolution and war: how it lived, thought and changed. His stories are full of experiment, and he translated [Gogol](/en/people/mykola-hohol/)’s Dead Souls into Ukrainian. The regime banned his stories, but since 1962 his books have come out again, and his work has been translated into many languages. Anyone who wants to understand that village can open Kosynka.

@@ -32,4 +32,4 @@ In May 1933 Yalovyi was arrested. Among other things, he was accused of being a 
 
 ## Why it matters today
 
-Yalovyi’s arrest was one of the first blows against the generation later called the Executed Renaissance. A volume of his selected works came out in 2007, and in 2025 the National Bank issued a commemorative coin bearing his pen name, Yulian Shpol.
+Mykhailo Yalovyi was one of the people creating a new Ukrainian literature in 1920s Kharkiv: co-founder of a futurist group, poet, playwright and novelist. He became the first president of VAPLITE, and in the Literary Discussion he stood beside his friend [Mykola Khvylovy](/en/people/mykola-khvylovyi/) as one of its sharpest polemicists. In 1927 he took part in the conference that adopted a single standard Ukrainian spelling, so his work is part of the rules later generations wrote by. His arrest in 1933 was one of the first blows against the generation later called the Executed Renaissance. And in 2025 his pen name, Yulian Shpol, appeared on a commemorative coin.

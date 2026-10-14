@@ -44,6 +44,8 @@ Once Grand Prince of Kyiv, Monomakh turned to the causes of the uprising. His St
 
 Late in life Monomakh wrote the Instruction for My Children: he told the story of his life and campaigns, condemned the princes’ feuds and called for unity. The chronicle also preserves his letter to Oleh Sviatoslavych, written after Monomakh’s son was killed in a war with Oleh.
 
+Monomakh died in Kyiv on 19 May 1125 and was buried in St Sophia’s Cathedral.
+
 ## Why it matters today
 
-Monomakh died in Kyiv on 19 May 1125 and was buried in St Sophia’s Cathedral. The Kyivan, Smolensk and Suzdal branches of the Rurikid dynasty descend from him. And the Instruction is still read as the voice of the prince himself: a brave warrior and a judicious ruler who told his descendants not to fight one another.
+Monomakh showed that a ruler’s strength is not only in campaigns. He yielded Kyiv to the senior in the family and Chernihiv to a cousin rather than start a feud, and called the princes to congresses to stand together against the Cumans. As Grand Prince of Kyiv he tackled the causes of the uprising: his Statute capped interest on loans and stopped debtors being made bondsmen. In the Instruction for My Children he left advice still worth hearing: “do not forget the poor… and do not let the strong destroy a person.” It is the voice of a prince who cared for peace among his own and for the weak.

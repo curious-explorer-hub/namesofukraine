@@ -36,4 +36,4 @@ On 29 April 1934 Slisarenko was arrested. In 1935 a military tribunal sentenced 
 
 ## Why it matters today
 
-Slisarenko’s novels show the revolution through the eyes of ordinary people, and they are read again. Rebellion and The Black Angel were reissued in 1965 and 1990, and in 2011 the Smoloskyp publishing house brought out his selected works, compiled by Vira Aheieva.
+Oleksa Slisarenko went from agronomist and army officer to Symbolist poet, and then began writing fast-paced crime and adventure novels in Ukrainian, in the English and American style. Their heroes aren’t supermen but ordinary people swept up in the revolution, which is why these books are read again. He refused to let Ukrainian literature stay provincial, and he sharply rebuked even Maxim Gorky, who would not allow Mother to come out in Ukrainian. He was shot at Sandarmokh, but in 2011 Smoloskyp brought his selected works back to readers. Anyone who picks up a Ukrainian detective novel today can remember that such books were being written back in the 1920s.
