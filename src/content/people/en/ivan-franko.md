@@ -31,6 +31,6 @@ He didn’t only write. In 1890 Franko co-founded the first Ukrainian political 
 
 In 1915 the process of nominating Franko for the Nobel Prize in Literature began. But he died in Lviv in 1916, and the prize is not awarded posthumously.
 
-## Why his name is everywhere
+## Why it matters today
 
-Franko brought literature, scholarship and public life together and became one of the most influential Ukrainian intellectuals of his time. That is why Lviv National University, where he once studied, bears his name.
+Franko brought literature, scholarship and public life together and became one of the most influential Ukrainian intellectuals of his time. He left thousands of works, from “The Stonebreakers” and Zakhar Berkut, a novel about a community standing up for its freedom, to Moses, a reflection on a people, a leader and the road to freedom. He translated from 14 languages, studied folklore and literary history, and co-founded the first Ukrainian political party. And in 1900, in “Beyond the Limits of the Possible”, he was one of the first to argue for a politically independent Ukraine. “Only to struggle is to live” still reads as advice not to give up.

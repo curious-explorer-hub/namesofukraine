@@ -28,6 +28,8 @@ That is how Anna signed her name: a garbled form of the Latin Anna Regina, “Qu
 
 After Henry died in 1060, Anna became the de facto, but not official, wife of Count Raoul of Valois, one of the most powerful lords of northern France. Historians suggest the union protected the queen and her young sons. Between 1065 and 1069 Anna founded (or restored) the Monastery of Saint Vincent in Senlis. She died between 1075 and 1079.
 
-## Why two countries remember her
+The popular story linking Anna to the Reims Gospel, though, is a myth, historians say.
 
-Anna’s story shows that Kyivan Rus’ was part of the political life of medieval Europe. That is why she stands today as a symbol of Ukraine’s old ties with Europe. Several monuments to her stand in France and Ukraine; the first went up in Senlis in 2005. The popular story linking Anna to the Reims Gospel, though, is a myth, historians say.
+## Why it matters today
+
+Anna’s story shows that Kyivan Rus’ was part of the political life of medieval Europe. A daughter of the Prince of Kyiv became Queen of France and had a say in affairs of state: twenty-eight documents issued in her name or with her participation show that she regularly sat in on the royal council. She raised a son who became King Philip I, and she founded (or restored) the Monastery of Saint Vincent in Senlis. That is why she stands today as a symbol of Ukraine’s old ties with Europe, and her first monument went up in 2005 in Senlis itself.

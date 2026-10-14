@@ -34,4 +34,4 @@ For Ukraine, she paid out of her own pocket to record two albums of Ukrainian so
 
 ## Why it matters today
 
-Kvitka Cisyk introduced many listeners to Ukrainian song, and her albums are still heard in Ukraine. Streets in Lviv and other cities bear her name, and Lviv has a memorial museum dedicated to her.
+Kvitka Cisyk could have remained just a voice from American commercials: from the early 1980s she was one of the most popular jingle singers in the United States. But this New Yorker, the daughter of a family from Lviv, never let go of what Saturday school of Ukrainian studies and Plast camps had given her. She paid for two albums of Ukrainian songs herself, Kvitka: Songs of Ukraine and Two Colors, and brought many listeners to Ukrainian song; the albums are still heard in Ukraine. She wanted to weave “joyful notes” into the fabric of her people’s life, and she showed that a culture can be cherished far from home.

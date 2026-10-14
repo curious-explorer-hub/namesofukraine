@@ -32,4 +32,4 @@ From 1859 to 1867 Marko Vovchok lived abroad, longest of all in Paris. Back in R
 
 ## Why it matters today
 
-Marko Vovchok was one of the first to show serfdom through a woman’s eyes, and she wrote for children too. Her story shows how someone who grew up outside the Ukrainian-speaking world could consciously choose Ukrainian as the language of her work.
+Marko Vovchok was one of the first to show serfdom through a woman’s eyes: her Folk Stories, told in the voices of peasant serf women, were at once a landmark in Ukrainian literature, and [Shevchenko](/en/people/taras-shevchenko/) called her his “daughter”. She opened new genres in Ukrainian literature, including prose for children, and her translations of Jules Verne and Darwin opened world literature and science to readers. Her story shows how someone who grew up outside the Ukrainian-speaking world could consciously choose Ukrainian as the language of her work. She proved that the voices of people long unheard can become great literature.

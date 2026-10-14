@@ -31,6 +31,6 @@ On 21 September 2022 she was freed in a large exchange together with other defen
 
 Mariana knows how hard it is for women to return to ordinary life after captivity. In 2024 she founded a charity that helps women who survived Russian captivity get back on their feet. Before that she had started putting together “baby boxes” of clothes, food and hygiene products for newborns in soldiers’ families.
 
-## Why it matters
+## Why it matters today
 
-Mariana’s story showed the world that Russia holds medics, women and even mothers-to-be as prisoners. Today she helps others who have been through the same thing. In 2025 the Kulczyk Foundation gave her its Portraits of Sisterhood award for her work with women after captivity and with soldiers’ mothers and wives.
+Mariana’s story showed the world that Russia holds medics, women and even mothers-to-be as prisoners. In besieged Mariupol, after learning she was pregnant, she stayed with her battalion and kept treating the wounded. She turned what she had been through into help for others: the charity she founded in 2024 helps women who survived Russian captivity get back on their feet, and her “baby boxes” go to newborns in soldiers’ families. Her path shows that an ordeal survived can become support for those who come after.

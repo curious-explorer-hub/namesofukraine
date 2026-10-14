@@ -35,4 +35,4 @@ On 13 November 2023, his 80th birthday, Dzhemilev was made a Hero of Ukraine, am
 
 ## Why it matters today
 
-For many Crimean Tatars and Ukrainians, Dzhemilev is a symbol of resistance to deportation and occupation. His story is a reminder that Crimea is the home of the Crimean Tatars, who have been driven out of it more than once.
+For many Crimean Tatars and Ukrainians, Dzhemilev is a symbol of resistance to deportation and occupation. From 1961 he fought for his people’s right to return to Crimea, spent 15 years in captivity for it and did not back down. He co-founded the Union of Crimean Tatar Youth, led the Mejlis for 22 years, and defended Crimean Tatar rights in parliament and as the President’s Commissioner. His life shows that a people’s rights can be defended for decades, even behind bars: “freedom cannot be traded for any material goods.” It is also a reminder that Crimea is home to the Crimean Tatars, driven out of it more than once.

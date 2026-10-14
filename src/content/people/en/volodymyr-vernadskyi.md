@@ -37,4 +37,4 @@ Vernadskyi’s views on the Ukrainian question were moderate: he was a liberal, 
 
 ## Why it matters today
 
-Vernadskyi’s ideas influenced modern ecological thinking. The National Library of Ukraine, which he helped found, bears his name, and since 2019 his portrait has been on the 1,000-hryvnia banknote.
+Vernadskyi was one of the first to see that life is a geological force that changes a whole planet. He stood at the start of new sciences, geochemistry and biogeochemistry, and his theory of the biosphere and the noosphere influenced modern ecological thinking. He did as much for Ukraine: in 1918 he led the creation of the Ukrainian Academy of Sciences, became its first president and helped found the National Library of Ukraine, which now bears his name. His idea of the noosphere, in which human reason becomes the main force changing the planet, is summed up in his own words about the future: “It is in our hands.”
