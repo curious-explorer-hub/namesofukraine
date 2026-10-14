@@ -26,6 +26,6 @@ That same year he was badly wounded in Pisky in the Donetsk region. After rehabi
 
 After the full-scale invasion began, his company grew into the 1st Separate Battalion “Da Vinci Wolves”. On 7 March 2023 Dmytro Kotsiubailo was killed in battle near Bakhmut. He was 27.
 
-## How he is remembered
+## Why it matters today
 
-Thousands of people came to Maidan Nezalezhnosti to say goodbye to him. He was buried at Askold’s Grave in Kyiv, where a monument to him was unveiled in 2024. Streets in many Ukrainian cities bear his name, and so does the school in Bovshiv where he once studied.
+Dmytro Kotsiubailo went from an 18-year-old volunteer to a battalion commander. After a bad wound he didn’t leave the front: he came back and led his fighters for years, and when the full-scale war began his “Da Vinci Wolves” company grew into a separate battalion. He became the first volunteer made a Hero of Ukraine in his lifetime, and showed how much one person who chose to fight could give the army. He put the heart of it himself: “A fighter isn’t just muscles and a rifle. What matters is what’s inside you, what you’re fighting for.” Thousands came to Maidan Nezalezhnosti to say goodbye to him.

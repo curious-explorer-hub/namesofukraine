@@ -28,6 +28,6 @@ On 24 February 2022, the day Russia launched its full-scale invasion, Sergeant D
 
 Inna Derusova was killed by artillery fire in Okhtyrka on 26 February 2022 while giving first aid to the wounded. She was 51.
 
-## How she is remembered
+## Why it matters today
 
-On 12 March 2022 Inna Derusova was posthumously made a Hero of Ukraine, the country’s highest title. President Volodymyr Zelensky called her the first woman to receive it posthumously. She was buried in her native Kryvyi Rih, which named her an honorary citizen. Streets in Kryvyi Rih and Mukachevo bear her name, and a memorial plaque hangs on her old school.
+Inna Derusova saved people with more than her own hands. In the Donbas she did the work of three, and she could turn medics fresh from civilian life into real combat medics in two weeks, so her skill lived on in everyone she trained. On the first day of the full-scale war, on her way back to her unit, she found many wounded in Okhtyrka and stayed with them. In two days she saved more than ten soldiers. She was made a Hero of Ukraine posthumously, and the President called her the first woman to receive the title that way.

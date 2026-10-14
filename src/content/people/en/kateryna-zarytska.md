@@ -36,6 +36,6 @@ On 21 September 1947 she was arrested in Khodoriv. The next year a court gave he
 
 Zarytska’s path is part of the history of the OUN and the UPA, which is still judged in very different ways. In the 1930s the OUN used political assassinations, and the Polish court convicted Zarytska precisely for her part in such cases: helping a militant after Pieracki’s murder and watching people the organization planned to kill. When she was arrested in 1947 she fired back and wounded an officer of the MGB, the Soviet secret police. Decades later, Soviet propaganda was still describing her articles as “full of zoological hatred for everything Soviet”.
 
-## Why she is remembered
+## Why it matters today
 
-Lviv has a Zarytskykh Street, named after Kateryna and her father, and streets in Kolomyia and Volochysk bear her name. In 1991 she was reburied beside her husband in Lviv’s Lychakiv Cemetery. A Plast scout unit in Lviv is named after her.
+Zarytska tied her life to the underground while still at school and paid for that choice with about 30 years behind bars. During the war she ran the underground Ukrainian Red Cross in four Galician regions, setting up hospitals for wounded OUN members and UPA fighters and finding doctors and medicine for them. She served her 25-year sentence to the last day, and even in Vladimir Central prisoners of many nations, Ukrainians and Lithuanians, Jews and Russians, silently greeted her. Hers is the story of someone who kept the respect of others even behind bars. A Plast scout unit in Lviv carries her name.

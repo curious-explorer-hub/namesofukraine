@@ -35,4 +35,4 @@ In 1939 Sikorsky flew the VS-300, a helicopter with a single main rotor and a ta
 
 ## Why it matters today
 
-Sikorsky kept going even when he had to start all over again in a foreign country. The Kyiv Polytechnic Institute, where he once studied, and Kyiv’s Zhuliany airport both bear his name.
+Kyiv-born Igor Sikorsky gave the world its first multi-engine heavy aircraft, and later the first mass-produced helicopter, the R-4. Most helicopters are still built the way he built the VS-300, with one main rotor and a tail rotor. He explained why it mattered: an airplane can throw flowers on someone in need, but a helicopter can come and save their life. He did all this after starting from scratch in America as a schoolteacher, proof that starting over in a foreign country need not end a dream. The Kyiv Polytechnic Institute, where as a student he began his first helicopter, bears his name.
