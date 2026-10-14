@@ -37,6 +37,6 @@ When the defenders of Azovstal laid down their arms, Mykhailo was taken prisoner
 
 After his release, people rushed to send Mykhailo money for treatment: more than 6.5 million hryvnias on the first day alone. When others offered to pay for his treatment, he decided to give all 23.4 million hryvnias in donations to treat wounded fellow soldiers, and promised to report on every payment.
 
-## Why it matters
+## Why it matters today
 
-Mykhailo Dianov’s photos became evidence to the world of what Russia does to prisoners of war. And his choice to give the donations away showed that for a soldier, what matters most is the comrades who still need help.
+Mykhailo Dianov went to defend Ukraine as a volunteer back in 2015, and in Mariupol, with a badly wounded arm, he stayed with his comrades at Azovstal. His photos from before and after captivity became evidence to the world of what Russia does to prisoners of war. Once home, he gave all 23.4 million hryvnias raised for his treatment to treat wounded fellow soldiers, and promised to report on every payment. “My main goal is fewer amputations and more veterans with healthy limbs,” he said. His choice showed that for a soldier, what matters most is the comrades who still need help, and that people’s trust can be passed on.

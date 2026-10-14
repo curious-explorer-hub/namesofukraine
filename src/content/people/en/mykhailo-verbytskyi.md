@@ -32,4 +32,4 @@ Verbytskyi wrote music for plays, including The Soldier-Sorcerer after [Ivan Kot
 
 ## Why it matters today
 
-On 15 January 1992 Verbytskyi’s melody became the music of Ukraine’s state anthem. A chapel now stands over his grave in Mlyny, and Ukrainians who visit it traditionally sing the anthem there.
+A song a village priest wrote for the guitar became the music of Ukraine’s state anthem. In the spring of 1863, in Mlyny, Mykhailo Verbytskyi set [Pavlo Chubynskyi](/en/people/pavlo-chubynskyi/)’s poem Shche ne vmerla Ukraina to music, first for voice and guitar, later for choir and orchestra, and on 15 January 1992 that melody became the anthem of an independent state. He wrote for the stage and for the church, set [Taras Shevchenko](/en/people/taras-shevchenko/)’s Zapovit for choir and composed Galicia’s anthem too, so he wrote the tunes of two anthems. Every time Ukrainians sing their anthem, it is his music they hear, and at his grave in Mlyny they traditionally sing it.

@@ -36,6 +36,6 @@ On 21 July 2026 President Volodymyr Zelenskyy appointed Mykhailo Drapatyi Comman
 
 Soon after the appointment, Ukrainian and Russian media circulated an excerpt from a 2023 interview in which Drapatyi had called some Donbas residents “envious, lazy migrants and criminals” and criticized the lack of Ukrainianization of the region since 1991. Russian propaganda used the remarks to brand the new commander-in-chief as hostile to Donbas Ukrainians; Ukrainian outlets covered it as an old, controversial comment unrelated to his combat record or decisions in office.
 
-## Why it matters
+## Why it matters today
 
-Drapatyi is cited as part of a new generation of Ukrainian generals shaped by combat since 2014 rather than Soviet-era training. His path from battalion commander to Commander-in-Chief shows how the war has reshaped the leadership of Ukraine's armed forces.
+Drapatyi is cited as part of a new generation of Ukrainian generals shaped by combat since 2014 rather than Soviet-era training. In 2014 he led his battalion out of an encirclement, saving more than 30 pieces of equipment, and in 2022 he took command of the grouping that liberated the right bank of the Kherson region. When a missile strike on a training ground killed 12 soldiers in 2025, he publicly took responsibility as commander and resigned. He has called wartime service “absolute responsibility”. His path from battalion commander to Commander-in-Chief shows how the war has reshaped the leadership of Ukraine’s armed forces.

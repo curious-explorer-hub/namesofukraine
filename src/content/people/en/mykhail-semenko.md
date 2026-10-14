@@ -35,4 +35,4 @@ On 26 April 1937 Semenko was arrested at the Continental hotel in Kyiv. He was c
 
 ## Why it matters today
 
-Semenko called for throwing out the old traditions, yet he shaped modern Ukrainian poetry himself: the city and bold play with form and language became part of it. In 1985, almost half a century after his execution, a collection of his Poems came out, and the rowdy Futurist is read again.
+Semenko called for throwing out old traditions, yet he shaped modern Ukrainian poetry himself: the city and play with form and language became part of it. At 21 he dared to challenge the whole literary tradition, then gathered rebellious artists around him again and again, from Fliamingo to Nova Generatsiia. Writing about the city and the new age in the spirit of Marinetti, he showed that Ukrainian poetry could speak the language of its own time. He was shot in 1937, but his Poems came out in 1985, and the rowdy Futurist is read again. Anyone looking for new forms for Ukrainian today walks a road he helped lay.

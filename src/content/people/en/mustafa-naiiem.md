@@ -39,6 +39,6 @@ A government source gave a different account: the prime minister had not approve
 
 It is noted that during his years in parliament Nayyem missed about a third of the sittings.
 
-## Why it matters
+## Why it matters today
 
-Nayyem’s story shows how one journalist’s call can bring people out onto a square: the rally of 21 November 2013 grew into the Euromaidan, and the Euromaidan into the Revolution of Dignity.
+Nayyem’s story shows how one journalist’s call can bring people out onto a square: the rally of 21 November 2013 grew into the Euromaidan, and the Euromaidan into the Revolution of Dignity. That same year he was one of the initiators of Hromadske TV, which went on air in the first days of the protest. Later Nayyem moved from journalism into public service: he helped oversee the launch of the new patrol police, and during the full-scale war he was in charge of roads, border infrastructure and rebuilding. The boy who moved to Ukraine from Kabul at ten showed that one voice can start great change.

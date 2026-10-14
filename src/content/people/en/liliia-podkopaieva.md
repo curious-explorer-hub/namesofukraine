@@ -38,6 +38,6 @@ In the summer of 1996, at the Atlanta Olympics, 17-year-old Podkopayeva won the 
 
 Podkopayeva didn’t plan to stop, but injuries kept her out for two seasons, and in 1998 she retired. She stayed in gymnastics as a judge and coach and set up her own tournament in Kyiv. She also became a UN Goodwill Ambassador on HIV/AIDS in Ukraine.
 
-## Why it matters
+## Why it matters today
 
-Podkopayeva was one of the first world stars of independent Ukraine’s sport. In 2008 she was inducted into the International Gymnastics Hall of Fame, and her name is still in the rules used to judge gymnasts all over the world.
+Lilia Podkopayeva was one of the first world stars of independent Ukraine’s sport. Months before Atlanta she was badly hurt, yet she came back and, at 17, won the all-around, the biggest title in women’s gymnastics. The hard skills she was first to perform carry her name in the international rules used to judge gymnasts all over the world. After retiring she stayed in the sport as a judge and coach and set up her own tournament in Kyiv. Thirty years after Atlanta she said: “This victory was never mine alone. It has always belonged, and always will belong, to Ukraine.”

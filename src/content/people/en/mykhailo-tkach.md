@@ -32,4 +32,4 @@ In August 2022 Tkach was awarded the Order For Merit, 3rd class. Three times in 
 
 ## Why it matters today
 
-Investigative journalism is one of the ways a society keeps watch over those in power. Tkach’s work shows that even in wartime, questions to officials still matter.
+Investigative journalism is one way a society keeps watch over those in power. Mykhailo Tkach started as a student at a local channel in Dnipro; on Schemes he put out dozens of investigations into the country’s most senior officials. During the full-scale war he looked into trade routes with Russia and officials who went on holiday abroad while travel was restricted. His work shows that even in wartime, questions to officials still matter. He received the [Georgiy Gongadze](/en/people/heorhii-honhadze/) Prize in 2026 not for a single story but for his career and loyalty to the values of journalism. Anyone who asks the powerful awkward questions helps keep a country honest.

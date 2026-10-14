@@ -35,6 +35,8 @@ In 1859 Kostomarov became professor of Russian history at Saint Petersburg Unive
 
 Kostomarov and Shevchenko had been friends since the days of the brotherhood. In 1867, after the poet’s death, a Kobzar came out that Kostomarov had compiled and edited and for which he wrote the preface. It was the first posthumous edition of Shevchenko’s works.
 
+Kostomarov died in Saint Petersburg in 1885.
+
 ## Why it matters today
 
-Kostomarov died in Saint Petersburg in 1885. His ideas about democracy and federation shaped not only historical scholarship but also the Ukrainian national movement. [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) and [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) wrote about him, and Hrushevskyi called some of his essays “canonical”. Kostomarov’s books still help readers see in Ukraine’s history not only hetmans but ordinary people too.
+Born a serf, Kostomarov became a professor and spent his life arguing that Ukrainians are a people with a history of their own. For writing the programme of the Cyril and Methodius Brotherhood he spent a year in the Peter and Paul Fortress, and later he tracked down documents in 65 archives and libraries to write about Khmelnytskyi, the Ruin and Mazepa. His ideas about democracy and federation shaped not only historical scholarship but also the Ukrainian national movement, and [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) called some of his essays “canonical”. Kostomarov’s books still help readers see in Ukraine’s history not only hetmans but ordinary people too.

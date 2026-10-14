@@ -28,4 +28,4 @@ Until June 2026 Kostyuk had never reached a Grand Slam semifinal; that summer sh
 
 ## Why it matters today
 
-Kostyuk’s story shows that junior success can grow into a senior career: the 15-year-old qualifier became one of the strongest players in the world. She ended her victory speech in Madrid with the words “glory to God and glory to Ukraine.”
+Marta Kostyuk’s story shows that junior success can grow into a senior career. At 15, ranked No. 521, she came through qualifying at the Australian Open and won matches in the main draw. Eight years later she won the WTA 1000 title in Madrid, then reached two Grand Slam semifinals in a row that summer, equalling the best result by a Ukrainian woman at Wimbledon. After the Madrid final against a Russian player there was no handshake, and Kostyuk ended her speech with “glory to God and glory to Ukraine.” Anyone starting out in qualifying can see in her path how far you can go if you keep going.
