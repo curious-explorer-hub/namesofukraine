@@ -40,4 +40,4 @@ On 18 August 1937 Yohansen was arrested in Kharkiv, in the writers’ apartment 
 
 ## Why it matters today
 
-Yohansen wrote experimental prose with humor, made ordinary things look marvelous and loved literary hoaxes. The literary scholar Yurii Lavrinenko called him a “jeweler of words”. His selected poems came out in 1989 and his selected prose in 2001, and he is read again.
+Maik Yohansen showed that Ukrainian literature could be adventurous, experimental and funny. His adventure novel came out in 100,000 copies, and in Doctor Leonardo’s Travels he made the landscape the main character. He co-wrote the script of Zvenyhora for [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/) and a revue for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater, helped compile a dictionary and worked on the 1928 orthography. Rather than write to order, he turned to children’s books. He could make ordinary things look marvelous, and the scholar Yurii Lavrinenko called him a “jeweler of words”. Anyone looking for play and surprise in the Ukrainian language will find them in his books.

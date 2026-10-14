@@ -35,4 +35,4 @@ Back from Italy in 1779, Bortnianskyi became kapellmeister at the court of the h
 
 ## Why it matters today
 
-In 1882 Pyotr Tchaikovsky edited a ten-volume edition of Bortnianskyi's works. His choral music helped spread choral art in Ukraine and, in the early 19th century, shaped choral singing in western Ukraine. And Creonte, once applauded in Venice, is back on Ukrainian stages.
+A boy from the Hlukhiv singing school had a hit in Venice with his opera Creonte at 25, and later raised the court choir to a high standard. In more than a hundred choral works Bortnianskyi joined the old traditions of Ukrainian choral singing with the European music of his day, drawing widely on Ukrainian folk melodies. That music helped spread choral art in Ukraine and shaped choral singing in western Ukraine. And Creonte, in which the people rise against a tyrant and whose manuscript turned up as far away as Lisbon, is back on Ukrainian stages, a reminder that Ukrainian music was heard on Europe’s stages long ago.

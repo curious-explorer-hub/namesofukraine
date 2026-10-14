@@ -33,6 +33,8 @@ On 11 April 1945 the Soviet secret police (NKVD) arrested Slipyi in Lviv. He was
 
 In Rome Slipyi founded the Ukrainian Catholic University of St Clement (1963) and built St Sophia Cathedral (1969). In 1965 he became a cardinal. He wanted his Church to have its own patriarch, but the Vatican did not support the idea; in 1975 Slipyi took the title of patriarch anyway. In 1977 he secretly, and without the Pope’s consent, consecrated [Liubomyr Huzar](/en/people/liubomyr-huzar/) a bishop, fearing that Soviet repression would leave the Church without bishops.
 
+Slipyi died in Rome on 7 September 1984.
+
 ## Why it matters today
 
-Slipyi died in Rome on 7 September 1984. In 1992, as he had wished, he was reburied in Lviv, in the crypt of St George’s Cathedral. Several documentary films have been made about his life, among them Prisoner for the Sake of Christ (1985).
+Yosyf Slipyi spent more than 18 years in Soviet prisons, camps and exile, yet never gave up his Church: under interrogation he refused to renounce the Pope, even in exchange for the Kyiv metropolitan see. Sent to Rome, he kept building: he founded the Ukrainian Catholic University of St Clement and raised St Sophia Cathedral, modelled on St Sophia in Kyiv. Fearing that Soviet repression would leave the Church without bishops, he secretly consecrated [Liubomyr Huzar](/en/people/liubomyr-huzar/). He showed that faith and a Church can survive captivity and exile. In 1992, as he had wished, he was reburied in Lviv, in the crypt of St George’s Cathedral.

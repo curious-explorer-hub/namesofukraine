@@ -32,4 +32,4 @@ Gudziak was consecrated a bishop in 2012. From 2013 to 2019 he led the Paris epa
 
 ## Why it matters today
 
-The Ukrainian Catholic University, which grew out of the academy of Sheptytskyi and Slipyi, is one of Gudziak’s main achievements. He is an honorary citizen of Lviv, and as of October 2026 he leads the UGCC’s Archeparchy of Philadelphia.
+Born in the US to immigrants from Ukraine, Borys Gudziak moved to Lviv in 1992, the same year he earned his Harvard doctorate. He led the revival of the Theological Academy that [Andrei Sheptytskyi](/en/people/andrei-sheptytskyi/) had founded and the Soviet authorities had closed. It grew into the Ukrainian Catholic University, carrying the work of Sheptytskyi and [Yosyf Slipyi](/en/people/yosyf-slipyi/) into independent Ukraine. The Image of Strength project he led saved the memories of people who kept their faith in the underground Church under Soviet rule. His path shows that the diaspora can do more than remember Ukraine from afar: it can come back and help build it.

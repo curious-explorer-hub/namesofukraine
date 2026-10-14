@@ -748,7 +748,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 20: status: for review
+## Batch 20: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -793,7 +793,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 21: status: for review
+## Batch 21: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -838,7 +838,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 22: status: for review
+## Batch 22: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -875,7 +875,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 23: status: for review
+## Batch 23: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -1098,26 +1098,26 @@ Batch numbers are the review order. "Remembrance only": the ending is memorial f
 | 19 ✅ | [Мирослав Попович](../src/content/people/uk/myroslav-popovych.md) |  | draft | science | remembrance only | applied |
 | 19 ✅ | [Олекса Слісаренко](../src/content/people/uk/oleksa-slisarenko.md) |  | draft | literature | remembrance only | applied |
 | 19 ✅ | [Олександр Богомолець](../src/content/people/uk/oleksandr-bohomolets.md) |  | draft | science | remembrance only | applied |
-| 20 | [Олександр Оксанченко](../src/content/people/uk/oleksandr-oksanchenko.md) |  | draft | defenders | remembrance only | drafted |
-| 20 | [Сергій Кульчицький](../src/content/people/uk/serhii-kulchytskyi.md) |  | draft | defenders | remembrance only | drafted |
-| 20 | [Софія Налепинська-Бойчук](../src/content/people/uk/sofiia-nalepynska-boichuk.md) |  | draft | visual-arts | remembrance only | drafted |
-| 20 | [Тігран Оганнісян](../src/content/people/uk/tihran-ohannisian.md) |  | draft | civic | remembrance only | drafted |
-| 20 | [Валер'ян Поліщук](../src/content/people/uk/valerian-polishchuk.md) |  | draft | literature | remembrance only | drafted |
-| 21 | [Василь Сліпак](../src/content/people/uk/vasyl-slipak.md) |  | draft | defenders | remembrance only | drafted |
-| 21 | [Євген Патон](../src/content/people/uk/yevhen-paton.md) |  | draft | science | remembrance only | drafted |
-| 21 | [Євген Плужник](../src/content/people/uk/yevhen-pluzhnyk.md) |  | draft | literature | remembrance only | drafted |
-| 21 | [Йосиф Сліпий](../src/content/people/uk/yosyf-slipyi.md) |  | draft | faith | remembrance only | drafted |
-| 21 | [Андрій Ніковський](../src/content/people/uk/andrii-nikovskyi.md) |  | draft | literature | weak | drafted |
-| 22 | [Антон Головатий](../src/content/people/uk/anton-holovatyi.md) |  | draft | statehood | weak | drafted |
-| 22 | [Борис Ґудзяк](../src/content/people/uk/borys-gudziak.md) |  | draft | faith | weak | drafted |
-| 22 | [Дмитро Бортнянський](../src/content/people/uk/dmytro-bortnianskyi.md) |  | draft | performing-arts | weak | drafted |
-| 22 | [Гальшка Острозька](../src/content/people/uk/halshka-ostrozka.md) |  | draft | civic | weak | drafted |
-| 22 | [Георгій Нарбут](../src/content/people/uk/heorhii-narbut.md) |  | draft | visual-arts | weak | drafted |
-| 23 | [Гнат Хоткевич](../src/content/people/uk/hnat-khotkevych.md) |  | draft | literature | weak | drafted |
-| 23 | [Іван Огієнко (митрополит Іларіон)](../src/content/people/uk/ivan-ohiienko.md) |  | draft | faith | weak | drafted |
-| 23 | [Людмила Старицька-Черняхівська](../src/content/people/uk/liudmyla-starytska-cherniakhivska.md) |  | draft | literature | weak | drafted |
-| 23 | [Майк Йогансен](../src/content/people/uk/maik-yohansen.md) |  | draft | literature | weak | drafted |
-| 23 | [Максим Березовський](../src/content/people/uk/maksym-berezovskyi.md) |  | draft | performing-arts | weak | drafted |
+| 20 ✅ | [Олександр Оксанченко](../src/content/people/uk/oleksandr-oksanchenko.md) |  | draft | defenders | remembrance only | applied |
+| 20 ✅ | [Сергій Кульчицький](../src/content/people/uk/serhii-kulchytskyi.md) |  | draft | defenders | remembrance only | applied |
+| 20 ✅ | [Софія Налепинська-Бойчук](../src/content/people/uk/sofiia-nalepynska-boichuk.md) |  | draft | visual-arts | remembrance only | applied |
+| 20 ✅ | [Тігран Оганнісян](../src/content/people/uk/tihran-ohannisian.md) |  | draft | civic | remembrance only | applied |
+| 20 ✅ | [Валер'ян Поліщук](../src/content/people/uk/valerian-polishchuk.md) |  | draft | literature | remembrance only | applied |
+| 21 ✅ | [Василь Сліпак](../src/content/people/uk/vasyl-slipak.md) |  | draft | defenders | remembrance only | applied |
+| 21 ✅ | [Євген Патон](../src/content/people/uk/yevhen-paton.md) |  | draft | science | remembrance only | applied |
+| 21 ✅ | [Євген Плужник](../src/content/people/uk/yevhen-pluzhnyk.md) |  | draft | literature | remembrance only | applied |
+| 21 ✅ | [Йосиф Сліпий](../src/content/people/uk/yosyf-slipyi.md) |  | draft | faith | remembrance only | applied |
+| 21 ✅ | [Андрій Ніковський](../src/content/people/uk/andrii-nikovskyi.md) |  | draft | literature | weak | applied |
+| 22 ✅ | [Антон Головатий](../src/content/people/uk/anton-holovatyi.md) |  | draft | statehood | weak | applied |
+| 22 ✅ | [Борис Ґудзяк](../src/content/people/uk/borys-gudziak.md) |  | draft | faith | weak | applied |
+| 22 ✅ | [Дмитро Бортнянський](../src/content/people/uk/dmytro-bortnianskyi.md) |  | draft | performing-arts | weak | applied |
+| 22 ✅ | [Гальшка Острозька](../src/content/people/uk/halshka-ostrozka.md) |  | draft | civic | weak | applied |
+| 22 ✅ | [Георгій Нарбут](../src/content/people/uk/heorhii-narbut.md) |  | draft | visual-arts | weak | applied |
+| 23 ✅ | [Гнат Хоткевич](../src/content/people/uk/hnat-khotkevych.md) |  | draft | literature | weak | applied |
+| 23 ✅ | [Іван Огієнко (митрополит Іларіон)](../src/content/people/uk/ivan-ohiienko.md) |  | draft | faith | weak | applied |
+| 23 ✅ | [Людмила Старицька-Черняхівська](../src/content/people/uk/liudmyla-starytska-cherniakhivska.md) |  | draft | literature | weak | applied |
+| 23 ✅ | [Майк Йогансен](../src/content/people/uk/maik-yohansen.md) |  | draft | literature | weak | applied |
+| 23 ✅ | [Максим Березовський](../src/content/people/uk/maksym-berezovskyi.md) |  | draft | performing-arts | weak | applied |
 | 24 | [Михайло Омелянович-Павленко](../src/content/people/uk/mykhailo-omelianovych-pavlenko.md) |  | draft | statehood | weak | drafted |
 | 24 | [Мирослав Ірчан](../src/content/people/uk/myroslav-irchan.md) |  | draft | literature | weak | drafted |
 | 24 | [Нікола Терещенко](../src/content/people/uk/nikola-tereshchenko.md) |  | draft | civic | weak | drafted |

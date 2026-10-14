@@ -45,4 +45,4 @@ Holovatyi is judged in different ways. For many Ukrainian writers he is the man 
 
 ## Why it matters today
 
-Holovatyi’s story explains where the Ukrainian Cossack villages of the Kuban came from. In 2019 a presidential decree named the 73rd Naval Special Purpose Centre of Ukraine’s Special Operations Forces after Kish otaman Antin Holovatyi.
+When the Sich was gone, Holovatyi helped gather former Zaporozhians into a new Host, and in 1792 he won it land in the Kuban and directed the move there himself. His story explains where the Ukrainian Cossack villages of the Kuban came from. His verses, which carry the mood of the Zaporozhians after the Sich was destroyed, became songs: people copied them by hand, and they were printed again and again in songbooks of the late 18th and 19th centuries. [Taras Shevchenko](/en/people/taras-shevchenko/) wrote about him too. In 2019 the 73rd Naval Special Purpose Centre of Ukraine’s Special Operations Forces was named after Antin Holovatyi.

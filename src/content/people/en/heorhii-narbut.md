@@ -32,4 +32,4 @@ Narbut’s best-known book is the Ukrainian Alphabet (1917, 1919), considered a 
 
 ## Why it matters today
 
-At the turn of the 1930s Narbut’s work was effectively banned in Soviet Ukraine, and it was only partly allowed back in the late 1950s. Today his banknotes and seals are symbols of the Ukrainian Revolution of 1917–1921, and in 2006 the National Bank of Ukraine issued a commemorative coin in his honour.
+Heorhii Narbut drew what the young Ukrainian state looked like: the hryvnia notes of 1918, its postage stamps, its state seal with a Cossack and the trident. Today those banknotes and seals are symbols of the Ukrainian Revolution of 1917–1921. His Ukrainian Alphabet is considered a masterpiece of Ukrainian graphic art, and with [Mykhailo Boichuk](/en/people/mykhailo-boichuk/) and Vasyl Krychevskyi he is credited with shaping Ukrainian art of the 1920s and 1930s. Soviet rule effectively banned his work, but it came back. Narbut lived only 34 years, yet he showed that an artist can give a state its face.

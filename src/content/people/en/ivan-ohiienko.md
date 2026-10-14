@@ -33,6 +33,8 @@ In 1918 the government of Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropads
 
 After the UNR’s defeat in 1920 Ohiienko settled in Poland. He taught in Lviv and Warsaw, and when he was removed from Warsaw University in 1932 he published the journal Ridna mova (“Native Language”). In 1940, by then a widower, he became a monk under the name Ilarion and was made bishop of Kholm; in 1944 he became a metropolitan. Fleeing the advancing Red Army, he went to Austria and then Switzerland, and in 1947, invited by a parish, moved to Winnipeg in Canada. In 1951 he was elected Metropolitan of Winnipeg and head of the Ukrainian Orthodox Church of Canada.
 
+Ohiienko died in Winnipeg on 29 March 1972.
+
 ## Why it matters today
 
-Ohiienko died in Winnipeg on 29 March 1972. He left instructions that his archive should go to Ukraine only once the country and its church were free. His Bible translation is considered one of the best in Ukrainian, and the university in Kamianets-Podilskyi, whose first rector he was, bears his name.
+Ivan Ohiienko gave Ukrainians the Bible in their own language: the translation took nearly forty years and is considered one of the best in Ukrainian. He was among the first to lecture in Ukrainian at Kyiv University, became the first rector of the university in Kamianets-Podilskyi, and as a UNR minister pressed for church services with Ukrainian pronunciation. He believed that a people that does not work to raise the culture of its native language “will not soon become a conscious nation”. He even asked that his archive go to Ukraine only once the country and its church were free. The university in Kamianets-Podilskyi bears his name.

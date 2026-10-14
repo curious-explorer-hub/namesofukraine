@@ -36,4 +36,4 @@ On 21 July 1929 Nikovskyi was arrested in the case of the “Union for the Liber
 
 ## Why it matters today
 
-Nikovskyi lived two lives: a politician who helped build the Ukrainian People’s Republic, and a scholar who gathered the Ukrainian language into a dictionary. The Soviet regime cut both short, but his dictionary, articles and essays remain.
+Andrii Nikovskyi lived two lives. The first was a politician’s, building the Ukrainian People’s Republic: he was deputy to [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) in the Central Rada, then foreign minister, and he headed the commission that drafted the UNR constitution. The second was a scholar’s, gathering the Ukrainian language into a dictionary: back home, he headed the Academy’s orthography and terminology commission and in 1927 published a Ukrainian–Russian dictionary. He read the young poets closely, and in 1919 wrote essays on Pavlo Tychyna and Maksym Rylskyi. The Soviet regime cut both lives short, but his dictionary, articles and essays remain, and with them his life’s work: Ukrainian language and literature.

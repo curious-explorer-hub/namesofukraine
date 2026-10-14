@@ -40,4 +40,4 @@ In 1941 the NKVD arrested Liudmyla Starytska-Cherniakhivska again, together with
 
 ## Why it matters today
 
-In Soviet times her dramas were not staged. In 2000 her Selected Works came out in Kyiv: dramas, prose, poetry and memoirs. And her memoirs still help us see Lesya Ukrainka and Mykola Lysenko as living people.
+Liudmyla Starytska-Cherniakhivska kept alive for us the people from whom modern Ukrainian culture grew. Her memoirs still let us see [Lesya Ukrainka](/en/people/lesya-ukrainka/) and [Mykola Lysenko](/en/people/mykola-lysenko/) as living people, and in 1907 she wrote the first study of the history of the Ukrainian national theatre. Her dramas put hetmans such as [Petro Doroshenko](/en/people/petro-doroshenko/) and Ivan Mazepa on stage, and her translations let Aida and Faust sing in Ukrainian. She sat in the Central Rada and co-founded the National Council of Ukrainian Women. Her dramas went unstaged in Soviet times, but her words “we were the first Ukrainian children” remind us that a culture begins with how children are raised.

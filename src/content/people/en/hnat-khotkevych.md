@@ -36,4 +36,4 @@ In the 1930s Khotkevych came under growing suspicion of “nationalism”. His n
 
 ## Why it matters today
 
-His novel Dovbush was published only in 1965, and his life could be discussed openly only in the 1990s. His manual, songs and concerts did much to develop the art of the bandura, and The Stone Soul is still regarded as his greatest achievement in prose.
+Hnat Khotkevych brought folk art onto the big stage. He put on a performance by kobzars and lirnyks in Kharkiv, toured Galicia and Bukovyna singing to the bandura, wrote a manual on playing it and later taught it in Kharkiv. His manual, songs and concerts did much to develop the art of the bandura. He built a theatre out of Hutsul villagers, and The Stone Soul, his novelette about them, is still regarded as his greatest achievement in prose. In Pereiaslav he showed the 1654 agreement as a tool for Russia to subjugate Ukraine. Anyone learning the bandura today follows in his footsteps.
