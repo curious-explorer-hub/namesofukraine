@@ -37,6 +37,7 @@ sources:
   - title: "WTA - Kostyuk one win from history after reaching first Wimbledon semifinal (8 липня 2026)"
     url: "https://wtatennis.com/news/4532539/kostyuk-beats-paolini-to-reach-first-wimbledon-semifinal"
 related: [elina-svitolina]
+collections: [olympians]
 status: draft
 ---
 

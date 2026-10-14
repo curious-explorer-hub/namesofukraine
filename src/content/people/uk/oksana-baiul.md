@@ -35,6 +35,7 @@ sources:
   - title: "LB.ua - 5 кращих спортивних перемог незалежної України (24 серпня 2024)"
     url: "https://lb.ua/sport/2024/08/24/631158_5_krashchih_sportivnih_peremog.html"
 related: []
+collections: [olympians]
 status: draft
 ---
 

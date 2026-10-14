@@ -37,6 +37,7 @@ sources:
   - title: "FIFA - Tymoshchuk: Swiss shoot-out was a highlight (30.05.2016)"
     url: "https://inside.fifa.com/news/tymoshchuk-swiss-shoot-out-was-a-highlight-2792750"
 related: [valerii-lobanovskyi, andrii-shevchenko, sofiia-rotaru]
+collections: [olympians]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

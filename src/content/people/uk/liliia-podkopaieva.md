@@ -49,6 +49,7 @@ sources:
   - title: "FIG - Women's Artistic Gymnastics Code of Points 2025-2028"
     url: "https://www.gymnastics.sport/publicdir/rules/files/en_1.1%20-%20WAG%20COP%202025-2028.pdf"
 related: []
+collections: [olympians]
 status: approved
 published: 2026-10-12T22:44:26Z
 ---

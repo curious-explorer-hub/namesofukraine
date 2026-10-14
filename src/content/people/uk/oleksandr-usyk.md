@@ -32,6 +32,7 @@ sources:
   - title: "УНІАН - «Я українець, і ви мене звідси не виженете»: Усик відреагував на шквал критики (11 травня 2020)"
     url: "https://www.unian.ua/sport/boxing/oleksandr-usik-bokser-vidreaguvav-na-shkval-kritiki-na-svoyu-adresu-video-novini-boksu-10991945.html"
 related: [vitalii-klychko, volodymyr-klychko]
+collections: [olympians]
 status: draft
 ---
 

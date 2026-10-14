@@ -37,6 +37,7 @@ sources:
   - title: "Elina Svitolina Foundation - Еліна Світоліна"
     url: "https://elinasvitolinafoundation.org/elina-svitolina"
 related: [marta-kostiuk]
+collections: [olympians]
 status: draft
 ---
 

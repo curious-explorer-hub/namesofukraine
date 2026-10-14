@@ -34,6 +34,7 @@ sources:
   - title: "Birmingham 2026 - Women's high jump report: Mahuchikh rises above for golden hat-trick (15 серпня 2026)"
     url: "https://www.birmingham26.com/news/womens-high-jump-report-mahuchikh-rises-above-for-golden-hat-trick"
 related: []
+collections: [olympians]
 status: draft
 ---
 

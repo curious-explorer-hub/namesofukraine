@@ -41,6 +41,7 @@ sources:
   - title: "NBC Olympics - Olga Kharlan leads Ukraine to seize women's team sabre gold"
     url: "https://www.nbcolympics.com/news/olga-kharlan-leads-ukraine-seize-womens-team-sabre-gold-japan"
 related: []
+collections: [olympians]
 status: draft
 ---
 

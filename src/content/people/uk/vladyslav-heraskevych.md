@@ -41,6 +41,7 @@ sources:
   - title: "Главком - Гераскевич звернувся до українців після дискваліфікації на Олімпіаді (12 лютого 2026)"
     url: "https://glavcom.ua/sport/news/heraskevich-zvernuvsja-do-ukrajintsiv-pislja-diskvalifikatsiji-na-olimpiadi-1102639.html"
 related: [pavlo-petrychenko]
+collections: [olympians]
 status: draft
 ---
 

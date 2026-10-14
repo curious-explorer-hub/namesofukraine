@@ -25,6 +25,30 @@
       }
     },
     {
+      "id": "olympians",
+      "label": {
+        "uk": "Олімпійці",
+        "en": "Olympians"
+      },
+      "description": {
+        "uk": "Спортсмени, які виступали на Олімпійських іграх: спершу у збірних СРСР чи Об'єднаної команди, а від 1994 року під прапором незалежної України.",
+        "en": "Athletes who competed at the Olympic Games: first on the teams of the USSR or the Unified Team, and from 1994 under the flag of independent Ukraine."
+      },
+      "image": {
+        "file": "olympians.jpg",
+        "caption": {
+          "uk": "Ілюстрація до добірки «Олімпійці»: олімпійські кільця, тризуб і спортсмени в синьо-жовтих барвах",
+          "en": "Illustration for the Olympians collection: the Olympic rings, the trident and athletes in blue and yellow"
+        },
+        "author": {
+          "uk": "«Знай своїх» (згенеровано ШІ)",
+          "en": "Know Your Own (AI-generated)"
+        },
+        "license": "AI-generated",
+        "source_url": ""
+      }
+    },
+    {
       "id": "ukrainian-revolution",
       "label": {
         "uk": "Українська революція",
