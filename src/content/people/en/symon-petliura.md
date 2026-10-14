@@ -42,4 +42,4 @@ Schwartzbard said he was avenging the victims of the pogroms, for which he blame
 
 ## Why it matters today
 
-Petliura became one of the central figures of the 1917–1921 struggle for independence. Streets in many cities bear his name, monuments to him stand in Rivne, Vinnytsia and Ternopil, and the Cabinet of Ministers has established an academic scholarship in his name.
+Symon Petliura became one of the central figures of the 1917–1921 struggle for independence. As the Central Rada’s first General Secretary for Military Affairs he laid the foundations of the Ukrainian armed forces, and as Chief Otaman he led the UPR Army against the Bolsheviks and Denikin’s forces and ordered the start of the First Winter Campaign. In exile he carried the work on: in Paris he founded the weekly Tryzub and led the UPR government in exile. Its first issue declared: “We believe in Ukrainian statehood, we profess Ukrainian statehood, and we are convinced it is inevitable.” Streets in many cities bear his name today.

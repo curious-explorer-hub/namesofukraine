@@ -37,4 +37,4 @@ During the Second World War Bahrianyi helped the Ukrainian underground. In 1944 
 
 ## Why it matters today
 
-At home his books were banned for decades. In 1992 Ivan Bahrianyi was posthumously awarded the Shevchenko Prize. His example is a reminder that the truth about unfreedom can be told even when telling it is punished.
+Ivan Bahrianyi spoke up for fellow countrymen who were being forced back to the USSR, and his pamphlet changed how the Western world treated refugees. In The Garden of Gethsemane he was one of the first to tell the truth about the Gulag, two decades before Solzhenitsyn, and The Tiger Hunters sold over a million copies in English alone. His books were banned at home for decades, but the world read them. His example is a reminder that the truth about unfreedom can be told even when telling it is punished, and that such truth can protect others.

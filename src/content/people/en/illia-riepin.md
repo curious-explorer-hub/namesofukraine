@@ -40,4 +40,4 @@ In early 2023 the Metropolitan Museum of Art in New York changed his description
 
 ## Why it matters today
 
-Repin’s Zaporozhian Cossacks has become one of the best-known images of the Zaporozhian Cossacks. Chuhuiv has a museum of the painter, and monuments to him stand in Chuhuiv and Kyiv.
+Repin’s Zaporozhian Cossacks has become one of the best-known images of the Zaporozhian Cossacks. He spent eleven years on it and travelled around Ukraine for it, and in the Sich he saw a freedom that “submitted to nothing”. Ukraine was one of his main themes: Evening Party, Haidamakas, Hopak, a portrait of [Taras Shevchenko](/en/people/taras-shevchenko/), illustrations for Taras Bulba. His students included the Ukrainian painters Mykola Pymonenko, Oleksandr Murashko and Fotii Krasytskyi, and he sent four drawings to the competition for a Shevchenko monument in Kyiv. Anyone who recognizes those Cossacks around the table sees Zaporizhzhia the way Repin saw it.

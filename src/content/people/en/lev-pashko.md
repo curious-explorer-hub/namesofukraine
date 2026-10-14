@@ -31,4 +31,6 @@ The defence of Mariupol lasted 86 straight days. Its defenders' last refuge was 
 
 On 21 September 2022 Lev Pashko was freed in what was then the largest prisoner exchange of the war - more than two hundred Ukrainian service members came home with him, among them other Azovstal defenders, including [Denys Prokopenko](/en/people/denys-prokopenko/) and [Nazarii Hryntsevych](/en/people/nazarii-hryntsevych/). He spent a long time in treatment and rehabilitation afterward.
 
-“Horus” remains one of the faces of the price Mariupol's defenders paid to hold the city against a far larger force.
+## Why it matters today
+
+Lev Pashko volunteered for Azov as soon as he turned 18 because, in his words, “it was what the country needed at that moment.” At 22 he led a company through the 86-day defence of Mariupol and was made a Hero of Ukraine. With the other defenders he held the city against a far larger force until Azovstal became their last refuge. He survived a bad wound and four months in captivity without proper medical care, and came home. Anyone living in a free Ukraine today can remember that it was defended by people as young as he was, who stepped up without a second thought.

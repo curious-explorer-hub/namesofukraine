@@ -31,4 +31,4 @@ In 1905 Myrnyi co-founded the Poltava Ukrainian weekly Ridnyi krai (“Native La
 
 ## Why it matters today
 
-Myrnyi enriched the vocabulary and syntax of literary Ukrainian. Since 1940 his house in Poltava has been a literary memorial museum, and the street he lived on bears his name.
+Panas Myrnyi enriched the vocabulary and syntax of literary Ukrainian. With his brother he wrote Do Oxen Low When Their Mangers Are Full?, the first great realist novel in Ukrainian literature, and when the Ems Decree banned printing Ukrainian books, the novel came out anyway, in Geneva. He showed the Ukrainian village from serfdom to the years after the reform, translated Shakespeare and Longfellow into Ukrainian and co-founded the weekly Ridnyi krai. All his life he worked at the treasury and wrote in the evenings and at night. His path shows that great literature can be written even when your language is kept out of print.

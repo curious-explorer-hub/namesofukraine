@@ -42,6 +42,4 @@ When the badly burned Vasyl Makukh was brought to hospital, one of the doctors r
 
 ## Why it matters today
 
-Two and a half months later, in January 1969, the student Jan Palach made the same protest in Prague, and the whole world knows his name. Makukh’s stayed almost unknown for a long time, even in Ukraine. In 1978 [Oleksa Hirnyk](/en/people/oleksa-hirnyk/) repeated his protest in Kaniv.
-
-Today Dnipro has a Vasyl Makukh Street, and since 2017 a memorial plaque on Khreshchatyk has marked the place where a man gave his life calling for a free Ukraine.
+Vasyl Makukh came through the UPA, camps and exile, and was barred from his native Galicia, yet at home his family spoke Ukrainian, rare in the city. It was the first protest of its kind in Ukraine. Soviet newspapers kept silent, but the news reached foreign radio. Two and a half months later Jan Palach made the same protest in Prague, and in 1978 [Oleksa Hirnyk](/en/people/oleksa-hirnyk/) did so in Kaniv. Makukh’s name long stayed almost unknown, even in Ukraine. He believed his children would “yet be proud of their father”; now anyone can know his courage and faith in a free Ukraine, marked since 2017 by a plaque on Khreshchatyk.

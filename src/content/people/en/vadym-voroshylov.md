@@ -29,6 +29,6 @@ In 2016 Voroshylov joined the 204th Tactical Aviation Brigade, the same brigade 
 
 On 10 October 2022, during a massive Russian missile attack, Voroshylov shot down two cruise missiles. On 12 October he destroyed five Iranian-made Shahed kamikaze drones: three over southern Ukraine and two over Vinnytsia. During the last attack his MiG-29 was damaged. Seeing the lights of a settlement ahead, he steered the jet towards open fields, and only then ejected.
 
-## Why Ukraine knows his name
+## Why it matters today
 
-On 5 December 2022 Vadym Voroshylov was made a Hero of Ukraine. He is an honorary citizen of his home city of Kremenchuk, and in 2024 he was promoted to lieutenant colonel. He is known for the choice he made in the sky over Vinnytsia: first steer the plane away from people, and only then save himself.
+Vadym Voroshylov never dreamed of the sky, yet in 2017 he was named the best young pilot of the South Air Command, and he was one of the few cleared to fly at night. He left the service, fed up with bureaucracy, and went back when the full-scale invasion began. On 10 and 12 October 2022 he shot down two cruise missiles and five Shahed drones, then steered his damaged MiG-29 away from the lights of a settlement before ejecting. That is the choice he is known for: first the people below, then himself. In his own words, Ukraine’s Defense Forces “stand to protect the whole civilised world.”

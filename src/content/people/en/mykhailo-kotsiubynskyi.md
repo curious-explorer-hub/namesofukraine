@@ -28,6 +28,6 @@ In the 1890s Kotsiubynskyi spent several years fighting a vineyard pest for the 
 
 He began as a realist and grew into one of the most gifted Ukrainian modernists. His impressionist stories “On the Rock”, “The Apple Blossom” and “Intermezzo” combine subtle psychology with lyricism. The novella Fata Morgana depicts the Ukrainian village during the revolution of 1905–1907, and Shadows of Forgotten Ancestors (1911), written after a stay in the Carpathians, portrays the life of the Hutsuls with their beliefs and legends. Because of heart disease he went for treatment to the island of Capri. He died in Kyiv in 1913 and was buried in Chernihiv.
 
-## Why he is still read today
+## Why it matters today
 
-Kotsiubynskyi’s language and style influenced Ukrainian prose writers and poets of the early 20th century. In 1964 Sergei Parajanov made the film Shadows of Forgotten Ancestors based on his novella. Since 1927 a museum has operated in the Vinnytsia house where the writer was born; another museum was opened in Chernihiv.
+Starting as a realist, Kotsiubynskyi grew into one of the most gifted Ukrainian modernists. In “Intermezzo”, “The Apple Blossom” and “On the Rock” he combined subtle psychology with lyricism, and his language and style influenced Ukrainian prose writers and poets of the early 20th century. A man from Podillia, he wrote Shadows of Forgotten Ancestors, about the Hutsuls and their beliefs and legends, after a stay in the Carpathians; in 1964 [Sergei Parajanov](/en/people/serhii-paradzhanov/) filmed it. Under police watch from his seminary years until his death, he wrote in Ukrainian and headed the Prosvita society in Chernihiv. To feel how vivid Ukrainian prose can be, start with his books.

@@ -36,6 +36,8 @@ In 1946 Antonov took charge of a new design bureau in Novosibirsk, and by 1947 t
 
 In 1952 Antonov’s bureau was moved to Kyiv, and he worked there for the rest of his life: first as chief designer and from 1962 as general designer. In Kyiv the bureau built the An-10, An-12, An-24 and An-26 passenger and transport planes. The An-22 Antei became the world’s first wide-body long-range transport aircraft, and the An-124 Ruslan, Antonov’s last project, the world’s largest four-engine transport.
 
+Oleh Antonov died on 4 April 1984 in Kyiv, where he had lived for more than 30 years, and is buried at Baikove Cemetery.
+
 ## The Mriya
 
 The Kyiv bureau bears Antonov’s name. Over the years it has created more than 100 types and versions of An aircraft and built more than 22,000 of them. Antonov did not live to see the most famous of them: the An-225 Mriya (“Dream”) first flew in 1988, four years after his death.
@@ -44,8 +46,4 @@ Just three months after its first flight, the Mriya set 110 world records in a s
 
 ## Why it matters today
 
-Antonov stood up for more than his aircraft. In 1965, as a member of the Academy of Sciences of the Ukrainian SSR and a deputy of the USSR Supreme Soviet, he signed the so-called Letter of the 78 to the Central Committee of the Soviet Communist Party, an open protest against the political repression of Ukrainian creative intellectuals and discrimination against Ukrainian culture.
-
-His aircraft outlived their designer. Decades after Antonov’s death, the An-124 Ruslan still led the world in long-distance cargo transport, and the An-26 served in military aviation. The Mriya went down in history as the world’s largest aircraft. In 1997 the National Academy of Sciences of Ukraine founded the Antonov Prize for achievements in mechanics and aircraft engineering.
-
-Oleh Antonov died on 4 April 1984 in Kyiv, where he had lived for more than 30 years, and is buried at Baikove Cemetery.
+The Kyiv bureau Antonov led from 1952 until his death has created over 100 types and versions of An aircraft. Its An-22 Antei was the world’s first wide-body long-range transport, and its An-124 Ruslan still led the world in long-distance cargo decades later. In 1988 came the Mriya, the world’s largest aircraft and the flagship of Ukrainian aviation. Antonov stood up for more than his aircraft: in 1965 he signed the Letter of the 78, an open protest against the repression of Ukrainian creative intellectuals and discrimination against Ukrainian culture. The road to the Mriya began with a glider he built at 18: a reminder for anyone with a dream.

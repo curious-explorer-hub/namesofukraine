@@ -34,6 +34,4 @@ The police and the KGB gathered almost 970 leaflets, but local people, and even 
 
 ## Why it matters today
 
-His family learned the truth, but not from the authorities, and newspapers wrote about him only in independent Ukraine. He repeated the protest of [Vasyl Makukh](/en/people/vasyl-makukh/), who set himself on fire on Khreshchatyk in 1968.
-
-In 2000 a granite boulder was placed where he died on Chernecha Hill, and in 2007 Oleksa Hirnyk was named a Hero of Ukraine posthumously. His leaflets, written by hand at a time when words could send you to the camps, have reached us.
+Two regimes kept Oleksa Hirnyk behind bars, but he did not give up what he believed in. At a time when words could send you to the camps, he wrote about a thousand leaflets by hand, about Ukraine’s history and against Russification, and gave his life for his protest, as [Vasyl Makukh](/en/people/vasyl-makukh/) had before him. The authorities gathered the leaflets, banned all talk of what happened and spread lies about him, but local people hid a few sheets, and the truth has reached us. In 2007 he was named a Hero of Ukraine posthumously. His act shows that one person with pen and paper can keep the truth alive.

@@ -39,4 +39,4 @@ Some scholars write that after 1932 Rylskyi became one of the main official Sovi
 
 ## Why it matters today
 
-Rylskyi is considered to have done more than any of his contemporaries to develop the Ukrainian literary language, and his Pan Tadeusz is called an excellent example of his mastery as a translator. Rylskyi died in Kyiv in 1964 and is buried at Baikove Cemetery, and the institute he ran for twenty years now bears his name.
+Rylskyi is considered to have done more than any of his contemporaries to develop the Ukrainian literary language. Thanks to him, Mickiewicz’s Pan Tadeusz, Pushkin’s Eugene Onegin, Rostand’s Cyrano de Bergerac and Shakespeare’s King Lear speak Ukrainian, and his Pan Tadeusz is called a model of the translator’s craft. “The richer the thought, the richer the language,” he said, and his translations showed that Ukrainian could carry the world’s classics. The only Kyiv Neoclassicist to survive the terror in Ukraine, he ran for twenty years the academy institute that now bears his name. Anyone who reads Shakespeare or Mickiewicz in Ukrainian today is following a path he opened.

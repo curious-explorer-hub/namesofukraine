@@ -35,3 +35,7 @@ In 1986 he was invited back to lead the Kyiv Youth Theatre. There, with [Ivan Dr
 So he turned to public life. He joined the Memorial society, which brought back the memory of the victims of repression, and led it from 1992. In 1990 Taniuk was elected to Ukraine’s parliament, where he chaired the commission on culture and spiritual revival. He served five terms as a member of parliament.
 
 For decades Les Taniuk wrote in his diary every day, even at the cost of sleep. He died in Kyiv on 18 March 2016. The poet Yurii Rybchynskyi called his notes a diary of the 20th century, written by someone who took part in events rather than watching them.
+
+## Why it matters today
+
+Les Taniuk searched for the truth the Soviet state had buried: with [Alla Horska](/en/people/alla-horska/) and [Vasyl Symonenko](/en/people/vasyl-symonenko/) he found the NKVD’s secret graves of executed people at Bykivnia and in Kyiv’s cemeteries. The Club of Creative Youth he led became a meeting place for the Sixtiers. Back in Kyiv he staged Kurbas and Stus, then led the Memorial society, which restored the memory of repression victims. For him language, memory and the state belonged together: “If my language is gone, then the state is gone too, because I have forgotten the graves of my own people.” Anyone who keeps that truth alive today is walking his path.

@@ -35,4 +35,4 @@ On 5 September 1935 Fylypovych was arrested on a fabricated charge of belonging 
 
 ## Why it matters today
 
-Fylypovych showed that a scholar and a poet can be the same person: after decades of bans, his poems and his essays on Shevchenko have come back to readers. Collections of his poetry came out in Munich in 1957 and in Kyiv in 1989, and his critical essays in Kyiv in 1991.
+Fylypovych showed that a scholar and a poet can be the same person. He started out writing Russian verse under a pen name, but from 1917 he wrote only in Ukrainian, and with [Mykola Zerov](/en/people/mykola-zerov/) and the other Neoclassicists he cultivated classical form and the European tradition in Ukrainian poetry. He translated Baudelaire and Verlaine, taught students modern Ukrainian literature and read Shevchenko anew. After decades of bans, his poems and his essays on Shevchenko have come back to readers. Anyone who chooses Ukrainian for their writing or research today follows the same path as “Pavel Zorev”, who became Pavlo Fylypovych.

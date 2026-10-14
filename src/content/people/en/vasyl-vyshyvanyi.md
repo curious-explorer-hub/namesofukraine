@@ -36,4 +36,4 @@ His conduct in the 1930s is also contested. In Timothy Snyder’s biography The 
 
 ## Why it matters today
 
-Vasyl Vyshyvanyi was born far from Ukraine, into one of Europe’s most powerful dynasties, and deliberately chose the Ukrainian cause. In 2020 Ukraine marked the 125th anniversary of his birth, and the world knows his story from Timothy Snyder’s biography.
+Vasyl Vyshyvanyi showed that a person can become Ukrainian by choice, even when born into one of Europe’s most powerful dynasties. He learned the language, wrote poetry in it, and in 1921 his collection Days Go By came out in Vienna. He gave his standing to the Ukrainian cause: in the Austrian parliament he pressed for Galicia to be divided into Ukrainian and Polish parts; he commanded the Ukrainian Sich Riflemen, served as a UPR Army colonel and helped Ivan Horbachevskyi become Austria’s first minister of health. His life ended in a Soviet prison in Kyiv; the world knows his story from Timothy Snyder’s biography.

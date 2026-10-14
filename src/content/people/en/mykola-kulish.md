@@ -39,4 +39,4 @@ In June 1934 Kulish’s plays were condemned as nationalist, and he was expelled
 
 ## Why it matters today
 
-Kulish wrote about language, Ukrainians’ hopes and Soviet reality, and his plays are read and staged again. [Les Taniuk](/en/people/les-taniuk/) staged them in Odesa and Kharkiv, and in 1990 a two-volume edition of Kulish’s works, edited by Taniuk, came out in Kyiv.
+Kulish brought to the Ukrainian stage what hurt most: language, Ukrainians’ hopes and Soviet reality. An orphan and farm hand, he became one of the best-known Ukrainian playwrights of the 20th century, and with [Les Kurbas](/en/people/les-kurbas/) at the Berezil he made productions the authorities hurried to ban. Myna Mazailo, his comedy about how people took Ukrainization, still makes us ask how we treat our own language. Most of his manuscripts were destroyed, yet his plays are read and staged again: [Les Taniuk](/en/people/les-taniuk/) staged them in Odesa and Kharkiv and edited the 1990 two-volume edition. Anyone watching Myna Mazailo today hears a voice that was meant to be silenced.

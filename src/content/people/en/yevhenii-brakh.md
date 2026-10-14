@@ -27,6 +27,6 @@ In spring 2022 “Mali” came back to Ukraine. He first fought in a volunteer b
 
 Yevhenii Brakh was killed on 21 September 2022 on a combat mission near Enerhodar in the Zaporizhzhia region. He was 26. His comrade “Rugbyist”, [Maksym Yalovtsov](/en/people/maksym-yalovtsov/), was killed alongside him near Enerhodar.
 
-## How he is remembered
+## Why it matters today
 
-Yevhenii was buried on the Alley of Heroes at Zaturynske Cemetery in Poltava and posthumously awarded the Order for Courage, 3rd class. A memorial plaque hangs on the school in Seleshchyna where he studied, and his family gave the school an obstacle course and a laser shooting range. In Poltava, Soniachnyi Park bears his name: in November 2025 a Streetcode plaque was unveiled there, with a QR code that tells his story.
+Yevhenii Brakh knew from childhood what he wanted to be, and worked his way there: the Maidan, the French Foreign Legion, which he joined without speaking French, service in Mali and French Guiana, the rank of corporal. In spring 2022 he left a settled life in France, came home and became a machine gunner in a special forces unit. He brought what he had learned abroad to Ukraine’s defence, including the preparations for the Snake Island operation. He showed that skills gained far from home can become strength for your own country. His family gave his old school in Seleshchyna an obstacle course and a laser range.
