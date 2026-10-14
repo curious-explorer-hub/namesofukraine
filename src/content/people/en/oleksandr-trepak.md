@@ -38,4 +38,4 @@ From 2016 to 2020 Trepak commanded his own 3rd Special Forces Regiment, and in 2
 
 ## Why it matters today
 
-The defense of Donetsk airport became one of the symbols of the war that began in 2014. The word “cyborg” has since come to mean a defender who cannot be broken, and Oleksandr Trepak is one of the people it started with.
+The defense of Donetsk airport became one of the symbols of the war that began in 2014. The word “cyborg” has since come to mean a defender who cannot be broken, and Oleksandr Trepak is one of the people it started with. Under him the defenders beat back every assault and were not cut off from food and ammunition. Near Artemivsk he had held a checkpoint for three hours so others could get a wounded commander out, then, wounded himself, refused evacuation. He credits his soldiers: “I am nothing without my guys.” He later commanded his own regiment and, from 2024, the Special Operations Forces.

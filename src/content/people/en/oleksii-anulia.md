@@ -46,8 +46,6 @@ In 2025 Oleksii published “Jingle bellz”, a book in which he reflects on cap
 
 On 10 December 2025 the Center for Civil Liberties gave out the Ihor Kozlovskyi Prize for the first time. It is named after a philosopher and scholar of religion who spent 700 days held captive in occupied territory. The first winner was Oleksii Anulia. He was away on an advocacy trip and spoke to the guests by video. At the same ceremony, paramedic [Yuliia “Taira” Paievska](/en/people/yuliia-paievska/) received an award from PEN Ukraine.
 
-## Why it matters
+## Why it matters today
 
-Oleksii tells the world about captivity because his voice speaks for the Ukrainians still held in Russian prisons. His case is registered with the International Criminal Court in The Hague.
-
-Ukrainians are still held captive by Russia. Oleksii Anulia’s story is a reminder that each of them must be spoken about until they are brought home.
+Oleksii tells the world about captivity because his voice speaks for the Ukrainians still held in Russian prisons. After captivity and dozens of hospital stays, he took on a new cause: he campaigns for the release of other prisoners, supports families of the missing and testifies to war crimes, in a UN hall in Geneva and in his book “Jingle bellz”. His case is registered with the International Criminal Court in The Hague. Dignity, he says, is when “you can give a part of yourself for the good of another.” Oleksii Anulia’s story is a reminder that every prisoner must be spoken about until they are brought home.

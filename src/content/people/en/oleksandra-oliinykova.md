@@ -41,4 +41,4 @@ Oliynykova uses her fame to raise money for the unit her father serves in. In th
 
 ## Why it matters today
 
-Oliynykova could have stayed a Croatian player, but she chose Ukraine. Now she uses every big tournament to keep the world from getting used to the war, and raises money for the unit her father fights in.
+Oliynykova could have stayed a Croatian player, but in 2021, before the full-scale invasion, she chose Ukraine. She kept training in Kyiv even when her flat had no electricity or heat, won three WTA 125 titles in 2025 and climbed to No. 44 in the world in 2026. She uses every big tournament to keep the world from getting used to the war: “Some players are tired to speak about this now. I’m not.” And she turns her fame into help, raising money for the unit her father fights in and co-founding the drones4ua.org drive for drones. She shows that an athlete can be her country’s voice.

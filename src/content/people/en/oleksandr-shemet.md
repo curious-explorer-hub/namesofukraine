@@ -35,6 +35,6 @@ Oleksandr Shemet was born on 13 December 1970 in Koriukivka in Chernihiv region.
 
 On the evening of 17 December 2025 the Mi-24 crew under Shemet’s command took off to intercept Russian Shahed attack drones and did not return. All four crew members were killed. The helicopter came down in Cherkasy region; the preliminary version is that it collided with a drone.
 
-## Why it matters
+## Why it matters today
 
-“Freedom comes at a high price,” Shemet said of the comrades who don’t come back from missions. The helicopters were the only thread between the besieged steelworks and the rest of Ukraine, and the pilots flew there knowing that not all of them would return.
+The helicopters were the only thread between the besieged steelworks and the rest of Ukraine, and the pilots flew there knowing that not all of them would return. Oleksandr Shemet went: he delivered the cargo to the defenders and brought the aircraft and eight badly wounded men home. It was the last successful air run to Azovstal. “Freedom comes at a high price,” he said of comrades who don’t come back from missions. His service ran from 2015: the anti-terrorist operation, the defence of Kyiv, and later intercepting Shahed drones. He showed that even encircled comrades can be reached when someone is willing to take on the risk.

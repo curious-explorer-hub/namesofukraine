@@ -31,4 +31,4 @@ Smakula spent most of his life far from home, but he kept his ties: letters came
 
 ## Why it matters today
 
-The thin layer that tames glare moved from optical instruments to everyday glasses. So the next time an optician offers you anti-reflective lenses, think of the physicist from a village near Ternopil who stood at the start of that idea.
+The thin layer that tames glare moved from optical instruments to everyday glasses. It was developed by Oleksandr Smakula, a boy from Dobrovody who made it to the labs of Carl Zeiss and MIT. At MIT he spent over 30 years as a professor and ran the crystal physics lab, and physics has a “Smakula formula.” Far from home, he kept his ties: a full member of the Shevchenko Scientific Society and honorary president of the Ukrainian Engineers’ Society of America. So the next time an optician offers you anti-reflective lenses, think of the physicist from a village near Ternopil who stood at the start of that idea.

@@ -37,4 +37,4 @@ Usyk himself never gave up his Ukrainian citizenship. In 2020 he answered his cr
 
 ## Why it matters today
 
-Usyk became undisputed champion in two weight classes and the first to win that title three times. And in February 2022, at the peak of his career, he came home to defend Kyiv.
+Usyk became undisputed champion in two weight classes and the first to win that title three times. From Olympic gold in London he went on to hold the belts of all the major boxing organizations: in 2018 he became the first Ukrainian undisputed world champion, then proved he could beat the biggest boxers at heavyweight too. He showed that a boxer from Ukraine can hold every major belt at once, and do it again. And in February 2022, at the peak of his career, he came home to defend Kyiv and put a rematch on hold: “It is my duty to fight, to defend my home, my family.”

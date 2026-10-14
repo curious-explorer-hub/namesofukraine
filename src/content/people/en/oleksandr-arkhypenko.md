@@ -30,4 +30,4 @@ Archipenko was born in Kyiv in 1887 and studied at the Kyiv Art School, but he w
 
 ## Why it matters today
 
-Archipenko influenced modern art in Europe and America. He kept up ties with Ukrainian intellectuals in Lviv and Kyiv, made sculpted portraits of [Shevchenko](/en/people/taras-shevchenko/) and [Franko](/en/people/ivan-franko/), and in 1933 showed 48 works in the Ukrainian pavilion at the world’s fair in Chicago. His works are held in many museums around the world, including in Kyiv and Lviv.
+Archipenko changed the idea of sculpture: he showed that it “may begin where space is encircled by the material,” and made empty space part of the form. His Cubist figures, mix of metal, glass, wood and plastic, and “sculpto-paintings” influenced modern art in Europe and America, and he opened art schools in Berlin and the United States. Famous far from home, he kept his ties: he made portraits of [Shevchenko](/en/people/taras-shevchenko/) and [Franko](/en/people/ivan-franko/), and in 1933 showed 48 works in the Ukrainian pavilion in Chicago. So when you see a sculpture with a hole in it, think of the Kyiv-born artist who was one of the first to work that way.

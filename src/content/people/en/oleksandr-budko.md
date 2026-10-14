@@ -35,4 +35,4 @@ Oleksandr Budko works to make Ukraine barrier-free and more inclusive, starting 
 
 ## Why it matters today
 
-The war has left tens of thousands of Ukrainians without an arm or a leg. Oleksandr shows them, and everyone else, that a wound doesn’t cancel sport, creative work or ordinary life. He also campaigns for a barrier-free Ukraine, where living with a disability is no harder than living without one.
+The war has left tens of thousands of Ukrainians without an arm or a leg. Oleksandr shows them, and everyone else, that a wound doesn’t cancel sport, creative work or ordinary life: three months after his wound he stood on prosthetic legs, and a year later won an Invictus Games medal. He visits the wounded in hospital to advise on prostheses and state help, and his videos and book, The Story of a Stubborn Man, cheerfully show life on prostheses. “Inclusivity is not about pity,” he says, “it is about equal rights and comfort for everyone.” Anyone making their street or school easier to get around carries on his work.

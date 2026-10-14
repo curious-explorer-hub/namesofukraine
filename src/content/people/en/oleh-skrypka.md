@@ -31,4 +31,4 @@ In 2004 Skrypka organized the first Kraina Mrii ethnic festival, named like the 
 
 ## Why it matters today
 
-Skrypka is called a legend of Ukrainian ethno-rock: in his songs and at Kraina Mrii, folk tradition sounds modern. After the full-scale invasion began, his family stayed in Kyiv. In 2024 he marked his 60th birthday with a jubilee concert in Kyiv with the NAONI folk orchestra, collecting charity donations “for Victory.”
+Skrypka is called a legend of Ukrainian ethno-rock: in his songs and at Kraina Mrii, folk tradition sounds modern. His path shows that you can find your Ukrainian self: born in Tajikistan and raised in Russia, he first felt Ukrainian in France, then came back and brought folk tradition onto the rock stage. “Vesna” marked the band’s return to the Ukrainian stage, and Kraina Mrii invites visitors not just to listen to tradition but to join in. After the full-scale invasion began, his family stayed in Kyiv, and in 2024 he turned his jubilee concert into a collection “for Victory.”

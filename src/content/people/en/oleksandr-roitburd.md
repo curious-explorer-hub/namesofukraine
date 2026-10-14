@@ -31,4 +31,4 @@ In September 2019 the Odesa regional council dismissed Roitburd early. People in
 
 ## Why it matters today
 
-Roitburd showed that an old museum can become a place people want to visit. And his paintings and videos still show how bold Ukrainian art was after independence.
+Roitburd showed that an old museum can become a place people want to visit. He set out to turn the Odesa Art Museum into a “city forum,” and it filled with concerts, film screenings, children’s camps and free-admission days, while more than a hundred businesspeople, artists and public figures joined forces to buy it new works. When he was dismissed, people in Odesa rallied for him, and the Supreme Court ruled the dismissal unlawful. Back in the 1990s he had helped build contemporary art in Odesa, and his video ended up at MoMA. His paintings and videos still show how bold Ukrainian art was after independence.
