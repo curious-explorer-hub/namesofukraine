@@ -26,6 +26,8 @@ In 1956 Hlushkov moved to Kyiv to head the computing laboratory of the Institute
 
 Hlushkov also worked on applying cybernetics to economics and management. With his students he developed the first automated control system, called Lviv. He was the first to propose a radically new system of economic planning with computers, and he worked on a national network of computing centers. Many of his methods were used across the Soviet bloc.
 
+Hlushkov died in Moscow in 1982 and was buried in Kyiv, at the Baikove Cemetery.
+
 ## Why it matters today
 
-Hlushkov died in Moscow in 1982 and was buried in Kyiv, at the Baikove Cemetery. That same year the Institute of Cybernetics was named after him. He founded a school of theoretical cybernetics in Kyiv, and the Encyclopedia of Cybernetics he edited came out in Ukrainian as well.
+Viktor Hlushkov made Kyiv a city where computers were built: under his leadership the Dnepr and MIR machines were designed there, and his Computing Center grew into the Institute of Cybernetics. His general theory of digital automata was widely used in building computers, and with his students he developed Lviv, the first automated control system. He was the first to propose a new system of economic planning with computers, founded a school of theoretical cybernetics in Kyiv, and edited the world’s first Encyclopedia of Cybernetics, which came out in Ukrainian too. The institute he led now bears his name. Anyone building tech in Ukraine can draw on that Kyiv tradition.

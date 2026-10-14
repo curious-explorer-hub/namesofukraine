@@ -38,6 +38,6 @@ On the night of 9 February 1924 the Polish police searched her flat and found UV
 
 The Polish police announced that Basarab had taken her own life. Ukrainians in Lviv did not believe it: she is believed to have died under torture. After protests an investigation was opened, but it found nothing. How she died has never been fully established. The Polish authorities regarded Basarab as a spy, accusing her of gathering information on the Polish army.
 
-## Why she is remembered
+## Why it matters today
 
-On 26 February 1924 Olha Basarab was reburied in Lviv’s Yaniv Cemetery, and thousands came to the funeral. Her death left a mark on a whole generation of Galician Ukrainians. Poems and stories were written about her, and Ukrainian women’s organizations abroad, starting in Canada, took her as their patron.
+Olha Basarab went from the first girls’ groups of Plast and the first women’s platoon of the Ukrainian Sich Riflemen to the UNR embassy in Finland and the UVO underground, where she became the personal courier of [Yevhen Konovalets](/en/people/yevhen-konovalets/). When she was arrested, she named no one: all the police wrote down was “I refuse to make any statement.” Thousands came to her funeral in Lviv, and her fate left a mark on a whole generation of Galician Ukrainians. Ukrainian women’s organizations abroad, starting in Canada, took her as their patron. Her story shows the strength of someone who will not betray her own.

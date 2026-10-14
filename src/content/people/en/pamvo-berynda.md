@@ -32,4 +32,4 @@ Berynda died in Kyiv on 23 July 1632. He was buried at the Kyiv Cave Monastery.
 
 ## Why it matters today
 
-The Lexicon was reprinted as early as 1653, at the Kuteino Monastery in today’s Belarus. In 1961 a new edition came out in Kyiv, edited by the linguist Vasyl Nimchuk. Linguists still study its make-up and language: the dictionary shows what written Ukrainian looked like in the early 17th century.
+Pamvo Berynda wanted the words of church books to make sense to people who spoke the everyday language. So, at his own expense, he published his Lexicon, which explains about 7,000 Church Slavonic and foreign words in the literary Ukrainian of his time, and even tells what people’s names and place names mean. It was reprinted within a couple of decades, and linguists still study it: it shows what written Ukrainian looked like in the early 17th century. Anyone who looks up an unfamiliar word in a dictionary today is doing what Berynda offered his readers almost four hundred years ago.

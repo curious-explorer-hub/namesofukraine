@@ -31,4 +31,4 @@ In 1487 Drohobych returned to Kraków and became a professor of medicine at the 
 
 ## Why it matters today
 
-Yurii Drohobych showed that a young man from a small Galician town could become a notable figure in the European science of his day. Drohobych has a monument to him, and the historian Yaroslav Isaievych wrote a book about him for the “Lives of the Famous” series (1972).
+Yurii Drohobych showed that a young man from a small Galician town could become a notable figure in the European science of his day. He earned doctorates in Bologna, served as rector of one of Europe’s oldest universities and a professor of medicine in Kraków. His book of 1483 was the first by a Ukrainian published abroad, and in it he gave the coordinates of Lviv and of his home town, Drohobych. Even far from home he signed himself “Master Georgius of Rus’”. Anyone who goes abroad to study today can take him as an example: you can belong in great science and still remember where you come from.

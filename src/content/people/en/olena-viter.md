@@ -27,4 +27,8 @@ Olena was born in 1904 in the village of Myklashiv near Lviv, and in 1922 became
 
 ## A convent that wasn't supposed to exist
 
-After the camps Mother Iosyfa led an underground Studite convent in Skalat in Ternopil region, despite constant pressure from the authorities. She died in Lviv in 1988. Her story is a reminder that in the darkest years there were people who risked everything to save other people's children.
+After the camps Mother Iosyfa led an underground Studite convent in Skalat in Ternopil region, despite constant pressure from the authorities. She died in Lviv in 1988.
+
+## Why it matters today
+
+Mother Iosyfa saved children who had lost their families. With her nuns she fed and clothed them and taught them Christian customs so they would not give themselves away; when a child was in danger, she moved them to another convent. No one knows how many she saved; those named include Lili Pohlmann, Nathan Lewin and Adam Rotfeld, and her rescued children supported her to the end. Neither a death sentence nor ten years in the camps stopped her: she went on to lead an underground convent. Her story is a reminder that in the darkest years there were people who risked everything to save other people's children.

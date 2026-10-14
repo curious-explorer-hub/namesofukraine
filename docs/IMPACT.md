@@ -915,7 +915,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 24: status: for review
+## Batch 24: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -952,7 +952,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 25: status: for review
+## Batch 25: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -994,6 +994,40 @@ Audit of the last section of every profile, «Чому це важливо сь�
 - Viktor Hlushkov: MOVE: uk «Глушков помер 1982 року в Москві, а поховали його в Києві, на Байковому кладовищі.» en “Hlushkov died in Moscow in 1982 and was buried in Kyiv, at the Baikove Cemetery.”
 - Viktor Hlushkov: “Ukrainian” connection: born in Rostov-on-Don; the ending stays on his work in Kyiv. “First in the world” encyclopedia comes from the fun_fact.
 - Viktor Hlushkov: The last sentence («київська традиція») is an interpretation; drop it if the owner finds it too broad.
+
+</details>
+
+## Batch 26: status: approved, applied 2026-10-13
+
+| Profile | Before | After |
+|---|---|---|
+| Владислав Городецький | **Чому це важливо сьогодні**<br>Будинки Городецького досі формують обличчя центру Києва: у його музеї працює Національний художній музей, а до «Будинку з химерами» приходять подивитися на кам'яних звірів. 2004 року в Києві йому встановили пам'ятник, а одна з вулиць носить його ім'я. | **Чому це важливо сьогодні**<br>Владислав Городецький, поляк із Поділля, більшу частину життя прожив в Україні й дав Києву будинки, які досі формують обличчя його центру. У музеї, на будівництво якого великі кошти дав [Нікола Терещенко](/uk/people/nikola-tereshchenko/), тепер Національний художній музей України, а в його кенасі - Будинок актора. Він будував для різних громад, караїмів і католиків, і щоразу шукав свій стиль: неогрецький, мавританський, неоготичний, модерн. «Будинок з химерами» з кам'яними слонами й жабами на даху показує, що архітектура може бути сміливою й дотепною. Кожен, хто проходить Банковою, бачить, як одна людина може змінити вигляд міста. |
+| Володимир Боровиковський | **Чому це важливо сьогодні**<br>Боровиковський народився й сформувався як художник в Україні, а головну частину кар'єри провів у Петербурзі. Тому більшість його картин - у музеях Росії, але його роботи є й у Національному художньому музеї України в Києві та інших українських музеях, а одна картина - в Луврі. Його ім'я носять вулиця в Миргороді й бульвар у Полтаві. | **Чому це важливо сьогодні**<br>Володимир Боровиковський навчився малювати в Миргороді, у батька-іконописця: разом вони розписували храми, а молодий козак писав портрети старшини. З цією домашньою школою він став академіком Петербурзької академії мистецтв і одним із найкращих портретистів імперії. Він наважився намалювати імператрицю не на троні, а на прогулянці в парку, і в понад 150 портретах поєднав класицизм із сентименталізмом. Його роботи є в Національному художньому музеї України, а одна картина - в Луврі. А все своє майно він заповів роздати бідним. Його шлях нагадує: великий майстер може вирости з батьківської майстерні. |
+| Юрій Дрогобич (Котермак) | **Чому це важливо сьогодні**<br>Юрій Дрогобич показав, що хлопець із невеликого галицького міста міг стати однією з помітних постатей європейської науки свого часу. У Дрогобичі йому поставили пам'ятник, а історик Ярослав Ісаєвич написав про нього книжку для серії «Життя славетних» (1972). | **Чому це важливо сьогодні**<br>Юрій Дрогобич показав, що хлопець із невеликого галицького міста міг стати однією з помітних постатей європейської науки свого часу. Він здобув докторські ступені в Болоньї, був ректором одного з найстаріших університетів Європи і професором медицини в Кракові. Його книжка 1483 року стала першою книжкою українця, виданою за кордоном, і в ній він навів координати Львова та рідного Дрогобича. Навіть далеко від дому він підписувався «магістр Георгіус з Русі». Кожен, хто сьогодні їде вчитися у світ, може взяти з нього приклад: можна стати своїм у великій науці й не забути, звідки ти. |
+
+<details><summary>English, batch 26</summary>
+
+- **Vladyslav Horodetskyi.** Vladyslav Horodetskyi, a Pole from Podillia, lived most of his life in Ukraine and gave Kyiv buildings that still shape the centre of the city. The museum that [Nikola Tereshchenko](/en/people/nikola-tereshchenko/) helped pay for is now the National Art Museum of Ukraine, and his kenesa is the House of Actors. He built for different communities, Karaites and Catholics alike, and each time chose a style of its own: Neo-Greek, Moorish, Neo-Gothic, Art Nouveau. The House with Chimaeras, with its stone elephants and frogs on the roof, shows that architecture can be bold and witty. Anyone on Bankova Street can see how one person can change the look of a city.
+- **Volodymyr Borovykovskyi.** Volodymyr Borovykovskyi learned to paint in Myrhorod from his father, an icon painter: together they painted churches, and the young Cossack made portraits of Cossack officers. With that home training he became an academician in Saint Petersburg and one of the empire’s finest portraitists. He dared to paint the empress out for a walk in a park rather than on a throne, and in over 150 portraits blended classicism with sentimentalism. His work hangs in the National Art Museum of Ukraine and one painting is in the Louvre. He left all he owned to the poor. His path shows that a great master can grow out of a father’s workshop.
+- **Yurii Drohobych (Kotermak).** Yurii Drohobych showed that a young man from a small Galician town could become a notable figure in the European science of his day. He earned doctorates in Bologna, served as rector of one of Europe’s oldest universities and a professor of medicine in Kraków. His book of 1483 was the first by a Ukrainian published abroad, and in it he gave the coordinates of Lviv and of his home town, Drohobych. Even far from home he signed himself “Master Georgius of Rus’”. Anyone who goes abroad to study today can take him as an example: you can belong in great science and still remember where you come from.
+
+</details>
+
+<details><summary>Notes, batch 26</summary>
+
+- Vladyslav Horodetskyi: Death stays in «Варшава і Тегеран»; no move needed.
+- Vladyslav Horodetskyi: Dropped the 2004 monument and the street name; no memorial clause kept.
+- Vladyslav Horodetskyi: Added a second link to nikola-tereshchenko (first is in «Київ, який він збудував»); drop it if one link per profile is preferred.
+- Vladyslav Horodetskyi: Tehran work left out to keep the focus on Kyiv; could add «а згодом будував і в Тегерані» if wanted.
+- Volodymyr Borovykovskyi: Death stays in «Ікони й останні роки»; no move needed.
+- Volodymyr Borovykovskyi: Dropped the street in Myrhorod and the boulevard in Poltava, and the 'most paintings are in Russian museums' line.
+- Volodymyr Borovykovskyi: «одним із найкращих портретистів імперії» comes from the profile summary.
+- Volodymyr Borovykovskyi: Bequest to the poor is from fun_fact; drop that sentence if the ending should not repeat fun_fact.
+- Yurii Drohobych (Kotermak): Death stays in «Професор у Кракові»; no move needed.
+- Yurii Drohobych (Kotermak): Kept the existing first sentence (real impact) as the core, per rule 4.
+- Yurii Drohobych (Kotermak): Dropped the Drohobych monument and the Isaievych book; no memorial clause kept.
+- Yurii Drohobych (Kotermak): «не забути, звідки ти» is an interpretation resting on his signature and the coordinates of Lviv and Drohobych; soften if it reads as a motive.
+- Yurii Drohobych (Kotermak): Copernicus left out because the profile only says some historians consider him a student.
 
 </details>
 
@@ -1118,16 +1152,16 @@ Batch numbers are the review order. "Remembrance only": the ending is memorial f
 | 23 ✅ | [Людмила Старицька-Черняхівська](../src/content/people/uk/liudmyla-starytska-cherniakhivska.md) |  | draft | literature | weak | applied |
 | 23 ✅ | [Майк Йогансен](../src/content/people/uk/maik-yohansen.md) |  | draft | literature | weak | applied |
 | 23 ✅ | [Максим Березовський](../src/content/people/uk/maksym-berezovskyi.md) |  | draft | performing-arts | weak | applied |
-| 24 | [Михайло Омелянович-Павленко](../src/content/people/uk/mykhailo-omelianovych-pavlenko.md) |  | draft | statehood | weak | drafted |
-| 24 | [Мирослав Ірчан](../src/content/people/uk/myroslav-irchan.md) |  | draft | literature | weak | drafted |
-| 24 | [Нікола Терещенко](../src/content/people/uk/nikola-tereshchenko.md) |  | draft | civic | weak | drafted |
-| 24 | [Олена Вітер](../src/content/people/uk/olena-viter.md) |  | draft | faith | weak | drafted |
-| 24 | [Ольга Басараб](../src/content/people/uk/olha-basarab.md) |  | draft | statehood | weak | drafted |
-| 25 | [Памво Беринда](../src/content/people/uk/pamvo-berynda.md) |  | draft | literature | weak | drafted |
-| 25 | [Пантелеймон Куліш](../src/content/people/uk/panteleimon-kulish.md) |  | draft | literature | weak | drafted |
-| 25 | [Шолом-Алейхем](../src/content/people/uk/sholom-aleikhem.md) |  | draft | literature | weak | drafted |
-| 25 | [Василь Кук](../src/content/people/uk/vasyl-kuk.md) |  | draft | statehood | weak | drafted |
-| 25 | [Віктор Глушков](../src/content/people/uk/viktor-hlushkov.md) |  | draft | science | weak | drafted |
-| 26 | [Владислав Городецький](../src/content/people/uk/vladyslav-horodetskyi.md) |  | draft | visual-arts | weak | to draft |
-| 26 | [Володимир Боровиковський](../src/content/people/uk/volodymyr-borovykovskyi.md) |  | draft | visual-arts | weak | to draft |
-| 26 | [Юрій Дрогобич (Котермак)](../src/content/people/uk/yurii-drohobych.md) |  | draft | science | weak | to draft |
+| 24 ✅ | [Михайло Омелянович-Павленко](../src/content/people/uk/mykhailo-omelianovych-pavlenko.md) |  | draft | statehood | weak | applied |
+| 24 ✅ | [Мирослав Ірчан](../src/content/people/uk/myroslav-irchan.md) |  | draft | literature | weak | applied |
+| 24 ✅ | [Нікола Терещенко](../src/content/people/uk/nikola-tereshchenko.md) |  | draft | civic | weak | applied |
+| 24 ✅ | [Олена Вітер](../src/content/people/uk/olena-viter.md) |  | draft | faith | weak | applied |
+| 24 ✅ | [Ольга Басараб](../src/content/people/uk/olha-basarab.md) |  | draft | statehood | weak | applied |
+| 25 ✅ | [Памво Беринда](../src/content/people/uk/pamvo-berynda.md) |  | draft | literature | weak | applied |
+| 25 ✅ | [Пантелеймон Куліш](../src/content/people/uk/panteleimon-kulish.md) |  | draft | literature | weak | applied |
+| 25 ✅ | [Шолом-Алейхем](../src/content/people/uk/sholom-aleikhem.md) |  | draft | literature | weak | applied |
+| 25 ✅ | [Василь Кук](../src/content/people/uk/vasyl-kuk.md) |  | draft | statehood | weak | applied |
+| 25 ✅ | [Віктор Глушков](../src/content/people/uk/viktor-hlushkov.md) |  | draft | science | weak | applied |
+| 26 ✅ | [Владислав Городецький](../src/content/people/uk/vladyslav-horodetskyi.md) |  | draft | visual-arts | weak | applied |
+| 26 ✅ | [Володимир Боровиковський](../src/content/people/uk/volodymyr-borovykovskyi.md) |  | draft | visual-arts | weak | applied |
+| 26 ✅ | [Юрій Дрогобич (Котермак)](../src/content/people/uk/yurii-drohobych.md) |  | draft | science | weak | applied |

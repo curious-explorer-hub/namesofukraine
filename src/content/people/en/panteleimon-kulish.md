@@ -34,6 +34,8 @@ In 1857 The Black Council came out in full, the first Ukrainian historical novel
 
 Kulish translated Othello and other Shakespeare plays, as well as Schiller, Goethe and Byron; he is considered the father of Ukrainian literary translation. He brought [Ivan Puliui](/en/people/ivan-puliui/) into his translation of the Bible, and late in life he learned Hebrew for the Old Testament. The translation was finished after his death by Puliui and [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/).
 
+Kulish spent his last years on the Motronivka homestead in the Chernihiv region, where he died in 1897 and is buried.
+
 ## Why it matters today
 
-Kulish spent his last years on the Motronivka homestead in the Chernihiv region, where he died in 1897 and is buried. We still spell Ukrainian in a system that grew out of Kulishivka, and we read the Bible and Shakespeare in Ukrainian because he started that work.
+We still spell Ukrainian in a system that grew out of Kulishivka: Kulish proposed writing words the way they are pronounced, and that is how the 1860 Kobzar of [Taras Shevchenko](/en/people/taras-shevchenko/) was printed. A boy who could not afford to finish school gave Ukrainians their first historical novel, The Black Council, and Hramatka, the first Ukrainian-language primer in the Russian Empire. He is considered the father of Ukrainian literary translation: thanks to him Shakespeare, Schiller, Goethe and Byron spoke Ukrainian, and the Bible translation he began was finished by [Ivan Puliui](/en/people/ivan-puliui/) and [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/). Anyone who writes or translates into Ukrainian today carries on his work.

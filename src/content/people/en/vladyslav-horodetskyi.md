@@ -36,4 +36,4 @@ In 1920 Horodetskyi emigrated to Poland. There he worked at the Ministry of Publ
 
 ## Why it matters today
 
-Horodetskyi’s buildings still shape the centre of Kyiv: the National Art Museum works in his museum building, and people still come to the House with Chimaeras to look at its stone animals. In 2004 a monument to him was unveiled in Kyiv, and a street there bears his name.
+Vladyslav Horodetskyi, a Pole from Podillia, lived most of his life in Ukraine and gave Kyiv buildings that still shape the centre of the city. The museum that [Nikola Tereshchenko](/en/people/nikola-tereshchenko/) helped pay for is now the National Art Museum of Ukraine, and his kenesa is the House of Actors. He built for different communities, Karaites and Catholics alike, and each time chose a style of its own: Neo-Greek, Moorish, Neo-Gothic, Art Nouveau. The House with Chimaeras, with its stone elephants and frogs on the roof, shows that architecture can be bold and witty. Anyone on Bankova Street can see how one person can change the look of a city.

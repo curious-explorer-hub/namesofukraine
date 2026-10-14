@@ -32,4 +32,4 @@ In 1887 Rabinovich settled in Kyiv, played the stock exchange and within a few y
 
 ## Why it matters today
 
-Sholem Aleichem’s works have been translated into 64 languages. In the 1960s the Tevye stories became the Broadway musical Fiddler on the Roof, which is staged all over the world. In Kyiv, from December 1989, [Bohdan Stupka](/en/people/bohdan-stupka/) played Tevye about 400 times in the Ivan Franko Theatre production Tevye-Tevel. Pereiaslav has had a museum in his honour since 1978, and in 2009 a museum flat dedicated to him opened in Kyiv.
+Sholem Aleichem told the world about poor “little people” who keep their humour and their faith in justice even in hard times. Most of his stories are set in Ukraine: Yehupets is Kyiv, Boiberik is Boiarka, and Kasrilevke, drawn from his memories of Voronkiv, became the image of the Jewish shtetl. He wanted Yiddish literature to stand alongside literature in Hebrew, and he gathered the best writers to build it. Today his works are read in 64 languages, the Tevye stories grew into Fiddler on the Roof, staged all over the world, and in Kyiv [Bohdan Stupka](/en/people/bohdan-stupka/) played Tevye about 400 times.

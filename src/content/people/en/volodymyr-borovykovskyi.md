@@ -37,4 +37,4 @@ Borovykovskyi kept painting icons: in 1804–1811 for the Kazan Cathedral in Sai
 
 ## Why it matters today
 
-Borovykovskyi was born and trained as an artist in Ukraine, and spent the main part of his career in Saint Petersburg. That is why most of his paintings are in Russian museums, but his work is also held by the National Art Museum of Ukraine in Kyiv and other Ukrainian museums, and one painting is in the Louvre. A street in Myrhorod and a boulevard in Poltava bear his name.
+Volodymyr Borovykovskyi learned to paint in Myrhorod from his father, an icon painter: together they painted churches, and the young Cossack made portraits of Cossack officers. With that home training he became an academician in Saint Petersburg and one of the empire’s finest portraitists. He dared to paint the empress out for a walk in a park rather than on a throne, and in over 150 portraits blended classicism with sentimentalism. His work hangs in the National Art Museum of Ukraine and one painting is in the Louvre. He left all he owned to the poor. His path shows that a great master can grow out of a father’s workshop.

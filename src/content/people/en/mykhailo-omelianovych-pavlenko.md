@@ -40,4 +40,4 @@ After the UNR Army was interned in Poland, the general lived in Kalisz and Tarn�
 
 ## Why it matters today
 
-An army trapped in the “triangle of death” in December 1919 broke out and fought on. Omelianovych-Pavlenko told the story himself, in The Ukrainian-Polish War of 1918–1919, The Winter Campaign and his Memoirs of an Army Commander, republished in Kyiv in 2007.
+Omelianovych-Pavlenko took command of the UNR Army when only about 4,000 men could still fight. Instead of waiting for the end in the “triangle of death”, it fought behind enemy lines for five months, and the Winter Campaign is considered to have saved it from final disaster. Earlier he had made the Ukrainian Galician Army fit for battle. In exile he founded the Museum of Ukraine’s Liberation Struggle in Prague and wrote the history of these wars in The Ukrainian-Polish War of 1918–1919 and The Winter Campaign. His story shows that even a trapped army can break out and fight on, and that such a fight is worth remembering.
