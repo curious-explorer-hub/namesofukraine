@@ -32,4 +32,4 @@ In 1873 Chubynskyi helped found a branch of the Geographical Society in Kyiv, wh
 
 ## Why it matters today
 
-Since 2003, by law, the first verse and refrain of Chubynskyi’s poem, set to Verbytskyi’s music, have been the words of Ukraine’s state anthem.
+Since 2003, by law, the first verse and refrain of Chubynskyi’s poem, set to the music of [Mykhailo Verbytskyi](/en/people/mykhailo-verbytskyi/), have been the words of Ukraine’s state anthem. A poem written in a single evening outlived its author’s exile: it was printed without his name and set to music while Chubynskyi himself was in the far north. The seven volumes of his expedition’s Proceedings preserved the songs, tales and customs of the Kyiv, Volhynia and Podillia regions and remain a key source on Ukrainian folk culture. So every time we sing the anthem, we repeat the words of a man twice banished from Ukraine for “Ukrainophilism”.

@@ -36,4 +36,4 @@ Views of the Hetmanate still differ. Critics, including the Ukrainian democratic
 
 ## Why it matters today
 
-The institutions founded under Skoropadskyi are still at work. And his experience shows how hard it was to build a state in the middle of a war, a foreign military presence and a deep social divide.
+In under eight months his government created the Ukrainian Academy of Sciences, state universities in Kyiv and Kamianets-Podilskyi and the National Library, and more than 150 gymnasiums were opened or switched to Ukrainian. The Academy and the Library still work today. In exile, he initiated the Ukrainian Scientific Institute in Berlin. At the same time, his experience shows how hard it was to build a state in the middle of a war, a foreign military presence and a deep social divide. Schools and scholarship founded even in a short, contested time can serve a country for over a century.

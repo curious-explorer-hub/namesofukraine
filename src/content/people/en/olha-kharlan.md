@@ -35,4 +35,4 @@ On 29 July 2024 Kharlan won bronze in the individual event, Ukraine's first meda
 
 ## Why it matters today
 
-Six Olympic medals: more than anyone who has ever competed for Ukraine. And Kharlan herself has become, for the world, the face of Ukrainian athletes standing up to Russian aggression.
+Olga Kharlan took up the sabre because dance classes cost too much and fencing lessons were free. That choice grew into six Olympic medals, more than anyone who has competed for Ukraine. In 2023 she refused to shake a Russian opponent’s hand, even though she thought it might end her career. In Paris she fenced the last bout of the team final, scored five touches in a row and brought Ukraine its first gold of those Games. She dedicated her medal to the people of Ukraine, its defenders and the athletes Russia has killed. For the world, Kharlan has become the face of Ukrainian athletes standing up to Russian aggression.

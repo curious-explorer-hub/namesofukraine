@@ -32,4 +32,4 @@ From 1959 to 1971 Honchar headed the Writers’ Union of Ukraine. He spoke out a
 
 ## Why it matters today
 
-Honchar is one of the best-known Ukrainian prose writers of the 20th century, and his books have been translated into many languages. His standing gave support to Ukraine’s democratic forces as the country restored its statehood. His Diaries, published after his death, revealed his national convictions and his careful resistance to dogmatic socialist realism.
+The Cathedral reminded readers that a people has a historical memory worth guarding, which is why the authorities pulled it for 20 years. Honchar is one of the best-known Ukrainian prose writers of the 20th century, translated into many languages. As head of the Writers’ Union he spoke out against Russification, and later led the fund to rebuild St Michael’s Golden-Domed Monastery. His standing gave support to Ukraine’s democratic forces as the country restored its statehood, and his Diaries, published after his death, revealed his national convictions. His call to “guard the cathedrals of your souls” still speaks to anyone who looks after their language and memory.

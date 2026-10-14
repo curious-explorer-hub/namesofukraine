@@ -34,4 +34,4 @@ Sahaidachnyi kept a moderate course towards the Polish-Lithuanian Commonwealth a
 
 ## Why it matters today
 
-Sahaidachnyi combined military strength with care for education and the church. He joined the Kyiv Brotherhood together with the entire Zaporozhian Host, supported the brotherhood school that later grew into the Kyiv-Mohyla Academy, and left a large fortune to education in his will. The National Army Academy bears his name.
+Sahaidachnyi turned a free Cossack host into a disciplined army of companies and regiments. That army freed captives at Kaffa, and in 1621 at Khotyn, together with the Polish-Lithuanian forces, it stopped the Sultan’s offensive against the Commonwealth. At the same time he cared for education and the church: he joined the Kyiv Brotherhood with the entire Zaporozhian Host, supported the brotherhood school that later grew into the Kyiv-Mohyla Academy, helped restore the Orthodox hierarchy and left a large fortune to education in his will. He showed that military strength and learning can serve the same cause. The National Army Academy bears his name.

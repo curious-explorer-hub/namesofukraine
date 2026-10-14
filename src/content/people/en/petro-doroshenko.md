@@ -35,6 +35,6 @@ The wars laid waste to the Right Bank, and people stopped supporting the hetman.
 
 The Ottoman alliance is Doroshenko’s most disputed decision. Some scholars explain it as an effort to reunite the Ukrainian lands within an independent state. At the same time, as others note, the idea was unpopular in Ukraine. Ottoman garrisons on the Right Bank plundered the population and carried people off into captivity, and many fled to the Left Bank.
 
-## Why he is remembered
+## Why it matters today
 
-Doroshenko lost, but he never gave up the goal he set at the start: one Ukraine on both banks of the Dnipro. In 2017 the 1st Operational Brigade of the National Guard of Ukraine was named after him.
+When neighbours split Ukraine along the Dnipro, Doroshenko refused to accept it and for the rest of his rule sought to reunite the Cossack state on both banks. In 1668 he was proclaimed hetman of all Ukraine, if only briefly. He beat Polish armies at Brailiv and Batih, sought allies, though the wars cost the Right Bank dearly. He lost, but never gave up the goal he set at the start: one Ukraine on both banks of the Dnipro. His example shows a country’s unity is worth standing up for even against the odds. In 2017 the 1st Operational Brigade of the National Guard of Ukraine was named after him.

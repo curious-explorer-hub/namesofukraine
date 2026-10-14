@@ -39,6 +39,6 @@ On 24 March 2022 Hrybov was exchanged. He came home. The real shock came next: h
 
 On 29 March 2022, the head of Cherkasy region's military administration Ihor Taburets presented Hrybov with the honor "For Services to Cherkasy Region."
 
-## Why it matters
+## Why it matters today
 
-His four words became a rallying cry for resistance around the world - they appeared on billboards, were repeated at protests, and rang out as a message to those who thought Ukraine would fall in days. Hrybov's story shows that heroism isn't always about remembering everything you did. Sometimes it's just about speaking up when it matters most.
+His four words became a rallying cry for resistance around the world: they appeared on billboards, were repeated at protests, and rang out as a message to those who thought Ukraine would fall in days. They came not from a general or a politician but from a 32-year-old border guard from Zolotonosha, one of 13 defenders of Snake Island, on the first day of the full-scale invasion. He went through a month of captivity, came home, and only then learned that the world knew his words. Hrybov’s story shows that heroism isn’t always about remembering everything you did. Sometimes it’s just about speaking up when it matters most.

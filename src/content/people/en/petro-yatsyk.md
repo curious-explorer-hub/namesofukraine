@@ -32,4 +32,4 @@ Yatsyk urged other wealthy Ukrainians to do the same and became the first presid
 
 ## Why it matters today
 
-Yatsyk showed that diaspora money can work for Ukrainian scholarship and the Ukrainian language. Millions of school and university students from more than 20 countries have taken part in the competition that bears his name.
+Yatsyk showed that diaspora money can work for Ukrainian scholarship and the Ukrainian language. Walking west in 1944, he believed that if he survived he would do something for Ukraine, and he did. A man who started out washing dishes and lived very modestly gave more than 16 million dollars to Ukrainian studies at Harvard, Toronto, London, New York and Edmonton. His one condition brought English-language readers a translation of the History of Ukraine-Rus’ by [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). He urged other wealthy Ukrainians to do the same. And millions of school and university students from more than 20 countries have taken part in the competition that bears his name.
