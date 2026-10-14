@@ -32,3 +32,7 @@ On 19 May 2022, following orders from command, Kateryna left the plant with the 
 ## Back in the army
 
 That same year Kateryna was awarded the Order for Courage, 3rd class, and Ternopil made her an honorary citizen. In November 2022 she sang the lullaby “Spy, malenkyi kozachok” (“Sleep, little Cossack”) in the final of the TV talent show “The Voice of the Country”. And in September 2025, after four and a half years as a volunteer, Ptashka signed a contract and became a service member of the Armed Forces of Ukraine. She says she is proud of it.
+
+## Why it matters today
+
+Kateryna “Ptashka” Polishchuk showed that you can look after others even when things are hardest for you. In besieged Mariupol she saved the wounded, and in the basements of Azovstal she kept her comrades going with songs that were heard far beyond the plant. In captivity she went on helping other prisoners as a paramedic and wrote poems about freedom. And once home, she didn’t step away: she went back to the army. Her example reminds everyone that a voice, care and courage belong together, and she kept all three even in captivity.

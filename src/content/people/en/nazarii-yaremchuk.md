@@ -23,6 +23,6 @@ In Smerichka Yaremchuk sang in a duet with Vasyl Zinkevych and worked with the c
 
 His repertoire numbered more than 150 songs, about love, family and the native land. Among the best known are “Stozhary” and “Smerekova Khata” by Pavlo Dvorskyi and “Hai, Zelenyi Hai” and “Batko i Maty” by Oleksandr Zlotnyk. Nazarii Yaremchuk died of cancer in 1995 in Chernivtsi and is buried there.
 
-## Why his songs are still heard
+## Why it matters today
 
-Yaremchuk sang almost exclusively in Ukrainian, and he filled concert halls to overflowing. Posthumously he received the Shevchenko Prize (1996) and the title Hero of Ukraine (2021), and since 1996 the Smerekova Khata museum-estate has operated in his family’s home in Vyzhnytsia.
+Nazarii Yaremchuk proved that Ukrainian songs could fill concert halls: he sang almost exclusively in Ukrainian, sometimes giving two or three concerts a day. His more than 150 songs are about love, family and the native land, and [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/)’s “Chervona Ruta,” which he sang with Vasyl Zinkevych, made them famous. He took these songs across the USSR and to Canada, the US, Brazil and India, and in 1986 sang for Chornobyl cleanup workers inside the zone. A boy who started in a school choir club showed that you can sing in your own language far beyond your home region. Anyone who sings in Ukrainian today carries this on.

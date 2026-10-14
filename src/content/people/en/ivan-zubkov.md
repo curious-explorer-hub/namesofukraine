@@ -25,6 +25,6 @@ In November 2014 the battalion was deployed to the Donbas. On 18 January 2015, S
 
 On 20 January 2015, Senior Lieutenant Ivan Zubkov was killed under the collapsed second floor of the airport's new terminal while covering his unit's withdrawal. He was 41.
 
-## How he is remembered
+## Why it matters today
 
-On 9 June 2015, Ivan Zubkov was posthumously made a Hero of Ukraine with the Order of the Gold Star. That same year, the 90th Separate Airborne Battalion he had served in was renamed in his honor. In his hometown of Derazhnia, memorial plaques were placed on the schools where he had studied.
+Ivan Zubkov could have stayed a civilian: he had been out of the army for sixteen years and had his own business. After the Maidan he volunteered anyway. In his battalion he made sure every comrade’s weapon worked, and at Donetsk airport he led his platoon to relieve the defenders who were cut off there. Wounded, he stayed in the fight and covered his unit’s withdrawal. He showed that a commander answers for everyone beside him, and that experience gained long ago can be needed by the country again. The 90th Battalion he served in now bears his name.

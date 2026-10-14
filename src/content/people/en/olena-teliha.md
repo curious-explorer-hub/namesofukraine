@@ -35,6 +35,6 @@ Olena Teliha was executed in February 1942, most likely at Babyn Yar; the exact 
 
 Teliha belonged to the OUN and published in Vistnyk, edited by Dontsov, the chief ideologue of Ukrainian integral nationalism. Critics of her commemoration, including the Ukrainian Jewish Committee, say the newspaper she worked with was anti-Jewish. In 2017 a monument to Teliha was unveiled at Babyn Yar, where the Nazis also shot tens of thousands of Jews, despite the committee’s objections. Supporters of her commemoration stress that she refused to cooperate with the occupiers and was killed by the Nazis. The assessment of her role in occupied Kyiv remains a subject of debate.
 
-## How she is remembered
+## Why it matters today
 
-In 1992 a memorial cross to her was put up at Babyn Yar, and since that year Ukrainians have honored her there every 21 February. There is also a memorial plaque in Poděbrady, where she studied. At the same time, her figure shows how hard it is to remember a war in which different tragedies intersected.
+Olena Teliha’s story shows that you can claim your language as an adult: a young woman raised among Russian speakers stood up one evening in Prague, called Ukrainian her own, and spoke nothing else from then on. In her poems and essays she saw the Ukrainian woman as an equal participant in the struggle for independence. In occupied Kyiv she headed the Union of Ukrainian Writers, and when the occupiers replaced the newspaper with a loyal one, she refused to cooperate. She is believed to have saved the poet Yakiv Halperin from arrest. Her line “Victory is given only to those who could laugh even in pain” reached readers only after her death, in The Soul on Guard.

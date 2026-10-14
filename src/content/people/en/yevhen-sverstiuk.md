@@ -30,4 +30,8 @@ Sverstiuk was arrested on 14 January 1972. In 1973 he was convicted of “anti-S
 
 ## Words that outlived the censors
 
-Back in Kyiv, Sverstiuk made a living as a carpenter. His articles were printed again only in the late 1980s. In 1989 he founded the newspaper Nasha Vira (Our Faith) and edited it, and in 1993 he became president of the Ukrainian PEN Centre. In 1995 his essay collection Prodigal Sons of Ukraine won him the Shevchenko Prize. Yevhen Sverstiuk died in Kyiv on 1 December 2014. The essays he was once tried for are now published freely in Ukraine, the voice of a generation that refused to stay silent.
+Back in Kyiv, Sverstiuk made a living as a carpenter. His articles were printed again only in the late 1980s. In 1989 he founded the newspaper Nasha Vira (Our Faith) and edited it, and in 1993 he became president of the Ukrainian PEN Centre. In 1995 his essay collection Prodigal Sons of Ukraine won him the Shevchenko Prize. Yevhen Sverstiuk died in Kyiv on 1 December 2014.
+
+## Why it matters today
+
+Yevhen Sverstiuk stood up for the right to think and write freely when it got people fired and tried. With [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/) he wrote in samvydav about the arson at the Central Scientific Library, and for his writing he served 12 years in camps and exile. While he was still a prisoner, International PEN made him an honorary member. Once he could publish again, he founded the newspaper Nasha Vira and led the Ukrainian PEN Centre. He wrote of “the eternal quiet language of truth”, and his life shows that this language cannot be drowned out. Anyone who writes honestly today, even when it is awkward, speaks it.

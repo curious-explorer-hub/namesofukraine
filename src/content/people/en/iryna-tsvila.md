@@ -31,6 +31,6 @@ Back home, she returned to her garden and, with her daughter, opened a workshop 
 
 On 24 February 2022 Iryna and her husband joined the defence of the Kyiv region. Iryna Tsvila was killed on 25 February 2022 in the fighting for Irpin. She was 52.
 
-## How she is remembered
+## Why it matters today
 
-In October 2022 the President awarded her the Order for Courage, 3rd class, posthumously. A friend remembers her saying: “Even in peacetime we can all do what we know how to do, and bring victory closer one way or another.”
+Iryna Tsvila could do many things: she taught children, grew roses, took photographs and made jewellery from flowers. With her camera she documented the Maidan, and in 2014 she volunteered for the Sich battalion herself. Back home she returned to her garden and, with her daughter, opened a workshop they chose to give a Ukrainian name, Verba. On 24 February 2022 she joined the defence of the Kyiv region. She believed everyone can bring victory closer by doing what they know how to do, not only at the front. Her life shows that you can give your country everything you know how to do: a camera, a garden and your service.

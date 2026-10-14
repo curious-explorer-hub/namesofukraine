@@ -31,6 +31,6 @@ In 2018 Ratushnyi recorded a video appeal to Kyiv residents: a developer wanted 
 
 From the first days of the full-scale invasion Ratushnyi defended Kyiv with the 93rd Separate Mechanized Brigade “Kholodnyi Yar”, then fought as a scout in the Sumy and Kharkiv regions. Roman Ratushnyi was killed near Izium in the Kharkiv region on 9 June 2022. He was 24.
 
-## How he is remembered
+## Why it matters today
 
-Roman was posthumously awarded the Order for Courage, 3rd class. On 8 September 2022 Kyiv got a Roman Ratushnyi Street, and Kyiv City Council gave his name to the Protasiv Yar reserve he had fought for. The NGO “Protect Protasiv Yar” carries on his work.
+Roman Ratushnyi showed that a handful of people who care can save a piece of green Kyiv. He appealed to Kyiv residents, gathered activists in tents and agreed to lead the NGO, and court cases became his second job until Protasiv Yar got its green-space status back. “Only self-organisation will save us from the end of the world,” he said, and he lived by it, from the Maidan at 16 to defending Kyiv from the first days of the full-scale war. The Protasiv Yar reserve now bears his name, and his NGO carries on his work. Anyone who defends their park, street or city follows in his footsteps.

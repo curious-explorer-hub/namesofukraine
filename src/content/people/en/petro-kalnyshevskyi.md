@@ -30,4 +30,4 @@ Once the Ottoman Empire was defeated, the empire no longer needed the Sich. In 1
 
 ## Why it matters today
 
-Kalnyshevskyi became a symbol of resilience and of the last days of Zaporozhian freedom. In 2008 the Ukrainian Orthodox Church of the Kyiv Patriarchate canonized him as the Righteous Petro the Long-Suffering. Streets in many Ukrainian cities bear his name.
+For more than a decade Petro Kalnyshevskyi led Zaporizhzhia as an administrator and diplomat. He drew settlers to the Zaporozhian lands and promoted farming and trade: by 1770 they had 45 villages and some 4,000 farmsteads. He went to St. Petersburg repeatedly to defend the Sich’s right to its land, and the Zaporozhians elected him against the empress’s wishes and re-elected him for ten years. When the empire destroyed the Sich, he spent 25 years in the Solovetsky prison and became a symbol of resilience. His life reminds us that a community’s right to choose its leaders and care for its land is worth standing up for.

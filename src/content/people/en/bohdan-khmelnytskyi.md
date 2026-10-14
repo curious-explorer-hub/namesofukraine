@@ -35,6 +35,6 @@ In 1654, at the Pereiaslav Council, Khmelnytskyi accepted the protection of the 
 
 In 1648–1649 the rebels killed tens of thousands of civilians, including Jews and Poles; in Jewish historical memory these events are one of the greatest tragedies. The hetman’s allies, the Crimean Tatars, carried people off into captivity (the yasyr). Historians still disagree about what the Pereiaslav agreement was meant to be: a military alliance, a protectorate or submission. It strengthened Moscow’s hold on Ukraine.
 
-## Why he is remembered
+## Why it matters today
 
-Historians see the Cossack state itself as Khmelnytskyi’s greatest achievement. Many Ukrainians carry his portrait every day: he is on the 5 hryvnia banknote.
+Bohdan Khmelnytskyi turned a Cossack uprising into a state. On the freed lands the Hetmanate took shape, with its own army, government and diplomacy, and historians see this Cossack state as his greatest achievement. An educated Cossack who spoke Ukrainian, Polish and Latin and later learned Turkish and Tatar, he negotiated with Crimea, the Ottoman Empire, Sweden, Transylvania and Moscow. It began with a personal wrong that met the Cossacks’ wider anger, and grew into an uprising that shifted the balance of power in Europe. His portrait on the 5 hryvnia note is a daily reminder that Ukrainians were building their own state in the 17th century.
