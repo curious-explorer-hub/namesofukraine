@@ -37,4 +37,4 @@ In March 1934 Voronyi was arrested and banished from Ukraine, to Voronezh for th
 
 ## Why it matters today
 
-Voronyi was one of the first to open Ukrainian poetry to new currents, and his almanac is where Ukrainian modernism began as a programme. His Yevshan-zillia is a poem about not losing the memory of your land.
+Voronyi was one of the first to open Ukrainian poetry to new currents. His 1901 manifesto urged writers to seek new paths, and his almanac From Above the Clouds and From the Valleys is where Ukrainian modernism began as a programme; next to the modernists it printed [Ivan Franko](/en/people/ivan-franko/) and [Lesya Ukrainka](/en/people/lesya-ukrainka/). He served the stage too: he acted with Kropyvnytskyi’s and Saksahanskyi’s troupes, co-founded the national theatre and the Central Rada in 1917, and translated librettos such as Carmen and Rigoletto into Ukrainian. Anyone seeking new forms for Ukrainian culture walks a path he helped open. His Yevshan-zillia is a poem about not losing the memory of your land.

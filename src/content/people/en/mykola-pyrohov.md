@@ -44,6 +44,6 @@ Pyrohov was not Ukrainian: he was born in Moscow and spent most of his working l
 
 Not all of his school policy was welcomed. In 1859 Pyrohov signed rules on pupils’ offences and punishments for the gymnasiums of the Kyiv district that allowed caning. The critic Nikolai Dobrolyubov mocked this sharply in the journal Sovremennik. Pyrohov himself later wrote that, in the end, his practice cut the use of the cane in the Kyiv district by 90 per cent.
 
-## Why he is remembered
+## Why it matters today
 
-Painkilling during surgery, a plaster cast on a broken arm and sorting the wounded by urgency seem ordinary today, and Pyrohov was among those who made them part of medicine. Since 1947 his estate in Vinnytsia has been a museum, and the Vinnytsia National Medical University bears his name.
+Painkilling during surgery, a plaster cast on a broken arm and sorting the wounded by urgency seem ordinary today, and Pyrohov was among those who made them part of medicine. His atlas of frozen sections showed surgeons where each organ lies. In Ukraine he also worked for education: he argued for teaching in the native language and for schooling open to all, helped open Sunday schools in Kyiv that taught in Ukrainian too, and on his initiative the Richelieu Lyceum in Odesa became a university. After 1861 he treated the sick at Vyshnia, where he built a hospital; today Vinnytsia National Medical University bears his name.

@@ -33,4 +33,4 @@ After the Games she moved to the United States, and for eight years she was a le
 
 ## Why it matters today
 
-Baiul was the first to raise Ukraine's flag to the top step of an Olympic podium. As of 2020 she was still Ukraine's only Olympic champion in figure skating.
+Oksana Baiul was the first to raise Ukraine’s flag to the top step of an Olympic podium, and the organizers had to hunt for a recording of the anthem. Her path shows you needn’t start out winning: at Soviet championships she never finished above tenth, yet a year after moving to Odesa she was world champion. In Lillehammer she was hurt in practice but still skated, added an unplanned jump combination near the end, and won by a tenth of a point. As of 2020 she was still Ukraine’s only Olympic champion in figure skating. Anyone who doubts themselves can remember how a 16-year-old from Dnipro didn’t give up.

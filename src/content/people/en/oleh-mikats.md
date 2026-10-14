@@ -36,6 +36,6 @@ In the autumn of 2014, while still commanding his brigade, Mikats ran for parlia
 
 During the ceasefire under the first Minsk agreements, rotations to the airport terminals passed through militant checkpoints, and not every soldier understood why. Mikats explained that this was agreed through the Joint Center for Control and Coordination (JCCC), which included Ukrainian and Russian officers: weekly rotations let troops be relieved without risk to their lives, while ammunition was brought in by other routes. A handshake between a deputy battalion commander of the 93rd Brigade, call sign "Kupol," and the militant commander "Motorola" drew heavy criticism on social media at the time. According to Mikats, it was during that very meeting that a truck loaded with ammunition got through to the control tower.
 
-## Why he is remembered
+## Why it matters today
 
-Mikats is convinced that the airport's defense mattered for the whole war: "The airport tied down the enemy's forces." The biggest battles for Debaltseve, he says, began only after the airport fell.
+Oleh Mikats was the first Ukrainian general who had never served in the Soviet army: his whole career was in the armed forces of independent Ukraine. In 2014 his brigade took Pisky and Pervomaiske, giving Ukrainian forces control of the road between Donetsk and Dnipropetrovsk, and from September he led the defense of Donetsk airport, whose defenders became known as the “cyborgs.” Mikats is convinced that the airport’s defense mattered for the whole war: “The airport tied down the enemy’s forces.” After the airport he took over the Desna Training Center, and in 2021 Operational Command East. His example shows the kind of commander independent Ukraine’s army has raised.

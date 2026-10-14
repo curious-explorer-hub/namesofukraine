@@ -47,4 +47,4 @@ Some historians see him as more far-sighted than the leaders of the Central Rada
 
 ## Why it matters today
 
-When most of the national movement asked only for autonomy, Mikhnovskyi insisted on full independence from Russia, guarded by an army of Ukraine's own. His ideas shaped the generation of the 1920s and 1930s, above all in Western Ukraine and in the emigration. A century after his death, the question of how to live next to Russia has again become a question of survival.
+When most of the national movement asked only for autonomy, Mikhnovskyi insisted on full independence from Russia, guarded by an army of Ukraine’s own. His pamphlet Independent Ukraine turned the idea of a free state into a political programme, and he later co-wrote a draft constitution for it. In 1917 he set about building one: he founded the Polubotok Ukrainian Military Club and helped form the Bohdan Khmelnytskyi Regiment. His ideas shaped the generation of the 1920s and 1930s, above all in Western Ukraine and in the emigration. A century after his death, the question of how to live next to Russia has again become a question of survival.

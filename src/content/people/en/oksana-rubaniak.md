@@ -32,6 +32,6 @@ On 24 February 2022, the first day of the full-scale invasion, 19-year-old Oksan
 
 Ksena was wounded near Vuhledar in the Donetsk region, and after treatment she returned to service. She later took command of an unmanned aerial systems platoon, recruiting and training its people herself. As of October 2026 she holds the rank of captain.
 
-## Why it matters
+## Why it matters today
 
-“Towards Death” has been called a trench diary in verse, and Oksana dedicated her next collection, “The Road of Life”, to fallen comrades. A young soldier from the Carpathians, she tells the story of the war in the first person and keeps the memory of those who stood beside her.
+Oksana Rubaniak went to defend Ukraine on the first day of the full-scale invasion, at 19. Her comrades doubted she could handle a machine gun, yet for a year and a half she was the only woman in her platoon; wounded, she returned to service and later recruited and trained her own drone platoon. She wrote her poems at the front: “Towards Death” has been called a trench diary in verse, and she dedicated “The Road of Life” to fallen comrades. A young soldier from the Carpathians, she tells the story of the war in the first person and keeps the memory of those who stood beside her.

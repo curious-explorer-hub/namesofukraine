@@ -33,4 +33,4 @@ In Australia, Miklukho-Maklai pressed for a marine biological station in Sydney,
 
 ## Why it matters today
 
-The north-east coast of New Guinea is still called the Maclay Coast. His diary, Among the Savages of New Guinea, was translated into Ukrainian by [Borys Antonenko-Davydovych](/en/people/borys-antonenko-davydovych/). And the idea he defended among the Papuans, that no people is higher or lower than another, still sounds modern.
+For about three years Miklukho-Maklai lived among the Papuans of New Guinea, winning their trust with patience, courage and a doctor’s skills. He argued that all human races are one and equal, and he acted on it: he fought the slave trade, and on his advice the Dutch moved to stop it on Ternate and Tidore. He left about 160 works and a marine biological station in Sydney, and his diary, Among the Savages of New Guinea, was translated into Ukrainian by [Borys Antonenko-Davydovych](/en/people/borys-antonenko-davydovych/). The coast where he lived is still called the Maclay Coast, and his idea that no people is higher or lower than another still sounds modern.

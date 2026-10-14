@@ -30,6 +30,6 @@ From the first day of the full-scale invasion Nazarii, call sign “Hrienka” (
 
 After rehabilitation Hryntsevych returned to service. With his comrades he founded the Kontakt 12 artillery reconnaissance unit in the Azov brigade and commanded a platoon of optical observers in it. Junior Lieutenant Nazarii Hryntsevych was killed in battle on 6 May 2024 near Kreminna in Luhansk Oblast. He was 21.
 
-## How he is remembered
+## Why it matters today
 
-On 8 July 2025 Nazarii was posthumously awarded the title Hero of Ukraine. For many he came to stand for a generation that went to defend the country straight from the lecture hall. And his words, filmed in Mariupol in the spring of 2022, “Whatever happens, love your mom, eat your porridge and love Ukraine”, are still repeated as a simple, sincere piece of advice.
+Nazarii Hryntsevych went to defend his country straight from the lecture hall, and for many he stands for that generation. For three months he was an Azov combat medic at Azovstal; he survived captivity, then went back to service, founding the Kontakt 12 artillery reconnaissance unit with his comrades and commanding a platoon in it. He called himself “an ordinary soldier” and credited the survival of Azovstal’s defenders not to himself but to their commander, [Denys Prokopenko](/en/people/denys-prokopenko/). He was made a Hero of Ukraine posthumously, and his words from Mariupol, “Whatever happens to you, love your mum, eat your porridge and love Ukraine”, are still repeated as simple, sincere advice.

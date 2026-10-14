@@ -34,4 +34,4 @@ Nina Matviienko died on 8 October 2023 in Kyiv, two days before her 76th birthda
 
 ## Why it matters today
 
-Matviienko brought ancient ritual songs to modern listeners and showed that folk singing can stand alongside classical music and rock. In 2024 she was posthumously named a National Legend of Ukraine.
+Nina Matviienko brought ancient ritual songs, carols, spring songs, Kupala and harvest songs, to modern listeners. Her voice inspired composers: Stankovych, Skoryk and Kyva wrote especially for her, and she showed that folk singing can stand alongside classical music. Then she proved it alive next to rock, singing with Okean Elzy, Tanok na Maidani Kongo and [Oleh Skrypka](/en/people/oleh-skrypka/), and performing with the La MaMa theater in New York. She explained herself why it matters: “When there are traditions, there is a nation, there is a people, there is a state.” Anyone who sings a carol today carries on what she kept alive for over half a century.

@@ -33,4 +33,4 @@ On 7 September 2019 Sentsov was freed in an exchange between Ukraine and Russia,
 
 ## Why it matters today
 
-Sentsov’s case drew the world’s attention to Ukrainians persecuted by Russia for resisting the occupation of Crimea. His path from debut director to political prisoner, Sakharov Prize laureate and soldier has become, for many, an example of how an artist answers a war.
+Sentsov’s case drew the world’s attention to Ukrainians persecuted by Russia for resisting the occupation of Crimea. In the penal colony he went 145 days without food, not for himself but to demand freedom for all Ukrainian political prisoners in Russia. At his trial he said it plainly: “A court of occupiers cannot be fair by definition.” Once free, he went back to filmmaking; after the full-scale invasion he joined the territorial defence, fought for Kyiv and later served in the 47th Brigade. His path from debut director to political prisoner, Sakharov Prize laureate and soldier has become, for many, an example of how an artist answers a war.
