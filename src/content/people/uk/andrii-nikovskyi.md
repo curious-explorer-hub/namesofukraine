@@ -22,6 +22,7 @@ image:
   alt: "Андрій Ніковський, 1920 рік"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Nikovsky_1920.jpg"
 key_accomplishments:
   - "Редактор газети «Рада» (до 1914) і «Нова рада» (1917–1919), журналу «Основа» (Одеса, 1915)"
@@ -38,7 +39,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Ніковський_Андрій_Васильович
 related: [mykhailo-hrushevskyi, liudmyla-starytska-cherniakhivska]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-14T00:20:29Z
 ---
 
 ## Хлопець з-під Одеси
