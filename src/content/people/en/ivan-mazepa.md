@@ -35,4 +35,4 @@ After the defeat at Poltava in 1709, Mazepa retreated to Bender and died there. 
 
 ## Why it matters today
 
-Mazepa became a symbol of Ukraine’s attempt to break free from Moscow’s rule. His portrait is on the 10-hryvnia banknote.
+Ivan Mazepa left Ukraine something you can still see: his money built and restored many churches, including in the Kyiv Pechersk Lavra and St. Michael’s Golden-Domed Monastery, and their style became known as Cossack, or Mazepa, Baroque. He supported printing, schools and the Kyiv-Mohyla Academy. In 1708, as the tsar kept cutting back the Hetmanate’s autonomy, he went over to Charles XII and became a symbol of Ukraine’s attempt to break free from Moscow’s rule. His call for all to stand “as one” “in defence of our laws and freedoms” still rings true today. His portrait is on the 10-hryvnia banknote.

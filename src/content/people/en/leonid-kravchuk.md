@@ -39,4 +39,4 @@ Scholars write that as Party ideologist Kravchuk put obstacles in Rukh’s way, 
 
 ## Why it matters today
 
-Kravchuk was a man of the Soviet system who, at the decisive moment, sided with independence. His story shows how complicated the road from Soviet Ukraine to Ukraine was.
+Leonid Kravchuk was a man of the Soviet system who, at the decisive moment, sided with independence. In August 1991 he refused General Varennikov’s demand for a state of emergency, and on 24 August he chaired the session where 346 deputies voted for the Act of Declaration of Independence. On 1 December he was elected Ukraine’s first president, and a week later he signed the agreement that put an end to the USSR. He said that “my signature is on every document of independent Ukraine”. His story shows how complicated the road from Soviet Ukraine to Ukraine was, and that one can choose one’s own state wherever one starts.

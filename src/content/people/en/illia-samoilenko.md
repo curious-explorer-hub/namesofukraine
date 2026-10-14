@@ -29,6 +29,6 @@ When the full-scale invasion began, Illia took up arms again. He was an intellig
 
 When the garrison left the plant, Illia was taken prisoner. He was held at Olenivka and then in Russia, 120 days in solitary confinement. The Russians took his prosthetic hand straight away. He came home in September 2022 in an exchange that freed 215 Ukrainians, among them the Azov commanders Palamar and [Denys Prokopenko](/en/people/denys-prokopenko/). “I personally don't consider myself a hero,” he said after his return, thinking of the comrades still in captivity.
 
-## Why it matters
+## Why it matters today
 
-Illia went back to service: as of July 2025 he was in charge of intelligence in Azov. His story shows that even after the heaviest losses, a person can return to the work they believe is theirs.
+Illia Samoilenko kept coming back. After losing his left hand and right eye in Donbas, he was fitted with a titanium hook and went back to his comrades in Azov. From besieged Azovstal he and [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) told foreign journalists about the siege and the hundreds of wounded who needed to be evacuated, so the world heard Mariupol’s defenders in their own words. After 120 days in solitary confinement he returned to service once more: as of July 2025 he was in charge of intelligence in Azov. His story shows that even after the heaviest losses, a person can return to the work they believe is theirs.

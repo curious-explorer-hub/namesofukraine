@@ -39,4 +39,4 @@ The most controversial episode of Dziuba’s life is his recantation of 1973. Af
 
 ## Why it matters today
 
-Internationalism or Russification? remains one of the most important texts on the Russification of Ukraine. And Dziuba’s story shows that one person armed with words can challenge a system.
+Ivan Dziuba said out loud what the authorities wanted kept secret. At the premiere of Shadows of Forgotten Ancestors he spoke about the secret arrests of young intellectuals, in one of the first public protests against political repression in the USSR. At Babyn Yar he spoke out against antisemitism. His Internationalism or Russification? spread through samvydav, came out in the West in several languages and remains one of the most important texts on the Russification of Ukraine. In independent Ukraine he served as minister of culture and co-chaired the editorial board of the Encyclopedia of Modern Ukraine. His story shows that one person armed with words can challenge a system.

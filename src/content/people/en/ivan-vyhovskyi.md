@@ -35,6 +35,6 @@ He is considered to have later moved from the idea of autonomy to the idea of an
 
 Historians judge the Treaty of Hadiach in different ways. The 19th-century historian [Mykola Kostomarov](/en/people/mykola-kostomarov/) saw Vyhovskyi as a fighter for independence from Moscow. Other scholars note that the treaty “substantially limited the internal sovereignty” of Cossack Ukraine and that many Cossacks rejected it. The suppression of Pushkar’s uprising in 1658 also casts a shadow: by some accounts, more than 50,000 people died.
 
-## Why he is remembered
+## Why it matters today
 
-Vyhovskyi’s name is tied above all to Konotop, where the Cossack army crushed the tsar’s forces. He is called the first hetman to be executed for his part in the struggle for the Cossack state’s independence.
+Ivan Vyhovskyi rose from a captured cavalry captain in the Polish army to [Bohdan Khmelnytskyi](/en/people/bohdan-khmelnytskyi/)’s general chancellor, in effect the head of the Cossack government. As hetman he sought a place for Cossack Ukraine between Warsaw and Moscow: under the Treaty of Hadiach it would become an autonomous Grand Duchy of Rus’. His name is tied above all to Konotop, where in 1659 the Cossack army, together with the Crimean Tatars, crushed the tsar’s forces. Later, it is thought, he moved on from autonomy to the idea of an independent Ukraine. He is called the first hetman executed for his part in the struggle for the Cossack state’s independence.

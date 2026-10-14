@@ -39,4 +39,4 @@ In May 1986 Drach was the first at the Congress of Writers of Ukraine to speak o
 
 ## Why it matters today
 
-Drach’s works have been translated into dozens of languages, and his name is considered one of the symbols of the fullness of modern Ukrainian culture.
+Ivan Drach showed that Ukrainian poetry could speak in a new way: A Knife in the Sun shocked some readers and struck others as a revelation, and Sunflower, with the debuts of [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/) and [Vasyl Symonenko](/en/people/vasyl-symonenko/), became one of the central literary events of those years. Shut out of the papers, he wrote for the screen: A Well for the Thirsty became a high point of Ukrainian poetic cinema. In 1986 he was the first at the Writers’ Congress to speak openly about the Holodomor, and in 1989 he became the first leader of the People’s Movement of Ukraine. His works have been translated into dozens of languages.

@@ -27,6 +27,6 @@ Bohun warned against an alliance with the Muscovite tsar and, after the Pereiasl
 
 In 1662 the Poles imprisoned Bohun in the fortress of Marienburg (today Malbork in Poland). In February 1664 he was suspected of secret contacts with the Left-Bank Cossacks and the Muscovites and was executed near Novhorod-Siverskyi.
 
-## Why he is remembered
+## Why it matters today
 
-Bohun stood up for Ukraine’s self-rule against both Poland and Moscow. People kept his memory alive in the historical duma “Ivan Bohun.”
+Ivan Bohun showed what to do when all seems lost: at Berestechko, after the khan betrayed the Cossacks and captured [Bohdan Khmelnytskyi](/en/people/bohdan-khmelnytskyi/), the encircled army chose him as acting hetman, and he led most of it out. He beat Polish forces at Vinnytsia and Monastyryshche, and after the Pereiaslav Council he refused to swear allegiance to the Muscovite tsar. Nor would he accept [Ivan Vyhovskyi](/en/people/ivan-vyhovskyi/)’s pro-Polish policy. Bohun stood up for Ukraine’s self-rule against both Poland and Moscow, and people kept his memory alive in the historical duma “Ivan Bohun.” Anyone who stands up today for Ukraine’s right to decide for itself has a forerunner in him.

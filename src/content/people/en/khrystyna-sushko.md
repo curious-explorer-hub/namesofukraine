@@ -32,4 +32,4 @@ With the army, Khrystyna ended up in the internment camp at Szczypiorno in Polan
 
 ## Why it matters today
 
-A woman officer in the Ukrainian army surprises no one today. Khrystyna Sushko showed it was possible more than a hundred years ago. In 2021 a street in Kyiv was named after her.
+A woman officer in the Ukrainian army surprises no one today. Khrystyna Sushko showed it was possible more than a hundred years ago: she treated the Sich Riflemen on the battlefield, escaped Bolshevik captivity and told Ukrainian units where the enemy stood, and stayed in service after severe wounds. She is called the first, and perhaps the only, woman officer of the UNR Army. Abroad, too, she cared for her own: she helped wounded comrades in the internment camp, and after the Second World War, as a doctor, looked after displaced persons camps full mostly of Ukrainians. Her path is an example for anyone who serves today to protect others.

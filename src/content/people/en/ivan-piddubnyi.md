@@ -39,4 +39,4 @@ Piddubnyi lived through the Nazi occupation of Yeysk (1942–1943). After the wa
 
 ## Why it matters today
 
-Piddubnyi is one of the iconic figures in the history of physical culture. His path from port loader to star of the world’s arenas shows what strength, training and fair competition can achieve. And neither prison nor torture made him renounce who he was: he defended his right to call himself Ukrainian.
+Ivan Piddubnyi is one of the iconic figures in the history of physical culture. His path from port loader to “Champion of Champions” shows what strength, training and fair competition can achieve: he won by the “Hamburg score” too, and in his fifties he quickly mastered freestyle wrestling in the United States. In 1937 he crossed out “Poddubny” and “Russian” in his own passport and wrote “Piddubnyi” and “Ukrainian”. Neither prison nor torture made him renounce who he was: he defended his right to call himself Ukrainian. Anyone who is told today who they must be can remember his words: “I am a Ukrainian Cossack, and that says it all.”

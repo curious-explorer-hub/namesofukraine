@@ -37,4 +37,4 @@ Puliui never forgot where he came from. In Vienna he was one of the founders, an
 
 ## Why it matters today
 
-Puliui was one of the first researchers of X-rays, which no hospital today can do without. His translation helped Ukrainians read the Bible in their own language. Since 1994 the technical university in Ternopil has borne his name.
+Ivan Puliui left his mark both on science and on his own people’s culture. His lamp is seen as a forerunner of the X-ray tube, and he was one of the first researchers of X-rays, which no hospital today can do without. In Prague he became the first dean of Europe’s first faculty of electrical engineering and built an alternating-current power station. With Panteleimon Kulish and Ivan Nechui-Levytskyi he translated the Bible into Ukrainian, helping Ukrainians read it in their own language, and he set up a fund for poor students from Ukraine. His life shows that serious science and loyalty to one’s people can go hand in hand.
