@@ -16,17 +16,30 @@ places:
   - { name: "Рим", lat: 41.902, lon: 12.496, note: "три титули: 2017, 2018, 2026" }
 image:
   src: ./images/elina-svitolina.jpg
-  alt: "Еліна Світоліна на пресконференції Sports Festival у Клуж-Напоці, 2026 рік"
-  position: "50% 25%"
-  author: "Nuță Lucian"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Elina_Svitolina_at_Sports_Festival_2026.jpg"
+  alt: "Еліна Світоліна з ракеткою в руці дякує глядачам, приклавши долоню до серця"
+  position: "50% 20%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://justwomenssports.com/reads/elina-svitolina-withdraws-injury-cincinnati-open-2026/"
+  fair_use: true
+gallery:
+  - src: ./images/elina-svitolina-rome.webp
+    alt: "Усміхнена Еліна Світоліна тримає над собою срібний кубок турніру в Римі"
+    caption: "Світоліна з кубком турніру в Римі, травень 2026 року"
+    section: 3
+    fair_use: true
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://english.aawsat.com/sports/5274043-svitolina-fights-gauff-win-third-italian-open-title"
 key_accomplishments:
   - "Бронзова медаль Олімпійських ігор у Токіо (2021) - перша олімпійська медаль України в тенісі"
   - "Переможниця Підсумкового турніру WTA (2018)"
   - "Третя ракетка світу (2017); 20 титулів WTA станом на жовтень 2026 року - перша українка з таким досягненням"
   - "Чотири півфінали турнірів Великого шолома: Вімблдон (2019, 2023), US Open (2019), Australian Open (2026)"
   - "Засновниця благодійного фонду свого імені (2019); амбасадорка платформи UNITED24 (з 2022 року)"
+quotes:
+  - text: "Ми стоїмо як вільні люди, ми стоїмо за свою свободу і боремося за те, що належить нам. Мені здається, що саме незламний дух — це головна риса українців."
+    source: "Інтерв'ю Kyiv Post, 3 листопада 2025"
 sources:
   - title: "Велика українська енциклопедія - Спорт в Україні (автор - С. В. Глухова)"
     url: "https://vue.gov.ua/Спорт_в_Україні"
@@ -38,7 +51,8 @@ sources:
     url: "https://elinasvitolinafoundation.org/elina-svitolina"
 related: [marta-kostiuk]
 collections: [olympians]
-status: draft
+status: approved
+published: 2026-10-14T20:06:43Z
 ---
 
 ## Медаль, якої Україна ще не мала

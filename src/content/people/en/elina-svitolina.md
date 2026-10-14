@@ -11,7 +11,13 @@ key_accomplishments:
   - "Four Grand Slam semifinals: Wimbledon (2019, 2023), US Open (2019), Australian Open (2026)"
   - "Founder of the Elina Svitolina Foundation (2019); UNITED24 ambassador (since 2022)"
 birthplace_name: "Odesa"
-image_alt: "Elina Svitolina at a Sports Festival press conference in Cluj-Napoca, 2026"
+image_alt: "Elina Svitolina, racket in hand, thanks the crowd with her palm on her heart"
+gallery:
+  - alt: "A smiling Elina Svitolina holds up the silver trophy of the Rome tournament"
+    caption: "Svitolina with the Rome trophy, May 2026"
+quotes:
+  - text: "We stand as free people, we stand for our freedom, we fight for what is ours. And I think the unbreakable spirit is the big highlight of Ukrainians."
+    source: "Interview with Kyiv Post, 3 November 2025"
 ---
 
 ## A medal Ukraine had never won
