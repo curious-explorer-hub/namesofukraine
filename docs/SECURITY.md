@@ -41,7 +41,7 @@ Contributors never need a role on the repository: on a public repo anyone can fo
 2. **Actions** (Settings → Actions → General): require approval for workflows from **all outside collaborators**; default workflow permissions **read**; don't let Actions create or approve pull requests.
 3. **Merging** (Settings → General): squash merging only; delete branches after merge.
 4. **Security** (Settings → Code security): private vulnerability reporting, secret scanning and push protection, Dependabot alerts (already on).
-5. **CI** (`.github/workflows/ci.yml`): move the Cloudflare secrets from the job's `env` into a separate deploy job that runs only on pushes to `main` (ideally with a `production` environment limited to `main`), so no build or test step ever holds the token; pin third-party actions to a commit SHA (Dependabot updates them). Never use `pull_request_target` with a checkout of PR code.
+5. **CI** (`.github/workflows/ci.yml`): the Cloudflare secrets are already only on the two deploy steps, and wrangler and Lighthouse CI are pinned in `package-lock.json`. Before inviting anyone, move the deploy steps into a separate job that runs only on pushes to `main` (ideally with a `production` environment limited to `main`), so code from a pull-request branch can't reach the token; pin third-party actions to a commit SHA (Dependabot updates them). Never use `pull_request_target` with a checkout of PR code.
 6. **Test** with a pull request from a second account: the checks wait for approval, merging is blocked without the owner's review, and no secret appears in the log.
 
 `.github/CODEOWNERS` makes the owner the reviewer of every change in the repository.

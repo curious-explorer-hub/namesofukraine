@@ -64,7 +64,7 @@ If GitHub Actions is unavailable, deploy from your own computer (you'll be asked
 ```sh
 npm ci
 npm run build
-npx wrangler@4 pages deploy dist --project-name=namesofukraine --branch=main
+npx wrangler pages deploy dist --project-name=namesofukraine --branch=main
 ```
 
 This skips the CI checks, so run `npm run check`, `npm test` and `npm run test:e2e` first.

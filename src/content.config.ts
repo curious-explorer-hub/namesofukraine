@@ -9,10 +9,13 @@ import collectionsData from './content/collections.json';
 const ids = (items: { id: string }[]) => items.map((i) => i.id) as [string, ...string[]];
 
 
+// Links to outside pages: http(s) only, so a `javascript:` or `data:` link can't get into a profile.
+const webUrl = z.url({ protocol: /^https?$/ });
+
 const credit = {
   author: z.string(),
   license: z.string(),
-  source_url: z.url(),
+  source_url: webUrl,
 };
 
 // Ukrainian profiles hold all facts: src/content/people/uk/<slug>.md → entry id "uk/<slug>"
@@ -69,7 +72,7 @@ const people = defineCollection({
         videos: z
           .array(z.object({ youtube: z.string().regex(/^[\w-]{11}$/), title: z.string(), source: z.string(), date: z.coerce.date(), duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/), section: z.number().int().min(1) }))
           .default([]),
-        sources: z.array(z.object({ title: z.string(), url: z.url() })).min(2),
+        sources: z.array(z.object({ title: z.string(), url: webUrl })).min(2),
         related: z.array(z.string()).default([]),
         collections: z.array(z.enum(ids(collectionsData.collections))).default([]),
         // Every new profile starts as a draft: in the repo, never on the site. After review the owner sets
