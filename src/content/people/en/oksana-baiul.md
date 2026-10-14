@@ -10,7 +10,7 @@ key_accomplishments:
   - "European silver medallist in 1993 and 1994; Ukrainian champion twice (1993, 1994)"
   - "Honoured Master of Sport of Ukraine (1994); honorary citizen of Dnipropetrovsk (1994)"
 birthplace_name: "Dnipro"
-image_alt: "Oksana Baiul on the ice, a drawing on a Ukrainian postage stamp, 1995"
+image_alt: "Oksana Baiul in a Ukrainian Olympic team jacket"
 ---
 
 ## The missing anthem
@@ -27,10 +27,10 @@ In 1993 in Prague, Baiul skated a flawless free program, beat France's Surya Bon
 
 ## One tenth of a point
 
-At the 1994 Olympics the favourites were the Americans Nancy Kerrigan and Tonya Harding. In practice before the free program Baiul collided with the German skater Tanja Szewczenko and was hurt, but she still went out on the ice. Near the end of her program she added a combination of jumps she hadn't planned in advance, and beat Kerrigan by one tenth of a point. Five of the nine judges voted for Baiul.
+In practice the day before the free program, Baiul collided with the German skater Tanja Szewczenko. She badly wrenched her back and gashed her shin, a cut that needed three stitches. Before she skated she was given painkilling injections, and she went out on the ice. Near the end of her program she changed it on the fly, added a combination of jumps she hadn't planned in advance, and beat America's Nancy Kerrigan by one tenth of a point. Five of the nine judges voted for Baiul.
 
 After the Games she moved to the United States, and for eight years she was a lead skater in ice shows across the US, Canada and France.
 
 ## Why it matters today
 
-Oksana Baiul was the first to raise Ukraine’s flag to the top step of an Olympic podium, and the organizers had to hunt for a recording of the anthem. Her path shows you needn’t start out winning: at Soviet championships she never finished above tenth, yet a year after moving to Odesa she was world champion. In Lillehammer she was hurt in practice but still skated, added an unplanned jump combination near the end, and won by a tenth of a point. As of 2020 she was still Ukraine’s only Olympic champion in figure skating. Anyone who doubts themselves can remember how a 16-year-old from Dnipro didn’t give up.
+Independent Ukraine's Olympic story began with Baiul. As of 2020 she was still Ukraine's only Olympic champion in figure skating. Anyone who doubts themselves can remember how a 16-year-old from Dnipro didn't give up.
