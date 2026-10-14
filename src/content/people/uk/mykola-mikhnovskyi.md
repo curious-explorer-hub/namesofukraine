@@ -30,6 +30,7 @@ image:
   position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9C%D1%96%D1%85%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_1.jpg"
 quotes:
   - text: "У сю війну увійшли українці рабами, але повинні вийти з неї вільними!"
@@ -45,7 +46,8 @@ sources:
     url: "https://armyinform.com.ua/2021/04/nezabarom-drukom-vyjde-knyga-pro-mykolu-mihnovskogo-organizatora-ukrayinskyh-zbrojnyh-syl/"
 related: [taras-shevchenko, mykhailo-hrushevskyi, volodymyr-vynnychenko, pavlo-skoropadskyi]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-14T05:14:06Z
 ---
 
 ## Промова, що стала програмою

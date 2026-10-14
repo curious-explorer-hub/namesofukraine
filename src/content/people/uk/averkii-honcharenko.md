@@ -26,6 +26,7 @@ image:
   position: "50% 35%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%90%D0%B2%D0%B5%D1%80%D0%BA%D1%96%D0%B9_%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE,_1943.jpg"
 sources:
   - title: "Енциклопедія сучасної України - Гончаренко Аверкій (Оверко) Матвійович (автор - Р. М. Коваль)"
@@ -38,7 +39,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/biy-pid-krutamy-averkiy-honcharenko/31075486.html"
 related: [symon-petliura]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-14T05:16:16Z
 ---
 
 ## Хто командував під Крутами?
