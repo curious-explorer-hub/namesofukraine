@@ -36,6 +36,8 @@ About a week later his unit was encircled near Zelenopillia. For more than a mon
 
 Next came two rotations at Donetsk airport, about ten days each, with the 79th Brigade, which also had [Valerii Chybinieiev](/en/people/valerii-chybinieiev/) and [Viacheslav Zaitsev](/en/people/viacheslav-zaitsev/) among the terminals’ defenders. The hardest part there, Pavlo said, was losing friends. Then came the Debaltseve bridgehead, which he called the most frightening fight of all. In February 2015, by then a junior lieutenant, Chaika received the 1st class of the order. “I always dreamed of becoming an officer, and thanks to this war I became one,” he said.
 
-## How he is remembered
+Captain Pavlo Chaika died in a road accident in the Volyn region on 29 September 2024. He was 36.
 
-Captain Pavlo Chaika died in a road accident in the Volyn region on 29 September 2024. He was 36. He was buried on the Alley of Glory at the cemetery of his hometown, Rozhyshche, where he was an honorary citizen.
+## Why it matters today
+
+Pavlo Chaika became only the third full holder of the Order for Courage in Ukrainian history, but his story is also one of standing by his own. When wounded, he refused rehabilitation because in hospital he kept hearing of more comrades hurt, and went back to them. From the encirclement near Zelenopillia, where nobody gave up, he drove out a captured truck that later helped the troops many times. “We treasure every soldier; every one of them is simply an incredible person,” he said. He became the officer he had dreamed of being, and Rozhyshche made him an honorary citizen. Anyone who stands by their own follows his lead.

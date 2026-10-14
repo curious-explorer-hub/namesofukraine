@@ -28,6 +28,6 @@ His family last heard from him on 20 January 2015; after the explosion in the te
 
 Private Petro Polytsiak was killed on 20 January 2015 defending the new terminal of Donetsk airport. He was 22. That same day his brigade's combat medic [Ihor Zinych](/en/people/ihor-zinych/) and [Ivan Zubkov](/en/people/ivan-zubkov/) were killed there too. Petro is buried in his home village of Borbyn.
 
-## How he is remembered
+## Why it matters today
 
-On 23 May 2015 Petro Polytsiak was posthumously awarded the Order for Courage, 3rd class, "for personal courage and high professionalism shown in defending the state sovereignty and territorial integrity of Ukraine". On 3 December 2021, for the 30th anniversary of the Armed Forces, he was posthumously made a Hero of Ukraine. His portrait is on the Wall of Remembrance of the Fallen for Ukraine in Kyiv.
+Petro Polytsiak could have stayed on his building site in Kyiv when his call-up papers arrived at the village council. Instead he came home and collected them himself. The builder from Borbyn became one of the “cyborgs” who held the new terminal of Donetsk airport under daily fire. There, his family recall, he and a comrade carried a badly wounded soldier almost half a kilometre. Petro showed that courage means not only holding a position but also not leaving behind someone beside you who needs help. In 2021 he was posthumously made a Hero of Ukraine.

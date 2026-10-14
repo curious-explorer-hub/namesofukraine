@@ -31,6 +31,6 @@ On the evening of 19 July 2024 Iryna Farion was shot dead outside her home in Lv
 
 Farion was one of the most controversial public figures in Ukraine. Supporters saw her as an uncompromising defender of the Ukrainian language; critics saw a politician whose offensive remarks alienated Russian-speaking Ukrainians and harmed the cause of Ukrainization itself. She was criticised in particular for reproaching kindergarten children for the Russian forms of their names, and for saying that she could not call Russian-speaking soldiers Ukrainians. After those words Lviv Polytechnic dismissed her, but a court later reinstated her.
 
-## How she is remembered
+## Why it matters today
 
-Farion left scholarly works and teaching projects on the Ukrainian language. In Lviv there is now an Iryna Farion Street next to the main building of Lviv Polytechnic, and Ivano-Frankivsk has decided to name another street after her.
+Iryna Farion combined scholarship on the Ukrainian language with bringing that language to people. The ideas behind the posters “Language is the foundation of your life” and “The word is a spiritual sword” were hers. From 1991 she taught at Lviv Polytechnic, studied the history of Ukrainian, its spelling and surnames, and published a monograph on Old Ukrainian in the 14th–17th centuries. From 2015 to 2024 she chaired the supervisory board of the International Ukrainian Language Competition named after [Petro Yatsyk](/en/people/petro-yatsyk/). In her last years she taught Ukrainian on her YouTube channel, Studio Farion. She left scholarly works and teaching projects for anyone who learns or studies the language.

@@ -26,6 +26,6 @@ After graduating, Tarabalka served in the 114th Tactical Aviation Brigade and fl
 
 On 13 March 2022 Major Stepan Tarabalka was killed in an air battle over Zhytomyr. He was 29.
 
-## How he is remembered
+## Why it matters today
 
-Stepan was made a Hero of Ukraine posthumously and was buried in his home village. Between 2022 and 2024 streets in Kolomyia, in Yahotyn near Kyiv and in Korolivka were named after him. In 2023 the Kolomyia lyceum where he once studied opened a museum to the pilot. That, the school remembers, is where his dream of the sky began.
+Stepan Tarabalka learned the trumpet at music school but dreamed of the sky, and he followed that dream all the way. At 13 the village boy from near Kolomyia left for a military lyceum, then graduated from the Air Force university and became a MiG-29 pilot. When the full-scale invasion began, the dream became duty: in the first weeks of the war he took to the air again and again to defend Ukraine’s sky. His story doesn’t need the “Ghost of Kyiv” legend; what he really did is enough. The school where his dream of flying began now has a museum to him.

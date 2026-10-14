@@ -26,3 +26,7 @@ In early April 2022 Baraniuk led a column trying to break out of the besieged ci
 ## Captivity since
 
 On 8 May 2022, Russian state media showed Baraniuk alive in captivity.
+
+## Why it matters today
+
+Twice, Volodymyr Baraniuk took on responsibility at the hardest moment. In Feodosia in 2014, after the senior officers had been flown out, he took charge of an encircled battalion of unarmed marines. Eight years later his 36th Brigade, surrounded in Mariupol, held back a far larger force. Even after the breakout failed and he was captured, the brigade did not fall apart: about 500 soldiers led by [Serhii Volynskyi](/en/people/serhii-volynskyi/) fought their way through to Azovstal and joined its defenders. His path shows that a commander is someone who doesn’t step aside when the decision falls to him.

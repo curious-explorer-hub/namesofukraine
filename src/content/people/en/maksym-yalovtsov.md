@@ -28,6 +28,6 @@ When the full-scale invasion began, Maksym and like-minded friends, many of them
 
 Maksym Yalovtsov was killed on 21 September 2022 during a mission on the Zaporizhzhia front. He was 32.
 
-## How he is remembered
+## Why it matters today
 
-He was buried on the Alley of Glory at Lisove Cemetery in Kyiv. He was posthumously awarded the Order for Courage, 3rd class, and the Kyiv mayor’s badge “For Assisting the Defense of Kyiv”, and he was posthumously given a black belt in jiu-jitsu. In Odesa the One Touch jiu-jitsu academy held a tournament in memory of Maksym and his comrade [Yevhenii Brakh](/en/people/yevhenii-brakh/), “Mali”, who was killed with him. In September 2023 a mural in his honor appeared on Myloslavska Street in Kyiv’s Troieshchyna district. His story is kept by Angels of Sport, a project of the Sports Committee of Ukraine.
+Maksym Yalovtsov was preparing to protect others before the full-scale war: he founded Civil Safety and taught civilians to handle weapons safely. A rugby player and Master of Sport, he gathered volunteers with fellow Dynamo fans and defended Kyiv from the first days of the invasion. When a Russian strike destroyed Retroville, he was the first to pull friends from the rubble and help the wounded. His story shows how skills built in peacetime, from sport and teaching to friendship, become something to lean on when a country needs defending. In Odesa a jiu-jitsu tournament was held in memory of him and his comrade [Yevhenii Brakh](/en/people/yevhenii-brakh/).

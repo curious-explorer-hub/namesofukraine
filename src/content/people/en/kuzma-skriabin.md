@@ -29,8 +29,12 @@ Kuzmenko founded Skriabin while still a student, in 1989, and led the band for t
 
 Kuzma was also known as a host. He presented the Hariacha Simka chart show (2000–2002), and in 2003–2008 the TV shows Shans (with Nataliia Mohylevska) and Sheikanemo on Inter. In 2006 his book Ya, Pobieda i Berlin came out, with novellas and the band’s lyrics.
 
-## How he is remembered
+On 2 February 2015, near the village of Lozuvatka in the Dnipropetrovsk region, Kuzmenko’s car collided with a milk tanker; according to the police, the car crossed into the oncoming lane on a bend. The singer died at the scene.
 
-On 2 February 2015, near the village of Lozuvatka in the Dnipropetrovsk region, Kuzmenko’s car collided with a milk tanker; according to the police, the car crossed into the oncoming lane on a bend. The singer died at the scene. He was buried in Briukhovychi near Lviv. That same day thousands of people in cities across Ukraine gathered in squares to sing Skriabin’s songs.
+## Why it matters today
 
-Kuzma’s songs have been covered by Tina Karol, Pianoboy, Boombox, Antytila, KAZKA and others, and monuments to him stand in Lutsk and Kyiv. Posthumously he received the Order of Merit, 1st class (2015), and the title Hero of Ukraine (2020). The title stirred arguments on social media: to his fans he is a cult singer and a sharp critic of those in power, while critics point out that in 2004 he toured in support of Viktor Yanukovych.
+Andrii Kuzmenko founded Skriabin while still a medical student and led the band for more than a quarter of a century: 16 studio albums, from Chuiesh Bil to 24. As host of Hariacha Simka, Shans and Sheikanemo he was a familiar voice on air for years. His songs live on: Tina Karol, Boombox, Antytila, KAZKA and others have covered them. After his death, thousands of people in cities across Ukraine gathered in squares to sing Skriabin’s songs together. And of the Euromaidan he said words that still matter today: “Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want.”
+
+## Debates and assessments
+
+Posthumously he received the Order of Merit, 1st class (2015), and the title Hero of Ukraine (2020). The title stirred arguments on social media: to his fans he is a cult singer and a sharp critic of those in power, while critics point out that in 2004 he toured in support of Viktor Yanukovych.

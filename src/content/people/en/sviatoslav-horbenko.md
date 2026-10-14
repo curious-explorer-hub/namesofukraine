@@ -26,6 +26,6 @@ In summer 2014 Sviatoslav passed his university military-training exams for the 
 
 On 3 October 2014, during the fighting for the airport, Sviatoslav and a comrade were carrying out the wounded. Sviatoslav Horbenko was killed that day at Donetsk airport while rescuing a wounded friend. He was 19. He is buried in Kyiv, at Berkovets Cemetery.
 
-## How he is remembered
+## Why it matters today
 
-On 28 August 2021 Sviatoslav Horbenko was posthumously made a Hero of Ukraine with the Order of the Gold Star. In April 2015 a lecture room at the Institute of Philology of Kyiv University was named after him, and the institute set up a scholarship in his name for students of Japanese. A memorial plaque hangs on his old lyceum in Poltava, and since 2020 he has been an honorary citizen of Vyshhorod.
+Sviatoslav Horbenko was a student who spoke several languages and was learning Japanese, and at the same time one of the “cyborgs” of Donetsk airport. When Maidan activists in Kharkiv faced persecution, he didn’t give up his studies; he transferred to Kyiv. In summer 2014 he passed his exams for the rank of junior lieutenant and volunteered. At the airport he and a comrade carried out the wounded, and he was killed rescuing a friend. Sviatoslav showed that learning and courage don’t pull in different directions. His institute set up a scholarship in his name for students of Japanese, so others carry on what he began.

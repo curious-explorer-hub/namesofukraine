@@ -34,6 +34,6 @@ In 2015 Zaitsev was demobilized and went back to the work he loved. He was twice
 
 Viacheslav Zaitsev was killed on 5 October 2022 in the Donetsk region. He was 42.
 
-## How he is remembered
+## Why it matters today
 
-He was posthumously awarded the Order for Courage, 2nd class. On Khortytsia, in front of the entrance to the Zaporozhian Sich museum complex, a memorial now stands in his honor: a stone block holding a sword, a copy of one found near the island in 2011. It ties the historian and soldier to what he loved most: history, archaeology and Khortytsia.
+For years Viacheslav Zaitsev told tourists and schoolchildren about Khortytsia and the Zaporozhian Cossacks. In spring 2014 he walked into the recruiting office himself, and at Donetsk airport, wounded, he stayed with his comrades because he was the only grenadier left. Back home he was twice elected to Zaporizhzhia city council, helped fellow veterans and kept studying Cossack monuments, and in 2022 he went to the front again. He showed that loving your land’s history can become the will to defend it. And he said himself that he was not alone: “there are many of us here.” On Khortytsia a memorial with a sword now stands in his honor.

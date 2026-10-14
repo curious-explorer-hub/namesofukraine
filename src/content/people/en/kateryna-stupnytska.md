@@ -27,6 +27,6 @@ In spring 2022 the brigade was fighting in Kyiv oblast, near Makariv. On 8 March
 
 Medical service sergeant Kateryna Stupnytska was killed on 8 March 2022 in a Russian air strike on the village of Nalyvaikivka in Kyiv oblast. She was 25.
 
-## How she is remembered
+## Why it matters today
 
-On 19 March 2022 Kateryna was posthumously made a Hero of Ukraine. Streets in Korets, Rivne and Kyiv now bear her name.
+Kateryna Stupnytska made her own choice: at 20 she walked into the enlistment office. From 2016 she was a medical instructor in the 14th Brigade, went on front-line rotations with it even before the full-scale invasion, and alongside her service studied physical therapy: how to help the wounded move again. Near Makariv she carried the wounded out under fire and gave them first aid; by one account, at least one of them survived only thanks to her. Her story shows what one medic in her place means: lives saved. She was made a Hero of Ukraine posthumously.

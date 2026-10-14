@@ -35,4 +35,4 @@ Drai-Khmara was first arrested in 1933. He was later released, but lost his job.
 
 ## Why it matters today
 
-The phrase “fivefold cluster” still stands for the Kyiv Neoclassicists. The poet’s daughter, Oksana Asher, went on to study her father’s work, and in 2015 a collection of his works came out in Kyiv.
+Drai-Khmara’s sonnet about swans that break the ice unafraid of winter gave a group of poets their name: the “fivefold cluster” still means the Kyiv Neoclassicists. The authorities read it as a call to resist, yet the poem outlived the charges and the camp. He was also a scholar who studied Ukrainian, Belarusian and Serbian literature, wrote a book on Lesya Ukrainka and translated Dante and the Kalevala. His lines “Break the age-old rock of tradition, / Shake off the dust of a life unfree” speak to anyone who has chosen a road and won’t turn back. In 2015 a collection of his works came out in Kyiv.

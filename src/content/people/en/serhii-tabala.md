@@ -26,6 +26,6 @@ In summer 2014 Serhii went through training at a "Right Sector" camp and headed 
 
 Serhii Tabala was killed on 6 November 2014 defending the control tower of Donetsk airport. He was 18.
 
-## How he is remembered
+## Why it matters today
 
-As early as 17 December 2014, Sumy City Council posthumously made Serhii Tabala an honorary citizen; he is buried on the alley of honorary citizens at the city's central cemetery. Memorial plaques were placed on School No. 9 and on the building where he lived, and in 2016 a street in Sumy was renamed Serhii Tabala (Sievier) Street. On 21 November 2016 he was posthumously made a Hero of Ukraine with the Order of the Gold Star.
+Serhii Tabala was 17 when he took his place on the Maidan barricades and 18 when he defended Donetsk airport. The trainee pastry cook from Sumy led a squad on the Maidan, and in summer 2014 he volunteered to go east. Wounded, he did not want to leave his comrades, went for treatment only on his commander’s order, and went straight back to the airport once he had recovered. He showed that taking responsibility for your country doesn’t have to wait until you’re grown up. The decree that posthumously made him a Hero of Ukraine honours both parts of his path: the Maidan and the front.

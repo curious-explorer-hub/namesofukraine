@@ -28,6 +28,6 @@ That same year Chybinieiev joined the 79th Separate Air Assault Brigade in Mykol
 
 Later Chybinieiev moved to the Defence Intelligence Directorate. After the full-scale invasion began, his sniper group fought for Hostomel. Lieutenant Colonel Valerii Chybinieiev was killed there on 3 March 2022, his 34th birthday.
 
-## How he is remembered
+## Why it matters today
 
-He was buried at Berkovetske Cemetery in Kyiv, next to his brother Roman, who was killed at the front in 2019. Valerii is an honorary citizen of Zaporizhzhia and Berdiansk.
+Valerii Chybinieiev grew up in a boarding school and made his own way to the life he had dreamed of: he worked on his English day and night to get into a military lyceum, and went on to command a sniper company in the 79th Brigade. He helped liberate Lyman and defended Donetsk airport, and when he was wounded near Avdiivka he kept commanding his unit. In 2022 his group fought for Hostomel in the defense of the Kyiv region. His path shows that where you start doesn’t decide who you become. His home city said it most simply, on its billboards: “Be like Valera.”

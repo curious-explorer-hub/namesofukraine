@@ -31,6 +31,6 @@ In April 2022 Pavlo was mobilized into the Armed Forces. He served as an aerial 
 
 Pavlo Petrychenko was killed on 15 April 2024 near Krasnohorivka in the Donetsk region, a day before his 32nd birthday.
 
-## How he is remembered
+## Why it matters today
 
-Pavlo was buried at Askold’s Grave in Kyiv. In 2025 he was posthumously made a Hero of Ukraine with the Order of the Golden Star, and in the capital’s Darnytskyi district Volgo-Donska Street was renamed Pavla Petrychenka Street.
+Pavlo Petrychenko combined civic activism with military service. He stood on the Euromaidan, helped found the “Who Ordered Katia Handziuk?” movement, built up a volunteer center in the first weeks of the full-scale war, and then, flying drones, helped liberate the Kherson region and defend the Donbas. Already an aerial scout, he started a petition to restrict online casinos, convinced they were harming society and soldiers, and more than 25,000 people signed it in under a day. He showed that a uniform doesn’t stop you caring what kind of society you defend. In 2026 [Vladyslav Heraskevych](/en/people/vladyslav-heraskevych/) passed his words on to Ukrainians: “All the beautiful ones keep their optimism.”

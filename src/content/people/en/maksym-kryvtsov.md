@@ -31,6 +31,6 @@ In December 2023 the publisher Nash Format released his first collection, *Poems
 
 Maksym Kryvtsov was killed in battle in Kharkiv Oblast on 7 January 2024. He was 33.
 
-## How he is remembered
+## Why it matters today
 
-He was buried in Rivne, on the Alley of Heroes. Posthumously Kryvtsov received the Ulas Samchuk literary prize and the Order of Merit, 3rd class, and in 2025 he was made a Hero of Ukraine. A reserve football pitch of the Veres club in Rivne bears his name.
+Maksym Kryvtsov went to defend Ukraine twice: as a volunteer in 2014 and again on 24 February 2022. Between the wars he worked for other veterans, at YARMIZ and Veteran Hub, and was a photographer and mentor for the children of Strokati Yenoty. And he left words behind: PEN Ukraine named *Poems from the Embrasure*, free verse illustrated with his own photographs, one of the best Ukrainian books of 2023. Children read those poems at a Strokati Yenoty camp, and the band Yurcash sings songs set to them. They let any reader hear the war in the voice of a man who fought and remained a poet.

@@ -31,6 +31,6 @@ Researchers also debate the violence that came with the movement. Even before th
 
 As an anarchist, Makhno opposed any state, so he does not fit into the history of Ukrainian state-building, but he is an important part of the history of the peasant struggle of 1917–1921.
 
-## Why people still talk about him
+## Why it matters today
 
-Makhno draws great interest in Ukraine and around the world. In 2009 a monument to him was put up in his native Huliaipole.
+Makhno’s story is part of the peasant struggle of 1917–1921. A hired hand from Huliaipole with only a primary education, he signed, as head of the local council, a decree dividing the landlords’ land among the peasants, then led an insurgent army that fought the Austro-German forces and the Hetman’s government, the Whites and the Reds. At Perehonivka his men routed Denikin’s elite regiments, and Ukrainian scholars write that his insurgent tactics were studied by many armies. That is why he still draws interest in Ukraine and beyond, while the violence that came with the movement, and his place in history, are still debated.

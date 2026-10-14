@@ -27,6 +27,6 @@ In 2015 Olha’s husband went to the war as a volunteer, and the next year she w
 
 Olha Semydianova was killed on 3 March 2022 on the border of the Donetsk and Zaporizhzhia regions. She was 48.
 
-## How she is remembered
+## Why it matters today
 
-Olha received many awards for her courage and skill, and in October 2022 Senior Soldier Semydianova was posthumously awarded the Order for Courage, 3rd class. Several of her children, like their parents, have also gone to defend Ukraine. Local media in the Nikopol area tell her story among those of their fallen neighbors. “She became an example for us of patriotism and love for our land,” her daughter says.
+Olha Semydianova gave a home to six boys from an orphanage and became a mother of twelve. When the war came, she went to the front so that it wouldn’t reach their homes, and saved the wounded on the front line even before she officially became a combat medic. She cared for people at home and where things were hardest, and she did not leave her company. Several of her children, like their parents, have gone to defend Ukraine. “She became an example for us of patriotism and love for our land,” her daughter says. Anyone who takes responsibility for others can lean on her example.

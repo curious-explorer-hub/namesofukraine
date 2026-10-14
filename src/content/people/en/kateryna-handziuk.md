@@ -36,4 +36,8 @@ On 31 July 2018 Kateryna Handziuk was attacked in Kherson and doused with acid. 
 
 In 2019 the five men who carried out the attack admitted their guilt, made plea deals and were sentenced to between three and six and a half years in prison. On 26 June 2023 the Dniprovskyi District Court of Kyiv found Vladyslav Manher, the former head of the Kherson regional council, and Oleksii Levin guilty of organising the attack and sentenced each of them to 10 years in prison. Manher said he was not guilty, and the verdict was appealed.
 
-As of June 2026, the Kyiv Court of Appeal had not finished the case, so the verdict had not taken legal effect. In three years the panel of judges changed four times. The “Who Ordered Katia Handziuk?” movement goes on following the case.
+As of June 2026, the Kyiv Court of Appeal had not finished the case, so the verdict had not taken legal effect. In three years the panel of judges changed four times.
+
+## Why it matters today
+
+Kateryna Handziuk kept watch on how public money was spent and did not stay silent when she saw corruption. She co-founded a website that tracked public procurement, took part in the Euromaidan in Kherson, stood up to attempts to start a “Russian Spring” in the city, and helped displaced people. Even from her hospital bed she talked about justice and the rule of law, which, in her words, “today no one is treating.” People have not let her be forgotten: the “Who Ordered Katia Handziuk?” movement goes on following the trial. Anyone who checks where public money goes, or demands a fair trial, carries on her work.

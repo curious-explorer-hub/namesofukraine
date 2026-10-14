@@ -32,6 +32,6 @@ In the camps Marchenko gathered information about prisoners’ conditions and se
 
 On 21 October 1983 he was arrested again, and on the same day he joined the Ukrainian Helsinki Group. Although he was gravely ill, the court gave him 10 years in special-regime camps and 5 years of exile, and he was sent to a camp in the Perm region. The medical department of the Soviet Interior Ministry concluded that he should be released as incurably ill, but the KGB would not allow it. Valerii Marchenko died on 7 October 1984 in a prison hospital in Leningrad, aged 37. He was buried in the village of Hatne near Kyiv.
 
-## Among the Sixtiers
+## Why it matters today
 
-Marchenko is named among the Sixtiers who were given long sentences, alongside [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), [Vasyl Stus](/en/people/vasyl-stus/) and [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/). Marchenko and Stus both died in captivity. Marchenko was rehabilitated in 1991. Today a school in Kyiv and a street in Bucha bear his name, and a monument to him stands in Hatne.
+Valerii Marchenko refused to work for the KGB and paid for it with two sentences, yet he never stopped writing. From the camps he secretly sent out accounts of how prisoners lived so the world outside would know, and in exile he translated the US Declaration of Independence, a text about people’s right to be free, into Ukrainian. He is named among the Sixtiers alongside [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), [Vasyl Stus](/en/people/vasyl-stus/) and [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/). He feared his articles would never reach the people he wrote them for. His story shows that an honest word is worth saying even when you are punished for it.

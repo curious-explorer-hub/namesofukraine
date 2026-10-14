@@ -28,6 +28,6 @@ From the first day of the full-scale invasion, Khvat’s group defended Mariupol
 
 Major Vitalii Blazhko was killed on 8 May 2022 at the Azovstal steelworks in Mariupol, when a Russian aerial bomb hit a bunker. He was 32.
 
-## How he is remembered
+## Why it matters today
 
-In 2023 Vitalii Blazhko was posthumously made a Hero of Ukraine. He held all three classes of the Order for Courage, and for the defence of Mariupol he was also awarded the Order of Bohdan Khmelnytskyi after his death. In 2024 a street in his home city of Odesa was named after him.
+Vitalii Blazhko built Azov’s sniper unit, from a platoon in 2015 to a group, training the newcomers himself and going out to the positions with his men instead of commanding from headquarters. After losing both feet he turned down disability status and was back in the ranks in less than three months. He showed that even a severe wound doesn’t have to end a soldier’s service. In Mariupol his snipers bought time for the city’s defence, and after his fourth wound he refused to leave his comrades. His story is about staying true to your people and your work. He was made a Hero of Ukraine posthumously.
