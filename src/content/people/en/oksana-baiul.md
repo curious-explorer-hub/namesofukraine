@@ -23,7 +23,7 @@ Oksana Baiul was born in 1977 in Dnipro (then Dnipropetrovsk) and started skatin
 
 ## World champion at 15
 
-In 1993 in Prague, Baiul skated a flawless free program, beat France's Surya Bonaly and America's Nancy Kerrigan, and became world champion. She was 15.
+Before the 1993 World Championships in Prague, Baiul crashed into the boards in training and hurt her neck and back. On top of that, her skate blades were crooked, and it was too late to break in a new pair. Skating through the pain on damaged skates, she gave a flawless free program, beat France's Surya Bonaly and America's Nancy Kerrigan, and became world champion. She was 15.
 
 ## One tenth of a point
 
