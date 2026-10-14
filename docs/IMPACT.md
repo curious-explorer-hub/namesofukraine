@@ -1851,7 +1851,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 49: status: for review
+## Batch 49: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -1890,7 +1890,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 50: status: for review
+## Batch 50: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|

@@ -32,4 +32,4 @@ Since 2014 Zhadan has carried humanitarian aid to the front and founded a charit
 
 ## Why it matters today
 
-Zhadan showed that a writer can stay a writer and still refuse to look away from his city's troubles. His war writing is now read in places that had barely heard of Kharkiv before.
+Zhadan showed that a writer can stay a writer and still refuse to look away from his city’s troubles. He writes about Donbas and the Kharkiv region without varnish, in novels translated into dozens of languages. He has won the Peace Prize of the German Book Trade, the Hannah Arendt Prize and, in 2025, the Austrian State Prize for European Literature, a first for a Ukrainian writer. His war writing is read in places that had barely heard of Kharkiv. In 2014 he refused to kneel; he went on to carry aid to the front and in 2024 joined Khartiia. For him, words and deeds are one work.

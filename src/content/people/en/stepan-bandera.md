@@ -34,4 +34,4 @@ The courts ruled the 2010 decree awarding Bandera the title Hero of Ukraine unla
 
 ## Why it matters today
 
-The figure of Bandera shows how complex the struggle for independence was in the 20th century. It teaches us to distinguish between historical facts, historians’ assessments and propaganda.
+Stepan Bandera went from a Plast scout and Lviv Polytechnic student to leader of the OUN-B. On 30 June 1941 his followers in Lviv proclaimed the Act of Restoration of the Ukrainian State, and Bandera refused to revoke it, though it cost him Nazi imprisonment, including in Sachsenhausen concentration camp. For decades Soviet propaganda used his name, and in Russia “Banderite” is still used as a brand. That is why his figure shows how complex the 20th-century struggle for independence was, and teaches us to tell historical facts from historians’ assessments and from propaganda. Anyone who knows this history in full is harder to sell propaganda myths about it.

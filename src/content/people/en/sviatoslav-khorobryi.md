@@ -35,4 +35,4 @@ Back in the Balkans, Sviatoslav took the Bulgarian capital, Preslav. But a new e
 
 ## Why it matters today
 
-Under Sviatoslav the territory of Rus’ grew enormously, and his son Volodymyr later strengthened the state and brought Christianity to it. The warrior prince lives on in literature: Yuliian Opilskyi took his words for the title of the novel I Am Coming at You (1918), and Semen Skliarenko wrote the novel Sviatoslav (1959).
+Under Sviatoslav the territory of Rus’ grew enormously. He crushed the Khazar Khaganate, a powerful state on the Volga, opening the way to the Caspian for Rus’ merchants; in the Balkans he reached the Danube and wanted to move his capital there. He warned his enemies before attacking, “I am coming at you,” and the chronicler painted him as a hero: Sviatoslav the Brave. After his mother died he divided Rus’ among his sons, and one of them, [Volodymyr](/en/people/volodymyr-velykyi/), later strengthened the state and brought Christianity to it. The warrior prince lives on in literature, including novels by Yuliian Opilskyi and Semen Skliarenko.

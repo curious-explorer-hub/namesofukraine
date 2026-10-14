@@ -32,6 +32,6 @@ From the first days of Russia’s full-scale invasion in 2022, Palamar defended 
 
 On 21 September 2022 he was freed in an exchange together with Prokopenko, [Serhii Volynskyi](/en/people/serhii-volynskyi/) and other commanders. They stayed in Türkiye until July 2023, and it was there, on 3 October 2022, that Palamar received the Gold Star of a Hero of Ukraine. “I am very proud to be Ukrainian,” he said, calling it an award for his soldiers and for the whole Ukrainian people.
 
-## Why it matters
+## Why it matters today
 
-Back home, Palamar continued to serve in Azov. In 2026 he was promoted to colonel; as of October 2026 he is deputy commander of the National Guard’s 1st Azov Corps. The man who took a symbol of Ukraine as his call sign became one of the voices the world heard from encircled Mariupol.
+Sviatoslav Palamar took the kalyna, a symbol of Ukraine in songs and chronicles, as his call sign, and in Azov rose from private machine gunner to deputy commander. In encircled Mariupol he became one of the voices the world heard: in video appeals and before foreign journalists he described the defence and said they were ready to leave with civilians, the wounded and the bodies of the dead. Back home he kept serving; as of October 2026 he is a colonel and deputy commander of the National Guard’s 1st Azov Corps. He called his Gold Star his soldiers’ and the whole people’s award: “I am very proud to be Ukrainian.”

@@ -35,4 +35,4 @@ Assessments of Shukhevych are divided. Historians debate his service in German u
 
 ## Why it matters today
 
-Shukhevych’s story shows that the fight for independence in the 20th century was waged between two totalitarian empires. An honest conversation about the past has to include both heroism and tragedy.
+An engineer and musician by training, Roman Shukhevych joined the underground young: first the Ukrainian Military Organization, then the OUN. As “Taras Chuprynka” he took command of the Ukrainian Insurgent Army in 1943, and in 1944 also headed the General Secretariat of the Ukrainian Supreme Liberation Council. For almost six years he led an armed underground against Soviet rule. His story shows that the 20th-century fight for independence was waged between two totalitarian empires. An honest conversation about the past has to include both heroism and tragedy, so his story is worth knowing in full: why he matters to many, and what historians still debate.

@@ -34,4 +34,4 @@ From the first days of the full-scale invasion in 2022 he travelled around Ukrai
 
 ## Why it matters today
 
-Since the mid-1990s Okean Elzy has sung in Ukrainian and has been among the country’s most popular bands. During the war Vakarchuk took his concerts to where life is hardest: to soldiers, into hospitals and metro stations.
+Since the mid-1990s Okean Elzy has sung in Ukrainian and has been among the country’s most popular bands, and Vakarchuk wrote most of its songs. In 1995 the band won the Chervona Ruta festival, dedicated to the memory of [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/), and Vakarchuk later paid for a monument to Ivasiuk in Lviv. He showed that a theoretical physicist can be a generation’s voice, finishing his supersymmetry dissertation through years of touring. During the war he took his concerts where life is hardest: to soldiers and medics, into hospitals and metro stations. Anyone who keeps going in hard times can borrow his line: “I won’t give up without a fight.”

@@ -35,6 +35,6 @@ From the start of the full-scale invasion in 2022, Volynskyi defended Mariupol. 
 
 On 21 September 2022 he was freed in an exchange together with Prokopenko, [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) and other commanders; they stayed in Türkiye until July 2023. On 1 October 2022 Volynskyi was made a Hero of Ukraine, the country’s highest title. While still in Türkiye he started the Stalevi foundation, which looks after marines and their families. He later left the army for the reserve and works with the foundation.
 
-## Why it matters
+## Why it matters today
 
-His letter to the Pope and the video appeals from the besieged steelworks were among the ways Mariupol’s defenders spoke to the world. The Stalevi foundation carries that work on for the marines serving today.
+Serhii Volynskyi kept his oath in 2014 and again in 2022: first he left occupied Crimea with the servicemen loyal to Ukraine, then he defended Mariupol, and in April led part of the 36th Brigade into Azovstal to join Azov. His letter to the Pope, asking for help to evacuate the women and children in the steelworks’ bunkers and to tell the world the truth, and the video appeals from the plant were among the ways Mariupol’s defenders spoke to the world. He urged world leaders to rescue those trapped, as at Dunkirk. The Stalevi foundation he started carries that work on for marines and their families today.
