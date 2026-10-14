@@ -30,4 +30,6 @@ Hawrylyshyn was a member of the Club of Rome, a group of scientists and public f
 
 From 1989 Hawrylyshyn worked closely with Ukraine’s scientific and state institutions. In 1991–1998 he chaired the Consultative Advisory Council to the Presidium of the Verkhovna Rada (the parliament), was co-chair of the International Renaissance Foundation, and co-founded the International Management Institute in Kyiv. From 2003 he was an honorary consul of Ukraine in Switzerland. He died in Kyiv in 2016.
 
-His story shows what the diaspora can give a country: Hawrylyshyn handed the experience of the world’s management schools to a young independent state.
+## Why it matters today
+
+Bohdan Hawrylyshyn went from a teenage forced laborer and a lumberjack in Canada to director of the International Management Institute in Geneva. His report to the Club of Rome, on how to make societies more effective, was translated into 8 languages. When Ukraine became independent, he brought that experience home: he chaired a council advising the parliament’s Presidium, co-chaired the International Renaissance Foundation and co-founded the International Management Institute in Kyiv. His life bears out his own advice: “dream, but dream big, about great things.” You can start with almost nothing, and still bring what you learn in the world back to your own country.

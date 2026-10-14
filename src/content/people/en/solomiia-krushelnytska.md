@@ -30,6 +30,6 @@ Her soprano was heard in Odesa, Warsaw, Saint Petersburg, Paris, Naples, at La S
 
 She sang Ukrainian folk songs and works by Stanyslav Liudkevych, Denys Sichynskyi and [Mykola Lysenko](/en/people/mykola-lysenko/), who dedicated several pieces to her, including “Do Not Forget the Days of Youth.” In 1910 she married the Italian lawyer Cesare Riccioni and lived in Viareggio. In the mid-1920s she left the opera stage and gave chamber concerts in Western Europe, Canada and the United States. In 1939 she returned to Lviv, where she was a professor at the conservatory from 1944 to 1951. She died in Lviv in 1952.
 
-## Whose name the Lviv Opera bears
+## Why it matters today
 
-Krushelnytska won worldwide recognition alongside singers such as Enrico Caruso and Feodor Chaliapin, and she never forgot Ukrainian song. Since 2001 the Lviv Opera and Ballet Theater has borne her name, and memorial museums dedicated to her are open in Bila and Lviv.
+Solomiia Krushelnytska showed that a girl from a village in the Ternopil region could become a star of the world’s leading opera stages, recognized alongside Enrico Caruso and Feodor Chaliapin. After Madama Butterfly flopped, she sang the title role so well that Puccini considered her “the most beautiful and most charming Butterfly,” and in Italy she was the first to sing Strauss’s Salome and Elektra. On those same stages she also sang Ukrainian folk songs and the music of [Mykola Lysenko](/en/people/mykola-lysenko/), so the world heard Ukraine in her voice. Back in Lviv, she taught young singers at the conservatory. Fittingly, the Lviv Opera now bears her name.

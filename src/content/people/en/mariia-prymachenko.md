@@ -32,4 +32,4 @@ She painted flowers in unusual colors, birds as signs of goodness and peace, and
 
 ## Why it matters today
 
-In late February 2022, in the first days of the full-scale invasion, Russian shelling set the local history museum in Ivankiv on fire. The museum’s guard and his wife broke the windows and carried Prymachenko’s paintings out under fire, and the paintings survived. Since then her “beasts” and doves, on stamps and murals, have become a symbol of Ukraine’s resilience.
+Mariia Prymachenko taught herself to paint, yet she created a world of her own: flowers in unusual colors, birds as signs of goodness and peace, and “beasts” that don’t exist. She made more than 800 works. She showed that art the world honors can grow in a village in Polissia. In 2022 a museum guard in Ivankiv and his wife carried her paintings out of the fire under shelling; since then her beasts and doves became a symbol of Ukraine’s resilience. Her caption on a poppy painting reads as a wish to us all: “I give red poppies to people, so they would love the holy land and work on it.”

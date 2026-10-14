@@ -30,6 +30,6 @@ After Russia’s full-scale invasion, “Moonfish” and “Juice” became the 
 
 On 26 August 2024 Russia launched one of its most powerful combined missile strikes on Ukraine. That day Oleksii, flying an F-16, destroyed three cruise missiles and an attack drone. Oleksii Mes was killed when his F-16 crashed while fighting off the attack. He was 30.
 
-## How he is remembered
+## Why it matters today
 
-Oleksii was posthumously promoted to colonel, and in 2025 he was made a Hero of Ukraine. He was buried in his home town of Shepetivka. In Kharkiv, where he and Andrii had studied, part of a lane named Hlisada Dzhusa (“Juice’s Glide Path”) was renamed Moonfish Alley in 2025. The two friends’ names now sit side by side on the city map.
+Oleksii Mes campaigned for the very jets he would later fly to defend Ukraine. With his friend [Andrii Pilshchykov](/en/people/andrii-pilshchykov/) he explained to American politicians why Ukraine urgently needed Patriots, ATACMS and F-16s, and the two classmates became its faces. In 2023 he trained on the F-16 himself. On 26 August 2024, during one of Russia’s most powerful missile strikes, he destroyed three cruise missiles and an attack drone before they could reach their targets. He showed that a pilot can defend his country both in the cockpit and in the rooms where help is decided. And in Kharkiv, where they studied, part of a lane named Hlisada Dzhusa (“Juice’s Glide Path”) was renamed Moonfish Alley in 2025: the two friends’ names sit side by side on the city map.

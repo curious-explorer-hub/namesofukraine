@@ -36,6 +36,6 @@ After the retreat from the Left Bank, Bolbochan was relieved of command. On 24 J
 
 Historians are still divided over the Bolbochan case, as the title of a 1999 article shows: “Petro Bolbochan: who was he? An active organiser of the defence of Ukrainian statehood, or a traitor to the Ukrainian people?” Some scholars write that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
 
-## Why he is remembered
+## Why it matters today
 
-Bolbochan’s Crimean campaign is one of the UNR Army’s most successful operations. Streets in Kyiv, Kharkiv, Lviv, Odesa and other cities bear his name, and since 2020 so does the 3rd Operational Brigade of the National Guard of Ukraine.
+Petro Bolbochan was among those who built a Ukrainian army in 1917. His Crimean campaign is one of the UNR Army’s most successful operations: a week after his men raced across the Chonhar bridge, Ukrainian flags went up over ships of the Black Sea Fleet in Sevastopol. Kyiv later ordered the troops out at the German command’s demand, but the campaign showed what the young republic’s army could do. He stated his aim plainly in an order to his troops: “We are fighting for an independent democratic Ukrainian Republic, not for a united Russia.” Since 2020 the 3rd Operational Brigade of the National Guard of Ukraine has borne his name.
