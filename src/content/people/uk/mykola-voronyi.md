@@ -22,6 +22,7 @@ image:
   alt: "Микола Вороний, Львів, 1896 рік"
   author: "Едвард Тшемеський"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Вороний_Микола.jpg"
 key_accomplishments:
   - "Альманах «З-над хмар і з долин» (1903) - перша програмно модерністська збірка в Україні"
@@ -41,7 +42,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Микола_Вороний
 related: [ivan-franko, lesya-ukrainka]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-14T04:41:05Z
 ---
 
 ## Учень, якого вигнали зі школи

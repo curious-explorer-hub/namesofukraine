@@ -39,7 +39,8 @@ sources:
   - title: "Дзеркало тижня - Олександр Абаринов, «Історія з різками» (2012)"
     url: "https://zn.ua/ukr/SOCIUM/istoriya_z_rizkami.html"
 related: [taras-shevchenko, mykhailo-drahomanov, illia-riepin]
-status: draft
+status: approved
+published: 2026-10-14T04:41:05Z
 ---
 
 ## Анатомія з льоду

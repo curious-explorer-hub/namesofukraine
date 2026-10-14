@@ -22,6 +22,7 @@ image:
   alt: "Євген Патон, викладач Київського політехнічного інституту, 1904–1917 роки"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Евгений_Оскарович_Патон_1910-е.jpg"
 key_accomplishments:
   - "Близько 35 проєктів мостів, зокрема відбудова мостів через Дніпро в Києві після революції"
@@ -37,7 +38,8 @@ sources:
   - title: "Інститут електрозварювання ім. Є. О. Патона НАН України - Про засновника"
     url: "https://paton.org.ua/institut/istoriya/pro-zasnovnika/"
 related: [borys-paton]
-status: draft
+status: approved
+published: 2026-10-14T04:41:05Z
 ---
 
 ## Хлопець із Ніцци

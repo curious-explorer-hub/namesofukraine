@@ -19,11 +19,13 @@ places:
   - { name: "Дніпрові пороги", lat: 47.900, lon: 35.150, note: "загинув у бою з печенігами, 972" }
 image:
   src: ./images/sviatoslav-khorobryi.jpg
-  alt: "Клавдій Лебедєв, «Зустріч Святослава з імператором Іоанном Цимісхієм» (бл. 1880): князь сидить у човні з веслом. Художник уявив цю сцену за описом візантійського історика Лева Диякона; прижиттєвих портретів Святослава немає"
-  position: "18% 58%"
-  author: "Клавдій Лебедєв (бл. 1880)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Lebedev_Svyatoslavs_meeting_with_Emperor_John.jpg"
+  alt: "Святослав у кольчузі й зеленому плащі, зі шоломом у руці, на тлі скелястого берега й човнів із різьбленими носами. Це художнє уявлення: прижиттєвих портретів Святослава немає"
+  position: "50% 25%"
+  ai_edit: colorized
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://chas.cv.ua/history/157715-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C-%D0%BA%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%85%D0%BE.html"
+  fair_use: true
 key_accomplishments:
   - "Підкорив в'ятичів і розгромив Хозарський каганат (964–966)"
   - "Походи на волзьких булгар, ясів і касогів на Північному Кавказі"
@@ -37,7 +39,8 @@ sources:
   - title: Вікіпедія - Святослав Ігорович
     url: https://uk.wikipedia.org/wiki/Святослав_Ігорович
 related: [kniahynia-olha, volodymyr-velykyi]
-status: draft
+status: approved
+published: 2026-10-14T04:41:05Z
 ---
 
 ## «Іду на ви»

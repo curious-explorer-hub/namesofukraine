@@ -10,7 +10,7 @@ key_accomplishments:
   - "The Balkan campaigns of 967–971: took Pereiaslavets on the Danube and the Bulgarian capital, Preslav"
   - "Divided Rus’ among his sons: Yaropolk in Kyiv, Oleh in the Derevlianian land, Volodymyr in Novgorod"
 birthplace_name: "Unknown"
-image_alt: "Klavdy Lebedev, Sviatoslav’s Meeting with Emperor John Tzimiskes (c. 1880): the prince sits in a boat holding an oar. The artist imagined the scene from the description by the Byzantine historian Leo the Deacon; no portrait of Sviatoslav from his lifetime exists"
+image_alt: "Sviatoslav in chain mail and a green cloak, holding a helmet, against a rocky shore and boats with carved prows. This is an artist’s imagining: no portrait of Sviatoslav from his lifetime exists"
 ---
 
 ## “I am coming at you”

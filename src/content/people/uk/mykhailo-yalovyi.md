@@ -20,7 +20,8 @@ image:
   alt: "Портрет Михайла Ялового"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%AF%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE_%D0%9E%D0%BC%D0%B5%D0%BB%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg"
+  ai_edit: colorized
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%AF%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE.jpg"
 key_accomplishments:
   - "Співзасновник і перший президент ВАПЛІТЕ (1925)"
   - "Разом із Михайлем Семенком і Василем Алешком заснував «Ударну групу поетів-футуристів» (1921)"
@@ -38,7 +39,8 @@ sources:
     url: "https://news.finance.ua/ua/nbu-vviv-v-obih-pam-yatni-monety-prysvyacheni-mytcyam-rozstrilyanoho-vidrodzhennya-foto"
 related: [mykola-khvylovyi, mykhail-semenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-14T04:41:05Z
 ---
 
 ## Хто ховався за Юліаном Шполом
