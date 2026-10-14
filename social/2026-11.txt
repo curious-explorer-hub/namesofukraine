@@ -1,7 +1,7 @@
 andrei-sheptytskyi      # died 1 November 1944
 dmytro-kotsiubailo
 les-kurbas              # shot 3 November 1937 at Sandarmokh
-kateryna-zarytska
+kateryna-handziuk       # died 4 November 2018
 oleh-blokhin            # born 5 November 1952
 mykola-lysenko          # died 6 November 1912
 mykola-vinhranovskyi    # born 7 November 1936
@@ -11,12 +11,12 @@ ivan-kotliarevskyi      # died 10 November 1838
 ivan-zubkov
 petro-kalnyshevskyi     # died 12 November 1803
 ostap-vyshnia           # born 13 November 1889
-kvitka-tsisyk
+vasyl-makukh            # born 14 November 1927
 volodymyr-vernadskyi
-mariana-mamonova
+solomiia-krushelnytska  # died 16 November 1952
 bohdan-khmelnytskyi
 mustafa-dzhemiliev
-marko-vovchok
+petro-doroshenko        # died 19 November 1698
 kazymyr-malevych
 roman-ratushnyi         # Day of Dignity and Freedom
 anna-yaroslavna
