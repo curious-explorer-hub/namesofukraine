@@ -35,4 +35,4 @@ In 1998–2006 he was a member of the Verkhovna Rada for two terms: in 1998 he w
 
 ## Why it matters today
 
-Blokhin was the first Soviet winner of the Ballon d'Or and set records that no one in Soviet football ever surpassed. As a coach he led the team of independent Ukraine to its first World Cup.
+Blokhin was the first Soviet winner of the Ballon d'Or and set records that no one in Soviet football ever surpassed. A product of the Dynamo Kyiv football school, he played for his home club for almost twenty years, won the Cup Winners’ Cup with it twice, and in 1975 beat Bayern Munich twice. As a coach he led the team of independent Ukraine to its first World Cup, where it reached the quarterfinals. He himself says he is proud to represent “the Ukrainian school of football”. His path shows every young player that a Kyiv kid can reach the top of European football.

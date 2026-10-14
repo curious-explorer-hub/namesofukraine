@@ -33,4 +33,4 @@ Only in 1977 did On the Banks of the Eternal River come out. It was followed by 
 
 ## Why it matters today
 
-Lina Kostenko’s life shows that an honest word can be silenced for years but not destroyed. Her lines from Berestechko, “For only nations revealed in the Word can live with dignity on earth,” remind us that language and literature are part of a people’s freedom.
+Lina Kostenko’s life shows that an honest word can be silenced for years but not destroyed. For sixteen years her books did not come out and finished collections were pulled from production, yet she kept writing: Berestechko, written mostly in the late 1960s, was published only in 1999. She did not stay silent when Ukrainian intellectuals were put on trial, and she signed open letters against the arrests. Her lines from Berestechko, “For only nations revealed in the Word can live with dignity on earth,” remind us that language and literature are part of a people’s freedom. Anyone told to keep quiet can lean on her example.

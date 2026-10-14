@@ -32,4 +32,4 @@ The authorities launched a campaign of harassment against the artists. In the au
 
 ## Why it matters today
 
-Kurbas proved that Ukrainian theater could be intellectual and innovative, the equal of the best European stages. His fate became one of the symbols of the Executed Renaissance. Since 1987 his anniversaries have been marked by decision of UNESCO, a State Prize in his name has existed since 1994, and the Lviv Academic Theater and the National Center of Theater Arts bear his name.
+Kurbas proved that Ukrainian theater could be intellectual and innovative, the equal of the best European stages. He travelled to Warsaw, Prague, Berlin and Munich to see the best and brought it home: he gave the first Ukrainian stagings of Oedipus Rex and Macbeth and opened Ukrainian theater to European modernism. With Mykola Kulish and Vadym Meller he created the Berezil’s finest productions, and he trained a generation of actors and directors, among them Amvrosii Buchma and Nataliia Uzhvii. Even in the camp he kept staging plays. A State Prize bears his name, and anyone who boldly renews Ukrainian art carries on his work.

@@ -33,4 +33,4 @@ In 1934 Zerov was dismissed from the university and left for Moscow. In April 19
 
 ## Why it matters today
 
-Zerov and the Neoclassicists proved that Ukrainian poetry could be part of the great European tradition, from Rome to Ronsard’s France. His fate is one of the most tragic pages of the Executed Renaissance. A two-volume edition of his works came out in Kyiv in 1990.
+Zerov and the Neoclassicists proved that Ukrainian poetry could be part of the great European tradition, from Rome to Ronsard’s France. His Anthology of Roman Poetry and Kamena opened Catullus, Virgil, Horace and Ovid to Ukrainian readers. With his slogan “Ad fontes!” (“To the sources!”) he called for learning from cultured Europe rather than settling for “proletarian hackwork”. He wrote polished sonnets himself and, as a professor, headed a department of translation theory, so he taught both craft and translation. Anyone today who translates world classics into Ukrainian, or writes with care for form, follows his path.

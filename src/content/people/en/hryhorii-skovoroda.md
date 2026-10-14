@@ -28,6 +28,6 @@ But his independent views kept setting him against the church authorities. When 
 
 So what did he preach on the road? That happiness lies in knowing yourself and in “kindred work”: the work you have a natural calling for. Don’t chase wealth and fame, he said; live simply, honestly and in harmony with nature. He set out his ideas in dialogues, parables, fables and poems.
 
-## Why people still listen to him
+## Why it matters today
 
-The idea of “kindred work”, finding work that suits your soul, speaks to anyone choosing a profession. Skovoroda’s portrait is on the 500-hryvnia banknote. In 2022 a Russian missile hit his museum in Skovorodynivka in the Kharkiv region, but the statue of the philosopher survived.
+Skovoroda chose freedom over a career: when the bishop pressed him to become a monk, he gave up teaching and spent a quarter-century with no property or post, living by his own views. His idea of “kindred work”, work you have a natural calling for, speaks to anyone choosing a profession. He taught that happiness lies not in wealth and fame but in knowing yourself and living simply and honestly. The words he asked for on his grave, “The world tried to catch me, but did not catch me,” still encourage anyone who won’t live by others’ measure. His portrait is on the 500-hryvnia banknote.

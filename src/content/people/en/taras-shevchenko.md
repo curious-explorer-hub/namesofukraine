@@ -29,6 +29,6 @@ In 1840 Kobzar came out, and modern Ukrainian literature began with it. But Shev
 
 The ban didn’t break him. After his release in 1857 he returned to Saint Petersburg, and in 1860 the Academy of Arts, where he had once studied, made him an academician of engraving. He died the following year and was buried above the Dnipro, on Chernecha Hill in Kaniv.
 
-## Why he is still read today
+## Why it matters today
 
-Shevchenko proved that great literature could be written in Ukrainian, and he put into words the ideas Ukrainian national identity grew from: freedom, dignity and resistance to oppression. His “Testament” has been translated into more than 60 languages, and his words “Fight on, and you will prevail!” still ring out today.
+Shevchenko proved that great literature could be written in Ukrainian: modern Ukrainian literature began with his Kobzar. He put into words the ideas Ukrainian national identity grew from: freedom, dignity and resistance to oppression. His own life ran from a serf whose freedom artists bought to an academician of engraving, and even exile with orders not to write or draw did not break him. His “Testament” has been translated into more than 60 languages, and his words “Fight on, and you will prevail!” still ring out today for everyone defending their freedom.

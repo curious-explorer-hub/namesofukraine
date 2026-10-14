@@ -35,6 +35,6 @@ Under Nazi occupation, in February 1942, Sheptytskyi wrote to Himmler protesting
 
 In 1941 Sheptytskyi welcomed the German army and the proclamation of the Act of Restoration of the Ukrainian State, and in 1943 he appointed chaplains to the Galicia Division. This early support for the German authorities is the main reason Israel’s Yad Vashem memorial has not recognized him as Righteous Among the Nations. His brother Klymentii has been given the title. In 2015 Pope Francis declared the Metropolitan Venerable, the first step toward beatification.
 
-## Why he is remembered
+## Why it matters today
 
-Sheptytskyi showed how a church can stand by its people, by education and by humanity, even in the darkest times.
+Sheptytskyi showed how a church can stand by its people, by education and by humanity, even in the darkest times. For 43 years he led the church under four regimes and looked beyond faith: he founded the National Museum in Lviv and a hospital, and supported schools. Under Nazi occupation he protested to Himmler against the killing of Jews and condemned it in his pastoral letter “Thou Shalt Not Kill”. Together with his brother Klymentii he organized the hiding of Jews, mostly children, in church monasteries; an estimated 150 to 200 were saved. His words “The world is perishing for lack of love, perishing from human hatred!” still speak today.

@@ -32,6 +32,6 @@ From the late 1920s official critics hounded the writer. On 25 December 1933 he 
 
 Released in 1943, he lived in Kyiv from 1944 and wrote again. In those years he finished his Hunting Smiles cycle, about forests, rivers and people out in nature. Some of his later works, including pamphlets against “Ukrainian bourgeois nationalists”, followed Party guidelines. He was rehabilitated in 1955 and died in Kyiv in 1956.
 
-## Why his laughter matters today
+## Why it matters today
 
-Ostap Vyshnia is a classic of Ukrainian humor. His fate shows how the Soviet regime broke artists: one of the most popular writers of his day spent ten years in camps and still went back to writing humor.
+Ostap Vyshnia is a classic of Ukrainian humor. In the 1920s only Shevchenko’s works outsold his books in total print run, and his “smiles” talked with readers about the village, language and Ukrainization, and mocked Russian great-power chauvinism. His fate shows how the Soviet regime broke artists: one of the most popular writers of his day spent ten years in camps and still went back to writing humor. It was then that he finished Hunting Smiles, about forests, rivers and people out in nature. His work still shows that laughter in Ukrainian can be both comfort and sharp satire.

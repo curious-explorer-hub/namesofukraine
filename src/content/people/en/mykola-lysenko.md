@@ -33,4 +33,4 @@ In 1904 Lysenko founded a school of music and drama in Kyiv, the first in easter
 
 ## Why it matters today
 
-Lysenko proved that Ukrainian music could be classical music. His choral piece “O God the Great, the Only One” (“Prayer for Ukraine”) became the country’s spiritual anthem and is sung on state holidays. The Lviv National Music Academy and the Kharkiv Opera and Ballet Theatre bear his name.
+Lysenko proved that Ukrainian music could be classical music. All his life he wrote down folk songs and kobzar melodies, and from them grew his operas, choral works, art songs and over 80 settings of poems from Kobzar: “Folklore is life itself.” He refused to have Taras Bulba staged in Russian, as he accepted only Ukrainian for his operas, even when it was banned from the words to sheet music. His school in Kyiv was the first in eastern Ukraine to teach music and drama in Ukrainian. And his choral piece “O God the Great, the Only One” (“Prayer for Ukraine”) became the country’s spiritual anthem, sung on state holidays.

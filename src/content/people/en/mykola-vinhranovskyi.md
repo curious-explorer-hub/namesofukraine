@@ -33,4 +33,4 @@ Vinhranovskyi directed the feature films The Shore of Hope, Duma about Brytanka 
 
 ## Why it matters today
 
-Vinhranovskyi is considered one of the brightest innovators of Ukrainian verse in the 1960s to 1980s. His poems and stories for children speak just as clearly to young readers as to adults.
+Vinhranovskyi is considered one of the brightest innovators of Ukrainian verse in the 1960s to 1980s. When he was expected to repent of “formalism”, he did not; he read a poem in reply: “If my people are counted formally, / Then I am truly a true formalist!” A student of [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/), he became a director himself and made documentaries about Chyhyryn, Baturyn and Halych. His poems and stories for children, such as Siromanets, speak just as clearly to young readers as to adults. He showed that even under pressure you can stay yourself and simply get on with your work: writing and filming.
