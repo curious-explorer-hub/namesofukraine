@@ -29,4 +29,4 @@ After his release in 1944 Korolov became chief designer of long-range ballistic 
 
 ## Why it matters today
 
-Korolov worked for the state that had thrown him into a labor camp. His story is about the talent of a man born in Ukraine who changed human history, and about how a totalitarian system used and silenced its creators. A museum named after him operates in Zhytomyr.
+A Zhytomyr-born engineer who once fell for gliders and rockets led the work that opened the way to space: under his leadership the R-7 rocket was built, which put the first Earth satellite into orbit, then the Vostok spacecraft with Yuri Gagarin. Yet Korolov worked for the state that had thrown him into a Kolyma labor camp without grounds and kept his name secret while he lived. His story is about the talent of a man born in Ukraine who changed human history, and about how a totalitarian system used and silenced its creators. Today that name can, and should, be spoken aloud.

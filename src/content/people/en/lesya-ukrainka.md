@@ -29,6 +29,6 @@ As a child Larysa fell ill with tuberculosis, and she spent her whole life seeki
 
 In 1908 she paid out of her own pocket for an expedition that recorded Ukrainian dumy on a phonograph. Her husband was the musicologist Klyment Kvitka. Lesya Ukrainka died in the small Georgian town of Surami at 42 and is buried at Baikove Cemetery in Kyiv.
 
-## Why she is still read today
+## Why it matters today
 
-Lesya Ukrainka showed that strength of spirit can outweigh physical weakness. And the 200-hryvnia banknote carries lines from one of her poems: “For truth, brothers, let us unite sincerely.”
+Lesya Ukrainka showed that strength of spirit can outweigh physical weakness: she sought treatment for tuberculosis all her life, and all that time she wrote. She wrote about what stirred all of Europe: freedom, dignity, the choice between submission and struggle. The Forest Song, inspired by the legends of Volhynia, is one of the best-known Ukrainian plays, and her poem “Contra spem spero!” became a symbol of resilience for many. She funded an expedition that recorded Ukrainian dumy on a phonograph. Anyone who won’t give up can say with her: “Without hope, I hope!” And the 200-hryvnia banknote carries her lines: “For truth, brothers, let us unite sincerely.”

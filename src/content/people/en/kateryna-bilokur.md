@@ -30,6 +30,6 @@ In the spring of 1940 Bilokur heard the singer Oksana Petrusenko on the radio an
 
 In 1954 three of her canvases, among them “Tsar Kolos”, were shown at an international exhibition in Paris. Pablo Picasso is said to have praised them highly, though his words about her are reported in different ways. Two of those paintings never came back to Ukraine. In 1956 Bilokur was named People’s Artist of the Ukrainian SSR.
 
-## Why her flowers are still recognized
+## Why it matters today
 
-Bilokur proved that real art can be born anywhere: in a village, without art training, through talent and persistence. Her flowers combine precise observation with the decorative spirit of folk art. And the house in Bohdanivka where she lived has been a museum since 1977.
+Bilokur proved that real art can be born anywhere: in a village, without art training, through talent and persistence. Her parents didn’t want her to paint and the college turned her away, so she learned from nature, mixed her paints from beetroot and viburnum and made her own brushes. Her flowers combine precise observation with the decorative spirit of folk art, and in 1954 three of her canvases were shown at an international exhibition in Paris. As she herself wrote: “So how can I not paint them, when they are so beautiful?” Anyone told they’ll get nowhere without the right certificate can remember her road from Bohdanivka.

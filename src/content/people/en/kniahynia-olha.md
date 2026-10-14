@@ -33,4 +33,4 @@ Olha could not make Christianity the state religion: she was opposed by the paga
 
 ## Why it matters today
 
-Olha is the first known woman ruler of Rus’. Her reforms strengthened the state, and her baptism paved the way for her grandson Volodymyr, who baptized Rus’ in 988. The Church venerates her as a saint equal to the apostles, and the Order of Princess Olha, founded in Ukraine in 1997, bears her name.
+Olha is the first known woman ruler of Rus’. Her reforms strengthened the state: instead of poliuddia, the dangerous tribute rounds on which Ihor had been killed, she set up princely pohosty and stations across the country, through which Kyiv collected taxes, held courts and governed its lands. With Byzantium she negotiated rather than fought, and around 959 she sent an embassy to the German king Otto I. Her baptism paved the way for her grandson Volodymyr, who baptized Rus’ in 988. Her example shows that a state is built not only by campaigns but by order and agreements. The Church venerates her as a saint equal to the apostles.

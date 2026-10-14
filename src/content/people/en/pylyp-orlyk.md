@@ -30,4 +30,4 @@ Orlyk never managed to win Ukraine back: his campaigns into Right-Bank Ukraine w
 
 ## Why it matters today
 
-Orlyk was one of the first Ukrainian émigré politicians who for decades represented the cause of Ukrainian statehood in Europe. His Constitution, although it never took effect, is an early Ukrainian vision of power limited by law and accountable to a council.
+On the day he became hetman, Pylyp Orlyk signed a document that limited his own power. His Pacts and Constitutions provided for regular General Councils of officers and delegates from the regiments and Zaporizhzhia, and secured the rights of the Cossacks. The Constitution never took effect, but it is an early Ukrainian vision of power limited by law and accountable to a council. In exile, for more than 30 years, he corresponded with European courts and became one of the first Ukrainian émigré politicians to represent the cause of Ukrainian statehood in Europe. Anyone who believes power must answer to the law can count him as a forerunner.

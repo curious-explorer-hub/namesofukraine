@@ -31,6 +31,6 @@ Yuliia was born in 1968 in Kyiv. Until 2014 she worked as a designer and taught 
 
 On 16 March 2022 Russian troops detained Taira as she was trying to evacuate women and children from Mariupol to Zaporizhzhia. She spent three months in Russian captivity and came home on 17 June 2022.
 
-## Why it matters
+## Why it matters today
 
-Taira’s footage, which showed the world the siege of Mariupol, was seen by millions of people. In 2023 the US State Department gave her the International Women of Courage Award, and in 2025 the President of Ukraine awarded her the Order of Freedom.
+Taira’s footage, which showed the world the siege of Mariupol, was seen by millions of people: a camera meant for a documentary became a record of medics saving the wounded in a besieged city. Since 2014 she had been teaching tactical medicine in Donbas and leading the “Taira’s Angels” paramedic team, so the people she trained know how to save lives too. She treated even wounded Russian soldiers, because they were prisoners of war. Her choice shows that it is possible to stay humane even where the enemy offers no such mercy. For this work she received the US International Women of Courage Award and Ukraine’s Order of Freedom.

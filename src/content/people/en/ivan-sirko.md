@@ -36,6 +36,6 @@ Legends about Sirko began while he was still alive. He is the hero of folk tales
 
 The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by [Ilya Repin](/en/people/illia-riepin/)’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also judged in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians read his motives differently.
 
-## Why he is remembered
+## Why it matters today
 
-Sirko became one of the symbols of Cossack valor and of Ukraine’s defense against raids. His exploits are celebrated in dumas, and Dmytro Yavornytskyi devoted a separate biography to him (1894).
+Sirko became one of the symbols of Cossack valor and of Ukraine’s defense against raids. Behind the symbol stand real deeds: a single campaign against Kaffa set about 2,000 captives free, and in 1677–1678, together with the forces of Hetman Ivan Samoilovych, he halted the Turkish and Tatar advance. The Zaporozhians elected him kish otaman again and again, even after he had been exiled to Tobolsk. His exploits are celebrated in dumas, and people remembered him above all as the man who freed captives. His example is a reminder that courage is also measured by those it sets free.

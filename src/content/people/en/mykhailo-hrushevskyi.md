@@ -35,4 +35,4 @@ In 1919 he emigrated, and in 1924 he returned to Soviet Ukraine. In 1931 he was 
 
 ## Why it matters today
 
-Hrushevskyi gave Ukrainians a scholarly history of their own people and led the Rada that proclaimed the Ukrainian People’s Republic. The Verkhovna Rada, Ukraine’s parliament, stands on a street named after him.
+Hrushevskyi gave Ukrainians a scholarly history of their own people: in his ten-volume History of Ukraine-Rus’ he showed that Ukrainian history runs unbroken from Kyivan Rus’, separate from Russia’s. The chair he took over in Lviv became, in effect, the first chair of Ukrainian history, and under his leadership the Shevchenko Scientific Society grew into a true academy of sciences. In 1917 the scholar led the Central Rada from autonomy to the independence of the Ukrainian People’s Republic. What makes a person Ukrainian, he wrote, is their own will and awareness, not origin, faith or rank. The Verkhovna Rada, Ukraine’s parliament, stands today on a street named after him.

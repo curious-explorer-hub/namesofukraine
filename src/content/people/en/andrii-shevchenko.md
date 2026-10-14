@@ -37,4 +37,4 @@ In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada as number two on th
 
 ## Why it matters today
 
-Shevchenko proved that a footballer from the Ukrainian school of football could become the best in Europe, and then lead the national team as its coach.
+Shevchenko proved that a footballer from the Ukrainian school of football could become the best in Europe: the Dynamo Kyiv graduate became the first Ukrainian to win the Champions League and went on to win the Ballon d'Or. He was the first to play 100 games for Ukraine, scored 48 goals for the national team and captained the side that reached the 2006 World Cup quarterfinals; later, as coach, he took the team into the last eight at Euro 2020. After the full-scale invasion he became the first ambassador of UNITED24. His career bears out his own words: “anything is possible if you truly love what you do.”

@@ -33,4 +33,8 @@ When the help the Polish government had promised never came, Vyshnevetskyi enter
 
 ## Was he Baida?
 
-According to tradition, his death inspired the folk duma about the Cossack Baida, who refuses to serve the sultan. Whether Vyshnevetskyi really was the model for Baida is debated by historians. But he is called the first Cossack otaman in the history of Ukraine, and the Khortytsia reserve calls his town and fortress the first Zaporozhian Sich in history.
+According to tradition, his death inspired the folk duma about the Cossack Baida, who refuses to serve the sultan. Whether Vyshnevetskyi really was the model for Baida is debated by historians.
+
+## Why it matters today
+
+Dmytro Vyshnevetskyi is called the first Cossack otaman in the history of Ukraine, and the Khortytsia reserve calls his town and fortress on Mala Khortytsia the first Zaporozhian Sich in history. On a southern frontier under constant Tatar raids he relied on the Zaporozhian Cossacks, and from his island fortress he led campaigns against Ochakiv and Islam-Kermen. Historians write that even in captivity he refused to enter Turkish service, and the folk duma about the Cossack Baida keeps the image of a man who will not serve the sultan. Anyone who hears of Khortytsia and the Sich today is hearing about a beginning he made.
