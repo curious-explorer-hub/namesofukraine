@@ -36,4 +36,4 @@ In Ukraine there is a monument to him in Zbarazh and a cross where he was killed
 
 ## Why it matters today
 
-Kliachkivskyi's story is a reminder that the fight for one's own state and crimes against neighbours can be tied to the same people. An honest conversation about 1943, the shared work of Ukrainian and Polish historians, matters for understanding between the two nations.
+Dmytro Kliachkivskyi was one of the organizers of the UPA and is credited with building up its structure, tactics and discipline. At the same time, historians link the mass killings of Polish civilians in Volhynia in 1943 to decisions of the leadership he headed there, and some OUN leaders did not share that policy. Kliachkivskyi’s story is a reminder that the fight for one’s own state and crimes against neighbours can be tied to the same people. An honest conversation about 1943, the shared work of Ukrainian and Polish historians drawing on testimony and reports, matters for understanding between the two nations.

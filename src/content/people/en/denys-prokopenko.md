@@ -33,6 +33,6 @@ After Russia’s full-scale invasion on 24 February 2022, Prokopenko led the Ukr
 
 On 20 May, on the orders of Ukraine’s top military command, he was among the last to leave Azovstal and was taken prisoner by Russia. On 21 September 2022 Prokopenko, Palamar, Volynskyi and two other commanders were freed in an exchange. They stayed in Türkiye until July 2023.
 
-## Why he is remembered
+## Why it matters today
 
-Presenting the Gold Star orders to the Azovstal commanders, the head of the Office of the President said that they and their troops “managed to tie down huge enemy forces. Forces that the enemy lacked to occupy larger territories.” Back home, Prokopenko took command of Azov again, and in April 2025 of the National Guard’s 1st Azov Corps. As of October 2026 Brigadier General Prokopenko commands the Azov grouping of forces.
+Denys Prokopenko never trained as a soldier: his degree is in teaching English, and he joined Azov in 2014. He led the defence of encircled Mariupol for over 80 days. Awarding the Azovstal commanders the Gold Star, the head of the Office of the President said they and their troops “managed to tie down huge enemy forces. Forces that the enemy lacked to occupy larger territories.” Prokopenko was among the last to leave Azovstal on orders, survived captivity and took command of Azov again. In 2024 he wrote of captive Azov fighters: “We will bring everyone back.” As of October 2026 Brigadier General Prokopenko commands the Azov grouping of forces.

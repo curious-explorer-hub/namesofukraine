@@ -34,6 +34,6 @@ While Dmytro was a prisoner in Russia, his photos lived a life of their own. In 
 
 On 21 September 2022 Orest was freed in a large exchange that brought 215 Ukrainians home, among them the Azov commanders [Denys Prokopenko](/en/people/denys-prokopenko/) and [Sviatoslav Palamar](/en/people/sviatoslav-palamar/). At the end of the year The Guardian included his Azovstal photo among the best photographs of 2022.
 
-## Why it matters
+## Why it matters today
 
-Because of Kozatskyi's photos, the defence of Azovstal has faces: not numbers in a report, but real people, wounded and alive, in light and in darkness. His pictures still tell the world about Mariupol.
+Because of Kozatskyi’s photos, the defence of Azovstal has faces: not numbers in a report, but real people, wounded and alive, in light and in darkness. He photographed his comrades in the tunnels of the besieged plant and managed to share the pictures with the world before going into captivity. While he was a prisoner, his series “The Light Will Win” was shown in Ukraine and abroad and won a photography contest in Paris. His pictures still tell the world about Mariupol, and show that even under siege the truth can be kept and passed on.

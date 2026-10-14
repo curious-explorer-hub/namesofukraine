@@ -36,4 +36,4 @@ Prokopovych is called one of the leading theorists of Russian autocracy: under h
 
 ## Why it matters today
 
-Prokopovych is one of the Kyiv-Mohyla graduates who shaped the church, education and government of the whole Russian Empire. His Kyiv works, Vladimir and his books on poetics and rhetoric, remain part of the history of Ukrainian literature, and the Spiritual Regulation governed church life in the Russian Empire for almost 200 years.
+Prokopovych is one of the Kyiv-Mohyla graduates who shaped the church, education and government of the whole Russian Empire. In Kyiv he defended the theories of Copernicus, Galileo and Kepler, introduced the teaching of mathematics and geometry, and introduced students to the ideas of Descartes, Bacon and Locke. His Kyiv works, Vladimir and his books on poetics and rhetoric, remain part of the history of Ukrainian literature. And the Spiritual Regulation he wrote for Peter I kept the church subordinate to the imperial state for almost 200 years.

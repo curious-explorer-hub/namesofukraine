@@ -33,4 +33,4 @@ Borys Baranov died in Kyiv on 6 April 2005. In 2018 he was posthumously awarded 
 
 ## Why it matters today
 
-The Chornobyl disaster could have been even worse. Borys Baranov’s story is a reminder that it was held back not only by firefighters and soldiers, but also by plant workers who knew their equipment well and went where they were needed.
+The Chornobyl disaster could have been even worse. Water still lay under the wrecked reactor, and if the molten fuel reached it, a second explosion could follow. Borys Baranov, with Oleksii Ananenko and Valerii Bespalov, went down into the flooded space and opened the valves by hand to drain it. A legend grew around them, but the truth is as striking: all three survived, and Baranov worked at the plant for another 19 years. His story is a reminder that the disaster was held back not only by firefighters and soldiers, but also by plant workers who knew their equipment well and went where they were needed.

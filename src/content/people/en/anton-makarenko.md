@@ -40,4 +40,4 @@ Centers in Germany, Italy, Japan and other countries study Makarenko’s legacy,
 
 ## Why it matters today
 
-Educators in many countries still discuss Makarenko’s ideas about children’s self-government and learning through work. His story also shows how a gifted teacher from the Sumy region ended up serving the Soviet system. There is a Makarenko museum in Kremenchuk.
+After years of war and revolution, Anton Makarenko took on the children no school wanted: homeless kids and young offenders. In his colony they lived in brigades and helped run the place themselves, and his commune near Kharkiv became home to many children left homeless by the Holodomor. A Pedagogical Poem, his account of that work, was translated into 58 languages, and educators in many countries still discuss his ideas about children’s self-government and learning through work. His story also shows how a gifted teacher from the Sumy region ended up serving the Soviet system.

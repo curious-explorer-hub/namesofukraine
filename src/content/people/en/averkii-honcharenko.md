@@ -41,4 +41,4 @@ After the war Honcharenko lived in Britain, and from 1952 in the United States, 
 
 ## Why it matters today
 
-The Battle of Kruty became a symbol of young people giving their lives for their country. Honcharenko's story is a reminder that behind the symbol stand real people with complicated lives.
+At Kruty, Averkii Honcharenko commanded cadets and students, among them young men from the school he had Ukrainized himself. The battle held up the Bolshevik advance on Kyiv, and it is considered to have given the government time to sign the Treaty of Brest-Litovsk. Honcharenko managed to lead the rest of his force out in good order, and later wrote one of the first detailed memoirs of the battle. In exile he helped disabled Ukrainian soldiers and veterans. Kruty became a symbol of young people giving their lives for their country, and Honcharenko’s story is a reminder that behind the symbol stand real people with complicated lives.

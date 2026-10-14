@@ -36,4 +36,4 @@ From 1919 to 1923 Zabolotnyi was rector of the Odesa Medical Institute, where in
 
 ## Why it matters today
 
-Zabolotnyi’s findings about the carriers of cholera and plague helped show how to stop epidemics. The Kyiv institute he founded is now the Zabolotnyi Institute of Microbiology and Virology of the National Academy of Sciences of Ukraine, and his home village bears the name Zabolotne. A museum to the scientist is there.
+Danylo Zabolotnyi put science to the test on himself: he drank a live cholera culture to make sure a vaccine really protected. He was among the first to show that healthy people can carry cholera, and in 1911 he proved that plague passes to people from wild rodents. These findings helped show how to stop epidemics. In Odesa he founded the world’s first department of epidemiology, and in Kyiv an institute that bears his name today. A boy from a peasant family in Podillia became president of the All-Ukrainian Academy of Sciences, and showed that science takes courage as well as knowledge.

@@ -32,4 +32,4 @@ In 2019 Svitolina set up a charity foundation that develops tennis in Ukraine an
 
 ## Why it matters today
 
-Svitolina’s Tokyo bronze and 20 titles showed that a Ukrainian player can stay among the world’s best for years. And she uses her fame to keep the world from forgetting Ukraine during the war.
+Before Elina Svitolina, Ukraine had no Olympic medal in tennis, and no Ukrainian woman had 20 WTA titles. She won the WTA Finals and reached world No. 3, and after a break to become a mother she won a tournament within four months of her return and made the Wimbledon semifinals again that summer. Her Tokyo bronze and 20 titles showed that a Ukrainian player can stay among the world’s best for years. Her foundation develops tennis in Ukraine and supports young athletes, and since 2022, as an ambassador of UNITED24 and Bring Kids Back UA, she has helped keep the world from forgetting Ukraine during the war.
