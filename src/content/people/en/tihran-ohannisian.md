@@ -28,6 +28,6 @@ Europe heard about the two teenagers from Berdiansk. On 15 June 2023 the Europea
 
 In June 2023, days after the resolution, 16-year-old Tihran Ohannisian and Mykyta were killed in occupied Berdiansk. The occupation authorities called them “pro-Ukrainian terrorists”; human rights defenders say the boys were shot by snipers. As of July 2025, their bodies had not been returned to their families.
 
-## How he is remembered
+## Why it matters today
 
-In 2024 Zaporizhzhia named one street after Tihran Ohannisian and the next one after Mykyta Khanhanov. On 19 July 2025 the President of Ukraine posthumously awarded both boys the Order of Freedom for their civic courage and patriotism.
+Tihran Ohannisian was a schoolboy in Berdiansk, and under occupation he made no secret of being on Ukraine’s side. The occupiers tortured him and built a case against him, but Europe heard the story of Tihran and his friend [Mykyta Khanhanov](/en/people/mykyta-khanhanov/): by 425 votes the European Parliament condemned the torture and demanded that the boys be allowed to leave the occupied territory. Tihran showed that you can remain a citizen of Ukraine even under occupation, and that courage has nothing to do with age. It was for his civic courage and patriotism that he was posthumously awarded the Order of Freedom.

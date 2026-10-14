@@ -23,6 +23,6 @@ During the Revolution of Dignity of 2013-2014, Slipak organised fundraising and 
 
 On 29 June 2016, Vasyl Slipak was killed by a sniper near the village of Luhanske in the Donetsk region. He was 41.
 
-## How he is remembered
+## Why it matters today
 
-Slipak was buried at Lychakiv Cemetery in Lviv. In 2017 he was posthumously made a Hero of Ukraine. A hall at Ukraine's Tchaikovsky National Music Academy and a Ukrainian cultural centre in Paris carry his name, and concerts and memorial runs are held in his honour each year in Ukraine and France.
+Vasyl Slipak served Ukraine with his voice and with his deeds. A boy from Lviv’s Dudaryk choir, he became a Paris National Opera soloist and sang leading roles across Europe. When Ukraine needed help, he raised it in Paris, organised benefit concerts, and carried a Ukrainian flag onto the stage of the Lyon Opera in protest against the war. In 2015 the Paris Opera soloist went to the front as a volunteer, taking his call sign from a favourite role. He showed that you can love your country on stage and in the ranks alike. In 2017 he was posthumously made a Hero of Ukraine.

@@ -36,4 +36,4 @@ In November 1936 Mykhailo Boichuk was arrested, and on 13 July 1937 he was shot.
 
 ## Why it matters today
 
-Her name is carved on the monument to repressed artists, unveiled in 1996 in the square of the National Academy of Fine Arts and Architecture in Kyiv. Her prints show how artists of the 1920s saw Ukraine: at work, at study and in grief.
+Sofiia Nalepynska-Boichuk was a Pole from Łódź who tied her life to Ukraine and became a master of the Ukrainian woodcut. She taught in Myrhorod, and for seven years ran the woodcut workshop of the Kyiv Art Institute. Her prints, Factory Apprentice, Girls with a Book and Hungry Children, show how artists of the 1920s saw Ukraine: at work, at study and in grief. She illustrated [Taras Shevchenko](/en/people/taras-shevchenko/)’s Kateryna and designed banknotes and state papers for a Ukraine fighting for independence. Her life shows that Ukraine was also built by people who came to it from elsewhere. Her name is carved on the monument to repressed artists in Kyiv.

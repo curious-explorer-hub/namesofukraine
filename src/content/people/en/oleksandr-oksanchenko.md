@@ -24,6 +24,6 @@ From 2013 to 2018, Oksanchenko was the brigade's display pilot: flying the Su-27
 
 In 2018 Oksanchenko retired from active service and became a city councillor in Myrhorod. But when the full-scale invasion began on 24 February 2022, he returned to duty. On 25 February 2022, Colonel Oleksandr Oksanchenko was killed in an air battle defending the skies over the Kyiv region. He was 53.
 
-## How he is remembered
+## Why it matters today
 
-On 2 March 2022, Oksanchenko was posthumously made a Hero of Ukraine. Streets in Myrhorod and Kremenchuk now bear his name, and at RAF Fairford in Britain - where he once dazzled crowds - his memory is still honoured today.
+Oleksandr Oksanchenko showed Europe what Ukrainian military pilots can do. Flying the Su-27, he represented Ukraine’s Air Force at the biggest airshows, from Britain to Malta, and in 2017 he won the trophy for the best flying display at the Royal International Air Tattoo. For more than twenty years he was in charge of flight training at the brigade in Myrhorod. When the full-scale invasion began, he was already retired, yet he returned to defend the skies over the Kyiv region. His example shows that skill built in peacetime becomes protection when the country is in danger. At RAF Fairford, where he once dazzled crowds, he is still remembered.

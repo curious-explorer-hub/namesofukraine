@@ -37,4 +37,4 @@ On 4 December 1934 Pluzhnyk was arrested, together with many other figures of Uk
 
 ## Why it matters today
 
-Selected poems by Pluzhnyk came out in Kyiv in 1966 and 1988, and an uncensored edition in Munich in 1979. A memorial plaque hangs on the house on Prorizna Street in Kyiv where he lived, and the central library of Kyiv’s Shevchenkivskyi district bears his name.
+Yevhen Pluzhnyk gave Ukrainian poetry a quiet, terse voice that has been compared to Rilke. He published only two books of poems in his lifetime, but they showed the cruelty of the revolution and Soviet reality as he saw it, and his poetry was branded “decadent”. Though born in Kantemyrivka, he gave his whole life and work to Ukraine and to Kyiv: with [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/) he compiled a dictionary of business language; he co-edited a Ukrainian poetry anthology and translated Gogol and Chekhov. His poems outlived both persecution and Solovki: Equilibrium came out in emigration, an uncensored edition in Munich, and Kyiv republished them in 1966 and 1988.

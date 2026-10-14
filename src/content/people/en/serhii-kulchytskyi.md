@@ -23,6 +23,6 @@ Over the next two decades he rose to major general and became head of the Nation
 
 On 29 May 2014, near Sloviansk in the Donetsk region, the Mi-8 helicopter carrying Kulchytskyi to his troops was shot down. He was 50. He became the first Ukrainian general killed in the war with Russia. A decree of 20 June 2014 posthumously made him a Hero of Ukraine.
 
-## How he is remembered
+## Why it matters today
 
-Kulchytskyi is buried in the Field of Honour at Lychakiv Cemetery in Lviv. A National Guard battalion carries his name, as do streets in Lviv, Ivano-Frankivsk, Drohobych and Kyiv, and monuments to him stand in Sloviansk and Chortkiv.
+Serhii Kulchytskyi was one of the founders of independent Ukraine’s National Guard: he joined it in 1992 as a deputy battalion commander and rose to the general in charge of its combat and special training. In spring 2014, when the country needed new defenders, it was he who turned former Maidan activists into soldiers. He did not send them off alone; he went to the front with them, and his soldiers applauded him, something the interior minister said he had never seen before. Kulchytskyi showed that a commander leads by his own example. A battalion of the National Guard he helped create now carries his name.

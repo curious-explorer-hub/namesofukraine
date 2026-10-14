@@ -39,4 +39,4 @@ Paton’s last great project was a bridge across the Dnipro in Kyiv, about one a
 
 ## Why it matters today
 
-The Institute of Electric Welding bears Yevhen Paton’s name. His school was carried on by his son, [Borys Paton](/en/people/borys-paton/), who took over the institute in 1953 after his father’s death and later led the whole Academy of Sciences of Ukraine.
+Yevhen Paton proved it is never too late to start something new. A famous bridge builder with about 35 designs behind him, at almost 60 he took up welding, then poorly understood, believing the future lay there. His team developed automatic submerged-arc welding, ten times more productive than welding by hand, and in the war welded tank armour automatically. The Paton Bridge in Kyiv, Europe’s largest all-welded road bridge, showed what the technology could do. His son, [Borys Paton](/en/people/borys-paton/), carried on his school: in 1953 he took over the institute his father had founded, and later led the whole Academy of Sciences of Ukraine.
