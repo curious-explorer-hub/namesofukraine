@@ -35,4 +35,4 @@ In 1990 Chornovil became head of the Lviv regional council, he was among the ini
 
 ## Why it matters today
 
-Chornovil showed that words and documents can stand up to a totalitarian system. His slogan “Ukraine begins with you” reads as a call to personal responsibility. And about his own life he said that if he had to start all over again, “I would choose the life I have lived.” He was posthumously awarded the title Hero of Ukraine.
+Chornovil showed that words and documents can stand up to a totalitarian system. His The Misfortune of Intellect, published abroad, told of the closed trials of Ukrainian intellectuals. More than 13 years in captivity did not silence him: even in the camps he kept writing appeals. Back home, he was among the initiators of the Act of Declaration of Independence, and later turned down a place in government to stay in opposition. His slogan “Ukraine begins with you” reads as a call to personal responsibility. And about his own life he said that if he had to start all over again, “I would choose the life I have lived.”

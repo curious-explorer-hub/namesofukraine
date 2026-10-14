@@ -1329,7 +1329,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 35: status: for review
+## Batch 35: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|
@@ -1364,7 +1364,7 @@ Audit of the last section of every profile, «Чому це важливо сь�
 
 </details>
 
-## Batch 36: status: for review
+## Batch 36: status: approved, applied 2026-10-13
 
 | Profile | Before | After |
 |---|---|---|

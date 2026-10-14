@@ -32,4 +32,4 @@ In 2006–2007 Ruslana was a member of Ukraine’s parliament. In the winter of 
 
 ## Why it matters today
 
-Ruslana’s victory showed that the sounds of the Carpathians could feel modern on Europe’s biggest stage. And on the Maidan she used her fame to support the protesters and draw the world’s attention to Ukraine.
+Ruslana’s victory showed that the sounds of the Carpathians could feel modern on Europe’s biggest stage. A trembita, Hutsul culture and Ukrainian sung alongside English brought Ukraine its first Eurovision win. Even earlier she had paired medieval ballads with modern music and toured Ukraine’s castles to draw attention to their restoration. On the Maidan she used her fame to support the protesters and draw the world’s attention to Ukraine, singing the anthem from the stage more than 500 times. Her path shows that tradition can sound new, and that fame can serve one’s country.

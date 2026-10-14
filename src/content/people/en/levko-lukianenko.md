@@ -37,4 +37,4 @@ In his later years Lukianenko was harshly criticized for xenophobic statements a
 
 ## Why it matters today
 
-Lukianenko defended Ukraine’s right to leave the USSR at a time when it could get him shot. Three decades after his death sentence, he was the one who wrote the document with which independent Ukraine began.
+Lukianenko defended Ukraine’s right to leave the USSR at a time when it could get him shot. His underground union looked for a lawful way to do it, a referendum based on the Soviet constitutions, and for that he spent 72 days waiting to be executed. Released after his first term, he co-founded the Ukrainian Helsinki Group that same year and was soon behind bars again. Three decades after his death sentence, he was the one who wrote the document with which independent Ukraine began. His story shows that an idea once punished as “treason” can become the foundation of a state.

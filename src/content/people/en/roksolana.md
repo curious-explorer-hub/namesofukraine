@@ -34,6 +34,6 @@ Her example began a period when women of the sultan’s family influenced politi
 
 Ukrainian writers from the 19th century on, by contrast, cast her as a patriot and even a defender of Ukraine, although the sources don’t confirm it. Novels, a TV series (1996–2003) and a monument in Rohatyn (1999) reinforced this image; historians criticize it as unrealistic. Even all the known portraits of Roksolana, including the earliest, by Titian (around 1552), come from the artists’ imagination.
 
-## Why her story matters today
+## Why it matters today
 
-Roksolana’s fate is a reminder of the Ukrainians who in those times were taken captive and sold into slavery. Her story also teaches us to tell facts from legends.
+Roksolana’s fate is a reminder of the Ukrainians who in those times were taken captive and sold into slavery. A girl from Rus’ who entered the harem as a slave became the sultan’s lawful wife, the first “haseki” and the mother of Sultan Selim II. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul to Mecca and Medina. Yet little about her is certain: even the name “Roksolana” was invented by a foreign ambassador, and the image of a patriot came from later writers. Her story also teaches us to tell facts from legends.

@@ -29,6 +29,6 @@ Yaryna was born in 1995 in Kyiv, into a family of bandura players. Her grandfath
 
 Yaryna first went to Donbas as a volunteer paramedic with the Hospitallers battalion. There she met a soldier, Mykola Sorochuk (“Krasnyi”). In January 2020 he was killed by a sniper. Yaryna organised a three-month protest in Kyiv, “Spring on Granite”, and then signed a military contract. She became a combat medic in the 140th Separate Reconnaissance Battalion of the Marine Corps, call sign “Yara”. When the full-scale invasion began she fought near Sievierodonetsk, and later in the Donetsk and Kherson regions.
 
-## Why it matters
+## Why it matters today
 
-Yaryna Chornohuz writes about the war from the inside, as someone who saves the wounded under fire. Her first collection, “How the War Circle Bends” (2020), is dedicated to Mykola Sorochuk. “[dasein]” was translated into French, and in 2026 it won the Alain Bosquet Prize in Paris, carrying a Ukrainian soldier’s voice far beyond the front line.
+Yaryna Chornohuz writes about the war from the inside, as someone who saves the wounded under fire. Her poems, written “on the out-breath after a completed mission,” won Ukraine’s highest award for the arts, and the government described their author simply as a member of the Armed Forces. She dedicated her first collection, “How the War Circle Bends”, to Mykola Sorochuk. “[dasein]” was translated into French, and in 2026 it won the Alain Bosquet Prize in Paris, carrying a Ukrainian soldier’s voice far beyond the front line. Her path shows that service and writing need not exclude each other: one can defend a country and give it new poetry.

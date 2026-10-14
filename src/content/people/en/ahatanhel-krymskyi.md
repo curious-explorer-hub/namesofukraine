@@ -33,4 +33,4 @@ After the show trial of the “Union for the Liberation of Ukraine” (1929–19
 
 ## Why it matters today
 
-Krymskyi showed that Ukrainian scholarship could be world-class and still speak Ukrainian. The Institute of Oriental Studies of the National Academy of Sciences of Ukraine bears his name.
+Krymskyi showed that Ukrainian scholarship could be world-class and still speak Ukrainian. He laid the foundations of Oriental studies in Ukraine and translated from Arabic, Persian and Turkish. He did so much for the young Academy of Sciences that its staff jokingly called it the “Krymskyi Academy”; he supervised the rules of Ukrainian orthography and refuted the claim that the language of ancient Kyiv was not Ukrainian. A man of Crimean Tatar and Belarusian roots, he called himself a conscious Ukrainian. The Institute of Oriental Studies of the National Academy of Sciences of Ukraine bears his name.

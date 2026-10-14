@@ -33,4 +33,4 @@ Kadeniuk became a major general, an adviser to the President on aviation and spa
 
 ## Why it matters today
 
-Kadeniuk's flight showed that independent Ukraine could be an equal partner in space research. And for many people he became proof that a childhood dream of space can come true.
+Kadeniuk went from a village boy who heard about Gagarin’s flight at the age of ten to a test pilot picked from 9,000 candidates. His flight on Columbia showed that independent Ukraine could be an equal partner in space research: on board he ran a joint Ukrainian-American experiment with plants in weightlessness. He took Shevchenko’s Kobzar and the national flag with him, and thanks to him the Ukrainian flag was unfurled in space for the first time. For many people he became proof that a childhood dream of space can come true.

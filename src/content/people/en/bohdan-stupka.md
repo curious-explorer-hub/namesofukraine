@@ -33,4 +33,4 @@ In 1999–2001 Stupka headed Ukraine’s Ministry of Culture and Arts. In 2011 h
 
 ## Why it matters today
 
-Stupka became a symbol of Ukrainian theater at the turn of the 21st century. His roles in Ukrainian and world classics remain a benchmark of the actor’s craft.
+Stupka became a symbol of Ukrainian theater at the turn of the 21st century. He acted in plays by Ivan Franko and [Lesya Ukrainka](/en/people/lesya-ukrainka/) and in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/), and his Tevye, after [Sholem Aleichem](/en/people/sholom-aleikhem/), won the Shevchenko Prize: on his stage Ukrainian and world classics stood side by side. Krzysztof Zanussi, Jerzy Hoffman, Régis Wargnier and Otar Iosseliani worked with him too. For more than a decade he led the Ivan Franko Theater, and served as Minister of Culture. He dreamed of Ukrainian culture becoming “known all over the world” and was happy to help make it happen. His roles remain a benchmark of the actor’s craft.

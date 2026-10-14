@@ -35,4 +35,4 @@ He stressed the Church’s social teaching, backed civil society and sought dial
 
 ## Why it matters today
 
-Huzar brought the UGCC’s seat back to Kyiv and proposed a path towards unity among the Ukrainian churches of the Kyivan tradition. In 2024 the head of the UGCC, Sviatoslav Shevchuk, announced the start of the process for his beatification.
+Huzar brought the UGCC’s seat back to Kyiv and proposed a path towards unity among the Ukrainian churches of the Kyivan tradition. He had been made a bishop in secret, in case the Soviet authorities destroyed the underground Church; instead he returned to Ukraine and came to lead it. He stressed the Church’s social teaching, backed civil society and sought dialogue with the Orthodox churches. After retiring, as he lost his sight, he co-founded the First of December Initiative Group. His words from the Euromaidan, “Let us remember who we are and not let ourselves be fooled”, still hold. In 2024 the process for his beatification began.
