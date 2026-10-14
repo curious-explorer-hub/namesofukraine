@@ -96,6 +96,7 @@ Then save it in the secret and your password manager, update the date above and 
 - **Search queries** (Search Console → Performance). Which searches show the site, where it ranks, and which pages get impressions but few clicks (those may need a better title or summary).
 - **Dependency updates.** Review and merge Dependabot pull requests; CI fails on any new, unreviewed advisory (`scripts/check-audit.mjs`).
 - Portraits still missing or weak: follow up on permission requests.
+- **Profile refresh for living people:** deaths, new awards for defenders, new results for athletes; update only the profiles that changed and set their `last_reviewed`. Steps, rules and the log are in [PROFILE-REFRESH.md](PROFILE-REFRESH.md); everyone else once a year.
 
 ### Quarterly: security review (about 30 minutes)
 
@@ -108,6 +109,7 @@ CI already runs the headers, CSP, `dist/` check and `npm audit`, and Dependabot 
 
 ### Yearly
 
+- **Profile refresh for everyone else** (not living): [PROFILE-REFRESH.md](PROFILE-REFRESH.md).
 - `public/.well-known/security.txt`: move `Expires` a year ahead (next: before 2027-10-08); an expired file tells reporters the contact is stale.
 
 ## Feedback log
