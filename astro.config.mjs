@@ -1,5 +1,6 @@
 // @ts-check
 import { readdirSync, readFileSync, renameSync, rmdirSync, rmSync } from 'node:fs';
+import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
@@ -32,6 +33,28 @@ const devOnlyPages = {
   },
 };
 
+// Astro copies every content image into `_astro/` at full size, including those of draft profiles,
+// which no page shows; pages use resized copies. Remove the images nothing in the build refers to, so
+// drafts stay off the site.
+/** @type {import('astro').AstroIntegration} */
+const unusedImages = {
+  name: 'unused-images',
+  hooks: {
+    'astro:build:done': ({ dir, logger }) => {
+      const root = fileURLToPath(dir);
+      const used = new Set();
+      for (const file of readdirSync(root, { recursive: true, encoding: 'utf8' })) {
+        if (!/\.(html|css|js|xml|json|webmanifest)$/.test(file)) continue;
+        for (const m of readFileSync(join(root, file), 'utf8').matchAll(/\/_astro\/([\w.-]+)/g)) used.add(m[1]);
+      }
+      const assets = join(root, '_astro');
+      const unused = readdirSync(assets).filter((f) => /\.(jpe?g|png|webp|avif|gif)$/i.test(f) && !used.has(f));
+      for (const f of unused) rmSync(join(assets, f));
+      logger.info(`removed ${unused.length} unused images from _astro/`);
+    },
+  },
+};
+
 // Sitemap <lastmod> for profile pages (both languages): the later of `last_reviewed` and `published` in
 // the uk file's frontmatter.
 const peopleDir = new URL('./src/content/people/uk/', import.meta.url);
@@ -49,6 +72,7 @@ export default defineConfig({
   integrations: [
     languageNotFoundPages,
     devOnlyPages,
+    unusedImages,
     // Lists every built page (production builds hold only reviewed profiles) with uk/en alternates.
     // Left out: the error pages, the dev-only admin pages, the home page's card list (a fragment, not a
     // page) and the bare root, which only redirects to /uk/.
