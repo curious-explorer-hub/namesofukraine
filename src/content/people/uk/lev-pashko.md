@@ -17,7 +17,7 @@ image:
   position: "55% 25%"
   author: "Невідомий автор (фото надала пресслужба, через Forbes Україна)"
   license: "Fair use"
-  source_url: "https://forbes.ua/ru/war-in-ukraine/skriz-de-e-lyudi-budut-pomilki-geroy-ukraini-lev-pashko-stav-nachalnikom-shtabu-azovu-u-26-rokiv-yakimi-pravilami-liderstva-vin-keruetsya-intervyu-07022026-36122"
+  source_url: "https://forbes.ua/war-in-ukraine/skriz-de-e-lyudi-budut-pomilki-geroy-ukraini-lev-pashko-stav-nachalnikom-shtabu-azovu-u-26-rokiv-yakimi-pravilami-liderstva-vin-keruetsya-intervyu-07022026-36122"
   fair_use: true
 key_accomplishments:
   - "Доброволець «Азову» з 2017 року, одразу після 18-річчя"
@@ -36,8 +36,6 @@ sources:
     url: "https://mvs.gov.ua/en/news/ukrayinskii-xorus-yakii-vpravno-biv-zagarbnikiv-istoriya-geroya-ukrayini-leva-paska"
   - title: "Радіо Свобода - Герой України у 22. Про бої та полон"
     url: "https://www.radiosvoboda.org/a/heroy-ukraini-u-22-pro-boi-ta-polon/32786877.html"
-  - title: "24 канал - Оборона Маріуполя. Інтерв'ю з Левом Пашком («Хорусом») про бої на «Азовсталі» і полон"
-    url: "https://24tv.ua/ru/oborona-mariupolja-intervju-so-lvom-pashko-horusom-o-bojah-na-azovstali-i-plen-24-kanal_n2190536"
 related: [denys-prokopenko, nazarii-hryntsevych]
 collections: [defenders-mariupol]
 status: approved

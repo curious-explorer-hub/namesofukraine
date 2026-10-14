@@ -19,7 +19,7 @@ In March 2014, as Russia seized Crimea, Major Volodymyr Baraniuk was deputy comm
 
 ## Mariupol
 
-Eight years later, now a colonel, Baraniuk had commanded the 36th Separate Marine Brigade since September 2021. When the full-scale invasion began on 24 February 2022, his brigade found itself encircled in Mariupol and held off a far larger force for weeks. On 19 March 2022 he was named a Hero of Ukraine.
+Eight years later, now a colonel, Baraniuk had commanded the 36th Separate Marine Brigade since September 2021. When the full-scale invasion began on 24 February 2022, his brigade found itself encircled in Mariupol and held off a far larger force for more than a month. On 19 March 2022 he was named a Hero of Ukraine.
 
 In early April 2022 Baraniuk led a column trying to break out of the besieged city. The breakout failed, and he was taken prisoner. Command of what remained of the brigade passed to [Serhii Volynskyi](/en/people/serhii-volynskyi/), who led roughly 500 soldiers through to the Azovstal plant.
 
