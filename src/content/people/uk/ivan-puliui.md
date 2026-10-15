@@ -31,6 +31,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D0%B2%D0%B0%D0%BD_%D0%9F%D1%83%D0%BB%D1%8E%D0%B9.png"
+  ai_edit: colorized
 quotes:
   - text: "Найбільше і найважливіше наше бажання, ідея і головна мета національних прагнень – визволена з-під Росії вільна Україна, де не повинно бути жодного пригнобленого і жодного гнобителя […]"
     source: "Брошура «Україна та її міжнародно-політичне значення», 1915 (переклад з німецької)"
@@ -41,7 +42,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CU%5CPuliuiIvan.htm"
   - title: "Енциклопедичний вісник України - В. Жовтянський, «Іван Пулюй - перший український учений нобелівського рівня» (2025)"
     url: "https://evu.encyclopedia.kyiv.ua/article/1717"
-status: draft
+status: approved
+published: 2026-10-15T22:58:49Z
 ---
 
 ## Фізик із теологічного факультету

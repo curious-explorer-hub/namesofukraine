@@ -22,6 +22,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Panteleimon_Kulish.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Роман «Чорна рада» (повністю 1857) - перший український історичний роман"
   - "Фонетичний правопис «кулішівка» - основа сучасного українського правопису"
@@ -37,7 +38,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Kulish, Panteleimon"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKulishPanteleimon.htm"
 related: [taras-shevchenko, mykola-kostomarov, marko-vovchok, ivan-puliui, ivan-nechui-levytskyi]
-status: draft
+status: approved
+published: 2026-10-15T22:54:34Z
 ---
 
 ## Правопис, яким ви читаєте
