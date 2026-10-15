@@ -124,6 +124,25 @@ test('a profile without quotes has no quotes section', async ({ page }) => {
   await expect(page.locator('.profile-quotes')).toHaveCount(0);
 });
 
+for (const [lang, label] of [
+  ['uk', /^Джерела \(\d\)$/],
+  ['en', /^Sources \(\d\)$/],
+] as const) {
+  test(`a profile's sources start collapsed and open on click, with the report link outside (${lang})`, async ({ page }) => {
+    await page.goto(`/${lang}/people/roksolana/`);
+    const sources = page.locator('.profile-sources');
+    const summary = sources.locator('summary');
+    const firstLink = sources.locator('details li a').first();
+    await expect(summary).toHaveText(label);
+    await expect(firstLink).toBeHidden();
+    await expect(sources.locator('.profile-report a')).toBeVisible();
+    await summary.click();
+    await expect(firstLink).toBeVisible();
+    await summary.click();
+    await expect(firstLink).toBeHidden();
+  });
+}
+
 test('the home page shows one way to browse at a time, as tabs', async ({ page }) => {
   await page.goto('/uk/');
   await expect(page.locator('#panel-search')).toBeVisible();

@@ -200,28 +200,30 @@ const memberOf = collections.filter((c) => data.collections.includes(c.id));
       </div>
 
       <footer class="profile-sources" data-read-end>
-        <h2>{t('person.sources', lang)}</h2>
-        <ul>
-          {data.sources.map((s) => (
-            <li><a href={s.url}>{s.title}</a></li>
-          ))}
-        </ul>
-        {
-          data.image && (
+        <details>
+          <summary><h2>{t('person.sources', lang)} <span class="sources-count">({data.sources.length})</span></h2></summary>
+          <ul>
+            {data.sources.map((s) => (
+              <li><a href={s.url}>{s.title}</a></li>
+            ))}
+          </ul>
+          {
+            data.image && (
+              <p>
+                {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, <License name={data.image.license} />
+                {data.image.ai_edit && `; ${t(`person.image_${data.image.ai_edit}`, lang)}`}
+                {data.image.fair_use && `; ${t('person.image_fair_use', lang)}`}
+              </p>
+            )
+          }
+          {data.gallery.map((g) => (
             <p>
-              {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, <License name={data.image.license} />
-              {data.image.ai_edit && `; ${t(`person.image_${data.image.ai_edit}`, lang)}`}
-              {data.image.fair_use && `; ${t('person.image_fair_use', lang)}`}
+              {t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, <License name={g.license} />
+              {g.fair_use && `; ${t('person.image_fair_use', lang)}`}
             </p>
-          )
-        }
-        {data.gallery.map((g) => (
-          <p>
-            {t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, <License name={g.license} />
-            {g.fair_use && `; ${t('person.image_fair_use', lang)}`}
-          </p>
-        ))}
-        {data.living && <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>}
+          ))}
+          {data.living && <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>}
+        </details>
         <p class="profile-report"><a href={localePath(lang, `/feedback/?type=correction&profile=${person.slug}`)}>{t('person.report', lang)}</a></p>
       </footer>
     </div>
