@@ -29,6 +29,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Михайло_Кравчук.png"
+  ai_edit: colorized
 quotes:
   - text: "Моя любов – Україна і математика."
     source: "Слова вченого, викарбувані на його пам'ятнику в Київському політехнічному інституті (2003)"
@@ -40,7 +41,8 @@ sources:
   - title: "КПІ ім. Ігоря Сікорського - Кравчук Михайло Пилипович"
     url: "https://kpi.ua/kravchuk_mykhaylo"
 related: [serhii-korolov, arkhyp-liulka]
-status: draft
+status: approved
+published: 2026-10-15T23:46:22Z
 ---
 
 ## Хлопець із Човниці

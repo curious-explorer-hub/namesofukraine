@@ -18,10 +18,11 @@ places:
   - { name: "Париж", lat: 48.857, lon: 2.352, note: "місце смерті й поховання (Пер-Лашез), 1952" }
 image:
   src: ./images/mykhailo-omelianovych-pavlenko.jpg
-  alt: "Михайло Омелянович-Павленко у військовому однострої з нагородами, 1919 рік"
-  author: "Невідомий автор"
+  alt: "Михайло Омелянович-Павленко у смушевій шапці й сірому пальті, 1920 рік"
+  author: "Невідомий автор (Тадеуш Кутшеба, «Wyprawa kijowska», Варшава, 1937)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Омелянович-Павленко_М.JPG"
+  source_url: "https://commons.wikimedia.org/wiki/File:Omeljanowycz-Pawlenko.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Командувач Української галицької армії (грудень 1918 – червень 1919): переформував її і зробив боєздатною"
   - "Командувач армії УНР у Першому зимовому поході (6 грудня 1919 – 6 травня 1920)"
@@ -39,7 +40,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Омелянович-Павленко_Михайло_Володимирович
 related: [symon-petliura, yurii-tiutiunnyk, marko-bezruchko]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-15T23:33:05Z
 ---
 
 ## Армія в «трикутнику смерті»

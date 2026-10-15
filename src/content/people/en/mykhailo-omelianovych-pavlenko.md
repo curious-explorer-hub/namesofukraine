@@ -11,7 +11,7 @@ key_accomplishments:
   - "Founded and headed the Museum of Ukraine’s Liberation Struggle in Prague (1925)"
   - "Author of The Ukrainian-Polish War of 1918–1919 (1929) and The Winter Campaign (1934)"
 birthplace_name: "Tiflis (now Tbilisi)"
-image_alt: "Mykhailo Omelianovych-Pavlenko in military uniform with decorations, 1919"
+image_alt: "Mykhailo Omelianovych-Pavlenko in a lambskin hat and grey coat, 1920"
 ---
 
 ## An army in the “triangle of death”

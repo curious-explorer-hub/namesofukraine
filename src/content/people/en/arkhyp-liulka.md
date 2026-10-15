@@ -11,6 +11,7 @@ key_accomplishments:
   - "The AL series of engines for supersonic aircraft"
   - "The light TS-31M engine for Oleh Antonov’s An-13 motor glider"
 birthplace_name: "Savarka"
+image_alt: "An elderly Arkhyp Liulka in a grey tweed jacket and dark tie, photo portrait"
 ---
 
 ## A plane without a propeller

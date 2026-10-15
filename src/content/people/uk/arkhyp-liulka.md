@@ -22,6 +22,15 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "НДІ промислової енергетики; викладач Харківського авіаційного інституту (1933–1939), проєкт РД-1" }
   - { name: "Ленінград (Санкт-Петербург)", lat: 59.934, lon: 30.335, note: "конструкторське бюро на Кіровському заводі (від 1939)" }
   - { name: "Москва", lat: 55.756, lon: 37.617, note: "лабораторія реактивних двигунів (від 1943), головний конструктор власного бюро (від 1946); тут помер 1984 року" }
+image:
+  src: ./images/arkhyp-liulka.jpg
+  alt: "Літній Архип Люлька в сірому твідовому піджаку й темній краватці, фотопортрет"
+  position: "50% 25%"
+  author: "Невідомий автор (Енциклопедія Сучасної України)"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BB%D1%8C%D0%BA%D0%B0_%D0%90%D1%80%D1%85%D0%B8%D0%BF_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Енциклопедія Сучасної України - Люлька Архип Михайлович (автори - В. О. Христич, Г. Б. Варламов)"
     url: "https://esu.com.ua/article-59934"
@@ -32,7 +41,8 @@ sources:
   - title: "КПІ ім. Ігоря Сікорського - Lyulka Arkhip Mikhajlovych: a teacher and a student, two academicians in one person (Д. Стефанович)"
     url: "https://kpi.ua/en/node/7651"
 related: [oleh-antonov, mykhailo-kravchuk]
-status: draft
+status: approved
+published: 2026-10-15T23:42:52Z
 ---
 
 ## Літак без пропелера
