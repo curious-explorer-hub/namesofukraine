@@ -1280,8 +1280,10 @@ main:focus { outline: none; }
 .prose ul { padding-left: 1.25rem; }
 .prose li { margin-bottom: 0.35rem; }
 /* A photo closing a section of the story, with its caption */
-.story-photo { margin: 1.5rem 0 2rem; }
-.story-photo img { display: block; width: 100%; height: auto; border-radius: 6px; }
+/* A photo shows at the size in its `width` attribute (its own pixels, capped at 640px tall in PersonView),
+   but at least half the column and at most all of it; the caption wraps to the photo. */
+.story-photo { container-type: inline-size; display: grid; grid-template-columns: min-content; justify-content: center; margin: 1.5rem 0 2rem; }
+.story-photo img { display: block; min-width: 50cqi; max-width: 100cqi; height: auto; border-radius: 6px; }
 .story-photo figcaption { margin-top: 0.5rem; font-size: 0.875rem; line-height: 1.45; color: var(--slate); }
 
 /* Story videos (D18): a 16:9 card that becomes the YouTube player, at the same size, after play is pressed */

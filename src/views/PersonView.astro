@@ -44,7 +44,10 @@ const offset = sections[0].startsWith('<h2') ? 1 : 0;
 for (const g of data.gallery) {
   const img = await getImage({ src: g.src, widths: [480, 720, 1080], format: 'webp' });
   const i = Math.min(g.section - offset, sections.length - 1);
-  sections[i] += `<figure class="story-photo"><img src="${img.src}" srcset="${img.srcSet.attribute}" sizes="(min-width: 48rem) 42rem, 100vw" width="${g.src.width}" height="${g.src.height}" alt="${escape(g.alt)}" loading="lazy" decoding="async"><figcaption>${escape(g.caption)}</figcaption></figure>`;
+  // Shown at its own pixel width, but no taller than 640px; CSS keeps it within half to all of the column.
+  const width = Math.round(Math.min(g.src.width, (g.src.width * 640) / g.src.height));
+  const height = Math.round((width * g.src.height) / g.src.width);
+  sections[i] += `<figure class="story-photo"><img src="${img.src}" srcset="${img.srcSet.attribute}" sizes="(min-width: 48rem) 42rem, 100vw" width="${width}" height="${height}" alt="${escape(g.alt)}" loading="lazy" decoding="async"><figcaption>${escape(g.caption)}</figcaption></figure>`;
 }
 // Story videos (`videos`): placed like the photos. Without JS the card is a plain link to YouTube; with JS
 // it becomes a player in place, but only after the reader presses play (src/scripts/video.ts, D18).
