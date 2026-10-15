@@ -11,17 +11,17 @@ key_accomplishments:
   - "Six-time world champion: individual (2013, 2014, 2017, 2019) and team (2009, 2013); six-time individual European champion"
   - "Order of Freedom (2024) and the Order of Princess Olga in all three classes; inducted into the International Fencing Federation Hall of Fame (2016)"
 birthplace_name: "Mykolaiv"
-image_alt: "Olga Kharlan in her fencing kit with a Ukrainian flag, celebrating the team win at the Paris Olympics, 2024"
+image_alt: "A smiling Olga Kharlan in Team Ukraine's yellow Olympic jacket holds up her bronze medal from the Paris Olympics, 2024"
+gallery:
+  - alt: "Olga Kharlan in a grey T-shirt sits at a white table, chin resting on her hand, next to a Barbie doll in a fencing suit with a sabre inside a clear display case"
+    caption: "Kharlan with her own Barbie doll before the charity auction, 2023"
+videos:
+  - title: "Olga Kharlan refuses to shake hands with Russia's Anna Smirnova at the World Championships in Milan, 2023"
+    source: "UA News Now"
 quotes:
   - text: "It's for people in Ukraine, it's for defenders, it's for athletes who couldn't come here because they were killed by Russia."
     source: "Interview with DW after her Paris 2024 bronze; quoted by RFE/RL, 7 August 2024"
 ---
-
-## Disqualified for a win
-
-At the 2023 World Championships in Milan, Olga Kharlan beat Russia's Anna Smirnova 15–7. Her opponent was competing as a "neutral" athlete. After the bout Kharlan did not shake her hand; she held out her sabre instead, offering to tap blades. The International Fencing Federation disqualified her. She later said she had thought it was the end of her career.
-
-The federation soon reversed its decision, and the President of the International Olympic Committee, Thomas Bach, gave Kharlan a place at the Paris Olympics. Without it, she might have missed what would be her fifth Games.
 
 ## A sabre instead of dancing
 
@@ -29,10 +29,20 @@ Olga was born in 1990 in Mykolaiv. As a child she went to dance classes, but the
 
 Then came individual bronze medals in London (2012) and Rio de Janeiro (2016), a team silver in Rio, four individual world titles and six European ones.
 
+## Disqualified for a win
+
+At the 2023 World Championships in Milan, Olga Kharlan beat Russia's Anna Smirnova 15–7. Her opponent was competing as a "neutral" athlete. After the bout Kharlan did not shake her hand; she held out her sabre instead, offering to tap blades. The International Fencing Federation disqualified her. She later said she had thought it was the end of her career.
+
+But the public outcry and the world's solidarity forced the International Fencing Federation to lift the penalty, and the International Olympic Committee guaranteed Olga a place at the Olympics. After this case, the handshake rules in world fencing were officially changed.
+
+## Her own Barbie doll
+
+In 2020 Mattel created a one-of-a-kind Barbie doll in Olga Kharlan's honour as part of its Barbie Role Models series. She became the first Ukrainian athlete to have a doll made in her likeness. Olga later sold the doll at a charity auction for $10,400 and gave the money to the rehabilitation of wounded Ukrainian soldiers.
+
 ## Paris 2024
 
 On 29 July 2024 Kharlan won bronze in the individual event, Ukraine's first medal of those Games. On 3 August, in the team final against South Korea, she fenced the last bout, levelled the score at 40–40 and then scored five touches in a row. Ukraine won 45–42 and took its first gold in Paris. Kharlan dedicated her medal to the people of Ukraine, to its defenders and to the athletes Russia has killed.
 
 ## Why it matters today
 
-Olga Kharlan took up the sabre because dance classes cost too much and fencing lessons were free. That choice grew into six Olympic medals, more than anyone who has competed for Ukraine. In 2023 she refused to shake a Russian opponent’s hand, even though she thought it might end her career. In Paris she fenced the last bout of the team final, scored five touches in a row and brought Ukraine its first gold of those Games. She dedicated her medal to the people of Ukraine, its defenders and the athletes Russia has killed. For the world, Kharlan has become the face of Ukrainian athletes standing up to Russian aggression.
+Olga Kharlan's work is a vivid example of sporting triumph, high-level diplomacy and patriotism combined. As Ukraine's most decorated Olympian and a six-time Olympic medallist, she has not only raised Ukraine's flag on the world's highest podiums time and again but also used her international standing as a powerful platform to defend her country's interests. She stands firmly by her principles on the world stage, defending the sporting and human dignity of Ukraine and pushing international bodies to change outdated rules. She also turns her own success into real support for her country, raising money at public auctions for the rehabilitation of wounded Ukrainian soldiers. Through her resilience and courage, she shows the strength of the Ukrainian spirit and builds a strong, positive image of Ukraine in the world.
