@@ -11,6 +11,9 @@ key_accomplishments:
   - "Deputy minister of infrastructure (from 2021), head of the State Agency for Restoration and Infrastructure Development (2023–2024)"
 birthplace_name: "Kabul, Afghanistan"
 image_alt: "Mustafa Nayyem speaking at the Ukrainian Catholic University in Lviv, May 2010"
+quotes:
+  - text: "I don't think the fight for freedom ever stops at all."
+    source: "Radio Svoboda interview on the marathon \"Revolution: 7 Years On\", November 2011"
 ---
 
 ## The post that started the Maidan

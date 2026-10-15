@@ -11,6 +11,9 @@ key_accomplishments:
   - "The collections Pierrot Loves (1918), In the Roseless Orchards (1919) and two books both titled Kobzar (1924)"
 birthplace_name: "Kybyntsi"
 image_alt: "Mykhail Semenko with a pipe, 1928"
+quotes:
+  - text: "We are strong, young, / brave people — / we fear no one and wish everyone well."
+    source: "Poem \"Invitation\", 1914"
 ---
 
 ## “I burn my Kobzar”

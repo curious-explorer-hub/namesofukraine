@@ -11,6 +11,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, decree No. 544/2014 of 20 June 2014) - the first Ukrainian general killed in the war with Russia"
 birthplace_name: "Weimar, Germany"
 image_alt: "Major General Serhii Kulchytskyi in National Guard uniform in front of flags"
+quotes:
+  - text: "I will do everything to make you good soldiers."
+    source: "To the Maidan volunteers, 2014 (Ukrainska Pravda Life, May 2014)"
 ---
 
 ## The general who trained the volunteers

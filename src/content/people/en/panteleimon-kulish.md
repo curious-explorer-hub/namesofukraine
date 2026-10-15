@@ -12,6 +12,9 @@ key_accomplishments:
   - "Translations of Shakespeare, Schiller, Goethe and Byron; a Ukrainian translation of the Bible"
 birthplace_name: "Voronizh"
 image_alt: "Panteleimon Kulish in profile, with a moustache, in a dark frock coat and bow tie, a photo from about 1869"
+quotes:
+  - text: "But you, ring out your word and speak, / And do not let our brothers' souls fall asleep."
+    source: "Poem \"To the Kobza\""
 ---
 
 ## The spelling you are reading

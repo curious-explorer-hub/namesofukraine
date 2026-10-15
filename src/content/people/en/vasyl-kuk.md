@@ -14,6 +14,9 @@ key_accomplishments:
   - "After his release, preserved and passed to historians testimony and documents on the independence underground, including for the Litopys UPA document series"
 birthplace_name: "Krasne, Lviv region"
 image_alt: "Portrait of Vasyl Kuk in a jacket, 1940"
+quotes:
+  - text: "All that we did, all that we fought for, was about love. Loving what is our own!"
+    source: "Radio Svoboda interview, January 2007"
 ---
 
 ## Did you know the last commander-in-chief of the UPA lived to see Ukraine become independent?

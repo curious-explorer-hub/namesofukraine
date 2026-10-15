@@ -13,6 +13,9 @@ key_accomplishments:
   - "An anthology of Ukrainian poetry (1930–1932), with Vasyl Atamaniuk and Feliks Yakubovskyi"
 birthplace_name: "Kantemyrivka, Voronezh gubernia (now Voronezh oblast, Russia)"
 image_alt: "Yevhen Pluzhnyk, portrait"
+quotes:
+  - text: "My people! / Unlettered and barefoot! / Hallowed be thy name! / Let new rye come into bloom / With the lush flower of new glory!"
+    source: "Poem \"Galileo\""
 ---
 
 ## The boy from Kantemyrivka

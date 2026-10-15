@@ -26,7 +26,15 @@ The quote panel is the one place where the reader hears the person directly, so 
 - encourages: to work, to learn, to stay brave, to defend what is right, not to give in to fear;
 - makes sense on its own, without the rest of the profile, and suits readers of all ages (nothing graphic or hateful).
 
-Skip lines that only describe a career, a habit or a hobby ("as a child I loved to draw"), aphorisms about a work method, wit that needs context, and lines about death for its own sake. If none of the person's own words meets this bar, leave the panel empty: no quote is better than a weak one. The sourcing rules don't change ([QUOTES.md](QUOTES.md), §7).
+Skip lines that only describe a career, a habit or a hobby ("as a child I loved to draw"), aphorisms about a work method, wit that needs context, and lines about death for its own sake. If none of the person's own words meets this bar, leave the panel empty: no quote is better than a weak one.
+
+Finding and adding quotes (BACKLOG I23; live quotes are only in the profiles' frontmatter, `quotes:`):
+
+- **One quote per profile**, picked by the owner. Propose candidates in a table in chat (uk, en, source, confidence) and apply only the ones the owner approves.
+- **Where they go:** uk text and source in `src/content/people/uk/<slug>.md` after `key_accomplishments:` (before `sources:`); en text and source at the end of the en frontmatter, same order. ` / ` marks a line break in verse. The source line doesn't repeat the person's name.
+- **Sourcing:** the person's own words, verbatim, checked against a source that was opened (their published work, an encyclopedia, UINP, a museum or official site, or major media), never a Russian one (§7.3). Wikiquote, Goodreads and listicles are leads only. osvita.ua and ukrlib are used for the text of classic literature. Mark cuts with […].
+- **Confidence:** "high" means the wording was checked against the primary text or a reputable outlet quoting it; "medium" means a reputable outlet prints it without naming the primary source, so treat it as optional.
+- **English:** our own translation unless a published one exists; then name it. If a line was said in English, use the original and translate the uk.
 
 ## Hooks to choose from
 

@@ -27,6 +27,9 @@ key_accomplishments:
   - "Засновник футуристичних груп: «Флямінго», «Аспанфут», «Комункульт», «Нова генерація»"
   - "Головний редактор Одеської кінофабрики ВУФКУ (1924–1927)"
   - "Збірки «П'єро кохає» (1918), «В садах безрозних» (1919) і дві збірки під назвою «Кобзар» (1924)"
+quotes:
+  - text: "Люди ми сильні, молоді, / сміливі — / не боїмось нікого й бажаємо усім добра."
+    source: "Вірш «Запрошення», 1914"
 sources:
   - title: "Internet Encyclopedia of Ukraine - Semenko, Mykhailo (автор - Bohdan Kravtsiv)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CE%5CSemenkoMykhailo.htm"

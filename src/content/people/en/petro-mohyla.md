@@ -12,6 +12,9 @@ key_accomplishments:
   - "Restored St Sophia’s Cathedral, the Church of the Saviour at Berestove and the Vydubychi cathedral"
 birthplace_name: "Principality of Moldavia"
 image_alt: "Portrait of Petro Mohyla in bishop’s vestments, with the Mohyla coat of arms and a cross"
+quotes:
+  - text: "Seeing that the decline of holy piety among the Rus' people comes only from a complete lack of education and learning, I made a vow to my Lord that all the property I inherited from my parents […] I would give […] to founding schools in Kyiv."
+    source: "Testament, December 1646"
 ---
 
 ## The ruler’s son who chose a school

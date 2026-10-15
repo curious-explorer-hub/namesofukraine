@@ -12,6 +12,9 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, 2014); his poems came out as the collection Kitchens of My Generation (2014)"
 birthplace_name: "Staryi Sambir"
 image_alt: "Bohdan Solchanyk in a white embroidered shirt holding a black hat decorated with viburnum berries and flowers, portrait"
+quotes:
+  - text: "Where is my Revolution? / Where is the street blocked with barricades? / Where is mercy drowned in the mud? / Where is the photo of my Revolution / standing over the fallen tyrant?"
+    source: "Poem \"Where Is My Revolution?\", 2008"
 ---
 
 ## A historian who studied elections
