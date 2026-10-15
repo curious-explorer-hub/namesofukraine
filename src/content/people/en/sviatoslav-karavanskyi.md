@@ -12,7 +12,7 @@ key_accomplishments:
   - "Member of the Ukrainian Helsinki Group (from 1979)"
   - "Translations of Shakespeare, Kipling and Burns, and of Charlotte Brontë’s Jane Eyre"
 birthplace_name: "Odesa"
-image_alt: "Portrait of Sviatoslav Karavanskyi on the Ukrainian postage stamp Knights of the Spirit, 2020"
+image_alt: "An elderly Sviatoslav Karavanskyi in a beret, portrait"
 ---
 
 ## A dictionary made behind barbed wire

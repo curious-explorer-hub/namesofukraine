@@ -20,7 +20,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Володимир Свідзинський | 1885–1941 | Poet (literature) | | `executed-renaissance` | Died in NKVD custody in 1941; the manner of death is disputed. Free portrait |
 | Гео Шкурупій | 1903–1937 | Poet (literature) | | `executed-renaissance` | Futurist; shot 1937. Free portrait |
 | Григорій Епік | 1901–1937 | Writer (literature) | | `executed-renaissance` | Shot at Sandarmokh. Free portrait |
-| Олекса Влизько | 1908–1934 | Poet (literature) | | `executed-renaissance` | Shot in Kyiv with the 28, December 1934. Free portrait |
+| Олекса Влизько | 1908–1934 | Poet (literature) | | `executed-renaissance` | Owner request 2026-10-15. Shot in Kyiv with the 28, December 1934. Free portrait |
 | Іван Дніпровський | 1895–1934 | Writer (literature) | | | Kherson-born, not repressed: a profile outside the collection; fills Kherson oblast |
 | Микола Лемик | 1914–1941 | OUN member (statehood) | ⚖️ | | Owner request 2026-10-10. In October 1933 he shot an official of the Soviet consulate in Lviv in protest against the Holodomor, and used his trial to tell the world about the famine; sentenced to life, freed in 1939, killed by the Nazis in 1941 (all **unverified**). A political killing: needs a neutral «Дискусії та оцінки» section |
 | Дмитро Донцов | 1883–1973 | Political thinker (statehood) | 🌍 ⚖️ | | Owner request 2026-10-10. Ideologist of Ukrainian integral nationalism («Націоналізм», 1926); a strong influence on the OUN; emigrated to Canada. Contested: needs a careful «Дискусії та оцінки» section |
@@ -51,6 +51,8 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Костянтин Мрочко | 1994–2022 | Marine commander (defenders) | | `defenders-mariupol`? | Fallen. Born in Berezets, Lviv oblast. Commander of the 503rd Marine Battalion; held the Mariupol–Volnovakha sector so 53rd Brigade units were not encircled; killed 12 Mar 2022 near Yevheniivka. Hero of Ukraine (2022, posthumous). ЕСУ: esu.com.ua/article-77575. On the approaches to the city: in the collection or not? |
 | Олекса Гасин («Лицар») | 1907–1949 | OUN regional leader, chief of the UPA General Military Staff (statehood) | ⚖️ | | Owner request 2026-10-15. Needs a neutral «Дискусії та оцінки» section, like the other UPA profiles (all **unverified**) |
 | Петро Полтава (Федот Федун) | 1919–1951 | Publicist, ideologist of the liberation movement (statehood) | ⚖️ | | Owner request 2026-10-15. Head of political education at the UPA General Military Staff; wrote on the struggle for a Ukrainian state (all **unverified**). Needs a «Дискусії та оцінки» section |
+| Дмитро Фальківський | 1898–1934 | Poet (literature) | ⚖️ | `executed-renaissance` | Owner request 2026-10-15. Poet («Обрій», «Полісся»); shot in Kyiv with the 28, December 1934, like Влизько and Косинка (all **unverified**). The 2026-10-10 roster check left him out for his early service in the Cheka: check what he did there and say it plainly; may need a «Дискусії та оцінки» section. Born in Polissia, possibly in today's Belarus: state the connection precisely |
+| Кость Буревій (Едвард Стріха) | 1888–1934 | Writer, playwright, political figure (literature) | ⚖️ | `executed-renaissance` | Owner request 2026-10-15. Ukrainian Socialist Revolutionary activist; drama «Павло Полуботок»; parodied futurism as «Едвард Стріха»; shot in Kyiv with the 28, December 1934 (all **unverified**). The 2026-10-10 roster check left him out as a political figure: write about the political role neutrally |
 
 ## Needs a decision
 
@@ -77,4 +79,4 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 ## Don't add
 
 - **Віктор Ющенко:** excluded by owner decision, 2026-09-29.
-- **From the Executed Renaissance roster check (2026-10-10):** Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); Чехівський, Лозинський, Буревій (political figures); Олена Курило and Катерина Грушевська (dates conflict, thin sources); Фальківський (Cheka service). Survivors Осьмачка, Слабченко, Суровцова, Мисик and Івченко: only if a strong profile on their own.
+- **From the Executed Renaissance roster check (2026-10-10):** Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); Чехівський, Лозинський (political figures); Олена Курило and Катерина Грушевська (dates conflict, thin sources). Survivors Осьмачка, Слабченко, Суровцова, Мисик and Івченко: only if a strong profile on their own.

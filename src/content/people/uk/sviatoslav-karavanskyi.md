@@ -26,10 +26,12 @@ places:
   - { name: "Балтимор", lat: 39.29, lon: -76.612, note: "тут помер 17 грудня 2016 року" }
 image:
   src: ./images/sviatoslav-karavanskyi.jpg
-  alt: "Портрет Святослава Караванського на поштовій марці України «Лицарі духу», 2020 рік"
-  author: "Укрпошта (художник Василь Василенко)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Stamp_of_Ukraine_s1869.jpg"
+  alt: "Літній Святослав Караванський у береті, портрет"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%99%D0%BE%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%87"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Internet Encyclopedia of Ukraine - Karavansky, Sviatoslav (автор - Ivan Jaworsky)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CA%5CKaravanskySviatoslav.htm"
@@ -37,7 +39,8 @@ sources:
     url: "https://museum.khpg.org/1142693664"
   - title: "Радіо Свобода - Караванський. Фанат української мови з Одеси, якого 31 рік тримали за ґратами (Я. Трегубова, 15.11.2016)"
     url: "https://www.radiosvoboda.org/a/28118871.html"
-status: draft
+status: approved
+published: 2026-10-15T20:47:42Z
 ---
 
 ## Словник, складений за ґратами
