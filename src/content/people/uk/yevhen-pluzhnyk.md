@@ -17,6 +17,7 @@ places:
 image:
   src: ./images/yevhen-pluzhnyk.jpg
   alt: "Євген Плужник, портрет"
+  ai_edit: colorized
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Плужник_Є.jpg"
@@ -39,7 +40,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/24809122.html"
 related: [valerian-pidmohylnyi, hryhorii-kosynka, mykola-hohol]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-15T20:11:52Z
 ---
 
 ## Хлопець із Кантемирівки

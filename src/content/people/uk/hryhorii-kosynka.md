@@ -16,6 +16,7 @@ places:
 image:
   src: ./images/hryhorii-kosynka.jpg
   alt: "Григорій Косинка, портрет"
+  ai_edit: colorized
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Григорій_Косинка.JPG"
@@ -39,7 +40,8 @@ sources:
     url: "https://zaxid.net/burzhuazniy_natsionalist_yakiy_vzyav_za_psevdonim_nazvu_kvitki_i_buv_znishheniy_nkvs_n1621686"
 related: [yevhen-pluzhnyk, valerian-pidmohylnyi, mykola-zerov, mykola-khvylovyi, mykhailo-kotsiubynskyi, mykola-hohol]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-15T20:08:20Z
 ---
 
 ## Ім'я квітки
