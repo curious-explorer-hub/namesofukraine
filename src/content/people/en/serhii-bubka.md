@@ -12,6 +12,9 @@ key_accomplishments:
   - "President of the National Olympic Committee of Ukraine (2005–2022), Vice President of the IAAF / World Athletics (2007–2023), IOC member (since 1999; as of October 2026)"
 birthplace_name: "Luhansk"
 image_alt: "Sergey Bubka during a visit to the Aspire sports academy in Doha, 2013"
+gallery:
+  - alt: "Sergey Bubka in Ukraine's blue kit clears the bar in a pole vault in front of packed stands"
+    caption: "Bubka clearing the bar in Ukraine's kit"
 ---
 
 ## Six metres

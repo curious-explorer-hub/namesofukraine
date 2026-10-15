@@ -17,6 +17,15 @@ image:
   author: "Vinod Divakaran / Doha Stadium Plus Qatar"
   license: "CC BY 2.0"
   source_url: "https://commons.wikimedia.org/wiki/File:Sergey_Bubka_2013.jpg"
+gallery:
+  - src: ./images/serhii-bubka-jump.jpg
+    alt: "Сергій Бубка в синій формі збірної України перелітає через планку в стрибку з жердиною на тлі заповнених трибун"
+    caption: "Бубка в стрибку з жердиною у формі збірної України"
+    section: 1
+    fair_use: true
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://esu.com.ua/article-36402"
 key_accomplishments:
   - "Олімпійський чемпіон 1988 року (Сеул)"
   - "Шестиразовий чемпіон світу (1983–1997) - єдиний легкоатлет, який шість разів виграв світову першість в одній індивідуальній дисципліні"

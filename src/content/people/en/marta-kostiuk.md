@@ -11,7 +11,10 @@ key_accomplishments:
   - "First WTA 1000 title: Madrid, 2026 (beating Mirra Andreeva in the final)"
   - "Wimbledon semifinalist (2026), equalling the best result by a Ukrainian woman there"
 birthplace_name: "Kyiv"
-image_alt: "Marta Kostyuk hitting a backhand at the 2023 US Open"
+image_alt: "Marta Kostyuk in a blue tennis outfit and white headband clenches her fist after winning a point"
+gallery:
+  - alt: "A smiling Marta Kostyuk in a green tennis dress lifts the silver Madrid Open trophy amid blue streamers of confetti"
+    caption: "Kostyuk with the Madrid Open trophy, 2 May 2026"
 quotes:
   - text: "I want to dedicate this match to the Ukrainian people and their resilience. Glory to Ukraine!"
     source: "After the Roland Garros quarter-final, June 2026"

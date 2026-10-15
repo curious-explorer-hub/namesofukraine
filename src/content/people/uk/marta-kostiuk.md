@@ -16,11 +16,21 @@ places:
   - { name: "Мадрид", lat: 40.417, lon: -3.704, note: "перший титул WTA 1000, 2026" }
 image:
   src: ./images/marta-kostiuk.jpg
-  alt: "Марта Костюк б'є з лівої руки на US Open, 2023 рік"
-  position: "50% 20%"
-  author: "Hameltion"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Marta_Kostyuk_(2023_US_Open)_20_(cropped).jpg"
+  alt: "Марта Костюк у блакитній тенісній формі й білій пов'язці на голові стискає кулак після виграного розіграшу"
+  position: "50% 15%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.facebook.com/koostyuk/photos/1528490189295492/"
+  fair_use: true
+gallery:
+  - src: ./images/marta-kostiuk-madrid.jpg
+    alt: "Усміхнена Марта Костюк у зеленій тенісній сукні піднімає срібний трофей Madrid Open серед блакитних стрічок конфеті"
+    caption: "Костюк із трофеєм Madrid Open, 2 травня 2026 року"
+    section: 2
+    fair_use: true
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis"
 key_accomplishments:
   - "Переможниця Australian Open серед юніорок"
   - "Третє коло Australian Open 2018 року у 15 років - наймолодша переможниця матчу основної сітки цього турніру після Мартіни Хінгіс (1996)"
@@ -41,7 +51,8 @@ sources:
     url: "https://wtatennis.com/news/4532539/kostyuk-beats-paolini-to-reach-first-wimbledon-semifinal"
 related: [elina-svitolina]
 collections: [olympians]
-status: draft
+status: approved
+published: 2026-10-15T03:54:08Z
 ---
 
 ## П'ятнадцятирічна з кваліфікації

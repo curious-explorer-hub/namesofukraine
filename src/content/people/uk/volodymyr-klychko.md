@@ -17,6 +17,15 @@ image:
   author: "MSC / Kuhlmann"
   license: "CC BY 3.0 DE"
   source_url: "https://commons.wikimedia.org/wiki/File:Volodymyr_Klychko_(Vladimir_Klitschko)_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_(cropped).jpg"
+gallery:
+  - src: ./images/volodymyr-klychko-atlanta.jpg
+    alt: "Володимир Кличко в червоній майці збірної України із золотою олімпійською медаллю на шиї піднімає над головою букет квітів, Атланта, 1996 рік"
+    caption: "Кличко на п'єдесталі Олімпійських ігор в Атланті, 1996 рік"
+    section: 1
+    fair_use: true
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://prosportua.com/boks-23-goda-nazad-klichko-stal-olimpijskim-chempionom"
 key_accomplishments:
   - "Олімпійський чемпіон 1996 року (Атланта) в надважкій вазі"
   - "Чемпіон світу за версіями WBO (2000–2003, 2008–2015), IBF та IBO (2006–2015), The Ring (2009–2015) і WBA (2011–2015)"
