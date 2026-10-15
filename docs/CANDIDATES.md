@@ -17,12 +17,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
-| Марко Вороний | 1904–1937 | Poet, translator (literature) | | `executed-renaissance` | Son of Микола Вороний (draft); shot at Sandarmokh. Free portrait |
-| Іван Падалка | 1894–1937 | Painter (visual-arts) | | `executed-renaissance` | Boichukist; shot 1937. Free portrait |
 | Володимир Свідзинський | 1885–1941 | Poet (literature) | | `executed-renaissance` | Died in NKVD custody in 1941; the manner of death is disputed. Free portrait |
-| Степан Рудницький | 1877–1937 | Geographer (science) | | `executed-renaissance` | Founder of Ukrainian geography; shot at Sandarmokh. Free portrait |
-| Сергій Єфремов | 1876–1939 | Literary scholar, civic leader (civic) | | `executed-renaissance` | Main defendant of the SVU show trial; died in a camp. Free portrait |
-| Михайло Кравчук | 1892–1942 | Mathematician (science) | | | Died in Kolyma; outside the collection's cultural scope. Free portrait |
 | Гео Шкурупій | 1903–1937 | Poet (literature) | | `executed-renaissance` | Futurist; shot 1937. Free portrait |
 | Григорій Епік | 1901–1937 | Writer (literature) | | `executed-renaissance` | Shot at Sandarmokh. Free portrait |
 | Олекса Влизько | 1908–1934 | Poet (literature) | | `executed-renaissance` | Shot in Kyiv with the 28, December 1934. Free portrait |
@@ -35,11 +30,8 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Олена Підгрушна (Білосюк) | b. 1987 | Biathlete (sport) | 👩 🟢 | | Owner request 2026-10-12. Olympic champion in the women's relay (Sochi 2014); world sprint champion 2013. Later a deputy minister of youth and sports (check years). Check the name she competes under now and the birthplace (Kyiv or Slavutych) |
 | Олексій Середа | b. 2005 | Diver (sport) | 🟢 | | Owner request 2026-10-12. From Mykolaiv; European champion on the 10 m platform at 13 (2019), among the youngest ever; competed at the Tokyo and Paris Games. Young and with no Olympic medal yet: encyclopedias may not cover him, so check sources before drafting |
 | Галшка Гулевичівна | c. 1575–1642 | Patron (civic) | 👩 | | Owner request 2026-10-12. In 1615 gave her Kyiv estate to the Kyiv Brotherhood for a school and monastery, the start of the brotherhood school. Birth year uncertain (`born_circa`); no authentic portrait known, so check |
-| Варвара Ханенко | 1852–1922 | Collector, museum founder (civic) | 👩 | | Owner request 2026-10-12. Listed on her own; see Богдан Ханенко under Needs a decision (one joint profile or two). Their collection became the Khanenko Museum in Kyiv. Daughter of Нікола Терещенко (draft) |
 | Олександр Мурашко | 1875–1919 | Painter (visual-arts) | | | Owner request 2026-10-12. «Карусель», «Дівчина в червоному капелюшку»; a founder of the Ukrainian Academy of Arts (1917); killed in Kyiv in 1919. Free portrait |
 | Анатолій Базилевич | 1926–2005 | Graphic artist, illustrator (visual-arts) | | | Owner request 2026-10-12. Best known for his illustrations to Котляревський's «Енеїда». A free portrait may be hard to find |
-| Євген Чикаленко | 1861–1929 | Patron, publisher (civic) | | | Owner request 2026-10-12. Funded the newspaper «Рада» and many Ukrainian causes; died in Prague. The «до глибини кишені» quote is often attributed to him: verify before using |
-| Архип Люлька | 1908–1984 | Jet engine designer (science) | 🌍 | | Owner request 2026-10-12. Born near Kyiv; designed the first Soviet turbojet engines; worked mainly in Russia |
 | Олександр Засядько | 1779–1837 | Rocket engineer, general (science) | 🌍 | | Owner request 2026-10-12. Born in Poltava region; artillery officer of the Russian Empire who developed military rockets; a lunar crater bears his name |
 | Всеволод Петрів | 1883–1948 | General, UNR war minister (statehood) | | | Owner request 2026-10-12. UNR general and military historian; memoirs. Died in emigration in Germany |
 | Ніл Хасевич | 1905–1952 | Graphic artist (visual-arts) | ⚖️ | | Owner request 2026-10-12. Woodcut artist; made graphics for the UPA underground; killed in an MGB raid in 1952. UPA context: needs a «Дискусії та оцінки» section |
@@ -58,8 +50,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Микола Ніконов | 1985–2022 | Special forces officer (defenders) | | `defenders-mariupol` | Fallen. Born in Kryvyi Rih. Captain 2nd rank, 73rd Naval Special Operations Centre; killed 12 Mar 2022 leading his group out of encirclement. Hero of Ukraine (2022, posthumous); Order of Bohdan Khmelnytsky III (2016). ЕСУ: esu.com.ua/article-77581 |
 | Максим Кагал | 1991–2022 | Defender, athlete (defenders) | | `defenders-mariupol` | Fallen. Born in Kremenchuk. Azov platoon commander (in Azov from 2015); killed in an airstrike on 25 Mar 2022. Hero of Ukraine (2022, posthumous). ЕСУ: esu.com.ua/article-77659. Check his sports record |
 | Костянтин Мрочко | 1994–2022 | Marine commander (defenders) | | `defenders-mariupol`? | Fallen. Born in Berezets, Lviv oblast. Commander of the 503rd Marine Battalion; held the Mariupol–Volnovakha sector so 53rd Brigade units were not encircled; killed 12 Mar 2022 near Yevheniivka. Hero of Ukraine (2022, posthumous). ЕСУ: esu.com.ua/article-77575. On the approaches to the city: in the collection or not? |
-| Святослав Караванський | 1920–2016 | Linguist, poet, translator (literature) | 🌍 | | Owner request 2026-10-15. Spent about 30 years in Soviet camps for defending the Ukrainian language; author of a well-known dictionary of synonyms; emigrated to the USA in 1979 (all **unverified**) |
-| Олена Пчілка | 1849–1930 | Writer, publisher, ethnographer (literature) | 👩 | | Owner request 2026-10-15. Mother of Лесі Українки and sister of Михайла Драгоманова (both have profiles); collected Ukrainian embroidery patterns, published the magazine «Рідний край» (all **unverified**) |
 | Олекса Гасин («Лицар») | 1907–1949 | OUN regional leader, chief of the UPA General Military Staff (statehood) | ⚖️ | | Owner request 2026-10-15. Needs a neutral «Дискусії та оцінки» section, like the other UPA profiles (all **unverified**) |
 | Петро Полтава (Федот Федун) | 1919–1951 | Publicist, ideologist of the liberation movement (statehood) | ⚖️ | | Owner request 2026-10-15. Head of political education at the UPA General Military Staff; wrote on the struggle for a Ukrainian state (all **unverified**). Needs a «Дискусії та оцінки» section |
 
