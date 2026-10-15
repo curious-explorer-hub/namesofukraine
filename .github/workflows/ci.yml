@@ -28,14 +28,17 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      # Astro keeps resized images here and skips them on the next build; restored after `npm ci`,
-      # which empties node_modules. Only `assets/`: the content data store is rebuilt each time.
-      - name: Restore Astro's image cache
+      # Resized images (Astro) and finished share cards (src/lib/og.ts) from the last build, so this one
+      # skips them; restored after `npm ci`, which empties node_modules. Not the content data store: it's
+      # rebuilt each time.
+      - name: Restore the image and share card caches
         uses: actions/cache@v6
         with:
-          path: node_modules/.astro/assets
-          key: astro-assets-${{ runner.os }}-${{ github.sha }}
-          restore-keys: astro-assets-${{ runner.os }}-
+          path: |
+            node_modules/.astro/assets
+            node_modules/.cache/og-cards
+          key: build-cache-${{ runner.os }}-${{ github.sha }}
+          restore-keys: build-cache-${{ runner.os }}-
       - name: Dependency advisories (fails on any not yet reviewed)
         run: node scripts/check-audit.mjs
       - run: npm run check

@@ -1,5 +1,5 @@
 // @ts-check
-import { readdirSync, readFileSync, renameSync, rmdirSync, rmSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync, renameSync, rmdirSync, rmSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'astro/config';
@@ -55,6 +55,26 @@ const unusedImages = {
   },
 };
 
+// Share cards are cached between builds (src/lib/og.ts touches every card it uses). Remove the ones this
+// build didn't use, so the cache holds only the current cards and doesn't grow with every edit.
+const cardCache = fileURLToPath(new URL('./node_modules/.cache/og-cards/', import.meta.url));
+let buildStart = 0;
+/** @type {import('astro').AstroIntegration} */
+const staleCards = {
+  name: 'stale-share-cards',
+  hooks: {
+    'astro:build:start': () => {
+      buildStart = Date.now();
+    },
+    'astro:build:done': ({ logger }) => {
+      if (!existsSync(cardCache)) return;
+      const stale = readdirSync(cardCache).filter((f) => statSync(join(cardCache, f)).mtimeMs < buildStart);
+      for (const f of stale) rmSync(join(cardCache, f));
+      logger.info(`removed ${stale.length} unused share cards from the cache`);
+    },
+  },
+};
+
 // Sitemap <lastmod> for profile pages (both languages): the later of `last_reviewed` and `published` in
 // the uk file's frontmatter.
 const peopleDir = new URL('./src/content/people/uk/', import.meta.url);
@@ -73,6 +93,7 @@ export default defineConfig({
     languageNotFoundPages,
     devOnlyPages,
     unusedImages,
+    staleCards,
     // Lists every built page (production builds hold only reviewed profiles) with uk/en alternates.
     // Left out: the error pages, the dev-only admin pages, the home page's card list (a fragment, not a
     // page) and the bare root, which only redirects to /uk/.

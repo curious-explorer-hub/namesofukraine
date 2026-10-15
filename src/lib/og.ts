@@ -1,6 +1,7 @@
 // Share-preview cards (1200×630 JPEG) and Instagram cards (1080×1350), rendered at build time with Satori + resvg.
 // Uses the same visual language as the site: Fixel type, cobalt-tinted portrait, wheat accent.
-import { readFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import { existsSync, mkdirSync, readFileSync, renameSync, utimesSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import satori from 'satori';
 import { Resvg } from '@resvg/resvg-js';
@@ -87,11 +88,30 @@ const medallion = (name: string, width: number, height: number, ring: number) =>
     ]),
   ]);
 
+// Turning the SVG into a JPEG (resvg, then sharp) takes most of the build, and nearly every card is the same as last
+// time. So finished cards are kept in `CARD_CACHE`, named by a hash of the SVG (which holds all text, fonts and
+// portraits), the size and the rasterizer versions: any change makes a new name, so a stale card can't be served.
+// A hit is touched; astro.config.mjs removes the cards no build used. CI keeps the folder between runs (ci.yml).
+const CARD_CACHE = join(root, 'node_modules/.cache/og-cards');
+const version = (pkg: string) => JSON.parse(readFileSync(join(root, 'node_modules', pkg, 'package.json'), 'utf8')).version;
+const rasterizer = `resvg ${version('@resvg/resvg-js')} sharp ${version('sharp')} jpeg 84 mozjpeg`;
+
 const render = async (tree: Node, width = W, height = H) => {
   const svg = await satori(tree as never, { width, height, fonts });
+  const key = createHash('sha256').update(`${rasterizer} ${width}x${height}\n${svg}`).digest('hex');
+  const file = join(CARD_CACHE, `${key}.jpg`);
+  if (existsSync(file)) {
+    const now = new Date();
+    utimesSync(file, now, now);
+    return readFileSync(file);
+  }
   const png = new Resvg(svg, { fitTo: { mode: 'width', value: width } }).render().asPng();
   // JPEG keeps photo-heavy cards small for link previews.
-  return sharp(png).jpeg({ quality: 84, mozjpeg: true }).toBuffer();
+  const jpg = await sharp(png).jpeg({ quality: 84, mozjpeg: true }).toBuffer();
+  mkdirSync(CARD_CACHE, { recursive: true });
+  writeFileSync(`${file}.tmp`, jpg);
+  renameSync(`${file}.tmp`, file);
+  return jpg;
 };
 
 export async function personCard(p: Person) {
