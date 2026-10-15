@@ -10,7 +10,7 @@ key_accomplishments:
   - "Secretary of the Ukrainian People’s Republic embassy in Finland; official of the West Ukrainian government in Vienna"
   - "Member of the Ukrainian Military Organization (UVO) and personal courier of Yevhen Konovalets"
 birthplace_name: "Pidhoroddia, near Rohatyn"
-image_alt: "Photograph of Olha Basarab in the uniform of the Ukrainian Sich Riflemen"
+image_alt: "Olha Basarab in a dark dress with a pearl necklace, portrait"
 quotes:
   - text: "I refuse to make any statement"
     source: "Polish police interrogation record, Lviv, February 1924"

@@ -18,11 +18,12 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.031, note: "підпілля УВО; похована на Янівському цвинтарі" }
 image:
   src: ./images/olha-basarab.jpg
-  alt: "Фотопортрет Ольги Басараб в однострої Українських січових стрільців"
+  alt: "Ольга Басараб у темній сукні з перловим намистом, портрет"
   position: "50% 25%"
-  author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Basarab_Olga_2.jpg"
+  ai_edit: rendered
+  author: "Український інститут національної пам'яті"
+  license: "CC BY 4.0"
+  source_url: "https://uinp.gov.ua/istorychnyy-kalendar/veresen/1/1889-narodylasya-olga-basarab-rozvidnycya-zvyazkova-yevgena-konovalcya"
 key_accomplishments:
   - "Учасниця першої жіночої чоти Українських січових стрільців"
   - "Співзасновниця перших дівочих гуртків «Пласту»"
@@ -42,7 +43,8 @@ sources:
     url: "https://zaxid.net/legendarna_rozvidnitsya_povishana_na_vishivanomu_rushniku_n1618147"
 related: [yevhen-konovalets, olena-stepaniv]
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-15T23:12:10Z
 ---
 
 ## Дівчина, яка ніколи не плакала

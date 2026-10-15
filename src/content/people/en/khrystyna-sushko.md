@@ -11,7 +11,7 @@ key_accomplishments:
   - "Led a branch of the union of war invalids at the Szczypiorno internment camp"
   - "US Army doctor in displaced persons camps in Germany (1945–1950)"
 birthplace_name: "Kyiv"
-image_alt: "Art poster: Khrystyna Sushko in the cap and uniform of the UNR Army, with officer’s stars on her collar"
+image_alt: "Khrystyna Sushko in the cap and uniform of the UNR Army, photo portrait"
 ---
 
 ## A princess under a borrowed name

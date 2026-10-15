@@ -21,6 +21,7 @@ image:
   author: "Невідомий автор (журнал «За Державність», Варшава, 1935)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Marko_Bezruczko_1934.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Начальник оперативного відділу Генштабу армії УНР (1918–1919)"
   - "Начальник штабу корпусу Січових стрільців (1919)"
@@ -38,7 +39,8 @@ sources:
     url: "https://armyinform.com.ua/2020/08/01/skver-u-varshavi-nazvut-na-chest-generala-armiyi-unr-marka-bezruchka/"
 related: [symon-petliura, mykhailo-omelianovych-pavlenko, yevhen-konovalets]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-15T23:21:17Z
 ---
 
 ## Три дні під Замостям

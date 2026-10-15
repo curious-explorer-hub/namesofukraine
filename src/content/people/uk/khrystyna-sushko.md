@@ -12,11 +12,13 @@ summary: "Князівна, яка сховалася під чужим пріз
 fun_fact: "Після Другої світової війни Христина Сушко як лікарка армії США опікувалася таборами переміщених осіб у Німеччині, де жили здебільшого українці."
 image:
   src: ./images/khrystyna-sushko.jpg
-  alt: "Арт-плакат: Христина Сушко в кашкеті й однострої Армії УНР з офіцерськими зірками на комірі"
+  alt: "Христина Сушко в кашкеті й однострої Армії УНР, фотопортрет"
   position: "50% 20%"
-  author: "Михайло Дяченко / Український інститут національної пам'яті"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Sushko_UINP.tif"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%A1%D1%83%D1%88%D0%BA%D0%BE"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Лікарка 6-ї Січової стрілецької дивізії Армії УНР у званні поручника"
   - "Утекла з більшовицького полону (1919) й повернулася до війська"
@@ -39,7 +41,8 @@ sources:
     url: "https://kyivcity.gov.ua/news/u_kiyevi_pereymenuvali_12_vulits_i_dali_nazvi_4_novim_obyektam_toponimiki/"
 related: [symon-petliura, marko-bezruchko, yevhen-konovalets]
 collections: [women-army, ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-15T23:16:50Z
 ---
 
 ## Князівна під чужим прізвищем
