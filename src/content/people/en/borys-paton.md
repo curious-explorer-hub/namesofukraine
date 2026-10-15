@@ -25,12 +25,12 @@ Borys Paton was born in 1918 in Kyiv into the family of [Yevhen Paton](/en/peopl
 
 ## How do you weld metal in space?
 
-In 1949, together with H. Voloshkevych, he created electroslag welding, a way of joining very thick metal parts for powerful power plants and heavy equipment. In 1953 Paton became head of the Institute of Electric Welding and led it until 2020. The institute took on space as well: in 1969 the world’s first welding experiments were carried out aboard the Soyuz-6 spacecraft with its Vulkan unit, and in 1984 welding was done in open space.
+Electroslag welding, which Paton created in 1949 with H. Voloshkevych, is a way of joining very thick metal parts for powerful power plants and heavy equipment. In 1953 Paton became head of the Institute of Electric Welding and led it until 2020. The institute took on space as well: in 1969 the world’s first welding experiments were carried out aboard the Soyuz-6 spacecraft with its Vulkan unit, and in 1984 welding was done in open space.
 
 ## 58 years at the head of the Academy
 
-In 1962 Paton was elected president of the Academy of Sciences of the Ukrainian SSR (from 1994 the National Academy of Sciences of Ukraine). He headed it for 58 years, until his death in 2020. In independent Ukraine he was made a Hero of Ukraine (1998). After 1991, despite sharp cuts in funding, he is considered to have preserved the Academy’s main scientific schools.
+Paton was elected president of the Academy of Sciences of the Ukrainian SSR (from 1994 the National Academy of Sciences of Ukraine) in 1962. He headed it for 58 years, until his death in 2020. In independent Ukraine he was made a Hero of Ukraine (1998). After 1991, despite sharp cuts in funding, he is considered to have preserved the Academy’s main scientific schools.
 
 ## Why it matters today
 
-Technologies from Paton’s school are used in building pipelines and bridges, in rocket engineering and in medicine. With H. Voloshkevych he created electroslag welding for powerful power plants and heavy equipment. The institute he led from 1953 to 2020 carried out the world’s first welding experiments in space, and under his direction it developed a way of welding living tissue that surgeons now use. He headed the Academy of Sciences for 58 years and, after 1991, despite sharp cuts in funding, is considered to have preserved its main scientific schools. His life shows that science made in Kyiv can work in a factory, in space and in an operating room.
+Borys Paton showed that science made in Kyiv can work in a factory, in space and in an operating room. Under his direction a Kyiv institute carried out the world’s first welding experiments in space, and the way of welding living tissue developed there now helps surgeons. After 1991, despite sharp cuts in funding, he is considered to have kept the Academy’s main scientific schools alive for independent Ukraine. Anyone who dreams of a life in science can see in him proof that discoveries from Ukrainian labs are needed by the whole world.

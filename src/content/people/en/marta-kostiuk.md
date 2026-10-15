@@ -26,12 +26,12 @@ Marta Kostyuk was born in 2002 in Kyiv. As a junior she won the Australian Open 
 
 ## Madrid without a handshake
 
-In 2024 Kostyuk made her Olympic debut, reaching the quarterfinals in Paris. On 2 May 2026, ranked 23rd in the world, she won her first WTA 1000 title in Madrid, beating Russia’s Mirra Andreeva in the final. It was her third WTA title and her second in a row: the weekend before she had won the tournament in Rouen. After the final the two players did not shake hands at the net or pose together at the trophy ceremony.
+Kostyuk made her Olympic debut in 2024, reaching the quarterfinals in Paris. On 2 May 2026, ranked 23rd in the world, she won her first WTA 1000 title in Madrid, beating Russia’s Mirra Andreeva in the final. It was her third WTA title and her second in a row: the weekend before she had won the tournament in Rouen. After the final the two players did not shake hands at the net or pose together at the trophy ceremony.
 
 ## Two semifinals in a row
 
-Until June 2026 Kostyuk had never reached a Grand Slam semifinal; that summer she did it twice in a row. In July at Wimbledon she beat Jasmine Paolini in straight sets and equalled the best result by a Ukrainian woman there: the semifinal Svitolina had reached twice.
+Kostyuk had never reached a Grand Slam semifinal before June 2026; that summer she did it twice in a row. In July at Wimbledon she beat Jasmine Paolini in straight sets and equalled the best result by a Ukrainian woman there: the semifinal Svitolina had reached twice.
 
 ## Why it matters today
 
-Marta Kostyuk’s story shows that junior success can grow into a senior career. At 15, ranked No. 521, she came through qualifying at the Australian Open and won matches in the main draw. Eight years later she won the WTA 1000 title in Madrid, then reached two Grand Slam semifinals in a row that summer, equalling the best result by a Ukrainian woman at Wimbledon. After the Madrid final against a Russian player there was no handshake, and Kostyuk ended her speech with “glory to God and glory to Ukraine.” Anyone starting out in qualifying can see in her path how far you can go if you keep going.
+Marta Kostyuk carries Ukraine’s name onto the world’s biggest tennis courts and doesn’t stay silent about the war: after the Madrid final she would not shake the Russian player’s hand, and she dedicated one of her matches to the Ukrainian people and their resilience. Her path from qualifying at 15 to the top of world tennis shows that junior success can grow into a senior career. Anyone starting small can see in her how far you can go if you keep going.

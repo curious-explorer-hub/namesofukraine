@@ -18,7 +18,7 @@ image_alt: "Ivan Sirko: an imagined portrait made with AI"
 
 ## Two thousand people set free
 
-In 1667 the Zaporozhian Cossacks under Ivan Sirko reached Kaffa (today Feodosiia) in Crimea and freed about 2,000 Christian captives. It was only one of his campaigns. Sirko raided Crimea several times, once reaching Bakhchysarai, and in 1670–1671 he attacked the Turkish fortresses of Ochakiv and Islam-Kermen.
+The Zaporozhian Cossacks under Ivan Sirko reached Kaffa (today Feodosiia) in Crimea in 1667 and freed about 2,000 Christian captives. It was only one of his campaigns. Sirko raided Crimea several times, once reaching Bakhchysarai, and in 1670–1671 he attacked the Turkish fortresses of Ochakiv and Islam-Kermen.
 
 ## Where did he come from?
 
@@ -38,4 +38,4 @@ The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks t
 
 ## Why it matters today
 
-Sirko became one of the symbols of Cossack valor and of Ukraine’s defense against raids. Behind the symbol stand real deeds: a single campaign against Kaffa set about 2,000 captives free, and in 1677–1678, together with the forces of Hetman Ivan Samoilovych, he halted the Turkish and Tatar advance. The Zaporozhians elected him kish otaman again and again, even after he had been exiled to Tobolsk. His exploits are celebrated in dumas, and people remembered him above all as the man who freed captives. His example is a reminder that courage is also measured by those it sets free.
+Sirko became one of the symbols of Cossack valor and of Ukraine’s defense against raids. People remembered him above all as a liberator: a single campaign of his set about 2,000 people free. The Zaporozhians trusted him with the Sich again and again, even after his exile. His example is a reminder that courage is also measured by those it sets free.

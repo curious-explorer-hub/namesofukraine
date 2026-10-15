@@ -24,10 +24,10 @@ Inna was born in 1970 in Kryvyi Rih, an industrial city in central Ukraine. She 
 
 ## Two days in Okhtyrka
 
-On 24 February 2022, the day Russia launched its full-scale invasion, Sergeant Derusova was on her way back to her unit from leave. She stopped in Okhtyrka in the Sumy region, which Russian forces were shelling. There were many wounded, and Inna stayed with them. In two days she saved more than ten soldiers.
+On the day Russia launched its full-scale invasion, 24 February 2022, Sergeant Derusova was on her way back to her unit from leave. She stopped in Okhtyrka in the Sumy region, which Russian forces were shelling. There were many wounded, and Inna stayed with them. In two days she saved more than ten soldiers.
 
 Inna Derusova was killed by artillery fire in Okhtyrka on 26 February 2022 while giving first aid to the wounded. She was 51.
 
 ## Why it matters today
 
-Inna Derusova saved people with more than her own hands. In the Donbas she did the work of three, and she could turn medics fresh from civilian life into real combat medics in two weeks, so her skill lived on in everyone she trained. On the first day of the full-scale war, on her way back to her unit, she found many wounded in Okhtyrka and stayed with them. In two days she saved more than ten soldiers. She was made a Hero of Ukraine posthumously, and the President called her the first woman to receive the title that way.
+Inna Derusova saved people with more than her own hands: her skill lived on in every medic she trained. On the first day of the full-scale war she did not travel on, because the wounded were there, and in two days she saved more than ten soldiers. Her life shows that courage can mean choosing to stay where you are needed. She was made a Hero of Ukraine posthumously, and the President called her the first woman to receive the title that way.

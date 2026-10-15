@@ -21,7 +21,7 @@ quotes:
 
 ## A book published without its author
 
-In 1798 the first three parts of a poem called the Eneida came out in St. Petersburg. Its author, Ivan Kotliarevskyi, had not given his permission: the edition was paid for by Maksym Parpura. Kotliarevskyi kept working on the poem for more than twenty years, and the complete text appeared only after his death, in 1842.
+The first three parts of a poem called the Eneida came out in St. Petersburg in 1798. Its author, Ivan Kotliarevskyi, had not given his permission: the edition was paid for by Maksym Parpura. Kotliarevskyi kept working on the poem for more than twenty years, and the complete text appeared only after his death, in 1842.
 
 So what was it? Kotliarevskyi took Virgil’s ancient Roman poem about the wanderings of Aeneas and rewrote it as a joke (a form called travesty). He wrote it in the living vernacular, full of Ukrainian customs, everyday life and sayings. The Eneida showed that the language of ordinary people was fit for great literature. That is why it is Kotliarevskyi, not [Shevchenko](/en/people/taras-shevchenko/), who is traditionally called the father of modern Ukrainian literature.
 
@@ -33,4 +33,4 @@ In 1819, while he was running the Poltava theater, he wrote two plays for it: Na
 
 ## Why it matters today
 
-Kotliarevskyi proved that the language people spoke at home and at the market was fit for great literature. Modern Ukrainian literature began with his Eneida, and modern Ukrainian drama with Natalka Poltavka and Moskal-Charivnyk. Great actors, from Mikhail Shchepkin to Mariia Zankovetska, played in them, and Mykola Lysenko set Natalka Poltavka to music. Anyone who writes in Ukrainian today, for a reader or for the stage, follows a road he opened more than two hundred years ago.
+Kotliarevskyi proved that the language people spoke at home and at the market was fit for great literature. Modern Ukrainian literature began with his Eneida, and modern Ukrainian drama with Natalka Poltavka and Moskal-Charivnyk. His characters speak with the words, customs and sayings of ordinary Ukrainians, and so he showed that his own culture deserved both the page and the stage. Anyone who writes in Ukrainian today, for a reader or for the stage, follows a road he opened more than two hundred years ago.

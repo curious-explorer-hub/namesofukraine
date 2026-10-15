@@ -23,7 +23,7 @@ Valerian Pidmohylnyi was born in 1901 in the village of Chapli near Katerynoslav
 
 ## The hungry years
 
-During the famine years of 1921–1923 Pidmohylnyi taught Ukrainian at the labour school in Vorzel near Kyiv. He wrote about the famine of those years in the stories “The Dog”, “The Problem of Bread” and “The Son”.
+Pidmohylnyi taught Ukrainian at the labour school in Vorzel near Kyiv during the famine years of 1921–1923. He wrote about the famine of those years in the stories “The Dog”, “The Problem of Bread” and “The Son”.
 
 ## The City
 
@@ -35,8 +35,8 @@ Pidmohylnyi translated Balzac, Diderot, Anatole France, Maupassant, Stendhal, Vo
 
 ## Solovki and Sandarmokh
 
-On 8 December 1934 Pidmohylnyi was arrested as a supposed member of a “group of nationalist writers with terrorist leanings”. He was imprisoned in the Solovetsky camp. A special troika of the Leningrad NKVD sentenced him to death. Pidmohylnyi, [Mykola Kulish](/en/people/mykola-kulish/), [Mykola Zerov](/en/people/mykola-zerov/) and [Les Kurbas](/en/people/les-kurbas/) were among the Ukrainian prisoners shot at that time in the Sandarmokh forest in Karelia; Pidmohylnyi was shot on 3 November 1937. He was rehabilitated in 1956.
+Pidmohylnyi was arrested on 8 December 1934 as a supposed member of a “group of nationalist writers with terrorist leanings”. He was imprisoned in the Solovetsky camp. A special troika of the Leningrad NKVD sentenced him to death. Pidmohylnyi, [Mykola Kulish](/en/people/mykola-kulish/), [Mykola Zerov](/en/people/mykola-zerov/) and [Les Kurbas](/en/people/les-kurbas/) were among the Ukrainian prisoners shot at that time in the Sandarmokh forest in Karelia; Pidmohylnyi was shot on 3 November 1937. He was rehabilitated in 1956.
 
 ## Why it matters today
 
-Pidmohylnyi wrote a novel about what happens to someone who leaves the village for the big city, a question anyone who has ever moved will recognise. He translated Balzac, Maupassant, Anatole France, Stendhal and others into Ukrainian and edited multi-volume editions of Balzac and France, and those translations had a marked influence on Ukrainian literature in the 1920s. With [Yevhen Pluzhnyk](/en/people/yevhen-pluzhnyk/) he compiled a dictionary of business language, and his stories bear witness to the famine of 1921–1923. He was shot, but his books came back: The City was published in Ukraine again in 1989, and his work is read in English, German and Polish.
+Pidmohylnyi wrote a novel about what happens to someone who leaves the village for the big city, a question anyone who has ever moved will recognise. His translations gave Ukrainian readers Balzac, Maupassant and Anatole France in their own language, and had a marked influence on Ukrainian literature in the 1920s. In his stories he left a record of the famine of 1921–1923. The regime shot him, but it could not take away what he wrote and translated: it can still be read in Ukrainian today.

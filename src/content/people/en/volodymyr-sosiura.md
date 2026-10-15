@@ -23,7 +23,7 @@ Volodymyr Sosiura was born in 1898 at Debaltseve station in the Donbas and grew 
 
 ## Two armies
 
-In 1918–1919 Sosiura served as a Cossack in the 3rd Haidamaka Regiment of the army of the Ukrainian People’s Republic. In the autumn of 1919 he was taken prisoner by Denikin’s White Army, and in 1920 he ended up in the Red Army. He later told the story of those years in his autobiographical novel The Third Company.
+Sosiura served as a Cossack in the 3rd Haidamaka Regiment of the army of the Ukrainian People’s Republic in 1918–1919. In the autumn of 1919 he was taken prisoner by Denikin’s White Army, and in 1920 he ended up in the Red Army. He later told the story of those years in his autobiographical novel The Third Company.
 
 ## A lyric poet they kept banning
 
@@ -31,8 +31,8 @@ Fame came with the collections Poems (1921) and Red Winter (1922). In Kharkiv he
 
 ## A prize, then a hounding
 
-From 1941 to 1944 Sosiura was a war correspondent. In 1944 he wrote the poem “Love Ukraine!”. In 1948 he received the Stalin Prize for the collection So That the Orchards Rustle. In 1950 his wife Mariia was repressed. Then on 2 July 1951 Pravda tore into “Love Ukraine!” in an article on “ideological distortions in literature”. The poet was accused of “bourgeois nationalism” and faced the threat of arrest. In 1952 a Ukrainian-English edition of the poem came out in the United States with a foreword by [Ivan Bahrianyi](/en/people/ivan-bahrianyi/), who wrote that Sosiura was in constant conflict with the authorities because of his love for his people.
+During the war, from 1941 to 1944, Sosiura was a war correspondent. In 1944 he wrote the poem “Love Ukraine!”. In 1948 he received the Stalin Prize for the collection So That the Orchards Rustle. In 1950 his wife Mariia was repressed. Then on 2 July 1951 Pravda tore into “Love Ukraine!” in an article on “ideological distortions in literature”. The poet was accused of “bourgeois nationalism” and faced the threat of arrest. In 1952 a Ukrainian-English edition of the poem came out in the United States with a foreword by [Ivan Bahrianyi](/en/people/ivan-bahrianyi/), who wrote that Sosiura was in constant conflict with the authorities because of his love for his people.
 
 ## Why it matters today
 
-A boy from the Third Company who worked as a labourer from the age of 11 became a lyric poet whose very first collections made him famous. In the 1930s, the years of the purges, he was almost the only Ukrainian poet who kept writing about love. His Mazepa was hushed up, his collection Heart was confiscated, and “Love Ukraine!” got him accused of “bourgeois nationalism” and threatened with arrest. [Ivan Bahrianyi](/en/people/ivan-bahrianyi/) wrote that Sosiura was in constant conflict with the authorities because of his love for his people. Today the poem is read and learned again, and its words “Love Ukraine as you love the sun” belong to everyone who says them.
+A boy from the working-class Donbas became a lyric poet who kept writing about love in the years of the purges, when almost no one else dared. The authorities accused him of “bourgeois nationalism” over “Love Ukraine!”, but the poem outlived the accusation. Its words “Love Ukraine as you love the sun” belong to everyone who says them.

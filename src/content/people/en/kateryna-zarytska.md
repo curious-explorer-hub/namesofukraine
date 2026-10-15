@@ -28,7 +28,7 @@ In 1939 Kateryna was released and married Mykhailo Soroka, also an OUN member. T
 
 ## A Red Cross in hiding
 
-From November 1943 to the spring of 1945 Zarytska ran the underground Ukrainian Red Cross in four Galician regions. She set up hospitals for wounded OUN members and fighters of the Ukrainian Insurgent Army (UPA), and found doctors and medicine for them. She then became the personal courier of UPA commander-in-chief [Roman Shukhevych](/en/people/roman-shukhevych/): she found safe houses for him and passed on his instructions. Under the pen name “U. Kuzhil” she wrote articles and pamphlets.
+Zarytska ran the underground Ukrainian Red Cross in four Galician regions from November 1943 to the spring of 1945. She set up hospitals for wounded OUN members and fighters of the Ukrainian Insurgent Army (UPA), and found doctors and medicine for them. She then became the personal courier of UPA commander-in-chief [Roman Shukhevych](/en/people/roman-shukhevych/): she found safe houses for him and passed on his instructions. Under the pen name “U. Kuzhil” she wrote articles and pamphlets.
 
 On 21 September 1947 she was arrested in Khodoriv. The next year a court gave her 25 years, and she served every one of them: in the Verkhneuralsk and Vladimir prisons, and from 1969 in a camp in Mordovia. After her release in 1972 she was barred from living in Western Ukraine, so she settled in Volochysk, where she died in 1986.
 
@@ -38,4 +38,4 @@ Zarytska’s path is part of the history of the OUN and the UPA, which is still 
 
 ## Why it matters today
 
-Zarytska tied her life to the underground while still at school and paid for that choice with about 30 years behind bars. During the war she ran the underground Ukrainian Red Cross in four Galician regions, setting up hospitals for wounded OUN members and UPA fighters and finding doctors and medicine for them. She served her 25-year sentence to the last day, and even in Vladimir Central prisoners of many nations, Ukrainians and Lithuanians, Jews and Russians, silently greeted her. Hers is the story of someone who kept the respect of others even behind bars. A Plast scout unit in Lviv carries her name.
+Kateryna Zarytska tied her life to the fight for an independent Ukraine while still at school and paid for that choice with about 30 years behind bars. During the war she saved the wounded: she set up underground hospitals and found doctors and medicine. Even in Vladimir Central, prisoners of many nations silently saluted her. Hers is the story of someone who kept her dignity, and the respect of others, even behind bars. A Plast scout unit in Lviv carries her name.

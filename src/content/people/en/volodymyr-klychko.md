@@ -22,7 +22,7 @@ quotes:
 
 ## The medal that came back
 
-In 1996 in Atlanta Wladimir Klitschko became Olympic super-heavyweight champion. In 2012 he put that gold medal up for a charity auction. The million dollars it raised went to the Klitschko Brothers Foundation to help Ukrainian children, and the buyer immediately returned the medal to the Klitschko family.
+Wladimir Klitschko became Olympic super-heavyweight champion in Atlanta in 1996. In 2012 he put that gold medal up for a charity auction. The million dollars it raised went to the Klitschko Brothers Foundation to help Ukrainian children, and the buyer immediately returned the medal to the Klitschko family.
 
 ## From Kazakhstan to the Olympic ring
 
@@ -34,8 +34,8 @@ After the Olympics Klitschko turned professional. In 2000 he first became WBO wo
 
 ## Outside the ring
 
-In 2003 the Klitschko brothers set up the Klitschko Brothers Foundation. In 2017 Wladimir was awarded the Order of Freedom. On 2 February 2022, before Russia’s full-scale invasion, he signed up for the Territorial Defence Forces in Kyiv.
+The Klitschko brothers set up the Klitschko Brothers Foundation in 2003. In 2017 Wladimir was awarded the Order of Freedom. On 2 February 2022, before Russia’s full-scale invasion, he signed up for the Territorial Defence Forces in Kyiv.
 
 ## Why it matters today
 
-Wladimir Klitschko is counted among the all-time greats of heavyweight boxing. His Olympic gold in Atlanta and nine and a half years in a row as world champion made Ukrainian boxing known around the world. He turned even that Olympic medal into help: the million dollars it raised at auction went to Ukrainian children. And in February 2022, before the full-scale invasion, the former world champion signed up for the Territorial Defence Forces in Kyiv. “Truth is on our side,” he said in March 2022. His example shows that strength lies not only in winning in the ring, but in what you do with those wins.
+Olympic gold in Atlanta and nine and a half years at the top of the heavyweight division made Ukrainian boxing known around the world. But Wladimir Klitschko showed that wins can be turned into help: the million dollars his medal raised went to Ukrainian children. And before the full-scale invasion even began, the former world champion signed up for Kyiv’s Territorial Defence. His example shows that strength lies not only in winning in the ring, but in what you do with those wins.

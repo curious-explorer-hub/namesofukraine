@@ -21,7 +21,7 @@ quotes:
 
 ## 600 poems we will never read
 
-In 1976, while Stus was in exile, more than 600 of his poems were seized, along with his translations of Goethe, Rilke, Kipling and Baudelaire. All of it was destroyed. He kept writing, and some of his poems were still smuggled out.
+While Stus was in exile in 1976, more than 600 of his poems were seized, along with his translations of Goethe, Rilke, Kipling and Baudelaire. All of it was destroyed. He kept writing, and some of his poems were still smuggled out.
 
 ## A protest at the Ukraina cinema
 
@@ -29,12 +29,12 @@ Vasyl Stus was born in 1938 in the Vinnytsia region and grew up in the Donbas. H
 
 ## Two sentences
 
-In 1972 Stus was arrested for “anti-Soviet agitation”: 5 years in camps and 3 years of exile. In 1979 he returned to Kyiv and joined the Ukrainian Helsinki Group, and in 1980 he received a new sentence: 10 years in camps and 5 years of exile. Even in captivity he wrote poems and translated Rilke and Goethe; Palimpsests took shape mostly there. In 1985 the Ukrainian diaspora tried to put him forward for the Nobel Prize in Literature. On the night of 3–4 September 1985 Vasyl Stus died in a punishment cell of the special-regime camp Perm-36 in the village of Kuchino. He was 47.
+Stus was arrested for “anti-Soviet agitation” in 1972: 5 years in camps and 3 years of exile. In 1979 he returned to Kyiv and joined the Ukrainian Helsinki Group, and in 1980 he received a new sentence: 10 years in camps and 5 years of exile. Even in captivity he wrote poems and translated Rilke and Goethe; Palimpsests took shape mostly there. In 1985 the Ukrainian diaspora tried to put him forward for the Nobel Prize in Literature. On the night of 3–4 September 1985 Vasyl Stus died in a punishment cell of the special-regime camp Perm-36 in the village of Kuchino. He was 47.
 
 ## How he came back
 
-In 1989 his remains were brought back to Ukraine, and more than 30,000 people came to his reburial at Baikove Cemetery in Kyiv. In 2005 Stus was posthumously made a Hero of Ukraine. And Donetsk University, where he had studied, refused to take his name in 2009. In 2016, relocated to Vinnytsia because of the war, the university was renamed after Vasyl Stus. And on 4 September 2026, the anniversary of his death, the National Bank of Ukraine put into circulation a 2,000-hryvnia banknote, the hryvnia’s highest denomination, with Stus’s portrait. Its back shows the Faculty of Philology of Donetsk University, where he studied.
+His remains were brought back to Ukraine in 1989, and more than 30,000 people came to his reburial at Baikove Cemetery in Kyiv. In 2005 Stus was posthumously made a Hero of Ukraine. And Donetsk University, where he had studied, refused to take his name in 2009. In 2016, relocated to Vinnytsia because of the war, the university was renamed after Vasyl Stus. And on 4 September 2026, the anniversary of his death, the National Bank of Ukraine put into circulation a 2,000-hryvnia banknote, the hryvnia’s highest denomination, with Stus’s portrait. Its back shows the Faculty of Philology of Donetsk University, where he studied.
 
 ## Why it matters today
 
-Stus gave up neither his words nor his beliefs, though they cost him two sentences and more than 600 poems destroyed. He kept writing: Palimpsests took shape in captivity, and there too he translated Rilke and Goethe. He joined the Ukrainian Helsinki Group knowing that defending human rights meant years in the camps. His life shows that a person can be imprisoned but not made to fall silent. Anyone today who stands up for a truth others want drowned out can lean on his example.
+Stus gave up neither his words nor his beliefs, though they cost him his freedom and, in the end, his life. He joined the Ukrainian Helsinki Group knowing that defending human rights meant years in the camps. His life shows that a person can be imprisoned but not made to fall silent: Palimpsests, a peak of modern Ukrainian poetry, took shape in captivity. Anyone today who stands up for a truth others want drowned out can lean on his example.

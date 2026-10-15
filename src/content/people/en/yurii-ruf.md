@@ -29,8 +29,8 @@ Ruf disliked the way Ukrainian poetry so often showed Ukrainians as poor and gri
 
 ## A volunteer of the 24th Brigade
 
-On 24 February 2022 Ruf joined the 24th Separate Mechanized Brigade straight away, and on 3 March he fought his first battle. His brigade was stationed in Popasna in Luhansk Oblast. Yurii Ruf (Dadak) was killed by enemy mortar fire in Luhansk Oblast on 1 April 2022. He was 41.
+Ruf joined the 24th Separate Mechanized Brigade straight away, on 24 February 2022, and on 3 March he fought his first battle. His brigade was stationed in Popasna in Luhansk Oblast. Yurii Ruf (Dadak) was killed by enemy mortar fire in Luhansk Oblast on 1 April 2022. He was 41.
 
 ## Why it matters today
 
-Yurii Ruf wanted Ukrainians to see themselves in poetry as strong, not poor and grief-stricken. He wrote militant verse, dedicated *At the Turn of Epochs* to the soldiers of the Russo-Ukrainian war, founded the Dukh Natsii project and long hosted the Kholodnyi Yar festival. An engineer and associate professor, he showed that a scientist can also be a poet. On 24 February 2022 he volunteered at once and became one of the soldiers he had written about. His words “We are only firewood in the fire of a great Idea” are on a mural in Lviv. Anyone seeking strength, not sorrow, in poetry will find it in his books.
+Yurii Ruf wanted Ukrainians to see themselves in poetry as strong, not poor and grief-stricken, and through his poems and the Dukh Natsii project he taught them to believe it. An engineer and associate professor, he showed that a scientist can also be a poet. On the first day of the full-scale war he volunteered and became one of the soldiers he had written about. His words “We are only firewood in the fire of a great Idea” are on a mural in Lviv, and anyone seeking strength, not sorrow, in poetry will find it in his books.

@@ -25,4 +25,4 @@ Sailor Vitalii Skakun was killed blowing up the bridge near Henichesk. He was 25
 
 ## Why it matters today
 
-Vitalii Skakun had a welder’s trade, a job in Poland and software-engineering studies, and he chose to serve as a combat engineer. On the first day of the full-scale invasion he volunteered to blow up the bridge near Henichesk. The blast slowed a Russian tank column considerably, and Ukrainian troops had time to regroup and set up a defence. He showed that one person’s choice at the right moment can buy time for many others. His deed is known beyond Ukraine too: Prague has a Vitalii Skakun Bridge.
+Vitalii Skakun had a peaceful trade, a job in Poland and software-engineering studies, and he chose to serve as a combat engineer. On the first day of the full-scale invasion his decision gave Ukrainian troops what they needed most: time to regroup and set up a defence. He showed that one person’s choice at the right moment can buy time for many others. His deed is known beyond Ukraine too: Prague has a Vitalii Skakun Bridge.

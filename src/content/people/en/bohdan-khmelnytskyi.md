@@ -37,4 +37,4 @@ In 1648–1649 the rebels killed tens of thousands of civilians, including Jews 
 
 ## Why it matters today
 
-Bohdan Khmelnytskyi turned a Cossack uprising into a state. On the freed lands the Hetmanate took shape, with its own army, government and diplomacy, and historians see this Cossack state as his greatest achievement. An educated Cossack who spoke Ukrainian, Polish and Latin and later learned Turkish and Tatar, he negotiated with Crimea, the Ottoman Empire, Sweden, Transylvania and Moscow. It began with a personal wrong that met the Cossacks’ wider anger, and grew into an uprising that shifted the balance of power in Europe. His portrait on the 5 hryvnia note is a daily reminder that Ukrainians were building their own state in the 17th century.
+Bohdan Khmelnytskyi turned a Cossack uprising into a state: the Hetmanate had its own army, government and diplomacy, and dealt with its neighbours on its own behalf. He showed that Ukrainians could do more than rise up: they could build a state and pursue their own policy in Europe. His portrait on the 5-hryvnia note is a daily reminder that Ukrainians were building their own state as far back as the 17th century.

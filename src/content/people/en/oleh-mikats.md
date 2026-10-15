@@ -28,7 +28,7 @@ From September 2014, Mikats led the defense of Donetsk airport. His brigade's po
 
 ## After the airport
 
-In March 2015, Mikats took over the 169th "Desna" Training Center, where he had served as a deputy before the war. He was awarded the Order of Bohdan Khmelnytsky, 3rd class. In 2017 he became deputy commander of Operational Command "West," and in August 2021 he was appointed commander of Operational Command "East."
+Next came the 169th "Desna" Training Center, where he had served as a deputy before the war: Mikats took it over in March 2015. He was awarded the Order of Bohdan Khmelnytsky, 3rd class. In 2017 he became deputy commander of Operational Command "West," and in August 2021 he was appointed commander of Operational Command "East."
 
 ## Debates and assessments
 
@@ -38,4 +38,4 @@ During the ceasefire under the first Minsk agreements, rotations to the airport 
 
 ## Why it matters today
 
-Oleh Mikats was the first Ukrainian general who had never served in the Soviet army: his whole career was in the armed forces of independent Ukraine. In 2014 his brigade took Pisky and Pervomaiske, giving Ukrainian forces control of the road between Donetsk and Dnipropetrovsk, and from September he led the defense of Donetsk airport, whose defenders became known as the “cyborgs.” Mikats is convinced that the airport’s defense mattered for the whole war: “The airport tied down the enemy’s forces.” After the airport he took over the Desna Training Center, and in 2021 Operational Command East. His example shows the kind of commander independent Ukraine’s army has raised.
+Oleh Mikats is a commander raised from his first day of service by the army of independent Ukraine, not the Soviet one. From September 2014 he led the defense of Donetsk airport, and he is convinced that it mattered for the whole war: “The airport tied down the enemy’s forces.” His path shows that Ukraine can raise its own commanders, ready to take responsibility at the hardest moment.

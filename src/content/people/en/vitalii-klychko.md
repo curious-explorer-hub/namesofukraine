@@ -16,7 +16,7 @@ image_alt: "Vitali Klitschko, portrait, 2014"
 
 ## The champion who gave up his belt
 
-In December 2013 Vitali Klitschko was the reigning WBC heavyweight boxing world champion. And he gave up the title himself, to concentrate on politics. The World Boxing Council named him its “champion emeritus”.
+Vitali Klitschko was the reigning WBC heavyweight boxing world champion in December 2013. And he gave up the title himself, to concentrate on politics. The World Boxing Council named him its “champion emeritus”.
 
 ## Kickboxing first
 
@@ -26,8 +26,8 @@ Klitschko first made his name in kickboxing, winning world titles many times as 
 
 ## From the ring to City Hall
 
-As early as 2006 Klitschko won a seat on Kyiv City Council, and in 2010 he became leader of the UDAR party (the name means “punch”). In 2012–2014 he was a member of the Verkhovna Rada, Ukraine’s parliament. In 2014 he was elected mayor of Kyiv, and he was re-elected in 2015 and 2020. As of October 2026 he leads a city living under constant Russian attacks.
+Klitschko won a seat on Kyiv City Council as early as 2006, and in 2010 he became leader of the UDAR party (the name means “punch”). In 2012–2014 he was a member of the Verkhovna Rada, Ukraine’s parliament. In 2014 he was elected mayor of Kyiv, and he was re-elected in 2015 and 2020. As of October 2026 he leads a city living under constant Russian attacks.
 
 ## Why it matters today
 
-Klitschko went from kickboxing to the WBC heavyweight belt, and then to running his country’s capital. He won 45 of his 47 professional fights, and after injuries and years away he came back and won the world title again. In 2013, still the reigning champion, he gave up the belt himself to go into politics. Together with his brother [Wladimir](/en/people/volodymyr-klychko/) he made Ukrainian boxers known all over the world. As of October 2026 he leads Kyiv, a city living under constant Russian attacks. His story shows that you can make it back to the top, and that a new goal can be worth giving up what you have won.
+Together with his brother [Wladimir](/en/people/volodymyr-klychko/), Vitali Klitschko made Ukrainian boxers known all over the world. After injuries and years away from the ring he came back and won the world title again, then gave up the belt himself for a new calling: politics. As of October 2026 he leads Kyiv, a city living under constant Russian attacks. His story shows that you can make it back to the top, and that a new goal can be worth giving up what you have won.

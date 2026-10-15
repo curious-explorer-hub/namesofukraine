@@ -26,7 +26,7 @@ How did the world find out what was happening underneath a besieged steel plant?
 
 ## Photos before captivity
 
-On 20 May 2022, as the garrison was leaving the plant for captivity on orders from command, Orest posted his photos online and said goodbye. Soon people around the world were asking for permission to show them at exhibitions about Russia's war against Ukraine. The best known shows a beam of light falling through a shattered ceiling into the darkness of a shelter. The series was called “The Light Will Win”.
+As the garrison was leaving the plant for captivity on 20 May 2022, on orders from command, Orest posted his photos online and said goodbye. Soon people around the world were asking for permission to show them at exhibitions about Russia's war against Ukraine. The best known shows a beam of light falling through a shattered ceiling into the darkness of a shelter. The series was called “The Light Will Win”.
 
 ## Awards waiting for their author
 
@@ -36,4 +36,4 @@ On 21 September 2022 Orest was freed in a large exchange that brought 215 Ukrain
 
 ## Why it matters today
 
-Because of Kozatskyi’s photos, the defence of Azovstal has faces: not numbers in a report, but real people, wounded and alive, in light and in darkness. He photographed his comrades in the tunnels of the besieged plant and managed to share the pictures with the world before going into captivity. While he was a prisoner, his series “The Light Will Win” was shown in Ukraine and abroad and won a photography contest in Paris. His pictures still tell the world about Mariupol, and show that even under siege the truth can be kept and passed on.
+Because of Dmytro Kozatskyi’s photos, the defence of Azovstal has faces: not numbers in a report, but real people, wounded and alive, in light and in darkness. He managed to share the pictures with the world before going into captivity, and while he was a prisoner they spoke for him. His pictures still tell the world about Mariupol, and show that even under siege the truth can be kept and passed on.

@@ -23,7 +23,7 @@ Imagine being under siege and finding out you’re expecting a baby. That is wha
 
 ## Six months of silence
 
-On 4 April 2022 Mariana and her unit were taken prisoner at the Illich steelworks. For most of her captivity she was held at the prison camp in Olenivka; later she was moved to a hospital in Donetsk. For half a year her family had no word from her.
+Mariana and her unit were taken prisoner at the Illich steelworks on 4 April 2022. For most of her captivity she was held at the prison camp in Olenivka; later she was moved to a hospital in Donetsk. For half a year her family had no word from her.
 
 On 21 September 2022 she was freed in a large exchange together with other defenders of Mariupol; paramedic [Kateryna Polishchuk](/en/people/kateryna-polishchuk/), who had also been held at Olenivka, came home the same day. Mariana only realised she was being exchanged once she was on the plane. On the night of 24–25 September, in Lutsk, she gave birth to a daughter.
 
@@ -33,4 +33,4 @@ Mariana knows how hard it is for women to return to ordinary life after captivit
 
 ## Why it matters today
 
-Mariana’s story showed the world that Russia holds medics, women and even mothers-to-be as prisoners. In besieged Mariupol, after learning she was pregnant, she stayed with her battalion and kept treating the wounded. She turned what she had been through into help for others: the charity she founded in 2024 helps women who survived Russian captivity get back on their feet, and her “baby boxes” go to newborns in soldiers’ families. Her path shows that an ordeal survived can become support for those who come after.
+Mariana’s story showed the world that Russia holds medics, women and even mothers-to-be as prisoners. Learning she was pregnant in a besieged city, she stayed with the wounded, and after captivity she turned what she had been through into help for women who went through the same. Her path shows that an ordeal survived can become support for those who come after.

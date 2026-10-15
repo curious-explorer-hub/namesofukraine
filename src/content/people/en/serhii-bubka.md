@@ -19,7 +19,7 @@ gallery:
 
 ## Six metres
 
-On 13 June 1985 in Paris, Serhii Bubka became the first person in the world to clear 6 metres in the pole vault. He went on to set world records 35 times: 17 outdoors (best 6.14 m, Sestriere, 1994) and 18 indoors (6.15 m, Donetsk, 1993). Both records stood for more than 20 years. His name went into the Guinness Book of Records for the most world records in athletics.
+No pole vaulter in the world had cleared 6 metres until Serhii Bubka did it in Paris on 13 June 1985. He went on to set world records 35 times: 17 outdoors (best 6.14 m, Sestriere, 1994) and 18 indoors (6.15 m, Donetsk, 1993). Both records stood for more than 20 years. His name went into the Guinness Book of Records for the most world records in athletics.
 
 ## Six gold medals
 
@@ -29,7 +29,7 @@ The Olympics were less kind. In 1988 in Seoul Bubka became Olympic champion, but
 
 ## After the sport
 
-In 1999 Bubka was elected a member of the International Olympic Committee, and in 2024 he was re-elected for another eight years. From 2005 to 2022 he headed the National Olympic Committee of Ukraine, and from 2007 to 2023 he was a vice-president of the International Association of Athletics Federations (now World Athletics). In 2002–2006 he was a member of parliament (elected on the list of the For a United Ukraine! bloc, later in the Party of Regions faction), and in 2010–2014 an unpaid adviser to President Viktor Yanukovych.
+Bubka was elected a member of the International Olympic Committee in 1999 and re-elected for another eight years in 2024. From 2005 to 2022 he headed the National Olympic Committee of Ukraine, and from 2007 to 2023 he was a vice-president of the International Association of Athletics Federations (now World Athletics). In 2002–2006 he was a member of parliament (elected on the list of the For a United Ukraine! bloc, later in the Party of Regions faction), and in 2010–2014 an unpaid adviser to President Viktor Yanukovych.
 
 ## Debates and assessments
 
@@ -37,4 +37,4 @@ In 2023 journalists at Bihus.Info reported that Serhii Bubka co-owned companies 
 
 ## Why it matters today
 
-Bubka is called one of the greatest athletes of the 20th century. Until 1985 no pole vaulter had cleared 6 metres; he did it first and set world records 35 times. Both his records stood for more than 20 years, and no other athlete has won six world titles in the same individual event. The boy who started vaulting in Luhansk showed that one person can set the bar for the world for years. His 6 metres became a new horizon for pole vaulters, and his six world titles in a row a yardstick for a long career at the top.
+The boy who started vaulting in Luhansk and trained in Donetsk set the bar for the whole world for years. His 6 metres became a new horizon for pole vaulters, and his six world titles in a row, which no other athlete has matched, a yardstick for a long career at the top. Any young athlete in Ukraine can see in him proof that you can raise the world’s bar yourself.

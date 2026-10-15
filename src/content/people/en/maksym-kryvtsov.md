@@ -27,10 +27,10 @@ Kryvtsov took part in the Revolution of Dignity, and in 2014 he went to the fron
 
 ## Poems from the Embrasure
 
-In December 2023 the publisher Nash Format released his first collection, *Poems from the Embrasure* (*Virshi z biinytsi*): free verse illustrated with his own photographs. PEN Ukraine named it one of the best Ukrainian books of the year. He managed to give only one presentation of it: children read his poems at a Strokati Yenoty camp. The band Yurcash performs songs set to his poems.
+His first collection, *Poems from the Embrasure* (*Virshi z biinytsi*), came out from the publisher Nash Format in December 2023: free verse illustrated with his own photographs. PEN Ukraine named it one of the best Ukrainian books of the year. He managed to give only one presentation of it: children read his poems at a Strokati Yenoty camp. The band Yurcash performs songs set to his poems.
 
 Maksym Kryvtsov was killed in battle in Kharkiv Oblast on 7 January 2024. He was 33.
 
 ## Why it matters today
 
-Maksym Kryvtsov went to defend Ukraine twice: as a volunteer in 2014 and again on 24 February 2022. Between the wars he worked for other veterans, at YARMIZ and Veteran Hub, and was a photographer and mentor for the children of Strokati Yenoty. And he left words behind: PEN Ukraine named *Poems from the Embrasure*, free verse illustrated with his own photographs, one of the best Ukrainian books of 2023. Children read those poems at a Strokati Yenoty camp, and the band Yurcash sings songs set to them. They let any reader hear the war in the voice of a man who fought and remained a poet.
+Maksym Kryvtsov twice chose to defend Ukraine, and between the wars he helped other veterans return to peaceful life and mentored children. He showed that a soldier and a poet can be the same person. His *Poems from the Embrasure* let any reader hear the war in the voice of a man who fought and remained a poet. Anyone who writes, takes photographs or simply helps the people around them can carry on what he did.

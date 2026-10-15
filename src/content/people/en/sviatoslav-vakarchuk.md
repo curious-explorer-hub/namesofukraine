@@ -18,13 +18,13 @@ quotes:
 
 ## The physicist who became a generation’s voice
 
-In 1996 Sviatoslav Vakarchuk, a physics graduate of Lviv University, started a PhD in theoretical physics. By then he had already been singing with Okean Elzy for two years. He defended his dissertation, on the supersymmetry of an electron in a magnetic field, only in 2009: through all the tours and albums, the work took many years.
+Sviatoslav Vakarchuk, a physics graduate of Lviv University, started a PhD in theoretical physics in 1996. By then he had already been singing with Okean Elzy for two years. He defended his dissertation, on the supersymmetry of an electron in a magnetic field, only in 2009: through all the tours and albums, the work took many years.
 
 Svyatoslav Vakarchuk (in official transliteration, Sviatoslav) was born in 1975 in Mukachevo into the family of the physicist Ivan Vakarchuk, later rector of Lviv University and Minister of Education, and grew up in Lviv, where he also went to music school.
 
 ## Okean Elzy
 
-In 1994 he became the vocalist of the newly formed Lviv band Okean Elzy (Elza’s Ocean), its leader and the author of most of its songs. In 1995 the band won the Chervona Ruta festival, dedicated to the memory of [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/), and in 1998 it moved to Kyiv and released its debut album, Tam, de Nas Nema (Where We Are Not). Then came Ya na Nebi Buv, Model, Supersymetriia, Gloria and more. Later Vakarchuk initiated and paid for a monument to Ivasiuk in central Lviv. He is an Honored Artist of Ukraine (2005), holds the Order of Freedom (2016), and in 2025 received the title National Legend of Ukraine.
+He became the vocalist of Okean Elzy (Elza’s Ocean), a Lviv band formed in 1994, as well as its leader and the author of most of its songs. In 1995 the band won the Chervona Ruta festival, dedicated to the memory of [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/), and in 1998 it moved to Kyiv and released its debut album, Tam, de Nas Nema (Where We Are Not). Then came Ya na Nebi Buv, Model, Supersymetriia, Gloria and more. Later Vakarchuk initiated and paid for a monument to Ivasiuk in central Lviv. He is an Honored Artist of Ukraine (2005), holds the Order of Freedom (2016), and in 2025 received the title National Legend of Ukraine.
 
 ## Politics and war
 
@@ -34,4 +34,4 @@ From the first days of the full-scale invasion in 2022 he travelled around Ukrai
 
 ## Why it matters today
 
-Since the mid-1990s Okean Elzy has sung in Ukrainian and has been among the country’s most popular bands, and Vakarchuk wrote most of its songs. In 1995 the band won the Chervona Ruta festival, dedicated to the memory of [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/), and Vakarchuk later paid for a monument to Ivasiuk in Lviv. He showed that a theoretical physicist can be a generation’s voice, finishing his supersymmetry dissertation through years of touring. During the war he took his concerts where life is hardest: to soldiers and medics, into hospitals and metro stations. Anyone who keeps going in hard times can borrow his line: “I won’t give up without a fight.”
+Since the mid-1990s Okean Elzy has sung in Ukrainian and been among the country’s most popular bands: Vakarchuk’s songs proved that modern songs in Ukrainian can be among the country’s best loved. He showed that a theoretical physicist can be a generation’s voice without giving up science. During the war he took his concerts where life is hardest: to soldiers and medics, into hospitals and metro stations. Anyone who keeps going in hard times can borrow his line: “I won’t give up without a fight.”

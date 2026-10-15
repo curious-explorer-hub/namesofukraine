@@ -25,7 +25,7 @@ At 16 he joined the Revolution of Dignity and was among those hurt when the Berk
 
 ## Tents in Protasiv Yar
 
-In 2018 Ratushnyi recorded a video appeal to Kyiv residents: a developer wanted to put up three 40-story towers on the slopes of Protasiv Yar in central Kyiv. He gathered activists who camped there in tents and kept watch to stop the developer’s machinery. That is how the “Protect Protasiv Yar” initiative began. When the community decided to set up an NGO, it was Roman who agreed to lead it, and the court cases became his second job. In 2020 Protasiv Yar got its green-space status back, and the building permit was ruled unlawful.
+Ratushnyi recorded a video appeal to Kyiv residents in 2018: a developer wanted to put up three 40-story towers on the slopes of Protasiv Yar in central Kyiv. He gathered activists who camped there in tents and kept watch to stop the developer’s machinery. That is how the “Protect Protasiv Yar” initiative began. When the community decided to set up an NGO, it was Roman who agreed to lead it, and the court cases became his second job. In 2020 Protasiv Yar got its green-space status back, and the building permit was ruled unlawful.
 
 ## At the front
 
@@ -33,4 +33,4 @@ From the first days of the full-scale invasion Ratushnyi defended Kyiv with the 
 
 ## Why it matters today
 
-Roman Ratushnyi showed that a handful of people who care can save a piece of green Kyiv. He appealed to Kyiv residents, gathered activists in tents and agreed to lead the NGO, and court cases became his second job until Protasiv Yar got its green-space status back. “Only self-organisation will save us from the end of the world,” he said, and he lived by it, from the Maidan at 16 to defending Kyiv from the first days of the full-scale war. The Protasiv Yar reserve now bears his name, and his NGO carries on his work. Anyone who defends their park, street or city follows in his footsteps.
+Roman Ratushnyi showed that a handful of people who care can save a piece of green Kyiv if they don’t back down. “Only self-organisation will save us from the end of the world,” he said, and he lived by it, from the Maidan at 16 to defending Kyiv from the first days of the full-scale war. Anyone who defends their park, street or city follows in his footsteps, and the Protasiv Yar reserve now bears his name.

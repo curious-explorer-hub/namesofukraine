@@ -16,7 +16,7 @@ image_alt: "Petro Kalnyshevskyi with a mace, portrait by an unknown artist"
 
 ## Otaman in defiance of an empress
 
-In January 1765 the Zaporozhians elected Petro Kalnyshevskyi otaman, the head of the Sich, even though Catherine II did not want him. Then they kept re-electing him for ten years, until the end of the Sich.
+The Zaporozhians elected Petro Kalnyshevskyi otaman, the head of the Sich, in January 1765, even though Catherine II did not want him. Then they kept re-electing him for ten years, until the end of the Sich.
 
 Kalnyshevskyi was born in the village of Pustoviitivka (now in the Sumy region); sources give 1690 or 1691. According to tradition, he came to the Sich as a child and rose from dzhura (an officer’s attendant) to military judge, and in 1762 he first became otaman.
 
@@ -30,4 +30,4 @@ Once the Ottoman Empire was defeated, the empire no longer needed the Sich. In 1
 
 ## Why it matters today
 
-For more than a decade Petro Kalnyshevskyi led Zaporizhzhia as an administrator and diplomat. He drew settlers to the Zaporozhian lands and promoted farming and trade: by 1770 they had 45 villages and some 4,000 farmsteads. He went to St. Petersburg repeatedly to defend the Sich’s right to its land, and the Zaporozhians elected him against the empress’s wishes and re-elected him for ten years. When the empire destroyed the Sich, he spent 25 years in the Solovetsky prison and became a symbol of resilience. His life reminds us that a community’s right to choose its leaders and care for its land is worth standing up for.
+Petro Kalnyshevskyi showed that the Sich was not only an army but a working land that could build villages, farming and trade. He stood up to the empire for the Zaporozhians’ right to their land, and they elected him again and again against the empress’s wishes. When the empire destroyed the Sich, he spent 25 years in the Solovetsky prison and became a symbol of resilience. His life reminds us that a community’s right to choose its leaders and care for its land is worth standing up for.

@@ -27,12 +27,12 @@ In the autumn of 1920, escaping famine, Burghardt moved to Baryshivka near Kyiv 
 
 ## Leaving for Germany
 
-In 1931 Burghardt managed to emigrate to Germany. He taught Slavic literatures at the universities of Münster, Innsbruck and Prague and wrote in both German and Ukrainian, signing his Ukrainian work with the pen name Yurii Klen. In 1937 his long poem The Accursed Years came out, about the tragic fate of the generation of artists to which his Neoclassicist friends who stayed in Soviet Ukraine belonged.
+Burghardt managed to emigrate to Germany in 1931. He taught Slavic literatures at the universities of Münster, Innsbruck and Prague and wrote in both German and Ukrainian, signing his Ukrainian work with the pen name Yurii Klen. In 1937 his long poem The Accursed Years came out, about the tragic fate of the generation of artists to which his Neoclassicist friends who stayed in Soviet Ukraine belonged.
 
 ## The last years
 
-In 1943 Klen’s only collection of lyric poetry, Caravels, came out in Prague. He worked on an epic, The Ashes of Empires, which criticizes both Stalin’s and Hitler’s regimes, and managed to finish four of its parts. In 1945 he moved to Austria, co-founded the Ukrainian Art Movement (MUR) and edited the literary journal Lytavry. Yurii Klen died in Augsburg on 30 October 1947.
+Klen’s only collection of lyric poetry, Caravels, came out in Prague in 1943. He worked on an epic, The Ashes of Empires, which criticizes both Stalin’s and Hitler’s regimes, and managed to finish four of its parts. In 1945 he moved to Austria, co-founded the Ukrainian Art Movement (MUR) and edited the literary journal Lytavry. Yurii Klen died in Augsburg on 30 October 1947.
 
 ## Why it matters today
 
-Yurii Klen showed that you can become a Ukrainian poet by choice: the son of German colonists, he began writing in Ukrainian and became one of the five Kyiv Neoclassicists. His translations, from Iron Sonnets to Shakespeare’s Hamlet and The Tempest, enriched Ukrainian literature. In Germany he wrote about the friends who stayed in Soviet Ukraine: The Accursed Years tells their generation’s tragic fate, and his Memoirs of the Neoclassicists is considered an invaluable eyewitness account of the “cluster of five”. In The Ashes of Empires he criticized both Stalin’s and Hitler’s regimes. Thanks to him, we know the Neoclassicists as living people, not only through their poems.
+Yurii Klen showed that you can become a Ukrainian poet by choice: the son of German colonists, he began writing in Ukrainian and became one of the five Kyiv Neoclassicists. Through his translations he brought German, French and English poetry into Ukrainian literature. In Germany he did not forget the friends who stayed in Soviet Ukraine, and he told the tragic story of their generation. Thanks to him, we know the Neoclassicists as living people, not only through their poems.

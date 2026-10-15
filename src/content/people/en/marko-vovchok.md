@@ -18,7 +18,7 @@ image_alt: "Photograph of Marko Vovchok (Mariia Vilinska)"
 
 ## Why did Mariia sign herself “Marko”?
 
-In 1857 Folk Stories by Marko Vovchok came out in Saint Petersburg. Behind that name was a young woman, Mariia Vilinska. The male pen name had been invented for her by the book’s publisher, Panteleimon Kulish. Her stories about the fate of serfs, told in the voices of peasant women, were at once a landmark in Ukrainian literature.
+Folk Stories by Marko Vovchok came out in Saint Petersburg in 1857. Behind that name was a young woman, Mariia Vilinska. The male pen name had been invented for her by the book’s publisher, Panteleimon Kulish. Her stories about the fate of serfs, told in the voices of peasant women, were at once a landmark in Ukrainian literature.
 
 ## How a Russian-raised girl became a Ukrainian writer
 
@@ -28,8 +28,8 @@ Mariia was born in 1833 on an estate in the Oryol province (now Lipetsk Oblast i
 
 ## Jules Verne in Russian
 
-From 1859 to 1867 Marko Vovchok lived abroad, longest of all in Paris. Back in Russia she edited the journal Translations of the Best Foreign Writers and was the first to translate 15 Jules Verne novels into Russian, as well as works by Charles Darwin. She married a second time, to Mykhailo Lobach-Zhuchenko, spent her last years in the Caucasus and died in 1907 on the Dolinsk farmstead (now part of Nalchik).
+For eight years, from 1859 to 1867, Marko Vovchok lived abroad, longest of all in Paris. Back in Russia she edited the journal Translations of the Best Foreign Writers and was the first to translate 15 Jules Verne novels into Russian, as well as works by Charles Darwin. She married a second time, to Mykhailo Lobach-Zhuchenko, spent her last years in the Caucasus and died in 1907 on the Dolinsk farmstead (now part of Nalchik).
 
 ## Why it matters today
 
-Marko Vovchok was one of the first to show serfdom through a woman’s eyes: her Folk Stories, told in the voices of peasant serf women, were at once a landmark in Ukrainian literature, and [Shevchenko](/en/people/taras-shevchenko/) called her his “daughter”. She opened new genres in Ukrainian literature, including prose for children, and her translations of Jules Verne and Darwin opened world literature and science to readers. Her story shows how someone who grew up outside the Ukrainian-speaking world could consciously choose Ukrainian as the language of her work. She proved that the voices of people long unheard can become great literature.
+Marko Vovchok was one of the first to show serfdom through a woman’s eyes: her Folk Stories, told in the voices of peasant serf women, were at once a landmark in Ukrainian literature. She proved that the voices of people long unheard can become great literature. Her story shows how someone who grew up outside the Ukrainian-speaking world could consciously choose Ukrainian as the language of her work. Anyone who learns Ukrainian as an adult is following her path.

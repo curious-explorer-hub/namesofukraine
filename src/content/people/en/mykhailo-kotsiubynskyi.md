@@ -22,7 +22,7 @@ Mykhailo Kotsiubynskyi was born in 1864 in Vinnytsia, the son of a minor civil s
 
 ## From vineyards to Chernihiv
 
-In the 1890s Kotsiubynskyi spent several years fighting a vineyard pest for the phylloxera commission in Bessarabia and Crimea. In 1898 he moved to Chernihiv, where he worked as a zemstvo statistician and in 1906–1908 headed the local Prosvita society. Early on he got to know Galician public figures, including [Ivan Franko](/en/people/ivan-franko/), and published in Galician periodicals.
+Kotsiubynskyi spent several years in the 1890s fighting a vineyard pest for the phylloxera commission in Bessarabia and Crimea. In 1898 he moved to Chernihiv, where he worked as a zemstvo statistician and in 1906–1908 headed the local Prosvita society. Early on he got to know Galician public figures, including [Ivan Franko](/en/people/ivan-franko/), and published in Galician periodicals.
 
 ## Prose written in impressions
 
@@ -30,4 +30,4 @@ He began as a realist and grew into one of the most gifted Ukrainian modernists.
 
 ## Why it matters today
 
-Starting as a realist, Kotsiubynskyi grew into one of the most gifted Ukrainian modernists. In “Intermezzo”, “The Apple Blossom” and “On the Rock” he combined subtle psychology with lyricism, and his language and style influenced Ukrainian prose writers and poets of the early 20th century. A man from Podillia, he wrote Shadows of Forgotten Ancestors, about the Hutsuls and their beliefs and legends, after a stay in the Carpathians; in 1964 [Sergei Parajanov](/en/people/serhii-paradzhanov/) filmed it. Under police watch from his seminary years until his death, he wrote in Ukrainian and headed the Prosvita society in Chernihiv. To feel how vivid Ukrainian prose can be, start with his books.
+Kotsiubynskyi showed how subtle and modern Ukrainian prose could be: starting as a realist, he grew into one of the most gifted Ukrainian modernists. A man from Podillia, he opened the world of the Hutsuls to readers in Shadows of Forgotten Ancestors, the novella [Sergei Parajanov](/en/people/serhii-paradzhanov/) turned into a film. Under police watch from his seminary years until his death, he still wrote in Ukrainian and headed the Prosvita society in Chernihiv. To feel how vivid Ukrainian prose can be, start with his books.

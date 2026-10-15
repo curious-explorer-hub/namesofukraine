@@ -21,7 +21,7 @@ quotes:
 
 ## A letter from a city under siege
 
-In April 2022 a marine commander who, in his own words, had been fighting in complete encirclement in Mariupol for more than 50 days wrote to Pope Francis. “I am not a Catholic, I am Orthodox. I believe in God and I know that light always defeats darkness,” began Serhii Volynskyi, known by his call sign Volyna. He wrote that women and children were living in the bunkers under the steelworks, and asked the Pope to help evacuate them and tell the world the truth.
+A marine commander who, in his own words, had been fighting in complete encirclement in Mariupol for more than 50 days wrote to Pope Francis in April 2022. “I am not a Catholic, I am Orthodox. I believe in God and I know that light always defeats darkness,” began Serhii Volynskyi, known by his call sign Volyna. He wrote that women and children were living in the bunkers under the steelworks, and asked the Pope to help evacuate them and tell the world the truth.
 
 ## A boy from Poltava who kept his oath
 
@@ -33,8 +33,8 @@ From the start of the full-scale invasion in 2022, Volynskyi defended Mariupol. 
 
 ## After captivity
 
-On 21 September 2022 he was freed in an exchange together with Prokopenko, [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) and other commanders; they stayed in Türkiye until July 2023. On 1 October 2022 Volynskyi was made a Hero of Ukraine, the country’s highest title. While still in Türkiye he started the Stalevi foundation, which looks after marines and their families. He later left the army for the reserve and works with the foundation.
+He was freed on 21 September 2022 in an exchange together with Prokopenko, [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) and other commanders; they stayed in Türkiye until July 2023. On 1 October 2022 Volynskyi was made a Hero of Ukraine, the country’s highest title. While still in Türkiye he started the Stalevi foundation, which looks after marines and their families. He later left the army for the reserve and works with the foundation.
 
 ## Why it matters today
 
-Serhii Volynskyi kept his oath in 2014 and again in 2022: first he left occupied Crimea with the servicemen loyal to Ukraine, then he defended Mariupol, and in April led part of the 36th Brigade into Azovstal to join Azov. His letter to the Pope, asking for help to evacuate the women and children in the steelworks’ bunkers and to tell the world the truth, and the video appeals from the plant were among the ways Mariupol’s defenders spoke to the world. He urged world leaders to rescue those trapped, as at Dunkirk. The Stalevi foundation he started carries that work on for marines and their families today.
+Serhii Volynskyi kept his oath twice: in occupied Crimea in 2014 and in encircled Mariupol in 2022. His letter to the Pope and the appeals from Azovstal were among the ways Mariupol’s defenders spoke to the world and asked for civilians to be saved. His path shows that loyalty to an oath and responsibility for the people beside you matter even when you are surrounded. The Stalevi foundation he started carries that work on for marines and their families.

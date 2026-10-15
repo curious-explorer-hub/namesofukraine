@@ -18,7 +18,7 @@ image_alt: "Photograph of Solomiia Krushelnytska by Mario Nunes Vais, c. 1905–
 
 ## How do you rescue an opera that flopped?
 
-In 1904 Giacomo Puccini’s new opera Madama Butterfly failed loudly at its premiere at La Scala in Milan. That same year the composer invited Solomiia Krushelnytska to sing the title role. She sang Butterfly brilliantly at the Teatro Grande, and Puccini considered her “the most beautiful and most charming Butterfly.”
+Giacomo Puccini’s new opera Madama Butterfly failed loudly at its 1904 premiere at La Scala in Milan. That same year the composer invited Solomiia Krushelnytska to sing the title role. She sang Butterfly brilliantly at the Teatro Grande, and Puccini considered her “the most beautiful and most charming Butterfly.”
 
 ## From Biliavyntsi to Buenos Aires
 
@@ -32,4 +32,4 @@ She sang Ukrainian folk songs and works by Stanyslav Liudkevych, Denys Sichynsky
 
 ## Why it matters today
 
-Solomiia Krushelnytska showed that a girl from a village in the Ternopil region could become a star of the world’s leading opera stages, recognized alongside Enrico Caruso and Feodor Chaliapin. After Madama Butterfly flopped, she sang the title role so well that Puccini considered her “the most beautiful and most charming Butterfly,” and in Italy she was the first to sing Strauss’s Salome and Elektra. On those same stages she also sang Ukrainian folk songs and the music of [Mykola Lysenko](/en/people/mykola-lysenko/), so the world heard Ukraine in her voice. Back in Lviv, she taught young singers at the conservatory. Fittingly, the Lviv Opera now bears her name.
+Solomiia Krushelnytska showed that a singer from a village in the Ternopil region could become a star of the world’s leading opera houses and give a Puccini opera a second life. By singing Ukrainian songs and the music of [Mykola Lysenko](/en/people/mykola-lysenko/) on those stages, she let the world hear Ukraine in her voice. Back in Lviv, she passed her craft on to young singers. Her path proves that talent and hard work can open any stage, and that you can stay yourself on it.

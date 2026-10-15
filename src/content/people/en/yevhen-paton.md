@@ -23,11 +23,11 @@ Yevhen Paton was born in 1870 in Nice, where his father was the Russian consul. 
 
 ## Bridges for Kyiv
 
-In 1904 Paton was invited to the Kyiv Polytechnic Institute, where he headed the department of bridges. Over his career he produced about 35 bridge designs and wrote textbooks on bridge building. After the revolution he rebuilt destroyed bridges, among them a bridge across the Dnipro in Kyiv that opened in 1925.
+Paton was invited to the Kyiv Polytechnic Institute in 1904, and there he headed the department of bridges. Over his career he produced about 35 bridge designs and wrote textbooks on bridge building. After the revolution he rebuilt destroyed bridges, among them a bridge across the Dnipro in Kyiv that opened in 1925.
 
 ## Starting over at almost 60
 
-In 1929 Paton was elected to the Academy of Sciences. That same year, at almost 60, he took up something new. Bridges were then held together by rivets, and Paton believed the future lay in welding, which was still poorly understood. He set up an electric welding laboratory at the Academy, and in 1934 turned it into the Institute of Electric Welding, which he led for the rest of his life. His team developed high-speed automatic submerged-arc welding, ten times more productive than welding by hand.
+Paton was elected to the Academy of Sciences in 1929. That same year, at almost 60, he took up something new. Bridges were then held together by rivets, and Paton believed the future lay in welding, which was still poorly understood. He set up an electric welding laboratory at the Academy, and in 1934 turned it into the Institute of Electric Welding, which he led for the rest of his life. His team developed high-speed automatic submerged-arc welding, ten times more productive than welding by hand.
 
 ## Welding for the war
 
@@ -39,4 +39,4 @@ Paton’s last great project was a bridge across the Dnipro in Kyiv, about one a
 
 ## Why it matters today
 
-Yevhen Paton proved it is never too late to start something new. A famous bridge builder with about 35 designs behind him, at almost 60 he took up welding, then poorly understood, believing the future lay there. His team developed automatic submerged-arc welding, ten times more productive than welding by hand, and in the war welded tank armour automatically. The Paton Bridge in Kyiv, Europe’s largest all-welded road bridge, showed what the technology could do. His son, [Borys Paton](/en/people/borys-paton/), carried on his school: in 1953 he took over the institute his father had founded, and later led the whole Academy of Sciences of Ukraine.
+Yevhen Paton proved it is never too late to start something new: at almost 60, a famous bridge builder took up welding, then poorly understood, because he saw the future in it. The bet paid off: his team’s technology helped the country through the war, and the Paton Bridge in Kyiv showed what it could do. He left behind not just an institute but a school of science, carried on by his son, [Borys Paton](/en/people/borys-paton/), who later led the Academy of Sciences of Ukraine. Anyone who fears it is too late to take up something new can remember Paton.

@@ -15,7 +15,7 @@ image_alt: "Portrait of Petro Doroshenko holding a mace, in a plumed hat and bro
 
 ## A country cut in two
 
-In 1667 Muscovy and the Polish-Lithuanian Commonwealth signed the Truce of Andrusovo and divided Ukraine: the Left Bank of the Dnipro went to the tsar, the Right Bank to the king. Petro Doroshenko, hetman of the Right Bank, refused to accept it. His main aim was to restore the Cossack state on both banks of the river.
+Muscovy and the Polish-Lithuanian Commonwealth signed the Truce of Andrusovo in 1667 and divided Ukraine: the Left Bank of the Dnipro went to the tsar, the Right Bank to the king. Petro Doroshenko, hetman of the Right Bank, refused to accept it. His main aim was to restore the Cossack state on both banks of the river.
 
 ## A Cossack from Chyhyryn
 
@@ -23,7 +23,7 @@ Doroshenko was born in 1627 in Chyhyryn, into a Cossack family. He carried out d
 
 ## Hetman of both banks
 
-In 1666 he defeated a Polish army at Brailiv. In 1668 an uprising against Moscow broke out on the Left Bank, and on 8 June Doroshenko was proclaimed hetman of all Ukraine. The unity didn’t last: a Polish offensive forced him back to the Right Bank, and another hetman took over the Left. The Zaporozhian Cossacks worked against him too; their otaman [Ivan Sirko](/en/people/ivan-sirko/) stood in his way more than once.
+At Brailiv in 1666 he defeated a Polish army. In 1668 an uprising against Moscow broke out on the Left Bank, and on 8 June Doroshenko was proclaimed hetman of all Ukraine. The unity didn’t last: a Polish offensive forced him back to the Right Bank, and another hetman took over the Left. The Zaporozhian Cossacks worked against him too; their otaman [Ivan Sirko](/en/people/ivan-sirko/) stood in his way more than once.
 
 Looking for a strong ally, the hetman turned to the Ottoman Empire. In 1669 a Cossack council in Korsun approved the alliance. Under its terms, the Turks and Tatars were not to meddle in the election of the hetman, nor make peace with Poland or Moscow without his consent. In 1672 Doroshenko beat the Poles at Batih, and then, together with the army of Sultan Mehmed IV, took the fortress of Kamianets.
 
@@ -37,4 +37,4 @@ The Ottoman alliance is Doroshenko’s most disputed decision. Some scholars exp
 
 ## Why it matters today
 
-When neighbours split Ukraine along the Dnipro, Doroshenko refused to accept it and for the rest of his rule sought to reunite the Cossack state on both banks. In 1668 he was proclaimed hetman of all Ukraine, if only briefly. He beat Polish armies at Brailiv and Batih, sought allies, though the wars cost the Right Bank dearly. He lost, but never gave up the goal he set at the start: one Ukraine on both banks of the Dnipro. His example shows a country’s unity is worth standing up for even against the odds. In 2017 the 1st Operational Brigade of the National Guard of Ukraine was named after him.
+When neighbours split Ukraine along the Dnipro, Petro Doroshenko refused to accept it and set himself one goal: a single Cossack state on both banks. He lost, and historians still argue over the price of his choices, but he held to that goal to the end of his rule. His life is a reminder that Ukrainians fought for their country’s unity long before our time, and that it is worth standing up for even when the odds are against you.

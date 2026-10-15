@@ -30,4 +30,4 @@ Later Chybinieiev moved to the Defence Intelligence Directorate. After the full-
 
 ## Why it matters today
 
-Valerii Chybinieiev grew up in a boarding school and made his own way to the life he had dreamed of: he worked on his English day and night to get into a military lyceum, and went on to command a sniper company in the 79th Brigade. He helped liberate Lyman and defended Donetsk airport, and when he was wounded near Avdiivka he kept commanding his unit. In 2022 his group fought for Hostomel in the defense of the Kyiv region. His path shows that where you start doesn’t decide who you become. His home city said it most simply, on its billboards: “Be like Valera.”
+Valerii Chybinieiev grew up in a boarding school and made his own way to the life he had dreamed of, and his path shows that where you start doesn’t decide who you become. For eight years he defended Ukraine, from the fighting in the east in 2014 to the defense of the Kyiv region in 2022. Even when wounded, he stayed with his soldiers and kept commanding his unit. His home city said it most simply, on its billboards: “Be like Valera.”

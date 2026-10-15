@@ -32,4 +32,4 @@ The popular story linking Anna to the Reims Gospel, though, is a myth, historian
 
 ## Why it matters today
 
-Anna’s story shows that Kyivan Rus’ was part of the political life of medieval Europe. A daughter of the Prince of Kyiv became Queen of France and had a say in affairs of state: twenty-eight documents issued in her name or with her participation show that she regularly sat in on the royal council. She raised a son who became King Philip I, and she founded (or restored) the Monastery of Saint Vincent in Senlis. That is why she stands today as a symbol of Ukraine’s old ties with Europe, and her first monument went up in 2005 in Senlis itself.
+Anna’s story shows that 11th-century Kyiv was part of the political life of medieval Europe: a French king sent envoys all the way here for a bride. The Kyivan prince’s daughter became more than a king’s wife: a queen with a say in affairs of state and the mother of a king. That is why she stands today as a symbol of Ukraine’s old ties with Europe, a reminder that Ukraine’s place among European nations goes back almost a thousand years.

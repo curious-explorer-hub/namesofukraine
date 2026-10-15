@@ -26,7 +26,7 @@ Skoropadskyi was born in Wiesbaden, Germany, into an old Ukrainian family of Cos
 
 ## Hetman of the Ukrainian State
 
-On 29 April 1918, with the backing of the German command, Skoropadskyi was proclaimed hetman. The Ukrainian People’s Republic became the Ukrainian State, and all power lay with the hetman. Under his rule came the Ukrainian Academy of Sciences, state universities in Kyiv and Kamianets-Podilskyi and the National Library; by November 1918 there were 150 Ukrainian gymnasiums. But the regime never solved the land question, peasants rose up, and its power rested on German and Austro-Hungarian troops.
+Skoropadskyi was proclaimed hetman on 29 April 1918, with the backing of the German command. The Ukrainian People’s Republic became the Ukrainian State, and all power lay with the hetman. Under his rule came the Ukrainian Academy of Sciences, state universities in Kyiv and Kamianets-Podilskyi and the National Library; by November 1918 there were 150 Ukrainian gymnasiums. But the regime never solved the land question, peasants rose up, and its power rested on German and Austro-Hungarian troops.
 
 After the Central Powers were defeated, on 14 November 1918, the hetman announced a course towards federation with a future non-Bolshevik Russia. The Directory’s uprising began, and on 14 December Skoropadskyi gave up power. In exile he lived in Wannsee near Berlin and led the hetmanite movement, and in 1926 the Ukrainian Scientific Institute in Berlin was founded on his initiative. In April 1945 he was mortally wounded in a bombing raid on Plattling station in Bavaria.
 
@@ -36,4 +36,4 @@ Views of the Hetmanate still differ. Critics, including the Ukrainian democratic
 
 ## Why it matters today
 
-In under eight months his government created the Ukrainian Academy of Sciences, state universities in Kyiv and Kamianets-Podilskyi and the National Library, and more than 150 gymnasiums were opened or switched to Ukrainian. The Academy and the Library still work today. In exile, he initiated the Ukrainian Scientific Institute in Berlin. At the same time, his experience shows how hard it was to build a state in the middle of a war, a foreign military presence and a deep social divide. Schools and scholarship founded even in a short, contested time can serve a country for over a century.
+In under eight months as hetman, Ukraine gained an Academy of Sciences and a National Library that still work today, and the Ukrainian language came to universities and gymnasiums. Even in exile Skoropadskyi worked for Ukrainian scholarship. At the same time, his experience shows how hard it is to build a state in the middle of a war, a foreign military presence and a deep social divide. And it reminds us that schools and scholarship founded even in a short, contested time can serve a country for over a century.

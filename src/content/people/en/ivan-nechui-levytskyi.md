@@ -29,10 +29,10 @@ He was born in 1838 in the small town of Stebliv in the Kyiv region (now the Che
 
 Nechui-Levytskyi saw literature as a mirror of life. In Mykola Dzheria (1878) a serf goes looking for freedom: from the landlord’s estate, through work at a sugar mill, to the free lands of Bessarabia. The story was filmed in 1927. In Kaidash’s Family (1879) he showed, with irony, the old village world colliding with the new.
 
+## A literature of its own, even without a state
+
+Nechui-Levytskyi wrote in the years of the harshest imperial bans: the Valuev Circular of 1863 and the Ems Decree of 1876. In 1877 he wrote an essay with a telling title, “The Uselessness of Great Russian Literature for Ukraine and for the Slavs”. He argued that Ukrainian literature was a national, European kind of literature with a tradition of its own. Late in life he finished the Ukrainian translation of the Bible that [Panteleimon Kulish](/en/people/panteleimon-kulish/) and [Ivan Puliui](/en/people/ivan-puliui/) had begun.
+
 ## Why it matters today
 
-Ivan Nechui-Levytskyi was one of the most steadfast defenders of Ukrainian identity, language and culture in the years of the harshest imperial bans (the Valuev Circular of 1863 and the Ems Decree of 1876).
-
-In 1877 he wrote an essay with a telling title, “The Uselessness of Great Russian Literature for Ukraine and for the Slavs”. He argued that Ukrainian literature was a national, European kind of literature with a tradition of its own. And he finished the Ukrainian translation of the Bible that [Panteleimon Kulish](/en/people/panteleimon-kulish/) and [Ivan Puliui](/en/people/ivan-puliui/) had begun.
-
-Kaidash’s Family and Mykola Dzheria are still read today: the Ukrainian village of the 19th century, seen as in a mirror, in a language the empire would not let him print at home.
+Nechui-Levytskyi showed that a ban can’t stop a literature: when he couldn’t print at home, he printed in Lviv. He believed a people could have a literature of its own even without a state, and his books proved it. Kaidash’s Family and Mykola Dzheria are still read today: the Ukrainian village of the 19th century, seen as in a mirror, in a language the empire would not let him print at home. Anyone who writes in Ukrainian when it is inconvenient or dangerous carries on his work.

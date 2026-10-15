@@ -28,9 +28,9 @@ Kateryna was born in Kherson on 17 June 1985. She graduated from Kherson State U
 
 Kateryna took part in the Euromaidan in Kherson and stood up to attempts to start a “Russian Spring” in the city. She looked after displaced people and worked at the office of the UN High Commissioner for Refugees. In May 2014 she was elected to the Kherson city council, and in 2016 she became acting manager of affairs of the council’s executive committee. She spoke out publicly about corruption in local government and the police.
 
-## 31 July 2018
+## The attack
 
-On 31 July 2018 Kateryna Handziuk was attacked in Kherson and doused with acid. She was taken to Kyiv for treatment. Kateryna Handziuk died on 4 November 2018. She was 33.
+Kateryna Handziuk was attacked in Kherson on 31 July 2018 and doused with acid. She was taken to Kyiv for treatment. Kateryna Handziuk died on 4 November 2018. She was 33.
 
 ## What the courts decided
 
@@ -40,4 +40,4 @@ As of June 2026, the Kyiv Court of Appeal had not finished the case, so the verd
 
 ## Why it matters today
 
-Kateryna Handziuk kept watch on how public money was spent and did not stay silent when she saw corruption. She co-founded a website that tracked public procurement, took part in the Euromaidan in Kherson, stood up to attempts to start a “Russian Spring” in the city, and helped displaced people. Even from her hospital bed she talked about justice and the rule of law, which, in her words, “today no one is treating.” People have not let her be forgotten: the “Who Ordered Katia Handziuk?” movement goes on following the trial. Anyone who checks where public money goes, or demands a fair trial, carries on her work.
+Kateryna Handziuk showed that keeping watch on public money is every citizen’s job, not only officials’. She did not stay silent about corruption, and not even the attack silenced her: from her hospital bed she talked about justice and the rule of law, which, in her words, “today no one is treating.” People have kept her question alive: the “Who Ordered Katia Handziuk?” movement goes on following the trial. Anyone who checks where public money goes, or demands a fair trial, carries on her work.

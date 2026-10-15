@@ -22,7 +22,7 @@ Stepan Bandera was born in 1909 in the village of Staryi Uhryniv in Prykarpattia
 
 ## The 1941 Act and a Nazi camp
 
-In 1940 the OUN split, and Bandera became leader of its revolutionary wing, the OUN-B. On 30 June 1941 in Lviv his followers proclaimed the Act of Restoration of the Ukrainian State. Berlin reacted sharply, but Bandera refused to revoke the Act. He was imprisoned first in Berlin and then, from 1942 until the autumn of 1944, in the Zellenbau, a special block for political prisoners at Sachsenhausen concentration camp. Two of his brothers, Oleksandr and Vasyl, died in Auschwitz in 1942.
+The OUN split in 1940, and Bandera became leader of its revolutionary wing, the OUN-B. On 30 June 1941 in Lviv his followers proclaimed the Act of Restoration of the Ukrainian State. Berlin reacted sharply, but Bandera refused to revoke the Act. He was imprisoned first in Berlin and then, from 1942 until the autumn of 1944, in the Zellenbau, a special block for political prisoners at Sachsenhausen concentration camp. Two of his brothers, Oleksandr and Vasyl, died in Auschwitz in 1942.
 
 After the war Bandera lived in exile in Munich and headed the OUN’s Foreign Units. On 15 October 1959 he was killed by KGB agent Bohdan Stashynskyi.
 
@@ -34,4 +34,4 @@ The courts ruled the 2010 decree awarding Bandera the title Hero of Ukraine unla
 
 ## Why it matters today
 
-Stepan Bandera went from a Plast scout and Lviv Polytechnic student to leader of the OUN-B. On 30 June 1941 his followers in Lviv proclaimed the Act of Restoration of the Ukrainian State, and Bandera refused to revoke it, though it cost him Nazi imprisonment, including in Sachsenhausen concentration camp. For decades Soviet propaganda used his name, and in Russia “Banderite” is still used as a brand. That is why his figure shows how complex the 20th-century struggle for independence was, and teaches us to tell historical facts from historians’ assessments and from propaganda. Anyone who knows this history in full is harder to sell propaganda myths about it.
+Stepan Bandera’s story shows how complex the 20th-century struggle for independence was, caught between the Nazi and Soviet regimes. He refused to revoke the Act of Restoration of the Ukrainian State, though it cost him a Nazi concentration camp, and for many Ukrainians that became a symbol of resistance. At the same time Soviet propaganda used his name for decades, and in Russia “Banderite” is still used as a brand. So his figure teaches us to tell historical facts from historians’ assessments and from propaganda. Anyone who knows this history in full is harder to sell propaganda myths about it.

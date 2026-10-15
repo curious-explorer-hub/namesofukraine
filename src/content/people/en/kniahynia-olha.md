@@ -19,11 +19,11 @@ image_alt: "Saint Olha, an icon from c. 1700 (detail)"
 
 ## More than revenge
 
-In the autumn of 944 the Derevlianians killed Prince Ihor of Kyiv when he tried to collect tribute from them a second time. His widow, Olha, took the throne of Kyiv and ruled in place of their young son, [Sviatoslav](/en/people/sviatoslav-khorobryi/). In 945–946 she crushed the Derevlianians and abolished their tribal principality. The chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds.
+Little is known about Olha herself. According to the Tale of Bygone Years she came from Pleskov, but historians offer other versions too. She probably married Prince Ihor of Kyiv around 930.
+
+In the autumn of 944 the Derevlianians killed Ihor when he tried to collect tribute from them a second time. His widow took the throne of Kyiv and ruled in place of their young son, [Sviatoslav](/en/people/sviatoslav-khorobryi/). In 945–946 she crushed the Derevlianians and abolished their tribal principality. The chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds.
 
 But Olha’s most important work came afterwards. Instead of poliuddia, the dangerous tribute rounds on one of which Ihor had been killed, she set up princely pohosty and stations across the country. Through these centers Kyiv collected taxes, held courts and governed its lands.
-
-Little is known about Olha herself. According to the Tale of Bygone Years she came from Pleskov, but historians offer other versions too. She probably married Ihor around 930.
 
 ## Peace instead of war
 
@@ -33,4 +33,4 @@ Olha could not make Christianity the state religion: she was opposed by the paga
 
 ## Why it matters today
 
-Olha is the first known woman ruler of Rus’. Her reforms strengthened the state: instead of poliuddia, the dangerous tribute rounds on which Ihor had been killed, she set up princely pohosty and stations across the country, through which Kyiv collected taxes, held courts and governed its lands. With Byzantium she negotiated rather than fought, and around 959 she sent an embassy to the German king Otto I. Her baptism paved the way for her grandson Volodymyr, who baptized Rus’ in 988. Her example shows that a state is built not only by campaigns but by order and agreements. The Church venerates her as a saint equal to the apostles.
+Olha is the first known woman ruler of Rus’, and she proved that a state rests on more than swords and campaigns. Where force had ruled, she brought order: instead of the dangerous poliuddia came pohosty, through which Kyiv collected taxes, held courts and governed its lands. With Byzantium she negotiated rather than fought, and her baptism paved the way for her grandson Volodymyr, who baptized Rus’. Her example is a reminder that order and the art of agreement build a country as surely as victories do.

@@ -19,7 +19,7 @@ quotes:
 
 ## 25,000 signatures in a day
 
-At the end of March 2024 the aerial scout Pavlo Petrychenko started a petition on the website of the President’s Office to restrict online casinos. He was convinced that online gambling was doing great harm to society, and to soldiers in particular. In under a day more than 25,000 people signed it.
+Aerial scout Pavlo Petrychenko started a petition on the website of the President’s Office at the end of March 2024, calling for limits on online casinos. He was convinced that online gambling was doing great harm to society, and to soldiers in particular. In under a day more than 25,000 people signed it.
 
 ## An activist from Kyiv
 
@@ -27,10 +27,10 @@ Pavlo was born in Kyiv in 1992 and graduated from the Kyiv Economic University. 
 
 ## Eyes in the sky
 
-In April 2022 Pavlo was mobilized into the Armed Forces. He served as an aerial scout in the 59th Separate Motorized Infantry Brigade named after Yakiv Handziuk: flying drones, he spotted enemy equipment and troops and adjusted artillery fire. He helped liberate the Kherson region, defended the Donbas, and later became commander of a drone squad. In 2023 he was awarded the Order for Courage, 3rd class.
+Pavlo was mobilized into the Armed Forces in April 2022. He served as an aerial scout in the 59th Separate Motorized Infantry Brigade named after Yakiv Handziuk: flying drones, he spotted enemy equipment and troops and adjusted artillery fire. He helped liberate the Kherson region, defended the Donbas, and later became commander of a drone squad. In 2023 he was awarded the Order for Courage, 3rd class.
 
 Pavlo Petrychenko was killed on 15 April 2024 near Krasnohorivka in the Donetsk region, a day before his 32nd birthday.
 
 ## Why it matters today
 
-Pavlo Petrychenko combined civic activism with military service. He stood on the Euromaidan, helped found the “Who Ordered Katia Handziuk?” movement, built up a volunteer center in the first weeks of the full-scale war, and then, flying drones, helped liberate the Kherson region and defend the Donbas. Already an aerial scout, he started a petition to restrict online casinos, convinced they were harming society and soldiers, and more than 25,000 people signed it in under a day. He showed that a uniform doesn’t stop you caring what kind of society you defend. In 2026 [Vladyslav Heraskevych](/en/people/vladyslav-heraskevych/) passed his words on to Ukrainians: “All the beautiful ones keep their optimism.”
+Pavlo Petrychenko never separated the citizen from the soldier: he stood on the Maidan, demanded to know who had ordered the attack on Katia Handziuk, and then went to defend his country flying drones. Even at the front he kept caring what kind of society he was fighting for, and thousands backed him. His example shows that defending Ukraine also means protecting it from what harms it from within. And in 2026 [Vladyslav Heraskevych](/en/people/vladyslav-heraskevych/) passed his words on to Ukrainians: “All the beautiful ones keep their optimism.”

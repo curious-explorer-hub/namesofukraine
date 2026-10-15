@@ -22,10 +22,10 @@ She was born Vira Levchenko, in 1893 in Poltava, the daughter of a literature te
 
 ## A star after one film
 
-In 1914 Vira had a small part in the film Anna Karenina. The next year the director Yevgeny Bauer gave her the lead in Song of Triumphant Love, and that film made her a star. She worked at the Moscow studios of Aleksandr Khanzhonkov and later Dmitry Kharitonov, with Bauer, Pyotr Chardynin and Vladimir Gardin. In under five years dozens of films with her came out, mostly dramas and melodramas.
+Vira first appeared on screen in 1914, in a small part in the film Anna Karenina. The next year the director Yevgeny Bauer gave her the lead in Song of Triumphant Love, and that film made her a star. She worked at the Moscow studios of Aleksandr Khanzhonkov and later Dmitry Kharitonov, with Bauer, Pyotr Chardynin and Vladimir Gardin. In under five years dozens of films with her came out, mostly dramas and melodramas.
 
 In the summer of 1918 Kharitonov's troupe moved to Odesa. There Kholodna kept filming and performed at charity concerts. In early 1919 she caught the “Spanish flu,” the pandemic influenza, and died on 16 February. She was 25. She was buried at the First Christian Cemetery in Odesa, but the cemetery was destroyed in the 1930s and her grave has not survived.
 
 ## Why it matters today
 
-Vira Kholodna was one of the first film stars in the modern sense: audiences called her the “queen of the screen,” though her whole career lasted less than five years. Born in Poltava, she became a star after a single film, made dozens more, and in Odesa, where her troupe moved, also performed at charity concerts. She was born and died in Ukraine, although she worked mostly in Moscow cinema. Only a few of her films survive, among them Children of the Age and Mirages, and they let us see the actress herself behind the legends.
+Vira Kholodna was one of the first film stars in the modern sense: audiences called her the “queen of the screen,” though her whole career lasted less than five years. Her story shows how quickly a new art, cinema, could make someone famous across an empire. She was born and died in Ukraine, although she worked mostly in Moscow cinema. Only a few of her films survive, and they let us see the actress herself behind the legends.

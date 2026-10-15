@@ -22,7 +22,7 @@ Wilhelm von Habsburg was not Ukrainian by birth or descent. He was born in 1895 
 
 ## Uhlan, senator, commander of riflemen
 
-In 1915 Wilhelm graduated from military academy and began serving in the 13th Uhlan Regiment, most of whose soldiers were Ukrainians. From 1917, as a member of the upper house of the Austrian parliament, he worked with Ukrainian deputies and pressed for Galicia to be divided into Ukrainian and Polish parts.
+After graduating from military academy in 1915, Wilhelm began serving in the 13th Uhlan Regiment, most of whose soldiers were Ukrainians. From 1917, as a member of the upper house of the Austrian parliament, he worked with Ukrainian deputies and pressed for Galicia to be divided into Ukrainian and Polish parts.
 
 From April 1918 he commanded the Legion of Ukrainian Sich Riflemen, a Ukrainian volunteer unit of the Austro-Hungarian army, and in May–August he was garrison commander in Oleksandrivsk (today Zaporizhzhia). Some saw him as a candidate for hetman, but he rejected a plan to remove [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/) by force. In 1919 Vyshyvanyi became a colonel of the Army of the Ukrainian People’s Republic (UPR). In 1920, in protest against [Symon Petliura](/en/people/symon-petliura/)’s military alliance with Poland, he left Ukrainian service and settled in Vienna, where he kept in touch with [Yevhen Konovalets](/en/people/yevhen-konovalets/) and other émigré figures.
 
@@ -36,4 +36,4 @@ His conduct in the 1930s is also contested. In Timothy Snyder’s biography The 
 
 ## Why it matters today
 
-Vasyl Vyshyvanyi showed that a person can become Ukrainian by choice, even when born into one of Europe’s most powerful dynasties. He learned the language, wrote poetry in it, and in 1921 his collection Days Go By came out in Vienna. He gave his standing to the Ukrainian cause: in the Austrian parliament he pressed for Galicia to be divided into Ukrainian and Polish parts; he commanded the Ukrainian Sich Riflemen, served as a UPR Army colonel and helped Ivan Horbachevskyi become Austria’s first minister of health. His life ended in a Soviet prison in Kyiv; the world knows his story from Timothy Snyder’s biography.
+Vasyl Vyshyvanyi showed that a person can become Ukrainian by choice, even when born into one of Europe’s most powerful dynasties. He gave his standing and his name to the Ukrainian cause: in parliament, in the army and in poetry. His life ended in a Soviet prison in Kyiv. His story is a reminder that being Ukrainian is not only a matter of birth but a conscious choice, and of staying true to it.

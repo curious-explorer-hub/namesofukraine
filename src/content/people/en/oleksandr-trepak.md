@@ -18,13 +18,13 @@ quotes:
 
 ## Where the “cyborgs” came from
 
-In autumn 2014 people began calling the defenders of Donetsk airport “cyborgs”: they held the airfield under constant shelling and assault. The nickname is linked to deeds like those of the soldiers under Colonel Oleksandr Trepak.
+The defenders of Donetsk airport began to be called “cyborgs” in autumn 2014: they held the airfield under constant shelling and assault. The nickname is linked to deeds like those of the soldiers under Colonel Oleksandr Trepak.
 
 Trepak was born in 1976 in Vinnytsia. He trained at the Odesa Institute of Ground Forces and served in intelligence: military, signals and information. From 2008 he commanded a detachment of the 3rd Separate Special Forces Regiment in Kirovohrad (now Kropyvnytskyi). His call sign is “Redut”, a redoubt.
 
 ## The checkpoint near Artemivsk
 
-In spring 2014 Lieutenant Colonel Trepak went east. On 7 June, near Artemivsk (now Bakhmut), his group was searching for the badly wounded commander of a local armor depot. Trepak and eight men seized a militant checkpoint at the entrance to the town and held it for three hours, so the others could get the wounded man to a helicopter. Trepak was shot in the leg but refused to be evacuated, and for two more days led the defense of an artillery base in the village of Paraskoviivka.
+Lieutenant Colonel Trepak went east in spring 2014. On 7 June, near Artemivsk (now Bakhmut), his group was searching for the badly wounded commander of a local armor depot. Trepak and eight men seized a militant checkpoint at the entrance to the town and held it for three hours, so the others could get the wounded man to a helicopter. Trepak was shot in the leg but refused to be evacuated, and for two more days led the defense of an artillery base in the village of Paraskoviivka.
 
 ## In charge at the airport
 
@@ -34,8 +34,8 @@ On 12 February 2015 Colonel Trepak was made a Hero of Ukraine with the Gold Star
 
 ## What came next
 
-From 2016 to 2020 Trepak commanded his own 3rd Special Forces Regiment, and in 2017 he graduated from the National Defence University of Ukraine, where a stele now bears his name. At the end of 2020 he became chief of staff of the Special Operations Forces, and in May 2024 he took command of them. The same year he was promoted to major general.
+Trepak went back to command his own 3rd Special Forces Regiment (2016–2020), and in 2017 he graduated from the National Defence University of Ukraine, where a stele now bears his name. At the end of 2020 he became chief of staff of the Special Operations Forces, and in May 2024 he took command of them. The same year he was promoted to major general.
 
 ## Why it matters today
 
-The defense of Donetsk airport became one of the symbols of the war that began in 2014. The word “cyborg” has since come to mean a defender who cannot be broken, and Oleksandr Trepak is one of the people it started with. Under him the defenders beat back every assault and were not cut off from food and ammunition. Near Artemivsk he had held a checkpoint for three hours so others could get a wounded commander out, then, wounded himself, refused evacuation. He credits his soldiers: “I am nothing without my guys.” He later commanded his own regiment and, from 2024, the Special Operations Forces.
+The defense of Donetsk airport became one of the symbols of the war that began in 2014, and the word “cyborg” has since come to mean a defender who cannot be broken. Oleksandr Trepak is one of the people it started with. He showed what a commander can be: wounded, he does not leave his people, and he gives the credit to his soldiers: “I am nothing without my guys.” With that experience, in 2024 he took command of the Special Operations Forces.

@@ -19,7 +19,7 @@ quotes:
 
 ## A premiere the day before the war
 
-On 22 and 23 February 2022, Iryna Tsybukh was showing her documentary “Distance”, about children from remote villages in Donbas, in Pokrovsk and Kramatorsk. The next day the full-scale invasion began.
+Iryna Tsybukh was showing her documentary “Distance”, about children from remote villages in Donbas, in Pokrovsk and Kramatorsk on 22 and 23 February 2022. The next day the full-scale invasion began.
 
 Iryna was born in 1998 in Lviv, graduated from Lviv Polytechnic and later studied at the Kyiv School of Economics. In 2017 she joined Suspilne, Ukraine’s public broadcaster: she worked with its regional branches, made documentaries and trained other journalists. In remote villages of Donetsk and Luhansk regions she ran educational projects that taught children media literacy.
 
@@ -31,4 +31,4 @@ Iryna Tsybukh was killed on 29 May 2024 during a rotation on the Kharkiv front. 
 
 ## Why it matters today
 
-Iryna Tsybukh went where she was needed most. She taught media literacy to children in remote villages of Donbas and told their story in her film “Distance”. At the front her crew carried the wounded straight from the front line; they refitted their vehicle so a wounded soldier was warm straight away, and filmed it so other crews could learn. She dreamed of a house and tomatoes, but believed that ending the war mattered most. And about remembrance she left words meant for us: “Honoring is not for the fallen, but for those who will go on keeping their memory.”
+Iryna Tsybukh went where she was needed most: to children in remote villages of Donbas, and then to the front line, for the wounded. She did not only save people; she shared what her crew learned so other crews could save more. Her life shows that everyone can find their place in the fight for Ukraine, with a camera or with a medical kit. And about remembrance she left words meant for us: “Honoring is not for the fallen, but for those who will go on keeping their memory.”

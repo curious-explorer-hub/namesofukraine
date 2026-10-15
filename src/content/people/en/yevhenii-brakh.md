@@ -19,14 +19,14 @@ Did you know that Yevhenii Brakh’s call sign is the name of a country in Afric
 
 ## A legionnaire without French
 
-In 2014, when Russia’s war in Donbas began, Yevhenii was 19, and the army then took volunteers only from 20. So he left university, went abroad and in September 2015 joined the French Foreign Legion, even though he didn’t know the language. The Legion sent him to Mali, which gave him his call sign, and later to French Guiana in South America. In 2020 he finished his five-year contract as a corporal and stayed on in the Legion’s reserve. He lived and worked in France and ran a YouTube channel and an Instagram account.
+Yevhenii was 19 in 2014, when Russia’s war in Donbas began, and the army then took volunteers only from 20. So he left university, went abroad and in September 2015 joined the French Foreign Legion, even though he didn’t know the language. The Legion sent him to Mali, which gave him his call sign, and later to French Guiana in South America. In 2020 he finished his five-year contract as a corporal and stayed on in the Legion’s reserve. He lived and worked in France and ran a YouTube channel and an Instagram account.
 
 ## Coming home
 
-In spring 2022 “Mali” came back to Ukraine. He first fought in a volunteer battalion, trained in the UK that summer, and then became a machine gunner in the Special Operations Forces. Sources disagree on his unit: the Poltava city council and Memorial name the Special Operations Forces, while Streetcode names Tymur’s special unit of the Defence Intelligence Directorate. He took part in preparing the operation on Snake Island in the Black Sea.
+“Mali” came back to Ukraine in spring 2022. He first fought in a volunteer battalion, trained in the UK that summer, and then became a machine gunner in the Special Operations Forces. Sources disagree on his unit: the Poltava city council and Memorial name the Special Operations Forces, while Streetcode names Tymur’s special unit of the Defence Intelligence Directorate. He took part in preparing the operation on Snake Island in the Black Sea.
 
 Yevhenii Brakh was killed on 21 September 2022 on a combat mission near Enerhodar in the Zaporizhzhia region. He was 26. His comrade “Rugbyist”, [Maksym Yalovtsov](/en/people/maksym-yalovtsov/), was killed alongside him near Enerhodar.
 
 ## Why it matters today
 
-Yevhenii Brakh knew from childhood what he wanted to be, and worked his way there: the Maidan, the French Foreign Legion, which he joined without speaking French, service in Mali and French Guiana, the rank of corporal. In spring 2022 he left a settled life in France, came home and became a machine gunner in a special forces unit. He brought what he had learned abroad to Ukraine’s defence, including the preparations for the Snake Island operation. He showed that skills gained far from home can become strength for your own country. His family gave his old school in Seleshchyna an obstacle course and a laser range.
+Yevhenii Brakh knew from childhood what he wanted to be, and kept at it, even when that meant joining a foreign army without speaking its language. In 2022 he had a settled life in France, and he came home to defend Ukraine. He brought what he had learned abroad to Ukraine’s defence, including the preparations for the Snake Island operation. He showed that skills gained far from home can become strength for your own country, and anyone studying or working abroad can bring theirs back to Ukraine.

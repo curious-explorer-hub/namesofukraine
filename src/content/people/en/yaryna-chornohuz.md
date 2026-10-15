@@ -19,7 +19,7 @@ quotes:
 
 ## Poems between missions
 
-How do you write poetry at the front? Yaryna Chornohuz says: “on the out-breath after a completed mission.” That is how her book “[dasein: the defence of presence]” (2023) came about. In March 2024 it won the Taras Shevchenko National Prize, Ukraine’s highest award for the arts. When the government announced the winners, it described the author simply as a member of the Armed Forces.
+How do you write poetry at the front? Yaryna Chornohuz says: “on the out-breath after a completed mission.” That is how her book “[dasein: the defence of presence]” (2023) came about. In March 2024 it won the Taras Shevchenko National Prize, Ukraine’s highest award for the arts. When the government announced the winners, it described the author simply as a member of the Armed Forces. “[dasein]” was translated into French, and in 2026 it won the Alain Bosquet Prize in Paris.
 
 ## Ukrainian from the start
 
@@ -27,8 +27,8 @@ Yaryna was born in 1995 in Kyiv, into a family of bandura players. Her grandfath
 
 ## From volunteer to Marine
 
-Yaryna first went to Donbas as a volunteer paramedic with the Hospitallers battalion. There she met a soldier, Mykola Sorochuk (“Krasnyi”). In January 2020 he was killed by a sniper. Yaryna organised a three-month protest in Kyiv, “Spring on Granite”, and then signed a military contract. She became a combat medic in the 140th Separate Reconnaissance Battalion of the Marine Corps, call sign “Yara”. When the full-scale invasion began she fought near Sievierodonetsk, and later in the Donetsk and Kherson regions.
+Yaryna first went to Donbas as a volunteer paramedic with the Hospitallers battalion. There she met a soldier, Mykola Sorochuk (“Krasnyi”). In January 2020 he was killed by a sniper. Yaryna organised a three-month protest in Kyiv, “Spring on Granite”, and then signed a military contract. She dedicated her first collection, “How the War Circle Bends”, to him. She became a combat medic in the 140th Separate Reconnaissance Battalion of the Marine Corps, call sign “Yara”. When the full-scale invasion began she fought near Sievierodonetsk, and later in the Donetsk and Kherson regions.
 
 ## Why it matters today
 
-Yaryna Chornohuz writes about the war from the inside, as someone who saves the wounded under fire. Her poems, written “on the out-breath after a completed mission,” won Ukraine’s highest award for the arts, and the government described their author simply as a member of the Armed Forces. She dedicated her first collection, “How the War Circle Bends”, to Mykola Sorochuk. “[dasein]” was translated into French, and in 2026 it won the Alain Bosquet Prize in Paris, carrying a Ukrainian soldier’s voice far beyond the front line. Her path shows that service and writing need not exclude each other: one can defend a country and give it new poetry.
+Yaryna Chornohuz writes about the war from the inside, as someone who saves the wounded under fire. Ukraine’s top arts prize went to a serving soldier, and her poems have been heard far beyond the front line, as far as Paris. Her path shows that service and writing need not exclude each other: one can defend a country and give it new poetry. And the girl who kept being asked “Why do you speak Ukrainian?” has answered with her poems.

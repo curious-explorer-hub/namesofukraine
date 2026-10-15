@@ -34,8 +34,8 @@ Andriana is one of six women featured in “Invisible Battalion”, a documentar
 
 ## Back in uniform
 
-In 2022 Andriana went back to the army. And, according to the Women Veterans Movement, her military ID once again said “seamstress”.
+Andriana went back to the army in 2022. And, according to the Women Veterans Movement, her military ID once again said “seamstress”.
 
 ## Why it matters today
 
-Andriana Susak-Arekhta fought at a time when women were not even allowed to hold combat posts officially. “Invisible Battalion”, the film in which she is one of the heroines, campaigned for that to change, and in 2018 women were allowed into combat roles. The Women Veterans Movement she helped found stands up for servicewomen and veterans and plants Alleys of Memory for fallen women defenders. Her story shows that women fight alongside men, and that this should show not only on the battlefield but on paper too. Every woman serving today can build on what she and other veterans achieved.
+Andriana Susak-Arekhta fought at a time when, on paper, women at war barely existed. She and other women veterans made that change: women can now hold combat posts officially, and the Women Veterans Movement she helped found stands up for their rights. Her story shows that women defend Ukraine alongside men, and that this should show not only on the battlefield but in the records too. Every woman serving today can build on what they achieved.

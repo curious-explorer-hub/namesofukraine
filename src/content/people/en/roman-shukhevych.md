@@ -25,7 +25,7 @@ Shukhevych was born in 1907 in Lviv (some sources say in the small town of Krako
 
 ## A war between two empires
 
-In 1941 he served in the Nachtigall Battalion, formed by the Abwehr, German military intelligence, from Ukrainian nationalists. After it was disbanded, until the end of 1942 he was deputy commander of Schutzmannschaft Battalion 201, an auxiliary police unit under German command, in Belarus. In 1943 Shukhevych took over the UPA. It fought the Nazi occupiers, Soviet partisans and the Polish underground, and after 1944 mainly Soviet rule. In 1944 he was also elected head of the General Secretariat of the Ukrainian Supreme Liberation Council. From 1945 his personal courier was [Kateryna Zarytska](/en/people/kateryna-zarytska/).
+He served in 1941 in the Nachtigall Battalion, formed by the Abwehr, German military intelligence, from Ukrainian nationalists. After it was disbanded, until the end of 1942 he was deputy commander of Schutzmannschaft Battalion 201, an auxiliary police unit under German command, in Belarus. In 1943 Shukhevych took over the UPA. It fought the Nazi occupiers, Soviet partisans and the Polish underground, and after 1944 mainly Soviet rule. In 1944 he was also elected head of the General Secretariat of the Ukrainian Supreme Liberation Council. From 1945 his personal courier was [Kateryna Zarytska](/en/people/kateryna-zarytska/).
 
 On 5 March 1950 officers of the MGB surrounded his hideout in the village of Bilohorshcha near Lviv. Shukhevych was killed in the fighting.
 
@@ -35,4 +35,4 @@ Assessments of Shukhevych are divided. Historians debate his service in German u
 
 ## Why it matters today
 
-An engineer and musician by training, Roman Shukhevych joined the underground young: first the Ukrainian Military Organization, then the OUN. As “Taras Chuprynka” he took command of the Ukrainian Insurgent Army in 1943, and in 1944 also headed the General Secretariat of the Ukrainian Supreme Liberation Council. For almost six years he led an armed underground against Soviet rule. His story shows that the 20th-century fight for independence was waged between two totalitarian empires. An honest conversation about the past has to include both heroism and tragedy, so his story is worth knowing in full: why he matters to many, and what historians still debate.
+For almost six years Roman Shukhevych led the armed underground against Soviet rule, and for many Ukrainians his name became a symbol of long resistance. His story shows that the 20th-century fight for independence was waged between two totalitarian empires. An honest conversation about the past has to include both heroism and tragedy. So his story is worth knowing in full: why he matters to many, and what historians still debate.

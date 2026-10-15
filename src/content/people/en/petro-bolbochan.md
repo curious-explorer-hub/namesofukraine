@@ -18,7 +18,7 @@ quotes:
 
 ## Twenty Cossacks on a rail trolley
 
-In April 1918 the government of the Ukrainian People’s Republic (UNR) secretly ordered its Zaporozhian troops to take Crimea ahead of the German army, which was then advancing into Ukraine, and to seize the Black Sea Fleet. Colonel Petro Bolbochan led the Crimean Group. On 22 April some twenty Cossacks with machine guns sped across the Chonhar bridge on a rail trolley before the Bolsheviks could destroy it. The Zaporozhians went on to take Dzhankoi, Simferopol and Bakhchysarai. On 29 April Ukrainian flags were raised over several ships of the Black Sea Fleet in Sevastopol.
+The government of the Ukrainian People’s Republic (UNR) gave a secret order in April 1918: its Zaporozhian troops were to take Crimea ahead of the German army, which was then advancing into Ukraine, and seize the Black Sea Fleet. *(rest of section unchanged)* Colonel Petro Bolbochan led the Crimean Group. On 22 April some twenty Cossacks with machine guns sped across the Chonhar bridge on a rail trolley before the Bolsheviks could destroy it. The Zaporozhians went on to take Dzhankoi, Simferopol and Bakhchysarai. On 29 April Ukrainian flags were raised over several ships of the Black Sea Fleet in Sevastopol.
 
 But the German command demanded that the Ukrainian units leave the peninsula. After two days of talks, Kyiv ordered them to comply, and the Zaporozhians pulled back to Melitopol.
 
@@ -34,8 +34,8 @@ After the retreat from the Left Bank, Bolbochan was relieved of command. On 24 J
 
 ## Debates and assessments
 
-Historians are still divided over the Bolbochan case, as the title of a 1999 article shows: “Petro Bolbochan: who was he? An active organiser of the defence of Ukrainian statehood, or a traitor to the Ukrainian people?” Some scholars write that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
+Historians are still divided over the Bolbochan case: some see him as an active organiser of the defence of Ukrainian statehood, others as a traitor. *(rest of section unchanged)* Some scholars write that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
 
 ## Why it matters today
 
-Petro Bolbochan was among those who built a Ukrainian army in 1917. His Crimean campaign is one of the UNR Army’s most successful operations: a week after his men raced across the Chonhar bridge, Ukrainian flags went up over ships of the Black Sea Fleet in Sevastopol. Kyiv later ordered the troops out at the German command’s demand, but the campaign showed what the young republic’s army could do. He stated his aim plainly in an order to his troops: “We are fighting for an independent democratic Ukrainian Republic, not for a united Russia.” Since 2020 the 3rd Operational Brigade of the National Guard of Ukraine has borne his name.
+Petro Bolbochan was among those who built a Ukrainian army in 1917, and his Crimean campaign showed what the young republic’s army could do. The Ukrainian flags over the ships in Sevastopol are a reminder that Ukraine was already fighting for Crimea and the fleet in 1918. He stated his aim plainly in an order to his troops: “We are fighting for an independent democratic Ukrainian Republic, not for a united Russia.” Since 2020 the 3rd Operational Brigade of the National Guard of Ukraine has borne his name, so his cause is carried on by those who defend Ukraine today.

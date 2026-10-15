@@ -18,7 +18,7 @@ quotes:
 
 ## The painting in his office
 
-On 7 February 2023, the day parliament appointed him head of the Security Service of Ukraine (SBU), Vasyl Maliuk told MPs about a painting in his office. It shows Cossack Mamai, a hero of Ukrainian folk epic, sitting with a bandura on the skulls of Ukraine’s enemies. “So death is the only prospect we can offer the occupiers,” Maliuk concluded.
+On the day parliament appointed him head of the Security Service of Ukraine (SBU), 7 February 2023, Vasyl Maliuk told MPs about a painting in his office. It shows Cossack Mamai, a hero of Ukrainian folk epic, sitting with a bandura on the skulls of Ukraine’s enemies. “So death is the only prospect we can offer the occupiers,” Maliuk concluded.
 
 ## From field officer to head of the SBU
 
@@ -36,4 +36,4 @@ In early January 2026 Maliuk stepped down as head of the SBU, and on 13 January 
 
 ## Why it matters today
 
-The SBU’s strikes under Maliuk showed that a war can be fought far beyond the front line. The service blew up the Crimean Bridge twice, hit 11 Russian warships and began fighting with sea drones. The exchange of Medvedchuk, whose capture is credited to Maliuk, brought the commanders of the Azovstal defence home, and Maliuk met the freed soldiers in person. Spiderweb hit more than 40 strategic aircraft that Russia had used to launch missiles at Ukraine; it has been compared, as a surprise asymmetric strike, with the Doolittle Raid of 1942. These operations showed that an enemy can be answered where it least expects it.
+The SBU’s strikes under Maliuk showed that a war can be fought far beyond the front line. Sea drones, the bombed Crimean Bridge and Spiderweb proved that ingenuity and precise planning make it possible to answer an enemy where it least expects it. And the capture of Medvedchuk, credited to Maliuk, made it possible to bring the commanders of the Azovstal defence home. These operations are a reminder that a bold idea can be carried out even against a bigger enemy.

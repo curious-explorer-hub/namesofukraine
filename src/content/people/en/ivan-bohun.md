@@ -29,4 +29,4 @@ In 1662 the Poles imprisoned Bohun in the fortress of Marienburg (today Malbork 
 
 ## Why it matters today
 
-Ivan Bohun showed what to do when all seems lost: at Berestechko, after the khan betrayed the Cossacks and captured [Bohdan Khmelnytskyi](/en/people/bohdan-khmelnytskyi/), the encircled army chose him as acting hetman, and he led most of it out. He beat Polish forces at Vinnytsia and Monastyryshche, and after the Pereiaslav Council he refused to swear allegiance to the Muscovite tsar. Nor would he accept [Ivan Vyhovskyi](/en/people/ivan-vyhovskyi/)’s pro-Polish policy. Bohun stood up for Ukraine’s self-rule against both Poland and Moscow, and people kept his memory alive in the historical duma “Ivan Bohun.” Anyone who stands up today for Ukraine’s right to decide for itself has a forerunner in him.
+Ivan Bohun showed that even when all seems lost, you can find a way out and save your own people. He stood up for Ukraine’s right to decide its own fate against both Poland and Moscow. Anyone who stands up for that right today has a forerunner in him.

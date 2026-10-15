@@ -27,10 +27,10 @@ Krymskyi studied Arabic at the Lazarev Institute of Oriental Languages in Moscow
 
 ## How an Orientalist built an academy
 
-In 1918 [Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) invited him to Kyiv to help draft the law on the Ukrainian Academy of Sciences. The academy was founded under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), and Krymskyi became one of its first academicians and its permanent secretary. He supervised The Main Rules of Ukrainian Orthography (1921).
+[Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) invited him to Kyiv in 1918 to help draft the law on the Ukrainian Academy of Sciences. The academy was founded under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), and Krymskyi became one of its first academicians and its permanent secretary. He supervised The Main Rules of Ukrainian Orthography (1921).
 
 After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts. In July 1941 the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); the date is given as 25 January 1942. He was rehabilitated in 1957.
 
 ## Why it matters today
 
-Krymskyi showed that Ukrainian scholarship could be world-class and still speak Ukrainian. He laid the foundations of Oriental studies in Ukraine and translated from Arabic, Persian and Turkish. He did so much for the young Academy of Sciences that its staff jokingly called it the “Krymskyi Academy”; he supervised the rules of Ukrainian orthography and refuted the claim that the language of ancient Kyiv was not Ukrainian. A man of Crimean Tatar and Belarusian roots, he called himself a conscious Ukrainian. The Institute of Oriental Studies of the National Academy of Sciences of Ukraine bears his name.
+Ahatanhel Krymskyi proved that Ukrainian scholarship could be world-class and still speak Ukrainian. Thanks to the Oriental studies he founded, Ukraine began to study the Arab world, Turkey and Persia on its own terms and in its own language. The spelling rules drawn up under his direction gave written Ukrainian a shared standard. A man of Crimean Tatar and Belarusian roots, he called himself a conscious Ukrainian: being Ukrainian is a choice, not only a matter of birth. Today Ukraine’s Institute of Oriental Studies bears his name.

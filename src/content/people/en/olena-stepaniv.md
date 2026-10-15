@@ -21,7 +21,7 @@ In 1914, when the Ukrainian Sich Riflemen Legion was being formed in Lviv, Olena
 
 ## An officer for the battle of Makivka
 
-In May 1915 the Legion fought the battle for Mount Makivka in the Carpathians. Stepaniv fought in it, was decorated for bravery, and promoted to khorunzha - a junior officer rank. Weeks later, on 30 May 1915, she was captured and sent to Tashkent, where she spent the next two years as a prisoner of war.
+The Legion fought the battle for Mount Makivka in the Carpathians in May 1915. Stepaniv fought in it, was decorated for bravery, and promoted to khorunzha - a junior officer rank. Weeks later, on 30 May 1915, she was captured and sent to Tashkent, where she spent the next two years as a prisoner of war.
 
 Back from captivity in 1918, Stepaniv joined the Legion's Supreme Military Board, which organized the November uprising of Ukrainians in Lviv against Austro-Hungarian rule. Through 1918 and 1919 she commanded a platoon in the Ukrainian Galician Army.
 
@@ -31,8 +31,8 @@ After the war Stepaniv earned a doctorate in history and geography from the Univ
 
 ## Ten years in a labour camp
 
-In 1949 the Soviet authorities sentenced Stepaniv to ten years for "Ukrainian nationalism" and sent her to a labour camp in Mordovia. Her property was confiscated and her documents destroyed. She returned to Lviv only in 1956 and died there in 1963; she is buried at Lychakiv Cemetery.
+The Soviet authorities sentenced Stepaniv in 1949 to ten years for "Ukrainian nationalism" and sent her to a labour camp in Mordovia. Her property was confiscated and her documents destroyed. She returned to Lviv only in 1956 and died there in 1963; she is buried at Lychakiv Cemetery.
 
 ## Why it matters today
 
-Olena Stepaniv disguised herself as a man to join the Sich Riflemen Legion, and her bravery at Makivka earned her officer rank, which very few women held in any army of the First World War. She fought for a Ukrainian state and helped prepare the November uprising; after the war she helped build Ukrainian geography: a Vienna doctorate, over 75 scholarly works, teaching in Lviv. Banned from the classroom, she went on working for Ridna Shkola. She paid for it with ten years of unfreedom. Her story is a reminder that the “firsts” of Ukrainian history often earned that word not through one feat, but through an entire life.
+Olena Stepaniv proved you can fight for Ukraine even when they won’t let you into the ranks: she became one of very few women officers in any army of the First World War. After the war she built Ukrainian scholarship and schooling just as stubbornly, and when she was banned from teaching, she found another way to serve education. Neither a Polish ban nor a Soviet camp made her give it up. Her story is a reminder that the “firsts” of Ukrainian history often earned that word not through one feat, but through an entire life.

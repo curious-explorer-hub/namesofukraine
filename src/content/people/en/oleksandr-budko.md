@@ -23,11 +23,11 @@ Oleksandr Budko comes from Rivne. Before the full-scale war he studied graphic d
 
 ## New legs in three months
 
-In August 2022, in the fighting in the Kharkiv region, Oleksandr was badly wounded and lost both legs. He went through rehabilitation and got his prostheses in the United States. About three months after he was wounded, he was standing on prosthetic legs. Later he began visiting wounded soldiers in hospital, cheering them up and advising them on how to choose a prosthesis or get help from the state.
+Oleksandr was badly wounded in August 2022, in the fighting in the Kharkiv region, and lost both legs. He went through rehabilitation and got his prostheses in the United States. About three months after he was wounded, he was standing on prosthetic legs. Later he began visiting wounded soldiers in hospital, cheering them up and advising them on how to choose a prosthesis or get help from the state.
 
 ## Medals in the pool
 
-In September 2023, at the Invictus Games in Düsseldorf, Oleksandr won bronze in the 50-metre freestyle. He also competed for Ukraine at the 2025 Games in Vancouver and Whistler. In January 2026 the President awarded him the Order For Merit, 3rd class, as a silver and bronze medallist in swimming at the Invictus Games.
+At the Invictus Games in Düsseldorf in September 2023, Oleksandr won bronze in the 50-metre freestyle. He also competed for Ukraine at the 2025 Games in Vancouver and Whistler. In January 2026 the President awarded him the Order For Merit, 3rd class, as a silver and bronze medallist in swimming at the Invictus Games.
 
 ## The fight goes on
 
@@ -35,4 +35,4 @@ Oleksandr Budko works to make Ukraine barrier-free and more inclusive, starting 
 
 ## Why it matters today
 
-The war has left tens of thousands of Ukrainians without an arm or a leg. Oleksandr shows them, and everyone else, that a wound doesn’t cancel sport, creative work or ordinary life: three months after his wound he stood on prosthetic legs, and a year later won an Invictus Games medal. He visits the wounded in hospital to advise on prostheses and state help, and his videos and book, The Story of a Stubborn Man, cheerfully show life on prostheses. “Inclusivity is not about pity,” he says, “it is about equal rights and comfort for everyone.” Anyone making their street or school easier to get around carries on his work.
+Oleksandr shows everyone who has come back from the war wounded, and everyone else, that a wound doesn’t cancel sport, creative work or ordinary life. He gives the wounded what they need most at the start: a living example and advice from someone who has been down the same road. “Inclusivity is not about pity,” he says, “it is about equal rights and comfort for everyone.” Anyone making their street or school easier to get around carries on his work.

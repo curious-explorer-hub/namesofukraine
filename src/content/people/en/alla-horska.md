@@ -28,14 +28,14 @@ In 1962–1963 Horska, [Vasyl Symonenko](/en/people/vasyl-symonenko/) and [Les T
 
 ## A window that was smashed
 
-In 1964 Horska, [Opanas Zalyvakha](/en/people/opanas-zalyvakha/) and other artists made a stained-glass window for Kyiv University, Shevchenko. Mother: an angry Shevchenko with his arm around a wronged woman, an image of Ukraine. The administration called it “ideologically hostile” and destroyed it, and Horska was expelled from the Union of Artists. In the 1960s her mosaics also went up in Donetsk and Mariupol, among them on School No. 5 in Donetsk.
+For Kyiv University, Horska, [Opanas Zalyvakha](/en/people/opanas-zalyvakha/) and other artists made a stained-glass window in 1964, Shevchenko. Mother: an angry Shevchenko with his arm around a wronged woman, an image of Ukraine. The administration called it “ideologically hostile” and destroyed it, and Horska was expelled from the Union of Artists. In the 1960s her mosaics also went up in Donetsk and Mariupol, among them on School No. 5 in Donetsk.
 
 ## Beside those on trial
 
-From 1965, when her friends began to be arrested, Horska wrote protests, helped political prisoners’ families and wrote to prisoners. In 1967 she went to Lviv for the trial of [Viacheslav Chornovil](/en/people/viacheslav-chornovil/), and in 1968 she signed the “letter of 139” against unlawful trials and lost her Union membership a second time.
+When her friends began to be arrested in 1965, Horska wrote protests, helped political prisoners’ families and wrote to prisoners. In 1967 she went to Lviv for the trial of [Viacheslav Chornovil](/en/people/viacheslav-chornovil/), and in 1968 she signed the “letter of 139” against unlawful trials and lost her Union membership a second time.
 
 On 28 November 1970 Alla Horska was killed in Vasylkiv, near Kyiv. She was 41. The investigation named her father-in-law as the killer; according to that version he died too, and the case was closed. The circumstances have never been cleared up, and after 1991 Ukraine’s prosecutors and security service, despite public calls, did not release information about her death.
 
 ## Why it matters today
 
-Alla Horska showed that being Ukrainian can be a choice: as an adult she learned the language no one had taught her as a child and made it her own. The Suchasnyk club she helped found became a home for the Sixtiers. With friends she tracked down the places where the NKVD had secretly buried the people it shot, so that the truth about them would not vanish. She believed colour was “the soul, the history of a people”, and she did not stay silent when her friends were put on trial. Even her funeral became a gathering of Sixtiers: [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/), [Vasyl Stus](/en/people/vasyl-stus/) and others spoke, and they were later arrested.
+Alla Horska showed that being Ukrainian can be a choice: as an adult she learned the language no one had taught her as a child and made it her own. The Suchasnyk club she helped found became a home for the Sixtiers. She sought the truth about the people the NKVD had shot, and she did not stay silent when her friends were put on trial. She believed colour was “the soul, the history of a people”, and she made her art a voice for that history. Anyone who chooses Ukrainian today, even after growing up without it, follows her path.

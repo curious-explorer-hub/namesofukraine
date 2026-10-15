@@ -18,13 +18,15 @@ image_alt: "Portrait of Petro Konashevych-Sahaidachnyi by Havrylo Vasko, mid-19t
 
 ## The raid on Kaffa
 
-In the summer of 1616 about 4,000 Cossacks landed near Kaffa in Crimea. It was a strong Turkish fortress and a great slave market. The Cossacks took the city, home to some 80,000 people, and freed many Christian captives. They were led by their newly elected hetman, Petro Konashevych-Sahaidachnyi.
+About 4,000 Cossacks landed near Kaffa in Crimea in the summer of 1616. It was a strong Turkish fortress and a great slave market. The Cossacks took the city, home to some 80,000 people, and freed many Christian captives. They were led by their newly elected hetman, Petro Konashevych-Sahaidachnyi.
 
 He was born in the village of Kulchytsi near Sambir in the Lviv region; the exact date is unknown, and about 1582 is usually given. He studied at the Ostroh school and then left for the Zaporozhian Sich.
 
 ## From a free host to an army
 
 Sahaidachnyi reformed the Cossack forces: he divided them into companies and regiments, imposed strict discipline and banned drinking on sea campaigns. In 1618 he led a 20,000-strong army to support Prince Władysław’s campaign against Moscow.
+
+The hetman cared about more than the army. He joined the Kyiv Brotherhood together with the entire Zaporozhian Host, supported the brotherhood school, and in 1620 helped restore the Orthodox hierarchy.
 
 In 1621 at Khotyn about 40,000 Cossacks under Sahaidachnyi, together with the Polish-Lithuanian army, stopped the Ottoman forces. This wrecked Sultan Osman II’s offensive against the Commonwealth. The hetman was badly wounded in the war and died in Kyiv the following year.
 
@@ -34,4 +36,4 @@ Sahaidachnyi kept a moderate course towards the Polish-Lithuanian Commonwealth a
 
 ## Why it matters today
 
-Sahaidachnyi turned a free Cossack host into a disciplined army of companies and regiments. That army freed captives at Kaffa, and in 1621 at Khotyn, together with the Polish-Lithuanian forces, it stopped the Sultan’s offensive against the Commonwealth. At the same time he cared for education and the church: he joined the Kyiv Brotherhood with the entire Zaporozhian Host, supported the brotherhood school that later grew into the Kyiv-Mohyla Academy, helped restore the Orthodox hierarchy and left a large fortune to education in his will. He showed that military strength and learning can serve the same cause. The National Army Academy bears his name.
+Sahaidachnyi turned a free Cossack host into a disciplined army that freed captives and, at Khotyn, helped stop the Sultan’s offensive. At the same time he supported the school that later grew into the Kyiv-Mohyla Academy. He showed that military strength and learning can serve the same cause. Anyone who defends Ukraine today while also learning and building follows his path.

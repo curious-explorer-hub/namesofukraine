@@ -17,7 +17,7 @@ image_alt: "Photograph of Serhii Korolov"
 
 ## From Kolyma to space
 
-In 1938 Serhii Korolov was arrested without grounds during Stalin’s terror and sentenced to 10 years. He went through interrogations and a labor camp in Kolyma, then worked in a prison design bureau. Two decades later, the first human flew into space under his leadership.
+Serhii Korolov was arrested without grounds in 1938, during Stalin’s terror, and sentenced to 10 years. He went through interrogations and a labor camp in Kolyma, then worked in a prison design bureau. Two decades later, the first human flew into space under his leadership.
 
 ## A boy hooked on rockets
 
@@ -29,4 +29,4 @@ After his release in 1944 Korolov became chief designer of long-range ballistic 
 
 ## Why it matters today
 
-A Zhytomyr-born engineer who once fell for gliders and rockets led the work that opened the way to space: under his leadership the R-7 rocket was built, which put the first Earth satellite into orbit, then the Vostok spacecraft with Yuri Gagarin. Yet Korolov worked for the state that had thrown him into a Kolyma labor camp without grounds and kept his name secret while he lived. His story is about the talent of a man born in Ukraine who changed human history, and about how a totalitarian system used and silenced its creators. Today that name can, and should, be spoken aloud.
+Serhii Korolov, a man born in Ukraine, led the work that opened the way to space: the first satellite and the first human in orbit. His fate shows something else too: a totalitarian state threw him into a labor camp, then used his talent and hid his name. Today that name can, and should, be spoken aloud, and Ukraine can be proud that the road to the stars was laid by a boy from Zhytomyr. For anyone fascinated by machines, he is proof that a young man’s love of gliders can open a new road for all of humankind.

@@ -28,4 +28,4 @@ On 13 March 2022 Major Stepan Tarabalka was killed in an air battle over Zhytomy
 
 ## Why it matters today
 
-Stepan Tarabalka learned the trumpet at music school but dreamed of the sky, and he followed that dream all the way. At 13 the village boy from near Kolomyia left for a military lyceum, then graduated from the Air Force university and became a MiG-29 pilot. When the full-scale invasion began, the dream became duty: in the first weeks of the war he took to the air again and again to defend Ukraine’s sky. His story doesn’t need the “Ghost of Kyiv” legend; what he really did is enough. The school where his dream of flying began now has a museum to him.
+Stepan Tarabalka showed that a childhood dream of the sky can become work that protects a whole country. The village boy from near Kolomyia pursued it from the age of 13 and became a fighter pilot. When the full-scale invasion began, the dream became duty: he took to the air again and again to defend Ukraine’s sky. His story doesn’t need the “Ghost of Kyiv” legend; what he really did is enough.

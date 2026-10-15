@@ -22,10 +22,10 @@ Serhii was born on 16 December 1995 in Lebedyn, in the Sumy region, and went to 
 
 ## "Sievier" at the airport
 
-In summer 2014 Serhii went through training at a "Right Sector" camp and headed east as a volunteer of the 5th Battalion of the Ukrainian Volunteer Corps. His call sign was "Sievier" - "North". On 28 August he was wounded during an assault on the positions at Donetsk airport; he did not want to leave his comrades and went for treatment only on his commander's order. Once he had recovered, he went back to the airport. Another volunteer from the same battalion, [Sviatoslav Horbenko](/en/people/sviatoslav-horbenko/), also fought there.
+After the Maidan, in summer 2014, Serhii went through training at a "Right Sector" camp and headed east as a volunteer of the 5th Battalion of the Ukrainian Volunteer Corps. His call sign was "Sievier" - "North". On 28 August he was wounded during an assault on the positions at Donetsk airport; he did not want to leave his comrades and went for treatment only on his commander's order. Once he had recovered, he went back to the airport. Another volunteer from the same battalion, [Sviatoslav Horbenko](/en/people/sviatoslav-horbenko/), also fought there.
 
 Serhii Tabala was killed on 6 November 2014 defending the control tower of Donetsk airport. He was 18.
 
 ## Why it matters today
 
-Serhii Tabala was 17 when he took his place on the Maidan barricades and 18 when he defended Donetsk airport. The trainee pastry cook from Sumy led a squad on the Maidan, and in summer 2014 he volunteered to go east. Wounded, he did not want to leave his comrades, went for treatment only on his commander’s order, and went straight back to the airport once he had recovered. He showed that taking responsibility for your country doesn’t have to wait until you’re grown up. The decree that posthumously made him a Hero of Ukraine honours both parts of his path: the Maidan and the front.
+Serhii Tabala was 17 when he took his place on the Maidan barricades and 18 when he defended Donetsk airport. He showed that taking responsibility for your country doesn’t have to wait until you’re grown up, and that standing by your comrades matters more than your own safety. The decree that posthumously made him a Hero of Ukraine honours both of his choices: the Maidan and the front. Anyone who thinks they are too young to make a difference can remember the trainee pastry cook from Sumy.

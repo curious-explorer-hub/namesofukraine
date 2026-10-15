@@ -23,10 +23,10 @@ Even before the full-scale invasion, Kateryna went on front-line rotations with 
 
 ## Near Makariv
 
-In spring 2022 the brigade was fighting in Kyiv oblast, near Makariv. On 8 March Kateryna carried wounded soldiers out under fire, among them a platoon commander, and gave them first aid. By one account, at least one wounded soldier survived only thanks to Katia.
+The brigade was fighting near Makariv, in Kyiv oblast, in spring 2022. On 8 March Kateryna carried wounded soldiers out under fire, among them a platoon commander, and gave them first aid. By one account, at least one wounded soldier survived only thanks to Katia.
 
 Medical service sergeant Kateryna Stupnytska was killed on 8 March 2022 in a Russian air strike on the village of Nalyvaikivka in Kyiv oblast. She was 25.
 
 ## Why it matters today
 
-Kateryna Stupnytska made her own choice: at 20 she walked into the enlistment office. From 2016 she was a medical instructor in the 14th Brigade, went on front-line rotations with it even before the full-scale invasion, and alongside her service studied physical therapy: how to help the wounded move again. Near Makariv she carried the wounded out under fire and gave them first aid; by one account, at least one of them survived only thanks to her. Her story shows what one medic in her place means: lives saved. She was made a Hero of Ukraine posthumously.
+Kateryna Stupnytska chose military medicine herself at 20 and stood beside soldiers long before the full-scale invasion. Near Makariv she carried the wounded out under fire, and by one account at least one of them survived only thanks to her. Her story shows what one medic in her place means: lives saved. Anyone learning today how to save others is following her path. She was made a Hero of Ukraine posthumously.

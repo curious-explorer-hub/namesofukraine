@@ -19,7 +19,7 @@ quotes:
 
 ## 72 days on death row
 
-In May 1961 a court in Lviv sentenced a 32-year-old lawyer, Levko Lukianenko, to death for “treason against the motherland.” His crime: with Ivan Kandyba, Stepan Virun and others he had founded the underground Ukrainian Workers' and Peasants' Union. It wanted to take Ukraine out of the USSR lawfully, through a referendum based on the Soviet constitutions. Lukianenko waited 72 days for his execution before the sentence was commuted to 15 years in the camps.
+A court in Lviv sentenced a 32-year-old lawyer, Levko Lukianenko, to death in May 1961 for “treason against the motherland.” His crime: with Ivan Kandyba, Stepan Virun and others he had founded the underground Ukrainian Workers' and Peasants' Union. It wanted to take Ukraine out of the USSR lawfully, through a referendum based on the Soviet constitutions. Lukianenko waited 72 days for his execution before the sentence was commuted to 15 years in the camps.
 
 He was born in 1928 in the village of Khrypivka in the Chernihiv region, into a peasant family. Drafted into the army as a teenager, he went on to graduate from the Faculty of Law at Moscow University and was sent to do party work in Lviv region. That is where his underground struggle began.
 
@@ -29,7 +29,7 @@ Lukianenko served his sentence in labor camps in Mordovia and Perm and in Vladim
 
 ## The document that started a state
 
-In 1990 Lukianenko became head of the Ukrainian Republican Party, a member of parliament and a co-author of the Declaration of State Sovereignty. He wrote the Act of Declaration of Independence of Ukraine, which the Verkhovna Rada adopted on 24 August 1991. Later that year he came third in the first presidential election; he then became Ukraine’s first ambassador to Canada and was elected to parliament three more times. He was made a Hero of Ukraine in 2005 and received the Shevchenko Prize in 2016. He died in 2018.
+Lukianenko became head of the Ukrainian Republican Party in 1990, as well as a member of parliament and a co-author of the Declaration of State Sovereignty. He wrote the Act of Declaration of Independence of Ukraine, which the Verkhovna Rada adopted on 24 August 1991. Later that year he came third in the first presidential election; he then became Ukraine’s first ambassador to Canada and was elected to parliament three more times. He was made a Hero of Ukraine in 2005 and received the Shevchenko Prize in 2016. He died in 2018.
 
 ## Debates and assessments
 
@@ -37,4 +37,4 @@ In his later years Lukianenko was harshly criticized for xenophobic statements a
 
 ## Why it matters today
 
-Lukianenko defended Ukraine’s right to leave the USSR at a time when it could get him shot. His underground union looked for a lawful way to do it, a referendum based on the Soviet constitutions, and for that he spent 72 days waiting to be executed. Released after his first term, he co-founded the Ukrainian Helsinki Group that same year and was soon behind bars again. Three decades after his death sentence, he was the one who wrote the document with which independent Ukraine began. His story shows that an idea once punished as “treason” can become the foundation of a state.
+Lukianenko defended Ukraine’s right to leave the USSR at a time when it could get him shot, and he looked for a lawful way to do it. Neither a death sentence nor more than a quarter of a century in camps and exile made him give that idea up. And in 1991 he was the one who wrote the document with which independent Ukraine began. His story shows that an idea once punished as “treason” can become the foundation of a state.

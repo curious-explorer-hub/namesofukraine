@@ -24,16 +24,16 @@ Viacheslav was born in 1980 in the village of Ivanivka in the Zaporizhzhia regio
 
 ## Twice in the terminals
 
-In March 2014, in the first wave of mobilization, Zaitsev walked into the recruiting office himself. He had done his military service with an airborne unit in Bolhrad, so he was sent to the 79th Airmobile Brigade. He first stood guard on the boundary with Crimea near Chonhar, and from May fought in the Donetsk region.
+In the first wave of mobilization, in March 2014, Zaitsev walked into the recruiting office himself. He had done his military service with an airborne unit in Bolhrad, so he was sent to the 79th Airmobile Brigade. He first stood guard on the boundary with Crimea near Chonhar, and from May fought in the Donetsk region.
 
 He defended Donetsk airport twice, in October and November 2014, in the same brigade as [Valerii Chybinieiev](/en/people/valerii-chybinieiev/) and [Pavlo Chaika](/en/people/pavlo-chaika/). In early October he was wounded in the old terminal, but his body armor saved him and he stayed another week: by then he was the only grenadier left, and his shots silenced enemy machine guns a few dozen meters away. He was awarded the Order for Courage, 3rd class.
 
 ## Historian, councillor, soldier
 
-In 2015 Zaitsev was demobilized and went back to the work he loved. He was twice elected to Zaporizhzhia city council, helped fellow veterans and kept studying the monuments of the Zaporozhian Cossacks. On 23 February 2022, the day before the full-scale invasion, he told a city council session that he had received his call-up papers. He fought on the Zaporizhzhia and Donetsk fronts.
+Demobilized in 2015, Zaitsev went back to the work he loved. He was twice elected to Zaporizhzhia city council, helped fellow veterans and kept studying the monuments of the Zaporozhian Cossacks. On 23 February 2022, the day before the full-scale invasion, he told a city council session that he had received his call-up papers. He fought on the Zaporizhzhia and Donetsk fronts.
 
 Viacheslav Zaitsev was killed on 5 October 2022 in the Donetsk region. He was 42.
 
 ## Why it matters today
 
-For years Viacheslav Zaitsev told tourists and schoolchildren about Khortytsia and the Zaporozhian Cossacks. In spring 2014 he walked into the recruiting office himself, and at Donetsk airport, wounded, he stayed with his comrades because he was the only grenadier left. Back home he was twice elected to Zaporizhzhia city council, helped fellow veterans and kept studying Cossack monuments, and in 2022 he went to the front again. He showed that loving your land’s history can become the will to defend it. And he said himself that he was not alone: “there are many of us here.” On Khortytsia a memorial with a sword now stands in his honor.
+For years Viacheslav Zaitsev taught tourists and schoolchildren to love the history of Khortytsia and the Zaporozhian Cossacks, and when war came he stood up to defend that land himself. He had peaceful work he loved, and still he went to the front twice, in 2014 and in 2022. He showed that loving your land’s history can become the will to defend it. And he said himself that he was not alone: “there are many of us here.” Today a memorial to him stands on Khortytsia, the island he told children about.

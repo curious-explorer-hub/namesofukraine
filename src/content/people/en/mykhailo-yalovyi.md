@@ -20,7 +20,7 @@ Yulian Shpol was the name on the books of one of the best-known writers in 1920s
 
 ## Futurist, poet, novelist
 
-In 1921 Yalovyi, [Mykhailo Semenko](/en/people/mykhail-semenko/) and Vasyl Aleshko founded the Combat Group of Futurist Poets. Then came his poetry collection Verkhy (The Peaks, 1923), the comedy Katia’s Love, or Building Propaganda (1928) and the novel Golden Fox Cubs (1929).
+With [Mykhailo Semenko](/en/people/mykhail-semenko/) and Vasyl Aleshko, Yalovyi founded the Combat Group of Futurist Poets in 1921. Then came his poetry collection Verkhy (The Peaks, 1923), the comedy Katia’s Love, or Building Propaganda (1928) and the novel Golden Fox Cubs (1929).
 
 ## VAPLITE and Khvylovy
 
@@ -28,8 +28,8 @@ Yalovyi was a close friend and ally of [Mykola Khvylovy](/en/people/mykola-khvyl
 
 ## An arrest that sent a signal
 
-In May 1933 Yalovyi was arrested. Among other things, he was accused of being a Polish spy and a terrorist. His arrest marked the start of a purge of the Ukrainian intelligentsia led by the Communist Party official Pavel Postyshev. Soon after his friend’s arrest, Mykola Khvylovy took his own life. In the autumn of 1933 Yalovyi was sentenced to 10 years’ imprisonment, which he served on the Solovetsky Islands. On 9 October 1937 he was sentenced again, this time to death, and on 3 November 1937 he was shot. Sources differ on the place: most name the Sandarmokh forest in Karelia, while some name the town of Lodeynoye Pole. He was rehabilitated in 1957.
+Yalovyi was arrested in May 1933. Among other things, he was accused of being a Polish spy and a terrorist. His arrest marked the start of a purge of the Ukrainian intelligentsia led by the Communist Party official Pavel Postyshev. Soon after his friend’s arrest, Mykola Khvylovy took his own life. In the autumn of 1933 Yalovyi was sentenced to 10 years’ imprisonment, which he served on the Solovetsky Islands. On 9 October 1937 he was sentenced again, this time to death, and on 3 November 1937 he was shot. Sources differ on the place: most name the Sandarmokh forest in Karelia, while some name the town of Lodeynoye Pole. He was rehabilitated in 1957.
 
 ## Why it matters today
 
-Mykhailo Yalovyi was one of the people creating a new Ukrainian literature in 1920s Kharkiv: co-founder of a futurist group, poet, playwright and novelist. He became the first president of VAPLITE, and in the Literary Discussion he stood beside his friend [Mykola Khvylovy](/en/people/mykola-khvylovyi/) as one of its sharpest polemicists. In 1927 he took part in the conference that adopted a single standard Ukrainian spelling, so his work is part of the rules later generations wrote by. His arrest in 1933 was one of the first blows against the generation later called the Executed Renaissance. And in 2025 his pen name, Yulian Shpol, appeared on a commemorative coin.
+Mykhailo Yalovyi was one of the people creating a new Ukrainian literature in 1920s Kharkiv, from futurist verse to the novel. He took part in the conference that adopted a single standard Ukrainian spelling, so his work is part of the rules later generations wrote by. His arrest in 1933 was one of the first blows against the generation later called the Executed Renaissance. In 2025 his pen name, Yulian Shpol, appeared on a commemorative coin.

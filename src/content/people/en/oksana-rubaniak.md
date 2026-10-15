@@ -34,4 +34,4 @@ Ksena was wounded near Vuhledar in the Donetsk region, and after treatment she r
 
 ## Why it matters today
 
-Oksana Rubaniak went to defend Ukraine on the first day of the full-scale invasion, at 19. Her comrades doubted she could handle a machine gun, yet for a year and a half she was the only woman in her platoon; wounded, she returned to service and later recruited and trained her own drone platoon. She wrote her poems at the front: “Towards Death” has been called a trench diary in verse, and she dedicated “The Road of Life” to fallen comrades. A young soldier from the Carpathians, she tells the story of the war in the first person and keeps the memory of those who stood beside her.
+Oksana Rubaniak showed that anyone who dares can defend Ukraine: the young woman her comrades once doubted now leads a platoon and trains others. Her poems from the trenches tell the war in the first person, in the words of those who see it up close. That is how a young soldier from the Carpathians keeps alive the memory of comrades who are no longer beside her. Her own advice is simple: “don’t be afraid, believe in yourself and believe in our victory.”

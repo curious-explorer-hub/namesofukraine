@@ -19,7 +19,7 @@ quotes:
 
 ## 800 seats, and a few dozen who stood up
 
-On 4 September 1965 the Ukraina cinema in Kyiv was showing the premiere of [Sergei Parajanov](/en/people/serhii-paradzhanov/)’s film Shadows of Forgotten Ancestors. All 800 seats were full. Ivan Dziuba stepped up in front of the audience and told them about the secret arrests of young Ukrainian intellectuals. The loudspeakers were switched on to drown him out, while [Viacheslav Chornovil](/en/people/viacheslav-chornovil/) and [Vasyl Stus](/en/people/vasyl-stus/) called on the audience to stand in protest. According to one eyewitness, 50–60 people stood up. But an open protest had taken place: one of the first public protests against political repression in the USSR.
+The Ukraina cinema in Kyiv was showing the premiere of [Sergei Parajanov](/en/people/serhii-paradzhanov/)’s film Shadows of Forgotten Ancestors on 4 September 1965. All 800 seats were full. Ivan Dziuba stepped up in front of the audience and told them about the secret arrests of young Ukrainian intellectuals. The loudspeakers were switched on to drown him out, while [Viacheslav Chornovil](/en/people/viacheslav-chornovil/) and [Vasyl Stus](/en/people/vasyl-stus/) called on the audience to stand in protest. According to one eyewitness, 50–60 people stood up. But an open protest had taken place: one of the first public protests against political repression in the USSR.
 
 ## A critic who would not keep quiet
 
@@ -27,7 +27,7 @@ Dziuba was born in 1931 in the village of Mykolaivka in the Donetsk region and g
 
 ## A letter to the Party that the world read
 
-At the end of 1965 Dziuba sent the leaders of Soviet Ukraine his essay Internationalism or Russification?. He showed how the authorities were Russifying Ukraine under the banner of “internationalism”, and called for a return to Lenin’s nationality policy, which in his view had been distorted by great-power chauvinism. The essay spread through samvydav (underground self-publishing), came out in the West in several languages and became the manifesto of the Ukrainian Sixtiers. In 1972 Dziuba was expelled from the Writers’ Union and arrested, and in 1973 he was sentenced to 5 years’ imprisonment. Later that year, after a public recantation, he was pardoned; he was rehabilitated in 1991.
+Dziuba sent his essay Internationalism or Russification? to the leaders of Soviet Ukraine at the end of 1965. He showed how the authorities were Russifying Ukraine under the banner of “internationalism”, and called for a return to Lenin’s nationality policy, which in his view had been distorted by great-power chauvinism. The essay spread through samvydav (underground self-publishing), came out in the West in several languages and became the manifesto of the Ukrainian Sixtiers. In 1972 Dziuba was expelled from the Writers’ Union and arrested, and in 1973 he was sentenced to 5 years’ imprisonment. Later that year, after a public recantation, he was pardoned; he was rehabilitated in 1991.
 
 ## A second life
 
@@ -39,4 +39,4 @@ The most controversial episode of Dziuba’s life is his recantation of 1973. Af
 
 ## Why it matters today
 
-Ivan Dziuba said out loud what the authorities wanted kept secret. At the premiere of Shadows of Forgotten Ancestors he spoke about the secret arrests of young intellectuals, in one of the first public protests against political repression in the USSR. At Babyn Yar he spoke out against antisemitism. His Internationalism or Russification? spread through samvydav, came out in the West in several languages and remains one of the most important texts on the Russification of Ukraine. In independent Ukraine he served as minister of culture and co-chaired the editorial board of the Encyclopedia of Modern Ukraine. His story shows that one person armed with words can challenge a system.
+Ivan Dziuba said out loud what the authorities wanted kept secret: the secret arrests, antisemitism, the Russification of Ukraine. His Internationalism or Russification? showed Ukrainians and the world how Ukraine was being Russified under the banner of “internationalism”, and it became the manifesto of a whole generation. His story shows that one person armed with words can challenge a system.

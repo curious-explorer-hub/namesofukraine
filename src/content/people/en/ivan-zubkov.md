@@ -21,10 +21,10 @@ In the winter of 2013-2014 he stood on the Maidan during the Revolution of Digni
 
 ## Donetsk airport
 
-In November 2014 the battalion was deployed to the Donbas. On 18 January 2015, Senior Lieutenant Zubkov took command of a fire-support platoon in assault operations meant to relieve the defenders of Donetsk airport - the men who would become known as "cyborgs," among them [Valerii Chybinieiev](/en/people/valerii-chybinieiev/) and [Ihor Branovytskyi](/en/people/ihor-branovytskyi/). He was wounded in the hand the next day but stayed in the fight.
+The battalion was deployed to the Donbas in November 2014. On 18 January 2015, Senior Lieutenant Zubkov took command of a fire-support platoon in assault operations meant to relieve the defenders of Donetsk airport - the men who would become known as "cyborgs," among them [Valerii Chybinieiev](/en/people/valerii-chybinieiev/) and [Ihor Branovytskyi](/en/people/ihor-branovytskyi/). He was wounded in the hand the next day but stayed in the fight.
 
 On 20 January 2015, Senior Lieutenant Ivan Zubkov was killed under the collapsed second floor of the airport's new terminal while covering his unit's withdrawal. He was 41.
 
 ## Why it matters today
 
-Ivan Zubkov could have stayed a civilian: he had been out of the army for sixteen years and had his own business. After the Maidan he volunteered anyway. In his battalion he made sure every comrade’s weapon worked, and at Donetsk airport he led his platoon to relieve the defenders who were cut off there. Wounded, he stayed in the fight and covered his unit’s withdrawal. He showed that a commander answers for everyone beside him, and that experience gained long ago can be needed by the country again. The 90th Battalion he served in now bears his name.
+Ivan Zubkov could have stayed a civilian, but after the Maidan he volunteered. He showed that a commander answers for everyone beside him: he made sure every comrade’s weapon worked, and at Donetsk airport he led his platoon to relieve the defenders who were cut off there. His path proves that experience gained long ago can be needed by the country again, and that it is never too late to stand up for it. The 90th Battalion he served in now bears his name.

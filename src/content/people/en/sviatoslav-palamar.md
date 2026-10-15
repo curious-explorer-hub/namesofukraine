@@ -18,7 +18,7 @@ quotes:
 
 ## Why Kalyna?
 
-In 2014, at Azov’s recruiting centre, Sviatoslav Palamar was told: “Friend, pick your call sign.” He thought it over: the maple makes people think of Canada, the birch of Russia, but the true symbol of Ukraine is the kalyna, the guelder rose, found in songs, chronicles and legends of the Cossack era. So he became Kalyna.
+At Azov’s recruiting centre in 2014, Sviatoslav Palamar was told: “Friend, pick your call sign.” He thought it over: the maple makes people think of Canada, the birch of Russia, but the true symbol of Ukraine is the kalyna, the guelder rose, found in songs, chronicles and legends of the Cossack era. So he became Kalyna.
 
 ## From machine gunner to deputy commander
 
@@ -30,8 +30,8 @@ From the first days of Russia’s full-scale invasion in 2022, Palamar defended 
 
 ## Coming back
 
-On 21 September 2022 he was freed in an exchange together with Prokopenko, [Serhii Volynskyi](/en/people/serhii-volynskyi/) and other commanders. They stayed in Türkiye until July 2023, and it was there, on 3 October 2022, that Palamar received the Gold Star of a Hero of Ukraine. “I am very proud to be Ukrainian,” he said, calling it an award for his soldiers and for the whole Ukrainian people.
+He was freed on 21 September 2022 in an exchange together with Prokopenko, [Serhii Volynskyi](/en/people/serhii-volynskyi/) and other commanders. They stayed in Türkiye until July 2023, and it was there, on 3 October 2022, that Palamar received the Gold Star of a Hero of Ukraine. “I am very proud to be Ukrainian,” he said, calling it an award for his soldiers and for the whole Ukrainian people.
 
 ## Why it matters today
 
-Sviatoslav Palamar took the kalyna, a symbol of Ukraine in songs and chronicles, as his call sign, and in Azov rose from private machine gunner to deputy commander. In encircled Mariupol he became one of the voices the world heard: in video appeals and before foreign journalists he described the defence and said they were ready to leave with civilians, the wounded and the bodies of the dead. Back home he kept serving; as of October 2026 he is a colonel and deputy commander of the National Guard’s 1st Azov Corps. He called his Gold Star his soldiers’ and the whole people’s award: “I am very proud to be Ukrainian.”
+Sviatoslav Palamar took his call sign from songs and chronicles: the kalyna, a symbol of Ukraine. In encircled Mariupol he became one of the voices through which the world learned the truth about the city’s defence. His path shows that a company director who took part in two revolutions can become a commander when his country needs it. He called his Gold Star his soldiers’ and the whole people’s award: “I am very proud to be Ukrainian.”

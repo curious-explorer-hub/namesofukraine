@@ -33,4 +33,4 @@ As an anarchist, Makhno opposed any state, so he does not fit into the history o
 
 ## Why it matters today
 
-Makhno’s story is part of the peasant struggle of 1917–1921. A hired hand from Huliaipole with only a primary education, he signed, as head of the local council, a decree dividing the landlords’ land among the peasants, then led an insurgent army that fought the Austro-German forces and the Hetman’s government, the Whites and the Reds. At Perehonivka his men routed Denikin’s elite regiments, and Ukrainian scholars write that his insurgent tactics were studied by many armies. That is why he still draws interest in Ukraine and beyond, while the violence that came with the movement, and his place in history, are still debated.
+Makhno’s story is part of the peasant struggle of 1917–1921: a hired hand from Huliaipole with only a primary education led an insurgent army that fought both the Whites and the Reds. Ukrainian scholars write that his insurgent tactics were studied by many armies around the world. That is why he still draws interest in Ukraine and beyond, while the violence that came with the movement, and his place in history, are still debated.

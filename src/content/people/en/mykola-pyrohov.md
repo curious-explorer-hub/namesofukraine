@@ -22,13 +22,13 @@ A surgeon has to know exactly where every organ lies. To show it, Pyrohov sawed 
 
 ## Ether and plaster at war
 
-In 1847, with the army in the Caucasus, Pyrohov became the first surgeon to use ether anaesthesia for operations in a field hospital. There he also put broken limbs in a rigid starch dressing, which he later replaced with plaster.
+With the army in the Caucasus in 1847, Pyrohov became the first surgeon to use ether anaesthesia for operations in a field hospital. There he also put broken limbs in a rigid starch dressing, which he later replaced with plaster.
 
 In November 1854, during the Crimean War, he volunteered to go to besieged Sevastopol with a group of doctors and nursing sisters. Under fire he carried out more than 10,000 operations, most of them under anaesthesia. He began sorting the wounded by how serious and where their wounds were, so that those who needed help most got it first.
 
 ## In charge of the schools of Odesa and Kyiv
 
-In 1856 Pyrohov became superintendent of the Odesa school district, which meant running the schools of the whole region, and from July 1858 to March 1861 he held the same post in Kyiv. He argued for teaching in pupils’ native language, for university autonomy and for opening education to people of every background. On his initiative the Richelieu Lyceum in Odesa was turned into a university.
+Pyrohov became superintendent of the Odesa school district in 1856, which meant running the schools of the whole region, and from July 1858 to March 1861 he held the same post in Kyiv. He argued for teaching in pupils’ native language, for university autonomy and for opening education to people of every background. On his initiative the Richelieu Lyceum in Odesa was turned into a university.
 
 In 1859 Pyrohov helped open Sunday schools for adults in Kyiv and supported teaching in Ukrainian there. According to the Pyrohov Estate Museum, [Taras Shevchenko](/en/people/taras-shevchenko/), [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) and students of Kyiv University took part in the work of these schools. After a conflict with the governor-general of Kyiv, Pyrohov was dismissed in March 1861.
 
@@ -46,4 +46,4 @@ Not all of his school policy was welcomed. In 1859 Pyrohov signed rules on pupil
 
 ## Why it matters today
 
-Painkilling during surgery, a plaster cast on a broken arm and sorting the wounded by urgency seem ordinary today, and Pyrohov was among those who made them part of medicine. His atlas of frozen sections showed surgeons where each organ lies. In Ukraine he also worked for education: he argued for teaching in the native language and for schooling open to all, helped open Sunday schools in Kyiv that taught in Ukrainian too, and on his initiative the Richelieu Lyceum in Odesa became a university. After 1861 he treated the sick at Vyshnia, where he built a hospital; today Vinnytsia National Medical University bears his name.
+Painkilling during surgery, a plaster cast on a broken arm and sorting the wounded by urgency seem ordinary today, and Pyrohov was among those who made them part of medicine. Anyone operated on without pain, and any wounded soldier treated first because the wound is worst, is cared for by a medicine he helped build. In Ukraine he stood for something far from obvious in his time: that children should be taught in their own language and that learning should be open to people of every background. His life shows that a doctor and scholar can change not only science but the schools and the town around him; today Vinnytsia National Medical University bears his name.

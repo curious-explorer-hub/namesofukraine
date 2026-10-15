@@ -30,14 +30,14 @@ Lilia Podkopayeva was born on 15 August 1978 in Donetsk and took up gymnastics a
 
 ## An injury before Atlanta
 
-Early in 1996, months before the Olympics, she was badly hurt when she fell from the beam in training. Yet she came back, and that May she won the European all-around title, plus gold on the uneven bars and floor.
+She was badly hurt early in 1996, months before the Olympics, when she fell from the beam in training. Yet she came back, and that May she won the European all-around title, plus gold on the uneven bars and floor.
 
 ## Two golds at 17
 
-In the summer of 1996, at the Atlanta Olympics, 17-year-old Podkopayeva won the all-around, the biggest title in women’s gymnastics. Then she became Olympic floor champion and took silver on the beam. The last woman to win the world and Olympic all-around titles back to back before her was Lyudmila Turishcheva, more than twenty years earlier.
+At the Atlanta Olympics in the summer of 1996, 17-year-old Podkopayeva won the all-around, the biggest title in women’s gymnastics. Then she became Olympic floor champion and took silver on the beam. The last woman to win the world and Olympic all-around titles back to back before her was Lyudmila Turishcheva, more than twenty years earlier.
 
 Podkopayeva didn’t plan to stop, but injuries kept her out for two seasons, and in 1998 she retired. She stayed in gymnastics as a judge and coach and set up her own tournament in Kyiv. She also became a UN Goodwill Ambassador on HIV/AIDS in Ukraine.
 
 ## Why it matters today
 
-Lilia Podkopayeva was one of the first world stars of independent Ukraine’s sport. Months before Atlanta she was badly hurt, yet she came back and, at 17, won the all-around, the biggest title in women’s gymnastics. The hard skills she was first to perform carry her name in the international rules used to judge gymnasts all over the world. After retiring she stayed in the sport as a judge and coach and set up her own tournament in Kyiv. Thirty years after Atlanta she said: “This victory was never mine alone. It has always belonged, and always will belong, to Ukraine.”
+Lilia Podkopayeva was one of the first world stars of independent Ukraine’s sport, just as the country first competed as a team of its own. Her name is still in the rules of gymnastics, heard at competitions all over the world. And her comeback from a bad injury to Olympic gold shows young athletes that a setback before the start is not the end. “This victory was never mine alone. It has always belonged, and always will belong, to Ukraine,” she said thirty years on.

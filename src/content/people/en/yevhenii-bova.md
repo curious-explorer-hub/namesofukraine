@@ -15,7 +15,7 @@ image_alt: "Yevhenii Bova in a Marine beret, arms folded"
 
 ## When the brigade commander vanished
 
-In spring 2022, Ukrainian marines were fighting a losing siege in Mariupol. When the commander of the 36th Separate Marine Brigade, [Volodymyr Baraniuk](/en/people/volodymyr-baraniuk/), was taken prisoner, Lieutenant Colonel Yevhenii Bova stepped up to lead the brigade himself. He'd spent eight years rising through the ranks of a marine battalion in Mykolaiv, from platoon to battalion commander.
+Ukrainian marines were fighting a losing siege in Mariupol in spring 2022. When the commander of the 36th Separate Marine Brigade, [Volodymyr Baraniuk](/en/people/volodymyr-baraniuk/), was taken prisoner, Lieutenant Colonel Yevhenii Bova stepped up to lead the brigade himself. He'd spent eight years rising through the ranks of a marine battalion in Mykolaiv, from platoon to battalion commander.
 
 Bova was born in 1993 in the village of Staroavramivka in the Poltava region. After military lyceum he studied at the Ground Forces academy, then from 2014 served in the 1st Separate Marine Battalion. Years before the full-scale war, he spent four years holding the line in the shelled village of Shyrokyne in the Donetsk region.
 
@@ -29,4 +29,4 @@ Bova stayed in uniform. In 2023–2025 he commanded the 38th Separate Marine Bri
 
 ## Why it matters today
 
-Yevhenii Bova took charge when it was hardest: his brigade’s commander had been captured, and Mariupol had been besieged for weeks. The lieutenant colonel took over the brigade and kept up the defense. He had spent four years holding the line in shelled Shyrokyne and eight years rising from platoon to battalion commander. After captivity he stayed in the service and commanded a marine brigade again. His path traces what many Ukrainian officers have had to learn: how to fight and how to survive captivity. It reminds anyone who serves or studies today that years of steady work prepare you for the moment you have to lead.
+Yevhenii Bova took charge when it was hardest: his brigade’s commander had been captured, and Mariupol had been besieged for weeks. After captivity he stayed in the service and led marines again. His path traces what many Ukrainian officers have had to learn: how to fight and how to survive captivity. It reminds anyone who serves or studies today that years of steady work prepare you for the moment you have to lead.

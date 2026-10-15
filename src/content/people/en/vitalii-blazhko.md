@@ -16,7 +16,7 @@ image_alt: "Vitalii Blazhko in a camouflage hat and white snow suit in a snowy f
 
 ## How do you fight without feet?
 
-In spring 2019, on the Svitlodarsk salient in Donbas, Vitalii Blazhko was badly wounded and doctors had to amputate both his feet. He could have registered as disabled and left the service. But then he could no longer have held a combat post, so he refused. Less than three months later “Khvat” was back with Azov, this time on carbon prostheses.
+Vitalii Blazhko was badly wounded in spring 2019 on the Svitlodarsk salient in Donbas, and doctors had to amputate both his feet. He could have registered as disabled and left the service. But then he could no longer have held a combat post, so he refused. Less than three months later “Khvat” was back with Azov, this time on carbon prostheses.
 
 ## Khvat’s snipers
 
@@ -30,4 +30,4 @@ Major Vitalii Blazhko was killed on 8 May 2022 at the Azovstal steelworks in Mar
 
 ## Why it matters today
 
-Vitalii Blazhko built Azov’s sniper unit, from a platoon in 2015 to a group, training the newcomers himself and going out to the positions with his men instead of commanding from headquarters. After losing both feet he turned down disability status and was back in the ranks in less than three months. He showed that even a severe wound doesn’t have to end a soldier’s service. In Mariupol his snipers bought time for the city’s defence, and after his fourth wound he refused to leave his comrades. His story is about staying true to your people and your work. He was made a Hero of Ukraine posthumously.
+Vitalii Blazhko built Azov’s sniper unit and taught his soldiers by example: not from headquarters, but out at the positions beside them. After losing both feet he came back to the ranks and showed that even a severe wound doesn’t have to end a soldier’s service. In Mariupol his snipers bought time for the city’s defence, and he would not leave his comrades even after his fourth wound. His story is about staying true to your people and your work.

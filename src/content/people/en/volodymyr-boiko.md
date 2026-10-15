@@ -16,7 +16,7 @@ image_alt: "Volodymyr Boiko at a session of the Verkhovna Rada, 2013"
 
 ## From pipe fitter to director
 
-In 1955 Volodymyr Boiko, a young man from Mariupol (then called Zhdanov), joined the Illich steelworks as a pipe fitter. Thirty-five years later, in 1990, he became general director of the plant, and from 1997, when it became a joint-stock company, he chaired its board.
+Volodymyr Boiko, a young man from Mariupol (then called Zhdanov), joined the Illich steelworks as a pipe fitter in 1955. Thirty-five years later, in 1990, he became general director of the plant, and from 1997, when it became a joint-stock company, he chaired its board.
 
 His whole career lies between those dates. After a few years in other jobs and military service he came back to the plant, graduated from the Zhdanov Metallurgical Institute in 1970 and worked his way up to head of the sheet-rolling shop and deputy director for production. Under his leadership the plant rebuilt its 1700 sheet-rolling mill and cold-rolling shop and brought a continuous casting machine into service. In 1999 he received the State Prize of Ukraine in Science and Technology, and in 2003 the title Hero of Ukraine.
 
@@ -30,4 +30,4 @@ The plant’s road into private hands was disputed. In 2000 parliament passed a 
 
 ## Why it matters today
 
-Boiko went the whole way at a single plant: he joined it as a pipe fitter in 1955, graduated from the metallurgical institute, ran the sheet-rolling shop and in 1990 became head of the works. Under his leadership the plant rebuilt its 1700 sheet-rolling mill and cold-rolling shop and brought a continuous casting machine into service. He ran it for more than two decades, including the years when it became a joint-stock company. His career shows how far knowing a plant from the inside can take you. And the plant’s story shows how big Soviet factories turned into private companies in independent Ukraine, and how much controversy that caused.
+Volodymyr Boiko went from pipe fitter to director at a single plant and ran it for more than two decades, including the years when its rolling shops were rebuilt. His career shows how far knowing a plant from the inside can take you. And the plant’s story shows how big Soviet factories turned into private companies in independent Ukraine, and how much controversy that caused.

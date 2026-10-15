@@ -25,10 +25,10 @@ Leontovych was born in the village of Monastyrok in Podillia, the son of a villa
 
 ## How “Shchedryk” went round the world
 
-At the end of 1916 “Shchedryk” was first sung by the Kyiv University student choir under Oleksandr Koshyts, and it made the composer famous. Later Koshyts’s Ukrainian Republic Capella, set up with the backing of the Ukrainian People’s Republic, took it on tour across Europe and the Americas, and the melody rang out in New York’s Carnegie Hall. In 1936 Peter Wilhousky wrote English words for it, and “Carol of the Bells” was born.
+“Shchedryk” was first sung by the Kyiv University student choir under Oleksandr Koshyts at the end of 1916, and it made the composer famous. Later Koshyts’s Ukrainian Republic Capella, set up with the backing of the Ukrainian People’s Republic, took it on tour across Europe and the Americas, and the melody rang out in New York’s Carnegie Hall. In 1936 Peter Wilhousky wrote English words for it, and “Carol of the Bells” was born.
 
 On 23 January 1921 Leontovych was murdered in his parents’ home by an agent of the Soviet secret police.
 
 ## Why it matters today
 
-A village singing teacher from Podillia who spent years polishing each arrangement created a melody the world now sings. “Shchedryk” is an example of cultural diplomacy: the Ukrainian Republic Capella, set up with the backing of the Ukrainian People’s Republic, carried it across Europe and the Americas, as far as Carnegie Hall, and a Ukrainian New Year’s song became part of Christmas worldwide. It has since been rearranged more than 150 times. Whenever “Carol of the Bells” plays, anyone can say it began as a Ukrainian song about a swallow. At the same time, Leontovych’s fate is a reminder of how many Ukrainian artists the Soviet regime destroyed.
+A village singing teacher from Podillia who spent years polishing each arrangement created a melody the world now sings. “Shchedryk” showed that a Ukrainian song could speak for a whole country: the young Ukrainian People’s Republic sent it round the world, and a New Year’s song became part of Christmas everywhere. Whenever “Carol of the Bells” plays, anyone can say it began as a Ukrainian song about a swallow. And Leontovych’s fate is a reminder that a culture can’t be stopped by killing the people who make it.

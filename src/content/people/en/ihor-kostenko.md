@@ -19,7 +19,7 @@ quotes:
 
 ## Who was Ig2000?
 
-On 23 July 2011 a new contributor signed up to the Ukrainian Wikipedia as Ig2000. In two and a half years he wrote over 280 articles and edited over 1,600. He wrote about geography, history (above all the history of Ukraine’s armed forces), economics, football and Formula 1. The community rated his article on the destroyer Nezamozhnyk a “good article”. He sent sports news to Wikinews and ran a Facebook group for contributors to bring in new writers.
+A new contributor called Ig2000 signed up to the Ukrainian Wikipedia on 23 July 2011. In two and a half years he wrote over 280 articles and edited over 1,600. He wrote about geography, history (above all the history of Ukraine’s armed forces), economics, football and Formula 1. The community rated his article on the destroyer Nezamozhnyk a “good article”. He sent sports news to Wikinews and ran a Facebook group for contributors to bring in new writers.
 
 ## From Zubrets to Lviv
 
@@ -33,4 +33,4 @@ Ihor Kostenko was killed on Instytutska Street in Kyiv on 20 February 2014, as p
 
 ## Why it matters today
 
-Ihor Kostenko lived by his own words: “Everyone should do what they can, where they are.” What he could do was write, and in two and a half years he added more than 280 articles to the Ukrainian Wikipedia, on geography, the history of Ukraine’s armed forces, economics and football. He didn’t only write; he brought in new contributors, and the community did hold his wiki flash mob in the end, in his memory. And he went to the Maidan himself. Every article someone adds to the Ukrainian Wikipedia today carries his work on; in 2014 Jimmy Wales named him Wikipedian of the Year.
+Ihor Kostenko lived by his own words: “Everyone should do what they can, where they are.” He showed that you can build your country from a keyboard: every article in Ukrainian brings knowledge about Ukraine closer to the people looking for it. He didn’t only write; he brought in new contributors, and when the students went out to the Maidan, he was among them. Every article someone adds to the Ukrainian Wikipedia today carries his work on; in 2014 Jimmy Wales named him Wikipedian of the Year.

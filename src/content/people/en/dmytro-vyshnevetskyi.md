@@ -37,4 +37,4 @@ According to tradition, his death inspired the folk duma about the Cossack Baida
 
 ## Why it matters today
 
-Dmytro Vyshnevetskyi is called the first Cossack otaman in the history of Ukraine, and the Khortytsia reserve calls his town and fortress on Mala Khortytsia the first Zaporozhian Sich in history. On a southern frontier under constant Tatar raids he relied on the Zaporozhian Cossacks, and from his island fortress he led campaigns against Ochakiv and Islam-Kermen. Historians write that even in captivity he refused to enter Turkish service, and the folk duma about the Cossack Baida keeps the image of a man who will not serve the sultan. Anyone who hears of Khortytsia and the Sich today is hearing about a beginning he made.
+Dmytro Vyshnevetskyi is called the first Cossack otaman in the history of Ukraine, and the Khortytsia reserve calls his town and fortress on Mala Khortytsia the first Zaporozhian Sich in history. The folk duma about the Cossack Baida keeps the image of a man who will not serve the sultan, even in captivity. Anyone who hears of Khortytsia and the Sich today is hearing about a beginning he made.

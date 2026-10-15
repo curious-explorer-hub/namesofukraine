@@ -31,8 +31,8 @@ After the revolution of 1917 Sikorsky emigrated: to France in 1918 and to the Un
 
 ## The dream that took off
 
-In 1939 Sikorsky flew the VS-300, a helicopter with a single main rotor and a tail rotor. Most helicopters are still built that way. His R-4 of 1942 became the world’s first mass-produced helicopter, and Sikorsky’s company became the world leader in making helicopters.
+The VS-300, which Sikorsky flew in 1939, had a single main rotor and a tail rotor. Most helicopters are still built that way. His R-4 of 1942 became the world’s first mass-produced helicopter, and Sikorsky’s company became the world leader in making helicopters.
 
 ## Why it matters today
 
-Kyiv-born Igor Sikorsky gave the world its first multi-engine heavy aircraft, and later the first mass-produced helicopter, the R-4. Most helicopters are still built the way he built the VS-300, with one main rotor and a tail rotor. He explained why it mattered: an airplane can throw flowers on someone in need, but a helicopter can come and save their life. He did all this after starting from scratch in America as a schoolteacher, proof that starting over in a foreign country need not end a dream. The Kyiv Polytechnic Institute, where as a student he began his first helicopter, bears his name.
+Kyiv-born Igor Sikorsky changed the way people fly: most helicopters are still built the way he built the VS-300. He explained why it mattered: an airplane can throw flowers to someone in need, but a helicopter can come and save their life. His path, from a Kyiv student to a schoolteacher starting from scratch in America, shows that a dream need not end in a foreign country. The Kyiv Polytechnic Institute, where he began his first helicopter, bears his name.

@@ -36,4 +36,4 @@ Ukraine and Russia read Volodymyr’s legacy differently today: there are monume
 
 ## Why it matters today
 
-Volodymyr’s choice set the cultural path of Rus’ for centuries to come. By adopting Byzantine-rite Christianity he opened Kyiv to writing, education, stone architecture and close ties with Byzantium and Europe; the Church of the Tithes became the first monumental masonry church of Rus’. He united and expanded the lands of Rus’ and protected them with lines of forts against the Pechenegs. The trident he stamped on the first coins of Rus’ more than a thousand years ago is Ukraine’s state coat of arms today. And on 15 July, the day he died in 1015, Ukraine marks Ukrainian Statehood Day.
+Volodymyr’s choice set the cultural path of Rus’ for centuries to come: with Christianity came writing, education and stone architecture to Kyiv, and with them close ties with Byzantium and Europe. He showed that a state is built not only by campaigns, but by books and churches too. His sign, the trident, became Ukraine’s coat of arms more than a thousand years later, and on 15 July, the day he died, Ukraine marks Ukrainian Statehood Day.

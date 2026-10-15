@@ -29,10 +29,10 @@ In 1975 Dynamo won the Cup Winners’ Cup and then the UEFA Super Cup, beating B
 
 ## The coach of the first World Cup
 
-In 1990–2002 Blokhin coached Greek clubs, among them Olympiacos, with whom he won the Greek Cup (1992). In 2003 he took charge of Ukraine, and in 2006 the team played at a World Cup for the first time, in Germany, reaching the quarterfinals. That team included [Andriy Shevchenko](/en/people/andrii-shevchenko/), the 2004 Ballon d'Or winner. Blokhin later coached the national team a second time (2011–2012) and then Dynamo Kyiv (2012–2014).
+Once his playing days were over, Blokhin coached Greek clubs in 1990–2002, among them Olympiacos, with whom he won the Greek Cup (1992). In 2003 he took charge of Ukraine, and in 2006 the team played at a World Cup for the first time, in Germany, reaching the quarterfinals. That team included [Andriy Shevchenko](/en/people/andrii-shevchenko/), the 2004 Ballon d'Or winner. Blokhin later coached the national team a second time (2011–2012) and then Dynamo Kyiv (2012–2014).
 
 In 1998–2006 he was a member of the Verkhovna Rada for two terms: in 1998 he was elected on the Hromada list, then sat in the Batkivshchyna and Communist Party factions; in 2002 he was elected on the Communist Party list, and a few months later he moved to the faction of the Social Democratic Party (united).
 
 ## Why it matters today
 
-Blokhin was the first Soviet winner of the Ballon d'Or and set records that no one in Soviet football ever surpassed. A product of the Dynamo Kyiv football school, he played for his home club for almost twenty years, won the Cup Winners’ Cup with it twice, and in 1975 beat Bayern Munich twice. As a coach he led the team of independent Ukraine to its first World Cup, where it reached the quarterfinals. He himself says he is proud to represent “the Ukrainian school of football”. His path shows every young player that a Kyiv kid can reach the top of European football.
+Blokhin showed Europe that Kyiv produces footballers of the very highest class: a product of the Dynamo Kyiv school was named the best player on the continent. As a coach he took the team of independent Ukraine to its first World Cup and proved that a young country could hold its own against the strongest. He himself says he is proud to represent “the Ukrainian school of football”. His path shows every young player that a Kyiv kid can reach the top of European football.

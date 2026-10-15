@@ -22,7 +22,7 @@ Les Kurbas knew the answer: go and see the best, then bring it home. He was born
 
 ## From the Young Theater to the Berezil
 
-In 1916 Kurbas worked in Mykola Sadovskyi’s theater in Kyiv, and in 1917 he created the Molodyi Teatr (Young Theater). There he staged Sophocles’ Oedipus Rex in Ukrainian for the first time and opened Ukrainian theater to European modernism. In 1922 he founded the Berezil artistic association with five workshops; in 1926 the theater moved to Kharkiv, then the capital of Soviet Ukraine. Kurbas made several films and trained a generation of actors and directors, among them Amvrosii Buchma, Yosyp Hirniak and Nataliia Uzhvii.
+Kurbas went to Kyiv to work in Mykola Sadovskyi’s theater in 1916, and in 1917 he created the Molodyi Teatr (Young Theater). There he staged Sophocles’ Oedipus Rex in Ukrainian for the first time and opened Ukrainian theater to European modernism. In 1922 he founded the Berezil artistic association with five workshops; in 1926 the theater moved to Kharkiv, then the capital of Soviet Ukraine. Kurbas made several films and trained a generation of actors and directors, among them Amvrosii Buchma, Yosyp Hirniak and Nataliia Uzhvii.
 
 Berezil’s peak came with the productions Kurbas created together with the playwright Mykola Kulish and the designer Vadym Meller: The People’s Malakhii (1928), Myna Mazailo (1929) and Maklena Grasa (1933).
 
@@ -32,4 +32,4 @@ The authorities launched a campaign of harassment against the artists. In the au
 
 ## Why it matters today
 
-Kurbas proved that Ukrainian theater could be intellectual and innovative, the equal of the best European stages. He travelled to Warsaw, Prague, Berlin and Munich to see the best and brought it home: he gave the first Ukrainian stagings of Oedipus Rex and Macbeth and opened Ukrainian theater to European modernism. With Mykola Kulish and Vadym Meller he created the Berezil’s finest productions, and he trained a generation of actors and directors, among them Amvrosii Buchma and Nataliia Uzhvii. Even in the camp he kept staging plays. A State Prize bears his name, and anyone who boldly renews Ukrainian art carries on his work.
+Kurbas proved that Ukrainian theater could be intellectual and innovative, the equal of the best European stages. He didn’t copy others: he took the best of Europe and made it speak Ukrainian, and a whole generation of actors and directors grew out of his workshops. Even in the camp he kept staging plays, because for him art was work you don’t walk away from. Anyone who boldly renews Ukrainian art carries on his work.

@@ -29,12 +29,12 @@ What should Ukrainian poetry sound like in a new century? In 1901 Voronyi asked 
 
 ## The Central Rada, exile and return
 
-In 1917 Voronyi was one of the founders of the Ukrainian Central Rada and of the national theatre in Kyiv. In 1920 he emigrated: he lived in Warsaw, where his collection For Ukraine came out (1921), then taught at a drama school in Lviv. In 1926 he returned to Soviet Ukraine. He taught in Kharkiv, and from 1928 he lived in Kyiv, writing screenplays and reviews and translating.
+Voronyi helped found the Ukrainian Central Rada and the national theatre in Kyiv in 1917. In 1920 he emigrated: he lived in Warsaw, where his collection For Ukraine came out (1921), then taught at a drama school in Lviv. In 1926 he returned to Soviet Ukraine. He taught in Kharkiv, and from 1928 he lived in Kyiv, writing screenplays and reviews and translating.
 
 ## Arrests and execution
 
-In March 1934 Voronyi was arrested and banished from Ukraine, to Voronezh for three years. His son, the poet Marko Voronyi, was arrested in 1935 and shot on 3 November 1937 in the Sandarmokh forest in Karelia. In 1937 Mykola Voronyi came back from exile and settled in the Kirovohrad region, but in 1938 he was arrested again. On 29 April 1938 he was sentenced to death, and on 7 June 1938 he was shot in Odesa. He was rehabilitated in 1957.
+Voronyi was arrested in March 1934 and banished from Ukraine, to Voronezh for three years. His son, the poet Marko Voronyi, was arrested in 1935 and shot on 3 November 1937 in the Sandarmokh forest in Karelia. In 1937 Mykola Voronyi came back from exile and settled in the Kirovohrad region, but in 1938 he was arrested again. On 29 April 1938 he was sentenced to death, and on 7 June 1938 he was shot in Odesa. He was rehabilitated in 1957.
 
 ## Why it matters today
 
-Voronyi was one of the first to open Ukrainian poetry to new currents. His 1901 manifesto urged writers to seek new paths, and his almanac From Above the Clouds and From the Valleys is where Ukrainian modernism began as a programme; next to the modernists it printed [Ivan Franko](/en/people/ivan-franko/) and [Lesya Ukrainka](/en/people/lesya-ukrainka/). He served the stage too: he acted with Kropyvnytskyi’s and Saksahanskyi’s troupes, co-founded the national theatre and the Central Rada in 1917, and translated librettos such as Carmen and Rigoletto into Ukrainian. Anyone seeking new forms for Ukrainian culture walks a path he helped open. His Yevshan-zillia is a poem about not losing the memory of your land.
+Voronyi was one of the first to open Ukrainian poetry to new currents: Ukrainian modernism began as a programme with his manifesto and his almanac From Above the Clouds and From the Valleys. He served the stage too, and in 1917 helped found the Central Rada and the national theatre. His Yevshan-zillia reminds us that in looking for the new we must not lose the memory of our land. Anyone seeking new forms for Ukrainian culture walks a path he helped open.

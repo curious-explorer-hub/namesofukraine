@@ -27,7 +27,7 @@ Andriy Shevchenko was born in 1976 in the village of Dvirkivshchyna in the Yahot
 
 ## 175 goals for Milan
 
-In 1999 Shevchenko moved to AC Milan and in his very first season became Serie A’s top scorer with 24 goals. In 2003 he scored the decisive penalty in the Champions League final and became the first Ukrainian to win the competition. With Milan he also won the Italian league, and in 2004 he received the Ballon d'Or as Europe’s best footballer. That same year he was made a Hero of Ukraine. In all he scored 175 goals in 322 games for Milan. He later played for Chelsea in London, spent another season at Milan, and finished his career at Dynamo.
+Shevchenko moved to AC Milan in 1999 and in his very first season became Serie A’s top scorer with 24 goals. In 2003 he scored the decisive penalty in the Champions League final and became the first Ukrainian to win the competition. With Milan he also won the Italian league, and in 2004 he received the Ballon d'Or as Europe’s best footballer. That same year he was made a Hero of Ukraine. In all he scored 175 goals in 322 games for Milan. He later played for Chelsea in London, spent another season at Milan, and finished his career at Dynamo.
 
 ## Captain, coach, president
 
@@ -37,4 +37,4 @@ In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada as number two on th
 
 ## Why it matters today
 
-Shevchenko proved that a footballer from the Ukrainian school of football could become the best in Europe: the Dynamo Kyiv graduate became the first Ukrainian to win the Champions League and went on to win the Ballon d'Or. He was the first to play 100 games for Ukraine, scored 48 goals for the national team and captained the side that reached the 2006 World Cup quarterfinals; later, as coach, he took the team into the last eight at Euro 2020. After the full-scale invasion he became the first ambassador of UNITED24. His career bears out his own words: “anything is possible if you truly love what you do.”
+Andriy Shevchenko proved that a footballer from the Ukrainian school of football could become the best in Europe, and his Ballon d'Or showed it to the whole football world. As captain and later as coach, he twice took Ukraine into the last eight of a major tournament and showed that the country can compete with the strongest. After the full-scale invasion he put his name to work for his country as the first ambassador of UNITED24. His career bears out his own words: “anything is possible if you truly love what you do.”

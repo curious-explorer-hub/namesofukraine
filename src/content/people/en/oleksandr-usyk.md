@@ -50,4 +50,4 @@ Usyk made Ukrainian culture fashionable in the boxing world: he comes to weigh-i
 
 ## Why it matters today
 
-Usyk became undisputed champion in two weight classes and the first to win that title three times. From Olympic gold in London he went on to hold the belts of all the major boxing organizations: in 2018 he became the first Ukrainian undisputed world champion, then proved he could beat the biggest boxers at heavyweight too. He also made Ukrainian traditions part of world boxing: millions of viewers see the zhupan, the oseledets and the hopak in the ring.
+Usyk carried Ukraine’s name through the whole of world boxing: the first Ukrainian to be undisputed world champion, and the first boxer ever to win that title three times. When the full-scale war came, he went back to Kyiv to defend his home. And he made Ukrainian culture visible to millions: the whole world sees the zhupan, the oseledets and the hopak in the ring. His path shows that an athlete from Ukraine can reach the very top of world sport.

@@ -25,7 +25,7 @@ Andrii Pilshchykov was born in 1993 in Kharkiv and dreamed of flying from childh
 
 ## He left the service, then came back
 
-In 2021 Pilshchykov quit: he disliked the Soviet ways that lingered in the army, kept trying to change them and kept running into resistance from senior officers. But when the full-scale invasion began in 2022, he went back to his brigade. Between March 2022 and August 2023 “Juice” flew 101 combat sorties, including over Kyiv. The legend of the “Ghost of Kyiv” stands for his brigade’s pilots, and Andrii insisted the credit belonged to the whole unit.
+Pilshchykov quit in 2021: he disliked the Soviet ways that lingered in the army, kept trying to change them and kept running into resistance from senior officers. But when the full-scale invasion began in 2022, he went back to his brigade. Between March 2022 and August 2023 “Juice” flew 101 combat sorties, including over Kyiv. The legend of the “Ghost of Kyiv” stands for his brigade’s pilots, and Andrii insisted the credit belonged to the whole unit.
 
 ## Eight senators and the F-16
 
@@ -35,4 +35,4 @@ On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two 
 
 ## Why it matters today
 
-Andrii Pilshchykov defended his country both in the sky and with his voice. He tried to change the Soviet ways in the army and, meeting resistance, quit. But when the full-scale invasion began he went back to his brigade and flew 101 combat sorties, including over Kyiv. When the “Ghost of Kyiv” legend came to stand for his brigade’s pilots, he gave the credit to the whole unit. In Washington, with [Oleksii Mes](/en/people/oleksii-mes/), he told senators why Ukraine needed F-16s, and he spent his own savings on helmets for fellow pilots. He showed that a country’s sky can be defended from more than a cockpit.
+Andrii Pilshchykov defended his country both in the sky and with his voice. He wanted an army free of Soviet ways, but when the full-scale war came he didn’t wait for it to change: he went back to his fellow pilots. He gave the glory of the “Ghost of Kyiv” to the whole unit, and his own savings to helmets for others. With [Oleksii Mes](/en/people/oleksii-mes/), he explained to the world why Ukraine needed modern jets. He showed that a country’s sky can be defended from more than a cockpit.

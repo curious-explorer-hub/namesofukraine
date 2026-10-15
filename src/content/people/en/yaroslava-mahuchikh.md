@@ -30,11 +30,11 @@ Yaroslava Mahuchikh was born in 2001 in Dnipro. In 2019 she won the European jun
 
 ## 2.10 metres
 
-On 7 July 2024, at a Diamond League meeting in Paris, Mahuchikh cleared 2.10 m and broke Stefka Kostadinova’s world record, set in 1987. A month later, at the Olympic Games in the same city, she became Olympic champion. She had already won the 2023 World Championships in Budapest, and in 2026 she became world indoor champion for the second time.
+Mahuchikh cleared 2.10 m at a Diamond League meeting in Paris on 7 July 2024 and broke Stefka Kostadinova’s world record, set in 1987. A month later, at the Olympic Games in the same city, she became Olympic champion. She had already won the 2023 World Championships in Budapest, and in 2026 she became world indoor champion for the second time.
 
 ## The first Ultimate champion
 
-In August 2026 in Birmingham Mahuchikh won the European title for the third time in a row. Then on 11 September 2026 in Budapest she cleared 1.99 m and became the first ever high jump champion of World Athletics’ new competition, the Ultimate Championship.
+Mahuchikh won the European title for the third time in a row in Birmingham in August 2026. Then on 11 September 2026 in Budapest she cleared 1.99 m and became the first ever high jump champion of World Athletics’ new competition, the Ultimate Championship.
 
 ## A ritual of calm and focus
 
@@ -42,4 +42,4 @@ Between attempts, Mahuchikh lies down to rest in a sleeping bag right next to th
 
 ## Why it matters today
 
-Mahuchikh wins the world’s biggest competitions for Ukraine in the years of the full-scale war. The first of those golds came in 2022, after three days on the road from Dnipro to Belgrade. Since then she has become Olympic, world and European champion, and in 2026 the first ever Ultimate world champion. Her 2.10 m broke a world record that had stood since 1987, and as of October 2026 the women’s high jump world record is hers. Her story shows that even with war at home you can hold on to a dream and set the bar higher than anyone. Success is not just talent: it is the ability to stay focused in the hardest times, to believe in your country and to take one step forward every day, even when it seems impossible.
+In the years of the full-scale war Yaroslava Mahuchikh wins the world’s biggest competitions for Ukraine and carries its name into stadiums around the world. She says herself that she protects her country on the track while the military protects it at home. Her story shows that even with war at home you can hold on to a dream and set the bar higher than anyone. For anyone training in Ukraine today, she is proof that calm, focus and daily work can lead to a world record.

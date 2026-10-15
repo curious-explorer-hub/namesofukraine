@@ -26,16 +26,16 @@ Elina Svitolina was born in 1994 in Odesa. In the summer of 2021, at the Tokyo O
 
 ## World No. 3
 
-In 2017 Svitolina climbed to No. 3 in the WTA world rankings. The next year she won the WTA Finals, the tournament that brings together the best players of the season. In 2019 she reached the semifinals of two Grand Slams: Wimbledon and the US Open.
+Svitolina climbed to No. 3 in the WTA world rankings in 2017. The next year she won the WTA Finals, the tournament that brings together the best players of the season. In 2019 she reached the semifinals of two Grand Slams: Wimbledon and the US Open.
 
 ## A second wind
 
-In 2022 Svitolina took a break from tennis and became a mother. Back on court in 2023, she won the tournament in Strasbourg within four months, and that summer reached the Wimbledon semifinals again. In 2026 she made her first Australian Open semifinal. In May 2026 she won Rome for the third time (after 2017 and 2018), beating three top-five players on the way. It was her 20th WTA title, a mark no Ukrainian woman had reached before.
+Svitolina took a break from tennis in 2022 and became a mother. Back on court in 2023, she won the tournament in Strasbourg within four months, and that summer reached the Wimbledon semifinals again. In 2026 she made her first Australian Open semifinal. In May 2026 she won Rome for the third time (after 2017 and 2018), beating three top-five players on the way. It was her 20th WTA title, a mark no Ukrainian woman had reached before.
 
 ## Tennis for Ukraine
 
-In 2019 Svitolina set up a charity foundation that develops tennis in Ukraine and supports young athletes. Since 2022 she has been an ambassador of the UNITED24 fundraising platform and of Bring Kids Back UA, an initiative that helps bring deported Ukrainian children home.
+Svitolina set up a charity foundation in 2019; it develops tennis in Ukraine and supports young athletes. Since 2022 she has been an ambassador of the UNITED24 fundraising platform and of Bring Kids Back UA, an initiative that helps bring deported Ukrainian children home.
 
 ## Why it matters today
 
-Before Elina Svitolina, Ukraine had no Olympic medal in tennis, and no Ukrainian woman had 20 WTA titles. She won the WTA Finals and reached world No. 3, and after a break to become a mother she won a tournament within four months of her return and made the Wimbledon semifinals again that summer. Her Tokyo bronze and 20 titles showed that a Ukrainian player can stay among the world’s best for years. Her foundation develops tennis in Ukraine and supports young athletes, and since 2022, as an ambassador of UNITED24 and Bring Kids Back UA, she has helped keep the world from forgetting Ukraine during the war.
+Elina Svitolina showed that a Ukrainian player can stay among the world’s best for years, and she carried Ukraine’s name onto tennis’s biggest stages. Her return to the court after becoming a mother proved that a great career doesn’t have to end where a family begins. Her foundation helps the next generations of Ukrainian players, and as an ambassador of UNITED24 and Bring Kids Back UA she helps keep the world from forgetting Ukraine during the war. Every girl in Ukraine who picks up a racket today can see how far it is possible to go.

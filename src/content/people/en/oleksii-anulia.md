@@ -22,7 +22,7 @@ quotes:
 
 ## The last day of 2022
 
-On 31 December 2022 Russia handed 140 prisoners back to Ukraine. One of them was Oleksii Anulia from Chernihiv Oblast, who had spent ten months in captivity. Ever since, he has worked to bring home those who are still there.
+On the last day of 2022, 31 December, Russia handed 140 prisoners back to Ukraine. One of them was Oleksii Anulia from Chernihiv Oblast, who had spent ten months in captivity. Ever since, he has worked to bring home those who are still there.
 
 ## A kickboxer with a machine gun
 
@@ -30,9 +30,9 @@ Before the war Oleksii was a kickboxer. When the full-scale invasion began, he j
 
 ## Captivity
 
-On 9 March 2022, when Russian troops took Lukashivka, Oleksii was captured. Over almost ten months he was moved through six places of detention, among them a pre-trial prison in Kursk and a penal colony in Donskoy in Russia’s Tula region. He spent 108 days in a punishment cell.
+Oleksii was captured on 9 March 2022, when Russian troops took Lukashivka. Over almost ten months he was moved through six places of detention, among them a pre-trial prison in Kursk and a penal colony in Donskoy in Russia’s Tula region. He spent 108 days in a punishment cell.
 
-He was beaten, tortured with a stun gun and forced to eat a military patch. His daily food was a piece of bread and two spoons of porridge. He lost 40 kilograms and became 7 centimetres shorter. To survive, he spent months hunting a rat and finally ate it. His captors broke his fingers, jaw, collarbones and spine, and tore his tendons.
+He was beaten, tortured and forced to eat a military patch. His daily food was a piece of bread and two spoons of porridge, and he lost 40 kilograms. His captors broke his fingers, jaw, collarbones and spine.
 
 He was freed in the New Year’s Eve exchange. By July 2024 he had been in hospital 36 times.
 
@@ -42,10 +42,10 @@ After his treatment, Oleksii took on a new cause. He campaigns for the release o
 
 ## A book and a prize
 
-In 2025 Oleksii published “Jingle bellz”, a book in which he reflects on captivity, the psychological pressure, and how both prisoners and their captors behave.
+Oleksii published “Jingle bellz” in 2025, a book in which he reflects on captivity, the psychological pressure, and how both prisoners and their captors behave.
 
 On 10 December 2025 the Center for Civil Liberties gave out the Ihor Kozlovskyi Prize for the first time. It is named after a philosopher and scholar of religion who spent 700 days held captive in occupied territory. The first winner was Oleksii Anulia. He was away on an advocacy trip and spoke to the guests by video. At the same ceremony, paramedic [Yuliia “Taira” Paievska](/en/people/yuliia-paievska/) received an award from PEN Ukraine.
 
 ## Why it matters today
 
-Oleksii tells the world about captivity because his voice speaks for the Ukrainians still held in Russian prisons. After captivity and dozens of hospital stays, he took on a new cause: he campaigns for the release of other prisoners, supports families of the missing and testifies to war crimes, in a UN hall in Geneva and in his book “Jingle bellz”. His case is registered with the International Criminal Court in The Hague. Dignity, he says, is when “you can give a part of yourself for the good of another.” Oleksii Anulia’s story is a reminder that every prisoner must be spoken about until they are brought home.
+Oleksii tells the world about captivity because his voice speaks for the Ukrainians still held in Russian prisons. Having come through captivity, he did not shut himself away in his own pain but set out to help others: prisoners, their families, and the truth about Russia’s war crimes. His story is a reminder that every prisoner must be spoken about until they are brought home.

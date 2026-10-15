@@ -21,7 +21,7 @@ The Miklukho-Maklai family is traced to a Zaporozhian Cossack captain, Stepan Ma
 
 ## The student who was thrown out
 
-In 1864 Mykola was expelled from St Petersburg University for taking part in student unrest. He carried on in Germany, at Heidelberg, Leipzig and Jena, where he studied medicine. Trips to the Canary Islands (1866) and Italy (1867) drew him into anthropology and ethnography. He also studied sea creatures off Odesa and the southern coast of Crimea.
+Mykola was expelled from St Petersburg University in 1864 for taking part in student unrest. He carried on in Germany, at Heidelberg, Leipzig and Jena, where he studied medicine. Trips to the Canary Islands (1866) and Italy (1867) drew him into anthropology and ethnography. He also studied sea creatures off Odesa and the southern coast of Crimea.
 
 ## A hut on Astrolabe Bay
 
@@ -33,4 +33,4 @@ In Australia, Miklukho-Maklai pressed for a marine biological station in Sydney,
 
 ## Why it matters today
 
-For about three years Miklukho-Maklai lived among the Papuans of New Guinea, winning their trust with patience, courage and a doctor’s skills. He argued that all human races are one and equal, and he acted on it: he fought the slave trade, and on his advice the Dutch moved to stop it on Ternate and Tidore. He left about 160 works and a marine biological station in Sydney, and his diary, Among the Savages of New Guinea, was translated into Ukrainian by [Borys Antonenko-Davydovych](/en/people/borys-antonenko-davydovych/). The coast where he lived is still called the Maclay Coast, and his idea that no people is higher or lower than another still sounds modern.
+Miklukho-Maklai argued that all human races are one and equal, that there are no “lower races”, and he did more than write it: he fought the slave trade. He won the trust of a people he had never met not by force but with patience, courage and a doctor’s skills. The coast of New Guinea where he lived is still called the Maclay Coast, and his idea that no people is higher or lower than another still sounds modern.

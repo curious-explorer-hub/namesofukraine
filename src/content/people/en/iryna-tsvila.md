@@ -29,8 +29,8 @@ Back home, she returned to her garden and, with her daughter, opened a workshop 
 
 ## The first days of the full-scale war
 
-On 24 February 2022 Iryna and her husband joined the defence of the Kyiv region. Iryna Tsvila was killed on 25 February 2022 in the fighting for Irpin. She was 52.
+On the first day of the full-scale war, 24 February 2022, Iryna and her husband joined the defence of the Kyiv region. Iryna Tsvila was killed on 25 February 2022 in the fighting for Irpin. She was 52.
 
 ## Why it matters today
 
-Iryna Tsvila could do many things: she taught children, grew roses, took photographs and made jewellery from flowers. With her camera she documented the Maidan, and in 2014 she volunteered for the Sich battalion herself. Back home she returned to her garden and, with her daughter, opened a workshop they chose to give a Ukrainian name, Verba. On 24 February 2022 she joined the defence of the Kyiv region. She believed everyone can bring victory closer by doing what they know how to do, not only at the front. Her life shows that you can give your country everything you know how to do: a camera, a garden and your service.
+Iryna Tsvila showed that you can give your country everything you know how to do: a camera, a garden and your service. Twice she stepped up to defend Ukraine, as a volunteer in 2014 and on the first day of the full-scale war, and back home she grew roses and gave her workshop a deliberately Ukrainian name. She believed everyone can bring victory closer by doing what they know how to do, not only at the front. Her example invites each of us to find our own part in that victory.

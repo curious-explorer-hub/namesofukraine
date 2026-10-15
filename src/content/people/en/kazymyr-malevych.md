@@ -35,4 +35,4 @@ Whose artist he is remains disputed. Malevich was born in Kyiv to a Polish famil
 
 ## Why it matters today
 
-Malevich showed that a painting need not depict anything at all: it can be pure form and color. His Black Square became a symbol of 20th-century abstract art, and his ideas still shape painting, design and architecture. He did more than paint: he explained the new art in books and articles and taught students, El Lissitzky among them. Born in Kyiv, he studied at Mykola Murashko’s drawing school there and later came back to teach and exhibit. His path shows that one bold idea can change the art of the whole world.
+Malevich showed that a painting need not depict anything at all: it can be pure form and color. His Black Square became a symbol of 20th-century abstract art, and his ideas still shape painting, design and architecture. Born and trained in Kyiv, he kept coming back to teach and exhibit, and scholars see traces of folk art and icon painting in his work. His path shows that one bold idea can change the art of the whole world.

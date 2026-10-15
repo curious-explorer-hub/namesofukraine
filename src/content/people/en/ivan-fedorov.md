@@ -32,4 +32,4 @@ After a quarrel with the prince Fedorov went back to Lviv, but he never managed 
 
 ## Why it matters today
 
-Fedorov is called the founder of book printing in Ukraine. The Lviv Apostol, which he printed with help from the city’s townspeople, is the oldest known book printed in Ukraine, and his primer was the first printed textbook in Eastern Europe. In Ostroh he published the Ostroh Bible, the first full edition of the Bible in Church Slavonic and a masterpiece of printing. His press passed to the Lviv Dormition Brotherhood, whose school printed on his equipment for a long time and used his ornaments until the early 19th century. Printing in Ukraine begins with that Lviv Apostol.
+Fedorov brought a printing press to Lviv, and books no longer had to be copied out by hand. Printing in Ukraine begins with his Apostol, and the printed textbook with his primer. The Ostroh Bible showed that books made here could be called masterpieces of printing. His tombstone says what mattered: he “renewed neglected printing”. Every Ukrainian book we pick up today goes back to that beginning.

@@ -33,7 +33,7 @@ On 2 February 2015, near the village of Lozuvatka in the Dnipropetrovsk region, 
 
 ## Why it matters today
 
-Andrii Kuzmenko founded Skriabin while still a medical student and led the band for more than a quarter of a century: 16 studio albums, from Chuiesh Bil to 24. As host of Hariacha Simka, Shans and Sheikanemo he was a familiar voice on air for years. His songs live on: Tina Karol, Boombox, Antytila, KAZKA and others have covered them. After his death, thousands of people in cities across Ukraine gathered in squares to sing Skriabin’s songs together. And of the Euromaidan he said words that still matter today: “Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want.”
+Andrii Kuzmenko took the Chervona Ruta stage in 1991, as Ukraine was becoming independent, and for more than a quarter of a century Skriabin was one of the voices a generation grew up with. A medical student from Sambir showed that you can follow your music all the way. And of the Euromaidan he said words that still matter today: “Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want.”
 
 ## Debates and assessments
 

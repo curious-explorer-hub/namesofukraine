@@ -27,8 +27,8 @@ In 2016 Voroshylov joined the 204th Tactical Aviation Brigade, the same brigade 
 
 ## An evening over Vinnytsia
 
-On 10 October 2022, during a massive Russian missile attack, Voroshylov shot down two cruise missiles. On 12 October he destroyed five Iranian-made Shahed kamikaze drones: three over southern Ukraine and two over Vinnytsia. During the last attack his MiG-29 was damaged. Seeing the lights of a settlement ahead, he steered the jet towards open fields, and only then ejected.
+During a massive Russian missile attack on 10 October 2022, Voroshylov shot down two cruise missiles. On 12 October he destroyed five Iranian-made Shahed kamikaze drones: three over southern Ukraine and two over Vinnytsia. During the last attack his MiG-29 was damaged. Seeing the lights of a settlement ahead, he steered the jet towards open fields, and only then ejected.
 
 ## Why it matters today
 
-Vadym Voroshylov never dreamed of the sky, yet in 2017 he was named the best young pilot of the South Air Command, and he was one of the few cleared to fly at night. He left the service, fed up with bureaucracy, and went back when the full-scale invasion began. On 10 and 12 October 2022 he shot down two cruise missiles and five Shahed drones, then steered his damaged MiG-29 away from the lights of a settlement before ejecting. That is the choice he is known for: first the people below, then himself. In his own words, Ukraine’s Defense Forces “stand to protect the whole civilised world.”
+Vadym Voroshylov showed that the sky is defended not only by those who dreamed of it as children: training brought him to aviation, and the war brought him back to the army. He could have stayed a civilian, but when the full-scale invasion began he went back and defended Ukrainian cities against missiles and Shahed drones. When his MiG-29 was hit, he first steered it away from the people below, and only then saved himself. His story is a reminder that courage means thinking of others at the hardest moment. In his own words, Ukraine’s Defense Forces “stand to protect the whole civilised world.”

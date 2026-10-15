@@ -27,7 +27,7 @@ In 1923–1929 Olena studied at the Ukrainian Higher Pedagogical Institute in Pr
 
 ## Kyiv, 1941
 
-On 22 October 1941 she arrived in Nazi-occupied Kyiv with the OUN expeditionary groups. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She is believed to have saved the poet Yakiv Halperin from arrest. When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate. On 9 February 1942 the Gestapo arrested her at the Union’s premises.
+She arrived in Nazi-occupied Kyiv with the OUN expeditionary groups on 22 October 1941. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She is believed to have saved the poet Yakiv Halperin from arrest. When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate. On 9 February 1942 the Gestapo arrested her at the Union’s premises.
 
 Olena Teliha was executed in February 1942, most likely at Babyn Yar; the exact date is unknown. Her poems were published as a book only after her death, in the collection The Soul on Guard (1946).
 
@@ -37,4 +37,4 @@ Teliha belonged to the OUN and published in Vistnyk, edited by Dontsov, the chie
 
 ## Why it matters today
 
-Olena Teliha’s story shows that you can claim your language as an adult: a young woman raised among Russian speakers stood up one evening in Prague, called Ukrainian her own, and spoke nothing else from then on. In her poems and essays she saw the Ukrainian woman as an equal participant in the struggle for independence. In occupied Kyiv she headed the Union of Ukrainian Writers, and when the occupiers replaced the newspaper with a loyal one, she refused to cooperate. She is believed to have saved the poet Yakiv Halperin from arrest. Her line “Victory is given only to those who could laugh even in pain” reached readers only after her death, in The Soul on Guard.
+Olena Teliha’s story shows that you can claim your language as an adult: a young woman raised among Russian speakers stood up one evening in Prague, called Ukrainian her own, and spoke nothing else from then on. In her poems and essays she saw the Ukrainian woman as an equal participant in the struggle for independence. In occupied Kyiv she refused to cooperate with the occupiers. Her line “Victory is given only to those who could laugh even in pain” still gives strength to anyone going through hard times.

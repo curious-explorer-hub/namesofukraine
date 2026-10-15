@@ -16,7 +16,7 @@ image_alt: "Pavlo Chubynskyi with a beard, in a dark frock coat, a photo from th
 
 ## A poem in one evening
 
-In the autumn of 1862, on Velyka Vasylkivska Street in Kyiv, Ukrainian activists met with Serbian students. The Serbs sang a patriotic song of their own. According to a contemporary, 23-year-old Pavlo Chubynskyi stepped into another room and came back with a finished poem: Shche ne vmerla Ukrainy i slava, i volia (“Ukraine’s glory and freedom have not yet perished”). He was already publishing verse as “Pavlus”, and together with [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) and others he was at the core of the Kyiv Hromada, a circle of the Ukrainian intelligentsia.
+On Velyka Vasylkivska Street in Kyiv, one autumn evening in 1862, Ukrainian activists met with Serbian students. The Serbs sang a patriotic song of their own. According to a contemporary, 23-year-old Pavlo Chubynskyi stepped into another room and came back with a finished poem: Shche ne vmerla Ukrainy i slava, i volia (“Ukraine’s glory and freedom have not yet perished”). He was already publishing verse as “Pavlus”, and together with [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) and others he was at the core of the Kyiv Hromada, a circle of the Ukrainian intelligentsia.
 
 ## Exile to the North
 
@@ -28,7 +28,7 @@ Meanwhile the poem lived a life of its own. In 1863 it was printed in Lviv witho
 
 ## Banished again
 
-In 1873 Chubynskyi helped found a branch of the Geographical Society in Kyiv, which historians see as a forerunner of the Ukrainian Academy of Sciences. But a denunciation for “Ukrainophilism” led to the Ems Decree of 1876: the branch was shut down, and Chubynskyi and Drahomanov were forbidden to live in Ukraine. In 1879, already ill, he came home. He died in Kyiv in 1884 and was buried in Boryspil.
+Chubynskyi helped found a branch of the Geographical Society in Kyiv in 1873; historians see it as a forerunner of the Ukrainian Academy of Sciences. But a denunciation for “Ukrainophilism” led to the Ems Decree of 1876: the branch was shut down, and Chubynskyi and Drahomanov were forbidden to live in Ukraine. In 1879, already ill, he came home. He died in Kyiv in 1884 and was buried in Boryspil.
 
 ## Why it matters today
 

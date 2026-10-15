@@ -22,7 +22,7 @@ Raisa Korzh was born in 1943 in the village of Koreshchyna in the Poltava region
 
 ## The voice of the Cherkasy choir
 
-In 1962 Raisa joined the ensemble Veselka at the Poltava Philharmonic, then sang with the ensemble Lonok in Zhytomyr. For fifteen years, from 1968 to 1983, she was a soloist of the Cherkasy Folk Choir. Later she returned to the Poltava Philharmonic, where the ensemble Churaivna was created on her initiative. Kyrychenko earned her diploma as a choral conductor when she was already famous, in 1989, and later taught singing herself at the Poltava music college.
+Raisa joined the ensemble Veselka at the Poltava Philharmonic in 1962, then sang with the ensemble Lonok in Zhytomyr. For fifteen years, from 1968 to 1983, she was a soloist of the Cherkasy Folk Choir. Later she returned to the Poltava Philharmonic, where the ensemble Churaivna was created on her initiative. Kyrychenko earned her diploma as a choral conductor when she was already famous, in 1989, and later taught singing herself at the Poltava music college.
 
 ## “Quiet Water” and “Two Colors”
 
@@ -30,4 +30,4 @@ She sang folk songs such as “Quiet Water” and “Oh, I Am Pretty”, and son
 
 ## Why it matters today
 
-Raisa Kyrychenko reached the big stage from a factory choir. Her voice joined old folk songs such as “Quiet Water” with new ones such as “Two Colors”, and audiences heard them from Poltava to Canada and Australia. She did more than sing: the ensemble Churaivna was her idea, and once famous she trained as a choral conductor and taught singing at the Poltava music college. That is why she is called the “guardian of Ukrainian song”: she kept it alive by passing it on. Her own words are advice for anyone: love Ukraine “in everyday work, and in what you leave behind for people.”
+Raisa Kyrychenko came to the big stage from a factory choir and showed that Ukrainian song, old and new, could be heard from Poltava to Canada and Australia. She did more than sing: she started an ensemble and taught younger singers, which is why she is called the “guardian of Ukrainian song”: she kept it alive by passing it on. Anyone who sings “Two Colors” or “Quiet Water” today carries on what she did. Her own words are advice for anyone: love Ukraine “in everyday work, and in what you leave behind for people.”

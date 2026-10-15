@@ -18,7 +18,7 @@ quotes:
 
 ## The book they took off the shelves
 
-In 1966 a young poet from Lviv published his first collection in Kyiv, Kupala’s Fire. Soon it was withdrawn from sale in western Ukraine, and the author was summoned to the regional Communist Party committee to explain his “suspicious” lines. His next books came out only abroad: in Brussels, Munich and New York.
+A young poet from Lviv published his first collection, Kupala’s Fire, in Kyiv in 1966. Soon it was withdrawn from sale in western Ukraine, and the author was summoned to the regional Communist Party committee to explain his “suspicious” lines. His next books came out only abroad: in Brussels, Munich and New York.
 
 ## The Sixtiers’ voice in Lviv
 
@@ -32,10 +32,10 @@ Iryna was arrested in January 1972, and he was arrested on 11 August. The court 
 
 ## The impresario of a former poet
 
-In 1981 Kalynets came back to Lviv and stopped writing poems. By then he had put together seventeen collections, nine of them before his arrest. From then on he called himself “the impresario of the former Ihor Kalynets”. In 1987 he helped publish the unofficial journal Yevshan-zillia, and later he wrote fairy tales for children. In 1992 he received the Shevchenko Prize.
+Kalynets came back to Lviv in 1981 and stopped writing poems. By then he had put together seventeen collections, nine of them before his arrest. From then on he called himself “the impresario of the former Ihor Kalynets”. In 1987 he helped publish the unofficial journal Yevshan-zillia, and later he wrote fairy tales for children. In 1992 he received the Shevchenko Prize.
 
 Ihor Kalynets died in Lviv on 28 June 2025, aged 85, and was buried in the field of honour at Lychakiv Cemetery.
 
 ## Why it matters today
 
-Ihor Kalynets knew what he was taking on. He said it was his duty as a poet to stand up for persecuted people who had done something for Ukraine, and for poems printed in the West he served six years in the camps and three in exile. While still in the camp he was made a member of PEN. His first collection was taken off sale and the next came out only abroad, yet in 1991 all seventeen collections were published together. For children, he left fairy tales. His life shows that words someone tries to ban do reach their readers in the end.
+Ihor Kalynets knew what he was taking on: he saw it as a poet’s duty to stand up for the persecuted, and he paid for his poems with nine years of captivity. Yet his words could not be stopped: collections that could not be printed at home came out abroad and found their readers. His life shows that words someone tries to ban reach their readers in the end, and that they are worth standing up for.

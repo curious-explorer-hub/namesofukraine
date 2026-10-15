@@ -32,8 +32,8 @@ On 12 January 1972 Svitlychnyi was arrested again, for “anti-Soviet agitation 
 
 ## The light that stayed
 
-In 1990 his first and only collection of poems published in his lifetime came out, A Heart for Bullets and Rhymes, with a foreword by Dziuba. Ivan Svitlychnyi died in Kyiv on 25 October 1992. His sister Nadiia Svitlychna tried to finish the dictionary of synonyms he had begun. In 1994 he was posthumously awarded the Shevchenko Prize.
+His first and only collection of poems published in his lifetime, A Heart for Bullets and Rhymes, came out only in 1990, with a foreword by Dziuba. Ivan Svitlychnyi died in Kyiv on 25 October 1992. His sister Nadiia Svitlychna tried to finish the dictionary of synonyms he had begun. In 1994 he was posthumously awarded the Shevchenko Prize.
 
 ## Why it matters today
 
-Ivan Svitlychnyi opened his door to a generation: in the flat on Umanska Street poets and artists found talk, bread and a bed, and much of what we call the Sixtiers movement gathered around his doorstep. He recorded [Vasyl Symonenko](/en/people/vasyl-symonenko/) on tape, which is how the poet’s voice survives. As a teenager he lost the fingers of both hands, yet he learned to write and made words his work. As one of the Sixtiers’ leaders he spent more than 11 years in captivity, and in those years he translated The Tale of Ihor’s Campaign. He called culture a nation’s shield and sword; anyone who gathers people around the written word carries on his work.
+Ivan Svitlychnyi opened his door to a whole generation, and much of what we call the Sixtiers movement gathered around his doorstep. Thanks to him we can still hear the voice of [Vasyl Symonenko](/en/people/vasyl-symonenko/). He showed that culture can be resistance: he paid for words passed from hand to hand with more than 11 years in captivity, and even there he kept working with words. He called culture a nation’s shield and sword; anyone who gathers people around the written word carries on his work.

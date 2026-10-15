@@ -28,8 +28,8 @@ In 1996 she launched the project Dzvinkyi Viter (Ringing Wind): medieval ballads
 
 ## The anthem, 500 times
 
-In 2006–2007 Ruslana was a member of Ukraine’s parliament. In the winter of 2013–2014 she became one of the most visible faces of the Euromaidan: according to the Atlantic Council, she sang Ukraine’s national anthem from the Maidan stage more than 500 times. In 2014 she received the Vasyl Stus Prize, and the Atlantic Council gave her its award for humanitarian leadership.
+Ruslana sat in Ukraine’s parliament in 2006–2007. In the winter of 2013–2014 she became one of the most visible faces of the Euromaidan: according to the Atlantic Council, she sang Ukraine’s national anthem from the Maidan stage more than 500 times. In 2014 she received the Vasyl Stus Prize, and the Atlantic Council gave her its award for humanitarian leadership.
 
 ## Why it matters today
 
-Ruslana’s victory showed that the sounds of the Carpathians could feel modern on Europe’s biggest stage. A trembita, Hutsul culture and Ukrainian sung alongside English brought Ukraine its first Eurovision win. Even earlier she had paired medieval ballads with modern music and toured Ukraine’s castles to draw attention to their restoration. On the Maidan she used her fame to support the protesters and draw the world’s attention to Ukraine, singing the anthem from the stage more than 500 times. Her path shows that tradition can sound new, and that fame can serve one’s country.
+Ruslana showed that the sounds of the Carpathians could feel modern on Europe’s biggest stage: with a trembita, and Ukrainian sung alongside English, Ukraine won Eurovision for the first time. The world heard that Ukrainian tradition isn’t old-fashioned; it can be a discovery. On the Maidan she put her fame at the service of the protesters and drew the world’s attention to Ukraine. Her path shows that tradition can sound new, and that fame can serve one’s country.

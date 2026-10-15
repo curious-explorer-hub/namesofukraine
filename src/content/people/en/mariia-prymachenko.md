@@ -18,7 +18,7 @@ quotes:
 
 ## Did Picasso really bow before her?
 
-In 1937 Mariia Prymachenko’s work was shown at the World’s Fair in Paris. Ever since, people have quoted Pablo Picasso as saying, on seeing it, that he bowed before “the artistic miracle of this brilliant Ukrainian woman”. It’s a lovely story, but no one cites a primary source for the line.
+Mariia Prymachenko’s work was shown at the 1937 World’s Fair in Paris. Ever since, people have quoted Pablo Picasso as saying, on seeing it, that he bowed before “the artistic miracle of this brilliant Ukrainian woman”. It’s a lovely story, but no one cites a primary source for the line.
 
 What we do know: a year before Paris, her work won first prize at an exhibition of folk art in Kyiv, Moscow and Leningrad. Not bad for a self-taught artist.
 
@@ -32,4 +32,4 @@ She painted flowers in unusual colors, birds as signs of goodness and peace, and
 
 ## Why it matters today
 
-Mariia Prymachenko taught herself to paint, yet she created a world of her own: flowers in unusual colors, birds as signs of goodness and peace, and “beasts” that don’t exist. She made more than 800 works. She showed that art the world honors can grow in a village in Polissia. In 2022 a museum guard in Ivankiv and his wife carried her paintings out of the fire under shelling; since then her beasts and doves became a symbol of Ukraine’s resilience. Her caption on a poppy painting reads as a wish to us all: “I give red poppies to people, so they would love the holy land and work on it.”
+Mariia Prymachenko, a self-taught artist from a village in Polissia, created a world of her own that is honored far beyond Ukraine. She showed that world-class art can grow out of folk tradition and one’s own land. When her paintings were carried out of the fire in Ivankiv in 2022, her beasts and doves became one of the symbols of Ukraine’s resilience. Her caption on a poppy painting reads as a wish to us all: “I give red poppies to people, so they would love the holy land and work on it.”

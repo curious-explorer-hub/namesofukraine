@@ -23,14 +23,14 @@ More than a hundred roles in the theater and as many again on screen: that is Bo
 
 ## From Don Juan to Tevye
 
-In 1978 Stupka moved to the Ivan Franko Theater in Kyiv, and from 2001 to 2012 he was its artistic director. There he played Mykola Zadorozhnyi in Ivan Franko’s Stolen Happiness, Don Juan in [Lesya Ukrainka](/en/people/lesya-ukrainka/)’s The Stone Host, and the Author in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). His Tevye in Tevye-Tevel, based on [Sholem Aleichem](/en/people/sholom-aleikhem/), won him the Shevchenko Prize (1993).
+Stupka moved to the Ivan Franko Theater in Kyiv in 1978, and from 2001 to 2012 he was its artistic director. There he played Mykola Zadorozhnyi in Ivan Franko’s Stolen Happiness, Don Juan in [Lesya Ukrainka](/en/people/lesya-ukrainka/)’s The Stone Host, and the Author in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). His Tevye in Tevye-Tevel, based on [Sholem Aleichem](/en/people/sholom-aleikhem/), won him the Shevchenko Prize (1993).
 
 On screen Stupka appeared in Yurii Illienko’s A White Bird with a Black Mark, The Kaidash Family, With Fire and Sword and East/West.
 
 ## An actor in the minister’s chair
 
-In 1999–2001 Stupka headed Ukraine’s Ministry of Culture and Arts. In 2011 he received the title of Hero of Ukraine. He died in Kyiv on 22 July 2012 and was buried at Baikove Cemetery.
+Stupka headed Ukraine’s Ministry of Culture and Arts in 1999–2001. In 2011 he received the title of Hero of Ukraine. He died in Kyiv on 22 July 2012 and was buried at Baikove Cemetery.
 
 ## Why it matters today
 
-Stupka became a symbol of Ukrainian theater at the turn of the 21st century. He acted in plays by Ivan Franko and [Lesya Ukrainka](/en/people/lesya-ukrainka/) and in The Aeneid after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/), and his Tevye, after [Sholem Aleichem](/en/people/sholom-aleikhem/), won the Shevchenko Prize: on his stage Ukrainian and world classics stood side by side. Krzysztof Zanussi, Jerzy Hoffman, Régis Wargnier and Otar Iosseliani worked with him too. For more than a decade he led the Ivan Franko Theater, and served as Minister of Culture. He dreamed of Ukrainian culture becoming “known all over the world” and was happy to help make it happen. His roles remain a benchmark of the actor’s craft.
+Bohdan Stupka became a symbol of Ukrainian theater at the turn of the 21st century. On his stage Ukrainian classics stood side by side with world classics, as equals. He dreamed of Ukrainian culture becoming “known all over the world” and worked for it himself: on stage, on screen and in the minister’s chair. His road from a Lviv theater studio to the head of the Ivan Franko Theater shows how far an actor can go who believes in his own culture.

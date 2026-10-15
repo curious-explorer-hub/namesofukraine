@@ -25,7 +25,7 @@ Denys Prokopenko’s diploma is not from a military academy but from a faculty o
 
 ## From private to commander of Azov
 
-In 2014, when the war in the Donbas began, Prokopenko joined Azov, a special-purpose unit of Ukraine’s National Guard, under the call sign Redis. In February 2015, together with other Azov fighters and the Donbas battalion, he fought for the village of Shyrokyne, and the Russian-backed militants were pushed 20 kilometres back from Mariupol. In September 2017, aged 26, Prokopenko took command of the whole unit.
+When the war in the Donbas began in 2014, Prokopenko joined Azov, a special-purpose unit of Ukraine’s National Guard, under the call sign Redis. In February 2015, together with other Azov fighters and the Donbas battalion, he fought for the village of Shyrokyne, and the Russian-backed militants were pushed 20 kilometres back from Mariupol. In September 2017, aged 26, Prokopenko took command of the whole unit.
 
 ## More than 80 days under siege
 
@@ -35,4 +35,4 @@ On 20 May, on the orders of Ukraine’s top military command, he was among the l
 
 ## Why it matters today
 
-Denys Prokopenko never trained as a soldier: his degree is in teaching English, and he joined Azov in 2014. He led the defence of encircled Mariupol for over 80 days. Awarding the Azovstal commanders the Gold Star, the head of the Office of the President said they and their troops “managed to tie down huge enemy forces. Forces that the enemy lacked to occupy larger territories.” Prokopenko was among the last to leave Azovstal on orders, survived captivity and took command of Azov again. In 2024 he wrote of captive Azov fighters: “We will bring everyone back.” As of October 2026 Brigadier General Prokopenko commands the Azov grouping of forces.
+Denys Prokopenko never trained as a soldier: an English teacher by degree, he went to defend his country when the war began. The more than 80 days of defending encircled Mariupol mattered for all of Ukraine: in the words of the head of the Office of the President, the defenders “managed to tie down huge enemy forces. Forces that the enemy lacked to occupy larger territories.” He showed that an army is made strong not only by military academies but by people who choose to defend their land. As of October 2026 Brigadier General Prokopenko commands the Azov grouping of forces.

@@ -15,7 +15,7 @@ image_alt: "Colonel Volodymyr Baraniuk in Marine field uniform and a boonie hat"
 
 ## The first time they caught him
 
-In March 2014, as Russia seized Crimea, Major Volodymyr Baraniuk was deputy commander of a marine battalion in Feodosia. When Russian troops surrounded the base and flew the senior officers out by helicopter, Baraniuk took charge of the encircled unit. Russian troops fired on the unarmed marines and threw flash grenades at them; Baraniuk came away with broken ribs and a head injury. He was released on 26 March 2014, along with the other captured marines.
+As Russia seized Crimea in March 2014, Major Volodymyr Baraniuk was deputy commander of a marine battalion in Feodosia. When Russian troops surrounded the base and flew the senior officers out by helicopter, Baraniuk took charge of the encircled unit. Russian troops fired on the unarmed marines and threw flash grenades at them; Baraniuk came away with broken ribs and a head injury. He was released on 26 March 2014, along with the other captured marines.
 
 ## Mariupol
 
@@ -25,8 +25,8 @@ In early April 2022 Baraniuk led a column trying to break out of the besieged ci
 
 ## Captivity since
 
-On 8 May 2022, Russian state media showed Baraniuk alive in captivity.
+Russian state media showed Baraniuk alive in captivity on 8 May 2022.
 
 ## Why it matters today
 
-Twice, Volodymyr Baraniuk took on responsibility at the hardest moment. In Feodosia in 2014, after the senior officers had been flown out, he took charge of an encircled battalion of unarmed marines. Eight years later his 36th Brigade, surrounded in Mariupol, held back a far larger force. Even after the breakout failed and he was captured, the brigade did not fall apart: about 500 soldiers led by [Serhii Volynskyi](/en/people/serhii-volynskyi/) fought their way through to Azovstal and joined its defenders. His path shows that a commander is someone who doesn’t step aside when the decision falls to him.
+Twice, Volodymyr Baraniuk took on responsibility at the hardest moment: in Feodosia in 2014 and in encircled Mariupol in 2022. His brigade held back a far larger force for more than a month and did not fall apart even after he was captured. His path shows that a commander is someone who doesn’t step aside when the decision falls to him.

@@ -18,7 +18,7 @@ quotes:
 
 ## Why “Sumrak”?
 
-On 12 August 2014, a group of 14 scouts under Colonel Ihor Hordiichuk broke through to Savur-Mohyla - a hill in the Donetsk region that overlooks the surrounding land for miles. His call sign, “Sumrak” (Twilight), became a sign to the enemy that the hill would not fall.
+A group of 14 scouts under Colonel Ihor Hordiichuk broke through on 12 August 2014 to Savur-Mohyla - a hill in the Donetsk region that overlooks the surrounding land for miles. His call sign, “Sumrak” (Twilight), became a sign to the enemy that the hill would not fall.
 
 ## Twelve days under fire
 
@@ -28,8 +28,8 @@ On 21 October 2014 a presidential decree made him a Hero of Ukraine with the Gol
 
 ## From lyceum to university
 
-Before his rehabilitation was even finished, Hordiichuk took on a new mission: heading the Kyiv Military Lyceum named after [Ivan Bohun](/en/people/ivan-bohun/), a 17th-century Cossack colonel who defended Ukraine much as Hordiichuk defended Savur-Mohyla. For seven years he raised teenagers who, after 2022, went on to defend the country themselves. In November 2023 he moved to become deputy head of the National Defence University of Ukraine, a post he still holds.
+Before his rehabilitation was even finished, Hordiichuk took on a new mission: heading the Kyiv Military Lyceum named after [Ivan Bohun](/en/people/ivan-bohun/), a 17th-century Cossack colonel who defended Ukraine much as Hordiichuk defended Savur-Mohyla. For seven years he raised teenagers who, after 2022, went on to defend the country themselves. In November 2023 he became deputy head of the National Defence University of Ukraine.
 
 ## Why it matters today
 
-Savur-Mohyla became a symbol of how a small group can hold a key position against far larger forces: Hordiichuk’s 14 scouts held the hill for 12 days and directed artillery fire. He survived a severe wound and did not leave the service. Before his rehabilitation was even finished, he took charge of the Kyiv Military Lyceum named after [Ivan Bohun](/en/people/ivan-bohun/), and for seven years he raised teenagers who, after 2022, went on to defend the country themselves. In November 2023 he moved to the National Defence University of Ukraine. Hordiichuk’s story shows that a severe wound doesn’t end a life of service.
+Ihor Hordiichuk showed that a small group can hold a key height against far larger forces, and Savur-Mohyla became a symbol of it. A severe wound did not end his service: he went on to raise the next generation, and after 2022 his cadets went to defend the country themselves. His story is for anyone who thinks there is no getting up after a blow: you can hold on and keep serving your country.

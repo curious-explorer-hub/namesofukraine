@@ -20,14 +20,14 @@ Did you know that, even before the full-scale war, Maksym Yalovtsov was teaching
 
 ## Rugby, combat sports and Dynamo
 
-Maksym was born in 1990. According to the Memorial platform, he was born in Russia, and when he was one his family moved to the Donetsk region. He grew up in Torez (now Chystiakove), and in 2002 the family moved to Kyiv. As a boy he played football and supported Dynamo Kyiv. Later he took up rugby and played in the first team of Aviator in Ukraine’s top division. He became a Master of Sport of Ukraine in grappling, free fight and mixed martial arts, and won medals at world and European championships in pankration and Brazilian jiu-jitsu.
+Maksym was born in 1990, reportedly in Russia, and when he was one his family moved to the Donetsk region. He grew up in Torez (now Chystiakove), and in 2002 the family moved to Kyiv. As a boy he played football and supported Dynamo Kyiv. Later he took up rugby and played in the first team of Aviator in Ukraine’s top division. He became a Master of Sport of Ukraine in grappling, free fight and mixed martial arts, and won medals at world and European championships in pankration and Brazilian jiu-jitsu.
 
 ## A volunteer from day one
 
-When the full-scale invasion began, Maksym and like-minded friends, many of them Dynamo fans, gathered groups of volunteers. From the first days they defended Kyiv in the Mriia volunteer unit. Later Private Yalovtsov, call sign “Rugbyist”, carried out missions behind enemy lines. Sources differ on where he served: the award decree lists him among National Guard servicemen, while Memorial names him as a fighter of the Defence Intelligence Directorate.
+When the full-scale invasion began, Maksym and like-minded friends, many of them Dynamo fans, gathered groups of volunteers. From the first days they defended Kyiv in the Mriia volunteer unit. Later Private Yalovtsov, call sign “Rugbyist”, carried out missions behind enemy lines. Accounts of his service differ: some list him as a National Guard serviceman, others as a fighter of the Defence Intelligence Directorate.
 
 Maksym Yalovtsov was killed on 21 September 2022 during a mission on the Zaporizhzhia front. He was 32.
 
 ## Why it matters today
 
-Maksym Yalovtsov was preparing to protect others before the full-scale war: he founded Civil Safety and taught civilians to handle weapons safely. A rugby player and Master of Sport, he gathered volunteers with fellow Dynamo fans and defended Kyiv from the first days of the invasion. When a Russian strike destroyed Retroville, he was the first to pull friends from the rubble and help the wounded. His story shows how skills built in peacetime, from sport and teaching to friendship, become something to lean on when a country needs defending. In Odesa a jiu-jitsu tournament was held in memory of him and his comrade [Yevhenii Brakh](/en/people/yevhenii-brakh/).
+Maksym Yalovtsov was preparing to protect others before the full-scale war, and he taught civilians to do the same. When the war came, he didn’t wait for orders: with friends from the Dynamo stands he gathered volunteers and defended Kyiv from the first days. His story shows how sport, teaching and friendship built in peacetime become something to lean on when a country needs defending. Anyone learning to help others today carries on his work. In Odesa a jiu-jitsu tournament was held in memory of him and his comrade [Yevhenii Brakh](/en/people/yevhenii-brakh/).

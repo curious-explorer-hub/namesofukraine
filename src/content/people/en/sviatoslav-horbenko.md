@@ -22,10 +22,10 @@ Sviatoslav was born on 26 December 1994 in Poltava. He finished the Ivan Kotliar
 
 ## The volunteer "Skeld"
 
-In summer 2014 Sviatoslav passed his university military-training exams for the rank of junior lieutenant, and in August he volunteered for the 5th Battalion of the Ukrainian Volunteer Corps "Right Sector". He took the call sign "Skeld". From the end of September he fought at Donetsk airport; [Serhii Tabala](/en/people/serhii-tabala/), who also defended the airport, came from the same 5th Battalion.
+While still a student, in summer 2014, Sviatoslav passed his university military-training exams for the rank of junior lieutenant, and in August he volunteered for the 5th Battalion of the Ukrainian Volunteer Corps "Right Sector". He took the call sign "Skeld". From the end of September he fought at Donetsk airport; [Serhii Tabala](/en/people/serhii-tabala/), who also defended the airport, came from the same 5th Battalion.
 
 On 3 October 2014, during the fighting for the airport, Sviatoslav and a comrade were carrying out the wounded. Sviatoslav Horbenko was killed that day at Donetsk airport while rescuing a wounded friend. He was 19. He is buried in Kyiv, at Berkovets Cemetery.
 
 ## Why it matters today
 
-Sviatoslav Horbenko was a student who spoke several languages and was learning Japanese, and at the same time one of the “cyborgs” of Donetsk airport. When Maidan activists in Kharkiv faced persecution, he didn’t give up his studies; he transferred to Kyiv. In summer 2014 he passed his exams for the rank of junior lieutenant and volunteered. At the airport he and a comrade carried out the wounded, and he was killed rescuing a friend. Sviatoslav showed that learning and courage don’t pull in different directions. His institute set up a scholarship in his name for students of Japanese, so others carry on what he began.
+Sviatoslav Horbenko was a student who spoke several languages and was learning Japanese, and at the same time one of the “cyborgs” of Donetsk airport. At the airport he did more than hold the line: he carried the wounded to safety. He showed that learning and courage don’t pull in different directions: you can love scholarship and still stand up for your country. His institute set up a scholarship in his name for students of Japanese, so others carry on what he began.

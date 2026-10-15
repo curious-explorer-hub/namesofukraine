@@ -19,7 +19,7 @@ quotes:
 
 ## A camera meant for Netflix
 
-In 2021 Yuliia Paievska was given a body camera to film material for a Netflix documentary series produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When Russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
+Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series … *(rest of section unchanged)* produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When Russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
 
 ## Treating the enemy too
 
@@ -33,4 +33,4 @@ On 16 March 2022 Russian troops detained Taira as she was trying to evacuate wom
 
 ## Why it matters today
 
-Taira’s footage, which showed the world the siege of Mariupol, was seen by millions of people: a camera meant for a documentary became a record of medics saving the wounded in a besieged city. Since 2014 she had been teaching tactical medicine in Donbas and leading the “Taira’s Angels” paramedic team, so the people she trained know how to save lives too. She treated even wounded Russian soldiers, because they were prisoners of war. Her choice shows that it is possible to stay humane even where the enemy offers no such mercy. For this work she received the US International Women of Courage Award and Ukraine’s Order of Freedom.
+A camera meant for a documentary became evidence for the whole world: through Taira, people saw how medics saved the wounded in besieged Mariupol. She had been teaching tactical medicine since 2014, so the people she trained save lives too. She treated even wounded Russian soldiers, and that choice shows it is possible to stay humane where the enemy offers no such mercy. Her example is a reminder that courage means both carrying the truth to the world and helping anyone in need. For this work she received the US International Women of Courage Award and Ukraine’s Order of Freedom.

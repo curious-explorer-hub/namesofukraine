@@ -24,10 +24,10 @@ Briukhovetskyi was born in 1947 in Vladikavkaz, where his parents had moved from
 
 ## The new “Mohyla”
 
-In 1991, by an ordinance of the Chairman of the Verkhovna Rada (Ukraine’s parliament), the historical Kyiv-Mohyla Academy was re-established on its historical grounds as an independent university. Briukhovetskyi, who had initiated the revival, became its organizing rector; the university officially opened in August 1992. In 1994 it was given national status, and Briukhovetskyi became its first elected president, leading it until 2007.
+By an ordinance of the Chairman of the Verkhovna Rada (Ukraine’s parliament) in 1991, the historical Kyiv-Mohyla Academy was re-established on its historical grounds as an independent university. Briukhovetskyi, who had initiated the revival, became its organizing rector; the university officially opened in August 1992. In 1994 it was given national status, and Briukhovetskyi became its first elected president, leading it until 2007.
 
 The university was built on the North American model: students were admitted through rigorous entrance tests, teaching was in Ukrainian and English, and it was the first in Ukraine to introduce a four-year bachelor’s degree (1992), a 100-point grading scale and a two-year master’s degree (1996). In 2007 Briukhovetskyi was made a Hero of Ukraine; as of October 2026 he is honorary president of the university.
 
 ## Why it matters today
 
-Briukhovetskyi had no experience of higher education, yet in 1991 he wrote Order No. 1 himself and set about building the Mohyla Academy anew. It was the first university in Ukraine to introduce a four-year bachelor’s degree, a 100-point grading scale and a two-year master’s, and it admitted students only through rigorous tests. It is generally considered the least corrupt of the country’s classical universities, rankings consistently place it among the best, and Briukhovetskyi is called its “founding father”. He has also given its library more than 15,000 of his own books. His path shows that an honest university can be built from scratch, if someone dares to start.
+Briukhovetskyi had no experience of higher education, yet he dared to write Order No. 1 himself and build the Mohyla Academy anew. He brought a historic academy back to life and made it a modern university open to the world: it taught in Ukrainian and English, and admission depended on knowledge alone. His path shows that a modern university can be built from scratch, if someone dares to start.

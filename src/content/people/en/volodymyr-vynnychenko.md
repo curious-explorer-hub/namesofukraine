@@ -24,7 +24,7 @@ He was born in 1880 into a peasant family in the village of Veselyi Kut near Yel
 
 ## From the Central Rada to the Directory
 
-In 1917 Vynnychenko and [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) led the Ukrainian national movement: he became deputy head of the Central Rada (Ukraine’s revolutionary parliament) and then head of the General Secretariat, the first Ukrainian government. He wrote or co-wrote all four of the Rada’s Universals (manifestos). For a time he favored a federal union with Russia, but in January 1918 he backed the independence proclaimed by the Fourth Universal.
+Vynnychenko and [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) led the Ukrainian national movement in 1917: he became deputy head of the Central Rada (Ukraine’s revolutionary parliament) and then head of the General Secretariat, the first Ukrainian government. He wrote or co-wrote all four of the Rada’s Universals (manifestos). For a time he favored a federal union with Russia, but in January 1918 he backed the independence proclaimed by the Fourth Universal.
 
 Under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/) Vynnychenko was in opposition, and in November 1918 he became head of the Directory of the Ukrainian People’s Republic (UPR), which rose against the hetman and took power. By February 1919 he had left the Directory: the Entente, whose support the government was counting on, did not want a socialist at the head of the UPR. [Symon Petliura](/en/people/symon-petliura/) took over as head of the Directory.
 
@@ -40,4 +40,4 @@ In emigration harsher accusations were heard: the very title of Petro Solukha’
 
 ## Why it matters today
 
-Vynnychenko headed Ukraine’s first government and co-wrote the Universals of the Central Rada, including the Fourth Universal, which proclaimed the independence of the UPR. His plays were staged across Europe, and The Sun Machine is seen as the first utopian novel in Ukrainian literature. His memoir Rebirth of a Nation is one of the key eyewitness accounts of the Ukrainian Revolution. In it he wrote: “We will show, not in theory, not in resolutions […], but in life […], that we have not yet been strangled, that we want to live, can live and will live.” In 2021 his plays came out in English as Disharmony and Other Plays.
+Vynnychenko was among those who built Ukraine’s first government in 1917 and drafted the Universals that led to the independence of the UPR. He showed that a writer whose plays were staged across Europe could also be a builder of a state. His disputed path is a reminder that Ukraine’s independence did not come ready-made: it was won by people who argued, made mistakes and looked for their own way.

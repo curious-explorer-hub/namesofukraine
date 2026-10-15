@@ -21,10 +21,10 @@ Ihor Branovytskyi was born on 25 April 1976 in Pushcha-Vodytsia, now a part of K
 
 ## The last days at the airport
 
-In January 2015 Branovytskyi arrived for a second rotation defending Donetsk airport, which Ukrainian troops had held for more than 240 days by then, earning them the nickname "cyborgs". When the fighters blew up the ceiling of the new terminal, Branovytskyi pulled wounded comrades from the rubble and gave them first aid, applying tourniquets. When some of the defenders were taken prisoner, he was the one who identified himself as the machine gunner, to draw the blow away from the others.
+Branovytskyi arrived for a second rotation defending Donetsk airport in January 2015. Ukrainian troops had held it for more than 240 days by then, earning them the nickname "cyborgs". When the fighters blew up the ceiling of the new terminal, Branovytskyi pulled wounded comrades from the rubble and gave them first aid, applying tourniquets. When some of the defenders were taken prisoner, he was the one who identified himself as the machine gunner, to draw the blow away from the others.
 
 Ihor Branovytskyi was killed in captivity on 21 January 2015. He was 38.
 
 ## Why it matters today
 
-All his life, Ihor Branovytskyi stepped into other people’s place. He served as a peacekeeper in Angola, took part in the Revolution of Dignity, and in 2014 volunteered for the front. At Donetsk airport he pulled wounded comrades from the rubble of the new terminal and put tourniquets on them. Then, in captivity, when his captors were looking for the machine gunner, he said it was him, to draw the blow away from the others. He showed that courage can mean taking the danger on yourself to protect the people beside you. He was made a Hero of Ukraine posthumously.
+All his life Ihor Branovytskyi stepped into other people’s place: as a peacekeeper in Angola, on the Maidan, as a volunteer at the front. In his last days he saved wounded comrades, and in captivity he took the danger on himself to shield the people beside him. What he did shows that courage is not only a weapon in your hands but the will to stand up for someone else when you are afraid. He was made a Hero of Ukraine posthumously.

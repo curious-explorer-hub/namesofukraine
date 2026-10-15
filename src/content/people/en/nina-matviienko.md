@@ -28,10 +28,10 @@ For her first 30 years on stage she sang mostly ritual folk songs: New Year song
 
 ## From carols to rock
 
-From 1991 Matviienko sang with the ensemble Kyivska Kamerata. In 1995 she played 16 performances with the La MaMa theater in New York, and she acted in films and TV plays, including Marusia Churai and Kateryna Bilokur. In the 2000s she shared the stage with Okean Elzy, Tanok na Maidani Kongo and [Oleh Skrypka](/en/people/oleh-skrypka/). She won the Shevchenko Prize (1988) and was made a Hero of Ukraine (2006).
+Matviienko sang with the ensemble Kyivska Kamerata from 1991. In 1995 she played 16 performances with the La MaMa theater in New York, and she acted in films and TV plays, including Marusia Churai and Kateryna Bilokur. In the 2000s she shared the stage with Okean Elzy, Tanok na Maidani Kongo and [Oleh Skrypka](/en/people/oleh-skrypka/). She won the Shevchenko Prize (1988) and was made a Hero of Ukraine (2006).
 
 Nina Matviienko died on 8 October 2023 in Kyiv, two days before her 76th birthday.
 
 ## Why it matters today
 
-Nina Matviienko brought ancient ritual songs, carols, spring songs, Kupala and harvest songs, to modern listeners. Her voice inspired composers: Stankovych, Skoryk and Kyva wrote especially for her, and she showed that folk singing can stand alongside classical music. Then she proved it alive next to rock, singing with Okean Elzy, Tanok na Maidani Kongo and [Oleh Skrypka](/en/people/oleh-skrypka/), and performing with the La MaMa theater in New York. She explained herself why it matters: “When there are traditions, there is a nation, there is a people, there is a state.” Anyone who sings a carol today carries on what she kept alive for over half a century.
+Nina Matviienko brought ancient ritual songs to modern listeners and proved they were alive: her voice inspired composers, and folk singing came to stand beside both classical music and rock. She explained herself why it matters: “When there are traditions, there is a nation, there is a people, there is a state.” She showed that tradition is not a museum piece but a voice you can take onto any stage, from the Veriovka Choir to a New York theater. Anyone who sings a carol today carries on what she kept alive for over half a century.

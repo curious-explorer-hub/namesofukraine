@@ -28,8 +28,8 @@ Hawrylyshyn was a member of the Club of Rome, a group of scientists and public f
 
 ## What he brought home
 
-From 1989 Hawrylyshyn worked closely with Ukraine’s scientific and state institutions. In 1991–1998 he chaired the Consultative Advisory Council to the Presidium of the Verkhovna Rada (the parliament), was co-chair of the International Renaissance Foundation, and co-founded the International Management Institute in Kyiv. From 2003 he was an honorary consul of Ukraine in Switzerland. He died in Kyiv in 2016.
+Hawrylyshyn worked closely with Ukraine’s scientific and state institutions from 1989. *(rest of section unchanged)* In 1991–1998 he chaired the Consultative Advisory Council to the Presidium of the Verkhovna Rada (the parliament), was co-chair of the International Renaissance Foundation, and co-founded the International Management Institute in Kyiv. From 2003 he was an honorary consul of Ukraine in Switzerland. He died in Kyiv in 2016.
 
 ## Why it matters today
 
-Bohdan Hawrylyshyn went from a teenage forced laborer and a lumberjack in Canada to director of the International Management Institute in Geneva. His report to the Club of Rome, on how to make societies more effective, was translated into 8 languages. When Ukraine became independent, he brought that experience home: he chaired a council advising the parliament’s Presidium, co-chaired the International Renaissance Foundation and co-founded the International Management Institute in Kyiv. His life bears out his own advice: “dream, but dream big, about great things.” You can start with almost nothing, and still bring what you learn in the world back to your own country.
+Bohdan Hawrylyshyn showed that even from the hardest start, forced labor and a lumber camp, you can reach the world’s top level. But his most important work came when Ukraine became independent: he brought home what he had learned abroad and helped build the new state. His life bears out his own advice: “dream, but dream big, about great things.” Anyone studying or working abroad can follow his example and bring what they learn back to their own country.

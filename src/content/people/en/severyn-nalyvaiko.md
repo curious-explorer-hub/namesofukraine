@@ -23,7 +23,7 @@ Nalyvaiko first appears in the records in April 1594: in Podillia he gathered a 
 
 ## The uprising
 
-In the autumn of 1595 Nalyvaiko became the central figure in the Cossacks’ struggle, now against the order of the Polish-Lithuanian Commonwealth itself. His band raided from Lutsk through Slutsk, Babruisk and Mahiliou. Helped by the townspeople, the rebels took Bratslav, Bar, Lutsk, Kaniv, Cherkasy and other towns. The uprising was not without violence: in Bratslav the rebels and townspeople killed local noblemen, and in Terebovlia and Husiatyn Nalyvaiko laid waste to the estates of the nobleman Kalinowski, whom he blamed for his father’s death. By February 1596 he controlled most of Volhynia.
+Soon, in the autumn of 1595, Nalyvaiko became the central figure in the Cossacks’ struggle, now against the order of the Polish-Lithuanian Commonwealth itself. His band raided from Lutsk through Slutsk, Babruisk and Mahiliou. Helped by the townspeople, the rebels took Bratslav, Bar, Lutsk, Kaniv, Cherkasy and other towns. The uprising was not without violence: in Bratslav the rebels and townspeople killed local noblemen, and in Terebovlia and Husiatyn Nalyvaiko laid waste to the estates of the nobleman Kalinowski, whom he blamed for his father’s death. By February 1596 he controlled most of Volhynia.
 
 ## Solonytsia
 
@@ -31,4 +31,4 @@ The government sent Hetman Stanisław Żółkiewski with the royal army to put t
 
 ## Why it matters today
 
-Severyn Nalyvaiko rose from a captain in a prince’s service to a hetman chosen by the Cossacks themselves. First he defended Podillia against the Tatars and, alongside other leaders, held back the Turkish advance on Austria. Then he led the Cossacks against the order of the Polish-Lithuanian Commonwealth, and with the townspeople’s help the rebels took Bratslav, Lutsk and other towns. The uprising was crushed, but his life and death gave rise to many folk legends and songs. [Taras Shevchenko](/en/people/taras-shevchenko/) glorified him as a hero, and [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/) considered his novel Severyn Nalyvaiko his finest work. So a sixteenth-century Cossack leader became part of Ukrainian literature still read today.
+Severyn Nalyvaiko rose from a captain in a prince’s service to a hetman chosen by the Cossacks themselves. His uprising brought Cossacks and townspeople together against the order of the Polish-Lithuanian Commonwealth and showed what a force the Cossacks could become for the Ukrainian lands. It was crushed, but not forgotten: folk legends and songs were made about him, [Taras Shevchenko](/en/people/taras-shevchenko/) glorified him as a hero, and [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/) considered his novel Severyn Nalyvaiko his finest work.

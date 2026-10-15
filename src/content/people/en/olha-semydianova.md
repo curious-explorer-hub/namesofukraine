@@ -23,10 +23,10 @@ Olha was born in 1973 in Zaporizhzhia, a city on the Dnipro in southern Ukraine.
 
 ## With her company
 
-In 2015 Olha’s husband went to the war as a volunteer, and the next year she went to the front herself. When she said goodbye at home, Olha would repeat: “If we are not there, they will come into our homes.” In early March 2022, when the commander ordered the women pulled back from the front line during a battle, she refused and stayed with her company.
+Olha’s husband went to the war as a volunteer in 2015, and the next year she went to the front herself. When she said goodbye at home, Olha would repeat: “If we are not there, they will come into our homes.” In early March 2022, when the commander ordered the women pulled back from the front line during a battle, she refused and stayed with her company.
 
 Olha Semydianova was killed on 3 March 2022 on the border of the Donetsk and Zaporizhzhia regions. She was 48.
 
 ## Why it matters today
 
-Olha Semydianova gave a home to six boys from an orphanage and became a mother of twelve. When the war came, she went to the front so that it wouldn’t reach their homes, and saved the wounded on the front line even before she officially became a combat medic. She cared for people at home and where things were hardest, and she did not leave her company. Several of her children, like their parents, have gone to defend Ukraine. “She became an example for us of patriotism and love for our land,” her daughter says. Anyone who takes responsibility for others can lean on her example.
+Olha Semydianova gave a home to six boys from an orphanage, and when the war came she went to the front so that it wouldn’t reach their homes. She saved the wounded on the front line while on paper she was still a seamstress, and she did not leave her company when the women were ordered back. Her life shows that caring and courage are one and the same: taking responsibility for others, at home and where it is hardest. Anyone who doesn’t look away from someone else’s trouble carries on what she did.

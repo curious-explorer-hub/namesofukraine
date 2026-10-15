@@ -33,4 +33,4 @@ After the Games she moved to the United States, and for eight years she was a le
 
 ## Why it matters today
 
-Independent Ukraine's Olympic story began with Baiul. As of 2020 she was still Ukraine's only Olympic champion in figure skating. Anyone who doubts themselves can remember how a 16-year-old from Dnipro didn't give up.
+Independent Ukraine's Olympic story began with Baiul: for her win, the Games had to wait while someone found a recording of Ukraine's anthem. She won just as the young country was stepping onto the world stage, and showed that Ukraine could beat the best. Anyone who doubts themselves can remember how a 16-year-old from Dnipro skated through the pain and didn't give up.

@@ -28,10 +28,10 @@ Kvitka Cisyk was born in 1953 in Queens, New York. Her family had lived in Lviv 
 
 ## The most wanted voice in advertising
 
-From the mid-1970s Cisyk worked in the studio: she sang radio and TV commercials and sang backing vocals for Carly Simon, Linda Ronstadt and Michael Bolton. From the early 1980s she was one of the most popular jingle singers in the United States.
+Cisyk worked in the studio from the mid-1970s: she sang radio and TV commercials and sang backing vocals for Carly Simon, Linda Ronstadt and Michael Bolton. From the early 1980s she was one of the most popular jingle singers in the United States.
 
 For Ukraine, she paid out of her own pocket to record two albums of Ukrainian songs: Kvitka: Songs of Ukraine (1980) and Two Colors (1989). In 1983 she visited Ukraine unofficially. She died of cancer in New York in 1998.
 
 ## Why it matters today
 
-Kvitka Cisyk could have remained just a voice from American commercials: from the early 1980s she was one of the most popular jingle singers in the United States. But this New Yorker, the daughter of a family from Lviv, never let go of what Saturday school of Ukrainian studies and Plast camps had given her. She paid for two albums of Ukrainian songs herself, Kvitka: Songs of Ukraine and Two Colors, and brought many listeners to Ukrainian song; the albums are still heard in Ukraine. She wanted to weave “joyful notes” into the fabric of her people’s life, and she showed that a culture can be cherished far from home.
+Kvitka Cisyk could have remained just one of the most popular voices in American advertising. But this New Yorker, the daughter of a family from Lviv, paid to record two albums of Ukrainian songs herself and brought many listeners to Ukrainian song. She wanted to weave “joyful notes” into the fabric of her people’s life, and she showed that a culture can be cherished far from home. Anyone living abroad can carry Ukraine with them in the same way.

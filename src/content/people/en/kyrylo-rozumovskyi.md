@@ -33,4 +33,4 @@ His social policy is also viewed critically: the decree of 1760, which forbade p
 
 ## Why it matters today
 
-Rozumovskyi was the last hetman of the Hetmanate. The imperial government decided his election, but he tried to run domestic policy himself: he divided the Hetmanate into 20 counties, introduced new courts, reformed the Cossack army and made Baturyn the capital again, with plans for a university there. He obtained a decree in 1752 banning the spread of servitude to Ukrainians. So the Hetmanate still had its own courts, army and plans for the future. Abolishing the hetmancy in 1764 was one of the steps toward the complete elimination of Ukrainian autonomy in the Russian Empire, and the palace he built in Baturyn has been restored in our own time.
+Kyrylo Rozumovskyi was the last hetman of the Hetmanate, and under him it still tried to live as a state of its own, with its own courts, its own army and plans for a university in Baturyn. Catherine II’s abolition of the hetmancy shows how much even that degree of autonomy stood in the empire’s way. His story is a reminder that a state rests not on the capital’s favour but on institutions of its own.

@@ -28,10 +28,10 @@ Hetman was born in 1935 in the village of Snityn in the Poltava region, into a f
 
 ## Laws for a new state
 
-In 1990 Hetman was elected to the Verkhovna Rada, Ukraine’s parliament. He co-wrote the laws On the Economic Independence of the Ukrainian SSR and On Banks and Banking. In December 1992 he left the National Bank because he disagreed with the official line on the terms of leaving the “rouble zone”. In 1994 he was elected to parliament a second time and took part in adopting the 1996 Constitution.
+Hetman was elected to the Verkhovna Rada, Ukraine’s parliament, in 1990. He co-wrote the laws On the Economic Independence of the Ukrainian SSR and On Banks and Banking. In December 1992 he left the National Bank because he disagreed with the official line on the terms of leaving the “rouble zone”. In 1994 he was elected to parliament a second time and took part in adopting the 1996 Constitution.
 
 On 22 April 1998 Vadym Hetman was shot dead by a hired killer in the entrance of the Kyiv apartment building where he lived. In 2003 the Luhansk Regional Court of Appeal sentenced the killers to life; the verdict did not name who ordered the murder. The prosecution named former prime minister Pavlo Lazarenko as the organizer; Lazarenko denies any involvement and calls the case fabricated. In 2005 Hetman was posthumously made a Hero of Ukraine.
 
 ## Why it matters today
 
-Hetman was one of the builders of independent Ukraine’s monetary system: the National Bank, its own currency and an interbank currency exchange. His signature is on the first paper hryvnias, and his name is linked with Ukraine joining the IMF, the World Bank and the EBRD. As an MP he co-wrote the laws on economic independence and on banks, and he left the National Bank because he disagreed with the terms of leaving the “rouble zone”. He helped adopt the 1996 Constitution and wrote a book about it, because “history exists for future generations only as long as books exist.” The Kyiv National Economic University bears his name.
+Vadym Hetman was one of the builders of independent Ukraine’s monetary system: the National Bank, its own currency and an interbank currency exchange. Without money of its own, independence would have been incomplete, so every hryvnia in your wallet is part of the work he began. He put principle above position: he left the National Bank when he disagreed with the terms of leaving the “rouble zone”. His path shows that independence is built not only on the barricades but also where laws are written and money is counted.

@@ -22,7 +22,7 @@ In the 1920s, 23 of Ostap Vyshnia’s books went through 42 editions. Only Shevc
 
 ## From medic to “smiles”
 
-In 1919, in Kamianets-Podilskyi, where the government of the Ukrainian People’s Republic was then based, he began publishing as P. Hrunskyi. In 1920 the Bolshevik security service jailed him; Vasyl Blakytnyi, editor of the newspaper Visti VUTsVK, helped get him out.
+He first went into print in Kamianets-Podilskyi in 1919, when the government of the Ukrainian People’s Republic was based there, signing himself P. Hrunskyi. In 1920 the Bolshevik security service jailed him; Vasyl Blakytnyi, editor of the newspaper Visti VUTsVK, helped get him out.
 
 From 1921 Kharkiv newspapers and magazines ran his feuilletons and “smiles”, now signed Ostap Vyshnia: about the village, language, Ukrainization and Russian great-power chauvinism. With [Maik Yohansen](/en/people/maik-yohansen/) and [Mykola Khvylovy](/en/people/mykola-khvylovyi/) he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
 
@@ -34,4 +34,4 @@ Released in 1943, he lived in Kyiv from 1944 and wrote again. In those years he 
 
 ## Why it matters today
 
-Ostap Vyshnia is a classic of Ukrainian humor. In the 1920s only Shevchenko’s works outsold his books in total print run, and his “smiles” talked with readers about the village, language and Ukrainization, and mocked Russian great-power chauvinism. His fate shows how the Soviet regime broke artists: one of the most popular writers of his day spent ten years in camps and still went back to writing humor. It was then that he finished Hunting Smiles, about forests, rivers and people out in nature. His work still shows that laughter in Ukrainian can be both comfort and sharp satire.
+Ostap Vyshnia proved that humor in Ukrainian could win a mass readership: in the 1920s only Shevchenko’s books outsold his. His “smiles” talked with readers about language and Ukrainization and mocked Russian great-power chauvinism. The Soviet regime took ten years of his life, and after the camps he went back to humor. His books still show that laughter in Ukrainian can be both comfort and sharp satire.

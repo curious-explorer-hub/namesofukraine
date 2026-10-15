@@ -18,7 +18,7 @@ quotes:
 
 ## The cathedral that scared the authorities
 
-In 1968 Oles Honchar published his novel The Cathedral. In it, an old cathedral stood for a people’s historical memory, and that did not fit Soviet ideology. Readers welcomed the book, but official critics condemned it, and for 20 years The Cathedral was pulled out of literary life.
+Oles Honchar published his novel The Cathedral in 1968. In it, an old cathedral stood for a people’s historical memory, and that did not fit Soviet ideology. Readers welcomed the book, but official critics condemned it, and for 20 years The Cathedral was pulled out of literary life.
 
 ## A student who went to war
 
@@ -32,4 +32,4 @@ From 1959 to 1971 Honchar headed the Writers’ Union of Ukraine. He spoke out a
 
 ## Why it matters today
 
-The Cathedral reminded readers that a people has a historical memory worth guarding, which is why the authorities pulled it for 20 years. Honchar is one of the best-known Ukrainian prose writers of the 20th century, translated into many languages. As head of the Writers’ Union he spoke out against Russification, and later led the fund to rebuild St Michael’s Golden-Domed Monastery. His standing gave support to Ukraine’s democratic forces as the country restored its statehood, and his Diaries, published after his death, revealed his national convictions. His call to “guard the cathedrals of your souls” still speaks to anyone who looks after their language and memory.
+The Cathedral reminded readers that a people has a historical memory worth guarding, which is why the authorities pulled it for 20 years. Honchar put his voice and standing behind the Ukrainian language: he spoke out against Russification, and later set out to rebuild a cathedral that was real, not fictional: St Michael’s Golden-Domed Monastery. His call to “guard the cathedrals of your souls” still speaks to anyone who looks after their language and memory.

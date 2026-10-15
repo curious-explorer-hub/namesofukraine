@@ -37,4 +37,4 @@ Dovzhenko’s career fell in the Stalin era, and scholars judge it in different 
 
 ## Why it matters today
 
-Dovzhenko took Ukrainian cinema to world level: Ukrainian national cinema is counted from his Zvenyhora, and critics named Earth among the 12 best films of all time. The question from his diary, “Is love for one’s own people really nationalism?”, still speaks to anyone who has had to stand up for the right to be themselves. That is why the Kyiv film studio, the Oleksandr Dovzhenko National Centre and Ukraine’s State Prize for cinema bear his name.
+Dovzhenko took Ukrainian cinema to world level: Ukrainian national cinema is counted from his Zvenyhora, and critics named Earth among the 12 best films of all time. The question from his diary, “Is love for one’s own people really nationalism?”, still speaks to anyone who has had to stand up for the right to be themselves. Anyone making films about Ukraine today walks a road he opened.

@@ -29,4 +29,4 @@ On 11 April 1979 Bykov was killed in a car crash on a highway near Kyiv. He had 
 
 ## Why it matters today
 
-Leonid Bykov was thrown out of flight school, yet he reached the sky after all, on screen. He directed Only “Old Men” Are Going to Battle himself and played its Captain Titarenko, and it became the best-known film about Second World War pilots. Bykov’s films mix humor, lyricism and humanity, so even his war stories are first of all about people, and new generations keep watching them. His path shows that a dream that fails one way can find another. Fittingly, a squadron of a Ukrainian aviation regiment now bears his name.
+Leonid Bykov was thrown out of flight school, yet he reached the sky after all, on screen. His films mix humor, lyricism and humanity, so even his war stories are first of all about people, and new generations keep finding that in them. His path shows that a dream that fails one way can find another. Fittingly, a squadron of a Ukrainian aviation regiment now bears his name: the sky he filmed is defended today by real pilots.

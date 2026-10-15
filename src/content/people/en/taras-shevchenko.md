@@ -25,10 +25,10 @@ Until he was 24, Taras Shevchenko was a serf: he and his whole family, from the 
 
 ## The poems that scared an empire
 
-In 1840 Kobzar came out, and modern Ukrainian literature began with it. But Shevchenko also wrote poems that mocked imperial power, and he belonged to the Brotherhood of Saints Cyril and Methodius. In 1847 he was sent into exile as a soldier, to remote fortresses near the Urals and the Caspian Sea, with orders not to write or draw.
+Kobzar came out in 1840, and modern Ukrainian literature began with it. But Shevchenko also wrote poems that mocked imperial power, and he belonged to the Brotherhood of Saints Cyril and Methodius. In 1847 he was sent into exile as a soldier, to remote fortresses near the Urals and the Caspian Sea, with orders not to write or draw.
 
 The ban didn’t break him. After his release in 1857 he returned to Saint Petersburg, and in 1860 the Academy of Arts, where he had once studied, made him an academician of engraving. He died the following year and was buried above the Dnipro, on Chernecha Hill in Kaniv.
 
 ## Why it matters today
 
-Shevchenko proved that great literature could be written in Ukrainian: modern Ukrainian literature began with his Kobzar. He put into words the ideas Ukrainian national identity grew from: freedom, dignity and resistance to oppression. His own life ran from a serf whose freedom artists bought to an academician of engraving, and even exile with orders not to write or draw did not break him. His “Testament” has been translated into more than 60 languages, and his words “Fight on, and you will prevail!” still ring out today for everyone defending their freedom.
+Shevchenko proved that great literature could be written in Ukrainian: modern Ukrainian literature began with his Kobzar. He put into words the ideas Ukrainian national identity grew from: freedom, dignity and resistance to oppression. His life shows that words are stronger than bondage: neither serfdom nor exile with orders not to write could silence him. And his call “Fight on, and you will win!” still rings out today for everyone defending their freedom.

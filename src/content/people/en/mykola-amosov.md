@@ -33,4 +33,4 @@ Amosov wrote books for general readers, among them Thoughts and the Heart and Th
 
 ## Why it matters today
 
-Amosov showed that science, hard work and discipline save lives. He was the first in Ukraine to operate on the heart with artificial circulation, the first in the USSR to replace a mitral valve with a prosthesis, and the first in the world to create heart valve prostheses that prevent blood clots. His clinic grew into an institute that in time performed about 3,000 heart operations a year. And through his books for general readers and his “limits and loads” system, he taught people to look after their own health. His example shows that the courage to do what no one has done before turns into lives saved.
+Mykola Amosov showed that science, hard work and discipline save lives. He took on heart operations no one in Ukraine had done before, and his clinic grew into an institute that has saved thousands of lives. Through his books for general readers he taught everyone to look after their own health. His example shows that the courage to do what no one has done before turns into lives saved.

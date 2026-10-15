@@ -26,10 +26,10 @@ So she taught herself, from nature. She made her first drawings with charcoal on
 
 ## The letter that changed everything
 
-In the spring of 1940 Bilokur heard the singer Oksana Petrusenko on the radio and wrote her a letter. The letter reached specialists, and that same year Bilokur’s paintings were shown in Poltava, then in Kyiv in 1941.
+It began with a song on the radio. In the spring of 1940 Bilokur heard the singer Oksana Petrusenko and wrote her a letter. The letter reached specialists, and that same year Bilokur’s paintings were shown in Poltava, then in Kyiv in 1941.
 
 In 1954 three of her canvases, among them “Tsar Kolos”, were shown at an international exhibition in Paris. Pablo Picasso is said to have praised them highly, though his words about her are reported in different ways. Two of those paintings never came back to Ukraine. In 1956 Bilokur was named People’s Artist of the Ukrainian SSR.
 
 ## Why it matters today
 
-Bilokur proved that real art can be born anywhere: in a village, without art training, through talent and persistence. Her parents didn’t want her to paint and the college turned her away, so she learned from nature, mixed her paints from beetroot and viburnum and made her own brushes. Her flowers combine precise observation with the decorative spirit of folk art, and in 1954 three of her canvases were shown at an international exhibition in Paris. As she herself wrote: “So how can I not paint them, when they are so beautiful?” Anyone told they’ll get nowhere without the right certificate can remember her road from Bohdanivka.
+Kateryna Bilokur proved that real art can be born anywhere: in a village, without art training, through talent and persistence. Her flowers, with their precise observation and the decorative spirit of folk art, became a style of her own, and with it a Ukrainian village reached an international exhibition in Paris. She showed that when other doors are shut, you can still learn from nature itself. Anyone told they’ll get nowhere without the right certificate can remember her road from Bohdanivka.

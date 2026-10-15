@@ -26,12 +26,16 @@ Mykhailyna was born in 1931 in Vinnytsia. Her father, Khoma, a brother of the wr
 
 ## A protest and twenty years of silence
 
-On 4 September 1965, during a screening of the film Shadows of Forgotten Ancestors at the Ukraina cinema in Kyiv, she joined the protest against the arrests of Ukrainian intellectuals. She retyped and passed around samvydav, the banned self-published texts, among them [Ivan Dziuba](/en/people/ivan-dziuba/)’s Internationalism or Russification? In 1968 she signed the "Letter of 139" against the arrests, and that same year she was dismissed from the institute. For almost a year no one would hire her; then, until 1987, she worked as an editor at a publishing house, and her scholarly work was kept out of print.
+At a screening of the film Shadows of Forgotten Ancestors at the Ukraina cinema in Kyiv on 4 September 1965, she joined the protest against the arrests of Ukrainian intellectuals. She retyped and passed around samvydav, the banned self-published texts, among them [Ivan Dziuba](/en/people/ivan-dziuba/)’s Internationalism or Russification? In 1968 she signed the "Letter of 139" against the arrests, and that same year she was dismissed from the institute. For almost a year no one would hire her; then, until 1987, she worked as an editor at a publishing house, and her scholarly work was kept out of print.
 
 In 1972 the KGB summoned her for questioning for several months on end. They wanted her to recant in public, and she would not. At Stus's trial she gave him a strong, positive character reference.
 
-## Why it matters today
+## Stus’s “sister”
 
 Kotsiubynska wrote letters to friends in the camps. From exile, Stus called her his sister. After his death she compiled The Road of Pain (1990), his first book in Ukraine, and then led the team that published his collected works; a whole volume of it holds his letters, with her commentary. She considered this the most important work of her life. With Valentyna Chornovil she also compiled the volume of letters of [Viacheslav Chornovil](/en/people/viacheslav-chornovil/).
 
-Mykhailyna Kotsiubynska died on 7 January 2011 in Kyiv. Much of the Stus we read today reached us through her hands.
+Mykhailyna Kotsiubynska died on 7 January 2011 in Kyiv.
+
+## Why it matters today
+
+Mykhailyna Kotsiubynska twice chose her ideals over her safety: when she handed back her party card, and when she refused to recant under KGB questioning. It cost her almost twenty years of silence, but she never stopped working for Ukrainian writing. Much of the Stus we read today reached us through her hands. Her life shows that even when you are kept out of print, you can save for others a voice the regime tried to silence.

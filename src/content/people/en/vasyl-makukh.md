@@ -30,7 +30,7 @@ At home the family spoke Ukrainian, which was already unusual in the city. In 19
 
 ## A protest on Khreshchatyk
 
-On 5 November 1968, two days before the main Soviet holiday, Vasyl Makukh came to Khreshchatyk in Kyiv, near the Bessarabsky Market, and set himself on fire. He ran towards what is now Independence Square, shouting slogans against the colonisers and the occupiers of Czechoslovakia, and “Long live a free Ukraine!” He died in hospital the next day. He was 40.
+Two days before the main Soviet holiday, on 5 November 1968, Vasyl Makukh came to Khreshchatyk in Kyiv, near the Bessarabsky Market, and set himself on fire. He ran towards what is now Independence Square, shouting slogans against the colonisers and the occupiers of Czechoslovakia, and “Long live a free Ukraine!” He died in hospital the next day. He was 40.
 
 It was the first protest of its kind in Ukraine. Soviet newspapers said nothing, but the news reached foreign radio stations. The KGB questioned Makukh’s wife for three months and she lost her job; his funeral in Dnipropetrovsk took place under KGB watch.
 
@@ -42,4 +42,4 @@ When the badly burned Vasyl Makukh was brought to hospital, one of the doctors r
 
 ## Why it matters today
 
-Vasyl Makukh came through the UPA, camps and exile, and was barred from his native Galicia, yet at home his family spoke Ukrainian, rare in the city. It was the first protest of its kind in Ukraine. Soviet newspapers kept silent, but the news reached foreign radio. Two and a half months later Jan Palach made the same protest in Prague, and in 1978 [Oleksa Hirnyk](/en/people/oleksa-hirnyk/) did so in Kaniv. Makukh’s name long stayed almost unknown, even in Ukraine. He believed his children would “yet be proud of their father”; now anyone can know his courage and faith in a free Ukraine, marked since 2017 by a plaque on Khreshchatyk.
+Vasyl Makukh’s protest was the first of its kind in Ukraine: a former political prisoner walked onto the capital’s main street and shouted “Long live a free Ukraine!” Soviet newspapers kept silent, but the news reached the world, and later Jan Palach in Prague and [Oleksa Hirnyk](/en/people/oleksa-hirnyk/) in Kaniv made the same protest. His act is a reminder that Ukraine’s freedom had defenders even when almost no one could hear them. He believed his children would “yet be proud of their father”, and the free Ukraine he never lived to see can now know his name: since 2017 a plaque on Khreshchatyk has marked it.

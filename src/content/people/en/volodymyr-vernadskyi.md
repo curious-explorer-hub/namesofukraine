@@ -25,7 +25,7 @@ Volodymyr Vernadskyi was born in 1863 in Saint Petersburg into a family with Ukr
 
 ## The Academy’s first president
 
-In 1918, under the Ukrainian State of Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), Vernadskyi headed the commission to establish the Ukrainian Academy of Sciences and became its first president. That same year he was among the founders of the National Library of Ukraine.
+Under the Ukrainian State of Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), in 1918, Vernadskyi headed the commission to establish the Ukrainian Academy of Sciences and became its first president. That same year he was among the founders of the National Library of Ukraine.
 
 ## Life as a geological force
 
@@ -37,4 +37,4 @@ Vernadskyi’s views on the Ukrainian question were moderate: he was a liberal, 
 
 ## Why it matters today
 
-Vernadskyi was one of the first to see that life is a geological force that changes a whole planet. He stood at the start of new sciences, geochemistry and biogeochemistry, and his theory of the biosphere and the noosphere influenced modern ecological thinking. He did as much for Ukraine: in 1918 he led the creation of the Ukrainian Academy of Sciences, became its first president and helped found the National Library of Ukraine, which now bears his name. His idea of the noosphere, in which human reason becomes the main force changing the planet, is summed up in his own words about the future: “It is in our hands.”
+Vernadskyi helped the world see that life is a force that changes a whole planet, and that human reason has itself become such a force. He did as much for Ukraine: in 1918, as the country was building its own state, he became the first president of the Ukrainian Academy of Sciences and helped found the National Library. His words about the future still read like a task for each of us: “It is in our hands.”

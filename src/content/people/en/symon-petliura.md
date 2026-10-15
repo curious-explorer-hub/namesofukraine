@@ -18,7 +18,7 @@ quotes:
 
 ## From bookkeeper to Chief Otaman
 
-In 1911 Symon Petliura moved to Moscow and worked there as a bookkeeper, and later he co-edited the journal Ukrainskaia zhizn with Oleksandr Salikovskyi. Seven years later this journalist became Chief Otaman of the army of the Ukrainian People’s Republic (UPR).
+Symon Petliura moved to Moscow in 1911 and worked there as a bookkeeper, and later he co-edited the journal Ukrainskaia zhizn with Oleksandr Salikovskyi. Seven years later this journalist became Chief Otaman of the army of the Ukrainian People’s Republic (UPR).
 
 He was born in 1879 in Poltava into a townspeople’s family of Cossack origin. In 1901 he was expelled from the Poltava Theological Seminary for belonging to a secret Ukrainian circle. He joined the Revolutionary Ukrainian Party, worked as a teacher and on the archives of the Kuban Cossack Host, and was arrested twice.
 
@@ -42,4 +42,4 @@ Schwartzbard said he was avenging the victims of the pogroms, for which he blame
 
 ## Why it matters today
 
-Symon Petliura became one of the central figures of the 1917–1921 struggle for independence. As the Central Rada’s first General Secretary for Military Affairs he laid the foundations of the Ukrainian armed forces, and as Chief Otaman he led the UPR Army against the Bolsheviks and Denikin’s forces and ordered the start of the First Winter Campaign. In exile he carried the work on: in Paris he founded the weekly Tryzub and led the UPR government in exile. Its first issue declared: “We believe in Ukrainian statehood, we profess Ukrainian statehood, and we are convinced it is inevitable.” Streets in many cities bear his name today.
+Symon Petliura was one of those who laid the foundations of Ukraine’s armed forces while the country was still fighting for a state of its own. His name became a symbol of the 1917–1921 struggle for independence. He did not give up that cause even after defeat, in exile. He put his conviction into a line from the first issue of Tryzub: “We believe in Ukrainian statehood, we profess Ukrainian statehood, and we are convinced it is inevitable.”

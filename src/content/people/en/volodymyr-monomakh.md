@@ -22,7 +22,7 @@ quotes:
 
 ## The prince they had to ask twice
 
-In 1113 Prince Sviatopolk Iziaslavych of Kyiv died, and the townspeople rose up, angry at moneylenders and at profiteering in salt. The town assembly, gathered in St Sophia’s Cathedral, invited Volodymyr Monomakh to take the throne. He refused, perhaps because princes senior to him in the family were still alive. But the uprising went on, and at the second invitation Monomakh agreed. He was 60 years old.
+When Prince Sviatopolk Iziaslavych of Kyiv died in 1113, the townspeople rose up, angry at moneylenders and at profiteering in salt. The town assembly, gathered in St Sophia’s Cathedral, invited Volodymyr Monomakh to take the throne. He refused, perhaps because princes senior to him in the family were still alive. But the uprising went on, and at the second invitation Monomakh agreed. He was 60 years old.
 
 ## Grandson of Yaroslav the Wise
 
@@ -48,4 +48,4 @@ Monomakh died in Kyiv on 19 May 1125 and was buried in St Sophia’s Cathedral.
 
 ## Why it matters today
 
-Monomakh showed that a ruler’s strength is not only in campaigns. He yielded Kyiv to the senior in the family and Chernihiv to a cousin rather than start a feud, and called the princes to congresses to stand together against the Cumans. As Grand Prince of Kyiv he tackled the causes of the uprising: his Statute capped interest on loans and stopped debtors being made bondsmen. In the Instruction for My Children he left advice still worth hearing: “do not forget the poor… and do not let the strong destroy a person.” It is the voice of a prince who cared for peace among his own and for the weak.
+Volodymyr Monomakh showed that a ruler’s strength is not only in campaigns. He was ready to give up what was his for the sake of peace among his own, and he called the princes together to defend their land against the Cumans. Once Grand Prince of Kyiv, he went after what hurt people most: moneylenders and bondage for debt. And in the Instruction for My Children he left advice still worth hearing: “do not let the strong destroy a person.”

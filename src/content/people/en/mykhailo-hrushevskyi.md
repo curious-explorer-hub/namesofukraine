@@ -29,10 +29,10 @@ Hrushevskyi was born in 1866 in the town of Kholm (now Chełm in Poland) into th
 
 ## From autonomy to independence
 
-In 1917 Hrushevskyi was elected head of the Ukrainian Central Rada (council). Under his leadership the Rada first proclaimed autonomy, and then, on 22 January 1918, by its Fourth Universal (proclamation), the independence of the Ukrainian People’s Republic.
+Hrushevskyi was elected head of the Ukrainian Central Rada (council) in 1917. Under his leadership the Rada first proclaimed autonomy, and then, on 22 January 1918, by its Fourth Universal (proclamation), the independence of the Ukrainian People’s Republic.
 
 In 1919 he emigrated, and in 1924 he returned to Soviet Ukraine. In 1931 he was forced to move to Moscow and arrested; after his release he lived under surveillance. In 1934 Hrushevskyi died suddenly in Kislovodsk after a minor operation, and the circumstances of his death still arouse suspicion.
 
 ## Why it matters today
 
-Hrushevskyi gave Ukrainians a scholarly history of their own people: in his ten-volume History of Ukraine-Rus’ he showed that Ukrainian history runs unbroken from Kyivan Rus’, separate from Russia’s. The chair he took over in Lviv became, in effect, the first chair of Ukrainian history, and under his leadership the Shevchenko Scientific Society grew into a true academy of sciences. In 1917 the scholar led the Central Rada from autonomy to the independence of the Ukrainian People’s Republic. What makes a person Ukrainian, he wrote, is their own will and awareness, not origin, faith or rank. The Verkhovna Rada, Ukraine’s parliament, stands today on a street named after him.
+Hrushevskyi gave Ukrainians back their own history: he showed that it runs unbroken from Kyivan Rus’, separate from Russia’s, and Ukrainian historical scholarship still stands on that idea. Then the historian helped make that history himself, as the Central Rada under his leadership declared Ukraine’s independence. What makes a person Ukrainian, he wrote, is their own will and awareness, not origin, faith or rank, an idea that opens Ukraine to everyone who chooses it. It is fitting that the Verkhovna Rada, Ukraine’s parliament, stands on a street named after him.

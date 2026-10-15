@@ -26,18 +26,18 @@ In Lviv, Gongadze hosted the programme Monitor on local television. In 1993 he g
 
 ## The website that wouldn’t keep quiet
 
-In 2000 Gongadze launched and led the online newspaper Ukrainska Pravda. He sharply criticised the authorities for corruption and incompetence. That summer he noticed he was being followed, and in July 2000 he wrote an open letter to the Prosecutor General.
+Gongadze launched and led the online newspaper Ukrainska Pravda in 2000. He sharply criticised the authorities for corruption and incompetence. That summer he noticed he was being followed, and in July 2000 he wrote an open letter to the Prosecutor General.
 
-## 16 September 2000
+## The disappearance
 
-On 16 September 2000 Georgiy Gongadze left his home in Kyiv and disappeared. He was killed. He was 31. In November 2000 the Socialist leader Oleksandr Moroz released recordings made by a former presidential bodyguard, Mykola Melnychenko, on which the then president, Leonid Kuchma, allegedly discusses persecuting the journalist. From December 2000 the “Ukraine without Kuchma” protests went on in Kyiv and later in other cities. In 2004 the demand for the truth about Gongadze’s disappearance was heard again at the protests during the presidential election.
+Georgiy Gongadze left his home in Kyiv on 16 September 2000 and disappeared. He was killed. He was 31. In November 2000 the Socialist leader Oleksandr Moroz released recordings made by a former presidential bodyguard, Mykola Melnychenko, on which the then president, Leonid Kuchma, allegedly discusses persecuting the journalist. From December 2000 the “Ukraine without Kuchma” protests went on in Kyiv and later in other cities. In 2004 the demand for the truth about Gongadze’s disappearance was heard again at the protests during the presidential election.
 
 ## What the courts decided
 
-On 15 March 2008 the Kyiv Court of Appeal found three former officers of the Interior Ministry’s external surveillance department guilty of killing Gongadze and sentenced them to 12–13 years in prison. In January 2013 the department’s former head, Oleksii Pukach, was sentenced to life imprisonment; in July 2021 the Supreme Court upheld the sentence.
+In a ruling of 15 March 2008, the Kyiv Court of Appeal found three former officers of the Interior Ministry’s external surveillance department guilty of killing Gongadze and sentenced them to 12–13 years in prison. In January 2013 the department’s former head, Oleksii Pukach, was sentenced to life imprisonment; in July 2021 the Supreme Court upheld the sentence.
 
 The Prosecutor General’s Office named the former interior minister Yurii Kravchenko as the man who ordered the killing, but he died in 2005, before any trial. A court has not established that Leonid Kuchma was involved in organising the killing. As of September 2026, the question of everyone who ordered or took part in the crime remains open.
 
 ## Why it matters today
 
-Gongadze showed that a journalist can write openly about corruption in power even while being followed: instead of going quiet, he wrote an open letter to the Prosecutor General. The website he founded was called Ukrainska Pravda, “Ukrainian Truth”, and the truth about him was what people demanded: his disappearance didn’t silence the country, it brought it out for the “Ukraine without Kuchma” protests, and in 2004 the same demand was heard again. Anyone who writes about those in power without asking their permission follows his road, and every year on 21 May, his birthday, the Georgiy Gongadze Prize is awarded to journalists.
+Georgiy Gongadze showed that a journalist can write openly about corruption in power even while being followed. His disappearance didn’t silence the country: people took to the streets and demanded the truth, and that demand became part of Ukrainians’ fight for free speech and honest government. Anyone who writes about those in power without asking their permission follows his road.

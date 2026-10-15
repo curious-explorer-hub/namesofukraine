@@ -25,4 +25,4 @@ As a director Mykolaichuk made Babylon XX (1979), based on a novel by Vasyl Zeml
 
 ## Why it matters today
 
-Playing Ivan in Shadows of Forgotten Ancestors and [Taras Shevchenko](/en/people/taras-shevchenko/) in The Dream made Mykolaichuk one of the faces of Ukrainian poetic cinema. But he didn’t stay just an actor: he wrote screenplays, and in Babylon XX and Such a Late, Such a Warm Autumn he was director, co-writer, music arranger and one of the cast all at once. A boy from a Bukovyna village showed that Ukrainian cinema could be made from the first word of the script to the last note. Anyone who discovers these films today meets him in them.
+Playing Ivan in Shadows of Forgotten Ancestors and [Taras Shevchenko](/en/people/taras-shevchenko/) in The Dream made Mykolaichuk one of the faces of Ukrainian poetic cinema. Later he became one of its makers too: he wrote scripts, directed and arranged the music himself. A boy from a Bukovyna village showed that Ukrainian cinema could be made from the first word of the script to the last note. Anyone who wants to tell their own story on film today can learn from him.

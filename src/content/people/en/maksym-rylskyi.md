@@ -23,11 +23,11 @@ Maksym Rylskyi was born in Kyiv in 1895. His father, the ethnographer and public
 
 ## The five Neoclassicists
 
-In 1923 Rylskyi returned to Kyiv and joined the circle of Neoclassicist poets: [Mykola Zerov](/en/people/mykola-zerov/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/), [Mykhailo Drai-Khmara](/en/people/mykhailo-drai-khmara/) and Oswald Burghardt, known as [Yurii Klen](/en/people/yurii-klen/). They shared a love of strict classical forms, and official critics accused them of ignoring “relevant” themes. Rylskyi’s Ukrainian translation of Adam Mickiewicz’s Pan Tadeusz (published as a book in 1927) was a cultural event.
+Rylskyi returned to Kyiv in 1923 and joined the circle of Neoclassicist poets: [Mykola Zerov](/en/people/mykola-zerov/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/), [Mykhailo Drai-Khmara](/en/people/mykhailo-drai-khmara/) and Oswald Burghardt, known as [Yurii Klen](/en/people/yurii-klen/). They shared a love of strict classical forms, and official critics accused them of ignoring “relevant” themes. Rylskyi’s Ukrainian translation of Adam Mickiewicz’s Pan Tadeusz (published as a book in 1927) was a cultural event.
 
 ## Arrested on his birthday
 
-On 19 March 1931, the day Rylskyi turned 36, he was arrested. The arrest is linked to the trial in the fabricated case of the “Union for the Liberation of Ukraine”. He spent five months in Kyiv’s Lukianivka prison, taken from there to interrogations by the secret police (GPU), and came to know its system of intimidation, forced self-accusation and “repentance”. After his release the poet wrote a verse “Declaration of the Duties of a Poet and Citizen” (1931) and the collection The Sign of Libra (1932), in which he accepted the new rules of Soviet literary life. Most of his Neoclassicist friends later died in Stalin’s camps, and Burghardt had to emigrate.
+Rylskyi was arrested on the day he turned 36: 19 March 1931. The arrest is linked to the trial in the fabricated case of the “Union for the Liberation of Ukraine”. He spent five months in Kyiv’s Lukianivka prison, taken from there to interrogations by the secret police (GPU), and came to know its system of intimidation, forced self-accusation and “repentance”. After his release the poet wrote a verse “Declaration of the Duties of a Poet and Citizen” (1931) and the collection The Sign of Libra (1932), in which he accepted the new rules of Soviet literary life. Most of his Neoclassicist friends later died in Stalin’s camps, and Burghardt had to emigrate.
 
 ## Carrot and stick
 
@@ -39,4 +39,4 @@ Some scholars write that after 1932 Rylskyi became one of the main official Sovi
 
 ## Why it matters today
 
-Rylskyi is considered to have done more than any of his contemporaries to develop the Ukrainian literary language. Thanks to him, Mickiewicz’s Pan Tadeusz, Pushkin’s Eugene Onegin, Rostand’s Cyrano de Bergerac and Shakespeare’s King Lear speak Ukrainian, and his Pan Tadeusz is called a model of the translator’s craft. “The richer the thought, the richer the language,” he said, and his translations showed that Ukrainian could carry the world’s classics. The only Kyiv Neoclassicist to survive the terror in Ukraine, he ran for twenty years the academy institute that now bears his name. Anyone who reads Shakespeare or Mickiewicz in Ukrainian today is following a path he opened.
+Rylskyi is considered to have done more than any of his contemporaries to develop the Ukrainian literary language. His translations showed that Ukrainian could carry the world’s classics, from Mickiewicz to Shakespeare. “The richer the thought, the richer the language,” he said. Anyone who reads Shakespeare or Mickiewicz in Ukrainian today is following a path he opened.

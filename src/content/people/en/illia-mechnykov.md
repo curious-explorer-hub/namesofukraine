@@ -18,18 +18,18 @@ quotes:
 
 ## Cells that eat microbes
 
-Ilya Mechnikov was born in 1845 on the Panasivka estate in the Kharkiv region (now the village of Ivanivka in the Kupiansk district). He finished Kharkiv University as an external student in 1864, then trained in Germany and Italy, studying how the embryos of invertebrates develop. In 1868 he defended his doctoral dissertation in zoology in Saint Petersburg.
+How does the body defend itself against microbes? Ilya Mechnikov found the answer in 1882, while he was a professor at the university in Odesa: he described phagocytosis, in which certain cells in the body engulf and digest microbes. On that discovery he built the phagocytic theory of immunity.
 
-In 1882, while he was a professor at the university in Odesa, Mechnikov described phagocytosis: certain cells in the body engulf and digest microbes. On that discovery he built the phagocytic theory of immunity.
+Mechnikov was born in 1845 on the Panasivka estate in the Kharkiv region (now the village of Ivanivka in the Kupiansk district). He finished Kharkiv University as an external student in 1864, then trained in Germany and Italy, studying how the embryos of invertebrates develop. In 1868 he defended his doctoral dissertation in zoology in Saint Petersburg.
 
 ## A station against epidemics
 
-In 1886, together with Mykola Hamaliia and Yakiv Bardakh, Mechnikov founded in Odesa the first bacteriological station in the Russian Empire, and the second in the world, to fight infectious diseases. The very next year he was forced to leave Odesa.
+Together with Mykola Hamaliia and Yakiv Bardakh, Mechnikov founded in Odesa, in 1886, the first bacteriological station in the Russian Empire, and the second in the world, to fight infectious diseases. The very next year he was forced to leave Odesa.
 
 ## A Nobel Prize in Paris
 
-From 1888 Mechnikov worked at the Pasteur Institute in Paris. He headed a laboratory there for the rest of his life and from 1905 was deputy director. In 1908 he shared the Nobel Prize in Physiology or Medicine with Paul Ehrlich. He also studied ageing and recommended fermented milk products as a way to stay young for longer. Mechnikov died in Paris in 1916.
+Mechnikov joined the Pasteur Institute in Paris in 1888. He headed a laboratory there for the rest of his life and from 1905 was deputy director. In 1908 he shared the Nobel Prize in Physiology or Medicine with Paul Ehrlich. He also studied ageing and recommended fermented milk products as a way to stay young for longer. Mechnikov died in Paris in 1916.
 
 ## Why it matters today
 
-Ilya Mechnikov discovered that the body has its own defenders: cells that engulf and digest microbes. On that he built the phagocytic theory of immunity, and he is regarded as one of the founders of immunology and microbiology. In Odesa, with Mykola Hamaliia and Yakiv Bardakh, he founded a station to fight infectious diseases, the second in the world, and the research institute that grew out of it bears his name. He also studied ageing and advised how to stay young for longer. A scientist from the Kharkiv region who graduated from Kharkiv University, he showed that careful observation of living things can change how humanity protects itself from disease.
+Ilya Mechnikov showed that the body has its own defenders, and on that he built the theory of immunity; he is regarded as one of the founders of immunology. He made the discovery that won him the Nobel Prize in Odesa, and he set out in science at Kharkiv University. His life shows that careful observation of living things can change how humanity protects itself from disease.

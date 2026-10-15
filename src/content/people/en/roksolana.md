@@ -24,7 +24,7 @@ In the harem she was named Hürrem, Persian for “joy.” The title “haseki,�
 
 ## Power that left no paper trail
 
-There is no direct evidence of her role in politics. Her daughter married Rüstem Pasha, who became grand vizier in 1544. It seems that, together with him, Roksolana convinced the sultan that Prince Mustafa, the son of another concubine, was after the throne; in 1553 Mustafa was executed. Roksolana died in 1558, and after Suleiman the throne passed to her son Selim II. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul and Edirne to Jerusalem, Mecca and Medina.
+There is no direct evidence of her role in politics. Her daughter married Rüstem Pasha, who became grand vizier in 1544. It seems that, together with him, Roksolana convinced the sultan that Prince Mustafa, the son of another concubine, was after the throne; in 1553 Mustafa was executed. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul and Edirne to Jerusalem, Mecca and Medina. Roksolana died in 1558, and after Suleiman the throne passed to her son Selim II.
 
 ## Debates and assessments
 
@@ -36,4 +36,4 @@ Ukrainian writers from the 19th century on, by contrast, cast her as a patriot a
 
 ## Why it matters today
 
-Roksolana’s fate is a reminder of the Ukrainians who in those times were taken captive and sold into slavery. A girl from Rus’ who entered the harem as a slave became the sultan’s lawful wife, the first “haseki” and the mother of Sultan Selim II. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul to Mecca and Medina. Yet little about her is certain: even the name “Roksolana” was invented by a foreign ambassador, and the image of a patriot came from later writers. Her story also teaches us to tell facts from legends.
+Roksolana’s fate is a reminder of the Ukrainians who in those times were taken captive and sold into slavery. Her path shows that slavery did not have to be the end of the story, and her foundations, a women’s hospital, schools and soup kitchens for the poor, served people from Istanbul to Mecca. Yet little about her is certain: even the name “Roksolana” was invented by a foreign ambassador, and the image of a patriot came from later writers. So her story also teaches something anyone reading about the past needs: how to tell facts from legends.

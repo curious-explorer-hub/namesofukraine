@@ -27,7 +27,7 @@ Kateryna was born in 2001 in the village of Sosnivka in the Ternopil region of w
 
 ## Captivity and return
 
-On 19 May 2022, following orders from command, Kateryna left the plant with the other defenders, and all of them were taken prisoner by Russia. After four months in captivity she came home in a prisoner exchange on 21 September 2022.
+Following orders from command, Kateryna left the plant with the other defenders on 19 May 2022, and all of them were taken prisoner by Russia. She was held in the Olenivka prison in the occupied Donetsk region. Even in captivity she went on working as a paramedic, helping other prisoners. On 29 July 2022 about 50 defenders were killed in an attack on the prison. After four months in captivity she came home in a prisoner exchange on 21 September 2022.
 
 ## Back in the army
 
@@ -35,4 +35,4 @@ That same year Kateryna was awarded the Order for Courage, 3rd class, and Ternop
 
 ## Why it matters today
 
-Kateryna “Ptashka” Polishchuk showed that you can look after others even when things are hardest for you. In besieged Mariupol she saved the wounded, and in the basements of Azovstal she kept her comrades going with songs that were heard far beyond the plant. In captivity she went on helping other prisoners as a paramedic and wrote poems about freedom. And once home, she didn’t step away: she went back to the army. Her example reminds everyone that a voice, care and courage belong together, and she kept all three even in captivity.
+Kateryna “Ptashka” Polishchuk showed that you can look after others even when things are hardest for you: in a besieged city and in captivity. Her songs from the basements of Azovstal kept her comrades going and travelled far beyond the plant. Back from captivity, she chose the army again. Her example reminds everyone that a voice, care and courage belong together.
