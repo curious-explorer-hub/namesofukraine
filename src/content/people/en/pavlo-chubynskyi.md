@@ -12,6 +12,9 @@ key_accomplishments:
   - "A founder of the Southwestern Branch of the Geographical Society in Kyiv (1873)"
 birthplace_name: "the Chubynskyi farmstead (now Chubynske)"
 image_alt: "Pavlo Chubynskyi with a beard, in a dark frock coat, a photo from the late 19th century"
+quotes:
+  - text: "Soul and body we will lay down for our freedom / And show that we, brothers, are of Cossack kin!"
+    source: "Poem \"Ukraine Has Not Yet Perished\", 1862"
 ---
 
 ## A poem in one evening

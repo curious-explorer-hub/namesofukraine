@@ -246,26 +246,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (search turned up only bios, his widow's and colleagues' recollections, and Russian tabloids; no verified interview quote)
 - none found (I searched again for interviews and for recollections from Paradzhanov or Illienko. Only bios and the widow's interview came up; no reputable source prints words of his own.)
 
-### mykola-kostomarov — Микола Костомаров
-- quote 1:
-  - uk: "І билась Україна літ п'ятдесят, і єсть то найсвятіша і славніша война за свободу, яка тільки єсть в історії […]"
-  - en: "And Ukraine fought for fifty years, and that is the holiest and most glorious war for freedom there has ever been in history […]" (translation: ours)
-  - original_language: uk
-  - source_uk: "«Книги битія українського народу», 1846, § 88"
-  - source_en: "The Books of the Genesis of the Ukrainian People, 1846, § 88"
-  - url: https://osvita.ua/school/literature/k/80834/list-2.html
-  - confidence: high (checked on osvita.ua. The rest of the verse says "…а розділ України єсть найпоганіше діло, яке тільки можна найти в історії" ("the partition of Ukraine is the foulest deed in history"); I cut it as negative.)
-- quote 2:
-  - uk: "І не любила Україна ні царя, ні пана, а скомпонувала собі козацтво, єсть то істеє брацтво […], і були козаки між собою всі рівні […]"
-  - en: "And Ukraine loved neither tsar nor lord, but made for itself the Cossack host, a true brotherhood […], and the Cossacks were all equal among themselves […]" (translation: ours)
-  - original_language: uk
-  - source_uk: "«Книги битія українського народу», 1846, § 72"
-  - source_en: "The Books of the Genesis of the Ukrainian People, 1846, § 72"
-  - url: https://osvita.ua/school/literature/k/80834/list-1.html
-  - confidence: high (checked on osvita.ua. The two cuts leave out "куди кожний пристаючи, був братом других — чи був він преж того паном, чи невольником, аби християнини" and the tail about elected elders. A related line in § 76, "усі вільні і рівні, і не мала б Україна над собою ні царя, ні пана", is an alternative.)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Лежить в могилі Україна, але не вмерла.» («Книги битія українського народу», 1846, § 95)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Бо голос України не затих. І встане Україна з своєї могили і знову озоветься до всіх братів своїх Слав'ян […]» («Книги битія українського народу», 1846, § 103)
-
 ### mykola-leontovych — Микола Леонтович
 - none found. Only diary entries about his work and secondhand paraphrases ("народна пісня — вияв душі народу").
 - still none found (retry: the ESU article has no words of his own; a web search found no verifiable letter or diary line)
@@ -284,25 +264,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - url: https://suspilne.media/vinnytsia/1119760-u-vinnici-vidbuvsa-cergovij-pirogovskij-piknik/
   - confidence: medium, weak (opened in a browser: Suspilne Vinnytsia, 20 Sep 2025, quotes the director of the Vinnytsia Tourism Office citing this line from the new stamp. No primary source is named, and it may be a modern paraphrase rather than his words. Optional at best; I would only use it if it can be traced to his diary «Щоденник старого лікаря» or a letter.)
 - dropped by the owner (2026-10-14): «Майбутнє належить медицині запобіжній.». Don't propose again.
-
-### mykola-voronyi — Микола Вороний
-- quote 1:
-  - uk: "Коли ти любиш рідний край, / Гори, палай! / Коли в огонь живої мови / Чуття святого надаси, / То станеш лицарем краси, / І визволення, і любові. / За честь і правду все віддай, / Коли ти любиш рідний край!"
-  - en: "If you love your native land, / Burn and blaze! / If into the fire of the living tongue / You breathe a sacred feeling, / You will become a knight of beauty, / Of liberation and of love. / Give all for honour and for truth, / If you love your native land!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Коли ти любиш рідний край...»"
-  - source_en: "Poem \"If You Love Your Native Land...\""
-  - url: https://osvita.ua/school/literature/v/67293/
-  - confidence: high (the full final stanza, no cuts, checked against the full text of the poem on osvita.ua. This is a different poem from the two the owner dropped. I found no date on the page; going by the content, «Сміється Київ, сяє Львів!», it is from the 1917–1919 period)
-- quote 2:
-  - uk: "Коли ти любиш рідний край, / То тям і знай, / Що гук війни, вогонь Перуна — / Дочасні, як і свист бича, / І щастя дасть не блиск меча, / А вільна школа і трибуна"
-  - en: "If you love your native land, / Then mark and know / That the roar of war, the fire of Perun / Are passing, like the crack of a whip, / And happiness will come not from the flash of a sword / But from a free school and a free rostrum" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Коли ти любиш рідний край...»"
-  - source_en: "Poem \"If You Love Your Native Land...\""
-  - url: https://osvita.ua/school/literature/v/67293/
-  - confidence: high (the third stanza, verbatim from osvita.ua; its last two lines, «Про це, про це найбільше дбай, / Коли ти любиш рідний край», are left out because the sentence ends at «трибуна». Same poem as quote 1, so choose one of the two)
-- dropped by the owner (2026-10-14): «За Україну, / За її долю,…»; «О, Україно! / О, рідна Ненько!…». Don't propose again.
 
 ### mykyta-khanhanov — Микита Ханганов
 - none found (Liga, Focus and Current Time carry no words of his own that meet the bar; the line that circulates, «Все, пацани, це смерть», is about death and is unsuitable for this site.)
@@ -334,26 +295,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Interview with FOX5 Las Vegas, March 2022"
   - url: https://www.fox5vegas.com/2022/03/12/olympic-gold-medalist-oksana-baiul-farina-ukrainians-fighting-their-country/
   - confidence: medium (verbatim from the article text, and the ellipsis is the outlet's own. A local US TV station, not major media. She is speaking about Ukrainians at war. The owner should know that in August 2021 she announced she was giving up Ukrainian citizenship (zaxid.net), which may make a "freedom" quote look odd on her profile)
-
-### oleh-mikats — Олег Мікац
-- quote 1:
-  - uk: "Зрештою, що для чоловіків, що для жінок, існує одна Батьківщина. Україна одна і нам її разом боронити…"
-  - en: "In the end, for men and for women alike, there is one Motherland. There is one Ukraine, and we must defend it together…" (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю АрміяInform, жовтень 2020"
-  - source_en: "ArmyInform interview, October 2020"
-  - url: https://armyinform.com.ua/2020/10/23/lyudyna-cze-najgolovnishe-shho-ye-na-vijni/
-  - confidence: high (I checked the full article text. It is his answer to a question about women in combat posts; I dropped the opening «У нас гендерна рівність.». The ellipsis is in the original. On the site, it could start at «Існує одна Батьківщина» with a […].)
-- quote 2:
-  - uk: "Ми рішуче відмовилися й нагадали, що це вони прийшли на нашу землю, і що свій вибір ми зробили ще у 1991 році."
-  - en: "We refused firmly and reminded them that it was they who had come to our land, and that we had made our choice back in 1991." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю АрміяInform, жовтень 2020"
-  - source_en: "ArmyInform interview, October 2020"
-  - url: https://armyinform.com.ua/2020/10/23/lyudyna-cze-najgolovnishe-shho-ye-na-vijni/
-  - confidence: high (checked in the full text. This was his reply in 2014 to Russian special forces who urged his unit to defect; it needs the profile's context a little.)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Найбільше ризикує солдат з окопу, який недоспав, недоїв, перемерз. От вони і є двожильними «кіборгами».» (Інтерв'ю «Новинарні», грудень 2018)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «В Іраку було все без напрягу. На Сході важче – це наша земля, і на ній гинуть люди.» (Інтерв'ю «Новинарні», грудень 2018)
 
 ### oleh-skrypka — Олег Скрипка
 - quote 1:
@@ -421,25 +362,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - rejected: none. I couldn't open the text of the 1627 dedication to the Balabans; scholars only paraphrase it (e.g. N. Chernysh, pvs.uad.lviv.ua/media/32/40.pdf).
 - none found (the 1627 dedication text still isn't online in a citable form; the earlier candidate was dropped)
 
-### panas-myrnyi — Панас Мирний
-- quote 1:
-  - uk: "Ні, не слава […] поривала мене в мої молоді літа до роботи. Моє невеличке серце змалечку пестила любов до тебе, мій обездолений краю"
-  - en: "No, it was not fame […] that drove me to work in my young years. From childhood my small heart was cherished by love for you, my luckless land" (translation: ours)
-  - original_language: uk
-  - source_uk: "Етюд «Робота», 1909"
-  - source_en: "Sketch \"Work\" (Robota), 1909"
-  - url: https://www.ukrinform.ua/rubric-culture/3235218-panas-mirnij-1-dovgotelesa-gitara.html
-  - confidence: high (Ukrinform quotes it as a named work, «Робота», 1909, and ESU confirms that he wrote the sketch «Робота» in December 1909. One cut: «– ота шинкарка п'яна –». I didn't find the primary text online. The next sentence also fits: «…як колись наші діди билися з ворожою силою за правду та волю»)
-- quote 2:
-  - uk: "Вся моя слава – Україна, якби я їй добра хоч на мачину зробив, то б мені й була слава, а більшої я не хочу."
-  - en: "All my glory is Ukraine: if I did her even a poppy seed's worth of good, that would be glory enough for me, and I want no greater." (translation: ours)
-  - original_language: uk
-  - source_uk: "Із записів письменника"
-  - source_en: "From the writer's notes"
-  - url: https://www.ukrinform.ua/rubric-culture/3235218-panas-mirnij-1-dovgotelesa-gitara.html
-  - confidence: medium (verbatim as Ukrinform prints it, but the article doesn't name the text: it places the line near his diary and "at the end of his life". School materials attribute it to him too. The source line is kept general for that reason)
-- rejected: «Воля-воленько! Свята та тиха, прийди до нас! Допоможи викоренити неправду…» (Ukrinform, both parts). The article's author uses it as a framing refrain and never attributes it to Myrnyi. I couldn't find it in his works on osvita.ua or anywhere else.
-
 ### panteleimon-kulish — Пантелеймон Куліш
 - quote 1:
   - uk: "Схаменуться, стрепенуться / Стуманілі люде: / Рідне слово, рідний розум, / Рідна й правда буде."
@@ -457,24 +379,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - source_en: "Poem \"To the Kobza\""
   - url: https://osvita.ua/school/literature/k/70408/
   - confidence: high (verbatim from the osvita.ua text; it is addressed to the kobza as the voice of truth. I believe it is from «Хуторна поезія», 1882, but didn't confirm that. Alternative lines from the same poem: «Поки із мертвих воскресне Вкраїна, / Поки дождеться живої весни».)
-
-### pavlo-chubynskyi — Павло Чубинський
-- quote 1:
-  - uk: "Душу й тіло ми положим за нашу свободу / І — покажем, що ми, браття, козацького роду!"
-  - en: "Soul and body we will lay down for our freedom / And show that we, brothers, are of Cossack kin!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Ще не вмерла України», 1862"
-  - source_en: "Poem "Ukraine Has Not Yet Perished", 1862"
-  - url: https://osvita.ua/school/literature/ch/78151/
-  - confidence: high (osvita.ua labels the text "оригінальний вірш". This is the refrain, which is also the anthem's chorus. The 1863 «Мета» printing may differ slightly ("Душу, тіло…"). It's the best-known line he wrote; the owner should decide whether quoting the anthem is too obvious.)
-- quote 2:
-  - uk: "Гей-гей, браття милі, / Нумо братися за діло, / Гей, гей, пора встати, / Пора волю добувати!"
-  - en: "Hey, hey, dear brothers, / Let us set to work, / Hey, hey, it's time to rise, / Time to win our freedom!" (translation: ours)
-  - original_language: uk
-  - source_uk: "Вірш «Ще не вмерла України», 1862"
-  - source_en: "Poem "Ukraine Has Not Yet Perished", 1862"
-  - url: https://osvita.ua/school/literature/ch/78151/
-  - confidence: medium (verbatim from the same osvita.ua text, but these lines aren't in the state anthem, and I couldn't check whether they were in the 1863 «Мета» printing or added in later folk variants. Check against a scholarly edition before use.)
 
 ### petro-doroshenko — Петро Дорошенко
 - none found. The only "quotes" are from novels (Kostomarov, Telniuk), which are fiction. Documentary letters exist but I found no short, well-known line.
@@ -505,26 +409,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found.
 - still none found (not retried in depth; no document he authored with a known short line turned up)
 - none found (not retried in depth; no letter of his own is quoted in a reputable outlet)
-
-### pylyp-orlyk — Пилип Орлик
-- quote 1:
-  - uk: "Завжди як військові, так і посполиті урядники, особливо полковницькі, мають обиратися вільними голосами"
-  - en: "Military and civil officials alike, colonels above all, must always be chosen by free vote" (translation: ours)
-  - original_language: la (Latin original; the uk text is the modern translation the Verkhovna Rada published)
-  - source_uk: "«Пакти і Конституція прав і вольностей Війська Запорозького», 1710, ст. X"
-  - source_en: "Pacts and Constitution of the Rights and Freedoms of the Zaporozhian Host, 1710, Art. X"
-  - url: https://web.archive.org/web/20220324190241/http://gska2.rada.gov.ua/site/const/istoriya/1710.html
-  - confidence: medium (verbatim from the Verkhovna Rada's page «Перша Конституція України гетьмана Пилипа Орлика», which is now offline. I read the archived copy from March 2022; it doesn't name the translator. The Constitution is a treaty between the hetman and the officers, attributed to Orlyk as its author. The sentence goes on "…а по обранні - владою гетьманською затверджуватись", which I left out.)
-- quote 2:
-  - uk: "На ті докори Ясновельможний гетьман не має ображатися та мститися, а навпаки, намагатися виправити недоладності."
-  - en: "The Illustrious Hetman must not take offence at these reproaches or seek revenge, but rather try to set the wrongs right." (translation: ours)
-  - original_language: la (as above)
-  - source_uk: "«Пакти і Конституція прав і вольностей Війська Запорозького», 1710, ст. VI"
-  - source_en: "Pacts and Constitution of the Rights and Freedoms of the Zaporozhian Host, 1710, Art. VI"
-  - url: https://web.archive.org/web/20220324190241/http://gska2.rada.gov.ua/site/const/istoriya/1710.html
-  - confidence: medium (same archived page. "These reproaches" are the ones the officers may voice when the hetman acts against "the rights and liberties" or harms the fatherland, so the line needs that context. An alternative from the same article is «То чому ж серед вільного народу такий добрий лад не може бути збережений?»)
-- none found. The 1710 Constitution (Latin original) is a collective treaty text with many translation variants. I found no short, well-known line confirmed in an authoritative translation (the rada.gov.ua text could not be fetched).
-- still none found (retry: no complete authoritative Ukrainian translation of the 1710 «Пакти і Конституції» could be opened, from Ivanenko, Trofymuk or the rada.gov.ua text; his «Вивід прав України», 1712, was not found online either)
 
 ### robert-brovdi — Роберт Бровді
 - dropped by the owner (2026-10-14): «Коли війну буде зупинено з тих…». Don't propose again.
@@ -678,26 +562,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
   - confidence: high (verbatim from the same transcript, his words to listeners on his 94th birthday; contiguous, no cuts. More about life in general than Ukraine.)
 - dropped by the owner (2026-10-14): «Творчий елемент у всьому – то…». Don't propose again.
 
-### vasyl-slipak — Василь Сліпак
-- quote 1:
-  - uk: "Усі найкращі моменти свого життя я проживаю на Батьківщині, і думаю, багато українців зараз би мали відчувати унікальність історичного моменту. Насправді ми народилися 2 роки тому. І тепер наше завдання – перемогти у цій війні і вистояти."
-  - en: "I live all the best moments of my life in my homeland, and I think many Ukrainians should now feel how unique this moment in history is. In truth, we were born two years ago. And now our task is to win this war and to stand firm." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Українській правді. Життя», березень 2016"
-  - source_en: "Interview with Ukrainska Pravda Zhyttia, March 2016"
-  - url: https://life.pravda.com.ua/society/2016/03/15/209271/ (the live page returns 403; I read it in the Wayback Machine copy: https://web.archive.org/web/2016id_/https://life.pravda.com.ua/society/2016/03/15/209271/)
-  - confidence: high (verbatim from the interview, «Із Парижа з любов'ю. Як український оперний співак став воїном», by Kateryna Hladka, 15 Mar 2016. It is written as his first-person monologue, with no cuts; it's three consecutive sentences, and the first one may be dropped if the quote needs to be shorter. "2 роки тому" means the Maidan of 2014, so the source date matters.)
-- quote 2:
-  - uk: "Але я для себе обрав шлях: як чоловік, можу бути на війні, а як артист – можу робити максимальну промоцію України у Франції."
-  - en: "As a man, I can be at war, and as an artist, I can do the best I can to promote Ukraine in France." (translation: published: Espreso Global, June 2024, which drops the opening "But I have chosen my path:"; full version, ours: "But I have chosen my path: as a man, I can be at war, and as an artist, I can do all I can to promote Ukraine in France.")
-  - original_language: uk
-  - source_uk: "Інтерв'ю «Українській правді. Життя», березень 2016"
-  - source_en: "Interview with Ukrainska Pravda Zhyttia, March 2016"
-  - url: https://life.pravda.com.ua/society/2016/03/15/209271/ (same Wayback copy; English: https://global.espreso.tv/news-eighth-anniversary-of-opera-singer-warrior-vasyl-slipaks-death-quotes-from-prominent-lviv-artist)
-  - confidence: high (verbatim from the same interview; Espreso Global prints the same line in English)
-- dropped by the owner (2026-10-14): «Тяжко сидіти в тому Парижі. Душа…». Don't propose again.
-- lead only: Espreso Global (June 2024) lists more lines with no outlet or date: "Victory will come for sure! On one condition: when each of us does everything necessary for this…", "It is so little and so much to love your land", "As long as the war in the East continues, art will wait". I found no Ukrainian original for them in a source I could open, so they're not proposed. The interview has "ми вміємо захищатися" in a passage about Russians, so that one is unsuitable.
-
 ### vasyl-virastiuk — Василь Вірастюк
 - none found (the Interfax-Ukraine interviews from 2023–2024 are about veterans' sports rehabilitation and contain no memorable lines; "Разом ми сила" shows up only in news captions of a social-media post)
 - still none found (the Radio Svoboda piece from 28 Dec 2007 quotes his brother Roman, not Vasyl. A Glavred piece and netfreedom.org.ua carry only self-descriptions or the authors' own framing)
@@ -716,25 +580,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - none found (memorial pages and ESU describe his deeds only; no interview quotes surfaced)
 - still none found (no interview with "Хват" surfaced. The ESU entry and the prosthetics stories about other Azov fighters don't quote him)
 - none found (new angles: azov.army, the memorybook.org.ua page (404) and English searches on "Khvat". No direct speech of his came up anywhere.)
-
-### vitalii-klychko — Віталій Кличко
-- quote 1:
-  - uk: "На нашій стороні справедливість і правда. Ми у себе вдома, і нам вирішувати, як повинна розвиватися наша країна."
-  - en: "Justice and truth are on our side. We are at home, and it is up to us to decide how our country should develop." (translation: ours)
-  - original_language: uk
-  - source_uk: "Звернення 22 лютого 2022 року"
-  - source_en: "Address, 22 February 2022"
-  - url: https://espreso.tv/ukraintsi-sami-mayut-virishuvati-yak-povinna-rozvivatisya-ikhnya-kraina-klichko-pro-rishennya-rf-viznati-ldnr
-  - confidence: high (verbatim from the full text of his address as Espreso printed it, two days before the full-scale invasion, the day after Russia recognised the "L/DNR"; two contiguous sentences, no cuts. A longer version could open with «Ми не боїмося і будемо боротися далі. […]». The original is on kyivcity.gov.ua, which blocked my fetch.)
-- quote 2:
-  - uk: "Ми захищаємо не лише наші родини й наших дітей, ми захищаємо й вас, бо в нас ті самі цінності."
-  - en: "We're defending not just our family and our children, we're defending you because we have the same values." (translation: original English)
-  - original_language: en
-  - source_uk: "Виступ на Всесвітньому економічному форумі в Давосі, травень 2022"
-  - source_en: "Speech at the World Economic Forum, Davos, May 2022"
-  - url: https://www.voanews.com/a/kyiv-mayor-ukraine-is-key-for-freedom-in-the-world-/6590254.html
-  - confidence: high (VOA, 26 May 2022, quotes the English sentence verbatim; the uk text is our translation)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): "It's already a bloody war. I don't have another choice. I have to do that. I would fight." (Good Morning Britain, ITV, 24 February 2022, in English, as reported by CBS News/AP and ESPN)
 
 ### vitalii-skakun — Віталій Скакун
 - none found (fallen defender; there are no recorded public statements of his own)
@@ -774,48 +619,6 @@ A pool of sourced quotes that are not on the site yet (BACKLOG I23). The quotes 
 - still none found (nothing beyond the chronicle testament already listed. «Руська правда» is a law code, not his own words)
 - rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): the chronicle testament above; don't propose it again
 - none found (11th century; the only own-voice text is the chronicle testament, already rejected by the owner; «Руська правда» is a law code)
-
-### yevhen-konovalets — Євген Коновалець
-- quote 1:
-  - uk: "Хочемо вірити, що принаймні в майбутньому ті умовини покращають, […] що стара стрілецька ідея активної боротьби за Українську Державу ширше й крайще пошириться ніж колись."
-  - en: "We want to believe that at least in the future those conditions will improve, […] that the old Riflemen's idea of an active struggle for a Ukrainian State will spread wider and better than ever." (translation: ours)
-  - original_language: uk
-  - source_uk: "«Причинки до історії української революції», 1928 (2-ге вид., 1948, с. 47)"
-  - source_en: "Contributions to the History of the Ukrainian Revolution, 1928 (2nd ed., 1948, p. 47)"
-  - url: https://diasporiana.org.ua/memuari/konovalecz-ye-prychynky-do-istoriyi-ukrayinskoyi-revolyucziyi/
-  - confidence: high (read from the page scan of the 1948 2nd edition, p. 47, «Накладом Проводу Українських Націоналістів»; spelling as printed, «умовини», «крайще». Cut: "коли доля допоможе", "if fate helps". It's the closing paragraph of his memoir; the sentence before it is about working amid suspicion, envy and slander)
-- quote 2:
-  - uk: "Кожний з нас займався своєю працею й спокійно чекав розвитку подій, знаючи, що згодом викажеться, на чийому боці правда."
-  - en: "Each of us went on with our work and calmly waited for events to unfold, knowing that in time it would show whose side the truth was on." (translation: ours)
-  - original_language: uk
-  - source_uk: "«Причинки до історії української революції», 1928 (2-ге вид., 1948, с. 47)"
-  - source_en: "Contributions to the History of the Ukrainian Revolution, 1928 (2nd ed., 1948, p. 47)"
-  - url: https://diasporiana.org.ua/memuari/konovalecz-ye-prychynky-do-istoriyi-ukrayinskoyi-revolyucziyi/
-  - confidence: high (same page scan, full sentence, no cuts. Context: his answer to a two-year slander campaign against the Sich Riflemen officers; it reads well on its own. Same page, also usable: «Січове Стрілецтво залишило за собою в історії визвольних змагань України слід, якого не затруть жадні наклепи», though the sentence goes on into "drops of blood")
-- none found with a reputable source
-- rejected: "У вогні перетоплюється залізо у сталь, у боротьбі перетворюється народ у націю": ZAXID.NET (2024) itself calls it "фраза, яку повʼязують з ним" ("a phrase associated with him"), with no primary source. The Holos Ukrainy piece (2011) is an MP's op-ed.
-- rejected: "…ми маємо до вибору: або бути творцями, або жертвами історії" (said to be from the 1929 Congress); "Як довго не буде самостійної Української держави, так довго не буде порядку в Європі"; "Шлях до Львова лежить через Київ": all only on aggregators and blogs.
-- still none found (his «Причинки до історії української революції» (2021 PDF on chtyvo) is behind a bot check, and no UINP, ESU or media page quotes a line from it or from his articles in «Сурма» or «Розбудова нації». A reader with the book could pick a line with a page reference)
-
-### yevhen-mezhevikin — Євген Межевікін
-- quote 1:
-  - uk: "Потрібно вже щось робити для того, щоб наші діти жили краще. Усі мають включитися в цю роботу, а не шукати відмовки […]. І ще одне, надважливе — єднання нації. Тоді все в нас буде добре."
-  - en: "It's time to do something so that our children live better. Everyone has to join in this work, not look for excuses […]. And one more thing, the most important of all: the unity of the nation. Then everything will be fine for us." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю АрміяInform, липень 2023"
-  - source_en: "Interview with ArmyInform, July 2023"
-  - url: https://armyinform.com.ua/2023/07/19/yevgen-mezhevikin-grupa-adam-voyuye-bez-obmezhen-i-vsim-shho-ye-na-ozbroyenni/
-  - confidence: high (verbatim from the interview text, his answer to «Який висновок мають зробити українці з цієї війни?». One cut: the reported "excuses" he mocks, «на кшталт: "А що ж я можу зробити, це все вони…"». ArmyInform also used «Надважливе — єднання нації. Тоді все у нас буде добре…» as a section heading)
-- quote 2:
-  - uk: "І ще одне, надважливе — єднання нації. Тоді все в нас буде добре. Якщо всі люди це зрозуміють, то ми житимемо набагато краще."
-  - en: "And one more thing, the most important of all: the unity of the nation. Then everything will be fine for us. If all people understand this, we will live much better." (translation: ours)
-  - original_language: uk
-  - source_uk: "Інтерв'ю АрміяInform, липень 2023"
-  - source_en: "Interview with ArmyInform, July 2023"
-  - url: https://armyinform.com.ua/2023/07/19/yevgen-mezhevikin-grupa-adam-voyuye-bez-obmezhen-i-vsim-shho-ye-na-ozbroyenni/
-  - confidence: high (verbatim, no cuts; a shorter version of the same answer. Vikna.tv reprints it too: https://vikna.tv/istorii/yevgen-mezhevikin-na-psevdo-adam-istoriya-vijskovogo-pro-vijnu/)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Головне моє завдання було, щоб у наших підрозділах не було втрат, навіть поранених. Я намагався опинитися у потрібний час у потрібному місці.» (Інтерв'ю Радіо Свобода, травень 2016)
-- rejected (owner, 2026-10-13: wants a more motivational line about Ukraine, freedom or courage): «Це – військовополонені й зараз вони беззахисні. Якщо хочете щось кричати, показати, то показуйте в бою!» (Інтерв'ю Радіо Свобода, травень 2016)
 
 ### yevhen-paton — Євген Патон
 - none found (his memoirs, «Воспоминания», 1955, are not online in a citable text; ESU, paton.org.ua and IEU quote nothing verbatim; well-known lines about work and science online belong to his son Borys Paton)

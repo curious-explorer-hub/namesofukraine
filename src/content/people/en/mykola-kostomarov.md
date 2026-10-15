@@ -13,6 +13,9 @@ key_accomplishments:
   - "The poetry collections Ukrainian Ballads (1839) and The Branch (1840)"
 birthplace_name: "Yurasivka, Voronezh Governorate (now Voronezh Oblast, Russia)"
 image_alt: "Lithograph portrait of Mykola Kostomarov with glasses and a beard, in a dark frock coat and white shirt with a bow, colorized with AI"
+quotes:
+  - text: "And Ukraine loved neither tsar nor lord, but made for itself the Cossack host, a true brotherhood […], and the Cossacks were all equal among themselves […]"
+    source: "The Books of the Genesis of the Ukrainian People, 1846, § 72"
 ---
 
 ## The serf who became a professor

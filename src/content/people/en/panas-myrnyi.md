@@ -11,6 +11,9 @@ key_accomplishments:
   - "Co-founder of the Poltava Ukrainian weekly Ridnyi krai (1905)"
 birthplace_name: "Myrhorod"
 image_alt: "Panas Myrnyi with glasses and a grey beard, in a dark suit and bow tie"
+quotes:
+  - text: "All my glory is Ukraine: if I did her even a poppy seed's worth of good, that would be glory enough for me, and I want no greater."
+    source: "From the writer's notes"
 ---
 
 ## The official who wrote at night

@@ -13,6 +13,9 @@ key_accomplishments:
   - "Head of the Leadership of Ukrainian Nationalists (from 1927) and first leader of the OUN (1929–1938)"
 birthplace_name: "Zashkiv"
 image_alt: "Photograph of Yevhen Konovalets"
+quotes:
+  - text: "We want to believe that at least in the future those conditions will improve, […] that the old Riflemen's idea of an active struggle for a Ukrainian State will spread wider and better than ever."
+    source: "Contributions to the History of the Ukrainian Revolution, 1928 (2nd ed., 1948, p. 47)"
 ---
 
 ## The escapee who became a commander

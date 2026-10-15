@@ -12,6 +12,9 @@ key_accomplishments:
   - "Deputy commander of Operational Command “West” (from March 2017); appointed commander of Operational Command “East” in August 2021"
 birthplace_name: "Novohrad-Volynskyi (now Zviahel), Zhytomyr region"
 image_alt: "Oleh Mikats in uniform and a knit cap by a lake"
+quotes:
+  - text: "We refused firmly and reminded them that it was they who had come to our land, and that we had made our choice back in 1991."
+    source: "ArmyInform interview, October 2020"
 ---
 
 ## A general with no Soviet past

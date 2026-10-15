@@ -14,6 +14,9 @@ key_accomplishments:
   - "Over 30 years of diplomacy in exile: Sweden, the Holy Roman Empire, the Polish-Lithuanian Commonwealth, the Ottoman Empire"
 birthplace_name: "Kosuta (now Belarus)"
 image_alt: "Pylyp Orlyk, a modern portrait by the artist Nataliia Pavlusenko, 2021"
+quotes:
+  - text: "Military and civil officials alike, colonels above all, must always be chosen by free vote"
+    source: "Pacts and Constitution of the Rights and Freedoms of the Zaporozhian Host, 1710, Art. X"
 ---
 
 ## Mazepa’s right hand

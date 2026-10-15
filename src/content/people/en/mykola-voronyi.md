@@ -13,6 +13,9 @@ key_accomplishments:
   - "Translations of world classics and of opera librettos"
 birthplace_name: "Katerynoslav gubernia (exact place unknown)"
 image_alt: "Mykola Voronyi, Lviv, 1896"
+quotes:
+  - text: "If you love your native land, / Burn and blaze! / If into the fire of the living tongue / You breathe a sacred feeling, / You will become a knight of beauty, / Of liberation and of love. / Give all for honour and for truth, / If you love your native land!"
+    source: "Poem \"If You Love Your Native Land...\""
 ---
 
 ## Expelled from school

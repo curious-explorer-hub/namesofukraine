@@ -11,6 +11,9 @@ key_accomplishments:
   - "In 2015 volunteered for the 7th Separate Battalion of the Right Sector Ukrainian Volunteer Corps; posthumously made a Hero of Ukraine (2017)"
 birthplace_name: "Lviv"
 image_alt: "Vasyl Slipak in an embroidered shirt with a trident pendant, Paris, 24 August 2014"
+quotes:
+  - text: "But I have chosen my path: as a man, I can be at war, and as an artist, I can do all I can to promote Ukraine in France."
+    source: "Interview with Ukrainska Pravda Zhyttia, March 2016"
 ---
 
 ## Why “Mif”?

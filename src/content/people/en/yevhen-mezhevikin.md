@@ -12,6 +12,9 @@ key_accomplishments:
   - "From March 2022, commander of Tactical Group “Adam”, which fought in the Kyiv region, around Bakhmut and in the Kharkiv counteroffensive"
 birthplace_name: "Russia"
 image_alt: "Yevhen Mezhevikin in a cap and digital camouflage, with the Hero of Ukraine star on his chest"
+quotes:
+  - text: "It's time to do something so that our children live better. Everyone has to join in this work, not look for excuses […]. And one more thing, the most important of all: the unity of the nation. Then everything will be fine for us."
+    source: "Interview with ArmyInform, July 2023"
 ---
 
 ## Why “Adam”
