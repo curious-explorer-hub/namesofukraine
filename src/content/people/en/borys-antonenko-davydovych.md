@@ -11,10 +11,10 @@ key_accomplishments:
   - "Signed the open letters of 1966 and 1968 against political trials; in 1970 refused to testify at the trial of Valentyn Moroz"
   - "Shevchenko National Prize (posthumously, 1992)"
 birthplace_name: "Romny"
-image_alt: "Borys Antonenko-Davydovych in a coat with a fur collar, black-and-white portrait, 1928"
+image_alt: "Grey-haired Borys Antonenko-Davydovych in an embroidered shirt, portrait"
 quotes:
-  - text: "Well then, I shall have to write “for eternity”, putting what I write into a folder marked “When I die, bury me…”."
-    source: "Letter of 6 January 1971 (quoted by Radio Svoboda, 2004)"
+  - text: "A person may know several languages, depending on their abilities, inclinations and aims, but the language a person should know best and most perfectly is, of course, their native one. And not only because, having learned it from childhood, they use it every day, but because the native language is an inseparable part of the homeland, the voice of one’s own people."
+    source: "The book How We Speak (1970)"
 ---
 
 ## A language adviser who survived the camps

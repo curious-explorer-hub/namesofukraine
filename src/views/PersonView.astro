@@ -222,7 +222,7 @@ const memberOf = collections.filter((c) => data.collections.includes(c.id));
               {g.fair_use && `; ${t('person.image_fair_use', lang)}`}
             </p>
           ))}
-          {data.living && <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>}
+          <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>
         </details>
         <p class="profile-report"><a href={localePath(lang, `/feedback/?type=correction&profile=${person.slug}`)}>{t('person.report', lang)}</a></p>
       </footer>
