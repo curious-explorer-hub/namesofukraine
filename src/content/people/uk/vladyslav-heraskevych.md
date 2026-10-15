@@ -17,11 +17,21 @@ places:
   - { name: "Кортіна-д'Ампеццо", lat: 46.551, lon: 12.127, note: "Олімпіада-2026: «шолом пам'яті» і дискваліфікація" }
 image:
   src: ./images/vladyslav-heraskevych.jpg
-  alt: "Владислав Гераскевич із «шоломом пам'яті» отримує орден Свободи від Володимира Зеленського, лютий 2026 року"
-  position: "85% 25%"
-  author: "Офіс Президента України"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Helmet_of_remembrance_01.jpg"
+  alt: "Усміхнений Владислав Гераскевич у жовтій куртці та шапці збірної України на тлі олімпійських кілець, 2026 рік"
+  position: "60% 30%"
+  author: "Невідомий автор (Sport Business Media)"
+  license: "Fair use"
+  source_url: "https://sportbusiness.media/2026/02/05/visa-pidtrymala-vladyslava-geraskevycha-ta-ukrayinskyh-olimpijcziv-na-shlyahu-do-peremog/"
+  fair_use: true
+gallery:
+  - src: ./images/vladyslav-heraskevych-helmet.jpg
+    alt: "Владислав Гераскевич на старті в сріблястому шоломі з портретами загиблих українських спортсменів, на костюмі напис Milano Cortina 2026"
+    caption: "«Шолом пам'яті» на Олімпійських іграх 2026 року"
+    section: 3
+    author: "Andrew Milligan, Getty Images (через «Новинарню»)"
+    license: "Fair use"
+    source_url: "https://novynarnia.com/2026/02/12/vladyslav-geraskevych-prodast-svij-sholom-pamyati-na-aukczioni/"
+    fair_use: true
 key_accomplishments:
   - "Перший в історії України скелетоніст, який виступив на Олімпійських іграх (Пхьончхан, 2018: 12-те місце)"
   - "Олімпійські ігри 2022 року в Пекіні: 18-те місце; після одного зі спусків показав табличку «No War in Ukraine»"
@@ -42,7 +52,8 @@ sources:
     url: "https://glavcom.ua/sport/news/heraskevich-zvernuvsja-do-ukrajintsiv-pislja-diskvalifikatsiji-na-olimpiadi-1102639.html"
 related: [pavlo-petrychenko]
 collections: [olympians]
-status: draft
+status: approved
+published: 2026-10-15T21:00:27Z
 ---
 
 ## Перший на олімпійському жолобі

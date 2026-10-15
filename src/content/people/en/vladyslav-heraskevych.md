@@ -11,7 +11,10 @@ key_accomplishments:
   - "Ukraine’s flag bearer at the opening of the 2026 Winter Olympics"
   - "Order of Freedom (2026)"
 birthplace_name: "Kyiv"
-image_alt: "Vladyslav Heraskevych, holding the helmet of memory, receives the Order of Freedom from Volodymyr Zelenskyy, February 2026"
+image_alt: "A smiling Vladyslav Heraskevych in Ukraine team's yellow jacket and hat in front of the Olympic rings, 2026"
+gallery:
+  - alt: "Vladyslav Heraskevych at the start in a silver helmet with portraits of Ukrainian athletes who were killed, Milano Cortina 2026 on his suit"
+    caption: "The helmet of memory at the 2026 Olympic Games"
 quotes:
   - text: "I see the faces on my helmet, and I will not betray these athletes."
     source: "Quoted in OBOZ.UA, 11 February 2026"
