@@ -46,18 +46,12 @@ jobs:
       # AC10 on mobile: performance >= 90, accessibility >= 95, best practices and SEO >= 90
       # (lighthouserc.json, which includes one published profile page).
       # Smoke tests in a real browser against dist/ served with the production headers (e2e/).
-      # Both only read dist/, so they run at the same time; each log is printed when both are done,
-      # and the step fails if either fails.
-      - name: Browser smoke tests and Lighthouse budget
+      - name: Browser smoke tests
         run: |
           npx playwright install --with-deps chromium
-          npx playwright test > e2e.log 2>&1 & e2e=$!
-          npx --no-install lhci autorun > lighthouse.log 2>&1 & lh=$!
-          wait $e2e && e2e_status=0 || e2e_status=$?
-          wait $lh && lh_status=0 || lh_status=$?
-          echo "::group::Browser smoke tests (exit $e2e_status)"; cat e2e.log; echo "::endgroup::"
-          echo "::group::Lighthouse budget (exit $lh_status)"; cat lighthouse.log; echo "::endgroup::"
-          exit $(( e2e_status || lh_status ))
+          npx playwright test
+      - name: Lighthouse budget
+        run: npx --no-install lhci autorun
       # Deploys only from main, and only once Cloudflare secrets are configured.
       # The first deploy creates the Pages project if it doesn't exist yet (the token's "Pages: Edit"
       # permission allows it), then lists projects so the assigned *.pages.dev address shows in the log.
