@@ -10,7 +10,7 @@ key_accomplishments:
   - "Studies of the language of Hryhorii Skovoroda, Ivan Kotliarevskyi and Taras Shevchenko"
   - "Delegate to the Central Rada from Kharkiv (1917); professor of Ukrainian in Kharkiv and Kyiv"
 birthplace_name: "Andriivka"
-image_alt: "Photo portrait of Oleksa Syniavskyi, 1930s"
+image_alt: "Oleksa Syniavskyi in a dark jacket and tie, photo portrait"
 quotes:
   - text: "Now it is no longer the tsars with their generals who will write our history; now we ourselves will write it, for our fate is in our hands."
     source: "The speech “The political tasks of the Ukrainian people”, in the newspaper Ridne Slovo, 1917"

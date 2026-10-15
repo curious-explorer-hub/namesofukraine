@@ -11,7 +11,7 @@ key_accomplishments:
   - "“The Historical Fate of Ukraine”, a letter written in the camp with Vasyl Romaniuk"
   - "Posthumously awarded the Order for Courage, 1st class (2006)"
 birthplace_name: "Izhivka"
-image_alt: "Young Oleksa Tykhyi in a shirt with an embroidered collar, photo portrait"
+image_alt: "Oleksa Tykhyi in a shirt with an embroidered collar and a dark jacket against leaves, photo portrait"
 quotes:
   - text: "I exist so that my people may live, so that their culture may rise, so that the voice of my people may sing its part with dignity in the many-voiced choir of world culture."
     source: "The essay “Thoughts about My Native Donetsk Region”, 1972"

@@ -23,11 +23,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "Академія наук, університет; розстріляний 1937" }
 image:
   src: ./images/oleksa-syniavskyi.jpg
-  alt: "Фотопортрет Олекси Синявського, 1930-ті роки"
+  alt: "Олекса Синявський у темному піджаку й краватці, фотопортрет"
   position: "50% 25%"
-  author: "Невідомий автор"
-  license: "Public domain (Ukraine)"
-  source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9.jpg"
+  author: "Невідомий автор (Укрінформ)"
+  license: "Fair use"
+  source_url: "https://www.ukrinform.ua/rubric-culture/3122627-oleksa-sinavskij-mova-dla-ludini-a-ne-navpaki.html"
+  ai_edit: colorized
+  fair_use: true
 quotes:
   - text: "Тепер вже не царі із своїми генералами писатимуть історію нашу, тепер ми сами писатимемо її, бо в наших руках наша доля."
     source: "Промова «Політичні завдання українського народу», газета «Рідне слово», 1917"
@@ -42,7 +44,8 @@ sources:
     url: "https://uk.wikipedia.org/wiki/Синявський_Олекса_Наумович"
 related: [taras-shevchenko, hryhorii-skovoroda, ivan-kotliarevskyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-15T21:50:32Z
 ---
 
 ## Правила без імені автора

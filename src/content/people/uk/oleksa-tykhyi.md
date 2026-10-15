@@ -26,11 +26,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "перепохований на Байковому кладовищі 1989 року" }
 image:
   src: ./images/oleksa-tykhyi.jpg
-  alt: "Молодий Олекса Тихий у сорочці з вишитим комірцем, фотопортрет"
+  alt: "Олекса Тихий у сорочці з вишитим комірцем і темному піджаку на тлі листя, фотопортрет"
   position: "50% 30%"
-  author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://uk.wikipedia.org/wiki/Файл:O_tykhy.jpg"
+  author: "Невідомий автор (КПІ ім. Ігоря Сікорського)"
+  license: "Fair use"
+  source_url: "https://kpi.ua/en/oleksa-tykhyi"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Internet Encyclopedia of Ukraine - Tykhy, Oleksa (автор - I. Jaworsky)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CT%5CY%5CTykhyOleksa.htm"
@@ -41,7 +43,8 @@ sources:
   - title: "Верховна Рада України - Указ Президента України № 937/2006 про нагородження засновників і активістів Української Гельсінської групи"
     url: "https://zakon.rada.gov.ua/laws/show/937/2006"
 related: [levko-lukianenko, vasyl-stus]
-status: draft
+status: approved
+published: 2026-10-15T21:50:32Z
 ---
 
 ## Чому його називали «Голосом Донбасу»?
