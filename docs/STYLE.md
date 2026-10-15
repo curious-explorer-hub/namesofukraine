@@ -18,6 +18,16 @@ The site exists to show the people who built Ukraine and those who still fight f
 
 A fact that explains this belongs in the story before one that only fills in a career. The focus never bends the facts: everything stays sourced, contested people keep a neutral «Дискусії та оцінки» section, and a person's ties to Ukraine are stated as precisely as they are (§7).
 
+## Quotes
+
+The quote panel is the one place where the reader hears the person directly, so choose words that inspire: words that make a reader want to achieve something and stand up for what is right. A good quote:
+
+- speaks about what is worth living and fighting for: Ukraine, freedom, independence, dignity, democracy, justice, truth, the Ukrainian language, duty to other people;
+- encourages: to work, to learn, to stay brave, to defend what is right, not to give in to fear;
+- makes sense on its own, without the rest of the profile, and suits readers of all ages (nothing graphic or hateful).
+
+Skip lines that only describe a career, a habit or a hobby ("as a child I loved to draw"), aphorisms about a work method, wit that needs context, and lines about death for its own sake. If none of the person's own words meets this bar, leave the panel empty: no quote is better than a weak one. The sourcing rules don't change ([QUOTES.md](QUOTES.md), §7).
+
 ## Hooks to choose from
 
 Use one or two per profile, and vary them across profiles, so the site doesn't repeat one trick.

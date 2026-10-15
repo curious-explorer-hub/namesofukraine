@@ -12,6 +12,9 @@ key_accomplishments:
   - "Georgiy Gongadze Prize laureate (2026)"
 birthplace_name: "Dnipro"
 image_alt: "Mykhailo Tkach speaking into a microphone on stage in front of a Georgiy Gongadze Prize banner, 2026"
+quotes:
+  - text: "Ukraine is not only fighting the Russian aggressor externally – Ukraine is fighting corruption internally, preserving democracy as a reliable weapon against dictatorships."
+    source: "Speech accepting the Free Media Award, Oslo, 29 September 2026"
 ---
 
 ## A student from Dnipro

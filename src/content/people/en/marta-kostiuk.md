@@ -12,6 +12,9 @@ key_accomplishments:
   - "Wimbledon semifinalist (2026), equalling the best result by a Ukrainian woman there"
 birthplace_name: "Kyiv"
 image_alt: "Marta Kostyuk hitting a backhand at the 2023 US Open"
+quotes:
+  - text: "I want to dedicate this match to the Ukrainian people and their resilience. Glory to Ukraine!"
+    source: "After the Roland Garros quarter-final, June 2026"
 ---
 
 ## Fifteen, and through qualifying

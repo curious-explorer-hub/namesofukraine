@@ -12,6 +12,9 @@ key_accomplishments:
   - "Co-compiler of a Russian–Ukrainian dictionary (1926); worked on the 1928 Ukrainian orthography"
 birthplace_name: "Kharkiv"
 image_alt: "Maik Yohansen, 1928"
+quotes:
+  - text: "Once I settle in the realm of shades, I will hold a wise conversation with Hesiod, Heine and Miguel de Cervantes Saavedra. But I will speak with them in Ukrainian, because I believe that our flowering homeland is a diamond among the free nations of the world."
+    source: "Quoted by Zaxid.net"
 ---
 
 ## A novel in 100,000 copies

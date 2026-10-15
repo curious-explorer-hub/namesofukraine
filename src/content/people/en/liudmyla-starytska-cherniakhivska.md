@@ -12,6 +12,9 @@ key_accomplishments:
   - "Translations of opera libretti: Verdi, Gluck, Gounod, Puccini, Rimsky-Korsakov"
 birthplace_name: "Kyiv"
 image_alt: "Liudmyla Starytska-Cherniakhivska, early 20th century"
+quotes:
+  - text: "Our life and death to you, Ukraine, / we will give without a doubt"
+    source: "The poem To the Ukrainian People"
 ---
 
 ## “The first Ukrainian children”

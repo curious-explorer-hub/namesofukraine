@@ -28,6 +28,9 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%B9_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE.jpg"
+quotes:
+  - text: "Ой, там, де воля пісня ллється, / А де неволя, там нема."
+    source: "Вірш «Пісня про волю»"
 sources:
   - title: "Енциклопедія історії України - Заболотний Данило Кирилович (автор - Г. С. Брега)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Zabolotny_D"

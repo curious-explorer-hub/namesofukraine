@@ -12,6 +12,9 @@ key_accomplishments:
   - "President of the All-Ukrainian Academy of Sciences (1928–1929), founder of the Institute of Microbiology and Epidemiology in Kyiv"
 birthplace_name: "Chobotarka (now Zabolotne)"
 image_alt: "Photograph of Danylo Zabolotnyi in later life"
+quotes:
+  - text: "Oh, where there's freedom, songs flow, / And where there's bondage, there are none."
+    source: "The poem Song of Freedom"
 ---
 
 ## The boy from Chobotarka

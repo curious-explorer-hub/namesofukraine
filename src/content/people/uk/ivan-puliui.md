@@ -31,6 +31,9 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D0%B2%D0%B0%D0%BD_%D0%9F%D1%83%D0%BB%D1%8E%D0%B9.png"
+quotes:
+  - text: "Найбільше і найважливіше наше бажання, ідея і головна мета національних прагнень – визволена з-під Росії вільна Україна, де не повинно бути жодного пригнобленого і жодного гнобителя […]"
+    source: "Брошура «Україна та її міжнародно-політичне значення», 1915 (переклад з німецької)"
 sources:
   - title: "Енциклопедія історії України - Пулюй Іван Павлович (автори - Г. С. Брега, Н. Ф. Васильєва)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Puliuj_I"

@@ -11,6 +11,9 @@ key_accomplishments:
   - "Director of the Hryhorii Skovoroda Institute of Philosophy of the National Academy of Sciences of Ukraine (until 2018)"
   - "Member of the National Academy of Sciences of Ukraine (2003); Order of Freedom (posthumously, 2018)"
 birthplace_name: "Zhytomyr"
+quotes:
+  - text: "Democratic values are not ghosts, not myths and not the inventions of cunning politicians."
+    source: "The essay Liberal Values, or Reflections at the Front Entrance of Europe, Dzerkalo Tyzhnia, 30 November 2001"
 ---
 
 ## From teacher to academician

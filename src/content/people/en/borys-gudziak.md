@@ -12,6 +12,9 @@ key_accomplishments:
   - "Metropolitan Archbishop of Philadelphia for Ukrainian Catholics in the USA (since 2019; as of October 2026)"
 birthplace_name: "Syracuse (USA)"
 image_alt: "Bishop Borys Gudziak at a Holodomor commemoration in Notre-Dame de Paris, 2014"
+quotes:
+  - text: "…what matters is not only freedom FROM something but also freedom FOR something. And a country must be built on values […]"
+    source: "Interview with LB.ua, August 2026"
 ---
 
 ## A boy from Syracuse

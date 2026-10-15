@@ -15,6 +15,9 @@ key_accomplishments:
   - "Built an alternating-current power station in Prague"
 birthplace_name: "Hrymailiv"
 image_alt: "Photograph of the young Ivan Puliui, Vienna, 1870"
+quotes:
+  - text: "Our greatest and most important wish, idea and the main goal of our national aspirations is a free Ukraine, liberated from Russia, where there must be neither oppressed nor oppressor […]"
+    source: "The pamphlet Ukraine and Its International Political Significance, 1915 (translated from German)"
 ---
 
 ## A physicist from the theology faculty
