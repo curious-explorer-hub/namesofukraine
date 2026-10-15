@@ -11,6 +11,10 @@ on:
 permissions:
   contents: read
 
+# One run at a time per branch: a newer push waits for the running one, so an older deploy never lands
+# after a newer one. GitHub keeps only the newest waiting run, so the last push is always what deploys.
+concurrency: ci-${{ github.ref }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,6 +28,14 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # Astro keeps resized images here and skips them on the next build; restored after `npm ci`,
+      # which empties node_modules. Only `assets/`: the content data store is rebuilt each time.
+      - name: Restore Astro's image cache
+        uses: actions/cache@v6
+        with:
+          path: node_modules/.astro/assets
+          key: astro-assets-${{ runner.os }}-${{ github.sha }}
+          restore-keys: astro-assets-${{ runner.os }}-
       - name: Dependency advisories (fails on any not yet reviewed)
         run: node scripts/check-audit.mjs
       - run: npm run check
@@ -34,12 +46,18 @@ jobs:
       # AC10 on mobile: performance >= 90, accessibility >= 95, best practices and SEO >= 90
       # (lighthouserc.json, which includes one published profile page).
       # Smoke tests in a real browser against dist/ served with the production headers (e2e/).
-      - name: Browser smoke tests
+      # Both only read dist/, so they run at the same time; each log is printed when both are done,
+      # and the step fails if either fails.
+      - name: Browser smoke tests and Lighthouse budget
         run: |
           npx playwright install --with-deps chromium
-          npx playwright test
-      - name: Lighthouse budget
-        run: npx --no-install lhci autorun
+          npx playwright test > e2e.log 2>&1 & e2e=$!
+          npx --no-install lhci autorun > lighthouse.log 2>&1 & lh=$!
+          wait $e2e && e2e_status=0 || e2e_status=$?
+          wait $lh && lh_status=0 || lh_status=$?
+          echo "::group::Browser smoke tests (exit $e2e_status)"; cat e2e.log; echo "::endgroup::"
+          echo "::group::Lighthouse budget (exit $lh_status)"; cat lighthouse.log; echo "::endgroup::"
+          exit $(( e2e_status || lh_status ))
       # Deploys only from main, and only once Cloudflare secrets are configured.
       # The first deploy creates the Pages project if it doesn't exist yet (the token's "Pages: Edit"
       # permission allows it), then lists projects so the assigned *.pages.dev address shows in the log.
