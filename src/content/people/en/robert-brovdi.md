@@ -27,4 +27,4 @@ On 8 May 2025, a presidential decree made Robert Brovdi a Hero of Ukraine. Less 
 
 ## Why it matters today
 
-Before 2022 Brovdi was no soldier: he traded grain, built and funded contemporary Ukrainian art. But on the first day of the full-scale invasion he joined the territorial defense, and within months set up a small reconnaissance drone unit. In two and a half years “Madyar’s Birds” grew into a separate brigade. His path, from grain trader to the head of an entire branch of the military in three years, shows how drones have remade this war: from a side tool to a field of its own, with its own chain of command. It also shows how one volunteer’s initiative can grow into a new part of an army.
+Before 2022 Brovdi was no soldier, but on the first day of the full-scale invasion he came to defend his country. His path shows how drones have remade this war: from a side tool to a branch of the military with its own chain of command. It also shows how one volunteer’s initiative can grow into a new part of an army. It is an example for anyone who thinks that without a military background they can’t change anything.

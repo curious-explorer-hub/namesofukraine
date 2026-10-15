@@ -32,4 +32,4 @@ A separate case concerned the third attack on him, in May 2018: one of the attac
 
 ## Why it matters today
 
-Sternenko’s story shows how civic activism and an online audience can become part of a country’s defence. His foundation links makers of FPV drones with army units, pays for drones and delivers them. Most of the money comes in small sums from ordinary Ukrainians: the foundation says that as of September 2025 it received more than 450,000 contributions a month, and that it has given the military more than 210,000 drones since the full-scale invasion. In 2026 the defence minister made Sternenko his adviser on the use of drones at the front. A small donation, made by hundreds of thousands of people, becomes real help for the front.
+Sternenko’s story shows how civic activism and an online audience can become part of a country’s defence. His foundation runs mostly on small sums from ordinary Ukrainians, proof that defending the country is the work not only of the army and the state but of everyone who can help. A small donation, made by hundreds of thousands of people, becomes real help for the front.

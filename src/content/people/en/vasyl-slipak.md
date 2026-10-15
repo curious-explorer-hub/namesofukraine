@@ -25,4 +25,4 @@ On 29 June 2016, Vasyl Slipak was killed by a sniper near the village of Luhansk
 
 ## Why it matters today
 
-Vasyl Slipak served Ukraine with his voice and with his deeds. A boy from Lviv’s Dudaryk choir, he became a Paris National Opera soloist and sang leading roles across Europe. When Ukraine needed help, he raised it in Paris, organised benefit concerts, and carried a Ukrainian flag onto the stage of the Lyon Opera in protest against the war. In 2015 the Paris Opera soloist went to the front as a volunteer, taking his call sign from a favourite role. He showed that you can love your country on stage and in the ranks alike. In 2017 he was posthumously made a Hero of Ukraine.
+Vasyl Slipak served Ukraine with his voice and with his deeds. A singer heard on Europe’s great stages, he could have stayed in Paris, but he decided his place was beside the people defending Ukraine. He showed that success abroad doesn’t take you away from home: it can be turned into help for your country. His life is a reminder that you can love Ukraine on stage and in the ranks alike.

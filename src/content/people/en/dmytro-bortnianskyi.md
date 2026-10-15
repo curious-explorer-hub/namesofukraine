@@ -25,14 +25,14 @@ Dmytro Bortnianskyi was born in 1751 in Hlukhiv, in the Cossack Hetmanate. He le
 
 In 1769 the young man was sent to Italy to study with the Venetian composer Baldassare Galuppi. He stayed about ten years and wrote operas in Italian that were staged in Venice and Modena. Creonte was a hit: in 1776 it ran for a whole season at the Teatro San Benedetto in Venice. Bortnianskyi was 25.
 
-## The opera that came back from Lisbon
-
-Imagine an opera that went missing for a very long time. The score of Creonte ended up in Lisbon, probably carried there by a singer who had performed in the Venice production. In 2023 the musicologist Olha Shumilina tracked the manuscript down. In November 2024 Creonte was performed in Ukraine for the first time, in Kyiv, and in 2025 it was staged in Chernivtsi. Bortnianskyi had changed the ending of the old libretto, too: in his version the people rise against the tyrant, and Antigone becomes queen.
-
 ## Master of the choir
 
 Back from Italy in 1779, Bortnianskyi became kapellmeister at the court of the heir to the throne in Gatchina and Pavlovsk, where he wrote songs and operas in French. In 1796 he took charge of the court choir and raised it to a high standard. He wrote more than a hundred choral works, sacred and secular. In them he joined the old traditions of Ukrainian choral singing with the European music of his day, and he made wide use of Ukrainian folk melodies. Bortnianskyi died in St Petersburg in 1825.
 
+## The opera that came back from Lisbon
+
+Imagine an opera that went missing for a very long time. The score of Creonte ended up in Lisbon, probably carried there by a singer who had performed in the Venice production. In 2023 the musicologist Olha Shumilina tracked the manuscript down. In November 2024 Creonte was performed in Ukraine for the first time, in Kyiv, and in 2025 it was staged in Chernivtsi. Bortnianskyi had changed the ending of the old libretto, too: in his version the people rise against the tyrant, and Antigone becomes queen.
+
 ## Why it matters today
 
-A boy from the Hlukhiv singing school had a hit in Venice with his opera Creonte at 25, and later raised the court choir to a high standard. In more than a hundred choral works Bortnianskyi joined the old traditions of Ukrainian choral singing with the European music of his day, drawing widely on Ukrainian folk melodies. That music helped spread choral art in Ukraine and shaped choral singing in western Ukraine. And Creonte, in which the people rise against a tyrant and whose manuscript turned up as far away as Lisbon, is back on Ukrainian stages, a reminder that Ukrainian music was heard on Europe’s stages long ago.
+Bortnianskyi showed that the old Ukrainian choral tradition and its folk melodies could speak the same language as the European music of his day. His choral works helped spread choral art in Ukraine and shaped choral singing in western Ukraine. His success in Venice at 25 is a reminder that musicians from Ukraine were at home on Europe’s stages long ago. And the return of Creonte, in which the people rise against a tyrant, shows that a forgotten legacy can be heard again when someone sets out to find it.

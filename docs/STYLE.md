@@ -54,6 +54,7 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 ## Writing
 
 - **Short sentences, active verbs, concrete details.** "He built a granary without nails" beats "he was engaged in the construction of agricultural facilities".
+- **Keep the story in time order** where you can (ideally, not a hard rule). After the opening hook, sections follow the life from early to late, so the profile doesn't go birth, death, and then back to an interesting fact from their youth. A later section may step back in time only when it clearly has its own theme (a debate, a legacy, a single thread like a song's journey).
 - **One idea per paragraph.** About 200–350 words of story in all; cut what a reader won't miss: minor dates, offices, committees, institution names, sums.
 - **Explain context in a clause,** not a paragraph: "the Soviet secret police (NKVD)".
 - **Talk to the reader** now and then ("уявіть", "imagine"), but don't overdo it.
@@ -63,10 +64,13 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 
 ## The ending: why this person matters
 
-The last section, «Чому це важливо сьогодні» / "Why it matters today" or a hook heading in its place, is the reason the person is on the site. It answers one question: **what did this person change for Ukraine, for people, for the world, and why can we be proud of them?** A reader should finish it knowing what the person gave and feeling that it is worth carrying on.
+The last section, «Чому це важливо сьогодні» / "Why it matters today" or a hook heading in its place, is the reason the person is on the site. It answers one question: **what did this person change for Ukraine, for people, for the world, and why can we be proud of them?** A reader should finish it knowing what the person gave and feeling that it is worth carrying on. It is the key section of the profile.
 
 It must be the **last section** (only «Дискусії та оцінки» may come after it): it is also the text posted to social media. A story section such as «Як він повернувся» can come before it, but it never replaces it.
 
+- **Short:** five sentences at most.
+- **Why, not what.** The story above gives the facts; the ending says why they matter to other people. Don't retell the story or list results: "she won Madrid and reached two Grand Slam semifinals" doesn't say why the nation should care. Say what it means for Ukraine and the world: for its culture, science, statehood or development, for how the world sees Ukraine (did they carry Ukraine's name onto the world stage, at competitions, in science, in art?), for the people who came after.
+- **Motivate the reader,** mostly a reader in Ukraine: show what this life proves is possible and what is worth fighting for, so they want to learn, build, compete or stand up for what is right.
 - **Impact, not remembrance.** Say what their work, choices or way of thinking changed: what we still read, sing, use or build on; what they proved was possible; what they defended; who followed them. Death, burial, awards, streets, monuments, museums and reprints are how a person is remembered, not why. They get at most one closing clause, and only when they add something (a banknote, a mass reburial).
 - **Built from the story.** The ending draws on facts already told and sourced in the profile. It adds no new facts, and interpretations stay close to them: "his plays began modern Ukrainian drama", not "he changed everything".
 - **Proud and motivating, without pathos.** Plain words, a concrete link to today, now and then to the reader ("кожен, хто…", "anyone who…"). No preaching, no slogans, no superlatives without a source.
@@ -100,4 +104,5 @@ It must be the **last section** (only «Дискусії та оцінки» may
 4. Could a 15-year-old retell the story after one reading?
 5. Is anything left that nobody would miss?
 6. Do Ukrainian and English say the same things, each in its own voice?
-7. Does the ending say what this person changed and why we can be proud of them, not only how they are remembered?
+7. Does the ending say, in five sentences or fewer and without retelling the story, what this person changed, why it matters to Ukraine and the world, and why it should inspire the reader?
+8. Do the sections run in time order after the hook, without jumping back?
