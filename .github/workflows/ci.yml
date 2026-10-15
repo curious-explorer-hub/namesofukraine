@@ -1,10 +1,14 @@
 name: CI
 
 # Every push to main and every pull request runs all checks; main also deploys to Cloudflare Pages.
+# Skipped when only documentation changed (nothing in the build reads it), or when the last commit's
+# message has [skip ci]; the next run builds and deploys the whole tree, so nothing is lost.
 on:
   push:
     branches: [main]
+    paths-ignore: ['docs/**', '*.md']
   pull_request:
+    paths-ignore: ['docs/**', '*.md']
   workflow_dispatch:
 
 # Least privilege: the workflow only reads the repository; deploys use the Cloudflare secret instead.

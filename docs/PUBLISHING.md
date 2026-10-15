@@ -21,6 +21,8 @@ edit files ──► commit ──► push to main ──► CI (GitHub Actions)
 
 Pull requests run all the checks but **never deploy**; only `main` does.
 
+**No CI run** when a push changes only documentation (`docs/**` and the top-level `*.md` files; nothing in the build reads them), or when its last commit's message contains `[skip ci]`. Nothing is lost: the next run checks and deploys the whole tree. Pushes to `main` queue, one run at a time, so an older deploy never lands after a newer one.
+
 **Nothing is published until the owner approves it.** **Moderation:** every new profile starts as `status: draft` in its Ukrainian file. Drafts live in the repository and show in `npm run dev`, but never on the site; links to them in other profiles' text show as plain text until then. Only the owner approves a profile, after reading it: set `status: approved` and add `published: <current UTC time>` (e.g. `published: 2026-10-07T09:00:00Z`) under it. That time orders the New page, the "Нове" badge and RSS. The build fails if an approved profile has no `published`.
 
 ## Check before pushing
