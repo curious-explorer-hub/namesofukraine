@@ -12,7 +12,7 @@ key_accomplishments:
   - "Plays for children; translations and adaptations of Ovid, Mickiewicz, Goethe, Andersen and Hugo"
   - "Corresponding member of the All-Ukrainian Academy of Sciences (1925; other sources give 1927)"
 birthplace_name: "Hadiach"
-image_alt: "Olena Pchilka in Ukrainian dress, Kyiv, 1880s"
+image_alt: "Young Olena Pchilka in Ukrainian dress and necklaces, holding a rolled paper, 1870s"
 ---
 
 ## More than “Lesya’s mum”

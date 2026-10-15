@@ -13,7 +13,7 @@ key_accomplishments:
   - "Poetry collections On the Wings of Songs, Thoughts and Dreams and Echoes"
   - "Translations from many European languages; recordings of Volhynian folklore"
 birthplace_name: "Zviahel"
-image_alt: "Photo portrait of Lesya Ukrainka, 1886"
+image_alt: "Lesya Ukrainka as a child, in Volhynian folk dress and a flower wreath, 1878–1879"
 quotes:
   - text: "Yes! I will laugh through my tears, / Sing songs amid misfortune, / Hope even without hope, / I will live! Away, sad thoughts!"
     source: "The poem Contra spem spero! (Hoping Against Hope), 1890"

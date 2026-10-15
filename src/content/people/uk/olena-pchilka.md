@@ -17,10 +17,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "пансіон і «Громада» в 1860-х; з кінця 1890-х: «Рідний край», Академія наук; похована на Байковому кладовищі" }
 image:
   src: ./images/olena-pchilka.jpg
-  alt: "Олена Пчілка в українському вбранні, Київ, 1880-ті роки"
-  author: "Франциск де Мезер"
+  alt: "Молода Олена Пчілка в українському вбранні й намисті, зі згортком паперу в руці, 1870-ті роки"
+  position: "50% 15%"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Олена_Пчілка_5.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Ольга_Петрівна_Косач.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "«Український народний орнамент» (1876) - праця, що виросла з вишивок, зібраних на Волині; згодом «Українські узори» (1912, 1927)"
   - "Збірка поезій «Думки-мережанки» (1886); оповідання «Товаришки», «Світло добра і любові», «Півтора оселедця»"
@@ -36,7 +38,8 @@ sources:
   - title: Вікіпедія - Олена Пчілка
     url: https://uk.wikipedia.org/wiki/Олена_Пчілка
 related: [lesya-ukrainka, mykhailo-drahomanov, mykola-lysenko]
-status: draft
+status: approved
+published: 2026-10-15T23:50:07Z
 ---
 
 ## Не лише «мама Лесі»

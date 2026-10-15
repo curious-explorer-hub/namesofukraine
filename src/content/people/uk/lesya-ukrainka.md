@@ -16,12 +16,12 @@ misconception:
 birthplace: { name: "Звягель", region: zhytomyr, country: UA, lat: 50.583, lon: 27.633 }
 image:
   src: ./images/lesya-ukrainka.jpg
-  alt: "Фотопортрет Лесі Українки, 1886"
+  alt: "Леся Українка в дитинстві, у волинському народному вбранні й квітковому вінку, 1878–1879 роки"
   position: "50% 30%"
-  author: "Невідомий автор"
+  author: "Невідомий автор (за матеріалами Укрінформу)"
   license: "Public domain"
   ai_edit: colorized
-  source_url: "https://commons.wikimedia.org/wiki/File:Lesya_Ukrainka_portrait.jpg"
+  source_url: "https://www.ukrinform.ua/rubric-culture/3188591-lesa-ukrainka-bud-garacij-abo-holodnij-ale-ne-teplij.html"
 key_accomplishments:
   - Драма-феєрія «Лісова пісня» (1911)
   - Драми «Камінний господар», «Бояриня», «Кассандра», «Одержима»
