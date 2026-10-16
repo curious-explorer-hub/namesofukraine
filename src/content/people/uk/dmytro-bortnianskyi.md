@@ -41,7 +41,8 @@ sources:
   - title: "LB.ua - «Креонт» в Україні: опера, що вміє зникати й повертатися (2026)"
     url: "https://lb.ua/culture/2026/09/24/768052_kreont_ukrayini_opera_scho_vmiie.html"
 related: [maksym-berezovskyi]
-status: draft
+status: approved
+published: 2026-10-16T17:13:37Z
 ---
 
 ## Голос із Глухова

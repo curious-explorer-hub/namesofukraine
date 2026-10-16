@@ -12,6 +12,7 @@ key_accomplishments:
   - "The first automated control system, Lviv"
   - "Editor in chief of the two-volume Encyclopedia of Cybernetics"
 birthplace_name: "Rostov-on-Don"
+image_alt: "Viktor Hlushkov in glasses, a dark jacket and a checked tie, colour photo"
 ---
 
 ## A mathematician from Rostov

@@ -14,6 +14,14 @@ birthplace: { name: "Ростов-на-Дону", region: abroad, country: RU, l
 places:
   - { name: "Свердловськ (Єкатеринбург)", lat: 56.838, lon: 60.597, note: "викладав в Уральському лісотехнічному інституті (1948–1956)" }
   - { name: "Київ", lat: 50.450, lon: 30.523, note: "з 1956 року: Обчислювальний центр, Інститут кібернетики; похований на Байковому кладовищі" }
+image:
+  src: ./images/viktor-hlushkov.jpg
+  alt: "Віктор Глушков в окулярах, темному піджаку й картатій краватці, кольорове фото"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%88%D0%BA%D0%BE%D0%B2_%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+  fair_use: true
 key_accomplishments:
   - "Розв'язав узагальнену п'яту проблему Гільберта"
   - "Директор Обчислювального центру (з 1957) та Інституту кібернетики АН УРСР (1962–1982), який нині носить його ім'я"
@@ -27,7 +35,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Hlushkov, Viktor (author - L. Onyshkevych)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CH%5CL%5CHlushkovViktor.htm"
 related: []
-status: draft
+status: approved
+published: 2026-10-16T17:17:14Z
 ---
 
 ## Математик із Ростова
