@@ -11,7 +11,7 @@ key_accomplishments:
   - "The Energia launch vehicle and the reusable Buran spacecraft"
   - "Led the building of the modular Mir space station"
 birthplace_name: "Odesa"
-image_alt: "Portrait of Valentyn Hlushko on a 2003 Ukrainian postage stamp"
+image_alt: "An imagined portrait of Valentyn Hlushko in a grey jacket and a striped tie, generated with AI from a Soviet photograph"
 ---
 
 ## The violinist from Odesa who wrote to Tsiolkovsky

@@ -17,10 +17,13 @@ places:
   - { name: "Казань", lat: 55.796, lon: 49.106, note: "конструкторське бюро при НКВС, де працювали ув'язнені інженери" }
 image:
   src: ./images/valentyn-hlushko.jpg
-  alt: "Портрет Валентина Глушка на поштовій марці України, 2003 рік"
-  author: "Укрпошта"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Stamp_of_Ukraine_s506_1.jpg"
+  alt: "Уявний портрет Валентина Глушка в сірому піджаку й смугастій краватці, створений ШІ за радянською фотографією"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%88%D0%BA%D0%BE_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+  ai_edit: generated
+  fair_use: true
 key_accomplishments:
   - "Перший у світі електротермічний ракетний двигун (1929–1933)"
   - "Перші радянські рідинні ракетні двигуни (1930–1931)"
@@ -37,7 +40,8 @@ sources:
   - title: "Wikipedia (EN) - Valentin Glushko"
     url: "https://en.wikipedia.org/wiki/Valentin_Glushko"
 related: [serhii-korolov]
-status: draft
+status: approved
+published: 2026-10-16T18:46:19Z
 ---
 
 ## Одеський скрипаль, який писав Ціолковському

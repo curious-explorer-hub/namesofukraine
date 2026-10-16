@@ -35,7 +35,8 @@ sources:
   - title: "АрміяInform - Воїн з паризької опери. День пам'яті Василя Сліпака"
     url: "https://armyinform.com.ua/2020/06/29/voyin-z-paryzkoyi-opery-den-pamyati-vasylya-slipaka/"
 related: [dmytro-kotsiubailo]
-status: draft
+status: approved
+published: 2026-10-16T18:44:32Z
 ---
 
 ## Чому «Міф»?
