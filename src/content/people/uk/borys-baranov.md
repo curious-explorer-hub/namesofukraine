@@ -17,6 +17,15 @@ birthplace: { name: "Созінови (нині Кіровська област�
 places:
   - { name: "Кривий Ріг", lat: 47.91, lon: 33.391, note: "ТЕЦ металургійного заводу, 1966–1976" }
   - { name: "Чорнобильська АЕС", lat: 51.389, lon: 30.099, note: "начальник зміни, 1976–2005" }
+image:
+  src: ./images/borys-baranov.jpg
+  alt: "Борис Баранов з бородою, у білій сорочці й темній куртці"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "1986: разом з Олексієм Ананенком і Валерієм Беспаловим злив воду з-під зруйнованого 4-го енергоблока ЧАЕС і цим запобіг можливому повторному вибуху"
   - "Майже 30 років працював на Чорнобильській АЕС, зокрема начальником зміни (1976–2005)"
@@ -32,7 +41,8 @@ sources:
   - title: "History (UK) - The real story of the Chernobyl divers"
     url: "https://history.co.uk/article/the-real-story-of-the-chernobyl-divers"
 related: []
-status: draft
+status: approved
+published: 2026-10-16T18:04:50Z
 ---
 
 ## З Кіровщини до Кривого Рогу

@@ -25,6 +25,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Dmytro_Klachkivsky.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія сучасної України - Клячківський Дмитро-Роман Семенович (автор - Д. В. Веденєєв)"
     url: "https://esu.com.ua/article-8656"
@@ -35,7 +36,8 @@ sources:
   - title: "Gazeta.ua - Ігор Ільюшин: «Акції УПА на Волині мали позбавити Червону армію польської підтримки» (2013)"
     url: "https://gazeta.ua/articles/history/_akciyi-upa-na-volini-mali-pozbaviti-cervonu-armiyu-polskoyi-pidtrimki-istorik/494887"
 related: [roman-shukhevych, stepan-bandera]
-status: draft
+status: approved
+published: 2026-10-16T17:52:51Z
 ---
 
 ## Людина з десятком імен

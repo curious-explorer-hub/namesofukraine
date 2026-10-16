@@ -13,6 +13,7 @@ key_accomplishments:
   - "Hero of Ukraine (posthumously, Decree No. 468/2019)"
   - "Order for Courage, 3rd class (posthumously, 2018)"
 birthplace_name: "Sozinovy (now Kirov Oblast, Russia)"
+image_alt: "Borys Baranov with a beard, in a white shirt and a dark jacket"
 ---
 
 ## From Kirov to Kryvyi Rih
