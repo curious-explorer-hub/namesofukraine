@@ -12,6 +12,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 - **Not recommended** (owner to confirm): Soviet leaders and party officials, Soviet propaganda figures, and current partisan politicians. Profiling them as "people who made Ukraine" would contradict §7 and Ukraine's decommunization framework.
 - **Collectives** (Захисники Азовсталі, Невідомий солдат, Герої Небесної Сотні): skip, create a "collective" profile type, or profile individuals?
 - **Current or serving leaders:** §7.6 prefers lasting achievements over current positions. Add now, or after their time in office?
+- **Executed Renaissance roster check (2026-10-10), skipped for now:** Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); Чехівський, Лозинський (political figures); Олена Курило and Катерина Грушевська (dates conflict, thin sources). Survivors Осьмачка, Слабченко, Суровцова, Мисик and Івченко: only if a strong profile on their own.
 
 ## To draft
 
@@ -51,9 +52,13 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Євгенія Емеральд («Жанна д'Арк») | | Defender (defenders) | 👩 🟢 | She says she is not a certified sniper (RBC-Styler, 15 Nov 2023); most later coverage is about her private life, not public deeds. Keep or drop? For `women-army`. Not drafted 2026-10-16: no official record or clear public deed in reputable sources (she says she had no rank or certificate; Glavcom, 13 Dec 2022). Recommend dropping |
 | Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (now drafted)? Rechecked 2026-10-16: still nothing; the only Данило Мельник in reputable media is a bandurist killed near Bakhmut in 2023 (Суспільне). Recommend dropping |
 | Катерина Гучко | | | | Owner request 2026-10-10. No one by this name turns up in a search: owner, who is she (years, field, a link)? |
+| Віктор Ющенко | b. 1954 | State (statehood) | 🟢 | Owner decision 2026-09-29: not yet, but will be added later. When? |
 
 
 ## Don't add
 
-- **Віктор Ющенко:** excluded by owner decision, 2026-09-29.
-- **From the Executed Renaissance roster check (2026-10-10):** Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); Чехівський, Лозинський (political figures); Олена Курило and Катерина Грушевська (dates conflict, thin sources). Survivors Осьмачка, Слабченко, Суровцова, Мисик and Івченко: only if a strong profile on their own.
+People the owner decided not to profile. Don't draft them, link to them or suggest them again.
+
+| Person | Years | Reason | Decided |
+|---|---|---|---|
+| Леонід Кравчук | 1934–2022 | Owner decision; draft removed | 2026-10-16 |
