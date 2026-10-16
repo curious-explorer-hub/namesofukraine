@@ -26,7 +26,7 @@ In 1976 Baranov moved to the Chornobyl Nuclear Power Plant, where for many years
 
 ## Water under the reactor
 
-There was still water under the wrecked reactor. If the molten nuclear fuel had reached it, a second, even more powerful explosion could have followed. Baranov, with the engineers Oleksii Ananenko and Valerii Bespalov, went down into the flooded space beneath the unit and opened the valves by hand to drain the water. A legend later grew around them: three divers swimming in the dark who soon died. In fact, research suggests the water was only about knee-deep, and all three survived. Baranov worked at the plant for another 19 years.
+There was still water under the wrecked reactor. If the molten nuclear fuel had reached it, a second, even more powerful explosion could have followed. Baranov, with the engineers [Oleksii Ananenko](/en/people/oleksii-ananenko/) and [Valerii Bespalov](/en/people/valerii-bespalov/), went down into the flooded space beneath the unit and opened the valves by hand to drain the water. A legend later grew around them: three divers swimming in the dark who soon died. In fact, research suggests the water was only about knee-deep, and all three survived. Baranov worked at the plant for another 19 years.
 
 ## Remembered
 
