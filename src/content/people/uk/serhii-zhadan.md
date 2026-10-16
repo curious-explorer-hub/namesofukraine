@@ -14,9 +14,9 @@ image:
   src: ./images/serhii-zhadan.jpg
   alt: "Портрет Сергія Жадана"
   position: "50% 30%"
-  author: "Jindřich Nosek (NoJin)"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Serhij_%C5%BDadan_(2019).jpg"
+  author: "Mariusz Kubik"
+  license: "CC BY 4.0"
+  source_url: "https://commons.wikimedia.org/wiki/File:2022.08.17._Serhiy_Zhadan_Photo_Mariusz_Kubik_07.JPG"
 key_accomplishments:
   - "Автор романів «Ворошиловград» (2010), «Месопотамія» (2014) та «Інтернат» (2017), перекладених десятками мов"
   - "Премія Angelus (2015, за «Месопотамію») та премія імені Василя Стуса (2017)"
@@ -37,7 +37,8 @@ sources:
   - title: "LIGA.net - Письменник Жадан вступив у ряди 13 бригади Нацгвардії «Хартія»"
     url: "https://news.liga.net/politics/news/pisatel-zhadan-vstupil-v-ryady-13-brigady-natsgvardii-hartiya--foto-podgotovki"
 related: []
-status: draft
+status: approved
+published: 2026-10-16T16:49:08Z
 ---
 
 ## Коли вимагали стати на коліна
