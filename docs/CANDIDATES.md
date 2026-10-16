@@ -71,9 +71,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (now drafted)? |
 | Богдан-Ігор Антонич | 1909–1937 | Poet (literature) | 🌍 | Lemko-born poet of interwar Lviv («Книга Лева», «Зелена Євангелія»); not repressed (died of illness), so not for `executed-renaissance`. Profile him without the collection, or skip? |
 | Катерина Гучко | | | | Owner request 2026-10-10. No one by this name turns up in a search: owner, who is she (years, field, a link)? |
-| Герої Небесної Сотні | 2014 | Collective | 👥 | See Collectives in Editorial notes. Костенко and Сольчаник are drafted as individuals |
-| Захисники Азовсталі | 2022 | Collective | 👥 | See Collectives |
-| Невідомий солдат | | Collective | 👥 | Not a person; see Collectives |
 | Лариса Латиніна | b. 1934 | Gymnast (sport) | 👩 🟢 ⚖️ 🌍 | Owner request 2026-10-12. Born in Kherson; 18 Olympic medals for the USSR. Has lived in Russia for decades and has publicly backed Russian positions on Crimea (**unverified**, check). Add, add with a «Дискусії та оцінки» section, or don't add? |
 
 

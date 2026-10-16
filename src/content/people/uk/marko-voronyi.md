@@ -21,6 +21,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Вороний.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Вірші в журналах «Червоний шлях», «Глобус», «Життя й революція»; цикл «Туркестанські сонети» (1926)"
   - "Збірка віршів «Форвард» (1932)"
@@ -38,7 +39,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Вороний_Марко_Миколайович
 related: [mykola-voronyi, mykhailo-kotsiubynskyi, mykola-zerov, pavlo-fylypovych]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-16T00:06:46Z
 ---
 
 ## Ім'я діда
