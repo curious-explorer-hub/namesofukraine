@@ -38,7 +38,7 @@ sources:
     url: "https://uinp.gov.ua/istorychnyy-kalendar/lystopad/29/1899-narodyvsya-grygoriy-strilec-pysmennyk"
   - title: "ZAXID.NET - «Буржуазний націоналіст», який узяв за псевдонім назву квітки і був знищений НКВС"
     url: "https://zaxid.net/burzhuazniy_natsionalist_yakiy_vzyav_za_psevdonim_nazvu_kvitki_i_buv_znishheniy_nkvs_n1621686"
-related: [yevhen-pluzhnyk, valerian-pidmohylnyi, mykola-zerov, mykola-khvylovyi, mykhailo-kotsiubynskyi, mykola-hohol]
+related: [yevhen-pluzhnyk, valerian-pidmohylnyi, mykola-zerov, mykola-khvylovyi, mykhailo-kotsiubynskyi, mykola-hohol, dmytro-falkivskyi, oleksa-vlyzko, kost-burevii]
 collections: [executed-renaissance]
 status: approved
 published: 2026-10-15T20:08:20Z
@@ -62,7 +62,7 @@ published: 2026-10-15T20:08:20Z
 
 ## Грудень 1934 року
 
-4 листопада 1934 року, після критичного виступу в Будинку письменників, Косинку заарештували. 1 грудня в Ленінграді вбили більшовицького керівника Сергія Кірова, і влада відповіла хвилею репресій. 13–15 грудня у Києві військовий суд у вигаданій справі «терористів-білогвардійців» засудив до розстрілу 28 людей, серед них Косинку й письменників Дмитра Фальківського, Олексу Влизька та Костя Буревія. Григорія Косинку розстріляли в Києві 15 грудня 1934 року. 1957 року його реабілітували.
+4 листопада 1934 року, після критичного виступу в Будинку письменників, Косинку заарештували. 1 грудня в Ленінграді вбили більшовицького керівника Сергія Кірова, і влада відповіла хвилею репресій. 13–15 грудня у Києві військовий суд у вигаданій справі «терористів-білогвардійців» засудив до розстрілу 28 людей, серед них Косинку й письменників [Дмитра Фальківського](/uk/people/dmytro-falkivskyi/), [Олексу Влизька](/uk/people/oleksa-vlyzko/) та [Костя Буревія](/uk/people/kost-burevii/). Григорія Косинку розстріляли в Києві 15 грудня 1934 року. 1957 року його реабілітували.
 
 ## Чому це важливо сьогодні
 

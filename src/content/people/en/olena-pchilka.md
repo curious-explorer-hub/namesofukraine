@@ -25,7 +25,7 @@ In 1868 Olha married Petro Kosach, another member of the Hromada, and moved with
 
 ## Ukrainian for everything
 
-Pchilka began with translations, and from 1883 she published her own poems and stories in the Lviv magazine Zoria. Her first poetry collection, Thoughts – Embroideries, came out in 1886. Her stories were about the educated people of her day. She wanted to prove that Ukrainian could carry more than village life, nature and love: it could handle hard questions of philosophy, society and politics. In 1887, with Nataliia Kobrynska, she published The First Wreath in Lviv, the first women’s almanac in Ukraine.
+Pchilka began with translations, and from 1883 she published her own poems and stories in the Lviv magazine Zoria. Her first poetry collection, Thoughts – Embroideries, came out in 1886. Her stories were about the educated people of her day. She wanted to prove that Ukrainian could carry more than village life, nature and love: it could handle hard questions of philosophy, society and politics. In 1887, with [Nataliia Kobrynska](/en/people/nataliia-kobrynska/), she published The First Wreath in Lviv, the first women’s almanac in Ukraine.
 
 ## Ridnyi krai
 

@@ -35,7 +35,7 @@ In the early 1930s Party critics accused Kosynka of “kulak ideology” and “
 
 ## December 1934
 
-On 4 November 1934, after a critical speech at the Writers’ House, Kosynka was arrested. On 1 December the Bolshevik leader Sergei Kirov was killed in Leningrad, and the regime answered with a wave of repression. On 13–15 December a military court in Kyiv, in a fabricated case of “White Guard terrorists”, sentenced 28 people to death, among them Kosynka and the writers Dmytro Falkivskyi, Oleksa Vlyzko and Kost Burevii. Hryhorii Kosynka was shot in Kyiv on 15 December 1934. He was rehabilitated in 1957.
+On 4 November 1934, after a critical speech at the Writers’ House, Kosynka was arrested. On 1 December the Bolshevik leader Sergei Kirov was killed in Leningrad, and the regime answered with a wave of repression. On 13–15 December a military court in Kyiv, in a fabricated case of “White Guard terrorists”, sentenced 28 people to death, among them Kosynka and the writers [Dmytro Falkivskyi](/en/people/dmytro-falkivskyi/), [Oleksa Vlyzko](/en/people/oleksa-vlyzko/) and [Kost Burevii](/en/people/kost-burevii/). Hryhorii Kosynka was shot in Kyiv on 15 December 1934. He was rehabilitated in 1957.
 
 ## Why it matters today
 

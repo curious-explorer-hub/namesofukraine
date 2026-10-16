@@ -23,7 +23,7 @@ In 1934, at a party in Prague, someone began mocking the Ukrainian language. By 
 
 ## A poet of Vistnyk
 
-In 1923–1929 Olena studied at the Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw, where she taught at a Ukrainian school. From 1933 she published poems and essays in Dmytro Dontsov’s journal Vistnyk, and she saw the Ukrainian woman as an equal participant in the struggle for independence. In December 1939 Teliha joined the OUN and in Cracow worked with Oleh Olzhych in its cultural section, heading the Zarevo arts society.
+In 1923–1929 Olena studied at the Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw, where she taught at a Ukrainian school. From 1933 she published poems and essays in [Dmytro Dontsov](/en/people/dmytro-dontsov/)’s journal Vistnyk, and she saw the Ukrainian woman as an equal participant in the struggle for independence. In December 1939 Teliha joined the OUN and in Cracow worked with Oleh Olzhych in its cultural section, heading the Zarevo arts society.
 
 ## Kyiv, 1941
 
