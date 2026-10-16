@@ -16,11 +16,12 @@ places:
   - { name: "Рим", lat: 41.902, lon: 12.496, note: "з 1963 року: Український католицький університет, собор Святої Софії; місце смерті" }
 image:
   src: ./images/yosyf-slipyi.jpg
-  alt: "Кардинал Йосиф Сліпий з архієрейським жезлом, Сідней, 1968 рік"
+  alt: "Йосиф Сліпий у білому головному уборі з хрестом, з наперсним хрестом і панагіями на грудях"
   position: "50% 25%"
-  author: "Pkravchenko"
-  license: "CC BY-SA 3.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Cardinal_Josyp_Slipyj.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.josyfslipyj.com/"
+  fair_use: true
 key_accomplishments:
   - "Перший ректор Греко-католицької богословської академії у Львові (з 1928 року)"
   - "Глава УГКЦ з 1944 року: митрополит Галицький, згодом верховний архієпископ, з 1975 року - патріарх"
@@ -40,7 +41,8 @@ sources:
   - title: "Настоящее время (RFE/RL) - «Морально осиротела Украина»: смерть Любомира Гузара (02.06.2017)"
     url: "https://www.currenttime.tv/a/28524014.html"
 related: [andrei-sheptytskyi, liubomyr-huzar, borys-gudziak]
-status: draft
+status: approved
+published: 2026-10-16T16:55:29Z
 ---
 
 ## Хлопець із Заздрості
