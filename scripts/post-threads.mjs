@@ -8,7 +8,7 @@
 //
 // Usage: node scripts/post-threads.mjs [profile link or slug] [--dry-run]
 import { pathToFileURL } from 'node:url';
-import { SITE, years, pickProfile, assertLive, graphApi } from './social.mjs';
+import { SITE, headline, wrap, pickProfile, assertLive, graphApi } from './social.mjs';
 import { closingSection } from '../src/lib/story.mjs';
 
 const MAX_LENGTH = 500; // Threads text limit
@@ -36,9 +36,9 @@ function split(text, max) {
 
 // The texts of the post and its replies, in order.
 export function postTexts(f, url, markdown = '') {
-  const main = `${f.name} (${years(f)})\n${f.role}\n\n${f.summary}`;
+  const main = `${headline(f)}\n\n${f.summary}`;
   const why = closingSection(markdown);
-  const rest = why ? `${why.heading}\n\n${why.text}` : '';
+  const rest = why ? `${wrap(why.heading, '💡')}\n\n${why.text}` : '';
   const single = rest ? `${main}\n\n${rest}\n\n${url}` : `${main}\n\n${url}`;
   if (length(single) <= MAX_LENGTH) return [single];
   const replies = split(rest, MAX_LENGTH - length(url) - 2);

@@ -8,7 +8,7 @@
 //
 // Usage: node scripts/post-instagram.mjs [profile link or slug] [--dry-run]
 import { pathToFileURL } from 'node:url';
-import { SITE, years, pickProfile, assertLive, graphApi } from './social.mjs';
+import { SITE, headline, pickProfile, assertLive, graphApi } from './social.mjs';
 
 const MAX_LENGTH = 2200; // Instagram caption limit
 const STORY_LENGTH = 1500; // keeps the caption a read of a minute or so
@@ -67,7 +67,7 @@ function story(markdown, budget) {
 }
 
 export function caption(f, url, markdown = '', enName) {
-  const head = `${f.name} (${years(f)})\n${f.role}`;
+  const head = headline(f);
   const tail = `Повна історія, фото й джерела — за посиланням у профілі:\n${url.replace(/^https:\/\//, '')}\n\n${hashtags(f, enName)}`;
   const budget = Math.min(STORY_LENGTH, MAX_LENGTH - head.length - tail.length - 4);
   const text = `${head}\n\n${story(markdown, budget) || f.summary}\n\n${tail}`;

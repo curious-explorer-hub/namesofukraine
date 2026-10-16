@@ -42,6 +42,28 @@ export function years(f) {
   return f.died ? `${year(f.born, f.born_circa)}–${year(f.died, f.died_circa)}` : `нар. ${year(f.born, f.born_circa)}`;
 }
 
+// One emoji per group (categories.json) on both sides of the role.
+const GROUP_EMOJI = {
+  statehood: '🏛️',
+  literature: '📖',
+  'visual-arts': '🎨',
+  'performing-arts': '🎭',
+  science: '🔬',
+  civic: '🕊️',
+  faith: '🕯️',
+  sport: '🏅',
+  defenders: '🛡️',
+};
+
+export const wrap = (text, icon) => `${icon} ${text} ${icon}`;
+
+// The first two lines of a post: name and years between flags, then the role between the group's emoji.
+export function headline(f) {
+  const emoji = GROUP_EMOJI[f.group];
+  if (!emoji) throw new Error(`No emoji for group ${f.group}`);
+  return `${wrap(`${f.name} (${years(f)})`, '🇺🇦')}\n${wrap(f.role, emoji)}`;
+}
+
 // The profile given as a link or slug, or else today's entry (Kyiv time) in social/YYYY-MM.txt; null if none is planned.
 export function pickProfile(input) {
   let slug;

@@ -17,15 +17,15 @@ describe('postTexts', () => {
   });
 
   it('puts name and years, role, summary, the closing section and the link in one post when they fit', () => {
-    const fields = { name: 'Агатангел Кримський', born: '1871-01-15', died: '1942-01-25', role: 'Сходознавець', summary: 'Знав понад 50 мов.' };
+    const fields = { name: 'Агатангел Кримський', born: '1871-01-15', died: '1942-01-25', group: 'science', role: 'Сходознавець', summary: 'Знав понад 50 мов.' };
     const markdown = '---\nname: x\n---\n\n## Поліглот\n\nТекст.\n\n## Чому це важливо сьогодні\n\nВін [заснував](/uk/x/) сходознавство.\n\n## Дискусії та оцінки\n\nСпір.\n';
     expect(postTexts(fields, 'https://namesofukraine.com/uk/people/ahatanhel-krymskyi/', markdown)).toEqual([
-      'Агатангел Кримський (1871–1942)\nСходознавець\n\nЗнав понад 50 мов.\n\nЧому це важливо сьогодні\n\nВін заснував сходознавство.\n\nhttps://namesofukraine.com/uk/people/ahatanhel-krymskyi/',
+      '🇺🇦 Агатангел Кримський (1871–1942) 🇺🇦\n🔬 Сходознавець 🔬\n\nЗнав понад 50 мов.\n\n💡 Чому це важливо сьогодні 💡\n\nВін заснував сходознавство.\n\nhttps://namesofukraine.com/uk/people/ahatanhel-krymskyi/',
     ]);
   });
 
   it('moves the closing section into replies when it does not fit, with the link at the end', () => {
-    const fields = { name: 'А', born: '1900-01-01', role: 'Р', summary: 'С'.repeat(250) };
+    const fields = { name: 'А', born: '1900-01-01', group: 'sport', role: 'Р', summary: 'С'.repeat(250) };
     const markdown = `## Чому це важливо сьогодні\n\n${'Речення про важливе. '.repeat(30)}`;
     const texts = postTexts(fields, 'https://namesofukraine.com/uk/people/a/', markdown);
     expect(texts.length).toBeGreaterThan(2);

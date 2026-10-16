@@ -20,7 +20,7 @@ describe('caption', () => {
     const fields = { name: 'Агатангел Кримський', born: '1871-01-15', died: '1942-01-25', group: 'science', role: 'Сходознавець', summary: 'Знав понад 50 мов.' };
     const markdown = '---\nname: x\n---\n\n## Поліглот\n\nВін знав [понад 50 мов](https://example.org).\n\nІ **викладав** арабську.\n';
     expect(caption(fields, 'https://namesofukraine.com/uk/people/ahatanhel-krymskyi/', markdown, 'Ahatanhel Krymskyi')).toBe(
-      'Агатангел Кримський (1871–1942)\nСходознавець\n\nВін знав понад 50 мов.\n\nІ викладав арабську.\n\nПовна історія, фото й джерела — за посиланням у профілі:\nnamesofukraine.com/uk/people/ahatanhel-krymskyi/\n\n#знайсвоїх #історіяукраїни #ukraine #українськанаука #Krymskyi',
+      '🇺🇦 Агатангел Кримський (1871–1942) 🇺🇦\n🔬 Сходознавець 🔬\n\nВін знав понад 50 мов.\n\nІ викладав арабську.\n\nПовна історія, фото й джерела — за посиланням у профілі:\nnamesofukraine.com/uk/people/ahatanhel-krymskyi/\n\n#знайсвоїх #історіяукраїни #ukraine #українськанаука #Krymskyi',
     );
   });
 
