@@ -23,7 +23,7 @@ Petro Mohyla was the son of Simeon Mohyla, ruler of Moldavia and Wallachia. Afte
 
 ## A school in the monastery
 
-Mohyla became archimandrite of the Kyiv Cave Monastery in 1627, and in 1631 he founded a school there, bringing in teachers from Lviv. The very next year it merged with the Kyiv Brotherhood School, which had been set up in 1615 on an inheritance left by Halshka Hulevychivna of Kyiv. The new college was named Mohylian after him. The university still counts Hetman [Petro Sahaidachnyi](/en/people/petro-sahaidachnyi/) among its founders too.
+Mohyla became archimandrite of the Kyiv Cave Monastery in 1627, and in 1631 he founded a school there, bringing in teachers from Lviv. The very next year it merged with the Kyiv Brotherhood School, which had been set up in 1615 on an inheritance left by [Halshka Hulevychivna](/en/people/halshka-hulevychivna/) of Kyiv. The new college was named Mohylian after him. The university still counts Hetman [Petro Sahaidachnyi](/en/people/petro-sahaidachnyi/) among its founders too.
 
 ## A metropolitan who reformed the church
 

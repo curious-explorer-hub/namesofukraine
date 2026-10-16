@@ -26,7 +26,7 @@ Ilya Repin worked on Reply of the Zaporozhian Cossacks from 1880 to 1891, travel
 
 ## A boy from a regimental town
 
-Repin was born in 1844 in Chuhuiv in the Kharkiv region, into the family of a military settler. He learned to draw right there, in the regiment’s topographic corps and at an icon-painting school. In 1863 he went to St Petersburg, studied under Ivan Kramskoi and then at the Academy of Arts, where he later became a professor and even rector. His students included the Ukrainian painters Mykola Pymonenko, Oleksandr Murashko and Fotii Krasytskyi.
+Repin was born in 1844 in Chuhuiv in the Kharkiv region, into the family of a military settler. He learned to draw right there, in the regiment’s topographic corps and at an icon-painting school. In 1863 he went to St Petersburg, studied under Ivan Kramskoi and then at the Academy of Arts, where he later became a professor and even rector. His students included the Ukrainian painters Mykola Pymonenko, [Oleksandr Murashko](/en/people/oleksandr-murashko/) and Fotii Krasytskyi.
 
 The whole world knows his Barge Haulers on the Volga (1873) and his portraits of Leo Tolstoy and Modest Mussorgsky. But Ukraine was one of his main themes too: Evening Party, Haidamakas, Hopak, a portrait of [Taras Shevchenko](/en/people/taras-shevchenko/) (1888) and illustrations for [Nikolai Gogol](/en/people/mykola-hohol/)’s Taras Bulba.
 

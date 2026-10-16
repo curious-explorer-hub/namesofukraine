@@ -37,7 +37,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CM%5CO%5CMohylaPetro.htm"
   - title: "Національний університет «Києво-Могилянська академія» - History. Chronicle"
     url: "https://www.ukma.edu.ua/eng/index.php/about-us/history"
-related: [viacheslav-briukhovetskyi, petro-sahaidachnyi, ivan-mazepa, pylyp-orlyk, hryhorii-skovoroda]
+related: [viacheslav-briukhovetskyi, petro-sahaidachnyi, ivan-mazepa, pylyp-orlyk, hryhorii-skovoroda, halshka-hulevychivna]
 status: approved
 published: 2026-10-13T23:12:14Z
 ---
@@ -48,7 +48,7 @@ published: 2026-10-13T23:12:14Z
 
 ## Школа в лаврі
 
-Могила став архімандритом Києво-Печерської лаври 1627 року, а 1631-го заснував при ній школу й запросив учителів зі Львова. Уже наступного року її об'єднали з Київською братською школою, яка постала 1615 року на спадок киянки Галшки Гулевичівни. Новий колегіум назвали на честь Могили Могилянським. Університет і досі зараховує до своїх засновників і гетьмана [Петра Сагайдачного](/uk/people/petro-sahaidachnyi/).
+Могила став архімандритом Києво-Печерської лаври 1627 року, а 1631-го заснував при ній школу й запросив учителів зі Львова. Уже наступного року її об'єднали з Київською братською школою, яка постала 1615 року на спадок киянки [Галшки Гулевичівни](/uk/people/halshka-hulevychivna/). Новий колегіум назвали на честь Могили Могилянським. Університет і досі зараховує до своїх засновників і гетьмана [Петра Сагайдачного](/uk/people/petro-sahaidachnyi/).
 
 ## Митрополит-реформатор
 

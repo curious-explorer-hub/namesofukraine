@@ -33,7 +33,7 @@ sources:
     url: "https://zakon.rada.gov.ua/laws/show/880/2025"
   - title: Вікіпедія - Стерненко Сергій В'ячеславович
     url: https://uk.wikipedia.org/wiki/Стерненко_Сергій_В'ячеславович
-related: []
+related: [serhii-prytula]
 collections: [civic-icons]
 status: draft
 ---

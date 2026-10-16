@@ -39,13 +39,13 @@ sources:
     url: "https://zn.ua/ART/dar_hanenko.html"
   - title: "Internet Encyclopedia of Ukraine - Krychevsky, Vasyl"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrychevskyVasylH.htm"
-related: [nikola-tereshchenko, ahatanhel-krymskyi]
+related: [nikola-tereshchenko, ahatanhel-krymskyi, bohdan-khanenko]
 status: draft
 ---
 
 ## Донька Терещенка
 
-Варвара Терещенко народилася 1852 року в Глухові. Вона була старшою донькою [Ніколи Терещенка](/uk/people/nikola-tereshchenko/) - найзаможнішого українського підприємця свого часу і щедрого мецената. Від родини вона перейняла любов до мистецтва й обов'язок ділитися. 1874 року Варвара вийшла заміж за молодого юриста Богдана Ханенка, який уже тоді мріяв про власну художню колекцію.
+Варвара Терещенко народилася 1852 року в Глухові. Вона була старшою донькою [Ніколи Терещенка](/uk/people/nikola-tereshchenko/) - найзаможнішого українського підприємця свого часу і щедрого мецената. Від родини вона перейняла любов до мистецтва й обов'язок ділитися. 1874 року Варвара вийшла заміж за молодого юриста [Богдана Ханенка](/uk/people/bohdan-khanenko/), який уже тоді мріяв про власну художню колекцію.
 
 ## Колекція, що стала їхнім дитям
 

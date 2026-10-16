@@ -19,7 +19,7 @@ image_alt: "Varvara Khanenko, photograph of a painted portrait"
 
 ## Tereshchenko’s daughter
 
-Varvara Tereshchenko was born in 1852 in Hlukhiv. She was the eldest daughter of [Nikola Tereshchenko](/en/people/nikola-tereshchenko/), the wealthiest Ukrainian businessman of his day and a generous patron. From her family she took a love of art and a sense of duty to share. In 1874 she married a young lawyer, Bohdan Khanenko, who already dreamed of an art collection of his own.
+Varvara Tereshchenko was born in 1852 in Hlukhiv. She was the eldest daughter of [Nikola Tereshchenko](/en/people/nikola-tereshchenko/), the wealthiest Ukrainian businessman of his day and a generous patron. From her family she took a love of art and a sense of duty to share. In 1874 she married a young lawyer, [Bohdan Khanenko](/en/people/bohdan-khanenko/), who already dreamed of an art collection of his own.
 
 ## The collection that was their child
 

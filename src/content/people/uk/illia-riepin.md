@@ -47,7 +47,7 @@ sources:
     url: "https://abc17news.com/entertainment/cnn-style/2023/03/14/major-museums-around-the-world-are-quietly-recategorizing-works-from-russian-to-ukrainian/"
   - title: "Hyperallergic - Vartan Matiossian, The Met Shouldn't Have Reclassified Ivan Aivazovsky as \"Ukrainian\" (21.02.2023)"
     url: "https://hyperallergic.com/met-museum-shouldnt-have-reclassified-ivan-aivazovsky-as-ukrainian"
-related: [ivan-sirko, taras-shevchenko, mykola-hohol, mykola-kostomarov, mykola-pyrohov]
+related: [ivan-sirko, taras-shevchenko, mykola-hohol, mykola-kostomarov, mykola-pyrohov, oleksandr-murashko]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
@@ -58,7 +58,7 @@ published: 2026-10-07T06:23:13Z
 
 ## Хлопець із полкового Чугуєва
 
-Рєпін народився 1844 року в Чугуєві на Харківщині, у родині військового поселенця. Малювати вчився там само: у полковому топографічному корпусі та в іконописній школі. 1863 року він поїхав до Петербурга, вчився в Івана Крамського, а потім в Академії мистецтв. Згодом став там професором і навіть ректором. Серед його учнів були українські художники Микола Пимоненко, Олександр Мурашко й Фотій Красицький.
+Рєпін народився 1844 року в Чугуєві на Харківщині, у родині військового поселенця. Малювати вчився там само: у полковому топографічному корпусі та в іконописній школі. 1863 року він поїхав до Петербурга, вчився в Івана Крамського, а потім в Академії мистецтв. Згодом став там професором і навіть ректором. Серед його учнів були українські художники Микола Пимоненко, [Олександр Мурашко](/uk/people/oleksandr-murashko/) й Фотій Красицький.
 
 Його «Бурлаки на Волзі» (1873) і портрети Льва Толстого чи Модеста Мусоргського знає весь світ. Але Україна теж була однією з його головних тем: «Вечорниці», «Гайдамаки», «Гопак», портрет [Тараса Шевченка](/uk/people/taras-shevchenko/) (1888), ілюстрації до «Тараса Бульби» [Миколи Гоголя](/uk/people/mykola-hohol/).
 
