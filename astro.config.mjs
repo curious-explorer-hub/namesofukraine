@@ -75,6 +75,11 @@ const staleCards = {
   },
 };
 
+// The Patrons page stays out of the sitemap (and is noindex) until the first patron is listed.
+/** @type {{ patrons: string[] }[]} */
+const patronTiers = JSON.parse(readFileSync(new URL('./src/content/patrons.json', import.meta.url), 'utf8'));
+const noPatrons = patronTiers.every((tier) => tier.patrons.length === 0);
+
 // Sitemap <lastmod> for profile pages (both languages): the later of `last_reviewed` and `published` in
 // the uk file's frontmatter.
 const peopleDir = new URL('./src/content/people/uk/', import.meta.url);
@@ -96,11 +101,11 @@ export default defineConfig({
     staleCards,
     // Lists every built page (production builds hold only reviewed profiles) with uk/en alternates.
     // Left out: the error pages, the dev-only admin pages, the home page's card list (a fragment, not a
-    // page) and the bare root, which only redirects to /uk/.
+    // page), the bare root, which only redirects to /uk/, and the Patrons page while it has no names.
     sitemap({
       filter: (page) => {
         const path = new URL(page).pathname;
-        return !/\/404\/?$/.test(path) && !/^\/(uk|en)\/(admin|home-cards)\//.test(path) && path !== '/';
+        return !/\/404\/?$/.test(path) && !/^\/(uk|en)\/(admin|home-cards)\//.test(path) && path !== '/' && !(noPatrons && /^\/(uk|en)\/patrons\/$/.test(path));
       },
       i18n: { defaultLocale: 'uk', locales: { uk: 'uk-UA', en: 'en-US' } },
       serialize: (item) => {

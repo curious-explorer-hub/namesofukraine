@@ -1,0 +1,42 @@
+[
+  {
+    "id": "history-maker",
+    "price": 50,
+    "name": { "uk": "Творець історії", "en": "History Maker" },
+    "description": {
+      "uk": "Для меценатів, завдяки яким проєкт покриває операційні витрати, а історія залишається безкоштовною та доступною для кожного.",
+      "en": "For patrons who cover the project's running costs, so that history stays free and open to everyone."
+    },
+    "patrons": []
+  },
+  {
+    "id": "awakener",
+    "price": 25,
+    "name": { "uk": "Будитель", "en": "Awakener" },
+    "description": {
+      "uk": "Для тих, хто поширює знання та «будить» інтерес до української історії серед інших.",
+      "en": "For those who spread knowledge and \"awaken\" others' interest in Ukrainian history."
+    },
+    "patrons": []
+  },
+  {
+    "id": "memory-keeper",
+    "price": 10,
+    "name": { "uk": "Хранитель пам'яті", "en": "Memory Keeper" },
+    "description": {
+      "uk": "Для тих, хто допомагає берегти пам'ять про постатей, які створили нашу державу та культуру.",
+      "en": "For those who help keep alive the memory of the people who made our country and its culture."
+    },
+    "patrons": []
+  },
+  {
+    "id": "knowledge-seeker",
+    "price": 5,
+    "name": { "uk": "Шукач знань", "en": "Knowledge Seeker" },
+    "description": {
+      "uk": "Для тих, хто любить читати про українську історію та прагне дізнаватися нове.",
+      "en": "For those who love reading about Ukrainian history and want to keep learning."
+    },
+    "patrons": []
+  }
+]

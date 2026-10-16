@@ -8,11 +8,12 @@ import { socialLinks, supportLinks } from '../lib/social';
 import { collections, localePath } from '../lib/people';
 import eras from '../content/eras.json';
 import hero from '../content/hero.json';
+import tiers from '../content/patrons.json';
 import { t, type Lang } from '../i18n';
 
 interface Props {
   lang: Lang;
-  page: 'about' | 'suggest' | 'credits' | 'support';
+  page: 'about' | 'suggest' | 'credits' | 'support' | 'patrons';
 }
 
 const { lang, page } = Astro.props;
@@ -22,9 +23,12 @@ const { Content } = await render(entry);
 
 const donate = supportLinks(lang);
 const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
+// Patrons: highest tier first. Until the first patron is listed the page has no footer link and stays out of search.
+const patronTiers = [...tiers].sort((a, b) => b.price - a.price);
+const noPatrons = tiers.every((tier) => tier.patrons.length === 0);
 ---
 
-<BaseLayout lang={lang} title={entry.data.title} description={entry.data.description}>
+<BaseLayout lang={lang} title={entry.data.title} description={entry.data.description} noindex={page === 'patrons' && noPatrons}>
   <header class="page-head">
     <h1 class="page-title">{entry.data.title}</h1>
     <p class="page-lead">{entry.data.description}</p>
@@ -101,6 +105,31 @@ const joinUrl = localePath(lang, '/feedback/?type=volunteer#form');
           </li>
         </ul>
       </details>
+    )
+  }
+
+  {
+    page === 'patrons' && (
+      <div class="page-body prose patrons">
+        {patronTiers.map((tier) => (
+          <section class="patron-tier" data-tier={tier.id} aria-labelledby={`tier-${tier.id}`}>
+            <h2 id={`tier-${tier.id}`}>
+              {tier.name[lang]} <span class="patron-price">${tier.price} {t('patrons.per_month', lang)}</span>
+            </h2>
+            <p class="patron-tier-lead">{tier.description[lang]}</p>
+            {tier.patrons.length ? (
+              <ul class="patron-names">
+                {tier.patrons.map((name) => <li>{name}</li>)}
+              </ul>
+            ) : (
+              <p class="patron-empty">{t('patrons.empty', lang)}</p>
+            )}
+          </section>
+        ))}
+        <ul class="link-buttons">
+          <li><a class="link-button" href={localePath(lang, '/support/')}>{t('patrons.become', lang)}</a></li>
+        </ul>
+      </div>
     )
   }
 

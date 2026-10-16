@@ -98,6 +98,8 @@ Then save it in the secret and your password manager, update the date above and 
 - Portraits still missing or weak: follow up on permission requests.
 - **Profile refresh for living people:** deaths, new awards for defenders, new results for athletes; update only the profiles that changed and set their `last_reviewed`. Steps, rules and the log are in [PROFILE-REFRESH.md](PROFILE-REFRESH.md); everyone else once a year.
 
+- **Patrons.** Update the names in `src/content/patrons.json` (page `/uk/patrons/`, «Подяка» / "Thank you"): add new patrons to the end of their tier, move those who changed tier, remove those who stopped. Only the name a patron agreed to show (Patreon members can choose to stay anonymous; ask Monobank donors first); never an email or a link. While every tier is empty the page has no footer link, is `noindex` and stays out of the sitemap; add the link to the footer (`src/layouts/BaseLayout.astro`) together with the first name.
+
 ### Quarterly: security review (about 30 minutes)
 
 CI already runs the headers, CSP, `dist/` check and `npm audit`, and Dependabot opens update PRs ([SECURITY.md](SECURITY.md)). Once a quarter, check the live site from the outside:
