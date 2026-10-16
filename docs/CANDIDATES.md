@@ -17,6 +17,27 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
+| Фаїна Мельник | 1945–2016 | Discus thrower (sport) | 👩 🌍 | | Owner request 2026-10-15. Born in Bakota (Khmelnytskyi region), trained in Lviv; Olympic champion 1972; set 11 world records. Later lived and died in Moscow: state the connection precisely |
+| Володимир Голубничий | 1936–2021 | Race walker (sport) | | | Owner request 2026-10-15. From Sumy; 20 km walk medals at four Games in a row: gold 1960 and 1968, bronze 1964, silver 1972 |
+| Надія Олізаренко | 1953–2017 | Middle-distance runner (sport) | 👩 | | Owner request 2026-10-15. Odesa-based; Olympic champion in the 800 m in 1980 in a world record, bronze in the 1500 m. Check birthplace (possibly born outside Ukraine; add 🌍 if so) |
+| Інеса Кравець | b. 1966 | Triple jumper (sport) | 👩 🟢 ⚖️ | | Owner request 2026-10-15. From Dnipro; Olympic champion 1996, world champion 1995; her 15.50 m world record stood from 1995 to 2021. Doping ban around 2000 (check): needs a «Дискусії та оцінки» section |
+| Жанна Пінтусевич-Блок | b. 1972 | Sprinter (sport) | 👩 🟢 ⚖️ | | Owner request 2026-10-15. From Nizhyn; world champion in the 200 m (1997) and 100 m (2001, ahead of Marion Jones). Later doping ban linked to the BALCO case (check): needs a debates section |
+| Наталія Добринська | b. 1982 | Heptathlete (sport) | 👩 🟢 | | Owner request 2026-10-15. From Vinnytsia; Olympic champion 2008; indoor pentathlon world record 5,013 points (2012) |
+| Богдан Бондаренко | b. 1989 | High jumper (sport) | 🟢 | | Owner request 2026-10-15. From Kharkiv; world champion 2013, European champion 2014, Olympic bronze 2016; best of 2.42 m, among the highest jumps ever |
+| Ірина Мерлені (Микульчин) | b. 1982 | Freestyle wrestler (sport) | 👩 🟢 | | Owner request 2026-10-15. Olympic champion at Athens 2004, the first Games with women's wrestling (one of its first four champions, not "the first"); bronze 2008; world champion (check how many times) |
+| Дар'я Білодід | b. 2000 | Judoka (sport) | 👩 🟢 | | Owner request 2026-10-15. From Kyiv; world champion 2018 (at 17, the youngest ever) and 2019; Olympic bronze, Tokyo 2020 |
+| Віктор Чукарін | 1921–1984 | Gymnast (sport) | | | Owner request 2026-10-15. Born near Mariupol; survived Nazi camps as a prisoner of war; 11 Olympic medals (7 gold) for the USSR in 1952 and 1956; later coached in Lviv |
+| Борис Шахлін | 1932–2008 | Gymnast (sport) | 🌍 | | Owner request 2026-10-15. Born in Ishim (Siberia); trained, lived and died in Kyiv. 13 Olympic medals (7 gold) for the USSR: state the connection precisely |
+| Поліна Астахова | 1936–2005 | Gymnast (sport) | 👩 | | Owner request 2026-10-15. Born in Dnipro, lived in Kyiv; 10 Olympic medals (5 gold), 1956–1964 |
+| Ганна Безсонова | b. 1984 | Rhythmic gymnast (sport) | 👩 🟢 | | Owner request 2026-10-15. From Kyiv; Olympic bronze 2004 and 2008; world all-around champion 2007 |
+| Олег Верняєв | b. 1993 | Gymnast (sport) | 🟢 ⚖️ | | Owner request 2026-10-15. From Donetsk; Rio 2016 gold on the parallel bars, silver in the all-around; world champion. Doping ban from 2020 and later return (check, incl. Paris 2024 result): needs a debates section |
+| Олег Лісогор | b. 1979 | Swimmer (sport) | 🟢 | | Owner request 2026-10-15. Breaststroke world and European champion; 50 m breaststroke world record (check long or short course; the request says short course for 6+ years). Check for any doping case |
+| Михайло Романчук | b. 1996 | Swimmer (sport) | 🟢 | | Owner request 2026-10-15. From Rivne; Tokyo 2020 silver (1500 m) and bronze (800 m) freestyle; European champion. Check later results |
+| Ілля Кваша | b. 1988 | Diver (sport) | 🟢 | | Owner request 2026-10-15. From Mykolaiv; Olympic bronze 2008 (synchronised 3 m); many-time European champion (check count). Possible link to the draft Олексій Середа |
+| Олександр Абраменко | b. 1988 | Freestyle skier (sport) | 🟢 | | Owner request 2026-10-15. From Mykolaiv; aerials gold at PyeongChang 2018 (Ukraine's only medal there, check) and silver at Beijing 2022 |
+| Олена Костевич | b. 1985 | Sport shooter (sport) | 👩 🟢 | | Owner request 2026-10-15. Olympic champion with the air pistol at Athens 2004; later Olympic bronzes (the request says four: check) |
+| Віктор Рубан | b. 1981 | Archer (sport) | 🟢 | | Owner request 2026-10-15. From Kharkiv; Olympic individual champion 2008, team bronze 2004 |
+| Руслан Пономарьов | b. 1983 | Chess player (sport) | 🟢 | | Owner request 2026-10-15. From Horlivka; FIDE world champion in 2002 at 18, the youngest FIDE champion. The title was split then: word it precisely |
 
 ## Needs a decision
 
