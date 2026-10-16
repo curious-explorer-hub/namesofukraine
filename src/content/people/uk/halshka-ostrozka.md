@@ -23,11 +23,13 @@ places:
   - { name: "Турів", lat: 52.07, lon: 27.735, note: "тут 16 березня 1579 року склала заповіт" }
 image:
   src: ./images/halshka-ostrozka.jpg
-  alt: "Уявний образ Гальшки Острозької на картині Яна Матейка «Проповідь Скарги» (1864); справжнього портрета княжни не збереглося"
-  position: "40% 20%"
-  author: "Ян Матейко"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Jan_Matejko_-_Kazanie_Skargi,_IV._Anna_Jagiellonka_i_Halszka_Ostrogska.png"
+  alt: "Уявний портрет Гальшки Острозької в білому покривалі, з книгою в руках і гербом Острозьких, картина Юрія Нікітіна (1996); справжнього портрета княжни не збереглося"
+  position: "45% 25%"
+  author: "Юрій Нікітін"
+  license: "Fair use"
+  source_url: "https://commons.wikimedia.org/wiki/File:Halszka_z_Ostroga.PNG"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Заповіт 1579 року: 6000 кіп литовських грошей на шпиталь і Острозьку академію"
   - "Перший відомий документ про пожертву на Острозьку академію"
@@ -43,7 +45,8 @@ sources:
   - title: "Історична правда - Гальшка Острозька - Чорна Княгиня. Нещасливі шлюби найбагатшої нареченої"
     url: "https://www.istpravda.com.ua/articles/2011/05/12/38444/"
 related: [petro-sahaidachnyi, dmytro-kozatskyi]
-status: draft
+status: approved
+published: 2026-10-16T17:45:53Z
 ---
 
 ## Найбагатша наречена Волині

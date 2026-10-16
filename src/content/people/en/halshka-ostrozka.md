@@ -13,7 +13,7 @@ key_accomplishments:
   - "Heir to half of the Ostroh principality"
   - "Heroine of works by Józef Ignacy Kraszewski and a painting by Jan Matejko"
 birthplace_name: "Ostroh"
-image_alt: "An imagined image of Halshka Ostrozka in Jan Matejko’s painting Skarga’s Sermon (1864); no real portrait of the princess survives"
+image_alt: "An imagined portrait of Halshka Ostrozka in a white veil, holding a book, with the Ostrozkyi coat of arms, painting by Yurii Nikitin (1996); no real portrait of the princess survives"
 ---
 
 ## Volhynia’s richest bride
