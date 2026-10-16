@@ -4,6 +4,10 @@ name: "Valerii Bespalov"
 role: "Thermal engineer, Hero of Ukraine"
 summary: "“Go into a sauna, switch off the light, and you’ll understand what it was like down there”: Valerii Bespalov on the dark corridor under the wrecked reactor. In 1986 the engineer from Donbas and two colleagues drained the water from under Chornobyl’s Unit 4. In 2019 he became a Hero of Ukraine."
 fun_fact: "Each of the three men had two dosimeters fixed to his suit, but Bespalov lost his on the way. Glancing over Baranov’s shoulder at his colleague’s meter, he saw it was off the scale on every range."
+image_alt: "Valerii Bespalov, grey-haired with a moustache, in a dark jumper and a checked shirt"
+gallery:
+  - alt: "Three smiling men in hard hats and work clothes in a large hall full of equipment"
+    caption: "Oleksii Ananenko, Valerii Bespalov and Borys Baranov"
 key_accomplishments:
   - "1986: with Oleksii Ananenko and Borys Baranov, drained the water from the bubbler pool under the wrecked Unit 4 at Chornobyl, preventing a possible second explosion"
   - "More than two decades at the Chornobyl Nuclear Power Plant (from 1980, with a break in 1989–1992), later at the national nuclear energy company Energoatom"

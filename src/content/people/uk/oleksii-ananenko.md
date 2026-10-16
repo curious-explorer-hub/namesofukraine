@@ -23,6 +23,16 @@ image:
   author: "Kosharna"
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:Ананенко_Олексій_Михайлович_(cropped).jpg"
+gallery:
+  - src: ./images/chornobyl-divers.jpg
+    alt: "Троє усміхнених чоловіків у касках і робочому одязі у великому цеху з обладнанням"
+    caption: "Олексій Ананенко, Валерій Беспалов і Борис Баранов"
+    section: 2
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://ukrainian-nation.org.ua/ukraintsi/1644-valeriy-bespalov/"
+    ai_edit: colorized
+    fair_use: true
 key_accomplishments:
   - "1986: разом з Борисом Барановим і Валерієм Беспаловим злив воду з басейну-барботера під зруйнованим 4-м енергоблоком ЧАЕС і цим запобіг можливому повторному вибуху"
   - "Старший інженер-механік реакторного цеху Чорнобильської АЕС (1983–1989)"
@@ -39,7 +49,8 @@ sources:
   - title: "History (UK) - The real story of the Chernobyl divers"
     url: "https://history.co.uk/article/the-real-story-of-the-chernobyl-divers"
 related: [borys-baranov, valerii-bespalov]
-status: draft
+status: approved
+published: 2026-10-16T21:20:41Z
 ---
 
 ## З півночі до Прип'яті

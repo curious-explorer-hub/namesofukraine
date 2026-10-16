@@ -7,6 +7,9 @@ fun_fact: "The valves they had to open under the reactor turned out to have name
 misconception:
   claim: "The three men who went under the reactor were picked from volunteers and promised a cash reward."
   truth: "Oleksii Ananenko rejects both. It was simply his shift on duty, and he knew where the valves were. No one offered them any reward for the job."
+gallery:
+  - alt: "Three smiling men in hard hats and work clothes in a large hall full of equipment"
+    caption: "Oleksii Ananenko, Valerii Bespalov and Borys Baranov"
 key_accomplishments:
   - "1986: with Borys Baranov and Valerii Bespalov, drained the water from the bubbler pool under the wrecked Unit 4 at Chornobyl, preventing a possible second explosion"
   - "Senior mechanical engineer in the reactor shop of the Chornobyl Nuclear Power Plant (1983–1989)"

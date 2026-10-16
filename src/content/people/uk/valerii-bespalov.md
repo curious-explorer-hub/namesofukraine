@@ -13,6 +13,24 @@ fun_fact: "Кожному з трьох чоловіків на костюм п�
 birthplace: { name: "Лісівка, Донеччина", region: donetsk, country: UA, lat: 48.098, lon: 37.381 }
 places:
   - { name: "Чорнобильська АЕС", lat: 51.389, lon: 30.099, note: "старший інженер турбінного цеху та інші посади, 1980–1989, з 1992" }
+image:
+  src: ./images/valerii-bespalov.jpg
+  alt: "Валерій Беспалов, сивий, з вусами, у темному светрі й картатій сорочці"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://ukrainian-nation.org.ua/ukraintsi/1644-valeriy-bespalov/"
+  fair_use: true
+gallery:
+  - src: ./images/chornobyl-divers.jpg
+    alt: "Троє усміхнених чоловіків у касках і робочому одязі у великому цеху з обладнанням"
+    caption: "Олексій Ананенко, Валерій Беспалов і Борис Баранов"
+    section: 3
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://ukrainian-nation.org.ua/ukraintsi/1644-valeriy-bespalov/"
+    ai_edit: colorized
+    fair_use: true
 key_accomplishments:
   - "1986: разом з Олексієм Ананенком і Борисом Барановим злив воду з басейну-барботера під зруйнованим 4-м енергоблоком ЧАЕС і цим запобіг можливому повторному вибуху"
   - "Понад два десятиліття працював на Чорнобильській АЕС (з 1980 року, з перервою 1989–1992), згодом - у НАЕК «Енергоатом»"
@@ -28,7 +46,8 @@ sources:
   - title: "Перспектива - Колектив Енергоатома вітає співробітника компанії Валерія Беспалова з присвоєнням йому звання Герой України"
     url: "https://perspekt.org.ua/news/kolektiv-energoatoma-vitae-spivrobitnika-kompanii-valeriya-bespalova-z-prisvoennyam-jomu-zvannya-geroj-ukraini"
 related: [borys-baranov, oleksii-ananenko]
-status: draft
+status: approved
+published: 2026-10-16T21:20:41Z
 ---
 
 ## З Донеччини на ЧАЕС

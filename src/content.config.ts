@@ -67,8 +67,8 @@ const people = defineCollection({
         image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored', 'rendered', 'generated']).optional(), fair_use: z.boolean().optional(), ...credit }).optional(),
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
         // Photos in the story: each one closes the `section`-th `##` section of the bio (both languages
-        // keep the same sections). `fair_use` as for `image`: on the profile only.
-        gallery: z.array(z.object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), fair_use: z.boolean().optional(), ...credit })).default([]),
+        // keep the same sections). `ai_edit` and `fair_use` as for `image`; `fair_use`: on the profile only.
+        gallery: z.array(z.object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), ai_edit: z.enum(['colorized', 'restored']).optional(), fair_use: z.boolean().optional(), ...credit })).default([]),
         // YouTube videos in the story, placed like `gallery`. Nothing loads from YouTube until the reader
         // presses play (D18); `source` is the channel or outlet that published the video.
         videos: z

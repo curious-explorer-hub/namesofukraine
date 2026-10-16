@@ -7,6 +7,9 @@ fun_fact: "Borys Baranov was made a Hero of Ukraine in 2019, 14 years after his 
 misconception:
   claim: "The three men who went under the wrecked reactor soon died of radiation sickness."
   truth: "All three survived. Borys Baranov worked at the Chornobyl plant until 2005 and died of heart disease, and his colleagues Oleksii Ananenko and Valerii Bespalov outlived him by many years."
+gallery:
+  - alt: "Three smiling men in hard hats and work clothes in a large hall full of equipment"
+    caption: "Oleksii Ananenko, Valerii Bespalov and Borys Baranov"
 key_accomplishments:
   - "1986: with Oleksii Ananenko and Valerii Bespalov, drained the water from under the wrecked Unit 4 at Chornobyl, preventing a possible second explosion"
   - "Almost 30 years at the Chornobyl Nuclear Power Plant, as a shift supervisor among other posts (1976–2005)"

@@ -26,6 +26,16 @@ image:
   source_url: "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
   ai_edit: colorized
   fair_use: true
+gallery:
+  - src: ./images/chornobyl-divers.jpg
+    alt: "Троє усміхнених чоловіків у касках і робочому одязі у великому цеху з обладнанням"
+    caption: "Олексій Ананенко, Валерій Беспалов і Борис Баранов"
+    section: 3
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://ukrainian-nation.org.ua/ukraintsi/1644-valeriy-bespalov/"
+    ai_edit: colorized
+    fair_use: true
 key_accomplishments:
   - "1986: разом з Олексієм Ананенком і Валерієм Беспаловим злив воду з-під зруйнованого 4-го енергоблока ЧАЕС і цим запобіг можливому повторному вибуху"
   - "Майже 30 років працював на Чорнобильській АЕС, зокрема начальником зміни (1976–2005)"

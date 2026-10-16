@@ -11,7 +11,7 @@ key_accomplishments:
   - "Built Kyiv’s 5th Gymnasium, a city school and a hospital for labourers (now Okhmatdyt)"
   - "Gave large sums for the buildings of the Kyiv Polytechnic Institute and the City Museum (now the National Art Museum of Ukraine)"
 birthplace_name: "Hlukhiv"
-image_alt: "Nikola Tereshchenko in uniform with his orders"
+image_alt: "Portrait of Nikola Tereshchenko wearing an order cross and star"
 ---
 
 ## The boy who traded grain

@@ -222,6 +222,7 @@ const memberOf = collections.filter((c) => data.collections.includes(c.id));
           {data.gallery.map((g) => (
             <p>
               {t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, <License name={g.license} />
+              {g.ai_edit && `; ${t(`person.image_${g.ai_edit}`, lang)}`}
               {g.fair_use && `; ${t('person.image_fair_use', lang)}`}
             </p>
           ))}

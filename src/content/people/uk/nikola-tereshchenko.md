@@ -15,10 +15,11 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "з 1875 року; гласний міської думи, меценат" }
 image:
   src: ./images/nikola-tereshchenko.jpg
-  alt: "Нікола Терещенко в мундирі з орденами"
+  alt: "Портрет Ніколи Терещенка з орденським хрестом і зіркою"
   author: "Невідомий фотограф"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Nikola_Tereshenko.jpg"
+  ai_edit: colorized
+  source_url: "https://www.ukrinform.ua/rubric-society/2557037-nikola-teresenko-getman-cukru.html"
 key_accomplishments:
   - "Разом із братом Федором заснував «Товариство цукрових і рафінадних заводів братів Терещенків» (1870)"
   - "Міський голова Глухова з 1860 року"
