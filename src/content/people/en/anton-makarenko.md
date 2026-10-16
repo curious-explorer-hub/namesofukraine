@@ -11,7 +11,7 @@ key_accomplishments:
   - "The March of 1930 (1932), A Book for Parents (1937), Flags on the Towers (1938)"
   - "A system of upbringing through the collective: brigades and children’s self-government"
 birthplace_name: "Bilopillia"
-image_alt: "Anton Makarenko, 1920s"
+image_alt: "Anton Makarenko in a cap, round glasses and a coat with a fur collar"
 ---
 
 ## A teacher from Bilopillia

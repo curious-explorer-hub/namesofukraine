@@ -24,6 +24,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%86%D0%B2%D0%B0%D0%BD_%D0%9E%D0%B3%D1%96%D1%94%D0%BD%D0%BA%D0%BE_%D0%B2_1926_%D1%80%D0%BE%D1%86%D1%96.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Мовознавець та історик української мови й церкви; одним із перших читав лекції українською в Київському університеті"
   - "Перший ректор Кам'янець-Подільського українського державного університету (1918)"
@@ -44,7 +45,8 @@ sources:
     url: "https://kpnu.edu.ua/"
 related: [pavlo-skoropadskyi]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-16T17:07:04Z
 ---
 
 ## Книжка на сорок років

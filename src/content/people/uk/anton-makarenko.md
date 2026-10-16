@@ -18,10 +18,12 @@ places:
   - { name: "Київ", lat: 50.450, lon: 30.523, note: "Відділ трудових колоній НКВС УСРР (1935–1937)" }
 image:
   src: ./images/anton-makarenko.jpg
-  alt: "Антон Макаренко, 1920-ті роки"
+  alt: "Антон Макаренко в кашкеті, круглих окулярах і пальті з хутряним коміром"
+  position: "50% 35%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:A._Makarenko.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Makarenko.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Колонія імені Максима Горького для безпритульних дітей і неповнолітніх правопорушників (з 1920)"
   - "Комуна імені Ф. Дзержинського під Харковом (1927–1935)"
