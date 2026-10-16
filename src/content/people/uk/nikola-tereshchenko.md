@@ -35,7 +35,8 @@ sources:
   - title: "Енциклопедія Сучасної України - Городецький Владислав Владиславович (автор - В. В. Вечерський)"
     url: "https://esu.com.ua/article-31400"
 related: [vladyslav-horodetskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-16T18:59:10Z
 ---
 
 ## Хлопець, який торгував хлібом

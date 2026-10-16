@@ -17,11 +17,13 @@ places:
   - { name: "Тегеран", lat: 35.689, lon: 51.389, note: "з 1928 року; головний архітектор залізничного синдикату; тут помер 1930 року" }
 image:
   src: ./images/vladyslav-horodetskyi.jpg
-  alt: "Владислав Городецький, 1910 рік; унизу його підпис"
-  position: "50% 20%"
-  author: "Невідомий фотограф; ретуш - Zdzisław Otello Horodecki"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Horodecki_W%C5%82adys%C5%82aw_1910.jpg"
+  alt: "Владислав Городецький у капелюсі й темному пальті, з вусами"
+  position: "50% 35%"
+  author: "Невідомий автор (Енциклопедія Сучасної України)"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-31400"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Музей старожитностей і мистецтв у Києві (1897–1900; нині Національний художній музей України)"
   - "Караїмська кенаса на Ярославовому Валу (1898–1900; нині Будинок актора)"
@@ -38,7 +40,8 @@ sources:
   - title: "Енциклопедія історії України - Терещенко Микола Артемійович (автор - О. М. Донік)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Tereschenko_MA"
 related: [nikola-tereshchenko]
-status: draft
+status: approved
+published: 2026-10-16T18:54:03Z
 ---
 
 ## Шляхтич із Поділля

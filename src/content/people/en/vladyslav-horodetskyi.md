@@ -11,7 +11,7 @@ key_accomplishments:
   - "The House with Chimaeras at 10 Bankova Street (1901–1903)"
   - "The Shah’s palace, a railway station, a theatre and a hotel in Tehran"
 birthplace_name: "Sholudky"
-image_alt: "Vladyslav Horodetskyi, 1910, with his signature below"
+image_alt: "Vladyslav Horodetskyi with a moustache, in a hat and a dark coat"
 ---
 
 ## A nobleman from Podillia
