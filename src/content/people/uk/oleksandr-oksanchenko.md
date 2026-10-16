@@ -34,7 +34,8 @@ sources:
   - title: Вікіпедія - Oleksandr Oksanchenko
     url: https://en.wikipedia.org/wiki/Oleksandr_Oksanchenko
 related: []
-status: draft
+status: approved
+published: 2026-10-16T17:30:19Z
 ---
 
 ## Чому «Сірий Вовк»?

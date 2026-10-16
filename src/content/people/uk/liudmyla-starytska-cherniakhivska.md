@@ -21,6 +21,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Старицька-Черняхівська_Л1.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Історичні драми «Гетьман Петро Дорошенко» (1908), «Останній сніп» (1917), «Розбійник Кармелюк» (1926), «Іван Мазепа» (1927)"
   - "Спогади «Хвилини життя Лесі Українки» (1913) і спомини про Миколу Лисенка, Івана Франка, Марію Заньковецьку"
@@ -39,7 +40,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Старицька-Черняхівська_Людмила_Михайлівна
 related: [mykola-lysenko, lesya-ukrainka, petro-doroshenko, ivan-mazepa, mykhailo-hrushevskyi, andrii-nikovskyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-16T17:38:29Z
 ---
 
 ## «Перші українські діти»

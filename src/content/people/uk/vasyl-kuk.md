@@ -20,6 +20,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Kuk_Vasyl_Stepanovych.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - Із 1943 року командував УПА-Південь
   - Після загибелі Романа Шухевича (1950) став головнокомандувачем УПА та керівником проводу ОУН в Україні
@@ -36,7 +37,8 @@ sources:
   - title: Вікіпедія - Кук Василь Степанович
     url: https://uk.wikipedia.org/wiki/Кук_Василь_Степанович
 related: [roman-shukhevych]
-status: draft
+status: approved
+published: 2026-10-16T17:33:59Z
 ---
 
 ## Чи знали ви, що останній головнокомандувач УПА дожив до незалежної України?
