@@ -31,7 +31,7 @@ When the war in the Donbas began in 2014, Prokopenko joined Azov, a special-purp
 
 After Russia’s full-scale invasion on 24 February 2022, Prokopenko led the Ukrainian forces that held Mariupol, completely encircled, for more than 80 days. His deputy in Azov was [Sviatoslav Palamar](/en/people/sviatoslav-palamar/). The city’s last stronghold was the Azovstal steelworks, where marines of the 36th Brigade led by [Serhii Volynskyi](/en/people/serhii-volynskyi/) broke through in April. On 13 April the two commanders released a short joint video address about the breakthrough. On 19 March 2022 Prokopenko was made a Hero of Ukraine, the country’s highest title.
 
-On 20 May, on the orders of Ukraine’s top military command, he was among the last to leave Azovstal and was taken prisoner by Russia. On 21 September 2022 Prokopenko, Palamar, Volynskyi and two other commanders were freed in an exchange. They stayed in Türkiye until July 2023.
+On 20 May, on the orders of Ukraine’s top military command, he was among the last to leave Azovstal and was taken prisoner by Russia. On 21 September 2022 Prokopenko, Palamar, Volynskyi, [Oleh Khomenko](/en/people/oleh-khomenko/) and [Denys Shleha](/en/people/denys-shleha/) were freed in an exchange. They stayed in Türkiye until July 2023.
 
 ## Why it matters today
 
