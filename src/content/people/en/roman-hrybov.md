@@ -12,6 +12,9 @@ key_accomplishments:
   - Awarded the honor “For Services to Cherkasy Region” by the head of the Cherkasy Regional Military Administration on 29 March 2022
 birthplace_name: "Zolotonosha, Cherkasy region"
 image_alt: "Roman Hrybov in a military fleece with a sleeve patch, sitting at a table with a phone in his hand"
+gallery:
+  - alt: "Postage stamp: a Ukrainian soldier with a rifle stands on the shore with his back to us, showing his middle finger to a Russian cruiser at sea; inscriptions “Ukraine”, “2022” and the denomination “W”"
+    caption: "Ukrposhta stamp “Russian warship, go…! Glory to Ukraine!” (2022)"
 quotes:
   - text: "God made it so that we all survived."
     source: "Interview with Glavcom on the defence of Snake Island, February 2025"
@@ -21,7 +24,7 @@ quotes:
 
 The full-scale invasion began on 24 February 2022. On Snake Island in the Black Sea, 13 Ukrainian border guards were on duty, among them 32-year-old Roman Hrybov from Zolotonosha in the Cherkasy region. When the Russian cruiser Moskva ordered them to surrender, the island answered.
 
-"Russian warship, go fuck yourself," came the reply over the radio.
+"Russian warship, go f#ck yourself," came the reply over the radio.
 
 At that moment nobody knew whether the island's defenders would survive. Nobody knew the name of the man who had answered.
 

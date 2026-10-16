@@ -39,6 +39,11 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Олена Костевич | b. 1985 | Sport shooter (sport) | 👩 🟢 | | Owner request 2026-10-15. Olympic champion with the air pistol at Athens 2004; later Olympic bronzes (the request says four: check) |
 | Віктор Рубан | b. 1981 | Archer (sport) | 🟢 | | Owner request 2026-10-15. From Kharkiv; Olympic individual champion 2008, team bronze 2004 |
 | Руслан Пономарьов | b. 1983 | Chess player (sport) | 🟢 | | Owner request 2026-10-15. From Horlivka; FIDE world champion in 2002 at 18, the youngest FIDE champion. The title was split then: word it precisely |
+| Олексій Ананенко | b. 1959 | Chornobyl NPP engineer (science) | 🟢 🌍 | | Owner request 2026-10-16. Mechanical engineer at the Chornobyl NPP; in 1986, with Борис Баранов (drafted) and Валерій Беспалов, drained water from under the destroyed unit 4 to prevent a possible second explosion; Hero of Ukraine (2019). Born in Inta (Komi, Russia): state the connection precisely. Link to Баранов |
+| Валерій Беспалов | b. 1957 | Chornobyl NPP engineer (science) | 🟢 | | Owner request 2026-10-16. Thermal power engineer at the Chornobyl NPP; one of the three volunteers with Баранов and Ананенко (1986); Hero of Ukraine (2019). Born in Lisivka, Donetsk region; lives in Kyiv. Link to Баранов |
+| Сергій Філімонов («Філя») | b. 1994 | Defender (defenders) | 🟢 ⚖️ | | Owner request 2026-10-16. From Kyiv; major, commander of the 108th separate assault battalion «Вовки Да Вінчі» (after Дмитро Коцюбайло); co-founder of the «Гонор» movement; Order of Bohdan Khmelnytskyi (check class). Former head of the Kyiv branch of the National Corps party and Azov veteran: political past needs a «Дискусії та оцінки» section. Link to Коцюбайло |
+| Степан Чобану | 1963–2022 | Military pilot (defenders) | | | Owner request 2026-10-16. Born in Dolynske; Su-27 fighter pilot and instructor of the 831st tactical aviation brigade. Killed 28 Feb 2022 at Kropyvnytskyi airfield; Hero of Ukraine (posthumously; check decree and wording of the "drew fire so others could take off" claim). Possible link to Оксанченко |
+| Гліб Бабіч | 1969–2022 | Poet, defender (literature) | | | Owner request 2026-10-16. From Mykolaiv; poet, songwriter, co-founder of the veterans' group «Res_Publica. Брати по зброї». Platoon commander in the 10th Mountain Assault Brigade until 2019; after 24 Feb 2022 in the Kyiv Territorial Defence; killed near Izium, 28 Jul 2022. A Kyiv street bears his name. Possible link to Максим Кривцов |
 
 ## Needs a decision
 
@@ -53,6 +58,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (now drafted)? Rechecked 2026-10-16: still nothing; the only Данило Мельник in reputable media is a bandurist killed near Bakhmut in 2023 (Суспільне). Recommend dropping |
 | Катерина Гучко | | | | Owner request 2026-10-10. No one by this name turns up in a search: owner, who is she (years, field, a link)? |
 | Віктор Ющенко | b. 1954 | State (statehood) | 🟢 | Owner decision 2026-09-29: not yet, but will be added later. When? |
+| Роман Грабовий, Владислав Білий | | Defender (defenders) | 👥 | Owner request 2026-10-16, described as "Matsiievskyi's brothers in arms in the 30th and 93rd brigades at Bakhmut and Soledar". No Роман Грабовий found (uk.wikipedia, 2026-10-16). The only Владислав Білий with an article (1993–2022) was an Azov serviceman killed in the Olenivka prison attack, which doesn't match the description. Owner: which people are meant (a link)? |
 
 
 ## Don't add
