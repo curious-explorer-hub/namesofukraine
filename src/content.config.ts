@@ -40,6 +40,8 @@ const people = defineCollection({
         fun_fact: z.string(),
         // Optional: a widely believed claim about this person that isn't actually true.
         misconception: z.object({ claim: z.string(), truth: z.string() }).optional(),
+        // Optional: the question in the last Threads reply instead of the shared one; not shown on the site.
+        social_question: z.string().max(200).optional(),
         key_accomplishments: z.array(z.string()).min(1),
         birthplace: z.object({
           name: z.string(),

@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { readdirSync, readFileSync } from 'node:fs';
 import { readFields } from './social.mjs';
-import { postTexts } from './post-threads.mjs';
+import { postTexts, question } from './post-threads.mjs';
 
 const dir = 'src/content/people/uk';
 const profiles = readdirSync(dir)
@@ -21,6 +21,7 @@ describe('postTexts', () => {
     const markdown = '---\nname: x\n---\n\n## Поліглот\n\nТекст.\n\n## Чому це важливо сьогодні\n\nВін [заснував](/uk/x/) сходознавство.\n\n## Дискусії та оцінки\n\nСпір.\n';
     expect(postTexts(fields, 'https://namesofukraine.com/uk/people/ahatanhel-krymskyi/', markdown)).toEqual([
       '🇺🇦 Агатангел Кримський (1871–1942) 🇺🇦\n🔬 Сходознавець 🔬\n\nЗнав понад 50 мов.\n\n💡 Чому це важливо сьогодні 💡\n\nВін заснував сходознавство.\n\nhttps://namesofukraine.com/uk/people/ahatanhel-krymskyi/',
+      question(fields),
     ]);
   });
 
@@ -30,7 +31,14 @@ describe('postTexts', () => {
     const texts = postTexts(fields, 'https://namesofukraine.com/uk/people/a/', markdown);
     expect(texts.length).toBeGreaterThan(2);
     expect(texts[0]).not.toContain('https://');
-    expect(texts.at(-1).endsWith('https://namesofukraine.com/uk/people/a/')).toBe(true);
+    expect(texts.at(-2).endsWith('https://namesofukraine.com/uk/people/a/')).toBe(true);
+    expect(texts.at(-1)).toBe(question(fields));
     for (const t of texts) expect([...t].length).toBeLessThanOrEqual(500);
+  });
+
+  it('ends with the shared question in the person\'s gender, or the profile\'s own', () => {
+    expect(question({ gender: 'female' })).toContain('факт про неї,');
+    expect(question({ gender: 'male' })).toContain('факт про нього,');
+    expect(question({ gender: 'male', social_question: 'Свій?' })).toBe('Свій?');
   });
 });

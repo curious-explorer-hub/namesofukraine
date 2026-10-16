@@ -1,6 +1,7 @@
 // Publishes one profile to Threads, in Ukrainian: the share card with name, years, role and summary, then the story's
 // closing section on why the person matters, and the link. When that doesn't fit in one post, the rest follows as
-// replies (split between sentences), and the link ends the last one.
+// replies (split between sentences), and the link ends the last one. A last reply asks readers for a fact we missed
+// (or the profile's own `social_question`).
 // Run by .github/workflows/post-threads.yml; the token comes from $THREADS_ACCESS_TOKEN.
 // Only profiles live on the site can be posted: Threads fetches the card from the site, and drafts aren't there.
 // Without a profile it posts today's entry (Kyiv time) from the month's plan, social/YYYY-MM.txt.
@@ -34,16 +35,24 @@ function split(text, max) {
   return [...parts, part.trim()].filter(Boolean);
 }
 
+// The question in the last reply: the profile's own, or the shared one in the person's gender.
+export function question(f) {
+  return f.social_question ?? `Що ми пропустили? 🤔 Напишіть у коментарях факт про ${f.gender === 'female' ? 'неї' : 'нього'}, якого немає в цій історії, — найцікавіші перевіримо й додамо до профілю.`;
+}
+
 // The texts of the post and its replies, in order.
 export function postTexts(f, url, markdown = '') {
   const main = `${headline(f)}\n\n${f.summary}`;
   const why = closingSection(markdown);
   const rest = why ? `${wrap(why.heading, '💡')}\n\n${why.text}` : '';
   const single = rest ? `${main}\n\n${rest}\n\n${url}` : `${main}\n\n${url}`;
-  if (length(single) <= MAX_LENGTH) return [single];
-  const replies = split(rest, MAX_LENGTH - length(url) - 2);
-  replies[replies.length - 1] += `\n\n${url}`;
-  const texts = [main, ...replies];
+  let texts = [single];
+  if (length(single) > MAX_LENGTH) {
+    const replies = split(rest, MAX_LENGTH - length(url) - 2);
+    replies[replies.length - 1] += `\n\n${url}`;
+    texts = [main, ...replies];
+  }
+  texts.push(question(f));
   for (const text of texts) if (length(text) > MAX_LENGTH) throw new Error(`Post is ${length(text)} characters; Threads allows ${MAX_LENGTH}`);
   return texts;
 }
