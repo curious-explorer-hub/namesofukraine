@@ -92,10 +92,19 @@ export async function assertLive(url) {
   if (!res.ok) throw new Error(`${url} returned ${res.status}; only profiles live on the site can be posted`);
 }
 
+// Errors Meta returns without acting on the request, so a retry can't post twice: ones it marks transient, and
+// "media not found" for a post just published but not yet visible to the next call (e.g. a reply to it).
+const retryable = (error) => error?.is_transient === true || (error?.code === 24 && error?.error_subcode === 4279009);
+
 // A caller for one of Meta's Graph APIs (Threads or Instagram): query parameters, JSON reply, errors thrown.
 export const graphApi = (base, name, token) => async (path, params, method = 'POST') => {
-  const res = await fetch(`${base}/${path}?${new URLSearchParams({ ...params, access_token: token })}`, { method });
-  const data = await res.json();
-  if (!res.ok) throw new Error(`${name} API ${res.status}: ${JSON.stringify(data.error ?? data)}`);
-  return data;
+  for (let attempt = 1; ; attempt++) {
+    const res = await fetch(`${base}/${path}?${new URLSearchParams({ ...params, access_token: token })}`, { method });
+    const data = await res.json();
+    if (res.ok) return data;
+    const message = `${name} API ${res.status}: ${JSON.stringify(data.error ?? data)}`;
+    if (attempt === 5 || !retryable(data.error)) throw new Error(message);
+    console.log(`${message}; retrying (${attempt} of 4)`);
+    await new Promise((r) => setTimeout(r, 10000));
+  }
 };
