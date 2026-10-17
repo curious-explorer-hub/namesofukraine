@@ -38,7 +38,8 @@ const stitchRow = (n: number, size = 22) =>
 
 // Portraits on the person cards, in full colour as on the profile page, cropped towards the face.
 const portrait = async (slug: string, width: number, height: number) => {
-  const out = await sharp(join(root, 'src/content/people/uk/images', `${slug}.jpg`))
+  const file = ['jpg', 'webp'].map((ext) => join(root, 'src/content/people/uk/images', `${slug}.${ext}`)).find((f) => existsSync(f));
+  const out = await sharp(file)
     .resize(width, height, { fit: 'cover', position: 'north' })
     .jpeg({ quality: 88 })
     .toBuffer();
