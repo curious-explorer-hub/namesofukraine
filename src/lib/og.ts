@@ -115,7 +115,7 @@ const render = async (tree: Node, width = W, height = H) => {
 };
 
 export async function personCard(p: Person) {
-  const img = freeImage(p) ? await portrait(p.slug, 480, H) : null;
+  const img = p.data.image ? await portrait(p.slug, 480, H) : null;
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', width: W, height: H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
@@ -133,14 +133,14 @@ export async function personCard(p: Person) {
   );
 }
 
-// Instagram's tallest feed format (4:5): portrait on top (or the initials medallion when it isn't free to share), a
+// Instagram's tallest feed format (4:5): portrait on top (or the initials medallion when there is none), a
 // short strip with name and role below. Years and the site name are left to the caption, so the portrait gets the space.
 const IG_W = 1080;
 const IG_H = 1350;
 const IG_PHOTO = 1150;
 
 export async function instagramCard(p: Person) {
-  const img = freeImage(p) ? await portrait(p.slug, IG_W, IG_PHOTO) : null;
+  const img = p.data.image ? await portrait(p.slug, IG_W, IG_PHOTO) : null;
   const long = p.data.name.length > 20;
   return render(
     h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink }, [
