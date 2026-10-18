@@ -21,6 +21,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Hnat_Khotkevych.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Повість «Камінна душа» (1911) - про гуцулів, найбільше його досягнення в прозі"
   - "Гуцульський театр у Красноїллі, зібраний із селян"
@@ -36,7 +37,8 @@ sources:
     url: "https://texty.org.ua/fragments/104706/banduryst-teroryst-dokumenty-zi-spravy-represovanoho-muzykanta-gnata-hotkevycha-dostupni-onlajn/"
 related: [mykola-lysenko, hryhorii-skovoroda, taras-shevchenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T02:50:34Z
 ---
 
 ## Інженер із бандурою
