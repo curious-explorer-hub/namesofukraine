@@ -10,7 +10,7 @@ Readers send messages through «Зворотний зв'язок» / "Feedback" 
 
 #### 1. Pull the submissions
 
-**No email arrives** when a reader sends a message: it waits in the database until you read it, so check every week. Two ways to read:
+**Every Monday at 07:00 UTC an email digest** of the past week's messages arrives (workflow `.github/workflows/feedback-digest.yml`, the same summary as below, with emails shown); in a week without messages nothing is sent. There's no email per message. To read messages at any other time, or if a digest didn't come:
 
 - **Terminal (the usual way)**, from the repository folder; the first time, run `npx wrangler login`:
 
@@ -27,6 +27,8 @@ The script (`scripts/pull-feedback.mjs`) reads the database through wrangler wit
 Locally (`npm run dev`) the form can't send: the function runs only on Cloudflare ([PUBLISHING.md](PUBLISHING.md#the-feedback-form)).
 
 **Privacy:** submissions contain personal data (names, emails, sometimes about living people). Read them in the terminal or the Cloudflare dashboard (**Storage & Databases → D1 → namesofukraine-feedback → Console**); **never paste them into this public repository**, its issues or commit messages. Refer to a message by the short id the script prints (e.g. `3f9c2a1b`) when needed.
+
+**The digest's setup** (once): four GitHub Actions secrets, besides `CLOUDFLARE_ACCOUNT_ID`, which the deploy already uses: `CLOUDFLARE_D1_TOKEN` (a Cloudflare API token with only **Account → D1 → Read**; separate from the deploy token), and for sending, `FEEDBACK_MAIL_USER` (a Gmail address), `FEEDBACK_MAIL_PASSWORD` (a Gmail **app password** for it, not the account password) and `FEEDBACK_MAIL_TO` (where the digest goes). Test it from **Actions → Weekly feedback digest → Run workflow**. If a run fails, GitHub emails you; its log never shows messages. A Gmail app password stops working when the account password changes: create a new one and update the secret.
 
 #### 2. Triage each submission
 

@@ -98,7 +98,7 @@ The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/e
 
 **Fields:** what the message is about (new person / correction or addition to a profile, photos included / I'd like to join the team / something else, required) · who it's about (optional) · the message (required) · sources or links (optional) · email for a reply (optional). "Who it's about" and "sources" show only for a new person or a correction (and the server drops them for the other kinds). Limits and kinds are in `src/lib/feedback.ts`, shared by the page and the server.
 
-**How a message travels:** the page posts it to `POST /api/feedback`, a Cloudflare Pages Function (`functions/api/feedback.ts`) deployed with the site by the same `wrangler pages deploy`. It refuses posts from other sites, checks the fields and the Cloudflare **Turnstile** token (the spam check, usually invisible; it loads only once the reader starts filling in the form), and adds a row to the D1 database `namesofukraine-feedback` (table in `db/feedback.sql`). Nothing is emailed: read messages with `npm run feedback` ([MAINTENANCE.md](MAINTENANCE.md)).
+**How a message travels:** the page posts it to `POST /api/feedback`, a Cloudflare Pages Function (`functions/api/feedback.ts`) deployed with the site by the same `wrangler pages deploy`. It refuses posts from other sites, checks the fields and the Cloudflare **Turnstile** token (the spam check, usually invisible; it loads only once the reader starts filling in the form), and adds a row to the D1 database `namesofukraine-feedback` (table in `db/feedback.sql`). There's no email per message: a weekly digest is emailed on Mondays, and `npm run feedback` reads them any time ([MAINTENANCE.md](MAINTENANCE.md)).
 
 **Cloudflare setup (once, by the owner):**
 

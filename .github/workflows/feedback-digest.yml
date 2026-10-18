@@ -1,0 +1,47 @@
+name: Weekly feedback digest
+
+# Every Monday, emails the owner the past week's feedback-form messages (D19): the same summary as
+# `npm run feedback -- --show-email` (docs/MAINTENANCE.md). Nothing is sent in a week without messages.
+# The repository is public and so are run logs: the messages go only into the email, never to the log.
+on:
+  schedule:
+    - cron: '0 7 * * 1' # Mondays, 10:00 Kyiv in summer, 09:00 in winter
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Pull the past week's messages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_D1_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node scripts/pull-feedback.mjs --show-email > "$RUNNER_TEMP/digest.md"
+      # Gmail over SMTP with curl, so no third-party action or package is needed.
+      - name: Email the digest
+        env:
+          MAIL_USER: ${{ secrets.FEEDBACK_MAIL_USER }}
+          MAIL_PASSWORD: ${{ secrets.FEEDBACK_MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.FEEDBACK_MAIL_TO }}
+        run: |
+          digest="$RUNNER_TEMP/digest.md"
+          if grep -q '^Nothing new' "$digest"; then echo "No new messages this week; nothing sent."; exit 0; fi
+          count=$(head -1 "$digest" | sed -E 's/.*: ([0-9]+) message.*/\1/')
+          {
+            printf 'From: Know Your Own <%s>\r\nTo: %s\r\nSubject: Feedback digest: %s new message(s)\r\n' "$MAIL_USER" "$MAIL_TO" "$count"
+            printf 'Content-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n'
+            cat "$digest"
+          } > "$RUNNER_TEMP/mail.txt"
+          curl --silent --show-error --ssl-reqd --url 'smtps://smtp.gmail.com:465' \
+            --user "$MAIL_USER:$MAIL_PASSWORD" --mail-from "$MAIL_USER" --mail-rcpt "$MAIL_TO" \
+            --upload-file "$RUNNER_TEMP/mail.txt"
+          echo "Sent the digest ($count message(s))."
