@@ -10,6 +10,7 @@ key_accomplishments:
   - "Took part in the work of the Lutsk Brotherhood"
   - "Glorified by the Orthodox Church of Ukraine as Saint Yelyzaveta the Righteous (2021)"
 birthplace_name: "Unknown"
+image_alt: "Imagined portrait of Halshka Hulevychivna in a fur hat, white veil and coral beads, holding a scroll, made by AI"
 ---
 
 ## A noblewoman from Volhynia

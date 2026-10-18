@@ -12,6 +12,7 @@
   "person.image_restored": "відреставровано за допомогою ШІ (Gemini)",
   "person.image_rendered": "перетворено на фотореалістичне зображення за допомогою ШІ (Gemini); це не справжня фотографія",
   "person.image_generated": "створено за допомогою ШІ (Gemini) за мотивами цього зображення; це уявний портрет",
+  "person.image_generated_unsourced": "створено за допомогою ШІ (Gemini) без вихідного зображення; це уявний портрет",
   "person.last_reviewed": "Станом на",
   "person.fun_fact": "Цікавий факт",
   "person.misconception": "Поширений міф",

@@ -16,6 +16,13 @@ birthplace: { name: "Невідомо", region: unknown, country: UA } # from a 
 places:
   - { name: "Київ", lat: 50.465, lon: 30.517, note: "її двір на Подолі, подарований Київському братству, 1615" }
   - { name: "Луцьк", lat: 50.747, lon: 25.325, note: "останні роки життя, Луцьке братство; похована в Хрестовоздвиженській церкві" }
+image:
+  src: ./images/halshka-hulevychivna.jpg
+  alt: "Уявний портрет Галшки Гулевичівни в хутряній шапці, білій намітці й коралових намистах, із сувоєм у руках, створений ШІ"
+  position: "50% 25%"
+  author: "Знай своїх"
+  license: "Public domain"
+  ai_edit: generated
 key_accomplishments:
   - "1615 року подарувала Київському братству свій двір із землею на Подолі для монастиря, притулку для прочан і школи"
   - "З її дару традиція веде початок Київської братської школи, попередниці Києво-Могилянської академії"
@@ -31,7 +38,8 @@ sources:
   - title: "Суспільне - Л. Літвицька, «Волинську меценатку Галшку Гулевичівну визнали святою» (25.11.2021)"
     url: "https://suspilne.media/183815-volinsku-mecenatku-galsku-gulevicivnu-viznali-svatou/"
 related: [petro-mohyla, petro-sahaidachnyi]
-status: draft
+status: approved
+published: 2026-10-18T02:05:57Z
 ---
 
 ## Шляхтянка з Волині

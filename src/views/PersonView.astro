@@ -213,8 +213,8 @@ const memberOf = collections.filter((c) => data.collections.includes(c.id));
           {
             data.image && (
               <p>
-                {t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, <License name={data.image.license} />
-                {data.image.ai_edit && `; ${t(`person.image_${data.image.ai_edit}`, lang)}`}
+                {t('person.image_credit', lang)}: {data.image.source_url ? <a href={data.image.source_url}>{data.image.author}</a> : data.image.author}, <License name={data.image.license} />
+                {data.image.ai_edit && `; ${t(data.image.source_url ? `person.image_${data.image.ai_edit}` : 'person.image_generated_unsourced', lang)}`}
                 {data.image.fair_use && `; ${t('person.image_fair_use', lang)}`}
               </p>
             )

@@ -64,7 +64,11 @@ const people = defineCollection({
         // for `rendered` that it isn't a real photograph, for `generated` that it's an imagined portrait.
         // `fair_use`: not freely licensed (owner decision); shown on the site (profile, cards) and in the
         // profile's share cards and social posts, never in structured data, and excluded from the site's CC BY-SA license.
-        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored', 'rendered', 'generated']).optional(), fair_use: z.boolean().optional(), ...credit }).optional(),
+        // `source_url` may be left out only for a `generated` portrait made without any source image.
+        image: z
+          .object({ src: image(), alt: z.string(), position: z.string().optional(), ai_edit: z.enum(['colorized', 'restored', 'rendered', 'generated']).optional(), fair_use: z.boolean().optional(), ...credit, source_url: webUrl.optional() })
+          .refine((i) => i.source_url || i.ai_edit === 'generated', { message: 'image.source_url is required unless ai_edit is generated' })
+          .optional(),
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
         // Photos in the story: each one closes the `section`-th `##` section of the bio (both languages
         // keep the same sections). `ai_edit` and `fair_use` as for `image`; `fair_use`: on the profile only.
