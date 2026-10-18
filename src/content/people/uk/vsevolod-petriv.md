@@ -17,8 +17,9 @@ places:
   - { name: "Аугсбург", lat: 48.371, lon: 10.898, note: "з 1945; тут помер 1948 року" }
 image:
   src: ./images/vsevolod-petriv.jpg
-  alt: "Всеволод Петрів у військовому однострої з тризубами на комірі, чорно-біле фото"
+  alt: "Всеволод Петрів у військовому однострої з тризубами на комірі"
   position: "50% 30%"
+  ai_edit: colorized
   author: "Невідомий автор (журнал «За державність», вип. 4, Варшава, 1934)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Petriv_V.jpg"
@@ -35,7 +36,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CE%5CPetrivVsevolod.htm"
 related: [bohdan-khmelnytskyi]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-18T00:31:11Z
 ---
 
 ## Полк, який дійшов до Києва

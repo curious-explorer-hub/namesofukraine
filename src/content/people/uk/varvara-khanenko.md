@@ -21,6 +21,7 @@ image:
   src: ./images/varvara-khanenko.jpg
   alt: "Варвара Ханенко, фото з живописного портрета"
   position: "50% 25%"
+  ai_edit: colorized
   author: "Микола Неврєв"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Varvara_Khanenko.jpg"
@@ -40,7 +41,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Krychevsky, Vasyl"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrychevskyVasylH.htm"
 related: [nikola-tereshchenko, ahatanhel-krymskyi, bohdan-khanenko]
-status: draft
+status: approved
+published: 2026-10-18T00:29:38Z
 ---
 
 ## Донька Терещенка

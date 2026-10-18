@@ -16,8 +16,9 @@ places:
   - { name: "Варшава", lat: 52.23, lon: 21.012, note: "член окружного суду, 1876–1881" }
 image:
   src: ./images/bohdan-khanenko.jpg
-  alt: "Богдан Ханенко, сивий чоловік із бородою, у темному костюмі й краватці, чорно-біле фото"
+  alt: "Богдан Ханенко, сивий чоловік із бородою, у темному костюмі й краватці"
   position: "50% 30%"
+  ai_edit: colorized
   author: "Невідомий фотограф (з архіву Національного художнього музею України)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD_%D0%A5%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE,_1900-%D1%82%D1%96_%D1%80%D1%80._%D0%97_%D0%B0%D1%80%D1%85%D1%96%D0%B2%D1%83_%D0%9D%D0%A5%D0%9C%D0%A3.jpg"
@@ -35,7 +36,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Khanenko, Bohdan"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CH%5CKhanenkoBohdan.htm"
 related: [varvara-khanenko, nikola-tereshchenko, olena-pchilka]
-status: draft
+status: approved
+published: 2026-10-18T00:26:13Z
 ---
 
 ## Весільна подорож, з якої почався музей

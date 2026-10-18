@@ -11,7 +11,7 @@ key_accomplishments:
   - "With his wife published the six volumes of Antiquities of the Dnipro Region (1899–1907)"
   - "In 1917 left instructions to turn the collection into a museum for Kyiv, today’s Khanenko Museum"
 birthplace_name: "Lotoky, Chernihiv Governorate (now Bryansk Oblast, Russia)"
-image_alt: "Bohdan Khanenko, a grey-haired bearded man in a dark suit and tie, black-and-white photo"
+image_alt: "Bohdan Khanenko, a grey-haired bearded man in a dark suit and tie"
 ---
 
 ## The honeymoon that started a museum

@@ -11,7 +11,7 @@ key_accomplishments:
   - "Brigadier general (heneral-khorunzhyi) of the UNR Army"
   - "Memoirs from the Times of the Ukrainian Revolution (1917–1921), in four parts"
 birthplace_name: "Kyiv"
-image_alt: "Vsevolod Petriv in military uniform with tridents on the collar, black-and-white photo"
+image_alt: "Vsevolod Petriv in military uniform with tridents on the collar"
 ---
 
 ## The regiment that reached Kyiv
