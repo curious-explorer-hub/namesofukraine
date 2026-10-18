@@ -1,0 +1,417 @@
+---
+// «Статистика» / "Statistics" (decision D20): the catalogue, counted at build
+// time (src/lib/stats.ts); readers, from Cloudflare Web Analytics when src/data/readers.json exists
+// (scripts/pull-readers.mjs; example numbers on the dev server only); and the visitor's own progress,
+// from the read marks in their browser (src/scripts/stats.ts). Charts are SVG drawn here, so the page
+// reads without JavaScript; the script adds tooltips, the switches and the visitor's progress.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Portrait from '../components/Portrait.astro';
+import { getPeople, groupLabel, groupUrl, regionLabel, personUrl, localePath, fullDate, CATALOGUE_DATE, type Person } from '../lib/people';
+import { regions as shapes, WIDTH, HEIGHT } from '../lib/map';
+import { OUTSIDE, byCentury, byField, byRegion, earliestBorn, genderSplit, growth, longestLife, mostConnected, shade } from '../lib/stats';
+import allRegions from '../content/regions.json';
+import sample from '../lib/readers-sample.json';
+import { t, type Key, type Lang } from '../i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+interface Rank {
+  slug: string;
+  move: number | 'new';
+}
+interface Readers {
+  updated: string;
+  days: { date: string; uk: number; en: number }[];
+  visits: number;
+  visitsBefore: number;
+  profileViews: number;
+  enShare: number;
+  countries: { count: number; top: [string, number][] };
+  month: Rank[];
+  week: Rank[];
+  trending: { slug: string; rise: number }[];
+}
+
+const { lang } = Astro.props;
+const locale = lang === 'uk' ? 'uk-UA' : 'en-GB';
+const num = (n: number, digits = 0) => n.toLocaleString(locale, { maximumFractionDigits: digits, minimumFractionDigits: digits });
+const plural = new Intl.PluralRules(locale);
+const counted = (n: number, key: 'years' | 'ties' | 'persons') => `${num(n)} ${t(`stats.${key}.${plural.select(n)}` as Key, lang)}`;
+const shortDate = new Intl.DateTimeFormat(locale, { day: 'numeric', month: 'short', timeZone: 'UTC' });
+const short = (iso: string) => shortDate.format(new Date(`${iso}T00:00:00Z`));
+const listOf = (items: string[]) => new Intl.ListFormat(locale, { type: 'conjunction' }).format(items);
+
+// Drafts are visible on the dev server; the numbers count published profiles only.
+const everyone = await getPeople(lang);
+const people = everyone.filter((p) => p.data.status === 'approved');
+const bySlug = new Map(people.map((p) => [p.slug, p]));
+const now = new Date();
+
+// Catalogue
+const split = genderSplit(people);
+const pct = (n: number) => Math.round((n / Math.max(1, split.total)) * 100);
+const fields = byField(people).filter((f) => f.all);
+const fieldMax = Math.max(1, ...fields.map((f) => f.all));
+const noWomen = fields.filter((f) => !f.women).map((f) => groupLabel(f.id, lang));
+const counts = byRegion(people);
+const inUkraine = allRegions.filter((r) => !OUTSIDE.includes(r.id));
+const missing = inUkraine.filter((r) => !counts.get(r.id)).map((r) => regionLabel(r.id, lang));
+const mostInRegion = Math.max(1, ...inUkraine.map((r) => counts.get(r.id) ?? 0));
+const topPlace = inUkraine.reduce((a, r) => ((counts.get(r.id) ?? 0) > (counts.get(a.id) ?? 0) ? r : a), inUkraine[0]);
+const days = growth(people, now);
+const centuries = byCentury(people);
+const connected = mostConnected(people, 5);
+const longest = longestLife(people);
+const earliest = earliestBorn(people);
+const defenders = fields.find((f) => f.id === 'defenders')?.all ?? 0;
+const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI', 'XXII'];
+const ordinal = (n: number) => `${n}${n % 100 >= 11 && n % 100 <= 13 ? 'th' : ['th', 'st', 'nd', 'rd'][n % 10] ?? 'th'}`;
+const centuryName = (c: number) => (lang === 'uk' ? ROMAN[c] : ordinal(c));
+
+// A line chart (catalogue growth, visits): one scale, ticks at round numbers, a column per point for
+// the tooltip and crosshair.
+const W = 640;
+const niceTop = (max: number) => {
+  const raw = Math.max(1, max) / 4;
+  const p = 10 ** Math.floor(Math.log10(raw));
+  const step = [1, 2, 2.5, 5, 10].map((f) => f * p).find((s) => s >= raw)!;
+  return { step, top: Math.ceil(max / step) * step || step };
+};
+function lineChart(H: number, labels: string[], series: { key: string; values: number[] }[], tips: string[]) {
+  const m = { l: 44, r: 14, t: 12, b: 26 };
+  const { step, top } = niceTop(Math.max(...series.flatMap((s) => s.values)));
+  const x = (i: number) => m.l + (i * (W - m.l - m.r)) / Math.max(1, labels.length - 1);
+  const y = (v: number) => H - m.b - (v / top) * (H - m.t - m.b);
+  const every = Math.ceil(labels.length / 6);
+  return {
+    H,
+    m,
+    base: y(0),
+    ticks: Array.from({ length: Math.round(top / step) + 1 }, (_, i) => ({ y: y(i * step), label: num(i * step) })),
+    xlabels: labels
+      .map((label, i) => ({ label, i, x: x(i) }))
+      .filter(({ i }) => i === labels.length - 1 || (i % every === 0 && labels.length - 1 - i >= every)),
+    lines: series.map((s) => ({ key: s.key, points: s.values.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(' '), end: [x(s.values.length - 1), y(s.values.at(-1)!)] })),
+    cols: labels.map((_, i) => ({ x: x(i), w: (W - m.l - m.r) / Math.max(1, labels.length - 1), tip: tips[i], ys: series.map((s) => y(s.values[i]).toFixed(1)).join(',') })),
+  };
+}
+const growthChart = lineChart(
+  220,
+  days.map((d) => short(d.date)),
+  [{ key: 'cobalt', values: days.map((d) => d.total) }],
+  days.map((d) => t('stats.growth_tip', lang, { date: short(d.date), total: d.total, added: d.added })),
+);
+
+// Centuries: a column per century, empty ones kept.
+const CH = 200;
+const cm = { l: 30, r: 6, t: 16, b: 24 };
+const cTop = niceTop(Math.max(...centuries.map((c) => c.n)));
+const cw = (400 - cm.l - cm.r) / Math.max(1, centuries.length);
+const cy = (v: number) => CH - cm.b - (v / cTop.top) * (CH - cm.t - cm.b);
+
+// Readers: the real file from CI if present, else example numbers on the dev server only.
+const files = import.meta.glob<Readers>('../data/readers.json', { eager: true, import: 'default' });
+const real = Object.values(files)[0];
+const readers: Readers | undefined = real ?? (import.meta.env.DEV ? (sample as unknown as Readers) : undefined);
+const isSample = !real && Boolean(readers);
+const countryName = new Intl.DisplayNames([locale], { type: 'region' });
+const visitsChart = (n: number) =>
+  readers &&
+  lineChart(
+    230,
+    readers.days.slice(-n).map((d) => short(d.date)),
+    [
+      { key: 'uk', values: readers.days.slice(-n).map((d) => d.uk) },
+      { key: 'en', values: readers.days.slice(-n).map((d) => d.en) },
+    ],
+    readers.days.slice(-n).map((d) => `${short(d.date)}: ${t('stats.in_uk', lang)} ${num(d.uk)}, ${t('stats.in_en', lang)} ${num(d.en)}`),
+  );
+const charts = readers ? { 30: visitsChart(30)!, 7: visitsChart(7)! } : undefined;
+const change = readers && readers.visitsBefore ? Math.round(((readers.visits - readers.visitsBefore) / readers.visitsBefore) * 100) : undefined;
+const ranked = (list: Rank[]) => list.flatMap((r) => (bySlug.has(r.slug) ? [{ ...r, person: bySlug.get(r.slug)! }] : []));
+const moveText = (m: number | 'new') => (m === 'new' ? t('stats.new', lang) : m > 0 ? t('stats.up', lang, { n: m }) : m < 0 ? t('stats.down', lang, { n: -m }) : t('stats.same', lang));
+const moveMark = (m: number | 'new') => (m === 'new' ? t('stats.new', lang) : m > 0 ? `▲ ${m}` : m < 0 ? `▼ ${-m}` : '=');
+const moveClass = (m: number | 'new') => (m === 'new' || m > 0 ? 'up' : m < 0 ? 'down' : 'same');
+const trending = readers ? readers.trending.flatMap((r) => (bySlug.has(r.slug) ? [{ ...r, person: bySlug.get(r.slug)! }] : [])) : [];
+const countryMax = readers ? Math.max(1, ...readers.countries.top.map(([, s]) => s)) : 1;
+---
+
+<BaseLayout lang={lang} title={t('stats.title', lang)} description={t('stats.description', lang)}>
+  <div class="stats" data-stats>
+    <header class="page-head">
+      <h1 class="page-title">{t('stats.title', lang)}</h1>
+      <p class="page-lead">{t('stats.lead', lang)}</p>
+    </header>
+
+    <nav class="stats-tabs" aria-label={t('stats.sections', lang)}>
+      <a href="#catalogue" aria-current="true">{t('stats.catalogue', lang)}</a>
+      {readers && <a href="#readers">{t('stats.readers', lang)}</a>}
+      <a href="#you" data-you-tab hidden>{t('stats.you', lang)}</a>
+    </nav>
+
+    <section class="stats-band" id="catalogue" aria-labelledby="stats-catalogue">
+      <div class="stats-band-head">
+        <h2 id="stats-catalogue" class="section-title">{t('stats.catalogue', lang)}</h2>
+        <span class="stats-chip">{t('stats.as_of', lang, { date: fullDate(now, false, lang) })}</span>
+      </div>
+      <div class="stats-grid">
+        <div class="stats-panel stats-kpi s4">
+          <span class="stats-kpi-label">{t('stats.people', lang)}</span>
+          <span class="stats-kpi-value" data-count={split.total}>{num(split.total)}</span>
+          <span class="stats-kpi-sub"><b>{t('stats.since_launch', lang, { n: split.total - (days[0]?.total ?? 0), date: fullDate(CATALOGUE_DATE, false, lang) })}</b></span>
+        </div>
+        <div class="stats-panel stats-kpi stats-gender s5">
+          <span class="stats-kpi-label">{t('stats.gender', lang)}</span>
+          <div class="stats-split" role="img" aria-label={`${t('stats.women', lang)}: ${split.women} (${pct(split.women)}%), ${t('stats.men', lang)}: ${split.men} (${pct(split.men)}%)`}>
+            <span class="stats-split-a" style={`width:${pct(split.women)}%`}></span>
+            <span class="stats-split-b" style={`width:${100 - pct(split.women)}%`}></span>
+          </div>
+          <div class="stats-split-legend">
+            <span><i class="stats-key stats-split-a"></i>{t('stats.women', lang)} <b data-count={split.women}>{num(split.women)}</b> · {pct(split.women)}%</span>
+            <span><i class="stats-key stats-split-b"></i>{t('stats.men', lang)} <b data-count={split.men}>{num(split.men)}</b> · {pct(split.men)}%</span>
+          </div>
+        </div>
+        <div class="stats-panel stats-kpi s3">
+          <span class="stats-kpi-label">{t('stats.regions', lang)}</span>
+          <span class="stats-kpi-value"><span data-count={inUkraine.length - missing.length}>{inUkraine.length - missing.length}</span><span class="stats-kpi-of"> / {inUkraine.length}</span></span>
+          <span class="stats-kpi-sub">{missing.length ? t('stats.regions_missing', lang, { list: listOf(missing) }) : t('stats.regions_all', lang)}</span>
+        </div>
+
+        <div class="stats-panel s8 wide">
+          <div class="stats-panel-head"><h3>{t('stats.growth', lang)}</h3><span class="stats-note">{t('stats.growth_note', lang)}</span></div>
+          <svg class="stats-chart" viewBox={`0 0 ${W} ${growthChart.H}`} role="img" aria-label={`${t('stats.growth', lang)}: ${days[0]?.total} → ${split.total}`} data-line>
+            {growthChart.ticks.map((tk) => (<><line class="stats-grid-line" x1={growthChart.m.l} x2={W - growthChart.m.r} y1={tk.y} y2={tk.y} /><text class="stats-axis" x={growthChart.m.l - 8} y={tk.y + 4} text-anchor="end">{tk.label}</text></>))}
+            {growthChart.xlabels.map((l) => (<text class="stats-axis" x={l.x} y={growthChart.H - 6} text-anchor={l.i === 0 ? 'start' : l.i === days.length - 1 ? 'end' : 'middle'}>{l.label}</text>))}
+            {growthChart.lines.map((s) => (<><polygon class="stats-area" points={`${growthChart.m.l},${growthChart.base} ${s.points} ${s.end[0]},${growthChart.base}`} /><polyline class={`stats-line stats-${s.key}`} points={s.points} pathLength="1" /><circle class={`stats-end stats-${s.key}`} cx={s.end[0]} cy={s.end[1]} r="4.5" /></>))}
+            <line class="stats-cross" y1={growthChart.m.t} y2={growthChart.base} visibility="hidden" />
+            {growthChart.lines.map((s) => <circle class={`stats-dot stats-${s.key}`} r="4.5" visibility="hidden" />)}
+            {growthChart.cols.map((c) => <rect class="stats-col" x={c.x - c.w / 2} y={growthChart.m.t} width={c.w} height={growthChart.base - growthChart.m.t} data-x={c.x} data-ys={c.ys} data-tip={c.tip} />)}
+          </svg>
+          <details class="stats-table"><summary>{t('stats.table', lang)}</summary><div class="stats-table-wrap"><table><thead><tr><th>{t('stats.date', lang)}</th><th>{t('stats.added', lang)}</th><th>{t('stats.total', lang)}</th></tr></thead><tbody>{days.map((d) => <tr><td>{short(d.date)}</td><td>{d.added}</td><td>{d.total}</td></tr>)}</tbody></table></div></details>
+        </div>
+
+        <div class="stats-panel s4">
+          <div class="stats-panel-head"><h3>{t('stats.map', lang)}</h3><span class="stats-note">{t('stats.map_note', lang)}</span></div>
+          <svg class="stats-map" viewBox={`0 0 ${WIDTH} ${HEIGHT}`} role="img" aria-label={t('stats.map', lang)}>
+            {shapes.map((r) => {
+              const n = counts.get(r.id) ?? 0;
+              return <path d={r.d} fill-rule="evenodd" class={`stats-region shade-${shade(n, mostInRegion)}`} data-tip={`${regionLabel(r.id, lang)}: ${n || t('stats.map_none', lang)}`} />;
+            })}
+          </svg>
+          <div class="stats-legend"><span class="stats-ramp" aria-hidden="true">{[0, 1, 2, 3, 4].map((s) => <i class={`shade-${s}`}></i>)}</span><span>{t('stats.map_scale', lang)}</span><span><i class="stats-key stats-empty" aria-hidden="true"></i>{t('stats.map_none', lang)}</span></div>
+          <p class="stats-note">{t('stats.outside', lang, { abroad: counts.get('abroad') ?? 0, unknown: counts.get('unknown') ?? 0 })}</p>
+          <details class="stats-table"><summary>{t('stats.table', lang)}</summary><div class="stats-table-wrap"><table><tbody>{[...inUkraine, ...allRegions.filter((r) => OUTSIDE.includes(r.id))].sort((a, b) => (counts.get(b.id) ?? 0) - (counts.get(a.id) ?? 0)).map((r) => <tr><td>{regionLabel(r.id, lang)}</td><td>{counts.get(r.id) ?? 0}</td></tr>)}</tbody></table></div></details>
+        </div>
+
+        <div class="stats-panel s7 wide">
+          <div class="stats-panel-head">
+            <h3>{t('stats.fields', lang)}</h3>
+            <div class="stats-seg" role="group" aria-label={t('stats.show', lang)} data-switch="stats-fields" hidden>
+              <button type="button" data-value="all" aria-pressed="true">{t('stats.all', lang)}</button>
+              <button type="button" data-value="women" aria-pressed="false">{t('stats.women', lang)}</button>
+              <button type="button" data-value="men" aria-pressed="false">{t('stats.men', lang)}</button>
+            </div>
+          </div>
+          <ul class="stats-bars" id="stats-fields" data-mode="all">
+            {fields.map((f, i) => (
+              <li class="stats-bar" style={`--i:${i};--all:${(f.all / fieldMax) * 100}%;--women:${(f.women / fieldMax) * 100}%;--men:${(f.men / fieldMax) * 100}%`}>
+                <span class="stats-bar-name"><i class="stats-swatch" data-group={f.id}></i><a href={groupUrl(f.id, lang)}>{groupLabel(f.id, lang)}</a></span>
+                <span class="stats-track"><span class="stats-fill"></span></span>
+                <span class="stats-bar-val"><span data-when="all">{f.all}</span><span data-when="women" hidden>{f.women}</span><span data-when="men" hidden>{f.men}</span></span>
+              </li>
+            ))}
+          </ul>
+          {noWomen.length > 0 && <p class="stats-note">{t('stats.fields_gap', lang, { list: listOf(noWomen) })} <a href={localePath(lang, '/feedback/?type=person#form')}>{t('stats.suggest', lang)}</a></p>}
+        </div>
+
+        <div class="stats-panel s5">
+          <div class="stats-panel-head"><h3>{t('stats.centuries', lang)}</h3><span class="stats-note">{t('stats.centuries_note', lang)}</span></div>
+          <svg class="stats-chart" viewBox={`0 0 400 ${CH}`} role="img" aria-label={centuries.map((c) => `${centuryName(c.century)}: ${c.n}`).join(', ')}>
+            {Array.from({ length: Math.round(cTop.top / cTop.step) + 1 }, (_, i) => i * cTop.step).map((v) => (<><line class="stats-grid-line" x1={cm.l} x2={400 - cm.r} y1={cy(v)} y2={cy(v)} /><text class="stats-axis" x={cm.l - 6} y={cy(v) + 4} text-anchor="end">{v}</text></>))}
+            {centuries.map((c, i) => (
+              <>
+                {c.n > 0 && <rect class="stats-column" x={cm.l + i * cw + 3} y={cy(c.n)} width={Math.max(2, cw - 6)} height={Math.max(2, cy(0) - cy(c.n))} rx="3" style={`--i:${i}`} />}
+                {c.n >= cTop.top / 15 && <text class="stats-axis stats-value" x={cm.l + i * cw + cw / 2} y={cy(c.n) - 5} text-anchor="middle">{c.n}</text>}
+                <text class="stats-axis" x={cm.l + i * cw + cw / 2} y={CH - 7} text-anchor="middle">{centuryName(c.century)}</text>
+                <rect class="stats-col" x={cm.l + i * cw} y={cm.t} width={cw} height={CH - cm.t - cm.b} data-tip={`${t('stats.century', lang, { c: centuryName(c.century) })}: ${c.n ? t('stats.born_n', lang, { n: c.n }) : t('stats.no_one', lang)}`} />
+              </>
+            ))}
+          </svg>
+          {earliest && <p class="stats-note">{t('stats.earliest', lang, { name: earliest.data.name, year: earliest.data.born.getUTCFullYear() })}</p>}
+        </div>
+
+        <div class="stats-panel s12">
+          <h3>{t('stats.facts', lang)}</h3>
+          <div class="stats-facts">
+            {longest && <div class="stats-fact"><div class="stats-fact-num">{counted(longest.years, 'years')}</div><p>{t('stats.fact_longest', lang, { name: '' })}<a href={personUrl(longest.person as Person)}>{longest.person.data.name}</a></p></div>}
+            {connected[0] && <div class="stats-fact"><div class="stats-fact-num">{counted(connected[0].links, 'ties')}</div><p>{t('stats.fact_connected', lang, { name: '' })}<a href={personUrl(connected[0].person as Person)}>{connected[0].person.data.name}</a></p></div>}
+            <div class="stats-fact"><div class="stats-fact-num">{counted(counts.get(topPlace.id) ?? 0, 'persons')}</div><p>{t('stats.fact_place', lang, { place: regionLabel(topPlace.id, lang) })}</p></div>
+            <div class="stats-fact"><div class="stats-fact-num">{num(defenders)}</div><p>{t('stats.fact_defenders', lang)}</p></div>
+          </div>
+        </div>
+
+        <div class="stats-panel s12">
+          <div class="stats-panel-head"><h3>{t('stats.connected', lang)}</h3><span class="stats-note">{t('stats.connected_note', lang)}</span></div>
+          <ul class="stats-bars">
+            {connected.map((c, i) => (
+              <li class="stats-bar" style={`--i:${i};--all:${(c.links / connected[0].links) * 100}%`}>
+                <span class="stats-bar-name"><a href={personUrl(c.person as Person)}>{c.person.data.name}</a></span>
+                <span class="stats-track"><span class="stats-fill"></span></span>
+                <span class="stats-bar-val">{c.links}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    {
+      readers && charts && (
+        <section class="stats-band" id="readers" aria-labelledby="stats-readers">
+          <div class="stats-band-head">
+            <h2 id="stats-readers" class="section-title">{t('stats.readers', lang)}</h2>
+            <span class={`stats-chip${isSample ? ' stats-chip-sample' : ''}`}>{isSample ? t('stats.sample', lang) : `${t('stats.readers_note', lang)} · ${t('stats.as_of', lang, { date: fullDate(new Date(readers.updated), false, lang) })}`}</span>
+          </div>
+          <div class="stats-grid">
+            <div class="stats-panel stats-kpi s3">
+              <span class="stats-kpi-label">{t('stats.visits', lang)}</span>
+              <span class="stats-kpi-value" data-count={readers.visits}>{num(readers.visits)}</span>
+              {change !== undefined && <span class="stats-kpi-sub"><b class={change < 0 ? 'down' : ''}>{t('stats.change', lang, { change: `${change < 0 ? '▼' : '▲'} ${Math.abs(change)}%` })}</b></span>}
+            </div>
+            <div class="stats-panel stats-kpi s3">
+              <span class="stats-kpi-label">{t('stats.reads', lang)}</span>
+              <span class="stats-kpi-value" data-count={readers.profileViews}>{num(readers.profileViews)}</span>
+              <span class="stats-kpi-sub">{t('stats.per_visit', lang, { n: num(readers.profileViews / readers.visits, 1) })}</span>
+            </div>
+            <div class="stats-panel stats-kpi s3">
+              <span class="stats-kpi-label">{t('stats.countries', lang)}</span>
+              <span class="stats-kpi-value" data-count={readers.countries.count}>{readers.countries.count}</span>
+              <span class="stats-kpi-sub">{t('stats.countries_note', lang)}</span>
+            </div>
+            <div class="stats-panel stats-kpi s3">
+              <span class="stats-kpi-label">{t('stats.en_share', lang)}</span>
+              <span class="stats-kpi-value"><span data-count={readers.enShare}>{readers.enShare}</span>%</span>
+              <span class="stats-kpi-sub">{t('stats.en_share_note', lang)}</span>
+            </div>
+
+            <div class="stats-panel s8 wide">
+              <div class="stats-panel-head">
+                <h3>{t('stats.visits_chart', lang)}</h3>
+                <div class="stats-seg" role="group" aria-label={t('stats.period', lang)} data-switch="stats-visits" hidden>
+                  <button type="button" data-value="7" aria-pressed="false">{t('stats.days_7', lang)}</button>
+                  <button type="button" data-value="30" aria-pressed="true">{t('stats.days_30', lang)}</button>
+                </div>
+              </div>
+              <div id="stats-visits" data-mode="30">
+                {([30, 7] as const).map((n) => {
+                  const ch = charts[n];
+                  return (
+                    <div data-when={String(n)} hidden={n === 7}>
+                    <svg class="stats-chart" viewBox={`0 0 ${W} ${ch.H}`} role="img" aria-label={`${t('stats.visits_chart', lang)}, ${t(`stats.days_${n}`, lang)}`} data-line>
+                      {ch.ticks.map((tk) => (<><line class="stats-grid-line" x1={ch.m.l} x2={W - ch.m.r} y1={tk.y} y2={tk.y} /><text class="stats-axis" x={ch.m.l - 8} y={tk.y + 4} text-anchor="end">{tk.label}</text></>))}
+                      {ch.xlabels.map((l) => (<text class="stats-axis" x={l.x} y={ch.H - 6} text-anchor={l.i === 0 ? 'start' : l.i === n - 1 ? 'end' : 'middle'}>{l.label}</text>))}
+                      {ch.lines.map((s) => (<><polyline class={`stats-line stats-${s.key}`} points={s.points} pathLength="1" /><circle class={`stats-end stats-${s.key}`} cx={s.end[0]} cy={s.end[1]} r="4.5" /></>))}
+                      <line class="stats-cross" y1={ch.m.t} y2={ch.base} visibility="hidden" />
+                      {ch.lines.map((s) => <circle class={`stats-dot stats-${s.key}`} r="4.5" visibility="hidden" />)}
+                      {ch.cols.map((c) => <rect class="stats-col" x={c.x - c.w / 2} y={ch.m.t} width={c.w} height={ch.base - ch.m.t} data-x={c.x} data-ys={c.ys} data-tip={c.tip} />)}
+                    </svg>
+                    </div>
+                  );
+                })}
+              </div>
+              <div class="stats-legend"><span><i class="stats-key stats-line-key stats-uk"></i>{t('stats.in_uk', lang)}</span><span><i class="stats-key stats-line-key stats-en"></i>{t('stats.in_en', lang)}</span></div>
+            </div>
+
+            <div class="stats-panel s4">
+              <div class="stats-panel-head"><h3>{t('stats.where', lang)}</h3><span class="stats-note">{t('stats.where_note', lang)}</span></div>
+              <ul class="stats-bars stats-bars-narrow">
+                {readers.countries.top.map(([code, share], i) => (
+                  <li class="stats-bar" style={`--i:${i};--all:${(share / countryMax) * 100}%`}>
+                    <span class="stats-bar-name">{code === 'other' ? t('stats.other', lang) : (countryName.of(code) ?? code)}</span>
+                    <span class="stats-track"><span class={`stats-fill${code === 'other' ? ' stats-fill-muted' : ''}`}></span></span>
+                    <span class="stats-bar-val">{share}%</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div class="stats-panel s6 wide">
+              <div class="stats-panel-head">
+                <h3>{t('stats.most_read', lang)}</h3>
+                <div class="stats-seg" role="group" aria-label={t('stats.period', lang)} data-switch="stats-most-read" hidden>
+                  <button type="button" data-value="month" aria-pressed="true">{t('stats.month', lang)}</button>
+                  <button type="button" data-value="week" aria-pressed="false">{t('stats.week', lang)}</button>
+                </div>
+              </div>
+              <div id="stats-most-read" data-mode="month">
+                {(['month', 'week'] as const).map((period) => (
+                  <ol class="stats-rank" data-when={period} hidden={period === 'week'}>
+                    {ranked(readers[period]).map((r) => (
+                      <li>
+                        <Portrait person={r.person} class="stats-face" ratio={1} widths={[48, 96]} sizes="2.5rem" />
+                        <span class="stats-who"><a href={personUrl(r.person)}>{r.person.data.name}</a><span>{r.person.data.role}</span></span>
+                        <span class={`stats-move ${moveClass(r.move)}`} aria-label={moveText(r.move)}>{moveMark(r.move)}</span>
+                      </li>
+                    ))}
+                  </ol>
+                ))}
+              </div>
+              <p class="stats-note">{t('stats.ranks_note', lang)}</p>
+            </div>
+
+            <div class="stats-panel s6 wide">
+              <div class="stats-panel-head"><h3>{t('stats.trending', lang)}</h3><span class="stats-note">{t('stats.trending_note', lang)}</span></div>
+              <ol class="stats-rank">
+                {trending.map((r) => (
+                  <li>
+                    <Portrait person={r.person} class="stats-face" ratio={1} widths={[48, 96]} sizes="2.5rem" />
+                    <span class="stats-who"><a href={personUrl(r.person)}>{r.person.data.name}</a><span>{r.person.data.role}</span></span>
+                    <span class="stats-move up">▲ {r.rise}%</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          </div>
+        </section>
+      )
+    }
+
+    <section class="stats-band" id="you" aria-labelledby="stats-you" data-you hidden>
+      <div class="stats-band-head">
+        <h2 id="stats-you" class="section-title">{t('stats.you', lang)}</h2>
+        <span class="stats-chip">{t('stats.you_note', lang)}</span>
+      </div>
+      <div class="stats-panel">
+        <div class="stats-progress">
+          <div class="stats-ring">
+            <svg viewBox="0 0 120 120" aria-hidden="true"><circle class="stats-ring-track" cx="60" cy="60" r="50" pathLength="100" /><circle class="stats-ring-fill" cx="60" cy="60" r="50" pathLength="100" /></svg>
+            <div class="stats-ring-label"><b data-you-count>0</b><span>{t('stats.you_read', lang, { total: split.total })}</span></div>
+          </div>
+          <div class="stats-progress-fields">
+            <h3>{t('stats.fields', lang)}</h3>
+            <ul class="stats-bars" data-you-fields data-template-unread={t('stats.you_unread', lang)}>
+              {fields.map((f) => (
+                <li class="stats-bar" data-slugs={people.filter((p) => p.data.group === f.id).map((p) => p.slug).join(' ')} data-label={groupLabel(f.id, lang)}>
+                  <span class="stats-bar-name"><i class="stats-swatch" data-group={f.id}></i><span>{groupLabel(f.id, lang)}</span></span>
+                  <span class="stats-track"><span class="stats-fill"></span></span>
+                  <span class="stats-bar-val"></span>
+                </li>
+              ))}
+            </ul>
+            <p class="stats-note" data-you-note data-none={t('stats.you_none', lang)}></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <p class="stats-method">{t('stats.method', lang)}</p>
+  </div>
+  <div class="stats-tip" data-stats-tip role="tooltip" hidden></div>
+</BaseLayout>
+
+<script>
+  import { initStats } from '../scripts/stats';
+  initStats();
+</script>

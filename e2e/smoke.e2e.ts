@@ -325,6 +325,31 @@ test.describe('feedback form', () => {
   });
 });
 
+test.describe('stats page', () => {
+  test('shows the catalogue in both languages and switches the fields by gender', async ({ page }) => {
+    await page.goto('/uk/stats/');
+    await expect(page.getByRole('heading', { level: 1, name: 'Статистика' })).toBeVisible();
+    await expect(page.locator('.stats-kpi-value').first()).toHaveText(/^\d/);
+    await page.getByRole('button', { name: 'Жінки', exact: true }).click();
+    await expect(page.locator('#stats-fields')).toHaveAttribute('data-mode', 'women');
+    // Example readers' numbers are for the dev server only; a build shows real ones or none.
+    await expect(page.locator('.stats-chip-sample')).toHaveCount(0);
+    await page.goto('/en/stats/');
+    await expect(page.getByRole('heading', { level: 1, name: 'Statistics' })).toBeVisible();
+  });
+
+  test("shows the visitor's own progress, with a hint before anything is marked read", async ({ page }) => {
+    await page.goto('/en/stats/');
+    await expect(page.locator('#you')).toBeVisible();
+    await expect(page.locator('[data-you-count]')).toHaveText('0');
+    await expect(page.locator('[data-you-note]')).toContainText("haven't marked any profile");
+    await page.evaluate(() => localStorage.setItem('iu:read', JSON.stringify(['taras-shevchenko'])));
+    await page.reload();
+    await expect(page.locator('#you')).toBeVisible();
+    await expect(page.locator('[data-you-count]')).toHaveText('1');
+  });
+});
+
 test('an unknown address shows the friendly not-found page in the right language', async ({ page }) => {
   const response = await page.goto('/en/people/no-such-person/');
   expect(response?.status()).toBe(404);

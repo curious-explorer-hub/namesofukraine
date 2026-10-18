@@ -79,6 +79,7 @@ Names only; the values live in GitHub and Cloudflare, never in this repository.
 |---|---|---|
 | GitHub → Settings → Secrets and variables → Actions | `CLOUDFLARE_API_TOKEN` | A Cloudflare API token with the permission **Account · Cloudflare Pages · Edit** |
 | same | `CLOUDFLARE_ACCOUNT_ID` | The Cloudflare account ID (shown in the dashboard URL and on the account overview) |
+| same | `CLOUDFLARE_ANALYTICS_TOKEN` | A separate Cloudflare API token with only **Account · Account Analytics · Read**, for the Stats page's readers' numbers (see [The Stats page](#the-stats-page)) |
 | same | `THREADS_ACCESS_TOKEN` | A long-lived Threads user token for posting (see [Posting to Threads](#posting-to-threads)); expires after 60 days |
 | same | `INSTAGRAM_ACCESS_TOKEN` | A long-lived Instagram user token for posting (see [Posting to Instagram](#posting-to-instagram)); expires after 60 days |
 | `astro.config.mjs` | `site` | The public address; canonical, `hreflang`, sitemap, `robots.txt`, structured data and share cards are built from it |
@@ -119,6 +120,16 @@ The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/e
 **Turning the form off:** set `FEEDBACK_SITEKEY` in `src/site.ts` to `''` and push; the page then says the form is coming soon.
 
 Answer corrections from or about living people promptly (product_vision.md §7.6).
+
+## The Stats page
+
+`/uk/stats/` and `/en/stats/` (D20, `src/views/StatsView.astro`). The catalogue part is counted from the profiles at build time and needs nothing. The readers' part appears only once CI can read Cloudflare Web Analytics:
+
+1. Cloudflare dashboard → **My Profile → API Tokens → Create Token → Custom token**. Name: `namesofukraine stats (read analytics)`. Permissions: **Account · Account Analytics · Read**; Account resources: your account. Create it and copy the token.
+2. GitHub → **Settings → Secrets and variables → Actions → New repository secret**: name `CLOUDFLARE_ANALYTICS_TOKEN`, value the token. `CLOUDFLARE_ACCOUNT_ID` is already there for the deploy.
+3. Run CI on `main` (push, or **Actions → CI → Run workflow**). The step "Readers' numbers from Cloudflare Web Analytics" logs how many visits it read; the page then shows the Readers section. CI also runs every night at 02:30 UTC to refresh them.
+
+`scripts/pull-readers.mjs` writes `src/data/readers.json`, which is not in git (it's traffic data). If the token is missing or Cloudflare fails, the step says so and the build goes on without the Readers section. To see real numbers locally: `CLOUDFLARE_ANALYTICS_TOKEN=… CLOUDFLARE_ACCOUNT_ID=… npm run readers`, then `npm run dev`. Without that file, the dev server shows example numbers marked as such; a production build never does.
 
 ## Posting to Threads
 

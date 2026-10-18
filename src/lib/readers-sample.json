@@ -1,0 +1,267 @@
+{
+ "$comment": "Example numbers for the dev server only (src/views/StatsView.astro); production uses src/data/readers.json from scripts/pull-readers.mjs.",
+ "updated": "2026-10-18T00:00:00.000Z",
+ "days": [
+  {
+   "date": "2026-09-18",
+   "uk": 359,
+   "en": 116
+  },
+  {
+   "date": "2026-09-19",
+   "uk": 397,
+   "en": 117
+  },
+  {
+   "date": "2026-09-20",
+   "uk": 326,
+   "en": 134
+  },
+  {
+   "date": "2026-09-21",
+   "uk": 362,
+   "en": 144
+  },
+  {
+   "date": "2026-09-22",
+   "uk": 369,
+   "en": 145
+  },
+  {
+   "date": "2026-09-23",
+   "uk": 381,
+   "en": 134
+  },
+  {
+   "date": "2026-09-24",
+   "uk": 422,
+   "en": 171
+  },
+  {
+   "date": "2026-09-25",
+   "uk": 404,
+   "en": 148
+  },
+  {
+   "date": "2026-09-26",
+   "uk": 458,
+   "en": 184
+  },
+  {
+   "date": "2026-09-27",
+   "uk": 392,
+   "en": 163
+  },
+  {
+   "date": "2026-09-28",
+   "uk": 507,
+   "en": 152
+  },
+  {
+   "date": "2026-09-29",
+   "uk": 506,
+   "en": 167
+  },
+  {
+   "date": "2026-09-30",
+   "uk": 450,
+   "en": 163
+  },
+  {
+   "date": "2026-10-01",
+   "uk": 474,
+   "en": 198
+  },
+  {
+   "date": "2026-10-02",
+   "uk": 472,
+   "en": 192
+  },
+  {
+   "date": "2026-10-03",
+   "uk": 522,
+   "en": 186
+  },
+  {
+   "date": "2026-10-04",
+   "uk": 453,
+   "en": 176
+  },
+  {
+   "date": "2026-10-05",
+   "uk": 488,
+   "en": 187
+  },
+  {
+   "date": "2026-10-06",
+   "uk": 553,
+   "en": 201
+  },
+  {
+   "date": "2026-10-07",
+   "uk": 949,
+   "en": 302
+  },
+  {
+   "date": "2026-10-08",
+   "uk": 550,
+   "en": 203
+  },
+  {
+   "date": "2026-10-09",
+   "uk": 590,
+   "en": 225
+  },
+  {
+   "date": "2026-10-10",
+   "uk": 549,
+   "en": 223
+  },
+  {
+   "date": "2026-10-11",
+   "uk": 514,
+   "en": 241
+  },
+  {
+   "date": "2026-10-12",
+   "uk": 611,
+   "en": 218
+  },
+  {
+   "date": "2026-10-13",
+   "uk": 643,
+   "en": 215
+  },
+  {
+   "date": "2026-10-14",
+   "uk": 601,
+   "en": 248
+  },
+  {
+   "date": "2026-10-15",
+   "uk": 586,
+   "en": 240
+  },
+  {
+   "date": "2026-10-16",
+   "uk": 585,
+   "en": 252
+  },
+  {
+   "date": "2026-10-17",
+   "uk": 659,
+   "en": 251
+  }
+ ],
+ "visits": 20828,
+ "visitsBefore": 16797,
+ "profileViews": 45822,
+ "enShare": 27,
+ "countries": {
+  "count": 64,
+  "top": [
+   [
+    "UA",
+    61
+   ],
+   [
+    "PL",
+    9
+   ],
+   [
+    "DE",
+    6
+   ],
+   [
+    "US",
+    5
+   ],
+   [
+    "CA",
+    4
+   ],
+   [
+    "CZ",
+    3
+   ],
+   [
+    "other",
+    12
+   ]
+  ]
+ },
+ "month": [
+  {
+   "slug": "taras-shevchenko",
+   "move": 0
+  },
+  {
+   "slug": "lesya-ukrainka",
+   "move": 1
+  },
+  {
+   "slug": "kuzma-skriabin",
+   "move": 3
+  },
+  {
+   "slug": "dmytro-kotsiubailo",
+   "move": -1
+  },
+  {
+   "slug": "hryhorii-skovoroda",
+   "move": 2
+  },
+  {
+   "slug": "vasyl-stus",
+   "move": -2
+  }
+ ],
+ "week": [
+  {
+   "slug": "kuzma-skriabin",
+   "move": 2
+  },
+  {
+   "slug": "taras-shevchenko",
+   "move": -1
+  },
+  {
+   "slug": "halshka-hulevychivna",
+   "move": "new"
+  },
+  {
+   "slug": "lesya-ukrainka",
+   "move": -1
+  },
+  {
+   "slug": "oleksandr-bohomolets",
+   "move": "new"
+  },
+  {
+   "slug": "ivan-sirko",
+   "move": 0
+  }
+ ],
+ "trending": [
+  {
+   "slug": "halshka-hulevychivna",
+   "rise": 640
+  },
+  {
+   "slug": "oleksandr-zasiadko",
+   "rise": 410
+  },
+  {
+   "slug": "hlib-babich",
+   "rise": 280
+  },
+  {
+   "slug": "mykhail-semenko",
+   "rise": 190
+  },
+  {
+   "slug": "serhii-yefremov",
+   "rise": 150
+  }
+ ]
+}
