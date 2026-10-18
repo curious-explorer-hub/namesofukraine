@@ -18,10 +18,11 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "розписи Червонозаводського театру, 1933–1935" }
 image:
   src: ./images/mykhailo-boichuk.jpg
-  alt: "Михайло Бойчук, фрагмент фото фундаторів Української академії мистецтва, 1917 рік"
+  alt: "Михайло Бойчук у твідовому піджаку й темній сорочці з краваткою, фотопортрет"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Founders_of_the_Ukrainian_academy_of_arts,_1917,_02.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Bojchuk_M.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Засновник школи українських монументалістів - бойчукістів (бойчукізм)"
   - "Один із засновників Української академії мистецтв (1917), професор до 1936 року"
@@ -39,7 +40,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Михайло_Бойчук
 related: [andrei-sheptytskyi, mykhailo-hrushevskyi, sofiia-nalepynska-boichuk, heorhii-narbut]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T17:51:34Z
 ---
 
 ## Хлопець із Романівки

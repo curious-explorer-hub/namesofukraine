@@ -21,6 +21,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Padalka_Ivan.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Учень майстерні Михайла Бойчука в Українській академії мистецтв, один із провідних бойчукістів"
   - "Розписи Луцьких казарм у Києві (1919) і фреска «Відпочинок» у Червонозаводському театрі в Харкові (1933–1935)"
@@ -38,7 +39,8 @@ sources:
     url: "https://museum.lib.kherson.ua/ukrainskiy-hudozhnik-ivan-padalka.htm"
 related: [mykhailo-boichuk, maik-yohansen, valerian-polishchuk, oleksa-slisarenko, valerian-pidmohylnyi, taras-shevchenko, ivan-kotliarevskyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T17:49:44Z
 ---
 
 ## Картини, гарні, як мамині килими

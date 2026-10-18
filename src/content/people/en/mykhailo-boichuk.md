@@ -11,7 +11,7 @@ key_accomplishments:
   - "Restored 15th- and 16th-century icons at the National Museum in Lviv"
   - "Co-founder of the Association of Revolutionary Art of Ukraine (ARMU, 1925)"
 birthplace_name: "Romanivka"
-image_alt: "Mykhailo Boichuk, a detail of the 1917 photograph of the founders of the Ukrainian Academy of Arts"
+image_alt: "Mykhailo Boichuk in a tweed jacket, dark shirt and tie, photographic portrait"
 ---
 
 ## A boy from Romanivka
