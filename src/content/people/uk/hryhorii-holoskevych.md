@@ -33,6 +33,7 @@ image:
   author: "Невідомий автор (скан з репринтного видання «Правописного словника»)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Григорій_Голоскевич.png"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія Сучасної України - Голоскевич Григорій Костянтинович (автор - М. Г. Железняк)"
     url: "https://esu.com.ua/article-26591"
@@ -40,7 +41,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CH%5CO%5CHoloskevychHryhorii.htm"
 related: [ivan-ohiienko, serhii-yefremov]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T04:31:04Z
 ---
 
 ## Книжка, яка пережила автора

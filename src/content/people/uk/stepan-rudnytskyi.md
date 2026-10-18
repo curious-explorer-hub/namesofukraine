@@ -24,6 +24,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Рудницкий,_Степан_Львович.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "«Коротка географія України» (1910, 1914) - перша ґрунтовна географія всіх українських земель"
   - "Перша етнографічна карта України та перші настінні фізичні карти України (1918)"
@@ -44,7 +45,8 @@ sources:
     url: "https://uinp.gov.ua/istorychnyy-kalendar/zhovten/27/1937-pochatok-naymasovishyh-rozstriliv-u-sandarmosi"
 related: [mykhailo-hrushevskyi, les-kurbas, mykola-zerov, mykola-kulish]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T04:31:04Z
 ---
 
 ## Земля, що зветься Україна
