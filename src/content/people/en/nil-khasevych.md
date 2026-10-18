@@ -37,10 +37,10 @@ His woodcuts were smuggled abroad. In the US they were published in the albums V
 
 On 4 March 1952 an operational group of the Soviet Ministry of State Security (MGB) surrounded the hideout near the village of Sukhivtsi in the Rivne region where Khasevych was living. He was killed together with his guards. By one account, they burned their documents and shot themselves; by another, they were killed by grenades thrown into the hideout. Nil Khasevych was 46. His burial place is unknown.
 
-## Why it matters today
-
-Nil Khasevych showed that art can be a weapon: without ever carrying a rifle, he gave the underground its symbols, its decorations and its voice. His prints told the world that Ukrainians had not given in, even when the USSR said otherwise. His life is a reminder that freedom needs not only fighters but artists who show what it looks like. Anyone who designs posters, stamps or patches for Ukraine's defenders today carries on his work.
-
 ## Debates and assessments
 
 In Ukraine Khasevych is honoured as an artist of the liberation movement: streets in Lviv, Lutsk, Rivne and other cities bear his name, and there are memorials in Sukhivtsi and Rivne. Soviet books accused him of taking part in the underground's executions as a "judge", but offered none of his drawings or any other evidence; his former secretary said the KGB pressured him to testify against the artist. Assessments of the OUN and UPA, for which he worked, differ from country to country. In 2016 the Polish Sejm declared the events in Volhynia in 1943–1945 a genocide of Poles committed by Ukrainian nationalists; Ukrainian experts and politicians warned that such wording would harm relations between the two countries.
+
+## Why it matters today
+
+Nil Khasevych showed that art can be a weapon: without ever carrying a rifle, he gave the underground its symbols, its decorations and its voice. His prints told the world that Ukrainians had not given in, even when the USSR said otherwise. His life is a reminder that freedom needs not only fighters but artists who show what it looks like. Anyone who designs posters, stamps or patches for Ukraine's defenders today carries on his work.

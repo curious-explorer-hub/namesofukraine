@@ -34,10 +34,10 @@ From then on he worked for Ukrainian culture. In Moscow he helped set up a Ukrai
 
 In 1929 Burevii moved to Kharkiv, and that same year official critics began to hound him. In 1934, fleeing the repressions in Ukraine, he left for Moscow, but in the autumn he was arrested there too. Investigators accused him of plotting to kill Stalin. Together with other Ukrainian cultural figures, among them [Oleksa Vlyzko](/en/people/oleksa-vlyzko/), [Dmytro Falkivskyi](/en/people/dmytro-falkivskyi/) and [Hryhorii Kosynka](/en/people/hryhorii-kosynka/), he was condemned as a “terrorist”, and on 17 December 1934 Kost Burevii was shot in Kyiv. His wife and daughter took part of his archive abroad, and his daughter Oksana published the works they had saved.
 
-## Why it matters today
-
-Kost Burevii travelled from Russian revolutionary to Ukrainian writer: a boy who was barred from his own language at school ended up devoting himself to Ukrainian culture. His Edvard Strikha showed that laughter can be a weapon: one invented figure made fun of a whole official “proletarian” literature. He stood up for Ukrainian culture even far from Ukraine, in Moscow. Anyone who sees through a sham and isn’t afraid to laugh at it carries on his work.
-
 ## Debates and assessments
 
 Burevii spent most of his life in Russian revolutionary politics: he sat on the SR Central Committee and fought the Bolsheviks until 1922. He gave himself fully to Ukrainian culture only after 1923, which is why he has been called “a Ukrainian nationalist in the person of a Russian SR”. His polemics were harsh: he attacked both Khvylovy and the Futurists, and researchers mention his quarrelsome nature. It is also written that he was the one who made the equation of Futurism with fascism stick.
+
+## Why it matters today
+
+Kost Burevii travelled from Russian revolutionary to Ukrainian writer: a boy who was barred from his own language at school ended up devoting himself to Ukrainian culture. His Edvard Strikha showed that laughter can be a weapon: one invented figure made fun of a whole official “proletarian” literature. He stood up for Ukrainian culture even far from Ukraine, in Moscow. Anyone who sees through a sham and isn’t afraid to laugh at it carries on his work.

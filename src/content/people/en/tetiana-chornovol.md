@@ -29,10 +29,6 @@ In March 2014, after the Maidan won, Tetiana was appointed the government’s co
 
 On 24 February 2022 Tetiana Chornovol went to fight with the 72nd Separate Mechanised Brigade, first in the north and then in the east. She later became commander of a Stugna-P crew in the 1st Separate Special Purpose Brigade named after Ivan Bohun. In September 2025, after MP Andrii Parubii was killed, the Central Election Commission declared her elected to parliament from the European Solidarity list. But Tetiana chose to stay at the front and asked for her registration to be put off for a year, and the commission agreed.
 
-## Why it matters today
-
-Tetiana Chornovol shows that there is more than one way to fight for Ukraine: with words, when a journalist tells the truth about those in power, and with weapons, when the country has to be defended. She went from investigations to the front, and twice, in 2014 and in 2022, chose to go and fight. Even when the way back to parliament opened, she stayed with the army. Her story is a reminder that free speech and the defence of the country are part of the same fight.
-
 ## Debates and assessments
 
 On 18 February 2014, during the Maidan protests, a building on Lypska Street in Kyiv that housed a Party of Regions office caught fire. One of the office’s employees didn’t get out and died of carbon monoxide poisoning. In April 2020 the State Bureau of Investigation named Chornovol a suspect: investigators say she led a group of people and took part in setting the fire herself. They treat it as intentional murder.
@@ -40,3 +36,7 @@ On 18 February 2014, during the Maidan protests, a building on Lypska Street in 
 Tetiana Chornovol admits she took part in setting the fire but denies any part in the man’s death. She calls the case political repression and revenge for the Maidan, meant to rewrite its history.
 
 In May 2022 Kyiv’s Darnytskyi District Court, at the defence’s request, suspended the trial for as long as Chornovol serves in the Armed Forces. Her lawyer stressed that the case was suspended, not closed, so it could resume once her service ends.
+
+## Why it matters today
+
+Tetiana Chornovol shows that there is more than one way to fight for Ukraine: with words, when a journalist tells the truth about those in power, and with weapons, when the country has to be defended. She went from investigations to the front, and twice, in 2014 and in 2022, chose to go and fight. Even when the way back to parliament opened, she stayed with the army. Her story is a reminder that free speech and the defence of the country are part of the same fight.

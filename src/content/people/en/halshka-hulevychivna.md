@@ -25,10 +25,10 @@ In October 1615 her deed of gift was entered in the Kyiv city books. Hulevychivn
 
 In 1632 [Petro Mohyla](/en/people/petro-mohyla/), archimandrite of the Kyiv Cave Monastery, merged the Kyiv Brotherhood School with the monastery school he had founded a year earlier. The result was the college that grew into the Kyiv-Mohyla Academy. Hulevychivna herself, after her second husband died in 1618, lived in Lutsk and helped the Lutsk Brotherhood. She died in 1642 and was buried in Lutsk’s Church of the Exaltation of the Cross.
 
-## Why it matters today
-
-The gift that tradition links to Halshka Hulevychivna began the school from which the Kyiv-Mohyla Academy grew. Her name is a reminder that women, too, were among those who built Ukrainian education. She gave away her courtyard so that a school for the children of “the Orthodox Rus’ people” could rise on her land. Anyone who gives money, time or room so that others can learn carries on her work.
-
 ## Debates and assessments
 
 The original deed has not survived: the oldest copy dates from the second half of the 18th century. A charter of King Sigismund III from 1629 confirms Hulevychivna’s foundation, but it mentions a church and a hospital, not a school. Some scholars consider the deed’s authenticity doubtful. Others point out that Hulevychivna was first called the school’s founder only in the 1760s, when the academy faced reform, while earlier the founders were thought to be Hetman [Petro Sahaidachnyi](/en/people/petro-sahaidachnyi/) and Petro Mohyla; in their view, the academy’s leaders then found it useful to show that the school’s roots lay with the nobility rather than the Cossacks.
+
+## Why it matters today
+
+The gift that tradition links to Halshka Hulevychivna began the school from which the Kyiv-Mohyla Academy grew. Her name is a reminder that women, too, were among those who built Ukrainian education. She gave away her courtyard so that a school for the children of “the Orthodox Rus’ people” could rise on her land. Anyone who gives money, time or room so that others can learn carries on her work.

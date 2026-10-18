@@ -30,12 +30,12 @@ After Russia’s full-scale invasion in 2022, Honor’s members formed their own
 
 Kotsiubailo was killed near Bakhmut in March 2023. In February 2024 Filimonov took command of the 108th Separate Assault Battalion “Da Vinci Wolves”, named after “Da Vinci”. Within three years he received all three classes of the Order of Bohdan Khmelnytskyi, and as of October 2026 he holds the rank of major.
 
-## Why it matters today
-
-Serhii Filimonov went to war as a student, and for more than ten years he has kept going back to the front, even after serious wounds. He shows that a unit volunteers built on their own initiative can grow into one of the army’s best-known battalions. He carried on Dmytro Kotsiubailo’s work, and the name “Da Vinci” lives on in a fighting unit. And his role in Rhino is a reminder that the people defending Ukraine today come from very different lives.
-
 ## Debates and assessments
 
 Filimonov is one of the most controversial public figures among Ukraine’s commanders. Until 2019 he led the Kyiv branch of the National Corps, a party that grew out of Azov; the US State Department has called the party a “nationalist hate group”. In 2022 VICE described Filimonov as a far-right influencer, and experts it interviewed described Honor as a militant street movement. Filimonov has rejected accusations of neo-Nazism and racism and has named the movement’s guiding idea as the “struggle for justice and Ukrainian independence”. VICE also notes that Russian propaganda uses such groups to smear Ukraine’s forces as a whole.
 
 His street activism came with clashes and criminal cases: in 2021, for example, he was served a notice of suspicion of hooliganism over clashes outside the Office of the President. When he was named battalion commander in February 2024, the command of the unit the battalion split from at first publicly disputed it. In July 2026 Filimonov said he had been reprimanded by the Commander-in-Chief, Oleksandr Syrskyi, shortly after he had publicly listed problems in the army. The General Staff denied that the decision was politically motivated.
+
+## Why it matters today
+
+Serhii Filimonov went to war as a student, and for more than ten years he has kept going back to the front, even after serious wounds. He shows that a unit volunteers built on their own initiative can grow into one of the army’s best-known battalions. He carried on Dmytro Kotsiubailo’s work, and the name “Da Vinci” lives on in a fighting unit. And his role in Rhino is a reminder that the people defending Ukraine today come from very different lives.

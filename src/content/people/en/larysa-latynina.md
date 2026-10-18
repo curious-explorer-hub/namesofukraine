@@ -26,10 +26,10 @@ Larysa Latynina (born Dyrii) was born on 27 December 1934 in Kherson; some sourc
 
 In 1954 in Rome, at her first World Championships, Latynina won team gold with the Soviet team. In 1956 in Melbourne she became Olympic all-around champion and won three more gold medals, and in 1960 in Rome she won the Olympic all-around again. At the 1964 Games in Tokyo she added six more medals. After her competitive career, from 1966 to 1977, Latynina was head coach of the Soviet women's team.
 
-## Why it matters today
-
-Larysa Latynina started out in a school gym club in Kherson and a training hall in Kyiv, and became one of the most decorated athletes in Olympic history. Her Olympic record stood for almost half a century. She showed that an athlete who grew up in Ukraine could become the best in the world.
-
 ## Debates and assessments
 
 Latynina was born and grew up in Ukraine but competed for the USSR, and since the end of her career she has lived in Russia. She holds state awards from Ukraine (the Order of Princess Olga, 2002) as well as from the USSR and Russia. In 2000 Kherson made her an honorary citizen. In early 2023 Ukrainian journalists wrote that since the full-scale invasion she had kept publicly silent about the war, although she had earlier called Ukraine her homeland. In September 2023 the Kherson city military administration stripped her of the title, saying that she supports Russia's armed aggression against Ukraine. The announcement did not cite any specific statements by her.
+
+## Why it matters today
+
+Larysa Latynina started out in a school gym club in Kherson and a training hall in Kyiv, and became one of the most decorated athletes in Olympic history. Her Olympic record stood for almost half a century. She showed that an athlete who grew up in Ukraine could become the best in the world.

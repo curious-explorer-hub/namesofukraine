@@ -74,7 +74,7 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 
 The last section, «Чому це важливо сьогодні» / "Why it matters today" or a hook heading in its place, is the reason the person is on the site. It answers one question: **what did this person change for Ukraine, for people, for the world, and why can we be proud of them?** A reader should finish it knowing what the person gave and feeling that it is worth carrying on. It is the key section of the profile.
 
-It must be the **last section** (only «Дискусії та оцінки» may come after it): it is also the text posted to social media. A story section such as «Як він повернувся» can come before it, but it never replaces it.
+It must be the **last section**, always («Дискусії та оцінки», where there is one, comes before it): it is also the text posted to social media. A story section such as «Як він повернувся» can come before it, but it never replaces it.
 
 - **Short:** five sentences at most.
 - **Why, not what.** The story above gives the facts; the ending says why they matter to other people. Don't retell the story or list results: "she won Madrid and reached two Grand Slam semifinals" doesn't say why the nation should care. Say what it means for Ukraine and the world: for its culture, science, statehood or development, for how the world sees Ukraine (did they carry Ukraine's name onto the world stage, at competitions, in science, in art?), for the people who came after.

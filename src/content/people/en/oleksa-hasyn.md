@@ -32,10 +32,10 @@ From 1943 Hasyn worked on the staff of the Ukrainian Insurgent Army (UPA) and he
 
 On 31 January 1949, near the Main Post Office in Lviv, Hasyn walked into an ambush by the Soviet security service (MGB). Sources differ on whether he was killed in the shoot-out or shot himself. He was 41. In 1952 the underground's leading body, the Ukrainian Supreme Liberation Council, posthumously made him a general-khorunzhyi.
 
-## Why it matters today
-
-Oleksa Hasyn gave the Ukrainian underground its own military language and schooling: a manual, a dictionary of military terms in Ukrainian, courses for officers. He backed the OUN's turn towards a more democratic programme and a fight on two fronts. His life shows that the 20th-century struggle for a state rested not only on fighters but on the people who taught, planned and trained commanders. Today, when Ukraine's army speaks its own language, it is worth knowing the people who wrote its manuals and dictionaries.
-
 ## Debates and assessments
 
 The OUN and the UPA, which Hasyn helped lead, are judged in very different ways. In 2015 Ukraine's parliament passed a law recognizing members of the OUN and the UPA as fighters for Ukraine's independence in the 20th century; in Poland the law sparked debate. In 2016 the Polish Sejm called the killings of Poles by Ukrainian nationalists in Volhynia and other parts of today's western Ukraine during the Second World War a genocide; tens of thousands of people died, most of them Poles. The same resolution also mentions killings of Ukrainian civilians by Polish nationalists. Hasyn served on the UPA staff from 1943, so these debates concern him too.
+
+## Why it matters today
+
+Oleksa Hasyn gave the Ukrainian underground its own military language and schooling: a manual, a dictionary of military terms in Ukrainian, courses for officers. He backed the OUN's turn towards a more democratic programme and a fight on two fronts. His life shows that the 20th-century struggle for a state rested not only on fighters but on the people who taught, planned and trained commanders. Today, when Ukraine's army speaks its own language, it is worth knowing the people who wrote its manuals and dictionaries.

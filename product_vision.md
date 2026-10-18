@@ -59,7 +59,7 @@ Every profile has this summary, condensed on its card and in full at the top of 
 | Summary | 2–3 punchy sentences, ≤ 300 characters |
 | Fun fact | One surprising, sourced fact |
 
-Then: key accomplishments · the story · why it matters today · debates and assessments (where relevant) · an optional "popular misconception" card · sources · image credit · related people · "mark as read" · "report a mistake" (opens the feedback form tagged with the profile).
+Then: key accomplishments · the story · debates and assessments (where relevant) · why it matters today, always the last section · an optional "popular misconception" card · sources · image credit · related people · "mark as read" · "report a mistake" (opens the feedback form tagged with the profile).
 
 **Voice** ([docs/STYLE.md](docs/STYLE.md)): stories open with a hook (a "did you know", a question, a twist), then explain what happened; short, concrete, for a 15-year-old; the facts and §7 rules don't change.
 

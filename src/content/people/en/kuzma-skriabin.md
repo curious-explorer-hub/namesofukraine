@@ -31,10 +31,10 @@ Kuzma was also known as a host. He presented the Hariacha Simka chart show (2000
 
 On 2 February 2015, near the village of Lozuvatka in the Dnipropetrovsk region, Kuzmenko’s car collided with a milk tanker; according to the police, the car crossed into the oncoming lane on a bend. The singer died at the scene.
 
-## Why it matters today
-
-Andrii Kuzmenko took the Chervona Ruta stage in 1991, as Ukraine was becoming independent, and for more than a quarter of a century Skriabin was one of the voices a generation grew up with. A medical student from Sambir showed that you can follow your music all the way. And of the Euromaidan he said words that still matter today: “Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want.”
-
 ## Debates and assessments
 
 Posthumously he received the Order of Merit, 1st class (2015), and the title Hero of Ukraine (2020). The title stirred arguments on social media: to his fans he is a cult singer and a sharp critic of those in power, while critics point out that in 2004 he toured in support of Viktor Yanukovych.
+
+## Why it matters today
+
+Andrii Kuzmenko took the Chervona Ruta stage in 1991, as Ukraine was becoming independent, and for more than a quarter of a century Skriabin was one of the voices a generation grew up with. A medical student from Sambir showed that you can follow your music all the way. And of the Euromaidan he said words that still matter today: “Now everyone knows that the Ukrainian people can, at some moment, come out and stand up for what they want.”

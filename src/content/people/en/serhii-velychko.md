@@ -25,10 +25,10 @@ Serhii was born in Kharkiv in 1994. He was one of the leaders of the city’s ul
 
 At the start of the full-scale invasion in 2022, Velychko and Kostiantyn Nemichev founded Kraken in Kharkiv, a special unit working under Ukraine’s Defence Intelligence (HUR). In 2024 a petition asking for him to be made a Hero of Ukraine was backed by more than 25,000 people.
 
-## Why it matters today
-
-A few words shouted by Kharkiv football fans in the spring of 2014 became a way for many people to say they were not afraid of the aggressor. Mocking the dictator showed that Ukraine would not bow, even before it went into battle. Serhii Velychko’s story shows how the football terraces of 2014 became one of the sources of the volunteer movement. And he himself went from the stands to the front and to a unit he built in his home city of Kharkiv.
-
 ## Debates and assessments
 
 On 5 August 2021 Ukraine’s Security Service (SBU) detained Velychko together with other members of the Kharkiv National Corps. Investigators suspected them of setting up a criminal organisation that extorted money from local businesses, and a court remanded them in custody. Velychko called the case fabricated, and the National Corps called it political persecution. In late February 2022, after the invasion began, he was released from custody so that he could fight. Some outlets report that the case was closed in 2022 and the suspects cleared; other reports do not mention any court ruling. In 2024 the researcher Andrew Miller cited Velychko’s release and his command of Kraken among examples of Ukraine drawing people who had faced criminal cases into its wartime defence, and warned of the risks of that practice.
+
+## Why it matters today
+
+A few words shouted by Kharkiv football fans in the spring of 2014 became a way for many people to say they were not afraid of the aggressor. Mocking the dictator showed that Ukraine would not bow, even before it went into battle. Serhii Velychko’s story shows how the football terraces of 2014 became one of the sources of the volunteer movement. And he himself went from the stands to the front and to a unit he built in his home city of Kharkiv.

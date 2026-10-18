@@ -31,10 +31,10 @@ He signed his work “Petro Poltava”. He wrote about the ideas of the Ukrainia
 
 On 23 December 1951 MGB troops came upon his kryivka, an underground hideout, in the forest near the village of Novoshyn. Sources differ on whether Petro Fedun was killed in the fight or shot himself to avoid capture. He was 32.
 
-## Why it matters today
-
-Petro Poltava showed that independence is fought for not only with weapons but with words: his pamphlets explained why Ukraine needed a state of its own and what it should be like. He joined the idea of independence to a demand for social justice and thought about how to govern a state that did not yet exist. His path from Red Army lieutenant to ideologist of the underground shows how the war forced young people to choose a side. His writings, republished in independent Ukraine, help us understand what the Ukrainian underground lived for.
-
 ## Debates and assessments
 
 The OUN and the UPA, which Fedun helped lead, are judged in very different ways. In 2015 Ukraine's parliament passed a law recognizing members of the OUN and the UPA as fighters for Ukraine's independence in the 20th century; in Poland the law sparked debate. In 2016 the Polish Sejm called the killings of Poles by Ukrainian nationalists in Volhynia and other parts of today's western Ukraine during the Second World War a genocide; the same resolution also mentions killings of Ukrainians by Polish nationalists. Fedun himself led the OUN's propaganda, and some of his writings are propaganda pamphlets.
+
+## Why it matters today
+
+Petro Poltava showed that independence is fought for not only with weapons but with words: his pamphlets explained why Ukraine needed a state of its own and what it should be like. He joined the idea of independence to a demand for social justice and thought about how to govern a state that did not yet exist. His path from Red Army lieutenant to ideologist of the underground shows how the war forced young people to choose a side. His writings, republished in independent Ukraine, help us understand what the Ukrainian underground lived for.
