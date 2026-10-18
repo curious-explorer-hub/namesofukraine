@@ -19,10 +19,11 @@ places:
   - { name: "Сандармох", lat: 62.861, lon: 34.728, note: "місце розстрілу, 1937" }
 image:
   src: ./images/myroslav-irchan.jpg
-  alt: "Мирослав Ірчан у капелюсі, з люлькою, близько 1928 року"
-  author: "Невідомий автор"
+  alt: "Мирослав Ірчан у капелюсі й піджаку, Вінніпег, 1926 рік"
+  author: "Джордж Павлюк (фотостудія Pauliuk's Studio, Вінніпег)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Myroslav_Irchan.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Myroslav_Irchan,_Winnipeg.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Близько 25 книжок прози: про українських січових стрільців, галицьке село й життя емігрантів в Америці"
   - "П'єси «Родина щіткарів», «Підземна Галичина», «Дванадцять» - для українських робітничих сцен Канади"
@@ -37,7 +38,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CI%5CR%5CIrchanMyroslav.htm"
 related: [mykola-kulish, les-kurbas, ivan-franko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T17:19:38Z
 ---
 
 ## Хлопець із П'ядик

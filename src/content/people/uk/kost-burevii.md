@@ -28,6 +28,7 @@ image:
   author: "Невідомий автор (фотокопія, Архів-музей імені Дмитра Антоновича УВАН у США)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Кость_Буревій2.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія історії України - Буревій (Буровій) Кость Степанович (автор - Г. П. Герасимова)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Burevij_K"
@@ -39,7 +40,8 @@ sources:
     url: "https://zbruc.eu/node/30591"
 related: [mykola-khvylovyi, mykhail-semenko, mykhailo-boichuk, oleksa-vlyzko, dmytro-falkivskyi, hryhorii-kosynka]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T17:25:16Z
 ---
 
 ## Поет, якого не існувало

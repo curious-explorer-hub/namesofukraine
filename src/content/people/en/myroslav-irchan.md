@@ -10,7 +10,7 @@ key_accomplishments:
   - "Editor of the magazines Robitnytsia and Svit molodi in Winnipeg; head of the overseas branch of Hart (1924–1925)"
   - "Led the literary organization Zakhidnia Ukraina in Kharkiv and edited its journal"
 birthplace_name: "Piadyky"
-image_alt: "Myroslav Irchan in a hat, with a pipe, around 1928"
+image_alt: "Myroslav Irchan in a hat and jacket, Winnipeg, 1926"
 ---
 
 ## The boy from Piadyky
