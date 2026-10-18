@@ -310,7 +310,7 @@ test.describe('feedback form', () => {
 
   test('opens from a "Report a mistake" link with the kind and profile filled in', async ({ page }) => {
     await page.goto('/en/feedback/?type=correction&profile=roksolana#form');
-    await expect(page.getByLabel('A correction to a profile')).toBeChecked();
+    await expect(page.getByLabel('A correction or addition to a profile')).toBeChecked();
     await expect(page.locator('input[name="profile"]')).toHaveValue('roksolana');
     await expect.poll(() => turnstile.length).toBe(1);
   });
