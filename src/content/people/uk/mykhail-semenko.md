@@ -22,6 +22,7 @@ image:
   author: "О. Кореневич"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Mychaylo_Semenko.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Збірки «Дерзання» і «Кверофутуризм» з маніфестами, які започаткували український футуризм"
   - "Засновник футуристичних груп: «Флямінго», «Аспанфут», «Комункульт», «Нова генерація»"
@@ -41,7 +42,8 @@ sources:
     url: "https://zaxid.net/bezslavne_stolittya_n1515522"
 related: [taras-shevchenko, mykhailo-yalovyi, maik-yohansen, oleksa-slisarenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T02:30:17Z
 ---
 
 ## «Я палю свій „Кобзар“»

@@ -21,6 +21,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Софья_Налепинская_(cropped).jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Керувала ксилографічною майстернею поліграфічного факультету Київського художнього інституту (1922–1929)"
   - "Гравюри «Фабзаєць» (1925), «Дівчата з книжкою», «Голодні діти» (обидві - 1927), «Пацифікація Західної України» (1930)"
@@ -36,7 +37,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Софія_Налепинська-Бойчук
 related: [mykhailo-boichuk, taras-shevchenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T02:43:00Z
 ---
 
 ## Дівчина з Лодзі

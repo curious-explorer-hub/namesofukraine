@@ -21,6 +21,7 @@ image:
   author: "Іван Бугаєвський-Благодарний"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Borovikovsky_By_Bugaevsky_Blagodatny.jpg"
+  ai_edit: restored
 key_accomplishments:
   - "Розписи, ікони та іконостаси для храмів Полтавщини, портрети козацької старшини"
   - "Академік (1795) і радник (1802) Петербурзької академії мистецтв"
@@ -37,7 +38,8 @@ sources:
     url: "https://lb.ua/blog/art_calendar/302473_18_kvitnya_volodimir_borovikovskiy.html"
   - title: Вікіпедія - Боровиковський Володимир Лукич
     url: https://uk.wikipedia.org/wiki/Володимир_Боровиковський
-status: draft
+status: approved
+published: 2026-10-18T02:41:43Z
 ---
 
 ## Іконописець із Миргорода
