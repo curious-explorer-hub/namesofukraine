@@ -16,7 +16,7 @@ npm run feedback -- --since 2026-10-01
 npm run feedback -- --show-email      # only when you need to reply
 ```
 
-The script (`scripts/pull-feedback.mjs`) reads the database through wrangler with your wrangler login (`npx wrangler login` once) and prints a Markdown summary grouped by topic: new person, correction, photo, join the team, other. For each message it shows the profile and a link to it. Email addresses stay hidden unless you ask.
+The script (`scripts/pull-feedback.mjs`) reads the database through wrangler with your wrangler login (`npx wrangler login` once) and prints a Markdown summary grouped by topic: new person, correction or addition, join the team, other. For each message it shows the profile and a link to it. Email addresses stay hidden unless you ask.
 
 **Privacy:** submissions contain personal data (names, emails, sometimes about living people). Read them in the terminal or the Cloudflare dashboard (**Storage & Databases → D1 → namesofukraine-feedback → Console**); **never paste them into this public repository**, its issues or commit messages. Refer to a message by the short id the script prints (e.g. `3f9c2a1b`) when needed.
 

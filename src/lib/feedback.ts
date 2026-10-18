@@ -1,8 +1,10 @@
 // The feedback form (decision D19): one set of rules for the page, which pre-fills it, and for the Pages
 // Function (functions/api/feedback.ts), which checks every message before it is stored.
 
-export const FEEDBACK_TYPES = ['person', 'correction', 'photo', 'volunteer', 'other'] as const;
+export const FEEDBACK_TYPES = ['person', 'correction', 'volunteer', 'other'] as const;
 export type FeedbackType = (typeof FEEDBACK_TYPES)[number];
+// Kinds about the catalogue, which ask who it's about and for sources; the page hides those fields for the rest.
+export const SITE_EDIT_TYPES: readonly FeedbackType[] = ['person', 'correction'];
 
 // Longest accepted answers, also set as maxlength on the fields.
 export const FEEDBACK_LIMITS = { about: 200, message: 5000, sources: 2000, email: 200 } as const;
@@ -39,13 +41,15 @@ export function parseFeedback(form: FormData): Feedback | null {
   if (profile && !isProfileSlug(profile)) return null;
   for (const [name, value] of Object.entries(fields)) if (value.length > FEEDBACK_LIMITS[name as keyof typeof fields]) return null;
   if (fields.email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(fields.email)) return null;
+  // Answers typed into the hidden fields before switching to another kind aren't kept.
+  const siteEdit = SITE_EDIT_TYPES.includes(type);
   return {
     lang,
     type,
     profile: profile || null,
-    about: fields.about || null,
+    about: (siteEdit && fields.about) || null,
     message: fields.message,
-    sources: fields.sources || null,
+    sources: (siteEdit && fields.sources) || null,
     email: fields.email || null,
   };
 }

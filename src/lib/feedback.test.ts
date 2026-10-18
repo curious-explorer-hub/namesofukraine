@@ -25,6 +25,13 @@ describe('parseFeedback', () => {
     expect(parseFeedback(form({ lang: 'en', type: 'volunteer', message: 'I can translate' }))?.type).toBe('volunteer');
   });
 
+  it('drops who-it-is-about and sources for messages that are not about the catalogue', () => {
+    const parsed = parseFeedback(form({ lang: 'en', type: 'other', about: 'Les Kurbas', sources: 'https://example.com', message: 'Hi' }));
+    expect(parsed?.about).toBeNull();
+    expect(parsed?.sources).toBeNull();
+    expect(parseFeedback(form({ ...valid, about: 'Les Kurbas' }))?.about).toBe('Les Kurbas');
+  });
+
   it('rejects a missing message, an unknown kind or language, and a profile that is not a slug', () => {
     expect(parseFeedback(form({ ...valid, message: '   ' }))).toBeNull();
     expect(parseFeedback(form({ ...valid, type: 'spam' }))).toBeNull();

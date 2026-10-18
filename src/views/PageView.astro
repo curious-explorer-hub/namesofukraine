@@ -3,7 +3,7 @@ import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import License from '../components/License.astro';
 import { FEEDBACK_SITEKEY, SUPPORT_LINKS } from '../site';
-import { FEEDBACK_LIMITS, FEEDBACK_TYPES } from '../lib/feedback';
+import { FEEDBACK_LIMITS, FEEDBACK_TYPES, SITE_EDIT_TYPES } from '../lib/feedback';
 import { socialLinks, supportLinks } from '../lib/social';
 import { collections, localePath } from '../lib/people';
 import eras from '../content/eras.json';
@@ -155,12 +155,12 @@ const noPatrons = tiers.every((tier) => tier.patrons.length === 0);
                 <legend>{t('feedback.type', lang)}</legend>
                 {FEEDBACK_TYPES.map((type) => (
                   <label class="feedback-choice">
-                    <input type="radio" name="type" value={type} required />
+                    <input type="radio" name="type" value={type} required data-site-edit={SITE_EDIT_TYPES.includes(type) ? '' : undefined} />
                     {t(`feedback.type.${type}` as Key, lang)}
                   </label>
                 ))}
               </fieldset>
-              <label class="feedback-field">
+              <label class="feedback-field" data-site-edit>
                 <span>{t('feedback.about', lang)} <span class="feedback-optional">{t('feedback.optional', lang)}</span></span>
                 <input name="about" maxlength={FEEDBACK_LIMITS.about} placeholder={t('feedback.about_placeholder', lang)} />
               </label>
@@ -168,7 +168,7 @@ const noPatrons = tiers.every((tier) => tier.patrons.length === 0);
                 <span>{t('feedback.message', lang)}</span>
                 <textarea name="message" rows="6" required maxlength={FEEDBACK_LIMITS.message} placeholder={t('feedback.message_placeholder', lang)} />
               </label>
-              <label class="feedback-field">
+              <label class="feedback-field" data-site-edit>
                 <span>{t('feedback.sources', lang)} <span class="feedback-optional">{t('feedback.optional', lang)}</span></span>
                 <textarea name="sources" rows="2" maxlength={FEEDBACK_LIMITS.sources} placeholder="https://…" />
               </label>
