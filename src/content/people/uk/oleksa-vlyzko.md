@@ -26,6 +26,7 @@ image:
   author: "Невідомий автор (фронтиспис книжки «Збірка творів», т. 1, 1932)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Oleksa_Vlyzko.jpg"
+  ai_edit: colorized
 sources:
   - title: "Internet Encyclopedia of Ukraine - Vlyzko, Oleksa"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CL%5CVlyzkoOleksa.htm"
@@ -37,7 +38,8 @@ sources:
     url: "https://zbruc.eu/node/30591"
 related: [hryhorii-kosynka, dmytro-falkivskyi, kost-burevii]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T22:45:54Z
 ---
 
 ## Поет, який не чув

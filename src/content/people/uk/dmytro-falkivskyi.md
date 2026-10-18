@@ -26,6 +26,7 @@ image:
   author: "О. Кореневич (книжка «Письменники Радянської України», 1928)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Dmytro_Falkivskiy.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія історії України - Фальківський Дмитро Никанорович (автор - Г. П. Герасимова)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?Z21ID=&I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Falkivskyj_D"
@@ -37,7 +38,8 @@ sources:
     url: "https://uinp.gov.ua/dekomunizaciya-ta-reabilitaciya/pereliku-osib-ta-podiy-shcho-mistyat-symvoliku-rosiyskoyi-imperskoyi-polityky"
 related: [hryhorii-kosynka, oleksa-vlyzko, kost-burevii]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T22:47:17Z
 ---
 
 ## Поет із прізвищем, якого не було
