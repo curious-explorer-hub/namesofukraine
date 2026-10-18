@@ -114,7 +114,7 @@ The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/e
    ```
 4. Deploy (push to `main`), then send a test message from the live page and check it arrives with `npm run feedback`.
 
-**Trying it locally with the server part:** `npm run dev` shows the form but has no `/api/feedback`. To run the function too: `npm run build`, then `npx wrangler pages dev dist --d1 DB=namesofukraine-feedback --binding TURNSTILE_SECRET=1x0000000000000000000000000000000AA` (Cloudflare's always-passing test secret; apply `db/feedback.sql` to the local database first with `npx wrangler d1 execute namesofukraine-feedback --local --file=db/feedback.sql`).
+**Locally:** `npm run dev` shows the form, but the function doesn't run there, so sending ends with «Не вдалося надіслати…»; that's expected. The unit tests cover the function (`src/lib/feedback-api.test.ts`) and the smoke tests the page; try a real message on the live site after a deploy.
 
 **Turning the form off:** set `FEEDBACK_SITEKEY` in `src/site.ts` to `''` and push; the page then says the form is coming soon.
 
