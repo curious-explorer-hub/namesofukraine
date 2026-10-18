@@ -23,11 +23,12 @@ places:
   - { name: "Соловки", lat: 65.025, lon: 35.71, note: "ув'язнення, 1935–1937" }
 image:
   src: ./images/heo-shkurupii.jpg
-  alt: "Гео Шкурупій у темному костюмі й краватці, дивиться вбік, чорно-біле фото 1928 року"
+  alt: "Гео Шкурупій у темному костюмі й краватці, дивиться вбік, фото 1928 року"
   position: "50% 20%"
   author: "О. Кореневич"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Heo_Schkurpiy.jpg"
+  ai_edit: colorized
 sources:
   - title: "Internet Encyclopedia of Ukraine - Shkurupii, Geo (автор - I. Koshelivets)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CH%5CShkurupiiGeo.htm"
@@ -37,7 +38,8 @@ sources:
     url: "https://zaxid.net/geo_shkurupiy_biografiya_tsikavi_fakti_poet_avangardist_rozstrilyanogo_vidrodzhennya_n1635063"
 related: [mykhail-semenko, valerian-polishchuk, mykola-zerov, oleksandr-dovzhenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T23:32:31Z
 ---
 
 ## Король футуропрерій

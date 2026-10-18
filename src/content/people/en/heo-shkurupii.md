@@ -11,7 +11,7 @@ key_accomplishments:
   - "Screenplays for the films The Blue Packet (1926) and Spartacus (1927)"
   - "Editor of Avanhard, the almanac of the Kyiv branch of Nova Generatsiia"
 birthplace_name: "Bendery (now Moldova)"
-image_alt: "Heo Shkurupii in a dark suit and tie, looking to the side, black-and-white photo of 1928"
+image_alt: "Heo Shkurupii in a dark suit and tie, looking to the side, photo of 1928"
 ---
 
 ## The king of the futuro-prairies
