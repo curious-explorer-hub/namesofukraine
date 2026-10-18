@@ -18,6 +18,24 @@ key_accomplishments:
 birthplace: { name: "Кременчук", region: poltava, country: UA, lat: 49.068, lon: 33.420 }
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "обороняв місто 2022 року, там і загинув" }
+image:
+  src: ./images/maksym-kahal.jpg
+  alt: "Максим Кагал у камуфляжі й синьому береті з кубком і дипломом на тлі тризуба"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://24tv.ua/30-rokiv-prozhiv-yak-90-istoriya-maksima-kagala-zagiblogo-boyah_n2019670"
+  ai_edit: restored
+  fair_use: true
+gallery:
+  - src: ./images/maksym-kahal-champion.jpg
+    alt: "Максим Кагал у футболці збірної України з медалями на шиї, стоїть, стиснувши кулаки"
+    caption: "Максим Кагал із медалями, серед них нагороди чемпіонату світу ISKA 2014 року"
+    section: 1
+    fair_use: true
+    author: "Невідомий автор"
+    license: "Fair use"
+    source_url: "https://www.ukrinform.ua/rubric-ato/3863657-pamati-starsogo-lejtenanta-ngu-maksima-kagala-pozivnij-piston.html"
 sources:
   - title: "Енциклопедія Сучасної України - Кагал Максим Володимирович"
     url: "https://esu.com.ua/article-77659"
@@ -25,9 +43,12 @@ sources:
     url: "https://zakon.rada.gov.ua/laws/show/201/2022"
   - title: "Спортивний комітет України, «Янголи спорту» - Максим Кагал"
     url: "https://yangoly-sportu.teamukraine.com.ua/maksym-kagal/"
+  - title: "Укрінформ - Пам'яті старшого лейтенанта НГУ Максима Кагала (позивний «Пістон»)"
+    url: "https://www.ukrinform.ua/rubric-ato/3863657-pamati-starsogo-lejtenanta-ngu-maksima-kagala-pozivnij-piston.html"
 related: [denys-prokopenko, vitalii-hrytsaienko]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-18T23:55:40Z
 ---
 
 ## Чемпіон з Кременчука
@@ -36,7 +57,7 @@ status: draft
 
 ## Від рингу до «Азову»
 
-Наступного, 2015 року Максим пішов до «Азову» й воював на сході України. Побратими знали його під позивним «Пістон».
+Наступного, 2015 року Максим приєднався до лав «Азову» та вирушив захищати схід України під позивним «Пістон». Прагнучи вберегти матір від зайвих хвилювань, він запевнив її, ніби прямує до столиці працювати в приватній охороні. Проте через специфіку служби зв'язок із ним періодично зникав, і занепокоєна Тетяна звернулася до оператора мобільного зв'язку, де дізналася вражаючу деталь - останній сигнал його мобільного запеленгували на Чонгарі. Невдовзі син вийшов на зв'язок і пообіцяв особисто розставити всі крапки над «і», тож матері довелося змиритися з його рішенням. З того часу «Азов» перетворився для Максима на головний сенс життя, а звання бійця цього підрозділу стало для нього предметом особливої гордості.
 
 ## Маріуполь, 2022
 

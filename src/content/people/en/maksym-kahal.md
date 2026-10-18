@@ -10,6 +10,10 @@ key_accomplishments:
   - "Commanded a platoon in the defence of Mariupol in 2022"
   - "Hero of Ukraine (posthumously; Decree No. 201/2022)"
 birthplace_name: "Kremenchuk"
+image_alt: "Maksym Kahal in camouflage and a blue beret, holding a cup and a diploma in front of a trident"
+gallery:
+  - alt: "Maksym Kahal in a Ukraine team T-shirt with medals round his neck, standing with his fists clenched"
+    caption: "Maksym Kahal with his medals, among them those from the 2014 ISKA world championships"
 ---
 
 ## A champion from Kremenchuk
@@ -18,7 +22,7 @@ Maksym Kahal was born in 1991 in Kremenchuk and grew up living for sport: he pla
 
 ## From the ring to Azov
 
-The next year, 2015, Maksym joined Azov and fought in eastern Ukraine. His comrades knew him by the call sign Piston.
+The next year, 2015, Maksym joined Azov and went to defend eastern Ukraine under the call sign Piston. To spare his mother worry, he told her he was going to the capital to work in private security. But on duty he often couldn't be reached, and his anxious mother, Tetiana, turned to his mobile operator, where she learned a striking detail: his phone had last been picked up at Chonhar, near Crimea. Soon her son got in touch and promised to explain everything in person, and she had to accept his decision. From then on Azov became the meaning of Maksym's life, and he was especially proud to be one of its fighters.
 
 ## Mariupol, 2022
 
