@@ -22,11 +22,12 @@ places:
   - { name: "Сандармох", lat: 62.861, lon: 34.728, note: "місце розстрілу, 3 листопада 1937" }
 image:
   src: ./images/hryhorii-epik.jpg
-  alt: "Григорій Епік у кашкеті й кожусі з хутряним коміром, чорно-біле фото"
+  alt: "Григорій Епік у кашкеті й кожусі з хутряним коміром"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Hryhorii-epik.jpg"
+  ai_edit: colorized
 sources:
   - title: "Internet Encyclopedia of Ukraine - Epik, Hryhorii (автор - I. Koshelivets)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CE%5CP%5CEpikHryhorii.htm"
@@ -38,7 +39,8 @@ sources:
     url: "https://mediateka.suspilne.media/media/7516"
 related: [mykola-khvylovyi, mykola-kulish, valerian-pidmohylnyi, valerian-polishchuk, mykola-zerov, les-kurbas]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T23:15:09Z
 ---
 
 ## Свій для влади?

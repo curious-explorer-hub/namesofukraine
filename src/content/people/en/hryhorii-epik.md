@@ -10,7 +10,7 @@ key_accomplishments:
   - "Member of the literary organizations Pluh, VAPLITE and Prolitfront"
   - "Director of the State Literary Publishing House in Kharkiv"
 birthplace_name: "Kamianka (Katerynoslav governorate)"
-image_alt: "Hryhorii Epik in a cap and a sheepskin coat with a fur collar, black-and-white photo"
+image_alt: "Hryhorii Epik in a cap and a sheepskin coat with a fur collar"
 ---
 
 ## One of the regime’s own?
