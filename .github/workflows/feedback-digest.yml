@@ -26,7 +26,8 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_D1_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: node scripts/pull-feedback.mjs --show-email > "$RUNNER_TEMP/digest.md"
-      # Gmail over SMTP with curl, so no third-party action or package is needed.
+      # Gmail over SMTP with curl, so no third-party action or package is needed. Google shows app passwords
+      # in groups of four ("abcd efgh ..."); the spaces are dropped in case they were pasted too.
       - name: Email the digest
         env:
           MAIL_USER: ${{ secrets.FEEDBACK_MAIL_USER }}
@@ -42,6 +43,6 @@ jobs:
             cat "$digest"
           } > "$RUNNER_TEMP/mail.txt"
           curl --silent --show-error --ssl-reqd --url 'smtps://smtp.gmail.com:465' \
-            --user "$MAIL_USER:$MAIL_PASSWORD" --mail-from "$MAIL_USER" --mail-rcpt "$MAIL_TO" \
+            --user "$MAIL_USER:${MAIL_PASSWORD// /}" --mail-from "$MAIL_USER" --mail-rcpt "$MAIL_TO" \
             --upload-file "$RUNNER_TEMP/mail.txt"
           echo "Sent the digest ($count message(s))."
