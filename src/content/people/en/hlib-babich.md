@@ -11,6 +11,7 @@ key_accomplishments:
   - "Co-founder of the volunteer initiative “Res_Publica. Brothers in Arms”, which helped Ukrainian army units"
   - "After 24 February 2022, served in the Kyiv Territorial Defence; worked on fielding the mobile optical-electronic reconnaissance systems “Loki”"
 birthplace_name: "Mykolaiv"
+image_alt: "Hlib Babich in military uniform and a beret"
 ---
 
 ## Why “Lazybones”?

@@ -15,6 +15,7 @@ image:
   src: ./images/stepan-chobanu.jpg
   alt: "Степан Чобану в льотному шоломі в кабіні винищувача, 2008"
   position: "50% 40%"
+  ai_edit: restored
   author: "Ivanstepanivch"
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:МайорЧобану.jpg"
@@ -32,7 +33,8 @@ sources:
   - title: "АрміяInform - Віддав життя в битві за українське небо"
     url: "https://armyinform.com.ua/2022/03/08/viddav-zhyttya-v-bytvi-za-ukrayinske-nebo/"
 related: [oleksandr-oksanchenko]
-status: draft
+status: approved
+published: 2026-10-18T01:51:10Z
 ---
 
 ## Над Хрещатиком

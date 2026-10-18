@@ -19,6 +19,15 @@ places:
   - { name: "Санкт-Петербург", lat: 59.939, lon: 30.316, note: "кадетський корпус; випробування ракет і їхнє серійне виробництво" }
   - { name: "Браїлів (Бреїла)", lat: 45.27, lon: 27.957, note: "облога турецької фортеці з ракетами, 1828" }
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "останні роки життя; тут помер 1837 року" }
+image:
+  src: ./images/oleksandr-zasiadko.jpg
+  alt: "Уявний портрет Олександра Засядька в темно-зеленому мундирі із золотим шиттям і хрестами, створений ШІ за давнім рисованим портретом"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://lenta.ua/vid-kozatskih-raket-do-haymarsiv-yak-vihodets-iz-poltavshchini-200-rokiv-tomu-stvoriv-prototip-suchasnoyi-rszv-150368/"
+  ai_edit: generated
+  fair_use: true
 key_accomplishments:
   - "З 1815 року розробив бойові порохові ракети, запалювальні й фугасні, з дальністю понад 2 кілометри"
   - "Сконструював пускові станки для однієї ракети і для залпу з шести ракет"
@@ -35,7 +44,8 @@ sources:
   - title: "Gazetteer of Planetary Nomenclature (IAU, USGS) - Zasyadko"
     url: "https://planetarynames.wr.usgs.gov/Feature/6706"
 related: []
-status: draft
+status: approved
+published: 2026-10-18T01:51:10Z
 ---
 
 ## Чому горіли копиці?

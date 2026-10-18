@@ -14,6 +14,7 @@ key_accomplishments:
   - "Founded an artillery school and became its first director"
   - "A lunar crater was named after him (1976)"
 birthplace_name: "Liutenka, Poltava Oblast"
+image_alt: "Imagined portrait of Oleksandr Zasiadko in a dark green uniform with gold embroidery and crosses, made by AI from an old drawn portrait"
 ---
 
 ## Why were the haystacks burning?
