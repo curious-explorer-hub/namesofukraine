@@ -21,6 +21,7 @@ image:
   author: "О. Кореневич"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Oleksa_Slisarenko_(1928).jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Поетичні збірки «На березі Кастальському» (1919), «Поеми» (1923), «Байда» (1928)"
   - "Понад 20 гостросюжетних оповідань і романів, серед них «Чорний ангел» (1929), «Хлібна ріка» і «Страйк» (1932)"
@@ -38,7 +39,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Олекса_Слісаренко
 related: [mykola-khvylovyi, mykola-kulish, valerian-pidmohylnyi, valerian-polishchuk]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T02:23:06Z
 ---
 
 ## Агроном зі Слобожанщини

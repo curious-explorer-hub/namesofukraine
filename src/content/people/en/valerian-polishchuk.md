@@ -11,7 +11,7 @@ key_accomplishments:
   - "The short novels Hryhorii Skovoroda (1929) and A Tale of Metal and Coal (1931), about the Donbas"
   - "Translations of Arthur Rimbaud, John Reed and Alexander Blok"
 birthplace_name: "Bilche"
-image_alt: "Valerian Polishchuk, 1928"
+image_alt: "Valerian Polishchuk in a dark suit and bow tie"
 ---
 
 ## The boy from Volhynia

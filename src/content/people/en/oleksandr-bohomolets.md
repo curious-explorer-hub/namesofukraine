@@ -11,7 +11,7 @@ key_accomplishments:
   - "An antireticular cytotoxic serum that brought him international recognition"
   - "Founded institutes in Kyiv that became the Institute of Physiology named after him in 1953"
 birthplace_name: "Kyiv"
-image_alt: "Photographic portrait of Oleksandr Bohomolets"
+image_alt: "Oleksandr Bohomolets, a grey-haired man in a dark suit, sitting in a wicker chair"
 ---
 
 ## Born behind bars

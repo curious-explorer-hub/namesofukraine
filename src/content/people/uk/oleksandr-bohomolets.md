@@ -17,10 +17,13 @@ places:
   - { name: "Москва", lat: 55.756, lon: 37.617, note: "професор університету й директор інституту гематології, 1925–1931" }
 image:
   src: ./images/oleksandr-bohomolets.jpg
-  alt: "Фотопортрет Олександра Богомольця"
+  alt: "Олександр Богомолець, сивий чоловік у темному костюмі, сидить у плетеному кріслі"
+  position: "45% 20%"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Oleksander_Bohomolets.jpg"
+  license: "Fair use"
+  source_url: "https://uain.press/blogs/oleksandr-bogomolets-zhyty-do-150-rokiv-1245498"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Президент Академії наук УРСР (1930–1946)"
   - "Засновник великої школи патофізіологів"
@@ -37,7 +40,8 @@ sources:
   - title: "Радіо Свобода - «Розмова на часі»: Ольга Богомолець (2003)"
     url: "https://www.radiosvoboda.org/a/905265.html"
 related: [illia-mechnykov, volodymyr-vernadskyi]
-status: draft
+status: approved
+published: 2026-10-18T02:17:22Z
 ---
 
 ## Народжений за ґратами

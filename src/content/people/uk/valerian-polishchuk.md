@@ -19,10 +19,11 @@ places:
   - { name: "Сандармох", lat: 62.861, lon: 34.728, note: "місце розстрілу, 1937" }
 image:
   src: ./images/valerian-polishchuk.jpg
-  alt: "Валер'ян Поліщук, 1928 рік"
+  alt: "Валер'ян Поліщук у темному костюмі й краватці-метелику"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Valerian_Polishyk.png"
+  source_url: "https://commons.wikimedia.org/wiki/File:Polishchuk-valerian.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Заснував мистецьке об'єднання «Гроно» в Києві (1920) і літературну групу «Авангард» у Харкові (1925)"
   - "Теоретичні праці «Літературний авангард» (1926) і «Пульс эпохи» (1927) - програма «конструктивного динамізму»"
@@ -40,7 +41,8 @@ sources:
     url: "https://ror.gov.ua/vidatni-diyachi/pismenniki"
 related: [valerian-pidmohylnyi, hryhorii-skovoroda, mykola-khvylovyi, mykola-zerov, mykola-kulish, oleksa-slisarenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T02:24:24Z
 ---
 
 ## Хлопець із Волині
