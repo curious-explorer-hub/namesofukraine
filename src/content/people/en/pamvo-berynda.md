@@ -11,7 +11,7 @@ key_accomplishments:
   - "Printer, editor and translator at the Kyiv Cave Monastery press"
   - "Engraver: his engravings bear the monogram “ПБ”"
 birthplace_name: "Unknown (near Sambir by some accounts, Yezupil by others)"
-image_alt: "Title page of Pamvo Berynda’s Slavonic-Ruthenian Lexicon, Kyiv Cave Monastery, 1627"
+image_alt: "Pamvo Berynda with a quill over an open book, woodcut"
 ---
 
 ## A printer we know little about

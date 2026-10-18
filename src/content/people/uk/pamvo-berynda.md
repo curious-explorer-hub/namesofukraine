@@ -18,11 +18,13 @@ places:
   - { name: "Києво-Печерська лавра", lat: 50.434, lon: 30.557, note: "з 1616–1619 років; «Лексикон», 1627; похований тут" }
 image:
   src: ./images/pamvo-berynda.jpg
-  alt: "Титульна сторінка «Лексикону славеноросского» Памва Беринди, Києво-Печерська лавра, 1627"
+  alt: "Памво Беринда з гусячим пером над розгорнутою книгою, гравюра"
   position: "50% 30%"
-  author: "Друкарня Києво-Печерської лаври (1627)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Pamva_Berynda_1627.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://portalhistoryua.com/personality/pamvo-berynda/"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "«Лексикон славеноросский і імен толкованіє» (1627) - близько 7 тисяч слів, пояснених тодішньою українською мовою"
   - "Готував книжки в Стрятинській і Крилоській друкарнях: Служебник (1604), Требник, Євангеліє (1606)"
@@ -37,7 +39,8 @@ sources:
   - title: Вікіпедія - Памво Беринда
     url: https://uk.wikipedia.org/wiki/Памво_Беринда
 related: [ivan-fedorov]
-status: draft
+status: approved
+published: 2026-10-18T23:27:42Z
 ---
 
 ## Друкар, про якого мало відомо
