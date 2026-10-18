@@ -2,11 +2,11 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/serhii-velychko.md
 name: "Serhii Velychko"
 role: "Metalist ultra, Azov veteran"
-summary: "The whole world knows the chant “Putin — kh#ilo!” (roughly “Putin is a d#ckhead”), and Kharkiv football fan Serhii Velychko, call sign Chili, is considered one of its authors. In 2014 he volunteered for Azov, and in 2022 he co-founded the military intelligence unit Kraken."
+summary: "The whole world knows the chant “Putin - kh#ilo!” (roughly “Putin is a d#ckhead”), and Kharkiv football fan Serhii Velychko, call sign Chili, is considered one of its authors. In 2014 he volunteered for Azov, and in 2022 he co-founded the military intelligence unit Kraken."
 fun_fact: "On 30 March 2022 a Russian general claimed that Velychko and Nemichev had been taken prisoner. The same day both commanders disproved it with a video from Kharkiv."
 key_accomplishments:
   - "One of the leaders of Metalist’s Kharkiv ultras, who defended the Euromaidan protest in Kharkiv in 2014"
-  - "One of the authors of the chant “Putin — kh#ilo!”, first sung in Kharkiv on 30 March 2014"
+  - "One of the authors of the chant “Putin - kh#ilo!”, first sung in Kharkiv on 30 March 2014"
   - "Volunteer in the Azov regiment (2014–2015)"
   - "In 2022 co-founded the military intelligence special unit Kraken with Kostiantyn Nemichev"
 birthplace_name: "Kharkiv"
@@ -15,7 +15,7 @@ image_alt: "Serhii Velychko in uniform with his arms folded"
 
 ## The chant the world picked up
 
-Where did “Putin — kh#ilo!”, the rude chant that became a symbol of defiance against Putin, come from? Fans of Kharkiv’s Metalist first shouted it on 30 March 2014, at a joint march with supporters of Shakhtar Donetsk. One of its authors is considered to be a Kharkiv man, Serhii Velychko, call sign Chili. He says it started out as a terrace “hit” about the president of Dynamo Kyiv; when fans of rival clubs united, they rewrote it about the main enemy. “And then it took off,” he says.
+Where did “Putin - kh#ilo!”, the rude chant that became a symbol of defiance against Putin, come from? Fans of Kharkiv’s Metalist first shouted it on 30 March 2014, at a joint march with supporters of Shakhtar Donetsk. One of its authors is considered to be a Kharkiv man, Serhii Velychko, call sign Chili. He says it started out as a terrace “hit” about the president of Dynamo Kyiv; when fans of rival clubs united, they rewrote it about the main enemy. “And then it took off,” he says.
 
 ## From the terraces to the front
 
