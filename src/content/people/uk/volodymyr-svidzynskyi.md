@@ -22,11 +22,12 @@ places:
   - { name: "Непокрите", lat: 50.072, lon: 36.622, note: "за свідченнями очевидців, місце загибелі, 18 жовтня 1941" }
 image:
   src: ./images/volodymyr-svidzynskyi.jpg
-  alt: "Молодий Володимир Свідзинський у вишитій сорочці й темному піджаку, чорно-біле фото"
+  alt: "Молодий Володимир Свідзинський у вишитій сорочці й темному піджаку"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Свідзинський_В.jpg"
+  ai_edit: colorized
 sources:
   - title: "Internet Encyclopedia of Ukraine - Svidzinsky, Volodymyr (автор - B. Kravtsiv)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CV%5CSvidzinskyVolodymyr.htm"
@@ -36,7 +37,8 @@ sources:
     url: "https://archive.chytomo.com/news/volodimir-svidzinskij-malovidomi-fakti"
 related: [vasyl-stus, liudmyla-starytska-cherniakhivska, ivan-dniprovskyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-18T17:59:36Z
 ---
 
 ## Поет, який обрав мовчання

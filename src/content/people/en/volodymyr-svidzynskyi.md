@@ -10,7 +10,7 @@ key_accomplishments:
   - "Translations of Hesiod, Aesop, Ovid and Aristophanes, and of French, German and Polish poetry"
   - "A study of Podillia carpet weaving (an article of 1916)"
 birthplace_name: "Maianiv"
-image_alt: "A young Volodymyr Svidzynskyi in an embroidered shirt and a dark jacket, black-and-white photo"
+image_alt: "A young Volodymyr Svidzynskyi in an embroidered shirt and a dark jacket"
 ---
 
 ## The poet who chose silence
