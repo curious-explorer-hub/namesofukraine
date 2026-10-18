@@ -1,13 +1,13 @@
-// Prints a Markdown summary of feedback-form submissions (Tally) for the weekly review in docs/MAINTENANCE.md.
-// Reads the API key from $TALLY_API_KEY or ~/.tally-key. Prints to the terminal only: submissions contain
-// personal data, so never commit the output to this public repository.
+// Prints a Markdown summary of feedback-form messages for the weekly review in docs/MAINTENANCE.md.
+// Reads them from the D1 database (decision D19, db/feedback.sql) through wrangler, with your wrangler
+// login (`npx wrangler login`). Prints to the terminal only: messages contain personal data, so never
+// commit the output to this public repository.
 //
 // Usage: npm run feedback -- [--since YYYY-MM-DD] [--show-email]
-import { readFileSync } from 'node:fs';
-import { homedir } from 'node:os';
-import { join } from 'node:path';
+import { execFileSync } from 'node:child_process';
+import uk from '../src/i18n/uk.json' with { type: 'json' };
 
-const FORM_ID = 'A7Vpkl'; // https://tally.so/r/A7Vpkl (see src/site.ts)
+const DATABASE = 'namesofukraine-feedback';
 const SITE = 'https://namesofukraine.com';
 const args = process.argv.slice(2);
 const sinceArg = args.includes('--since') ? args[args.indexOf('--since') + 1] : null;
@@ -15,53 +15,31 @@ const showEmail = args.includes('--show-email');
 const since = sinceArg ? new Date(`${sinceArg}T00:00:00Z`) : new Date(Date.now() - 7 * 864e5);
 if (Number.isNaN(since.getTime())) throw new Error('--since must be a date like 2026-10-01');
 
-const key = (process.env.TALLY_API_KEY ?? readFileSync(join(homedir(), '.tally-key'), 'utf8')).trim();
-const headers = { Authorization: `Bearer ${key}`, 'User-Agent': 'namesofukraine-maintenance/1.0' };
+const query = (sql) =>
+  JSON.parse(execFileSync('npx', ['--no-install', 'wrangler', 'd1', 'execute', DATABASE, '--remote', '--json', '--command', sql], { encoding: 'utf8' }))[0]
+    .results;
 
-async function fetchAll() {
-  const out = { questions: [], submissions: [] };
-  for (let page = 1; ; page++) {
-    const res = await fetch(`https://api.tally.so/forms/${FORM_ID}/submissions?page=${page}&limit=100`, { headers });
-    if (!res.ok) throw new Error(`Tally API ${res.status}: ${await res.text()}`);
-    const data = await res.json();
-    if (page === 1) out.questions = data.questions;
-    out.submissions.push(...data.submissions);
-    if (!data.hasMore) return out;
-  }
-}
+// `since` is a parsed date, so the ISO string is safe to put into the query.
+const recent = query(`SELECT * FROM feedback WHERE created >= '${since.toISOString()}' ORDER BY created`);
+const [{ total }] = query('SELECT COUNT(*) AS total FROM feedback');
 
-const { questions, submissions } = await fetchAll();
-// Question titles by id; hidden fields (lang, type, profile) arrive as their own answers.
-const title = new Map();
-const options = new Map();
-for (const q of questions) {
-  if (q.type === 'HIDDEN_FIELDS') for (const f of q.fields ?? []) title.set(f.uuid ?? f.id, f.title ?? f.name);
-  else title.set(q.id, (q.title ?? '').split(' / ')[0]);
-  for (const f of q.fields ?? []) for (const o of f.options ?? []) options.set(o.id, o.text);
-}
-const answerText = (a) =>
-  Array.isArray(a) ? a.map((x) => options.get(x) ?? (typeof x === 'object' ? JSON.stringify(x) : x)).join(', ') : String(a ?? '');
-
-const recent = submissions.filter((s) => s.isCompleted && new Date(s.submittedAt) >= since);
 const groups = new Map();
-for (const s of recent) {
-  const fields = Object.fromEntries(s.responses.map((r) => [title.get(r.questionId) ?? r.questionId, answerText(r.answer)]));
-  const topic = (fields['Про що ваше повідомлення?'] || fields.type || 'Інше').split(' / ')[0];
+for (const row of recent) {
+  const topic = uk[`feedback.type.${row.type}`] ?? row.type;
   if (!groups.has(topic)) groups.set(topic, []);
-  groups.get(topic).push({ s, fields });
+  groups.get(topic).push(row);
 }
 
-console.log(`# Feedback since ${since.toISOString().slice(0, 10)}: ${recent.length} submission(s) (of ${submissions.length} in total)\n`);
-for (const [topic, items] of groups) {
-  console.log(`## ${topic} (${items.length})\n`);
-  for (const { s, fields } of items) {
-    console.log(`### ${s.submittedAt.slice(0, 10)} · submission ${s.id}`);
-    if (fields.profile) console.log(`- **Profile:** ${fields.profile} (${SITE}/${fields.lang || 'uk'}/people/${fields.profile}/)`);
-    for (const [k, v] of Object.entries(fields)) {
-      if (!v || ['lang', 'type', 'profile', 'Про що ваше повідомлення?'].includes(k)) continue;
-      const shown = /e-mail/i.test(k) && !showEmail ? '(given; run with --show-email to see it)' : v.replace(/\n+/g, ' ');
-      console.log(`- **${k}:** ${shown}`);
-    }
+console.log(`# Feedback since ${since.toISOString().slice(0, 10)}: ${recent.length} message(s) (of ${total} in total)\n`);
+for (const [topic, rows] of groups) {
+  console.log(`## ${topic} (${rows.length})\n`);
+  for (const row of rows) {
+    console.log(`### ${row.created.slice(0, 10)} · message ${row.id.slice(0, 8)} · ${row.lang}`);
+    if (row.profile) console.log(`- **Profile:** ${row.profile} (${SITE}/${row.lang}/people/${row.profile}/)`);
+    if (row.about) console.log(`- **About:** ${row.about}`);
+    console.log(`- **Message:** ${row.message.replace(/\n+/g, ' ')}`);
+    if (row.sources) console.log(`- **Sources:** ${row.sources.replace(/\n+/g, ' ')}`);
+    if (row.email) console.log(`- **Email:** ${showEmail ? row.email : '(given; run with --show-email to see it)'}`);
     console.log('');
   }
 }

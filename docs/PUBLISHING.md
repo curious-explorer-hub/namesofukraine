@@ -92,15 +92,31 @@ Repository protections (protected `main`, approval for outside contributors' wor
 
 `namesofukraine.com` is registered at Cloudflare Registrar (auto-renew on) and added under the Pages project's **Custom domains**; `site` in `astro.config.mjs` uses it for canonical URLs and the sitemap. `www.namesofukraine.com` and `namesofukraine.pages.dev` redirect to it with an account-level Cloudflare Bulk Redirect (`_redirects` can't match on the host name).
 
-## The feedback form (Tally)
+## The feedback form
 
-The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/en/feedback/`) embeds one bilingual Tally form: **<https://tally.so/r/A7Vpkl>**, in the owner's Tally workspace (free plan). Every profile ends with a "Report a mistake" link that opens the page as `/feedback/?type=correction&profile=<slug>`; the page passes `lang`, `type` and `profile` into the form as **hidden fields** (`src/lib/suggest.ts`), so each response shows which profile it's about.
+The page «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`, `/en/feedback/`) has the site's own form (decision D19), in `src/views/PageView.astro` with its script in `src/scripts/feedback.ts`. Every profile ends with a "Report a mistake" link that opens the page as `/feedback/?type=correction&profile=<slug>`, and Support's "join the team" opens it as `?type=volunteer`; the page ticks that choice and sends the profile along in a hidden field.
 
-**Questions** (bilingual labels): what the message is about (new person / correction to a profile / photo or other addition / something else, required) · who it's about (optional) · the message (required) · sources or links (optional) · email for a reply (optional) · reCAPTCHA. Email notifications for new responses go to the owner's Tally account.
+**Fields:** what the message is about (new person / correction to a profile / photo or other addition / I'd like to join the team / something else, required) · who it's about (optional) · the message (required) · sources or links (optional) · email for a reply (optional). Limits and kinds are in `src/lib/feedback.ts`, shared by the page and the server.
 
-**Editing:** change questions in the Tally dashboard; keep the three hidden fields with exactly these names. Responses are under the form's **Submissions** tab (they can also go to a Google Sheet via Integrations).
+**How a message travels:** the page posts it to `POST /api/feedback`, a Cloudflare Pages Function (`functions/api/feedback.ts`) deployed with the site by the same `wrangler pages deploy`. It refuses posts from other sites, checks the fields and the Cloudflare **Turnstile** token (the spam check, usually invisible; it loads only once the reader starts filling in the form), and adds a row to the D1 database `namesofukraine-feedback` (table in `db/feedback.sql`). Nothing is emailed: read messages with `npm run feedback` ([MAINTENANCE.md](MAINTENANCE.md)).
 
-**Turning the form off:** set `SUGGEST_FORM_URL` in `src/site.ts` to `''` and push; the page then says the form is coming soon.
+**Cloudflare setup (once, by the owner):**
+
+1. Create the database and its table:
+   ```sh
+   npx wrangler d1 create namesofukraine-feedback
+   npx wrangler d1 execute namesofukraine-feedback --remote --file=db/feedback.sql
+   ```
+2. In the dashboard: **Workers & Pages → namesofukraine → Settings → Bindings → Add → D1 database**, variable name `DB`, database `namesofukraine-feedback` (Production; Preview too if you use preview deploys).
+3. **Turnstile → Add widget:** hostnames `namesofukraine.com` and `localhost`, mode **Managed**. Put the **site key** (public) in `FEEDBACK_SITEKEY` in `src/site.ts`, and save the **secret key** as a Pages secret:
+   ```sh
+   npx wrangler pages secret put TURNSTILE_SECRET --project-name=namesofukraine
+   ```
+4. Deploy (push to `main`), then send a test message from the live page and check it arrives with `npm run feedback`.
+
+**Trying it locally with the server part:** `npm run dev` shows the form but has no `/api/feedback`. To run the function too: `npm run build`, then `npx wrangler pages dev dist --d1 DB=namesofukraine-feedback --binding TURNSTILE_SECRET=1x0000000000000000000000000000000AA` (Cloudflare's always-passing test secret; apply `db/feedback.sql` to the local database first with `npx wrangler d1 execute namesofukraine-feedback --local --file=db/feedback.sql`).
+
+**Turning the form off:** set `FEEDBACK_SITEKEY` in `src/site.ts` to `''` and push; the page then says the form is coming soon.
 
 Answer corrections from or about living people promptly (product_vision.md §7.6).
 

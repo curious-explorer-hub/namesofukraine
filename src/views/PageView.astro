@@ -2,14 +2,14 @@
 import { getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import License from '../components/License.astro';
-import { SUGGEST_FORM_URL, SUPPORT_LINKS } from '../site';
-import { suggestEmbedUrl } from '../lib/suggest';
+import { FEEDBACK_SITEKEY, SUPPORT_LINKS } from '../site';
+import { FEEDBACK_LIMITS, FEEDBACK_TYPES } from '../lib/feedback';
 import { socialLinks, supportLinks } from '../lib/social';
 import { collections, localePath } from '../lib/people';
 import eras from '../content/eras.json';
 import hero from '../content/hero.json';
 import tiers from '../content/patrons.json';
-import { t, type Lang } from '../i18n';
+import { t, type Key, type Lang } from '../i18n';
 
 interface Props {
   lang: Lang;
@@ -136,14 +136,58 @@ const noPatrons = tiers.every((tier) => tier.patrons.length === 0);
   {
     page === 'suggest' && (
       <section class="suggest-form" id="form" aria-label={t('suggest.form_label', lang)}>
-        {SUGGEST_FORM_URL ? (
+        {FEEDBACK_SITEKEY ? (
           <>
-            {/* The form (about 1.7 MB from Tally) loads on request, or at once when the reader came to write
-                (a "Tell us" link on a profile, ?type=); without JavaScript it is embedded as before. */}
-            <button class="suggest-open" type="button" data-suggest-open>{t('suggest.write', lang)}</button>
-            <iframe data-suggest-form data-src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} data-lang={lang} title={t('suggest.form_label', lang)} hidden />
-            <noscript><iframe src={suggestEmbedUrl(SUGGEST_FORM_URL, { lang })} title={t('suggest.form_label', lang)} loading="lazy" /></noscript>
-            <p><a href={SUGGEST_FORM_URL}>{t('suggest.open_form', lang)}</a></p>
+            <form
+              class="feedback"
+              action="/api/feedback"
+              method="post"
+              data-feedback
+              data-sitekey={FEEDBACK_SITEKEY}
+              data-lang={lang}
+              data-msg-sending={t('feedback.sending', lang)}
+              data-msg-wait={t('feedback.wait', lang)}
+              data-msg-error={t('feedback.error', lang)}
+            >
+              <input type="hidden" name="lang" value={lang} />
+              <input type="hidden" name="profile" value="" />
+              <fieldset class="feedback-field">
+                <legend>{t('feedback.type', lang)}</legend>
+                {FEEDBACK_TYPES.map((type) => (
+                  <label class="feedback-choice">
+                    <input type="radio" name="type" value={type} required />
+                    {t(`feedback.type.${type}` as Key, lang)}
+                  </label>
+                ))}
+              </fieldset>
+              <label class="feedback-field">
+                <span>{t('feedback.about', lang)} <span class="feedback-optional">{t('feedback.optional', lang)}</span></span>
+                <input name="about" maxlength={FEEDBACK_LIMITS.about} placeholder={t('feedback.about_placeholder', lang)} />
+              </label>
+              <label class="feedback-field">
+                <span>{t('feedback.message', lang)}</span>
+                <textarea name="message" rows="6" required maxlength={FEEDBACK_LIMITS.message} placeholder={t('feedback.message_placeholder', lang)} />
+              </label>
+              <label class="feedback-field">
+                <span>{t('feedback.sources', lang)} <span class="feedback-optional">{t('feedback.optional', lang)}</span></span>
+                <textarea name="sources" rows="2" maxlength={FEEDBACK_LIMITS.sources} placeholder="https://…" />
+              </label>
+              <label class="feedback-field">
+                <span>{t('feedback.email', lang)} <span class="feedback-optional">{t('feedback.optional', lang)}</span></span>
+                <input name="email" type="email" autocomplete="email" maxlength={FEEDBACK_LIMITS.email} placeholder="name@example.com" />
+                <small>{t('feedback.email_note', lang)}</small>
+              </label>
+              <div class="feedback-check" data-feedback-check />
+              <noscript><p class="suggest-pending">{t('feedback.noscript', lang)}</p></noscript>
+              <div class="feedback-actions">
+                <button class="feedback-send" type="submit">{t('feedback.send', lang)}</button>
+                <p class="feedback-status" role="status" data-feedback-status />
+              </div>
+            </form>
+            <div class="feedback-done" data-feedback-done tabindex="-1" hidden>
+              <h2>{t('feedback.thanks_title', lang)}</h2>
+              <p>{t('feedback.thanks', lang)}</p>
+            </div>
           </>
         ) : (
           <p class="suggest-pending">{t('suggest.form_pending', lang)}</p>
@@ -154,19 +198,7 @@ const noPatrons = tiers.every((tier) => tier.patrons.length === 0);
 </BaseLayout>
 
 <script>
-  // A "Report a mistake" link on a profile opens /feedback/?type=correction&profile=<slug>: pass that on
-  // to the embedded form, so the message arrives tagged with the profile, and open the form at once.
-  import { suggestEmbedUrl } from '../lib/suggest';
-  const frame = document.querySelector<HTMLIFrameElement>('[data-suggest-form]');
-  const open = document.querySelector<HTMLButtonElement>('[data-suggest-open]');
-  const params = new URLSearchParams(location.search);
-  if (frame && open) {
-    const load = () => {
-      frame.src = suggestEmbedUrl(frame.dataset.src!, { lang: frame.dataset.lang ?? 'uk', type: params.get('type'), profile: params.get('profile') });
-      frame.hidden = false;
-      open.remove();
-    };
-    if (params.has('profile') || params.has('type')) load();
-    else open.addEventListener('click', () => { load(); frame.focus(); });
-  }
+  import { initFeedback } from '../scripts/feedback';
+  const form = document.querySelector<HTMLFormElement>('form[data-feedback]');
+  if (form) initFeedback(form);
 </script>

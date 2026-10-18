@@ -1,9 +1,10 @@
 // Site-wide settings the owner may change.
 
-// Feedback form «Зворотний зв'язок» / "Feedback" (decision D17: Tally), created on 2026-10-04 in the
-// owner's Tally workspace. It has hidden fields `lang`, `type` and `profile`, which the site fills in
-// (src/lib/suggest.ts). Set to '' to hide the form; the page then says it's coming soon.
-export const SUGGEST_FORM_URL = 'https://tally.so/r/A7Vpkl';
+// Feedback form «Зворотний зв'язок» / "Feedback" (decision D19): the page's own form, sent to the Pages
+// Function functions/api/feedback.ts. This is the public site key of its Cloudflare Turnstile widget (spam
+// check); the matching secret is a Pages secret, never in the repo. Set to '' to hide the form; the page
+// then says it's coming soon.
+export const FEEDBACK_SITEKEY = '0x4AAAAAAFZr_lIFmcwO5_9B';
 
 // Social accounts (product_vision.md §3.6, AC17; BACKLOG L11), shown on About and the Support page. A link appears only once its
 // URL is set, so there are no dead links before the accounts exist.

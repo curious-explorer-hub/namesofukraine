@@ -14,7 +14,7 @@ Factual errors in profiles aren't security issues: use the suggestion form on th
 - **Deploys** happen only from `main`, after every check in `.github/workflows/ci.yml` passes. The Cloudflare token lives only in GitHub's encrypted Actions secrets and is limited to Cloudflare Pages.
 - **Secrets never enter the repository:** GitHub secret scanning with push protection blocks commits that contain credentials, and CI fails if the deploy folder contains repository files or secrets (`scripts/check-dist.mjs`).
 - **Dependencies:** Dependabot alerts and security updates are on; CI fails on any new, unreviewed advisory (`scripts/check-audit.mjs`).
-- **The website** is static files only (no server, database or login), served with a strict Content-Security-Policy (`public/_headers`).
+- **The website** is static files (no login), served with a strict Content-Security-Policy (`public/_headers`). The one piece of server code is the feedback form's Pages Function (`functions/api/feedback.ts`, D19): it accepts posts only from the site's own pages and only with a passed Cloudflare Turnstile check, and stores messages in Cloudflare D1. Its Turnstile secret is a Cloudflare Pages secret, never in the repository; the database holds readers' emails, so it is never exported into the repository.
 
 ## For the owner
 

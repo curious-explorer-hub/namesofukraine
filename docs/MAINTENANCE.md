@@ -6,7 +6,7 @@ Recurring work that keeps the site accurate and alive. Publishing mechanics are 
 
 ### Weekly: review feedback (about 30–60 minutes, e.g. every Monday)
 
-Readers send messages through «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`), a Tally form (<https://tally.so/r/A7Vpkl>). Every profile links to it with the profile pre-filled.
+Readers send messages through «Зворотний зв'язок» / "Feedback" (`/uk/feedback/`), the site's own form; messages are stored in the Cloudflare D1 database `namesofukraine-feedback` (D19, [PUBLISHING.md](PUBLISHING.md)). Every profile links to it with the profile pre-filled.
 
 #### 1. Pull the submissions
 
@@ -16,9 +16,9 @@ npm run feedback -- --since 2026-10-01
 npm run feedback -- --show-email      # only when you need to reply
 ```
 
-The script (`scripts/pull-feedback.mjs`) reads the Tally API key from `$TALLY_API_KEY` or `~/.tally-key` and prints a Markdown summary grouped by topic: new person, correction, photo, other. For each submission it shows the profile and a link to it. Email addresses stay hidden unless you ask.
+The script (`scripts/pull-feedback.mjs`) reads the database through wrangler with your wrangler login (`npx wrangler login` once) and prints a Markdown summary grouped by topic: new person, correction, photo, join the team, other. For each message it shows the profile and a link to it. Email addresses stay hidden unless you ask.
 
-**Privacy:** submissions contain personal data (names, emails, sometimes about living people). Read them in the terminal or the Tally dashboard; **never paste them into this public repository**, its issues or commit messages. Refer to a submission by its id (e.g. `EqrD1LL`) when needed.
+**Privacy:** submissions contain personal data (names, emails, sometimes about living people). Read them in the terminal or the Cloudflare dashboard (**Storage & Databases → D1 → namesofukraine-feedback → Console**); **never paste them into this public repository**, its issues or commit messages. Refer to a message by the short id the script prints (e.g. `3f9c2a1b`) when needed.
 
 #### 2. Triage each submission
 
@@ -28,7 +28,7 @@ The script (`scripts/pull-feedback.mjs`) reads the Tally API key from `$TALLY_AP
 | **Correction** | Treat as a claim to verify, not a fact: check the profile against ≥ 2 reputable sources (encyclopedias first; product_vision.md §7.3). Fix if confirmed, in **both** `uk` and `en` files. If the sources disagree, keep the better-sourced value and mention the other. |
 | **Photo or addition** | Use only images that are public domain or freely licensed, or with written permission from the rights holder. Keep the permission (email) privately; credit as agreed. |
 | **Living people** | Removal or correction requests by or about a living person go first and are answered within days (§7.6). |
-| **Spam or abuse** | Delete in Tally. |
+| **Spam or abuse** | Delete it: `npx wrangler d1 execute namesofukraine-feedback --remote --command "DELETE FROM feedback WHERE id LIKE '3f9c2a1b%'"` (the short id from the script). |
 
 #### 3. Propose the edits
 

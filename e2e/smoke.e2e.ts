@@ -277,31 +277,51 @@ test('the language switch names the other language in the language of the page',
 });
 
 test.describe('feedback form', () => {
-  // Tally is never contacted from tests; only whether the page asks for it.
-  test.beforeEach(({ page }) => page.route('https://tally.so/**', (route) => route.fulfill({ body: '' })));
-
-  test('loads only after "Write to us" is clicked', async ({ page }) => {
-    const tally: string[] = [];
-    page.on('request', (r) => r.url().startsWith('https://tally.so/') && tally.push(r.url()));
-    await page.goto('/uk/feedback/');
-    const frame = page.locator('iframe[data-suggest-form]');
-    await expect(frame).toBeHidden();
-    await expect(frame).not.toHaveAttribute('src');
-    expect(tally).toEqual([]);
-
-    await page.getByRole('button', { name: 'Написати нам' }).click();
-    await expect(frame).toBeVisible();
-    await expect(frame).toHaveAttribute('src', /^https:\/\/tally\.so\//);
-    await expect(page.getByRole('button', { name: 'Написати нам' })).toHaveCount(0);
+  // Turnstile and the Pages Function are never contacted from tests: a stand-in widget passes at once,
+  // and /api/feedback is answered here (dist/ is served without functions).
+  const turnstile: string[] = [];
+  test.beforeEach(async ({ page }) => {
+    turnstile.length = 0;
+    page.on('request', (r) => r.url().startsWith('https://challenges.cloudflare.com/') && turnstile.push(r.url()));
+    await page.route('https://challenges.cloudflare.com/**', (route) =>
+      route.fulfill({
+        contentType: 'text/javascript',
+        body: `window.turnstile = { render(el) { el.innerHTML = '<input type="hidden" name="cf-turnstile-response" value="test">'; }, reset() {} };`,
+      }),
+    );
   });
 
-  test('opens at once from a "Report a mistake" link, tagged with the profile', async ({ page }) => {
+  test('contacts Turnstile only once the reader starts writing, then sends and thanks', async ({ page }) => {
+    let sent: string | null = null;
+    await page.route('**/api/feedback', (route) => {
+      sent = route.request().postData();
+      return route.fulfill({ json: { ok: true } });
+    });
+    await page.goto('/uk/feedback/');
+    expect(turnstile).toEqual([]);
+
+    await page.getByLabel('Нова людина').check();
+    await page.getByLabel('Ваше повідомлення').fill('Пропоную Лесю Курбаса');
+    await expect.poll(() => turnstile.length).toBe(1);
+    await page.getByRole('button', { name: 'Надіслати' }).click();
+    await expect(page.getByRole('heading', { name: 'Дякуємо!' })).toBeVisible();
+    expect(sent).toContain('Пропоную Лесю Курбаса');
+  });
+
+  test('opens from a "Report a mistake" link with the kind and profile filled in', async ({ page }) => {
     await page.goto('/en/feedback/?type=correction&profile=roksolana#form');
-    const frame = page.locator('iframe[data-suggest-form]');
-    await expect(frame).toBeVisible();
-    await expect(frame).toHaveAttribute('src', /profile=roksolana/);
-    await expect(frame).toHaveAttribute('src', /type=correction/);
-    await expect(page.getByRole('button', { name: 'Write to us' })).toHaveCount(0);
+    await expect(page.getByLabel('A correction to a profile')).toBeChecked();
+    await expect(page.locator('input[name="profile"]')).toHaveValue('roksolana');
+    await expect.poll(() => turnstile.length).toBe(1);
+  });
+
+  test('keeps the text when sending fails', async ({ page }) => {
+    await page.route('**/api/feedback', (route) => route.fulfill({ status: 500, json: { error: 'server' } }));
+    await page.goto('/en/feedback/?type=other');
+    await page.getByLabel('Your message').fill('Hello');
+    await page.getByRole('button', { name: 'Send' }).click();
+    await expect(page.locator('[data-feedback-status]')).toContainText("Couldn't send");
+    await expect(page.getByLabel('Your message')).toHaveValue('Hello');
   });
 });
 

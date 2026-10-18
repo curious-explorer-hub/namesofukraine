@@ -106,7 +106,7 @@ About (mission, selection criteria, privacy) · Image credits · a friendly 404 
 | Images | Astro image optimization; free portraits self-hosted with credits |
 | Share cards | Built at build time (Satori + resvg + sharp, `src/lib/og.ts`) |
 | Theme | `light-dark()` colour tokens; `public/theme.js` sets it before paint (the CSP allows no inline scripts) |
-| Forms | Tally, embedded (D17) |
+| Forms | The site's own feedback form; one Pages Function (`functions/api/feedback.ts`) checks it with Cloudflare Turnstile and stores it in Cloudflare D1 (D19) |
 | Hosting | Cloudflare Pages ($0), deployed by GitHub Actions after all checks ([docs/PUBLISHING.md](docs/PUBLISHING.md)) |
 | Analytics | Cloudflare Web Analytics (no cookies) |
 | Security | Strict CSP and headers (`public/_headers`), `dist/` check, `npm audit`, Dependabot ([docs/SECURITY.md](docs/SECURITY.md)) |
@@ -136,8 +136,9 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | 2026-09-29 | D14 | **Categories:** one `group` per person + many `tags`. Groups: `statehood`, `literature`, `visual-arts`, `performing-arts`, `science`, `civic`, `faith`, `sport`, `defenders` (`src/content/categories.json`). |
 | 2026-10-06 | D15 | **Map:** a static SVG of the oblasts drawn at build time, no tiles or third-party requests, tied to the filters. (Replaced Leaflet/MapLibre.) |
 | 2026-10-05 | D16 | **Portraits in full colour** everywhere on the site; the cobalt treatment remains only on share cards. Commissioned illustrations for featured figures later, if ever. |
-| 2026-09-29 | D17 | **Feedback form:** Tally (free, spam protection, no login). |
+| 2026-09-29 | D17 | **Feedback form:** Tally (free, spam protection, no login). *Replaced by D19.* |
 | 2026-10-08 | D18 | **Videos in profiles:** YouTube videos (`videos` in the uk file) show as a card in the story; nothing loads from YouTube until the reader presses play, then the player (youtube-nocookie.com) replaces the card in place. Without JS the card links to YouTube. CSP: `frame-src` allows youtube-nocookie.com. |
+| 2026-10-17 | D19 | **Feedback form on the site itself** (replaces D17; the embedded Tally form couldn't match the site's design or theme and weighed about 1.7 MB). A plain HTML form in the site's style posts to one **Cloudflare Pages Function**, `POST /api/feedback`, the site's only server code: it accepts posts from the site's own pages only, checks the fields (`src/lib/feedback.ts`) and a **Cloudflare Turnstile** token, and stores the message in **Cloudflare D1** (`namesofukraine-feedback`). Turnstile loads only once the reader starts filling in the form; nothing else is contacted. No email notifications: the owner reads messages weekly with `npm run feedback`. All on the free tier. |
 | 2026-09-29 | G4 | Selection criteria per §7. |
 | 2026-09-29 | — | **Content before promotion:** soft launch on `pages.dev`; buy the domain before promoting widely. |
 | 2026-09-29 | — | **Dates:** new style (Gregorian) from 1582; earlier dates as in the sources (Julian). |
@@ -187,7 +188,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 | Controversy (selection, contested figures, "Ukrainian" claims) | Medium | Published criteria, neutral tone, debates sections, precise origins (§7) |
 | Image copyright | Medium | Free or permitted images only, per-file licenses, initials until resolved; the 8 fair-use portraits come down on request (D6) |
 | Uneven portrait quality | Medium | AI colorizing/restoring from the credited photo, checked against the original (D6) |
-| Form spam | Medium | Tally spam protection |
+| Form spam | Medium | Cloudflare Turnstile, same-origin check and length limits in the Pages Function (D19) |
 | Deploy pipeline unavailable | Low | Manual deploy from a laptop ([docs/PUBLISHING.md](docs/PUBLISHING.md)) |
 
 ## 9. Costs
@@ -225,3 +226,4 @@ Closed backlog items, by ID; details are in git history.
 | 2026-10-09 | Collections on the profile page (I27): a «Добірки» / "Spotlights" row in the facts panel links each of the person's collections to the home page with it selected; collection descriptions (I28): the selected collection's `description` shows under the cards, changes with the selection and goes when the card is released (also from a shared link) |
 | 2026-10-09 | Quotes on profiles (I23): a `quotes` list in the uk file (text and source; the English in the en file, same order) shows as «Відомі цитати» / "Famous quotes" in the side panel, ` / ` marking line breaks in verse; one quote per profile, picked by the owner at review (the stash may hold several per person); first on Skovoroda, Lesya Ukrainka, Chornovil and Kotsiubailo, the rest stashed for review in `docs/QUOTES-STASH.md` |
 | 2026-10-10 | Social posts (L13, D13-E): daily posts to Threads and Instagram (@names_of_ukraine) through the official APIs, from a monthly plan (`social/YYYY-MM.txt`, line N = day N, Kyiv date, 07:00 UTC); Threads gets the share card and a link, Instagram a 4:5 card (name and role, `/og/instagram/<slug>.jpg`) and the address as plain text; manual runs with a profile link, dry run by default; only live profiles; tokens in GitHub Secrets, refresh in MAINTENANCE.md; plans for October–December |
+| 2026-10-17 | Feedback form on the site (D19): the page's own form in both themes and languages replaces the Tally embed; `POST /api/feedback` (Pages Function) checks it with Turnstile and stores it in D1; a «Хочу долучитися до команди» / "I'd like to join the team" choice (L11); `npm run feedback` reads D1 |

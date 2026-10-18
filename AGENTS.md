@@ -14,7 +14,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - Content: Markdown + frontmatter in content collections, validated by zod (`src/content.config.ts`).
 - Tests: Vitest (unit and happy-dom), Playwright (smoke tests in `e2e/`), Lighthouse budget (`lighthouserc.json`).
 - Share cards: Satori + resvg at build time (`src/lib/og.ts`). Map: a static SVG built at build time (`src/lib/map.ts`, `src/lib/world.ts`).
-- Hosting: Cloudflare Pages, deployed by GitHub Actions. Forms: Tally (embedded). Analytics: Cloudflare Web Analytics.
+- Hosting: Cloudflare Pages, deployed by GitHub Actions. Feedback form: the site's own form, stored in Cloudflare D1 by one Pages Function (`functions/api/feedback.ts`), spam check by Cloudflare Turnstile (D19). Analytics: Cloudflare Web Analytics.
 - Node 22 (`.nvmrc`). Runtime dependencies: `astro`, `@astrojs/rss`, `@astrojs/sitemap`, and nothing else.
 
 ## Layout
@@ -30,7 +30,8 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/i18n/{uk,en}.json` | UI strings (same keys in both, tested) |
 | `src/pages/{uk,en}/` | Thin routes; layouts live in `src/views/` |
 | `src/components/`, `src/lib/`, `src/scripts/` | Components; build-time helpers; browser scripts |
-| `src/site.ts` | Site settings (form, social and donation URLs) |
+| `src/site.ts` | Site settings (feedback-form site key, social and donation URLs) |
+| `functions/api/feedback.ts`, `db/feedback.sql` | The feedback form's Pages Function and its D1 table (D19) |
 | `public/_headers`, `public/_redirects` | CSP and security headers; redirects |
 | `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), feedback pull, Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`; `preview-social.mjs` previews a post) |
 
@@ -38,11 +39,11 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 | Doc | Read it for |
 |---|---|
-| [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D17 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
+| [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D19 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
 | [docs/BACKLOG.md](docs/BACKLOG.md) | Current status and open items (**start here to resume work**) |
 | [docs/STYLE.md](docs/STYLE.md) | How profiles are written: hook first, short, for readers of all ages |
 | [docs/CANDIDATES.md](docs/CANDIDATES.md) | People planned for future batches, with flags and editorial notes |
-| [docs/PUBLISHING.md](docs/PUBLISHING.md) | How a change goes live, CI, rollback, manual deploy, the Tally form |
+| [docs/PUBLISHING.md](docs/PUBLISHING.md) | How a change goes live, CI, rollback, manual deploy, the feedback form and its Cloudflare setup |
 | [docs/MAINTENANCE.md](docs/MAINTENANCE.md) | Recurring work: weekly feedback triage, corrections |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How outside people contribute: principles, pull requests, licensing |
 | [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting, access model for collaborators |
@@ -55,7 +56,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Comments only where they add something** the code can't say (a why, a constraint). No narration, no commented-out code.
 - **Both languages, always.** Every UI string goes in both `uk.json` and `en.json`; every profile change touches both files where the text differs.
 - **No inline scripts or styles that need `unsafe-inline`.** The CSP in `public/_headers` forbids them; use files in `src/scripts/` or `public/` (e.g. `public/theme.js`).
-- **Static only:** no server code, no third-party requests at runtime (fonts, map and images are self-hosted). The one exception is a YouTube player the reader starts by pressing play (D18).
+- **Static only:** no server code, no third-party requests at runtime (fonts, map and images are self-hosted). The exceptions: a YouTube player the reader starts by pressing play (D18), and the feedback form (D19), whose Pages Function is the only server code and whose Turnstile check loads only once the reader starts filling it in. Every file in `functions/` becomes a public route, so keep tests and helpers out of it.
 - **Nothing private in the repo:** no tokens, `.env` contents, emails or reader submissions. Don't rewrite git history.
 
 ## Content rules (summary of product_vision.md §7)
