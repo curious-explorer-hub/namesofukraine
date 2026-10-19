@@ -72,7 +72,14 @@ const people = defineCollection({
         quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
         // Photos in the story: each one closes the `section`-th `##` section of the bio (both languages
         // keep the same sections). `ai_edit` and `fair_use` as for `image`; `fair_use`: on the profile only.
-        gallery: z.array(z.object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), ai_edit: z.enum(['colorized', 'restored']).optional(), fair_use: z.boolean().optional(), ...credit })).default([]),
+        // A `generated` photo is an illustration made by AI, and needs `source_url` only if it was based on an image.
+        gallery: z
+          .array(
+            z
+              .object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), ai_edit: z.enum(['colorized', 'restored', 'generated']).optional(), fair_use: z.boolean().optional(), ...credit, source_url: webUrl.optional() })
+              .refine((g) => g.source_url || g.ai_edit === 'generated', { message: 'gallery source_url is required unless ai_edit is generated' }),
+          )
+          .default([]),
         // YouTube videos in the story, placed like `gallery`. Nothing loads from YouTube until the reader
         // presses play (D18); `source` is the channel or outlet that published the video.
         videos: z

@@ -11,6 +11,7 @@
   "video.note": "The video loads from YouTube",
   "person.image_restored": "restored with AI (Gemini)",
   "person.image_rendered": "turned into a photo-like image with AI (Gemini); not a real photograph",
+  "person.photo_generated": "generated with AI (Gemini); an imagined illustration, not a photograph",
   "person.image_generated": "generated with AI (Gemini), based on this image; an imagined portrait",
   "person.image_generated_unsourced": "generated with AI (Gemini) without a source image; an imagined portrait",
   "person.last_reviewed": "As of",
