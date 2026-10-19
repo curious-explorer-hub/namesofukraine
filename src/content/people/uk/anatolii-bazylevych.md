@@ -19,6 +19,24 @@ birthplace: { name: "Жмеринка", region: vinnytsia, country: UA, lat: 49.
 places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "навчання в художньому інституті, до 1953" }
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "робота з видавництвами, місце смерті, 2005" }
+image:
+  src: ./images/anatolii-bazylevych.jpg
+  alt: "Анатолій Базилевич із зачесаним назад темним волоссям, у синьому піджаку й сорочці, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-38855"
+  ai_edit: colorized
+  fair_use: true
+gallery:
+  - src: ./images/anatolii-bazylevych-eneida.webp
+    alt: "Обкладинка «Енеїди» Івана Котляревського: Еней у червоному жупані й чорній шапці, з шаблею за поясом, позаду козаки зі списами й червоні вітрила"
+    caption: "«Енеїда» з ілюстраціями Базилевича"
+    section: 1
+    author: "Анатолій Базилевич"
+    license: "Fair use"
+    source_url: "https://vogue.ua/article/culture/art/yak-hudozhnik-anatoliy-bazilevich-stvoriv-ilyustraciji-dlya-enejidi-48839.html"
+    fair_use: true
 sources:
   - title: "Енциклопедія Сучасної України - Базилевич Анатолій Дмитрович (автор - Д. В. Степовик)"
     url: "https://esu.com.ua/article-38855"
@@ -29,7 +47,8 @@ sources:
   - title: "Укрінформ - О. Рудяченко, «Анатолій Базилевич. Чи є прообраз у вічності?» (2020)"
     url: "https://www.ukrinform.ua/rubric-culture/3040103-anatolij-bazilevic-ci-e-proobraz-u-vicnosti.html"
 related: [ivan-kotliarevskyi, taras-shevchenko, ivan-franko, marko-vovchok, ivan-nechui-levytskyi]
-status: draft
+status: approved
+published: 2026-10-19T19:30:30Z
 ---
 
 ## Хто намалював Енея?

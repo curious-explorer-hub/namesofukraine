@@ -10,6 +10,10 @@ key_accomplishments:
   - "Illustrations to Taras Shevchenko's Little Kobzar (1969), Kotliarevskyi's Natalka Poltavka (1990) and Ukrainian folk tales"
   - "Honoured Art Worker of the Ukrainian SSR (for Eneida), People's Artist of Ukraine (1993)"
 birthplace_name: "Zhmerynka"
+image_alt: "Anatolii Bazylevych with dark hair combed back, in a blue jacket and shirt, portrait photograph"
+gallery:
+  - alt: "Cover of Ivan Kotliarevskyi's Eneida: Aeneas in a red zhupan and a black hat, a sabre at his belt, with Cossacks holding spears and red sails behind him"
+    caption: "Eneida with Bazylevych's illustrations"
 ---
 
 ## Who drew Aeneas?
