@@ -25,7 +25,7 @@ In 1775 Russian troops destroyed the Sich while Holovatyi was in Saint Petersbur
 
 ## An island taken from the boats
 
-In the Russo-Turkish War of 1787–1791 Holovatyi was the Host’s military judge and commanded its Cossack flotilla. In 1788 his men (about 800 of them, according to ArmyInform) captured the Turkish fortress on Berezan Island near Ochakiv. The flotilla went on to take part in capturing Tulcea, Isaccea, Kiliia and Izmail.
+In the Russo-Turkish War of 1787–1791 Holovatyi was the Host’s military judge and commanded its Cossack flotilla. In 1788 his men (about 800 of them, according to ArmyInform) captured the Turkish fortress on Berezan Island near Ochakiv. The flotilla went on to take part in capturing Tulcea, Isaccea, Kiliia and Izmail. Holovatyi’s awards included the Order of Saint George, 4th class, the Order of Saint Volodymyr, 3rd class, and a named sabre “For Bravery”.
 
 ## The road to the Kuban
 
