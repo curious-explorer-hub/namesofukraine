@@ -48,6 +48,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How outside people contribute: principles, pull requests, licensing |
 | [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting, access model for collaborators |
 | [docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md) | Licenses for text, images, map data, fonts; the fair-use exceptions |
+| [docs/skills/](docs/skills/) | Claude Code skills for this repo (linked from `.claude/skills`): `fact-hunt` finds verified interesting facts for profiles before review |
 
 ## Contribution principles
 
