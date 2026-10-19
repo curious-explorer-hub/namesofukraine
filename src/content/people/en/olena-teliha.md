@@ -21,15 +21,25 @@ Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into
 
 In 1934, at a party in Prague, someone began mocking the Ukrainian language. By her own account, printed in Vistnyk, Olena stood up, banged her fist on the table and shouted: “You boors! That dog’s language is my language! The language of my father and my mother! And I don’t want to know you any more!” From then on, she wrote, she spoke only Ukrainian.
 
+## Not a victim, but a force of nature
+
+Unlike many stereotypes of the time about women in literature, Olena Teliha was remarkably energetic, modern and full of life. She loved dancing and sport, dressed elegantly, and believed that a Ukrainian woman should be not a “victim” but a strong, active person, able to make history on an equal footing with men.
+
+Her poetry is so-called “vitalist” (life-affirming) lyric verse, full of passion, courage and the aesthetics of strong-willed nationalism.
+
 ## A poet of Vistnyk
 
 In 1923–1929 Olena studied at the Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw, where she taught at a Ukrainian school. From 1933 she published poems and essays in [Dmytro Dontsov](/en/people/dmytro-dontsov/)’s journal Vistnyk, and she saw the Ukrainian woman as an equal participant in the struggle for independence. In December 1939 Teliha joined the OUN and in Cracow worked with Oleh Olzhych in its cultural section, heading the Zarevo arts society.
 
 ## Kyiv, 1941
 
-She arrived in Nazi-occupied Kyiv with the OUN expeditionary groups on 22 October 1941. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She is believed to have saved the poet Yakiv Halperin from arrest. When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate. On 9 February 1942 the Gestapo arrested her at the Union’s premises.
+She arrived in Nazi-occupied Kyiv with the OUN expeditionary groups on 22 October 1941. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She is believed to have saved the poet Yakiv Halperin from arrest. When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate.
 
-Olena Teliha was executed in February 1942, most likely at Babyn Yar; the exact date is unknown. Her poems were published as a book only after her death, in the collection The Soul on Guard (1946).
+## Her husband followed her to her execution
+
+On 9 February 1942 the Gestapo arrested her at the Union’s premises. Her husband Mykhailo Teliha, a Kuban Cossack and bandura player who had never left her side since they met in Prague in 1924, was not a member of the Union. Even so, he voluntarily joined the arrested writers. On the wall of her cell at 33 Korolenka Street Olena scratched a trident and the words “Here sat, and from here goes to her execution, Olena Teliha.”
+
+The Nazis shot Mykhailo Teliha at Babyn Yar on 21 February 1942, and Olena the next day, 22 February (other sources say 21 February). Her poems were published as a book only after her death, in the collection The Soul on Guard (1946).
 
 ## Debates and assessments
 
