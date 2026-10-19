@@ -29,6 +29,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Dmytro_Doncow.jpg"
+  ai_edit: colorized
 sources:
   - title: "Internet Encyclopedia of Ukraine - Dontsov, Dmytro"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CD%5CO%5CDontsovDmytro.htm"
@@ -39,7 +40,8 @@ sources:
   - title: "Енциклопедія сучасної України - Донцов Дмитро Іванович (автор - Г. Грабович)"
     url: "https://esu.com.ua/article-20908"
 related: [mykola-mikhnovskyi, stepan-bandera, yevhen-konovalets, olena-teliha]
-status: draft
+status: approved
+published: 2026-10-19T17:20:49Z
 ---
 
 ## Як марксист із російськомовної родини став ідеологом націоналізму
