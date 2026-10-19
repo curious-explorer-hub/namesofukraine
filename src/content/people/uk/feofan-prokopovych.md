@@ -3,7 +3,7 @@ name: Феофан Прокопович
 gender: male
 born: 1681-06-18
 died: 1736-09-19
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: cossack
 group: faith
 tags: [religious, writer, philosopher]
@@ -18,11 +18,12 @@ places:
   - { name: "Санкт-Петербург", lat: 59.939, lon: 30.316, note: "проповідник і радник Петра I; тут помер" }
 image:
   src: ./images/feofan-prokopovych.jpg
-  alt: "Феофан Прокопович, архієпископ Новгородський, гравюра Вольфганга Крістофа Майра, XVIII ст."
+  alt: "Феофан Прокопович у чорному клобуку й червоній мантії з золотими хрестами, з панагією на грудях і жезлом у руці, живописний портрет XVIII століття"
   position: "50% 25%"
-  author: "Вольфганг Крістоф Майр (Rijksmuseum)"
-  license: "CC0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Portret_van_Feofan_Procopovi%C4%8D,_RP-P-1908-4700.jpg"
+  author: "Невідомий автор"
+  license: "Public domain"
+  source_url: "https://commons.wikimedia.org/wiki/File:Feofan_Prokopovich.jpg"
+  ai_edit: restored
 key_accomplishments:
   - "Трагікомедія «Володимир» (1705), присвячена гетьманові Мазепі"
   - "Ректор Києво-Могилянської академії (1711–1716)"
@@ -37,7 +38,8 @@ sources:
   - title: "А. Махінько - До історичного портрету Феофана Прокоповича («Сторінки історії», 2016, вип. 42)"
     url: "https://ela.kpi.ua/items/bd858098-7248-48b3-837a-1451bcfe3f62/full"
 related: [ivan-mazepa, volodymyr-velykyi]
-status: draft
+status: approved
+published: 2026-10-19T23:45:05Z
 ---
 
 ## Князь Володимир із обличчям гетьмана

@@ -11,7 +11,7 @@ key_accomplishments:
   - "The Spiritual Regulation (1721), the statute of the Synod that replaced the patriarchate"
   - "Vice-president of the Synod (from 1721), Archbishop of Novgorod (from 1725)"
 birthplace_name: "Kyiv"
-image_alt: "Feofan Prokopovych, Archbishop of Novgorod, engraving by Wolfgang Christoph Mayr, 18th century"
+image_alt: "Feofan Prokopovych in a black klobuk and a red mantle with gold crosses, a panagia on his chest and a staff in his hand, 18th-century painted portrait"
 ---
 
 ## Prince Volodymyr with a hetman’s face
