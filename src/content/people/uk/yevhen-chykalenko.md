@@ -3,7 +3,7 @@ name: Євген Чикаленко
 gender: male
 born: 1861-12-21
 died: 1929-06-20
-last_reviewed: 2026-10-14
+last_reviewed: 2026-10-19
 era: 20th-century
 group: civic
 tags: [entrepreneur, writer]
@@ -24,6 +24,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B8%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD_%D0%A5%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Фінансував перші українські щоденні газети Наддніпрянщини - «Громадську думку» (1906) і «Раду» (1906–1914)"
   - "Посібник «Розмови про сільське господарство» (1897), що розійшовся загальним накладом пів мільйона примірників"
@@ -40,7 +41,8 @@ sources:
   - title: "Радіо Свобода - О. Пеленська, «Євген Чикаленко: той, хто «любив батьківщину до глибини своєї кишені»» (20.06.2019)"
     url: "https://www.radiosvoboda.org/a/chykalenko-metsenat/30010904.html"
 related: [mykhailo-drahomanov, mykhailo-hrushevskyi, ivan-franko, mykhailo-kotsiubynskyi, volodymyr-vynnychenko, symon-petliura]
-status: draft
+status: approved
+published: 2026-10-19T23:41:13Z
 ---
 
 ## Землевласник під наглядом поліції
