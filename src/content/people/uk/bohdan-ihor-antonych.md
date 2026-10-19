@@ -31,6 +31,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Антонич_Б.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія Сучасної України - Антонич Богдан-Ігор"
     url: "https://esu.com.ua/article-42956"
@@ -41,7 +42,8 @@ sources:
   - title: "Освіта.ua - Богдан-Ігор Антонич, поезії зі збірки «Зелена Євангелія»"
     url: "https://osvita.ua/school/literature/a/66675/"
 related: [taras-shevchenko, ihor-kalynets]
-status: draft
+status: approved
+published: 2026-10-19T19:26:52Z
 ---
 
 ## Поет, який вписав себе у вірші
