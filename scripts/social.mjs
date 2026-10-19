@@ -92,9 +92,11 @@ export async function assertLive(url) {
   if (!res.ok) throw new Error(`${url} returned ${res.status}; only profiles live on the site can be posted`);
 }
 
-// Errors Meta returns without acting on the request, so a retry can't post twice: ones it marks transient, and
-// "media not found" for a post just published but not yet visible to the next call (e.g. a reply to it).
-const retryable = (error) => error?.is_transient === true || (error?.code === 24 && error?.error_subcode === 4279009);
+// Errors Meta returns without acting on the request, so a retry can't post twice: ones it marks transient,
+// "media not found" for a post just published but not yet visible to the next call (e.g. a reply to it), and
+// "invalid link attachment" when Threads fails to fetch the preview of a live link in the text.
+const retryable = (error) =>
+  error?.is_transient === true || (error?.code === 24 && error?.error_subcode === 4279009) || error?.error_subcode === 4279047;
 
 // A caller for one of Meta's Graph APIs (Threads or Instagram): query parameters, JSON reply, errors thrown.
 export const graphApi = (base, name, token) => async (path, params, method = 'POST') => {
