@@ -3,7 +3,7 @@ name: Іван Дніпровський
 gender: male
 born: 1895-03-09
 died: 1934-12-01
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: 20th-century
 group: literature
 tags: [writer, poet]
@@ -24,11 +24,12 @@ places:
   - { name: "Ялта", lat: 44.495, lon: 34.166, note: "місце смерті, 1934" }
 image:
   src: ./images/ivan-dniprovskyi.jpg
-  alt: "Іван Дніпровський у сорочці з широким білим коміром, чорно-білий фотопортрет"
+  alt: "Іван Дніпровський у темно-синій сорочці з широким світлим коміром, фотопортрет"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Іван_Дніпровський.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія Сучасної України - Дніпровський Іван (автор - М. К. Наєнко)"
     url: "https://esu.com.ua/article-22199"
@@ -37,7 +38,8 @@ sources:
   - title: "Херсонська обласна універсальна наукова бібліотека імені Олеся Гончара - «Дніпровський Іван Данилович»"
     url: "https://unalib.ks.ua/dniprovskiy-ivan-danilovich.htm"
 related: [mykola-kulish, mykola-khvylovyi]
-status: draft
+status: approved
+published: 2026-10-19T23:27:29Z
 ---
 
 ## Заборонений після смерті

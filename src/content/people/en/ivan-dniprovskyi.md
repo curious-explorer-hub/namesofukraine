@@ -11,7 +11,7 @@ key_accomplishments:
   - "The long poems Donbas (1922) and The Plough (1924)"
   - "Collected works in three volumes (1931–1933)"
 birthplace_name: "Kalanchak"
-image_alt: "Ivan Dniprovskyi in a shirt with a wide white collar, black-and-white photo portrait"
+image_alt: "Ivan Dniprovskyi in a dark blue shirt with a wide light collar, photo portrait"
 ---
 
 ## Banned after death
