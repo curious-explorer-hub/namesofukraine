@@ -24,11 +24,12 @@ places:
   - { name: "Мюнхен", lat: 48.137, lon: 11.575, note: "золота медаль за «Карусель», 1909" }
 image:
   src: ./images/oleksandr-murashko.jpg
-  alt: "Олександр Мурашко з густим кучерявим волоссям і бородою, у темному піджаку, сидить, тримаючи руку на коліні, чорно-біле фото"
+  alt: "Олександр Мурашко з густим кучерявим волоссям і бородою, у сірому піджаку, синьому жилеті й краватці-метелику, сидить, склавши руки"
   position: "50% 20%"
   author: "Невідомий фотограф"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Oleksandr_Murashko-1905.jpg"
+  ai_edit: colorized
 gallery:
   - src: ./images/oleksandr-murashko-hat.jpg
     alt: "Молода жінка в чорному вбранні та великому червоному капелюсі сидить за столиком, картина"
@@ -47,7 +48,8 @@ sources:
   - title: "Український інститут національної пам'яті - 1875 - народився Олександр Мурашко, живописець"
     url: "https://uinp.gov.ua/istorychnyy-kalendar/veresen/7/1875-narodyvsya-oleksandr-murashko-zhyvopysec"
 related: [illia-riepin, heorhii-narbut, mykhailo-boichuk]
-status: draft
+status: approved
+published: 2026-10-19T19:37:46Z
 ---
 
 ## Медаль для київської «Каруселі»

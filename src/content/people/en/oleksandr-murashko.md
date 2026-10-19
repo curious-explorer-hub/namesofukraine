@@ -12,7 +12,7 @@ key_accomplishments:
   - "A co-organizer of the Kyiv Society of Artists (1916)"
   - "Member of the Munich Secession (1911)"
 birthplace_name: "Kyiv"
-image_alt: "Oleksandr Murashko with thick curly hair and a beard, in a dark jacket, seated with one hand on his knee, black-and-white photograph"
+image_alt: "Oleksandr Murashko with thick curly hair and a beard, in a grey jacket, blue waistcoat and bow tie, seated with his hands folded"
 gallery:
   - alt: "A young woman in black and a large red hat sits at a café table, painting"
     caption: "Girl in a Red Hat, 1902–1903. National Art Museum of Ukraine"
