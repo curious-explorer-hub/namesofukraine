@@ -3,7 +3,7 @@ name: Ніл Хасевич
 gender: male
 born: 1905-11-25
 died: 1952-03-04
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -22,11 +22,12 @@ places:
   - { name: "Сухівці", lat: 50.653, lon: 25.856, note: "місце загибелі, 1952" }
 image:
   src: ./images/nil-khasevych.jpg
-  alt: "Ніл Хасевич, лисий чоловік із пишними вусами й бородою, пильно дивиться вбік, автопортрет олівцем"
+  alt: "Ніл Хасевич, лисий чоловік із пишними вусами й бородою, пильно дивиться вбік, олівцевий автопортрет у кольорі"
   position: "50% 30%"
   author: "Ніл Хасевич (автопортрет)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Hasevych.jpg"
+  ai_edit: colorized
 gallery:
   - src: ./images/nil-khasevych-woodcut.jpg
     alt: "Синій дереворит: повстанці з гвинтівками несуть прапор із тризубом і написом «Воля народам! Воля людині!» повз палаючу цегляну будівлю з написом «СССР - тюрма народів» і назвами країн у вікнах"
@@ -45,7 +46,8 @@ sources:
   - title: "Главком - «Сейм Польщі визнав Волинську трагедію геноцидом» (2016)"
     url: "https://glavcom.ua/news/seym-polshchi-viznav-volinsku-tragediyu-genocidom-362967.html"
 related: [heorhii-narbut, ivan-mazepa]
-status: draft
+status: approved
+published: 2026-10-19T20:28:29Z
 ---
 
 ## Хлопець на саморобному протезі

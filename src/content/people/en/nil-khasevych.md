@@ -11,7 +11,7 @@ key_accomplishments:
   - "A Vatican prize distinction for the painting Washing (1931); third prize at the international woodcut exhibition in Warsaw (1937)"
   - "The albums Volhynia in Struggle and Graphic Art in the Bunkers of the UPA, published in the US (1950–1952)"
 birthplace_name: "Diuksyn"
-image_alt: "Nil Khasevych, a bald man with a thick moustache and beard, looking intently to the side, pencil self-portrait"
+image_alt: "Nil Khasevych, a bald man with a thick moustache and beard, looking intently to the side, pencil self-portrait in colour"
 gallery:
   - alt: "A blue woodcut: insurgents with rifles carry a flag with the trident and the words “Freedom to nations! Freedom to the individual!” past a burning brick building labelled “USSR – prison of nations”, with the names of countries in its windows"
     caption: "The woodcut Freedom to Nations, Freedom to the Individual!"
