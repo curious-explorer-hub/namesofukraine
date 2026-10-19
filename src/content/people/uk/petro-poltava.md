@@ -25,6 +25,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Петро_Федун-Полтава.jpg"
+  ai_edit: rendered
 sources:
   - title: "Енциклопедія історії України - Полтава Петро (автор - Г. П. Герасимова)"
     url: "https://www.history.org.ua/?termin=Poltava_P"
@@ -35,7 +36,8 @@ sources:
   - title: "LB.ua - «Польський Сейм назвав Волинську трагедію геноцидом» (22 липня 2016)"
     url: "https://lb.ua/world/2016/07/22/340838_polskiy_seym_nazval_volinskuyu.html"
 related: [stepan-bandera, oleksa-hasyn]
-status: draft
+status: approved
+published: 2026-10-19T18:19:42Z
 ---
 
 ## Від лейтенанта до ідеолога
