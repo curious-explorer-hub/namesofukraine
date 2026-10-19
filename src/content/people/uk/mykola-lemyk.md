@@ -20,11 +20,21 @@ places:
   - { name: "Миргород", lat: 49.964, lon: 33.612, note: "страчений гестапо, 1941" }
 image:
   src: ./images/mykola-lemyk.jpg
-  alt: "Микола Лемик у темному костюмі й краватці сидить у залі Львівського окружного суду, позаду стоять польські поліцейські, 1933"
-  position: "47% 35%"
+  alt: "Уявний портрет Миколи Лемика в темно-синьому костюмі й краватці на тлі дерев'яних панелей, створений за фото з суду 1933 року"
+  position: "50% 30%"
   author: "Невідомий автор (Narodowe Archiwum Cyfrowe)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9B%D0%B5%D0%BC%D0%B8%D0%BA_%D1%83_%D1%81%D1%83%D0%B4%D1%96.jpeg"
+  ai_edit: generated
+gallery:
+  - src: ./images/mykola-lemyk-court.jpg
+    alt: "Микола Лемик у темно-синьому костюмі й краватці сидить у залі суду, позаду стоять польські поліцейські в шинелях і кашкетах"
+    caption: "Лемик на суді у Львові, 1933"
+    section: 4
+    ai_edit: colorized
+    author: "Невідомий автор (Narodowe Archiwum Cyfrowe)"
+    license: "Public domain"
+    source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9B%D0%B5%D0%BC%D0%B8%D0%BA_%D1%83_%D1%81%D1%83%D0%B4%D1%96.jpeg"
 sources:
   - title: "Енциклопедія сучасної України - Лемик Микола Семенович (автор - Ю. Д. Зайцев)"
     url: "https://esu.com.ua/article-54180"
@@ -35,7 +45,8 @@ sources:
   - title: "Локальна історія - Д. Мандзюк, «Постріли в обороні мільйонів» (2021)"
     url: "https://localhistory.org.ua/texts/statti/postrili-v-oboroni-milioniv/"
 related: [stepan-bandera, roman-shukhevych]
-status: draft
+status: approved
+published: 2026-10-19T19:15:22Z
 ---
 
 ## Що означав «постріл в обороні мільйонів»?

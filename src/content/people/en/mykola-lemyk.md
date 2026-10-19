@@ -9,7 +9,10 @@ key_accomplishments:
   - "Escaped from Polish captivity at the start of the Second World War (1939)"
   - "In 1941 led the OUN(b) Middle Marching Group into eastern Ukraine"
 birthplace_name: "Solova"
-image_alt: "Mykola Lemyk in a dark suit and tie sitting in the Lviv District Court, with Polish policemen standing behind him, 1933"
+image_alt: "Imagined portrait of Mykola Lemyk in a dark blue suit and tie against wood panelling, based on a 1933 courtroom photo"
+gallery:
+  - alt: "Mykola Lemyk in a dark blue suit and tie sitting in the courtroom, with Polish policemen in greatcoats and caps standing behind him"
+    caption: "Lemyk at his trial in Lviv, 1933"
 ---
 
 ## What was the “shot in defence of millions”?
