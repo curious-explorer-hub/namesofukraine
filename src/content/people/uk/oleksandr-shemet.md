@@ -20,6 +20,7 @@ image:
   author: "Офіс Президента України"
   license: "CC BY 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:Шемет_Олександр_Леонідович.jpg"
+  ai_edit: restored
 key_accomplishments:
   - "Льотчик 12-ї окремої бригади армійської авіації; з 2015 року учасник АТО, на початку повномасштабного вторгнення обороняв Київ"
   - "5 квітня 2022 року виконав шостий політ до оточеного Маріуполя: доправив вантаж на «Азовсталь» і вивіз вісьмох тяжкопоранених"
@@ -40,7 +41,8 @@ sources:
     url: "https://novynarnia.com/2025/12/22/na-bortu-mi-24-ekipazh-yakogo-zagynuv-17-grudnya-buv-geroj-ukrayiny-oleksandr-shemet/"
 related: []
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-19T00:04:42Z
 ---
 
 ## Політ, з якого інші не повернулися
