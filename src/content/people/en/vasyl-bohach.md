@@ -11,6 +11,10 @@ key_accomplishments:
   - "Order for Courage, 3rd class (2022)"
   - "Hero of Ukraine (posthumously; Decree No. 326/2023)"
 birthplace_name: "Volnovakha"
+image_alt: "Vasyl Bohach in a helmet and a body armour vest marked «СБУ» (SBU), giving a thumbs-up"
+gallery:
+  - alt: "Ivan Bohdan's three books, Mariupol 2014, Patriot Prisoners and On the Other Side of the Trenches, on a wooden table next to a cup of tea and glasses"
+    caption: "Ivan Bohdan's three books (an AI-generated illustration)"
 ---
 
 ## Who is Ivan Bohdan?

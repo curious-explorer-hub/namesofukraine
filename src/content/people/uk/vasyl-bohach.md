@@ -19,6 +19,23 @@ key_accomplishments:
 birthplace: { name: "Волноваха", region: donetsk, country: UA, lat: 47.601, lon: 37.497 }
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "обороняв місто 2022 року, загинув на «Азовсталі»" }
+image:
+  src: ./images/vasyl-bohach.jpg
+  alt: "Василь Богач у шоломі й бронежилеті з написом «СБУ» показує великий палець"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uinp.gov.ua/hvylyna-movchannya/pamyati-geroya-ukrayiny-vasylya-bogacha-pozyvnyy-domaha"
+  ai_edit: restored
+  fair_use: true
+gallery:
+  - src: ./images/vasyl-bohach-books.jpg
+    alt: "Три книжки Івана Богдана, «Маріуполь 2014», «Патріотв'язні» і «По той бік окопів», на дерев'яному столі біля чашки чаю й окулярів"
+    caption: "Три книжки Івана Богдана (ілюстрацію створено ШІ)"
+    section: 1
+    ai_edit: generated
+    author: "Знай своїх"
+    license: "Public domain"
 sources:
   - title: "Енциклопедія Сучасної України - Богач Василь Володимирович"
     url: "https://esu.com.ua/article-879117"
@@ -28,7 +45,8 @@ sources:
     url: "https://www.ukrinform.ua/rubric-ato/3959480-pamati-geroa-ukraini-vasila-bogaca.html"
 related: [denys-prokopenko]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-19T00:21:56Z
 ---
 
 ## Хто такий Іван Богдан?
