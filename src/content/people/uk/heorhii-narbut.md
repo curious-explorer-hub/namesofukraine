@@ -3,13 +3,13 @@ name: Георгій Нарбут
 gender: male
 born: 1886-03-09
 died: 1920-05-23
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: 20th-century
 group: visual-arts
 tags: [artist]
 role: "Графік, автор гривень 1918 року"
 summary: "Гривні 1918 року, поштові марки й державну печатку гетьманату намалював один художник. Георгій Нарбут - художник-графік, автор «Української абетки» та один із засновників Української академії мистецтв. Він помер від тифу 1920 року, у 34 роки."
-fun_fact: "1912 року Нарбут підписав свій родинний герб так: «Мазепинец полку Черниговского, Глуховской сотни старшинский сын и гербов и эмблемам живописец»."
+fun_fact: "1912 року Нарбут підписав свій родинний герб так: «Мазепинець полку Чернігівського, Глухівської сотні старшинський син і гербів та емблем живописець» (в оригіналі - російською)."
 birthplace: { name: "Нарбутівка", region: sumy, country: UA, lat: 51.863, lon: 34.003 }
 places:
   - { name: "Глухів", lat: 51.675, lon: 33.913, note: "класична гімназія (1896–1906)" }
@@ -17,11 +17,20 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "з 1917 року: Українська академія мистецтв; місце смерті й поховання" }
 image:
   src: ./images/heorhii-narbut.jpg
-  alt: "Георгій Нарбут сидить у кріслі, фото до 1917 року"
-  position: "60% 25%"
+  alt: "Георгій Нарбут у світлій полотняній блузі й краватці на тлі зелені, фото до 1920 року"
+  position: "45% 35%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Heorhiy_Narbut.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Narbut2.jpg"
+  ai_edit: colorized
+gallery:
+  - src: ./images/heorhii-narbut-seal.jpg
+    alt: "Кругла блакитна печатка: козак із рушницею на плечі в лавровому вінку, угорі тризуб, по колу напис «Державне секретарство»"
+    caption: "Печатка Державного секретарства Української Держави, 1918"
+    section: 3
+    author: "Георгій Нарбут"
+    license: "Public domain"
+    source_url: "https://commons.wikimedia.org/wiki/File:Печатка_ДС_УД_Нарбут_3.jpg"
 key_accomplishments:
   - "За його проєктами в 1918–1920 роках випустили 12 грошових знаків: банкноти на 100 карбованців, 10, 100 і 500 гривень, поштові марки й облігації"
   - "Мала державна печатка Української Держави, затверджена гетьманом Павлом Скоропадським у липні 1918 року"
@@ -35,7 +44,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CA%5CNarbutHeorhii.htm"
 related: [pavlo-skoropadskyi, mykhailo-boichuk, hryhorii-skovoroda, petro-doroshenko, ivan-kotliarevskyi]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-19T20:20:22Z
 ---
 
 ## Хлопець із козацького хутора

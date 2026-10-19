@@ -11,7 +11,10 @@ key_accomplishments:
   - "A founder, professor and rector of the Ukrainian Academy of Arts"
   - "Illustrations for The Arms of the Hetmans of Little Russia (1915) and for Krylov’s fables"
 birthplace_name: "Narbutivka"
-image_alt: "Heorhii Narbut seated in an armchair, photo taken before 1917"
+image_alt: "Heorhii Narbut in a light linen smock and tie against greenery, photo taken before 1920"
+gallery:
+  - alt: "A round light-blue seal: a Cossack with a musket on his shoulder inside a laurel wreath, a trident above, and around the edge the words “State Secretariat”"
+    caption: "Seal of the State Secretariat of the Ukrainian State, 1918"
 ---
 
 ## A boy from a Cossack homestead
