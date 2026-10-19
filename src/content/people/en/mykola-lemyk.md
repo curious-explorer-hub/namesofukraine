@@ -18,11 +18,11 @@ In 1933 millions of people in Soviet Ukraine were dying in a man-made famine, an
 
 ## A student from Solova
 
-Mykola Lemyk was born on 4 April 1915 (some sources say 1914) in the village of Solova near Peremyshliany, in the Lviv region, into a poor peasant family. He went to the Academic Gymnasium in Lviv and then studied at Lviv University. As a young man he joined the OUN and its combat section, run by [Roman Shukhevych](/en/people/roman-shukhevych/). One reason he was chosen was that under Polish law a minor could not be executed: the attacker was meant to give himself up and use the trial to tell what was happening in Soviet Ukraine.
+Mykola Lemyk was born on 4 April 1915 (some sources say 1914) in the village of Solova near Peremyshliany, in the Lviv region, into a poor peasant family. He went to the Academic Gymnasium in Lviv and then studied at Lviv University. While still at school, in 1929, he joined the OUN’s youth branch, and later its combat section, run by [Roman Shukhevych](/en/people/roman-shukhevych/). Lemyk was left-handed, yet he mastered the revolver. One reason he was chosen was that under Polish law a minor could not be executed: the attacker was meant to give himself up and use the trial to tell what was happening in Soviet Ukraine.
 
 ## A day at the consulate
 
-The attack was the idea of the OUN’s new regional leader, [Stepan Bandera](/en/people/stepan-bandera/), who gave Lemyk his final instructions the evening before. On 21 October 1933 Lemyk went into the Soviet consulate in Lviv and shot dead Oleksii Mailov, described by different sources as the consulate’s secretary or as a special agent of the Soviet secret police (GPU). He had been looking for the consul, but found Mailov in the office instead. Lemyk did not run: he put down his gun and let himself be arrested.
+The attack was the idea of the OUN’s new regional leader, [Stepan Bandera](/en/people/stepan-bandera/), who met Lemyk in Lychakiv Park and told him himself how to behave at the trial. Before the attack Lemyk asked if he could borrow better shoes: if he died, it would shame the organization that his toes were sticking out. His comrades bought him new ones, and he asked them to send his torn pair home to his father, who could mend them and wear them for a while yet. On 21 October 1933 Lemyk went into the Soviet consulate in Lviv and shot dead Oleksii Mailov, described by different sources as the consulate’s secretary or as a special agent of the Soviet secret police (GPU). He had been looking for the consul, but found Mailov in the office instead. Lemyk waited for the police, put down his gun and let himself be arrested.
 
 ## A trial that spoke of the famine
 
@@ -30,7 +30,7 @@ He was tried in Lviv as early as 30 October 1933, with dozens of journalists in 
 
 ## Escape and the march east
 
-At the start of the Second World War, in 1939, prisoners were being moved, and Lemyk escaped from the convoy. In 1941 he led the OUN(b) Middle Marching Group: members of these groups went from Galicia into eastern Ukraine to spread the OUN’s work there. In the summer of 1941 the Gestapo arrested him for the first time but let him go. In early October 1941 the Nazis seized Lemyk again and executed him in Myrhorod, in the Poltava region. He was 26.
+At the start of the Second World War, in 1939, prisoners were being moved, and Lemyk escaped from the convoy. In 1940 he married Liubov Vozniak, under another surname, because his own was too well known. From June 1941 Lemyk was the OUN’s regional leader for the eastern Ukrainian lands, and that summer he led the OUN(b) Middle Marching Group: members of these groups went from Galicia into eastern Ukraine to spread the OUN’s work there. In August 1941 the Gestapo arrested him for the first time but let him go. In early October 1941 the Nazis seized Lemyk again and executed him in Myrhorod, in the Poltava region. He was 26.
 
 ## Debates and assessments
 

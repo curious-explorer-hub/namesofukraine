@@ -8,13 +8,13 @@ key_accomplishments:
   - "Illustrations to Ivan Kotliarevskyi's Eneida (1968 edition, more than 130 drawings)"
   - "Design and illustrations for Jaroslav Hašek's The Good Soldier Švejk"
   - "Illustrations to Taras Shevchenko's Little Kobzar (1969), Kotliarevskyi's Natalka Poltavka (1990) and Ukrainian folk tales"
-  - "People's Artist of Ukraine (1993)"
+  - "Honoured Art Worker of the Ukrainian SSR (for Eneida), People's Artist of Ukraine (1993)"
 birthplace_name: "Zhmerynka"
 ---
 
 ## Who drew Aeneas?
 
-Close your eyes and picture Aeneas from Eneida. If you see a cheerful Cossack with a big moustache, chances are you've seen the drawings of Anatolii Bazylevych. He was born on 7 June 1926 in Zhmerynka, in the Vinnytsia region. In 1953 he graduated from the art institute in Kharkiv and moved to Kyiv, where his mother and sister lived. There he began working with publishers and illustrating books.
+Close your eyes and picture Aeneas from Eneida. If you see a cheerful Cossack with a big moustache, chances are you've seen the drawings of Anatolii Bazylevych. He was born on 7 June 1926 in Zhmerynka, in the Vinnytsia region, and grew up in Mariupol. In 1943 his family, along with thousands of other people from Mariupol, was taken to Germany for forced labour, and there in 1944 his father died of wounds from a bombing raid. In 1953 he graduated from the art institute in Kharkiv and moved to Kyiv, where his mother and sister lived. There he began working with publishers and illustrating books.
 
 ## A Švejk from a Kyiv restaurant
 
@@ -22,7 +22,9 @@ What made Bazylevych's name was Jaroslav Hašek's The Good Soldier Švejk, publi
 
 ## Ten years with Eneida
 
-Bazylevych worked on [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/)'s Eneida for about ten years. The art council of the Dnipro publishing house accepted more than 130 of his illustrations and called the work a creative feat. The book came out in 1968, and since then it has been reprinted more than fifteen times, with over a million copies in all. Bazylevych's defining trait was a natural sense of humour, close to folk art, and his Cossacks are said to have created a whole "Cossack myth".
+Bazylevych worked on [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/)'s Eneida for about ten years. The art council of the Dnipro publishing house accepted more than 130 of his illustrations and called the work a creative feat. The book came out in 1968 and earned the artist the title of Honoured Art Worker of the Ukrainian SSR. Since then it has been reprinted more than fifteen times, with over a million copies in all.
+
+Bazylevych looked for his characters among real people. His Zeus was drawn from Pavlo Kardashevskyi, a former metro builder he met in the street. In Paradise he gathered his artist friends, and himself, in togas and Cossack trousers, and for Hell he undressed and posed in front of a mirror as a sinner. Bazylevych's defining trait was a natural sense of humour, close to folk art, and his Cossacks are said to have created a whole "Cossack myth".
 
 ## From Shevchenko to fairy tales
 

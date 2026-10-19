@@ -6,6 +6,7 @@ summary: "“Antonych grows, and the grass grows,” he wrote of himself. Bohdan
 fun_fact: "The family’s real surname was Kit (“cat”). Before his son was born, his father changed it to Antonych, after his own father’s first name."
 key_accomplishments:
   - "The poetry collections Welcoming Life (1931), Three Rings (1934) and The Book of the Lion (1936)"
+  - "Award of the Ivan Franko Society of Writers and Journalists in Lviv for Three Rings (1935)"
   - "The collections The Green Gospel and Rotations, published in 1938, after the poet’s death"
   - "Edited the Lviv journal Dazhboh (1934); a member of the Association of Independent Ukrainian Artists"
   - "A libretto for an opera about Dovbush, essays on literature and art, fragments of the novel On the Other Shore"
@@ -31,11 +32,11 @@ In 1928 Antonych entered Lviv University, then a Polish university. Ukrainian st
 
 ## Three books in five years
 
-His first collection, Welcoming Life, came out in 1931. Three Rings followed in 1934 and The Book of the Lion in 1936. Antonych called himself a pagan in love with life. His poems bring to life Lemko villages and their landscapes, old folk beliefs and biblical motifs, in images so unexpected that he is ranked alongside Federico García Lorca and Pablo Neruda. He lived by his pen, publishing poems and essays and editing the journal Dazhboh. He also wrote the libretto for an opera about the outlaw hero Oleksa Dovbush, built on one idea: “you cannot walk through evil to reach good”.
+His first collection, Welcoming Life, came out in 1931. It even has a cycle called Bronze Muscles, inspired by The Olympic Laurel, a book by the Polish poet Kazimierz Wierzyński. Three Rings followed in 1934 and The Book of the Lion in 1936. In 1935 Three Rings won him the award of the Ivan Franko Society of Writers and Journalists in Lviv. Antonych called himself a pagan in love with life. His poems bring to life Lemko villages and their landscapes, old folk beliefs and biblical motifs, in images so unexpected that he is ranked alongside Federico García Lorca and Pablo Neruda. He lived by his pen, publishing poems and essays and editing the journal Dazhboh. He also wrote, at the request of the composer Antin Rudnytskyi, the libretto for an opera about the outlaw hero Oleksa Dovbush, built on one idea: “you cannot walk through evil to reach good”. The opera itself was never composed.
 
 ## An early death
 
-In the summer of 1937, after an operation for appendicitis, Antonych came down with pneumonia, and he died in Lviv on 6 July. He was 27. He was buried in the Yaniv Cemetery. The collections The Green Gospel and Rotations came out in 1938, after his death.
+In the summer of 1937, after an operation for appendicitis, Antonych came down with pneumonia, and he died in Lviv on 6 July. He was 27. He was buried in the Yaniv Cemetery. The collections The Green Gospel and Rotations came out in 1938, after his death. In the unfinished Rotations, the poet of nature turns, unexpectedly, to the modern city and its contrasts.
 
 ## The return
 
