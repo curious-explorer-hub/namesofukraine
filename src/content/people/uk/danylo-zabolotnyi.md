@@ -3,7 +3,7 @@ name: Данило Заболотний
 gender: male
 born: 1866-12-28
 died: 1929-12-15
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: 20th-century
 group: science
 tags: [physician, scientist]
@@ -28,6 +28,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%B9_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE.jpg"
+  ai_edit: colorized
 quotes:
   - text: "Ой, там, де воля пісня ллється, / А де неволя, там нема."
     source: "Вірш «Пісня про волю»"
@@ -41,7 +42,8 @@ sources:
   - title: Вікіпедія - Заболотний Данило Кирилович
     url: https://uk.wikipedia.org/wiki/Данило_Заболотний
 related: [illia-mechnykov]
-status: draft
+status: approved
+published: 2026-10-19T23:22:54Z
 ---
 
 ## Хлопець із Чоботарки
