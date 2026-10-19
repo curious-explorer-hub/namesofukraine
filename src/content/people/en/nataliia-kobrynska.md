@@ -11,7 +11,10 @@ key_accomplishments:
   - "Founded the Women’s Library press and published the almanacs Our Fate (1893–1896)"
   - "The prose collections The Spirit of the Times (1898) and Fairy Tales (1904)"
 birthplace_name: "Beleluia"
-image_alt: "Nataliia Kobrynska in a patterned headscarf, an embroidered blouse and several strings of beads, black-and-white photo"
+image_alt: "Nataliia Kobrynska with a tall hairstyle of curls, in a dark dress with a lace collar, 1880s photo"
+quotes:
+  - text: "We set ourselves the goal of shaping the growth of the female spirit through literature, because literature has always been a true image of the bright and dark sides of the social order, its needs and shortcomings."
+    source: "Preface to the almanac The First Wreath, 1887"
 ---
 
 ## A marriage on special terms
@@ -24,11 +27,15 @@ She was born on 8 June 1855 in the village of Beleluia near Sniatyn (now in the 
 
 ## The day a movement began
 
-On 8 December 1884 the Society of Ruthenian Women, founded by Kobrynska, held its first meeting in Stanyslaviv (now Ivano-Frankivsk). That date is seen as the start of the Ukrainian women’s movement. The society set out to shape “the growth of the female spirit” through literature and cared about education for village women. In 1891 Kobrynska called the first public women’s assembly in Stryi and raised the idea of day nurseries there. She collected signatures for a petition to the Austrian government for women’s right to education. Kobrynska was convinced that women’s lives would change only through national awareness and a sound education.
+On 8 December 1884 the Society of Ruthenian Women, founded by Kobrynska, held its first meeting in Stanyslaviv (now Ivano-Frankivsk). That date is seen as the start of the Ukrainian women’s movement. The society set out to shape “the growth of the female spirit” through literature and cared about education for village women. In 1891 Kobrynska called the first public women’s assembly in Stryi. She collected signatures for a petition to the Austrian government for women’s right to education. Kobrynska was convinced that women’s lives would change only through national awareness and a sound education.
 
 ## The First Wreath
 
 In 1887, with [Olena Pchilka](/en/people/olena-pchilka/) and with the support of [Ivan Franko](/en/people/ivan-franko/), Kobrynska published the almanac The First Wreath in Lviv. It brought together work by 17 Ukrainian women writers from different lands, [Lesya Ukrainka](/en/people/lesya-ukrainka/) among them, along with Kobrynska’s own essays on the women’s movement. Later she founded the Women’s Library press and published the almanacs Our Fate. Her own prose moved from realistic sketches of Galician life to symbolist “psychograms” about the subtlest human feelings. Her contemporaries did not accept these experiments.
+
+## Day nurseries for village children
+
+At the women’s assembly in Stryi in 1891, Kobrynska raised the idea of day nurseries, then called *zakhoronky*. She argued to village communities that looking after children together during field work was not a “lordly amusement” but a necessity for children’s health and for women’s development. She wanted to make life easier for working mothers and set about putting the idea into practice herself: she is seen as one of the first in Galicia to start organizing kindergartens.
 
 ## The last winter
 
