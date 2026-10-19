@@ -20,11 +20,12 @@ places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "обороняв місто 2022 року, там і загинув" }
 image:
   src: ./images/vitalii-hrytsaienko.jpg
-  alt: "Усміхнений Віталій Грицаєнко в шоломі й сонцезахисних окулярах на вулиці Маріуполя, позаду танк"
-  position: "72% 25%"
-  author: "Міністерство внутрішніх справ України"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Vitaliy_Hrytsaenko,_member_of_the_Azov_battalion_in_the_defense_of_Mariupol.jpg"
+  alt: "Віталій Грицаєнко в камуфляжній куртці з хутряним капюшоном, позаду автомобіль і ялини"
+  position: "50% 35%"
+  author: "Kaminari23"
+  license: "CC0"
+  source_url: "https://commons.wikimedia.org/wiki/File:Фото_3_-_Грицаєнко_Віталій_Миколайович.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія Сучасної України - Грицаєнко Віталій Миколайович"
     url: "https://esu.com.ua/article-77678"
@@ -34,7 +35,8 @@ sources:
     url: "https://armyinform.com.ua/2022/04/08/geroj-ukrayiny-vitalij-gryczayenko-zagynuv-zahyshhayuchy-mariupol/"
 related: [denys-prokopenko, maksym-kahal]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-19T00:00:46Z
 ---
 
 ## Правник, який учив воювати

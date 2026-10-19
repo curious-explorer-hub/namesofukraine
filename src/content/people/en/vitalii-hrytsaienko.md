@@ -10,7 +10,7 @@ key_accomplishments:
   - "Defended Mariupol in 2022: held the coast, mined the routes of Russian tanks, led a raid behind enemy lines"
   - "Hero of Ukraine (posthumously; Decree No. 201/2022)"
 birthplace_name: "Poltava"
-image_alt: "Vitalii Hrytsaienko, smiling, in a helmet and sunglasses on a street in Mariupol, a tank behind him"
+image_alt: "Vitalii Hrytsaienko in a camouflage jacket with a fur-lined hood, a car and fir trees behind him"
 ---
 
 ## A lawyer who taught others to fight
