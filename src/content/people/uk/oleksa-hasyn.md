@@ -3,7 +3,7 @@ name: Олекса Гасин
 gender: male
 born: 1907-07-08
 died: 1949-01-31
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: 20th-century
 group: statehood
 tags: [warrior]
@@ -28,6 +28,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Олекса_Гасин.JPG"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія сучасної України - Гасин Олекса (автор - Д. В. Веденєєв)"
     url: "https://esu.com.ua/article-28825"
@@ -38,7 +39,8 @@ sources:
   - title: "LB.ua - «Польський Сейм назвав Волинську трагедію геноцидом» (22 липня 2016)"
     url: "https://lb.ua/world/2016/07/22/340838_polskiy_seym_nazval_volinskuyu.html"
 related: [yevhen-konovalets, roman-shukhevych, petro-poltava]
-status: draft
+status: approved
+published: 2026-10-19T18:27:30Z
 ---
 
 ## Лицар зі Стрийщини
