@@ -14,6 +14,7 @@ key_accomplishments:
   - "A cycle of liturgical chants and a sonata for violin and harpsichord"
   - "The Symphony in C major, one of the first symphonic works by a composer from the Russian Empire"
 birthplace_name: "Hlukhiv"
+image_alt: "Portrait of Maksym Berezovskyi in a white wig, green coat and lace jabot, 20th-century painting"
 ---
 
 ## A voice from Hlukhiv

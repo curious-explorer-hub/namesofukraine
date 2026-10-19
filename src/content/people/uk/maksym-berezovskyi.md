@@ -3,7 +3,7 @@ name: Максим Березовський
 gender: male
 born: 1745-10-27
 died: 1777-04-02
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: cossack
 group: performing-arts
 tags: [musician, singer]
@@ -26,6 +26,15 @@ key_accomplishments:
   - "Хоровий концерт «Не отвержи мене во время старості»"
   - "Цикл літургійних співів і соната для скрипки й чембало"
   - "Симфонія до мажор - один із перших симфонічних творів композитора з Російської імперії"
+image:
+  src: ./images/maksym-berezovskyi.jpg
+  alt: "Портрет Максима Березовського в білій перуці, зеленому каптані й мереживному жабо, живопис XX століття"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CE%5CBerezovskyMaksym.htm"
+  ai_edit: restored
+  fair_use: true
 sources:
   - title: "Енциклопедія історії України - Березовський Максим Созонтович (автор - Г. П. Герасимова)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Berezovskyj_M"
@@ -36,7 +45,8 @@ sources:
   - title: "ZAXID.NET - Як Україна повернула собі ім'я Березовського (2022)"
     url: "https://zaxid.net/yak_ukrayina_povernula_sobi_imya_berezovskogo_n1545119"
 related: [kyrylo-rozumovskyi]
-status: draft
+status: approved
+published: 2026-10-19T23:36:22Z
 ---
 
 ## Голос із Глухова
