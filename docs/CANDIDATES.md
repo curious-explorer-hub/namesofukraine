@@ -39,6 +39,10 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Олена Костевич | b. 1985 | Sport shooter (sport) | 👩 🟢 | | Owner request 2026-10-15. Olympic champion with the air pistol at Athens 2004; later Olympic bronzes (the request says four: check) |
 | Віктор Рубан | b. 1981 | Archer (sport) | 🟢 | | Owner request 2026-10-15. From Kharkiv; Olympic individual champion 2008, team bronze 2004 |
 | Руслан Пономарьов | b. 1983 | Chess player (sport) | 🟢 | | Owner request 2026-10-15. From Horlivka; FIDE world champion in 2002 at 18, the youngest FIDE champion. The title was split then: word it precisely |
+| Мар'ян Крушельницький | 1897–1963 | Actor, director (performing-arts) | | executed-renaissance? | Owner request 2026-10-19. A leading actor of Kurbas's «Березіль»; not executed but persecuted after Kurbas's arrest: check whether he fits the collection or only a theatre profile. Link to `les-kurbas` |
+| Василь Василько | 1893–1972 | Theatre director (performing-arts) | | | Owner request 2026-10-19 (the request spelled it «Василяк»). Kurbas's colleague, a co-founder of «Березіль»; survived. Link to `les-kurbas` |
+| Левко Ревуцький | 1889–1977 | Composer (performing-arts) | | | Owner request 2026-10-19. Composer and teacher; survived, but under heavy pressure (request): check what pressure, against the encyclopedias |
+| Софія Русова | 1856–1940 | Educator, civic activist (civic) | 👩 🌍 | | Owner request 2026-10-19, which named «Сергій Русов, педагог і соціолог»: probably Софія Русова (check with the owner). Pioneer of Ukrainian schooling and kindergartens; emigrated, died in Prague |
 
 ## Needs a decision
 
@@ -48,6 +52,9 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Володимир Зеленський | | State (statehood) | 🟢 | Current leader (see Editorial notes) |
 | Валерій Залужний | | Military (statehood) | 🟢 | Serving leader |
 | Кирило Буданов | | Military (statehood) | 🟢 | Head of military intelligence (HUR); Hero of Ukraine (2024). Serving leader |
+| Володимир Блаватський | 1900–1953 | Actor, director (performing-arts) | 🌍 | Owner request 2026-10-19 for «Березіль» people. From the Kurbas school, but he emigrated after the war and wasn't repressed: a theatre profile, not the Executed Renaissance? |
+| Олександр Білецький | 1884–1961 | Literary scholar (literature) | | Owner request 2026-10-19. A Soviet academician who wasn't repressed: does he fit «people who made Ukraine» (§7), and not the Executed Renaissance collection? |
+| «Григорій Тарасенко» | | Composer? (performing-arts) | | Owner request 2026-10-19: named among repressed avant-garde composers, but no such composer is known. Who is meant? |
 | Жан Беленюк | b. 1991 | Greco-Roman wrestler (sport) | 🟢 | Owner request 2026-10-12. From Kyiv; Olympic champion (Tokyo 2020), silver (Rio 2016) and bronze (Paris 2024); world champion 2015 and 2019. But he is also an MP («Слуга народу», since 2019): a current partisan politician by §7.6 (see Editorial notes). Profile the sports career now, or wait? |
 | Євгенія Емеральд («Жанна д'Арк») | | Defender (defenders) | 👩 🟢 | She says she is not a certified sniper (RBC-Styler, 15 Nov 2023); most later coverage is about her private life, not public deeds. Keep or drop? For `women-army`. Not drafted 2026-10-16: no official record or clear public deed in reputable sources (she says she had no rank or certificate; Glavcom, 13 Dec 2022). Recommend dropping |
 | Данило Мельник («Фін») | | Defender (defenders) | 🟢 👥 | No reputable source links this name or callsign to the Azovstal helicopter flights (checked 2026-10-08). Drop in favour of Олександр Шемет (now drafted)? Rechecked 2026-10-16: still nothing; the only Данило Мельник in reputable media is a bandurist killed near Bakhmut in 2023 (Суспільне). Recommend dropping |
