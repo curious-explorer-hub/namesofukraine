@@ -3,7 +3,7 @@ name: Олена Вітер
 gender: female
 born: 1904-01-04
 died: 1988-11-15
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-19
 era: 20th-century
 group: faith
 tags: [religious]
@@ -20,6 +20,15 @@ key_accomplishments:
   - "Разом з ігуменом Климентієм Шептицьким координувала порятунок євреїв, передусім дітей, у монастирях студитів"
   - "Праведниця народів світу (Яд Вашем, 1976)"
   - "Пережила смертний вирок 1941 року й десять років радянських таборів; згодом очолювала підпільний монастир у Скалаті"
+image:
+  src: ./images/olena-viter.jpg
+  alt: "Олена Вітер у чорному чернечому вбранні й білому апостольнику, з хрестом на грудях"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uain.press/blogs/olena-viter-pravednik-narodiv-svitu-1384094"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Енциклопедія Сучасної України - Вітер Олена Василівна"
     url: "https://esu.com.ua/article-34970"
@@ -28,7 +37,8 @@ sources:
   - title: "EHRI Document Blog - Юрій Скіра, The Rescue of Jews by Monks and Nuns of the Greek Catholic Church (2023)"
     url: "https://blog.ehri-project.eu/?p=6095"
 related: [andrei-sheptytskyi]
-status: draft
+status: approved
+published: 2026-10-19T23:49:35Z
 ---
 
 ## Притулок за монастирськими стінами

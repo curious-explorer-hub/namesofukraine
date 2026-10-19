@@ -11,6 +11,7 @@ key_accomplishments:
   - "Righteous Among the Nations (Yad Vashem, 1976)"
   - "Survived a death sentence in 1941 and ten years in Soviet camps; later led an underground convent in Skalat"
 birthplace_name: "Myklashiv"
+image_alt: "Olena Viter in a black nun's habit and white wimple, with a cross on her chest"
 ---
 
 ## A refuge behind convent walls
