@@ -14,6 +14,7 @@ const page = `
     <ul id="fields" data-mode="all"><li><span data-when="all">5</span><span data-when="women" hidden>2</span></li></ul>
     <section data-you hidden>
       <b data-you-count>0</b>
+      <span data-you-pct>0%</span>
       <svg><circle class="stats-ring-fill" /></svg>
       <ul data-you-fields data-template-unread="Not opened yet: {list}.">
         <li data-slugs="a b" data-label="Literature"><span class="stats-bar-val"></span></li>
@@ -52,7 +53,8 @@ describe('initStats', () => {
     expect(section.hidden).toBe(false);
     expect(document.querySelector('[data-you-tab]')!.hasAttribute('hidden')).toBe(false);
     expect(section.querySelector('[data-you-count]')!.textContent).toBe('1');
-    expect([...section.querySelectorAll('.stats-bar-val')].map((v) => v.textContent)).toEqual(['1/2', '0/1']);
+    expect(section.querySelector('[data-you-pct]')!.textContent).toBe('33%');
+    expect([...section.querySelectorAll('.stats-bar-val')].map((v) => v.textContent)).toEqual(['1/2 (50%)', '0/1 (0%)']);
     expect(section.querySelector('[data-you-note]')!.textContent).toBe('Not opened yet: Sport.');
   });
 

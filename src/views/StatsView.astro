@@ -117,6 +117,7 @@ const real = Object.values(files)[0];
 const readers: Readers | undefined = real ?? (import.meta.env.DEV ? (sample as unknown as Readers) : undefined);
 const isSample = !real && Boolean(readers);
 const countryName = new Intl.DisplayNames([locale], { type: 'region' });
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 const visitsChart = (n: number) =>
   readers &&
   lineChart(
@@ -126,7 +127,8 @@ const visitsChart = (n: number) =>
       { key: 'uk', values: readers.days.slice(-n).map((d) => d.uk) },
       { key: 'en', values: readers.days.slice(-n).map((d) => d.en) },
     ],
-    readers.days.slice(-n).map((d) => `${short(d.date)}: ${t('stats.in_uk', lang)} ${num(d.uk)}, ${t('stats.in_en', lang)} ${num(d.en)}`),
+    // One line each for the date and the two languages; .stats-tip keeps the line breaks.
+    readers.days.slice(-n).map((d) => [short(d.date), `${cap(t('stats.in_uk', lang))} - ${num(d.uk)}`, `${cap(t('stats.in_en', lang))} - ${num(d.en)}`].join('\n')),
   );
 const charts = readers ? { 30: visitsChart(30)!, 7: visitsChart(7)! } : undefined;
 const change = readers && readers.visitsBefore ? Math.round(((readers.visits - readers.visitsBefore) / readers.visitsBefore) * 100) : undefined;
@@ -387,7 +389,7 @@ const countryMax = readers ? Math.max(1, ...readers.countries.top.map(([, s]) =>
         <div class="stats-progress">
           <div class="stats-ring">
             <svg viewBox="0 0 120 120" aria-hidden="true"><circle class="stats-ring-track" cx="60" cy="60" r="50" pathLength="100" /><circle class="stats-ring-fill" cx="60" cy="60" r="50" pathLength="100" /></svg>
-            <div class="stats-ring-label"><b data-you-count>0</b><span>{t('stats.you_read', lang, { total: split.total })}</span></div>
+            <div class="stats-ring-label"><b data-you-count>0</b><span>{t('stats.you_read', lang, { total: split.total })}</span><span class="stats-ring-pct" data-you-pct>0%</span></div>
           </div>
           <div class="stats-progress-fields">
             <h3>{t('stats.fields', lang)}</h3>

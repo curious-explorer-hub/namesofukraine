@@ -73,10 +73,11 @@ function initProgress(root: ParentNode, storage?: Storage) {
     const n = slugs.filter((s) => read.has(s)).length;
     done += n;
     row.style.setProperty('--all', `${(n / Math.max(1, slugs.length)) * 100}%`);
-    row.querySelector('.stats-bar-val')!.textContent = `${n}/${slugs.length}`;
+    row.querySelector('.stats-bar-val')!.textContent = `${n}/${slugs.length} (${Math.round((n / Math.max(1, slugs.length)) * 100)}%)`;
     if (!n) unread.push(row.dataset.label!);
   }
   section.querySelector('[data-you-count]')!.textContent = String(done);
+  section.querySelector('[data-you-pct]')!.textContent = `${Math.round((done / Math.max(1, total)) * 100)}%`;
   section.querySelector<SVGCircleElement>('.stats-ring-fill')!.style.strokeDasharray = `${(done / Math.max(1, total)) * 100} 100`;
   const note = section.querySelector<HTMLElement>('[data-you-note]')!;
   const list = section.querySelector<HTMLElement>('[data-you-fields]')!;
