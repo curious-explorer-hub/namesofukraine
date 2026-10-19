@@ -4,7 +4,7 @@ gender: male
 born: 1744-01-01
 born_circa: true
 died: 1797-02-19
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: cossack
 group: statehood
 tags: [warrior, poet]
@@ -24,6 +24,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Holovatyi.jpg"
+  ai_edit: restored
 key_accomplishments:
   - "Військовий писар Війська Запорозького; помічник кошового Петра Калнишевського"
   - "Один із засновників Війська вірних козаків (1787), згодом Чорноморського козацького війська"
@@ -41,7 +42,8 @@ sources:
   - title: Вікіпедія - Головатий Антон Андрійович
     url: https://uk.wikipedia.org/wiki/Головатий_Антін_Андрійович
 related: [petro-kalnyshevskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-19T20:53:02Z
 ---
 
 ## Писар із Нових Санжар
