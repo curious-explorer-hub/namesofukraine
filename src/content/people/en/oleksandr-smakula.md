@@ -11,6 +11,7 @@ key_accomplishments:
   - "The “Smakula formula” on radiation colouring of crystals; over 100 scientific papers and many patents"
   - "Full member of the Shevchenko Scientific Society; honorary president of the Ukrainian Engineers’ Society of America"
 birthplace_name: "Dobrovody"
+image_alt: "Imagined portrait of an elderly Oleksandr Smakula with grey hair, in a grey jacket, white shirt and light blue tie"
 ---
 
 ## Glass without glare

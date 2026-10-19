@@ -3,7 +3,7 @@ name: Олександр Смакула
 gender: male
 born: 1900-09-09
 died: 1983-05-17
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-19
 era: 20th-century
 group: science
 tags: [scientist, inventor]
@@ -25,6 +25,15 @@ places:
   - { name: "Форт-Бельвуар", lat: 38.712, lon: -77.146, note: "керівник лабораторії інженерних досліджень і розробок (1946–1951)" }
   - { name: "Кембридж (Массачусетс)", lat: 42.36, lon: -71.094, note: "Массачусетський технологічний інститут (MIT), 1951–1983" }
   - { name: "Оберн (Массачусетс)", lat: 42.195, lon: -71.835, note: "тут помер 1983 року" }
+image:
+  src: ./images/oleksandr-smakula.jpg
+  alt: "Уявний портрет літнього Олександра Смакули із сивим волоссям, у сірому піджаку, білій сорочці й блакитній краватці"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://en.wikipedia.org/wiki/File:Olexander_Smakula.jpg"
+  ai_edit: generated
+  fair_use: true
 sources:
   - title: "Енциклопедія історії України - Смакула Олександр Теодорович (автор - І. І. Винниченко)"
     url: "https://www.history.org.ua/?termin=Smakula_O"
@@ -32,7 +41,8 @@ sources:
     url: "https://history.aip.org/catalog/icos/40710.html"
   - title: "ZEISS - Eyeglass lenses: How it all began (історія фірми)"
     url: "https://www.zeiss.com/corporate/en/about-zeiss/past/history/technological-milestones/eyeglass-lenses.html"
-status: draft
+status: approved
+published: 2026-10-19T20:47:31Z
 ---
 
 ## Скло, яке не відблискує
