@@ -10,6 +10,7 @@ key_accomplishments:
   - "In December 2021 took command of a National Guard battalion group in the Joint Forces Operation area; from 24 February 2022 defended Mariupol"
   - "Hero of Ukraine (posthumously; decree No. 167/2022 of 25 March 2022)"
 birthplace_name: "Zaporizhzhia"
+image_alt: "Dmytro Apukhtin in a dark green dress uniform with shoulder boards, white shirt and tie"
 ---
 
 ## A colonel from Zaporizhzhia

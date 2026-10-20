@@ -3,7 +3,7 @@ name: Дмитро Апухтін
 gender: male
 born: 1977-04-01
 died: 2022-03-12
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -18,6 +18,15 @@ key_accomplishments:
 birthplace: { name: "Запоріжжя", region: zaporizhzhia, country: UA, lat: 47.838, lon: 35.139 }
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "обороняв підступи до міста; загинув на північній околиці 12 березня 2022" }
+image:
+  src: ./images/dmytro-apukhtin.jpg
+  alt: "Дмитро Апухтін у темно-зеленому парадному кітелі з погонами, білій сорочці й краватці"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Апухтін_Дмитро_Олександрович.jpg"
+  ai_edit: restored
+  fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Апухтін Дмитро Олександрович"
     url: "https://esu.com.ua/article-77652"
@@ -27,7 +36,8 @@ sources:
     url: "https://armyinform.com.ua/2022/04/02/dmytro-apuhtin-geroyichno-zagynuv-oboronyayuchy-mariupol/"
 related: [mykhailo-chuprin, stanislav-partala]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-20T00:11:19Z
 ---
 
 ## Полковник із Запоріжжя
