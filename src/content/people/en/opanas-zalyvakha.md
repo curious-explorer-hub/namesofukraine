@@ -28,7 +28,7 @@ In Kyiv he painted in [Alla Horska](/en/people/alla-horska/)’s studio, while [
 
 ## A window that lasted one night
 
-For Shevchenko’s 150th anniversary in 1964, Zalyvakha, Horska, Liudmyla Semykina and other artists made a stained-glass window for Kyiv University: Shevchenko raises a book in one hand and holds up a woman with the other. On the evening of 8 March it was lit up. The next morning the artists found it covered with a sheet and broken glass on the floor: it had been destroyed on the authorities’ orders.
+For Shevchenko’s 150th anniversary in 1964, Zalyvakha, Horska, [Liudmyla Semykina](/en/people/liudmyla-semykina/) and other artists made a stained-glass window for Kyiv University: Shevchenko raises a book in one hand and holds up a woman with the other. On the evening of 8 March it was lit up. The next morning the artists found it covered with a sheet and broken glass on the floor: it had been destroyed on the authorities’ orders.
 
 ## “Hold on, Panas”
 

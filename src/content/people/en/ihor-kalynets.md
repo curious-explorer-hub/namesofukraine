@@ -24,7 +24,7 @@ A young poet from Lviv published his first collection, Kupala’s Fire, in Kyiv 
 
 Ihor Kalynets was born in 1939 in Khodoriv, in the Lviv region. He graduated from Lviv University and worked at the regional archive. In 1962 [Ivan Dziuba](/en/people/ivan-dziuba/) and [Ivan Drach](/en/people/ivan-drach/) came to Lviv, and that meeting began a lasting friendship. [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/) recorded Kalynets reading his poems on tape. On trips to Kyiv the circle grew to include [Alla Horska](/en/people/alla-horska/) and [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/). And when Ukrainian intellectuals were put on trial in Lviv, [Viacheslav Chornovil](/en/people/viacheslav-chornovil/) and [Lina Kostenko](/en/people/lina-kostenko/) came to the trials.
 
-From 1965 the KGB kept watch on Kalynets and his wife, the poet Iryna Kalynets.
+From 1965 the KGB kept watch on Kalynets and his wife, the poet [Iryna Kalynets](/en/people/iryna-kalynets/).
 
 ## Six years in the camps, three in exile
 

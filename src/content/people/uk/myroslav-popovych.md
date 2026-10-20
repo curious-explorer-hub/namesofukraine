@@ -33,7 +33,8 @@ sources:
   - title: "Радіо Свобода - П. Кралюк, «Справжній український філософ (пам'яті Мирослава Поповича)» (2018)"
     url: "https://www.radiosvoboda.org/a/29033428.html"
 related: [hryhorii-skovoroda, ivan-drach, liubomyr-huzar]
-status: draft
+status: approved
+published: 2026-10-20T23:21:48Z
 ---
 
 ## Від учителя до академіка

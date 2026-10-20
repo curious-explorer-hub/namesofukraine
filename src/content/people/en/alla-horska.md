@@ -22,7 +22,7 @@ Did you know that one of the brightest figures of the Ukrainian Sixtiers didn’
 
 ## The club where the Sixtiers began
 
-Horska graduated from the Kyiv Art Institute and often worked together with her husband, the artist Viktor Zaretskyi. In the early 1960s she and [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), among other friends, set up the Club of Creative Youth “Suchasnyk” (The Contemporary) in Kyiv. [Ivan Drach](/en/people/ivan-drach/), [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/), [Mykhailyna Kotsiubynska](/en/people/mykhailyna-kotsiubynska/), [Ivan Dziuba](/en/people/ivan-dziuba/) and others joined it.
+Horska graduated from the Kyiv Art Institute and often worked together with her husband, the artist [Viktor Zaretskyi](/en/people/viktor-zaretskyi/). In the early 1960s she and [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), among other friends, set up the Club of Creative Youth “Suchasnyk” (The Contemporary) in Kyiv. [Ivan Drach](/en/people/ivan-drach/), [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/), [Mykhailyna Kotsiubynska](/en/people/mykhailyna-kotsiubynska/), [Ivan Dziuba](/en/people/ivan-dziuba/) and others joined it.
 
 In 1962–1963 Horska, [Vasyl Symonenko](/en/people/vasyl-symonenko/) and [Les Taniuk](/en/people/les-taniuk/) tracked down the places where the NKVD, the Soviet secret police, had secretly buried people it shot: at Bykivnia and at the Lukianivka and Vasylkiv cemeteries. They reported it to the Kyiv city council.
 

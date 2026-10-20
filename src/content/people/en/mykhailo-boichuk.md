@@ -28,7 +28,7 @@ Back in Lviv, Boichuk rescued old 15th- and 16th-century icons at the National M
 
 ## A school that painted walls
 
-In 1917 Boichuk became one of the founders of the Ukrainian Academy of Arts in Kyiv, where he taught monumental art. A school formed around him, the Boichukists, among them Ivan Padalka, Vasyl Sedliar and Oksana Pavlenko. Together they painted murals for the Lutsk Barracks in Kyiv (1919), a peasant sanatorium on the Khadzhybei Estuary in Odesa (1928) and the Chervonozavodskyi Theatre in Kharkiv (1933–1935).
+In 1917 Boichuk became one of the founders of the Ukrainian Academy of Arts in Kyiv, where he taught monumental art. A school formed around him, the Boichukists, among them Ivan Padalka, [Vasyl Sedliar](/en/people/vasyl-sedliar/) and Oksana Pavlenko. Together they painted murals for the Lutsk Barracks in Kyiv (1919), a peasant sanatorium on the Khadzhybei Estuary in Odesa (1928) and the Chervonozavodskyi Theatre in Kharkiv (1933–1935).
 
 ## Arrest and execution
 

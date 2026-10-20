@@ -5,7 +5,7 @@ Open and in-progress work only. What the site must do, the rules, and what's alr
 ## Status (2026-10-20)
 
 - **Live:** <https://namesofukraine.com> (since 2026-10-08; the soft-launch address `namesofukraine.pages.dev` redirects there), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
-- **Content:** 307 profiles published in Ukrainian and English; 43 drafts awaiting the owner's review.
+- **Content:** 309 profiles published in Ukrainian and English; 58 drafts awaiting the owner's review.
 - **Social:** daily posts on Threads and Instagram (@names_of_ukraine) from monthly plans in `social/`; October–December planned, 82 of the 278 profiles used, 196 left (about six months).
 - **Next milestone:** public launch = promotion (the feedback form is live, D19).
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
@@ -17,7 +17,7 @@ In order. Pick from the top.
 | # | Item                                                                              | Why now                                                                                                                                                    | Who            |
 |---|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | 1 | **Close Tally:** export its old submissions, then close the form | The site's own form (D19) is live and the weekly digest delivers its messages | Owner          |
-| 2 | **Content session** C4–C7 below, and the 43 drafts                            | The catalogue and its links now limit the site more than features do | Code + content |
+| 2 | **Content session** C4–C7 below, and the 58 drafts                            | The catalogue and its links now limit the site more than features do | Code + content |
 | 3 | **Social upkeep:** January plan by 2026-12-31; both tokens refreshed by 2026-11-29 | Without a plan or with an expired token, nothing is posted, and only the account that last edited a schedule gets GitHub's failure email ([MAINTENANCE.md](MAINTENANCE.md)) | Owner + code   |
 
 ### Content session (owner, 2026-10-06)

@@ -22,7 +22,7 @@ Les Kurbas knew the answer: go and see the best, then bring it home. He was born
 
 ## From the Young Theater to the Berezil
 
-Kurbas went to Kyiv to work in Mykola Sadovskyi’s theater in 1916, and in 1917 he created the Molodyi Teatr (Young Theater). There he staged Sophocles’ Oedipus Rex in Ukrainian for the first time and opened Ukrainian theater to European modernism. In 1922 he founded the Berezil artistic association with five workshops; in 1926 the theater moved to Kharkiv, then the capital of Soviet Ukraine. Kurbas made several films and trained a generation of actors and directors, among them Amvrosii Buchma, Yosyp Hirniak and Nataliia Uzhvii.
+Kurbas went to Kyiv to work in Mykola Sadovskyi’s theater in 1916, and in 1917 he created the Molodyi Teatr (Young Theater). There he staged Sophocles’ Oedipus Rex in Ukrainian for the first time and opened Ukrainian theater to European modernism. In 1922 he founded the Berezil artistic association with five workshops; in 1926 the theater moved to Kharkiv, then the capital of Soviet Ukraine. Kurbas made several films and trained a generation of actors and directors, among them Amvrosii Buchma, [Yosyp Hirniak](/en/people/yosyp-hirniak/) and Nataliia Uzhvii.
 
 Berezil’s peak came with the productions Kurbas created together with the playwright Mykola Kulish and the designer Vadym Meller: The People’s Malakhii (1928), Myna Mazailo (1929) and Maklena Grasa (1933).
 

@@ -32,7 +32,7 @@ In 1933 the Boichukists began painting the Chervonozavodskyi Theatre in Kharkiv,
 
 ## 1936–1937
 
-In September 1936 Padalka became the first of the Boichukists to be arrested. He was accused of belonging to a made-up “national-fascist terrorist organization”. On 13 July 1937 he was shot in Kyiv, on the same day as Mykhailo Boichuk and Vasyl Sedliar. He was rehabilitated in 1958.
+In September 1936 Padalka became the first of the Boichukists to be arrested. He was accused of belonging to a made-up “national-fascist terrorist organization”. On 13 July 1937 he was shot in Kyiv, on the same day as Mykhailo Boichuk and [Vasyl Sedliar](/en/people/vasyl-sedliar/). He was rehabilitated in 1958.
 
 ## Why it matters today
 

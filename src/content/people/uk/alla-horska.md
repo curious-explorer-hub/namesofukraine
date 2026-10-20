@@ -36,7 +36,7 @@ sources:
     url: "https://museum.khpg.org/1113894485"
   - title: "Радіо Свобода - «Вона глузувала зі шпиків КДБ»: як убили українську художницю-шістдесятницю Аллу Горську"
     url: "https://www.radiosvoboda.org/a/alla-gorska-50-rokiv-ubuvstva/30973779.html"
-related: [vasyl-symonenko, vasyl-stus, viacheslav-chornovil, ivan-dziuba, yevhen-sverstiuk, ivan-svitlychnyi, ivan-drach, mykola-vinhranovskyi, mykhailyna-kotsiubynska, opanas-zalyvakha, les-taniuk]
+related: [vasyl-symonenko, vasyl-stus, viacheslav-chornovil, ivan-dziuba, yevhen-sverstiuk, ivan-svitlychnyi, ivan-drach, mykola-vinhranovskyi, mykhailyna-kotsiubynska, opanas-zalyvakha, les-taniuk, viktor-zaretskyi]
 collections: [sixtiers]
 status: approved
 published: 2026-10-09T16:09:53Z
@@ -48,7 +48,7 @@ published: 2026-10-09T16:09:53Z
 
 ## Клуб, де народилося шістдесятництво
 
-Горська закінчила Київський художній інститут і часто працювала разом із чоловіком, художником Віктором Зарецьким. На початку 1960-х вона разом з [Іваном Світличним](/uk/people/ivan-svitlychnyi/) та іншими друзями організувала в Києві Клуб творчої молоді «Сучасник». До нього прийшли [Іван Драч](/uk/people/ivan-drach/), [Микола Вінграновський](/uk/people/mykola-vinhranovskyi/), [Михайлина Коцюбинська](/uk/people/mykhailyna-kotsiubynska/), [Іван Дзюба](/uk/people/ivan-dziuba/) та інші.
+Горська закінчила Київський художній інститут і часто працювала разом із чоловіком, художником [Віктором Зарецьким](/uk/people/viktor-zaretskyi/). На початку 1960-х вона разом з [Іваном Світличним](/uk/people/ivan-svitlychnyi/) та іншими друзями організувала в Києві Клуб творчої молоді «Сучасник». До нього прийшли [Іван Драч](/uk/people/ivan-drach/), [Микола Вінграновський](/uk/people/mykola-vinhranovskyi/), [Михайлина Коцюбинська](/uk/people/mykhailyna-kotsiubynska/), [Іван Дзюба](/uk/people/ivan-dziuba/) та інші.
 
 1962–1963 років Горська разом із [Василем Симоненком](/uk/people/vasyl-symonenko/) і [Лесем Танюком](/uk/people/les-taniuk/) відшукала місця, де НКВС таємно ховав розстріляних: у Биківні, на Лук'янівському й Васильківському цвинтарях. Про це вони написали до Київської міської ради.
 

@@ -18,7 +18,7 @@ quotes:
 
 ## Twenty Cossacks on a rail trolley
 
-The government of the Ukrainian People’s Republic (UNR) gave a secret order in April 1918: its Zaporozhian troops were to take Crimea ahead of the German army, which was then advancing into Ukraine, and seize the Black Sea Fleet. *(rest of section unchanged)* Colonel Petro Bolbochan led the Crimean Group. On 22 April some twenty Cossacks with machine guns sped across the Chonhar bridge on a rail trolley before the Bolsheviks could destroy it. The Zaporozhians went on to take Dzhankoi, Simferopol and Bakhchysarai. On 29 April Ukrainian flags were raised over several ships of the Black Sea Fleet in Sevastopol.
+The government of the Ukrainian People’s Republic (UNR) gave a secret order in April 1918: its Zaporozhian troops were to take Crimea ahead of the German army, which was then advancing into Ukraine, and seize the Black Sea Fleet. Colonel Petro Bolbochan led the Crimean Group. On 22 April some twenty Cossacks with machine guns sped across the Chonhar bridge on a rail trolley before the Bolsheviks could destroy it. The Zaporozhians went on to take Dzhankoi, Simferopol and Bakhchysarai. On 29 April Ukrainian flags were raised over several ships of the Black Sea Fleet in Sevastopol.
 
 But the German command demanded that the Ukrainian units leave the peninsula. After two days of talks, Kyiv ordered them to comply, and the Zaporozhians pulled back to Melitopol.
 
@@ -34,7 +34,7 @@ After the retreat from the Left Bank, Bolbochan was relieved of command. On 24 J
 
 ## Debates and assessments
 
-Historians are still divided over the Bolbochan case: some see him as an active organiser of the defence of Ukrainian statehood, others as a traitor. *(rest of section unchanged)* Some scholars write that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
+Historians are still divided over the Bolbochan case: some see him as an active organiser of the defence of Ukrainian statehood, others as a traitor. Some scholars write that in Proskuriv he meant to seize command of the corps and remove Petliura from power. Other authors consider the conspiracy charges groundless and see the January arrest as the initiative of Otaman Omelian Volokh rather than Petliura. The diplomat Viacheslav Lypynskyi resigned as head of the UNR mission in Vienna in protest at the execution.
 
 ## Why it matters today
 

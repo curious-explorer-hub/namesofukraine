@@ -19,7 +19,7 @@ quotes:
 
 ## A camera meant for Netflix
 
-Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series … *(rest of section unchanged)* produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When Russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
+Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When Russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
 
 ## Treating the enemy too
 

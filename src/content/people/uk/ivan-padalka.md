@@ -37,7 +37,7 @@ sources:
     url: "https://collection-lvivgallery.org.ua/works/1959-ekslibrys-o-slisarenka"
   - title: "Херсонська обласна наукова бібліотека ім. Олеся Гончара, Музей книги - Український художник Іван Падалка"
     url: "https://museum.lib.kherson.ua/ukrainskiy-hudozhnik-ivan-padalka.htm"
-related: [mykhailo-boichuk, maik-yohansen, valerian-polishchuk, oleksa-slisarenko, valerian-pidmohylnyi, taras-shevchenko, ivan-kotliarevskyi]
+related: [mykhailo-boichuk, maik-yohansen, valerian-polishchuk, oleksa-slisarenko, valerian-pidmohylnyi, taras-shevchenko, ivan-kotliarevskyi, vasyl-sedliar]
 collections: [executed-renaissance]
 status: approved
 published: 2026-10-18T17:49:44Z
@@ -61,7 +61,7 @@ published: 2026-10-18T17:49:44Z
 
 ## 1936–1937
 
-У вересні 1936 року Падалку заарештували першим із бойчукістів. Його звинуватили в участі у вигаданій «націонал-фашистській терористичній організації». 13 липня 1937 року його розстріляли в Києві, того самого дня, що й Михайла Бойчука та Василя Седляра. 1958 року Падалку реабілітували.
+У вересні 1936 року Падалку заарештували першим із бойчукістів. Його звинуватили в участі у вигаданій «націонал-фашистській терористичній організації». 13 липня 1937 року його розстріляли в Києві, того самого дня, що й Михайла Бойчука та [Василя Седляра](/uk/people/vasyl-sedliar/). 1958 року Падалку реабілітували.
 
 ## Чому це важливо сьогодні
 

@@ -28,7 +28,7 @@ Hawrylyshyn was a member of the Club of Rome, a group of scientists and public f
 
 ## What he brought home
 
-Hawrylyshyn worked closely with Ukraine’s scientific and state institutions from 1989. *(rest of section unchanged)* In 1991–1998 he chaired the Consultative Advisory Council to the Presidium of the Verkhovna Rada (the parliament), was co-chair of the International Renaissance Foundation, and co-founded the International Management Institute in Kyiv. From 2003 he was an honorary consul of Ukraine in Switzerland. He died in Kyiv in 2016.
+Hawrylyshyn worked closely with Ukraine’s scientific and state institutions from 1989. In 1991–1998 he chaired the Consultative Advisory Council to the Presidium of the Verkhovna Rada (the parliament), was co-chair of the International Renaissance Foundation, and co-founded the International Management Institute in Kyiv. From 2003 he was an honorary consul of Ukraine in Switzerland. He died in Kyiv in 2016.
 
 ## Why it matters today
 

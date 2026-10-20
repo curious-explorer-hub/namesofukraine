@@ -37,7 +37,7 @@ sources:
     url: "https://museum.khpg.org/1113911518"
   - title: "Zaxid.net - У Львові попрощалися з письменником та дисидентом Ігорем Калинцем (2025)"
     url: "https://zaxid.net/u_lvovi_poproshhalisya_z_pismennikom_ta_disidentom_igorem_kalintsem_n1613662"
-related: [ivan-dziuba, ivan-drach, ivan-svitlychnyi, alla-horska, yevhen-sverstiuk, viacheslav-chornovil, lina-kostenko, bohdan-ihor-antonych]
+related: [ivan-dziuba, ivan-drach, ivan-svitlychnyi, alla-horska, yevhen-sverstiuk, viacheslav-chornovil, lina-kostenko, bohdan-ihor-antonych, iryna-kalynets]
 collections: [sixtiers]
 status: approved
 published: 2026-10-11T03:38:47Z
@@ -51,7 +51,7 @@ published: 2026-10-11T03:38:47Z
 
 Ігор Калинець народився 1939 року в Ходорові на Львівщині. Закінчив Львівський університет і працював в обласному архіві. 1962 року до Львова приїхали [Іван Дзюба](/uk/people/ivan-dziuba/) та [Іван Драч](/uk/people/ivan-drach/), і з цієї зустрічі почалася їхня довга дружба. [Іван Світличний](/uk/people/ivan-svitlychnyi/) записував, як Калинець читає вірші, на магнітофонну плівку. У поїздках до Києва коло друзів росло: [Алла Горська](/uk/people/alla-horska/), [Євген Сверстюк](/uk/people/yevhen-sverstiuk/). А коли у Львові судили українських інтелігентів, на ці суди приїжджали [В'ячеслав Чорновіл](/uk/people/viacheslav-chornovil/) і [Ліна Костенко](/uk/people/lina-kostenko/).
 
-Від 1965 року за Калинцем і його дружиною, поетесою Іриною Калинець, стежив КДБ.
+Від 1965 року за Калинцем і його дружиною, поетесою [Іриною Калинець](/uk/people/iryna-kalynets/), стежив КДБ.
 
 ## Шість років таборів, три роки заслання
 

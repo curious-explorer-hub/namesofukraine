@@ -39,7 +39,7 @@ sources:
     url: "https://museum.khpg.org/1121197713"
   - title: "Укрінформ - На Прикарпатті стартував пленер українських художників до 100-річчя Опанаса Заливахи (05.08.2025)"
     url: "https://www.ukrinform.ua/rubric-culture/4022307-na-prikarpatti-startuvav-plener-ukrainskih-hudoznikiv-do-100ricca-opanasa-zalivahi.html"
-related: [alla-horska, ivan-svitlychnyi, ivan-dziuba, vasyl-stus, yevhen-sverstiuk, viacheslav-chornovil]
+related: [alla-horska, ivan-svitlychnyi, ivan-dziuba, vasyl-stus, yevhen-sverstiuk, viacheslav-chornovil, liudmyla-semykina]
 collections: [sixtiers]
 status: approved
 published: 2026-10-09T20:38:45Z
@@ -57,7 +57,7 @@ published: 2026-10-09T20:38:45Z
 
 ## Вітраж, що прожив одну ніч
 
-До 150-річчя Шевченка, 1964 року, Заливаха, Горська, Людмила Семикіна та інші художники створили вітраж для Київського університету: Шевченко однією рукою підносить книгу, а другою підтримує жінку. Увечері 8 березня вітраж засвітили. Наступного ранку художники знайшли його завішеним полотном, а на підлозі лежали биті шкельця: роботу знищили за наказом влади.
+До 150-річчя Шевченка, 1964 року, Заливаха, Горська, [Людмила Семикіна](/uk/people/liudmyla-semykina/) та інші художники створили вітраж для Київського університету: Шевченко однією рукою підносить книгу, а другою підтримує жінку. Увечері 8 березня вітраж засвітили. Наступного ранку художники знайшли його завішеним полотном, а на підлозі лежали биті шкельця: роботу знищили за наказом влади.
 
 ## «Тримайся, Панасе»
 
