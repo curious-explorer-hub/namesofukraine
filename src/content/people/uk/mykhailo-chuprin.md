@@ -3,7 +3,7 @@ name: Михайло Чупрін
 gender: male
 born: 1990-04-19
 died: 2022-03-19
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -18,6 +18,15 @@ key_accomplishments:
 birthplace: { name: "Красний Луч (нині Хрустальний), Луганська область", region: luhansk, country: UA, lat: 48.13, lon: 38.94 }
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "командував танковою ротою в обороні міста, лютий – березень 2022; загинув 19 березня 2022" }
+image:
+  src: ./images/mykhailo-chuprin.jpg
+  alt: "Михайло Чуприн із густою бородою, у камуфляжній кепці й куртці, на темному тлі"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorial.ua/obituaries/militaries/chuprin-myhailo-3704"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Чупрін Михайло Русланович"
     url: "https://esu.com.ua/article-77641"
@@ -27,7 +36,8 @@ sources:
     url: "https://armyinform.com.ua/2022/04/17/vony-ne-boyatsya-geroyi-tankisty-azovu-samoviddano-vidstoyuvaly-mariupol/"
 related: [stanislav-partala, dmytro-apukhtin]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-20T00:19:14Z
 ---
 
 ## Будівельник, який став танкістом

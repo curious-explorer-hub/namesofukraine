@@ -10,6 +10,7 @@ key_accomplishments:
   - "In February–March 2022 his company's tanks beat back eight attempts to break through the defence of Mariupol; on 13 March he personally knocked out 3 tanks and 2 armoured personnel carriers"
   - "Hero of Ukraine (posthumously; decree No. 167/2022 of 25 March 2022)"
 birthplace_name: "Krasnyi Luch (now Khrustalnyi), Luhansk region"
+image_alt: "Mykhailo Chuprin with a thick beard, in a camouflage cap and jacket, against a dark background"
 ---
 
 ## A builder who became a tank man
