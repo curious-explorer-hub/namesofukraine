@@ -3,7 +3,7 @@ name: Борис Ґудзяк
 gender: male
 born: 1960-11-24
 living: true
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: independence
 group: faith
 tags: [religious, scientist]
@@ -40,7 +40,8 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Greek Catholic Theological Academy"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CG%5CR%5CGreekCatholicTheologicalAcademy.htm"
 related: [yosyf-slipyi, andrei-sheptytskyi]
-status: draft
+status: approved
+published: 2026-10-20T01:39:27Z
 ---
 
 ## Хлопець із Сиракуз
