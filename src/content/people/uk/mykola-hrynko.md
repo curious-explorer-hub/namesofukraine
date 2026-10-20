@@ -3,7 +3,7 @@ name: Микола Гринько
 gender: male
 born: 1920-05-22
 died: 1989-04-10
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-19
 era: 20th-century
 group: performing-arts
 tags: [actor]
@@ -17,10 +17,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "естрада; з 1963 року Київська кіностудія імені Довженка" }
 image:
   src: ./images/mykola-hrynko.jpg
-  alt: "Микола Гринько в ролі Антона Чехова, у пенсне, 1968 рік"
-  author: "В. Мастюков (Главархив Москвы)"
-  license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Николай_Гринько_(1968).jpg"
+  alt: "Усміхнений Микола Гринько з хвилястим зачесаним волоссям, у темному піджаку й білій сорочці"
+  position: "50% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-31674"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "П'ять фільмів Андрія Тарковського: «Іванове дитинство», «Андрій Рубльов», «Солярис», «Дзеркало», «Сталкер»"
   - "Тато Карло в «Пригодах Буратіно» (1975)"
@@ -35,7 +38,8 @@ sources:
   - title: Вікіпедія - Гринько Микола Григорович
     url: https://uk.wikipedia.org/wiki/Гринько_Микола_Григорович
 related: [leonid-bykov]
-status: draft
+status: approved
+published: 2026-10-20T01:31:11Z
 ---
 
 ## Від фронту до сцени

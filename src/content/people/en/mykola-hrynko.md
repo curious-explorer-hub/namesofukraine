@@ -11,7 +11,7 @@ key_accomplishments:
   - "The colonel in Leonid Bykov’s Aty-baty, the Soldiers Were Going"
   - "People’s Artist of the Ukrainian SSR"
 birthplace_name: "Kherson"
-image_alt: "Mykola Hrynko as Anton Chekhov, wearing a pince-nez, 1968"
+image_alt: "A smiling Mykola Hrynko with wavy combed-back hair, in a dark jacket and white shirt"
 ---
 
 ## From the front to the stage
