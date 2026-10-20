@@ -14,6 +14,15 @@ birthplace: { name: "Житомир", region: zhytomyr, country: UA, lat: 50.254
 places:
   - { name: "Золотий Потік", lat: 48.909, lon: 25.343, note: "директор школи, 1953–1956" }
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "Інститут філософії; директор 2001–2018" }
+image:
+  src: ./images/myroslav-popovych.jpg
+  alt: "Мирослав Попович у світлій сорочці й окулярах біля дерев'яних дверей свого кабінету, 2014 рік"
+  position: "50% 25%"
+  author: "Світлана Левченко (The Ukrainians)"
+  license: "Fair use"
+  source_url: "https://theukrainians.org/myroslav-popovych/"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "«Нарис історії культури України» - Шевченківська премія (2001)"
   - "Книжки «Світогляд давніх слов'ян» (1985), «Червоне століття» (2005), «Бути людиною» (2011)"

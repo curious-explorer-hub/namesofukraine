@@ -14,6 +14,7 @@ birthplace_name: "Zhytomyr"
 quotes:
   - text: "Democratic values are not ghosts, not myths and not the inventions of cunning politicians."
     source: "The essay Liberal Values, or Reflections at the Front Entrance of Europe, Dzerkalo Tyzhnia, 30 November 2001"
+image_alt: "Myroslav Popovych in a light shirt and glasses by the wooden door of his office, 2014"
 ---
 
 ## From teacher to academician
