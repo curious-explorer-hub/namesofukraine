@@ -32,6 +32,7 @@ sources:
   - title: Вікіпедія - Миколайчук Іван Васильович
     url: https://uk.wikipedia.org/wiki/Миколайчук_Іван_Васильович
 related: [serhii-paradzhanov, leonid-bykov, bohdan-stupka, oleksandr-dovzhenko, taras-shevchenko]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

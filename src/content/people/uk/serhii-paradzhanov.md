@@ -38,6 +38,7 @@ sources:
   - title: Вікіпедія - Параджанов Сергій Йосипович
     url: https://uk.wikipedia.org/wiki/Сергій_Параджанов
 related: [vasyl-stus, mykhailo-kotsiubynskyi, ivan-mykolaichuk]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

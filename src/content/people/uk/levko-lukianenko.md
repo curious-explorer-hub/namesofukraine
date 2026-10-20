@@ -37,6 +37,7 @@ sources:
   - title: "Указ Президента України № 665/2005 «Про присвоєння Л. Лук'яненку звання Герой України»"
     url: "https://zakon.rada.gov.ua/laws/show/665/2005"
 related: [viacheslav-chornovil, vasyl-stus]
+collections: [sixtiers]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
