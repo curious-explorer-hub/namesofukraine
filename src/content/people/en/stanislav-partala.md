@@ -11,6 +11,7 @@ key_accomplishments:
   - "On 2 March 2022 organised the defence in a battle near Kalynivka outside Mariupol: the enemy lost three armoured vehicles and withdrew"
   - "Hero of Ukraine (posthumously; decree No. 167/2022 of 25 March 2022)"
 birthplace_name: "Kharkiv"
+image_alt: "Stanislav Partala in camouflage, holding red roses and an award case, speaking into a microphone on stage"
 ---
 
 ## A football fan who became a scout

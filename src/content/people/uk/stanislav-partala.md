@@ -3,7 +3,7 @@ name: Станіслав Партала
 gender: male
 born: 1984-10-05
 died: 2022-03-02
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -19,6 +19,15 @@ key_accomplishments:
 birthplace: { name: "Харків", region: kharkiv, country: UA, lat: 49.993, lon: 36.231 }
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "обороняв місто від 24 лютого 2022; загинув після бою біля Калинівки на східних околицях, 2 березня 2022" }
+image:
+  src: ./images/stanislav-partala.jpg
+  alt: "Станіслав Партала в камуфляжі, з букетом червоних троянд і коробкою з нагородою, говорить у мікрофон на сцені"
+  position: "50% 22%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Партала_Станіслав_Юрійович.jpg"
+  ai_edit: restored
+  fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Партала Станіслав Юрійович"
     url: "https://esu.com.ua/article-77586"
@@ -28,7 +37,8 @@ sources:
     url: "https://armyinform.com.ua/2022/03/28/rozvidnyk-vid-boga-pobratymy-pro-zagyblogo-geroya-ukrayiny-stanislava-partalu/"
 related: [mykhailo-chuprin, dmytro-apukhtin]
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-20T00:16:29Z
 ---
 
 ## Футбольний фанат, який став розвідником
