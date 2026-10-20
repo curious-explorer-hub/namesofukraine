@@ -75,5 +75,5 @@ People the owner decided not to profile. Don't draft them, link to them or sugge
 | Person | Years | Reason | Decided |
 |---|---|---|---|
 | Леонід Кравчук | 1934–2022 | Owner decision; draft removed | 2026-10-16 |
-| Антон Макаренко | 1888–1939 | Owner decision: worked for the GPU–NKVD system (the Dzerzhinsky commune, then the NKVD labour colonies department, 1935–1937); draft kept, not to be published | 2026-10-16 |
-| Лариса Латиніна | b. 1934 | Owner decision; draft kept, not to be published | 2026-10-19 |
+| Антон Макаренко | 1888–1939 | Owner decision: worked for the GPU–NKVD system (the Dzerzhinsky commune, then the NKVD labour colonies department, 1935–1937); draft removed 2026-10-19 | 2026-10-16 |
+| Лариса Латиніна | b. 1934 | Owner decision; draft removed | 2026-10-19 |
