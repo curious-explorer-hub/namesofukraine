@@ -3,16 +3,12 @@
 import { execFileSync } from 'node:child_process';
 
 const allowed = {
-  // Via satori (share cards). Malformed ZIP64 input; satori runs only at build time on our own files.
-  'GHSA-px8p-9vwx-vf98': 'fflate: build-time only, trusted input',
   // Via @lhci/cli (Lighthouse budget, CI only). It audits our own dist/ on localhost: no FTP, proxy,
-  // downloaded archives, temp-file names or formats from outside input.
+  // downloaded archives or formats from outside input.
   'GHSA-c475-qrg2-pj4r': 'basic-ftp: CI only, no FTP',
   'GHSA-jmr9-qjv8-65gv': 'extract-zip: CI only, no untrusted archives',
   'GHSA-7pqw-9j4j-h8q3': 'extract-zip: CI only, no untrusted archives',
   'GHSA-hp3w-g68c-fv3c': 'sprintf-js: CI only, no outside format input',
-  'GHSA-52f5-9888-hmc6': 'tmp: CI only, fixed temp names on a throwaway runner',
-  'GHSA-ph9p-34f9-6g65': 'tmp: CI only, fixed temp names on a throwaway runner',
   'GHSA-w5hq-g745-h8pq': 'uuid: CI only, no caller-supplied buffers',
 };
 
