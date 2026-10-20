@@ -3,7 +3,7 @@ name: Юрій Тютюнник
 gender: male
 born: 1891-04-20
 died: 1930-10-20
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-20
 era: 20th-century
 group: statehood
 tags: [warrior]
@@ -18,10 +18,11 @@ places:
   - { name: "Москва", lat: 55.756, lon: 37.617, note: "місце розстрілу, 1930" }
 image:
   src: ./images/yurii-tiutiunnyk.jpg
-  alt: "Юрій Тютюнник у кашкеті й бурці, 1920 рік"
-  author: "Невідомий автор (світлина з Віртуального музею УНР)"
+  alt: "Юрій Тютюнник у темному піджаку й світлій сорочці"
+  author: "Невідомий автор (Архів СБУ)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Генерал_Юрій_Тютюнник._Фото_1920_р.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Юрко_Тютюнник.jpg"
 key_accomplishments:
   - "Кошовий отаман Вільного козацтва Звенигородщини і один із керівників Звенигородського повстання (1918)"
   - "Помічник командувача армії УНР, один з ініціаторів і організаторів Першого зимового походу (1919–1920)"
@@ -38,7 +39,8 @@ sources:
     url: "https://armyinform.com.ua/2021/10/20/20-zhovtnya-1930-go-u-moskvi-buv-rozstrilyanyj-legendarnyj-general-horunzhyj-armiyi-unr-yurij-tyutyunnyk/"
 related: [symon-petliura, mykhailo-omelianovych-pavlenko, maik-yohansen, oleksandr-dovzhenko]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-20T15:33:40Z
 ---
 
 ## Отаман зі Звенигородщини

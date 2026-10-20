@@ -10,7 +10,7 @@ key_accomplishments:
   - "Commander of the Ukrainian Insurgent Army on the Second Winter Campaign (November 1921)"
   - "Co-author of the script of the film Zvenyhora"
 birthplace_name: "Budyshche"
-image_alt: "Yurii Tiutiunnyk in a cap and felt cloak, 1920"
+image_alt: "Yurii Tiutiunnyk in a dark jacket and light shirt"
 ---
 
 ## An otaman from the Zvenyhorod area
