@@ -10,6 +10,7 @@ key_accomplishments:
   - "Order of Freedom (posthumously, decree No. 500/2025 of 19 July 2025)"
   - "A street in Zaporizhzhia bears his name (2024)"
 birthplace_name: "Berdiansk"
+image_alt: "Tihran Ohannisian with long fringe, in a black tank top and a neck chain"
 ---
 
 ## He stayed

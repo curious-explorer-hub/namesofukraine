@@ -10,6 +10,7 @@ key_accomplishments:
   - "Order of Freedom (posthumously, decree No. 500/2025 of 19 July 2025)"
   - "A street in Zaporizhzhia bears his name (2024)"
 birthplace_name: "Berdiansk"
+image_alt: "A smiling Mykyta Khanhanov in a hooded jacket with a backpack, standing on the seashore"
 ---
 
 ## He didn’t hide whose side he was on

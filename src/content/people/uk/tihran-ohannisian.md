@@ -4,7 +4,7 @@ gender: male
 born: 2006-01-01
 born_circa: true
 died: 2023-06-24
-last_reviewed: 2026-10-13
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: civic
 tags: [human-rights]
@@ -19,6 +19,15 @@ key_accomplishments:
   - "Європарламент 15 червня 2023 року ухвалив резолюцію з вимогою припинити переслідування його та Микити Ханганова"
   - "Орден Свободи (посмертно, указ № 500/2025 від 19 липня 2025 року)"
   - "Його ім'я носить вулиця в Запоріжжі (2024)"
+image:
+  src: ./images/tihran-ohannisian.jpg
+  alt: "Тигран Оганнісян із довгим чубчиком, у чорній майці й ланцюжку на шиї"
+  position: "53% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://armyinform.com.ua/2025/07/19/prezydent-vidznachyv-ordenom-svobody-16-richnyh-tigrana-ogannisyana-ta-mykytu-hanganova-yakyh-vbyly-rosijski-zagarbnyky/"
+  ai_edit: restored
+  fair_use: true
 sources:
   - title: "Указ Президента України № 500/2025 від 19 липня 2025 року «Про нагородження орденом Свободи»"
     url: "https://zakon.rada.gov.ua/laws/show/500/2025"
@@ -29,7 +38,8 @@ sources:
   - title: "Фокус - У Запоріжжі вулиці назвали на честь убитих росіянами підлітків"
     url: "https://focus.ua/uk/voennye-novosti/647509-u-zaporizhzhi-vulici-nazvali-na-chest-vbitih-rosiyanami-pidlitkiv"
 related: [mykyta-khanhanov]
-status: draft
+status: approved
+published: 2026-10-20T00:01:51Z
 ---
 
 ## Він залишився
