@@ -40,7 +40,7 @@ sources:
   - title: Вікіпедія - Рильський Максим Тадейович
     url: https://uk.wikipedia.org/wiki/Рильський_Максим_Тадейович
 related: [mykola-zerov, yurii-klen, pavlo-fylypovych, mykhailo-drai-khmara, mykola-lysenko]
-collections: [neoclassicists]
+collections: [neoclassicists, executed-renaissance]
 status: approved
 published: 2026-10-10T21:22:55Z
 ---

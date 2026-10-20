@@ -43,6 +43,7 @@ sources:
   - title: "Радіо Свобода - 20 років з часу смерті автора мовного бестселера «Як ми говоримо» (11.05.2004)"
     url: "https://www.radiosvoboda.org/a/915534.html"
 related: [hryhorii-kosynka]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-15T17:51:25Z
 ---

@@ -40,6 +40,7 @@ sources:
   - title: "Слоньовська О. В. Українська література, 11 клас (2019) - Іван Багряний"
     url: "https://uahistory.co/pidruchniki/slonyovska-ukraine-literature-11-class-2019-standard-level/22.php"
 related: [valerian-pidmohylnyi, mykola-khvylovyi]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-13T22:48:18Z
 ---

@@ -41,6 +41,7 @@ sources:
   - title: "КПІ ім. Ігоря Сікорського - Кравчук Михайло Пилипович"
     url: "https://kpi.ua/kravchuk_mykhaylo"
 related: [serhii-korolov, arkhyp-liulka]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-15T23:46:22Z
 ---
