@@ -36,6 +36,7 @@ sources:
   - title: Вікіпедія - Коцюбайло Дмитро Іванович
     url: https://uk.wikipedia.org/wiki/Коцюбайло_Дмитро_Іванович
 related: [andrii-pilshchykov, valerii-chybinieiev, nazarii-hryntsevych]
+collections: [bakhmut]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

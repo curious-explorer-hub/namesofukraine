@@ -31,6 +31,7 @@ sources:
   - title: "Ліга.net - Малюк, Мадяр та Петриченко отримали звання Героя України"
     url: "https://news.liga.net/ua/politics/news/maliuk-madiar-ta-petrychenko-otrymaly-zvannia-heroia-ukrainy"
 related: [mykhailo-drapatyi]
+collections: [bakhmut]
 status: draft
 ---
 

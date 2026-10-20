@@ -37,7 +37,7 @@ sources:
   - title: "Еспресо - «Чорний квадрат» Малевича на аватарках: флешмоб на підтримку Ратушного (2021)"
     url: "https://espreso.tv/chorniy-kvadrat-malevicha-na-avatarkakh-rozpochavsya-fleshmob-proti-prokuraturi-ta-politsii-cherez-pidozri-uchasnikam-aktsii-pid-opu"
 related: [viacheslav-chornovil, kazymyr-malevych, iryna-tsybukh]
-collections: [civic-icons]
+collections: [civic-icons, battle-of-kyiv]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

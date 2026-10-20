@@ -35,6 +35,7 @@ sources:
   - title: "Радіо Свобода - «Остаточно підтвердили»: СБУ назвала прізвище військового, якого розстріляли після слів «Слава Україні»"
     url: "https://www.radiosvoboda.org/a/news-sbu-rozstril-viyskovyy-slava-ukrayini/32314352.html"
 related: [nazarii-hryntsevych]
+collections: [bakhmut]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

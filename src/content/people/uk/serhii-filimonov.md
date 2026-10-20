@@ -34,6 +34,7 @@ sources:
   - title: Вікіпедія - Філімонов Сергій Федорович
     url: https://uk.wikipedia.org/wiki/Філімонов_Сергій_Федорович
 related: [dmytro-kotsiubailo]
+collections: [bakhmut]
 status: draft
 ---
 

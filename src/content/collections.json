@@ -193,6 +193,106 @@
       }
     },
     {
+      "id": "battle-of-kyiv",
+      "draft": true,
+      "label": {
+        "uk": "Битва за Київ",
+        "en": "The Battle of Kyiv"
+      },
+      "description": {
+        "uk": "Лютий - березень 2022 року: люди, які зупинили наступ на столицю й звільнили Київщину.",
+        "en": "February - March 2022: the people who stopped the assault on the capital and freed the Kyiv region."
+      },
+      "image": {
+        "file": "battle-of-kyiv.jpg",
+        "caption": {
+          "uk": "Битва за Київ",
+          "en": "The Battle of Kyiv"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "kharkiv-counteroffensive",
+      "draft": true,
+      "label": {
+        "uk": "Харківський контрнаступ",
+        "en": "The Kharkiv counteroffensive"
+      },
+      "description": {
+        "uk": "Вересень 2022 року: прорив, який за кілька днів звільнив Балаклію, Ізюм і Куп'янськ.",
+        "en": "September 2022: the breakthrough that freed Balakliia, Izium and Kupiansk within days."
+      },
+      "image": {
+        "file": "kharkiv-counteroffensive.jpg",
+        "caption": {
+          "uk": "Харківський контрнаступ",
+          "en": "The Kharkiv counteroffensive"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "bakhmut",
+      "draft": true,
+      "label": {
+        "uk": "Бахмут",
+        "en": "The Battle for Bakhmut"
+      },
+      "description": {
+        "uk": "Серпень 2022 - травень 2023 року: одна з найдовших битв великої війни і ті, хто її вів.",
+        "en": "August 2022 - May 2023: one of the longest battles of the full-scale war, and those who fought it."
+      },
+      "image": {
+        "file": "bakhmut.jpg",
+        "caption": {
+          "uk": "Бахмут",
+          "en": "The Battle for Bakhmut"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "kherson-counteroffensive",
+      "draft": true,
+      "label": {
+        "uk": "Звільнення Херсонщини",
+        "en": "The liberation of Kherson"
+      },
+      "description": {
+        "uk": "Серпень - листопад 2022 року: наступ, що повернув Херсон і правобережжя Херсонщини.",
+        "en": "August - November 2022: the offensive that brought back Kherson and the right bank of the Dnipro."
+      },
+      "image": {
+        "file": "kherson-counteroffensive.jpg",
+        "caption": {
+          "uk": "Звільнення Херсонщини",
+          "en": "The liberation of Kherson"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
       "id": "defenders-mariupol",
       "label": {
         "uk": "Оборона Маріуполя",

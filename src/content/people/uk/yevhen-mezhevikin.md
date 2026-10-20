@@ -38,7 +38,7 @@ sources:
   - title: "LB.ua - Герой України Євген (Адам) Межевікін: «Танки і далі залишаться технікою, яка може вирішити результат бою»"
     url: "https://lb.ua/society/2024/11/02/642878_geroy_ukraini_ievgen_adam.html"
 related: [oleksandr-trepak]
-collections: [donetsk-airport]
+collections: [donetsk-airport, battle-of-kyiv, kharkiv-counteroffensive, bakhmut]
 status: approved
 published: 2026-10-12T18:50:38Z
 ---

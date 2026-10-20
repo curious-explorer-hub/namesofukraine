@@ -28,6 +28,7 @@ sources:
   - title: "Вежа - Командиру спецпідрозділу ГУР «Артан» Віктору Торкотюку присвоєно звання полковника (03.01.2026)"
     url: "https://vezha.ua/komandyru-spetspidrozdilu-gur-artan-viktoru-torkotyuku-z-vinnytsi-prysvoyeno-zvannya-polkovnyka/"
 related: []
+collections: [bakhmut]
 status: draft
 ---
 

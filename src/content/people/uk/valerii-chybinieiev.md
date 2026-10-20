@@ -35,7 +35,7 @@ sources:
   - title: "Новинарня - У бою за Гостомель загинув Герой України Валерій Чибінєєв"
     url: "https://novynarnia.com/2022/03/04/u-boyu-za-gostomel-zagynuv-geroj-ukrayiny-valerij-chybinyeyev/"
 related: [dmytro-kotsiubailo, oleksandr-matsiievskyi]
-collections: [donetsk-airport]
+collections: [donetsk-airport, battle-of-kyiv]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
