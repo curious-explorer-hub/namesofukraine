@@ -16,17 +16,17 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.4",
-    "astro": "^7.3.8"
+    "astro": "^7.4.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
     "@lhci/cli": "0.15.1",
     "@playwright/test": "^1.64.0",
     "@resvg/resvg-js": "^2.6.2",
-    "happy-dom": "^20.14.6",
+    "happy-dom": "^21.0.3",
     "satori": "^0.35.0",
     "typescript": "^6.0.3",
-    "vitest": "^5.0.3",
-    "wrangler": "4.149.0"
+    "vitest": "^5.0.5",
+    "wrangler": "4.151.0"
   }
 }
