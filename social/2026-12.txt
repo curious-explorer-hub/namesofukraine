@@ -1,11 +1,11 @@
 yevhen-sverstiuk        # died 1 December 2014
 ivan-franko
-kateryna-polishchuk
+hryhorii-skovoroda      # born 3 December 1722; was kateryna-polishchuk (to re-plan)
 serhii-bubka            # born 4 December 1963
 mykola-pyrohov          # died 5 December 1881
 andrii-pilshchykov      # Armed Forces of Ukraine Day
 olena-stepaniv          # born 7 December 1892
-mykola-hohol
+mykhailo-omelianovych-pavlenko # born 8 December 1878; was mykola-hohol (born 1 April)
 raisa-kyrychenko
 vasyl-stus              # Human Rights Day
 yaroslav-mudryi
@@ -14,18 +14,18 @@ mykola-leontovych       # born 13 December 1877
 vasyl-symonenko
 serzh-lyfar             # died 15 December 1986
 serhii-tabala           # born 16 December 1995
-danylo-halytskyi
+sviatoslav-karavanskyi  # died 17 December 2016, 10th anniversary; was danylo-halytskyi (to re-plan)
 mykhailyna-kotsiubynska # born 18 December 1931
 mykhailo-verbytskyi     # died 19 December 1870
 vira-kholodna
-leonid-kadeniuk
+yevhen-chykalenko       # born 21 December 1861, 165th anniversary; was leonid-kadeniuk (born 28 January)
 marko-vovchok           # born 22 December 1833
-yaryna-chornohuz
+petro-poltava           # died 23 December 1951, 75th anniversary; was yaryna-chornohuz (to re-plan)
 viacheslav-chornovil    # born 24 December 1937
 liubomyr-huzar          # Christmas
 sviatoslav-horbenko     # born 26 December 1994
 roksolana
-ivan-marchuk
+danylo-zabolotnyi       # born 28 December 1866, 160th anniversary; was ivan-marchuk (born 12 May)
 mariia-zankovetska
 oleksandr-matsiievskyi  # died 30 December 2022
 ihor-kostenko           # born 31 December 1991
