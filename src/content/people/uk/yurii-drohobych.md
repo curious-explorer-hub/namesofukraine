@@ -18,11 +18,11 @@ places:
   - { name: "Рим", lat: 41.902, lon: 12.496, note: "тут 1483 року надрукували його «Прогностичну оцінку»" }
 image:
   src: ./images/yurii-drohobych.jpg
-  alt: "Меморіальна дошка Юрію Дрогобичу італійською та українською мовами в палаццо Поджі, Болонья"
-  position: "50% 50%"
-  author: "Patafisik"
-  license: "CC0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Placca_a_Jurij_Drohoby%C4%8D_-_Palazzo_Poggi_(Bologna).jpg"
+  alt: "Уявний портрет Юрія Дрогобича, сивого чоловіка з довгою білою бородою, у темному вбранні з білим мереживним комірцем, створений ШІ"
+  position: "50% 30%"
+  author: "Знай своїх"
+  license: "Public domain"
+  ai_edit: generated
 key_accomplishments:
   - "Ректор Болонського університету (1481–1482), де викладав астрономію і медицину"
   - "«Прогностична оцінка поточного 1483 року» (Рим, 1483) - перша книжка українця, видана за кордоном"
@@ -38,7 +38,8 @@ sources:
   - title: "Велика українська енциклопедія - Дрогобич, Юрій"
     url: "https://vue.gov.ua/Дрогобич,_Юрій"
 related: []
-status: draft
+status: approved
+published: 2026-10-20T23:11:43Z
 ---
 
 ## «Магістр Георгій з Русі»

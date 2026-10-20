@@ -10,7 +10,7 @@ key_accomplishments:
   - "Calculated solar and lunar eclipses and the geographic coordinates of Lviv and Drohobych"
   - "Professor of medicine at Kraków University from 1487"
 birthplace_name: "Drohobych"
-image_alt: "Memorial plaque to Yurii Drohobych in Italian and Ukrainian at Palazzo Poggi, Bologna"
+image_alt: "Imagined portrait of Yurii Drohobych, a grey-haired man with a long white beard in dark clothes and a white lace collar, made by AI"
 ---
 
 ## “Master George of Rus’”
