@@ -3,7 +3,7 @@ name: Юрій Тимусь
 gender: male
 born: 1987-05-02
 died: 2022-03-31
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -19,6 +19,15 @@ key_accomplishments:
   - "У лютому – березні 2022 року обороняв Київ, виконав 28 бойових вильотів"
   - "31 березня 2022 року виконував один із семи рейсів авіапрориву до оточеного Маріуполя"
   - "Орден «За мужність» III ступеня (2022); Герой України посмертно (указ № 661/2024 від 30 вересня 2024)"
+image:
+  src: ./images/yurii-tymus.jpg
+  alt: "Юрій Тимусь у парадному кітелі льотчика з погонами, нагородами й іменною табличкою"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorial.ua/obituaries/militaries/tymus-iurii-3867"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Тимусь Юрій Володимирович"
     url: "https://esu.com.ua/article-886571"
@@ -30,7 +39,8 @@ sources:
     url: "https://memorial.ua/articles/teksty-pamiati/misiia-mariupol-istoriia-heroia-ukrainy-iuriia-tymusia"
 related: []
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-20T01:33:50Z
 ---
 
 ## Від Ліберії до Маріуполя

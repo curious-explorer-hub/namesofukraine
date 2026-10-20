@@ -11,6 +11,7 @@ key_accomplishments:
   - "On 31 March 2022 flew one of the seven runs of the air bridge into encircled Mariupol"
   - "Order For Courage, 3rd class (2022); Hero of Ukraine, posthumously (decree No. 661/2024 of 30 September 2024)"
 birthplace_name: "Ditkivtsi"
+image_alt: "Yurii Tymus in an air force dress uniform with shoulder boards, decorations and a name tag"
 ---
 
 ## From Liberia to Mariupol
