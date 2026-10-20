@@ -17,6 +17,7 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Levko_Revutsky.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Друга симфонія на теми народних пісень, яку вважають найкращим українським симфонічним твором першої половини XX століття"
   - "Концерт для фортепіано з оркестром (1934) і кантата «Хустина» (1923)"
@@ -33,7 +34,8 @@ sources:
   - title: "Урядовий портал - Відбулась презентація видання «Левко Ревуцький. Симфонія № 2. Перша редакція»"
     url: "https://www.kmu.gov.ua/news/derzhkomteleradio-vidbulas-prezentaciya-vidannya-levko-revuckij-simfoniya-2-persha-redakciya"
 related: [mykola-lysenko]
-status: draft
+status: approved
+published: 2026-10-20T23:41:44Z
 ---
 
 ## Ноти, що повернулися
