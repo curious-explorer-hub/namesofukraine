@@ -1,0 +1,65 @@
+name: Check tokens
+
+# Every Monday, checks that the Threads, Instagram and Cloudflare tokens still work and don't expire within
+# 10 days (scripts/check-tokens.mjs), and that the Gmail app password still logs in. If anything needs
+# attention it emails the owner the report, the same way as the feedback digest, and the run fails, so
+# GitHub's failure email is a second warning. The run's Summary page shows a table of every secret with its
+# expiry date. The log shows only names, states and dates.
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Mondays, an hour before the digest
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Check the tokens
+        id: tokens
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ANALYTICS_TOKEN: ${{ secrets.CLOUDFLARE_ANALYTICS_TOKEN }}
+          CLOUDFLARE_D1_TOKEN: ${{ secrets.CLOUDFLARE_D1_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if node scripts/check-tokens.mjs > "$RUNNER_TEMP/tokens.md"; then echo "attention=false" >> "$GITHUB_OUTPUT"; else echo "attention=true" >> "$GITHUB_OUTPUT"; fi
+          cat "$RUNNER_TEMP/tokens.md"
+          cat "$RUNNER_TEMP/tokens.md" >> "$GITHUB_STEP_SUMMARY"
+      # With nothing to report, a NOOP after logging in confirms the app password without sending mail.
+      - name: Email the report, or check the Gmail login
+        env:
+          ATTENTION: ${{ steps.tokens.outputs.attention }}
+          MAIL_USER: ${{ secrets.FEEDBACK_MAIL_USER }}
+          MAIL_PASSWORD: ${{ secrets.FEEDBACK_MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.FEEDBACK_MAIL_TO }}
+        run: |
+          if [ "$ATTENTION" != "true" ]; then
+            curl --silent --show-error --ssl-reqd --url 'smtps://smtp.gmail.com:465' \
+              --user "$MAIL_USER:${MAIL_PASSWORD// /}" --request NOOP > /dev/null \
+              || { echo '| FEEDBACK_MAIL_PASSWORD | ⚠️ login failed | no expiry | - | create a new Gmail app password and update the secret |' >> "$GITHUB_STEP_SUMMARY"; exit 1; }
+            echo '| FEEDBACK_MAIL_PASSWORD | ✅ ok | no expiry | - | |' >> "$GITHUB_STEP_SUMMARY"
+            echo "Gmail login OK."
+            exit 0
+          fi
+          {
+            printf 'From: Know Your Own <%s>\r\nTo: %s\r\nSubject: Tokens need attention\r\n' "$MAIL_USER" "$MAIL_TO"
+            printf 'Content-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n'
+            cat "$RUNNER_TEMP/tokens.md"
+          } > "$RUNNER_TEMP/mail.txt"
+          curl --silent --show-error --ssl-reqd --url 'smtps://smtp.gmail.com:465' \
+            --user "$MAIL_USER:${MAIL_PASSWORD// /}" --mail-from "$MAIL_USER" --mail-rcpt "$MAIL_TO" \
+            --upload-file "$RUNNER_TEMP/mail.txt"
+          echo '| FEEDBACK_MAIL_PASSWORD | ✅ ok (sent this report) | no expiry | - | |' >> "$GITHUB_STEP_SUMMARY"
+          echo "Sent the report."
+      - name: Fail when a token needs attention
+        if: steps.tokens.outputs.attention == 'true'
+        run: exit 1

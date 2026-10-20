@@ -38,7 +38,7 @@ In order. Pick from the top.
 
 Not scheduled.
 
-- **I29. Social posts, next steps** (from L13). Automatic token refresh (a monthly workflow that refreshes both tokens and saves them back to the secrets, which needs a GitHub token that can write secrets) or a reminder run that fails 10 days before expiry; a richer post template (fun fact or misconception as a second post or carousel); English posts.
+- **I29. Social posts, next steps** (from L13). Automatic token refresh (a monthly workflow that refreshes both tokens and saves them back to the secrets, which needs a GitHub token that can write secrets) a richer post template (fun fact or misconception as a second post or carousel); English posts.
 - **I1. "Share this person" buttons** on profiles.
 - **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked and was removed pending refinement; `places[]` is filled in 207 profiles and `quotes[]` in 172. Open: keeping a timeline in sync with the prose; a real map vs a list of OpenStreetMap links; whether every profile needs all three.
 - **I16. "Most read".** Readers' numbers are already on the Stats page (D20). Still open, a public "Most read this month" row: a nightly GitHub Action reads the Web Analytics GraphQL API, writes `src/content/popular.json` and rebuilds (no server code; one read-only token). Only at a few hundred profile views a week.

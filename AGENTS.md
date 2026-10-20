@@ -33,7 +33,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/site.ts` | Site settings (feedback-form site key, social and donation URLs) |
 | `functions/api/feedback.ts`, `db/feedback.sql` | The feedback form's Pages Function and its D1 table (D19) |
 | `public/_headers`, `public/_redirects` | CSP and security headers; redirects |
-| `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), feedback pull, readers' numbers for the Stats page (`pull-readers.mjs`, into the untracked `src/data/`), Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`; `preview-social.mjs` previews a post) |
+| `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), the weekly token check (`check-tokens.mjs`), feedback pull, readers' numbers for the Stats page (`pull-readers.mjs`, into the untracked `src/data/`), Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`; `preview-social.mjs` previews a post) |
 
 ## Docs
 

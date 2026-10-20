@@ -59,6 +59,10 @@ Ask in this repository:
 
 > Run `npm run feedback` for the last 7 days, summarize the submissions by topic, check each correction against reputable sources, propose the edits (uk + en) and new CANDIDATES.md rows, and wait for my approval before changing anything. Don't copy personal data into the repo.
 
+### Weekly, automatic: token check
+
+Every Monday, **Actions → Check tokens** (`.github/workflows/check-tokens.yml`, `scripts/check-tokens.mjs`) checks that the Threads, Instagram and three Cloudflare tokens still work and don't expire within 10 days, and that the Gmail app password still logs in. If anything needs attention, it emails the report to `FEEDBACK_MAIL_TO` and the run fails. Each run's **Summary** page has a table of every secret with its status, expiry date and days left. Threads and Cloudflare expiry dates come from their APIs; Instagram's can't be read, so it is kept in `INSTAGRAM_EXPIRES` in the script. Run it by hand after updating a secret.
+
 ### Every ~50 days: refresh the Threads token
 
 The daily Threads posts ([PUBLISHING.md](PUBLISHING.md#posting-to-threads)) use a long-lived token in the `THREADS_ACCESS_TOKEN` repository secret. It lasts 60 days; once it expires, the workflow fails and nothing is posted. **Current token expires 2026-12-09; refresh by 2026-11-29.** A refresh gives a new 60-day token and works only while the old one is still valid (and at least a day old).
@@ -96,7 +100,7 @@ read -s "NEW?New token: "; echo
 curl -s "https://graph.instagram.com/me?fields=user_id,username&access_token=$NEW"   # the site's account
 ```
 
-Then save it in the secret and your password manager, update the date above and set a reminder, as for Threads. The refresh works only while the token is valid and at least a day old; if it has expired, generate a new one (PUBLISHING.md, Instagram setup, step 4).
+Then save it in the secret and your password manager, update the date above and `INSTAGRAM_EXPIRES` in `scripts/check-tokens.mjs`, as for Threads. The refresh works only while the token is valid and at least a day old; if it has expired, generate a new one (PUBLISHING.md, Instagram setup, step 4).
 
 ### Monthly (about 15 minutes)
 
