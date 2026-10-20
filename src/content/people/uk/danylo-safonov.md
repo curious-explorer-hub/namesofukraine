@@ -3,7 +3,7 @@ name: Даніїл Сафонов
 gender: male
 born: 1993-10-24
 died: 2022-05-02
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -18,6 +18,14 @@ key_accomplishments:
 birthplace: { name: "Донецьк", region: donetsk, country: UA, lat: 48.016, lon: 37.803 }
 places:
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "патрульний поліцейський від 2019 року; обороняв місто 2022 року, загинув на «Азовсталі»" }
+image:
+  src: ./images/danylo-safonov.jpg
+  alt: "Даніїл Сафонов у кепці, куртці кольору койот і бронежилеті, з нашивкою патрульної поліції Маріуполя на рукаві"
+  position: "50% 25%"
+  author: "Даніїл Сафонов"
+  license: "CC BY-SA 4.0"
+  source_url: "https://commons.wikimedia.org/wiki/File:Сафонов_Даниїл.jpg"
+  ai_edit: restored
 sources:
   - title: "Енциклопедія Сучасної України - Сафонов Данило Юрійович"
     url: "https://esu.com.ua/article-879855"
@@ -27,7 +35,8 @@ sources:
     url: "https://www.ukrinform.ua/rubric-ato/4054820-pamati-geroa-ukraini-policejskogo-daniila-safonova.html"
 related: []
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-20T01:42:59Z
 ---
 
 ## Що робити, коли твоє місто захопили?

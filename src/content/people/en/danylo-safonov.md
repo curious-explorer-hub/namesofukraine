@@ -10,6 +10,7 @@ key_accomplishments:
   - "Defended Mariupol in 2022; with his colleagues helped evacuate more than 4,000 people from the city"
   - "Hero of Ukraine (posthumously; Decree No. 421/2023)"
 birthplace_name: "Donetsk"
+image_alt: "Daniil Safonov in a cap, a coyote-brown jacket and body armour, with a Mariupol patrol police patch on his sleeve"
 ---
 
 ## What do you do when your city is taken?
