@@ -61,7 +61,7 @@ Ask in this repository:
 
 ### Weekly, automatic: token check
 
-Every Monday, **Actions → Check tokens** (`.github/workflows/check-tokens.yml`, `scripts/check-tokens.mjs`) checks that the Threads, Instagram and three Cloudflare tokens still work and don't expire within 10 days, and that the Gmail app password still logs in. If anything needs attention, it emails the report to `FEEDBACK_MAIL_TO` and the run fails. Each run's **Summary** page has a table of every secret with its status, expiry date and days left. Threads and Cloudflare expiry dates come from their APIs; Instagram's can't be read, so it is kept in `INSTAGRAM_EXPIRES` in the script. Run it by hand after updating a secret.
+Every Monday, **Actions → Check tokens** (`.github/workflows/check-tokens.yml`, `scripts/check-tokens.mjs`) checks that the Threads, Instagram and three Cloudflare tokens still work and don't expire within 10 days, and emails the report to `FEEDBACK_MAIL_TO` («Tokens OK» or «Tokens need attention»; sending it also proves the Gmail app password works). If anything needs attention, the run fails. Each run's **Summary** page has a table of every secret with its status, expiry date and days left. Threads and Cloudflare expiry dates come from their APIs; Instagram's can't be read, so it is kept in `INSTAGRAM_EXPIRES` in the script. Run it by hand after updating a secret.
 
 ### Every ~50 days: refresh the Threads token
 
