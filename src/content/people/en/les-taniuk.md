@@ -22,7 +22,7 @@ What do young artists do when they learn that people shot by the state lie in se
 
 ## The club where the Sixtiers met
 
-Les Taniuk was born in 1938 in the village of Zhukyn near Kyiv. He studied directing in Kyiv under Marian Krushelnytskyi, a pupil of [Les Kurbas](/en/people/les-kurbas/), and became a champion of Kurbas’s theatre. In 1959–1963, while still a student, Taniuk was president of the Club of Creative Youth. [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), Alla Horska, [Vasyl Stus](/en/people/vasyl-stus/), [Viacheslav Chornovil](/en/people/viacheslav-chornovil/) and others gathered around it. Taniuk also founded the New Kyiv Theatre and staged Mykola Kulish’s plays in Odesa and Kharkiv.
+Les Taniuk was born in 1938 in the village of Zhukyn near Kyiv. He studied directing in Kyiv under [Marian Krushelnytskyi](/en/people/marian-krushelnytskyi/), a pupil of [Les Kurbas](/en/people/les-kurbas/), and became a champion of Kurbas’s theatre. In 1959–1963, while still a student, Taniuk was president of the Club of Creative Youth. [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), Alla Horska, [Vasyl Stus](/en/people/vasyl-stus/), [Viacheslav Chornovil](/en/people/viacheslav-chornovil/) and others gathered around it. Taniuk also founded the New Kyiv Theatre and staged Mykola Kulish’s plays in Odesa and Kharkiv.
 
 ## Driven off the stage
 

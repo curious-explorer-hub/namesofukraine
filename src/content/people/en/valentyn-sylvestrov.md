@@ -18,7 +18,7 @@ quotes:
 
 ## The avant-gardist no one played at home
 
-Valentin Silvestrov (in Ukrainian transliteration, Valentyn Sylvestrov) was born in 1937 in Kyiv. In 1958–1964 he studied at the Kyiv Conservatory: composition under Borys Liatoshynskyi and counterpoint under Levko Revutskyi. By the early 1960s he was one of the most prominent composers of the “Kyiv avant-garde,” young musicians who took up twelve-tone writing and other techniques of the Western avant-garde.
+Valentin Silvestrov (in Ukrainian transliteration, Valentyn Sylvestrov) was born in 1937 in Kyiv. In 1958–1964 he studied at the Kyiv Conservatory: composition under Borys Liatoshynskyi and counterpoint under [Levko Revutskyi](/en/people/levko-revutskyi/). By the early 1960s he was one of the most prominent composers of the “Kyiv avant-garde,” young musicians who took up twelve-tone writing and other techniques of the Western avant-garde.
 
 In the 1960s and 1970s the Soviet press harshly criticized his music, and he was temporarily expelled from the Union of Composers of Ukraine. His works were hardly ever performed in Ukraine, but premieres in Leningrad, among them his Second Symphony conducted by Ihor Blazhkov, caught the critics’ attention. International recognition came with the Koussevitzky Prize in the USA (1967), above all for his Third Symphony, and the Gaudeamus competition in the Netherlands (1970).
 

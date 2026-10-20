@@ -38,7 +38,7 @@ sources:
     url: "https://www.radiosvoboda.org/a/1964194.html"
   - title: "Дзеркало тижня - «Його світ вимірювався вічністю» (06.07.2018)"
     url: "https://zn.ua/ukr/personalities/yogo-svit-vimiryuvavsya-vichnistyu-282418_.html"
-related: [alla-horska, vasyl-symonenko, ivan-svitlychnyi, vasyl-stus, viacheslav-chornovil, les-kurbas, ivan-drach, yurii-rybchynskyi]
+related: [alla-horska, vasyl-symonenko, ivan-svitlychnyi, vasyl-stus, viacheslav-chornovil, les-kurbas, ivan-drach, yurii-rybchynskyi, marian-krushelnytskyi]
 collections: [sixtiers]
 status: approved
 published: 2026-10-09T20:29:36Z
@@ -50,7 +50,7 @@ published: 2026-10-09T20:29:36Z
 
 ## Клуб, де збиралися шістдесятники
 
-Лесь Танюк народився 1938 року в селі Жукин на Київщині. Учився режисури в Києві в Мар'яна Крушельницького, учня [Леся Курбаса](/uk/people/les-kurbas/), і став прихильником його театру. У 1959–1963 роках студент Танюк був президентом Клубу творчої молоді. Навколо клубу гуртувалися [Іван Світличний](/uk/people/ivan-svitlychnyi/), Алла Горська, [Василь Стус](/uk/people/vasyl-stus/), [В'ячеслав Чорновіл](/uk/people/viacheslav-chornovil/) та інші. Танюк заснував і Новий київський театр, ставив п'єси Миколи Куліша в Одесі й Харкові.
+Лесь Танюк народився 1938 року в селі Жукин на Київщині. Учився режисури в Києві в [Мар'яна Крушельницького](/uk/people/marian-krushelnytskyi/), учня [Леся Курбаса](/uk/people/les-kurbas/), і став прихильником його театру. У 1959–1963 роках студент Танюк був президентом Клубу творчої молоді. Навколо клубу гуртувалися [Іван Світличний](/uk/people/ivan-svitlychnyi/), Алла Горська, [Василь Стус](/uk/people/vasyl-stus/), [В'ячеслав Чорновіл](/uk/people/viacheslav-chornovil/) та інші. Танюк заснував і Новий київський театр, ставив п'єси Миколи Куліша в Одесі й Харкові.
 
 ## Вигнаний зі сцени
 
