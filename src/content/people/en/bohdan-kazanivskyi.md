@@ -10,6 +10,7 @@ key_accomplishments:
   - "The memoir Shliakhom Legendy (London, 1975; Lviv, 2007)"
   - "Chief secretary of the Providence Association of Ukrainian Catholics in the US (1974–1982)"
 birthplace_name: "Nyvytsi"
+image_alt: "A young Bohdan Kazanivskyi with dark hair combed to the side, in a tweed jacket, shirt and striped tie"
 ---
 
 ## How many prisons can one man survive?

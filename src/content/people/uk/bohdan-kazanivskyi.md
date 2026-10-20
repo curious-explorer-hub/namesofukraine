@@ -3,7 +3,7 @@ name: Богдан Казанівський
 gender: male
 born: 1916-02-03
 died: 2017-04-01
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-19
 era: 20th-century
 group: statehood
 tags: [politician, writer]
@@ -19,6 +19,15 @@ birthplace: { name: "Нивиці", region: lviv, country: UA, lat: 50.167, lon:
 places:
   - { name: "Львів", lat: 49.842, lon: 24.032, note: "в'язень НКВД (1940–1941), зв'язковий проводу ОУН(б)" }
   - { name: "Роквілл", lat: 39.084, lon: -77.153, note: "місце смерті, 2017" }
+image:
+  src: ./images/bohdan-kazanivskyi.jpg
+  alt: "Молодий Богдан Казанівський із зачесаним набік темним волоссям, у твідовому піджаку, сорочці й смугастій краватці"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Казанівський_Богдан.jpg"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Казанівський Богдан (автор - В. В. Маркусь)"
     url: "https://esu.com.ua/article-12161"
@@ -27,7 +36,8 @@ sources:
   - title: "Історична правда - І. Химка, «Львівський погром 1941-го: німці, українські націоналісти і карнавальна юрба» (2012)"
     url: "https://www.istpravda.com.ua/research/2012/12/20/93550/"
 related: [roman-shukhevych]
-status: draft
+status: approved
+published: 2026-10-20T01:45:29Z
 ---
 
 ## Скільки тюрем можна пережити?
