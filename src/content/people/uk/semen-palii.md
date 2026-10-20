@@ -18,10 +18,11 @@ places:
   - { name: "Межигірський монастир", lat: 50.619, lon: 30.465, note: "місце поховання" }
 image:
   src: ./images/semen-palii.jpg
-  alt: "Портрет Семена Палія невідомого художника, XIX століття"
-  author: "Невідомий художник"
+  alt: "Уявний портрет Семена Палія з оселедцем і вусами, у червоному кунтуші з хутряним коміром, створений ШІ"
+  position: "50% 25%"
+  author: "Знай своїх"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Semen_Paliy.jpg"
+  ai_edit: generated
 key_accomplishments:
   - "Полковник Фастівського (1684–1702) і Білоцерківського (1702–1704, 1709–1710) полків"
   - "Заселення спустошеного війнами Правобережжя й оборона його міст від татар"
@@ -37,7 +38,8 @@ sources:
   - title: "Дзеркало тижня - Київщина - край козацький"
     url: "https://zn.ua/ukr/SOCIUM/kiyivschina__kray_kozatskiy.html"
 related: [ivan-mazepa, petro-doroshenko, bohdan-khmelnytskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-20T23:47:18Z
 ---
 
 ## Гурко, якого прозвали Палієм

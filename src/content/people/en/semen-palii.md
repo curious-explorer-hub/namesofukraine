@@ -10,7 +10,7 @@ key_accomplishments:
   - "With Samiilo Samus, led the 1702–1704 uprising against Polish rule on the Right Bank"
   - "Built a church in Fastiv at his own expense and supported the Mezhyhiria Monastery and churches in Kyiv"
 birthplace_name: "Borzna"
-image_alt: "Portrait of Semen Palii by an unknown 19th-century artist"
+image_alt: "Imagined portrait of Semen Palii with a Cossack forelock and moustache, in a red fur-collared coat, made by AI"
 ---
 
 ## Hurko, known as Palii
