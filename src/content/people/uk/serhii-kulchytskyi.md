@@ -3,7 +3,7 @@ name: Сергій Кульчицький
 gender: male
 born: 1963-12-17
 died: 2014-05-29
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-19
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -12,11 +12,11 @@ summary: "Генерал-майор, який навесні 2014-го готу�
 fun_fact: "Міністр внутрішніх справ Арсен Аваков згадував: під час візиту на передову бійці-добровольці, ще вчорашні активісти Майдану, несподівано зааплодували генералу. За словами міністра, такого він раніше не бачив."
 image:
   src: ./images/serhii-kulchytskyi.jpg
-  alt: "Генерал-майор Сергій Кульчицький у формі Національної гвардії на тлі прапорів"
-  position: "50% 20%"
-  author: "5 канал"
+  alt: "Усміхнений генерал-майор Сергій Кульчицький у темному кітелі з генеральськими погонами"
+  position: "50% 35%"
+  author: "Невідомий автор"
   license: "Fair use"
-  source_url: "https://glavred.net/article/desyat-geroev-ukrainy-istorii-o-muzhestve-boycov-v-voyne-na-donbasse-10297317.html"
+  source_url: "https://24tv.ua/somi-rokovini-dnya-zagibeli-generala-novini-rosiyi-i-ukrayini_n1641282"
   fair_use: true
 key_accomplishments:
   - Служив у Національній гвардії України від 1992 року, пройшов шлях від заступника командира батальйону до генерала
@@ -37,7 +37,8 @@ sources:
   - title: "Zaxid.net - Аваков про Кульчицького: Це генерал, якому аплодували солдати"
     url: "https://zaxid.net/avakov_pro_kulchitskogo_tse_general_yakomu_aploduvali_soldati_n1310005"
 related: []
-status: draft
+status: approved
+published: 2026-10-20T01:25:53Z
 ---
 
 ## Хто навчав перших добровольців
