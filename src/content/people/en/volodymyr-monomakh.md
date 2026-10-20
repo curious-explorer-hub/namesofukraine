@@ -14,7 +14,7 @@ key_accomplishments:
   - "Volodymyr Monomakh’s Statute in the Ruska Pravda law code: capped interest on loans and ended servitude as a way of paying off debt"
   - "The Instruction for My Children and a letter to Prince Oleh Sviatoslavych, preserved in the Laurentian Chronicle"
 birthplace_name: "Unknown"
-image_alt: "Imagined portrait of Prince Volodymyr Monomakh in a fur hat and coat, a pencil-style drawing made with AI"
+image_alt: "Imagined portrait of Prince Volodymyr Monomakh in a fur hat and coat, a colour drawing made with AI"
 quotes:
   - text: "Above all, do not forget the poor: feed them as far as you are able, give to the orphan, defend the widow yourselves, and do not let the strong destroy a person."
     source: "Instruction for My Children"
