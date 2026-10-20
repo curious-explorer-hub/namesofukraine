@@ -24,11 +24,11 @@ In 1883 his first works in Yiddish came out in a St Petersburg weekly. At the sa
 
 ## Tevye, Yehupets and Boiberik
 
-The first Tevye story came out in 1894. Tevye sells his milk to rich summer visitors in Boiberik, outside Yehupets. Sholem Aleichem invented these names for real places: Yehupets is Kyiv, Boiberik is Boiarka, and Chornomorsk is Odesa. Most of his stories are set in Ukraine, with Ukrainian landscapes, Ukrainian words and folklore. His heroes are poor “little people” who keep their humour and their faith in justice even in hard times.
+The first Tevye story came out in 1894. Tevye sells his milk to rich summer visitors in Boiberik, outside Yehupets. Sholem Aleichem invented these names for real places: Kyiv became Yehupets, Boiarka became Boiberik, Odesa became Chornomorsk, and Russia was “Aunt Reyzl”. Most of his stories are set in Ukraine, with Ukrainian landscapes, Ukrainian words and folklore. His heroes are poor “little people” who keep their humour and their faith in justice even in hard times.
 
 ## From Kyiv to New York
 
-In 1887 Rabinovich settled in Kyiv, played the stock exchange and within a few years went bankrupt. After the pogrom against Jews in Kyiv in October 1905 the family moved to Lviv, and in 1906 the writer went to New York for the first time. He travelled widely in Europe, reading to his audiences, and in 1908 he fell ill with tuberculosis. In December 1914 Sholem Aleichem moved to New York for good. There he finished Motl and worked on From the Fair, a novel about his childhood. He died there on 13 May 1916. Hundreds of thousands of people came to his funeral. He himself had wished to be buried in Kyiv, next to his father.
+In 1887 Rabinovich settled in Kyiv, played the stock exchange and within a few years went bankrupt. In 1903 he put together a collection called Hilf (“Help”) for the victims of the Kishinev pogrom and invited Tolstoy, Chekhov, Korolenko and Gorky to contribute. After the pogrom against Jews in Kyiv in October 1905 the family moved to Lviv, and in 1906 the writer went to New York for the first time. He travelled widely in Europe, reading to his audiences. In 1908, for his 25th anniversary as a writer, a jubilee committee in Warsaw bought back the rights to all his works from his publishers and handed them to him. That same year he fell ill with tuberculosis. In December 1914 Sholem Aleichem moved to New York for good. There he finished Motl and worked on From the Fair, a novel about his childhood. He died there on 13 May 1916. Hundreds of thousands of people came to his funeral. He himself had wished to be buried in Kyiv, next to his father.
 
 ## Why it matters today
 

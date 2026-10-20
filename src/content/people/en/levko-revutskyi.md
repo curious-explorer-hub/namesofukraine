@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/levko-revutskyi.md
 name: "Levko Revutskyi"
 role: "Composer and teacher of composers"
-summary: "For decades the first version of his Second Symphony was thought to be lost, until it turned up in the library of the Lviv Philharmonic in 2020. Levko Revutskyi built symphonies on folk songs; a pupil of Lysenko, he went on to teach a whole generation of Ukrainian composers."
+summary: "For decades the first version of his Second Symphony was thought to be lost, until its manuscript turned up in the library of the Lviv Philharmonic in 2020. Levko Revutskyi built symphonies on folk songs; a pupil of Lysenko, he went on to teach a whole generation of Ukrainian composers."
 fun_fact: "Together with Borys Liatoshynskyi, Revutskyi edited the opera Taras Bulba by his teacher Mykola Lysenko twice, in 1937 and in 1955."
 key_accomplishments:
   - "The Second Symphony, built on folk-song themes and regarded as the finest Ukrainian symphonic work of the first half of the 20th century"
@@ -16,7 +16,7 @@ image_alt: "Photograph of Levko Revutskyi, 1916"
 
 ## The scores that came home
 
-In 1937 Levko Revutskyi gave the manuscript of his piano concerto to a colleague, the musician Ervin Berg, hoping the piece would be played in the West. After 1937 the concerto fell silent, and the score was thought to be lost. The manuscript only came back to Ukraine, from Denmark, in 2009. Then in 2020 the composer’s own score of the first version of his Second Symphony, also long thought lost, was found in the library of the Lviv Philharmonic.
+In 1937 Levko Revutskyi gave the manuscript of his piano concerto to a colleague, the musician Ervin Berg, hoping the piece would be played in the West. After 1937 the concerto fell silent, and the score was thought to be lost. The manuscript only came back to Ukraine, from Denmark, in 2009. Then in 2020 a manuscript of the first version of his Second Symphony, also long thought lost, was found in the library of the Lviv Philharmonic. Its score was incomplete, so the publisher Muzychna Ukraina restored the piece from it and from the orchestral parts.
 
 ## A pupil of Lysenko
 
