@@ -11,6 +11,10 @@ key_accomplishments:
   - "A private art studio (from 1978) and the teaching method Thinking at the Canvas"
   - "Shevchenko National Prize (1994, posthumously)"
 birthplace_name: "Bilopillia"
+image_alt: "Viktor Zaretskyi with tousled dark hair and light stubble, in a navy sweater and white shirt"
+gallery:
+  - alt: "Painting: a young woman in a white sheepskin coat, embroidered shirt, red boots and a floral headscarf sits by a cart with Easter bread, painted eggs and baskets, against a golden-green patterned background"
+    caption: "Viktor Zaretskyi’s Soldatka (The Soldier’s Wife)"
 ---
 
 ## The Ukrainian Klimt

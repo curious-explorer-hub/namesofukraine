@@ -3,7 +3,7 @@ name: Віктор Зарецький
 gender: male
 born: 1925-02-08
 died: 1990-08-23
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -14,12 +14,30 @@ birthplace: { name: "Білопілля", region: sumy, country: UA, lat: 51.150
 places:
   - { name: "Київ", lat: 50.450, lon: 30.523, note: "навчався, жив і працював; місце смерті" }
   - { name: "Маріуполь", lat: 47.097, lon: 37.543, note: "мозаїки в ресторані «Україна», разом з Аллою Горською" }
+image:
+  src: ./images/viktor-zaretskyi.jpg
+  alt: "Віктор Зарецький із розкуйовдженим темним волоссям і легкою щетиною, у темно-синьому светрі й білій сорочці"
+  position: "50% 30%"
+  ai_edit: colorized
+  author: "Невідомий фотограф (через WikiArt)"
+  license: "Fair use"
+  fair_use: true
+  source_url: "https://www.wikiart.org/uk/zaretskiy-viktor-ivanovich"
 key_accomplishments:
   - "Один з лідерів Клубу творчої молоді «Сучасник» у Києві, з 1963 року - його голова"
   - "Разом з Аллою Горською та іншими художниками - мозаїки в Донецьку й Маріуполі (1960-ті)"
   - "Власний стиль, «українська неосецесія»: «Наталка», «Ангели», «Золотий череп. Дзвони Чорнобиля», «Орач (В. Стус)»"
   - "Приватна художня студія (з 1978 року) і навчальна система «Роздуми біля полотна»"
   - "Державна премія України імені Тараса Шевченка (1994, посмертно)"
+gallery:
+  - src: ./images/viktor-zaretskyi-soldatka.jpg
+    alt: "Картина: молода жінка в білому кожусі, вишитій сорочці, червоних чоботях і квітчастій хустці сидить біля воза з паскою, крашанками й кошиками на золотисто-зеленому візерунчастому тлі"
+    caption: "«Солдатка» Віктора Зарецького"
+    section: 3
+    author: "Віктор Зарецький"
+    license: "Fair use"
+    source_url: "https://uinp.gov.ua/istorychnyy-kalendar/lyutyy/8/1925-narodyvsya-viktor-zareckyy"
+    fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Зарецький Віктор Іванович"
     url: "https://esu.com.ua/article-15529"
@@ -31,7 +49,8 @@ sources:
     url: "https://www.history.org.ua/?termin=Zarecky_V"
 related: [alla-horska, vasyl-stus]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T21:02:54Z
 ---
 
 ## Український Клімт
