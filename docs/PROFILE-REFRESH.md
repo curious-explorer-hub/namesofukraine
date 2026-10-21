@@ -2,7 +2,7 @@
 
 A periodic check that published profiles still match the world: someone has died, a defender got a new award, an athlete won a new title. Corrections from readers go through the weekly feedback review instead ([MAINTENANCE.md](MAINTENANCE.md)).
 
-**How often:** monthly for living people (about 60 profiles, `living: true`); once a year for everyone else. After a major event (Olympic Games, world championships, a batch of Hero of Ukraine decrees) check the affected group straight away.
+**How often:** monthly for living people (`living: true`); once a year for everyone else. After a major event (Olympic Games, world championships, a batch of Hero of Ukraine decrees) check the affected group straight away.
 
 ## What to look for
 

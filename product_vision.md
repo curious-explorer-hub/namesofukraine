@@ -159,7 +159,7 @@ Code layout: thin routes in `src/pages/{uk,en}/` render shared views in `src/vie
 |---|---|---|
 | **0. Setup** | Scaffold, schema, CI, deploy | ✅ 2026-10-05 |
 | **1. MVP** | §3.1–3.7, ≥ 20 profiles in both languages | ✅ soft launch 2026-10-05 (86 profiles); public launch after the domain and promotion |
-| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress: 111 published, 18 drafts awaiting review (batch 7, 2026-10-07) |
+| **2. Growth** | 100–200 profiles in batches of 20–25, linked to each other · social posts per batch · quotes and galleries | In progress |
 | **3. Engagement** | Quiz · printable teacher pages · CMS | Later |
 
 ---

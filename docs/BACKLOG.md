@@ -5,8 +5,8 @@ Open and in-progress work only. What the site must do, the rules, and what's alr
 ## Status (2026-10-20)
 
 - **Live:** <https://namesofukraine.com> (since 2026-10-08; the soft-launch address `namesofukraine.pages.dev` redirects there), deployed from `main` by GitHub Actions ([PUBLISHING.md](PUBLISHING.md)).
-- **Content:** 309 profiles published in Ukrainian and English; 58 drafts awaiting the owner's review.
-- **Social:** daily posts on Threads and Instagram (@names_of_ukraine) from monthly plans in `social/`; October–December planned, 82 of the 278 profiles used, 196 left (about six months).
+- **Content:** profiles published in Ukrainian and English, and drafts awaiting the owner's review. The counts change with every batch, so they aren't kept here: `status:` in `src/content/people/uk/` gives them.
+- **Social:** daily posts on Threads and Instagram (@names_of_ukraine) from monthly plans in `social/`; October–December planned; the rest of the approved profiles are still unused.
 - **Next milestone:** public launch = promotion (the feedback form is live, D19).
 - **People to add:** [CANDIDATES.md](CANDIDATES.md).
 
@@ -17,7 +17,7 @@ In order. Pick from the top.
 | # | Item                                                                              | Why now                                                                                                                                                    | Who            |
 |---|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | 1 | **Close Tally:** export its old submissions, then close the form | The site's own form (D19) is live and the weekly digest delivers its messages | Owner          |
-| 2 | **Content session** C4–C7 below, and the 58 drafts                            | The catalogue and its links now limit the site more than features do | Code + content |
+| 2 | **Content session** C4–C7 below, and the drafts                               | The catalogue and its links now limit the site more than features do | Code + content |
 | 3 | **Social upkeep:** January plan by 2026-12-31; both tokens refreshed by 2026-11-29 | Without a plan or with an expired token, nothing is posted, and only the account that last edited a schedule gets GitHub's failure email ([MAINTENANCE.md](MAINTENANCE.md)) | Owner + code   |
 
 ### Content session (owner, 2026-10-06)
@@ -26,7 +26,7 @@ In order. Pick from the top.
 - **C6. Two more collections** (owner, 2026-10-09).
   - `bakhmut`, «Бахмут» / "The Battle for Bakhmut" (2022–23): now part of C8 (draft collection built).
   - `heroes-of-ukraine`, «Герої України» / "Heroes of Ukraine". About 60 profiles mention the title; confirm each by decree, and leave out `stepan-bandera` (the 2010 decree was ruled unlawful) and anyone whose profile mentions the title without saying they got it; check `roman-shukhevych` (2007 award challenged in court). Owner: a collection, or a home-page filter backed by an `awards:` field (schema change).
-- **C7. Six more collections** (owner, 2026-10-13). `ukrainian-revolution`, «Українська революція» / "The Ukrainian Revolution" (1917–21), is built: 15 approved and 2 draft members; so is `olympians`, «Олімпійці» / "Olympians" (15 members). Open: Makhno, Vernadskyi, Krymskyi, Olha Basarab and Serhii Yefremov (in or out?); no ZUNR leaders or Kruty students yet (candidates: Yevhen Petrushevych, Dmytro Vitovskyi, Oleksandr Shulhyn, Ivan Steshenko). Still to build:
+- **C7. Six more collections** (owner, 2026-10-13). `ukrainian-revolution`, «Українська революція» / "The Ukrainian Revolution" (1917–21), is built; so is `olympians`, «Олімпійці» / "Olympians". Open: Makhno, Vernadskyi, Krymskyi, Olha Basarab and Serhii Yefremov (in or out?); no ZUNR leaders or Kruty students yet (candidates: Yevhen Petrushevych, Dmytro Vitovskyi, Oleksandr Shulhyn, Ivan Steshenko). Still to build:
   - «Революція гідності» / "Revolution of Dignity" (2013–14). About 18 profiles mention the Maidan or the Heavenly Hundred; label only people who took part in it, not those who just mention it. Decide the overlap with `civic-icons`.
   - «Обрали Україну» / "Chose Ukraine": people born elsewhere who made Ukraine their cause. Set the rule first (foreign-born, foreign citizens, or both?).
   - «Гетьмани» / "Hetmans". Existing: Khmelnytskyi, Sahaidachnyi, Vyhovskyi, Doroshenko, Mazepa, Orlyk, Rozumovskyi, Skoropadskyi. Decide whether to include Zaporozhian koshovi and acting hetmans.
@@ -44,10 +44,10 @@ Not scheduled.
 
 - **I29. Social posts, next steps** (from L13). Automatic token refresh (a monthly workflow that refreshes both tokens and saves them back to the secrets, which needs a GitHub token that can write secrets) a richer post template (fun fact or misconception as a second post or carousel); English posts.
 - **I1. "Share this person" buttons** on profiles.
-- **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked and was removed pending refinement; `places[]` is filled in 207 profiles and `quotes[]` in 172. Open: keeping a timeline in sync with the prose; a real map vs a list of OpenStreetMap links; whether every profile needs all three.
+- **I12. Life-path card** (timeline + key places + pull-quote). A prototype on Шевченко worked and was removed pending refinement; `places[]` and `quotes[]` are filled in most profiles. Open: keeping a timeline in sync with the prose; a real map vs a list of OpenStreetMap links; whether every profile needs all three.
 - **I16. "Most read".** Readers' numbers are already on the Stats page (D20). Still open, a public "Most read this month" row: a nightly GitHub Action reads the Web Analytics GraphQL API, writes `src/content/popular.json` and rebuilds (no server code; one read-only token). Only at a few hundred profile views a week.
 - **I17 C. Automatic links** to the first mention of each profiled person in the story text, at build time (remark plugin, `aliases.json`, never inside quotes). And a test that fails on one-way `related:` links unless marked intentional.
-- **I23. Popular quotes per person.** Design done (product_vision.md §10, 2026-10-09). Open: add quotes in small batches the owner reviews, following "Quotes" in [STYLE.md](STYLE.md) (the candidate pool was used up and cleared in October 2026; live quotes are only in the profiles), one quote per profile; 172 of the 278 approved profiles have one as of October 2026; length limit; whether quotes also surface on cards or share cards.
+- **I23. Popular quotes per person.** Design done (product_vision.md §10, 2026-10-09). Open: add quotes in small batches the owner reviews, following "Quotes" in [STYLE.md](STYLE.md) (the candidate pool was used up and cleared in October 2026; live quotes are only in the profiles), one quote per profile; length limit; whether quotes also surface on cards or share cards.
 - **I26. Quizzes on their own tab or page** (owner, 2026-10-07: not on the profile page). 2–3 questions per person (myth or fact, what came first; the misconception cards are ready-made first questions), instant answer with a short sourced explanation, and a share card that doesn't give the answers away ("Іван Сірко: 2 з 3 🟦⬜🟦"). Plain JS, nothing stored or sent; answers follow the ≥ 2-source rule. A profile-page prototype on Sirko worked (2026-10-07) and was removed. Open: a quiz tab on the home page vs. `/quiz/` pages, a link from each profile, and how this relates to the Phase 3 personality quiz.
 - **I30. Recognition page for supporters** (owner, 2026-10-12). A page listing the patrons who support the site on Patreon or Monobase. Open: only people who opt in, under the name they choose (consent asked on Patreon and at donation); a hand-kept list in `src/content/` vs. pulled from the Patreon API at build time (a token as a secret); tiers or one plain list; a link from the Support page.
 - **I31. Monobase as a donation option** (owner, 2026-10-12). Add it to `SUPPORT_LINKS` in `src/site.ts` and the Support page, next to Patreon and the Monobank jar. Open: confirm which service is meant and whether it adds anything the jar doesn't (recurring donations, a public supporter list for I30).
