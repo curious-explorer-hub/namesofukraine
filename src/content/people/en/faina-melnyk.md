@@ -22,7 +22,7 @@ Until 1975 no woman in the world had thrown the discus beyond 70 metres. Faina M
 
 Faina was born in 1945 into a Jewish family in Bakota, a village on the Dniester in Podillia, western Ukraine. The village no longer exists. She came to athletics late, at almost 25. She competed for the Sevan club in Yerevan, graduated from the Yerevan Institute of Physical Culture and was coached by Kim Bukhantsov.
 
-Her rise was fast. In 1971 she became European champion, and in 1972 in Munich, Olympic champion. From 1973 she competed for Spartak Moscow, and in 1974 she won the European title again. At the 1976 Olympics in Montreal, despite her records, she finished only fourth.
+Her rise was fast. In 1971 she became European champion, and in 1972 in Munich, Olympic champion. From 1973 she competed for Spartak Moscow, and in 1974 she won the European title again. At the 1976 Olympics in Montreal, despite her records, she finished only fourth. There she also entered the shot put and placed tenth; her best in that event was 20.03 m.
 
 ## A second career
 

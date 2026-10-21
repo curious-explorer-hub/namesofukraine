@@ -23,11 +23,11 @@ Mykyta Nadtochii was born in Cherkasy. He joined Azov in September 2014, while s
 
 ## The 2nd battalion in Mariupol
 
-When the full-scale invasion began in 2022, Nadtochii commanded Azov’s 2nd battalion in Mariupol and was one of those who planned the city’s defence. In March he was badly wounded by shrapnel and flown out of the encircled city by helicopter.
+When the full-scale invasion began in 2022, Nadtochii commanded Azov’s 2nd battalion in Mariupol and was one of those who planned the city’s defence. In March he was badly wounded by shrapnel and became one of the first soldiers flown out of the encircled city by helicopter.
 
 ## A commander without commanders
 
-While Azov’s main force was encircled and then held captive, Nadtochii, as acting commander, put the unit back together: with fighters who had been flown out of Mariupol and with new volunteers. “The task was simple: get back in the ranks fast. Take everything into your own hands,” he recalled. Later Azov’s chief of staff [Bohdan Krotevych](/en/people/bohdan-krotevych/) came home from captivity and took over command. Nadtochii stayed in Azov’s leadership: from July 2023 he was deputy commander of the 12th Brigade, and from April 2025 deputy commander of the National Guard’s 1st Azov Corps. “You need people who are simply ready to fight… People decide,” Nadtochii believes.
+While Azov’s main force was encircled and then held captive, Nadtochii, as acting commander, put the unit back together: with fighters who had been flown out of Mariupol and with new volunteers. “The task was simple: get back in the ranks fast. Take everything into your own hands,” he recalled. Later Azov’s chief of staff [Bohdan Krotevych](/en/people/bohdan-krotevych/) came home from captivity and set about rebuilding the unit. Nadtochii stayed in Azov’s leadership: from July 2023 he was deputy commander of the 12th Brigade, and from April 2025 deputy commander of the National Guard’s 1st Azov Corps. “You need people who are simply ready to fight… People decide,” Nadtochii believes.
 
 ## Why it matters today
 

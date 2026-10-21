@@ -23,7 +23,7 @@ Holubnychyi was born in 1936 in Sumy and grew up in a poor family. He started ou
 
 ## Five Olympics
 
-From 1959 Holubnychyi walked for the Soviet national team, and at home for Spartak Sumy. At his first Olympics, in Rome in 1960, he didn't expect to win. But the team's experienced walkers were disqualified for breaking the rules, and from around the tenth kilometre Holubnychyi pulled away and crossed the line first.
+Holubnychyi walked for the Soviet national team, and at home for Spartak Sumy. At his first Olympics, in Rome in 1960, he didn't expect to win. But the team's experienced walkers were disqualified for breaking the rules, and from around the tenth kilometre Holubnychyi pulled away and crossed the line first.
 
 In Tokyo in 1964 he felt ill during the race and even blacked out for a moment, yet still took bronze. Then came gold in Mexico City, silver in Munich in 1972 and the European title in 1974. He went to his fifth Olympics, Montreal 1976, at the age of 40 and finished seventh.
 

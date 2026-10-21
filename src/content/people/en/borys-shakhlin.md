@@ -26,7 +26,7 @@ From 1954 Shakhlin won so often that journalists nicknamed him "the Man of Iron"
 
 ## 13 Olympic medals
 
-At the 1956 Olympics in Melbourne, Shakhlin won gold in the team event and on the pommel horse. In Rome in 1960 he became Olympic all-around champion and took seven medals: four gold, two silver and a bronze. In Tokyo in 1964 he won the horizontal bar. That made 13 Olympic medals, seven of them gold, a record for a man until another Soviet gymnast overtook it.
+At the 1956 Olympics in Melbourne, Shakhlin won gold in the team event and on the pommel horse. In Rome in 1960 he became Olympic all-around champion and took seven medals: four gold, two silver and a bronze. In Tokyo in 1964 he won the horizontal bar, which meant individual Olympic gold at three Games in a row. That made 13 Olympic medals, seven of them gold, a record for a man until another Soviet gymnast overtook it.
 
 ## After the podium
 

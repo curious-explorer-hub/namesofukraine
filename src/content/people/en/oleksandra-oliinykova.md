@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/oleksandra-oliinykova.md
 name: "Oleksandra Oliynykova"
 role: "Tennis player, Ukraine’s voice on court"
-summary: "As a child she played under the Croatian flag, then took back her Ukrainian citizenship. Now Kyiv-born Oleksandra Oliynykova is Ukraine’s voice in tennis: at tournament after tournament she speaks out about Russia’s aggression, and she raises money for the unit her father and first coach fights in."
+summary: "As a child she played under the Croatian flag, then took back her Ukrainian citizenship. Now Kyiv-born Oleksandra Oliynykova is Ukraine’s voice in tennis: at tournament after tournament she speaks out about Russia’s aggression, and she raises money for the unit her father and coach fights in."
 fun_fact: "Oleksandra Oliynykova co-founded drones4ua.org, a site that raises money for drones for the Ukrainian army."
 key_accomplishments:
   - "Three WTA 125 titles in the 2025 season: Tolentino, Tucumán, Colina"
@@ -27,7 +27,7 @@ Oleksandra Oliynykova was born in 2001 in Kyiv. When she was ten, her family lef
 
 ## The year it all came together
 
-Her father, who had coached her since childhood, went back to Ukraine in 2024 and joined the armed forces. She started travelling to tournaments on her own. In 2025 Oliynykova won three WTA 125 titles and broke into the world top 100. In January 2026, at the Australian Open, she played her first ever main-draw match at WTA level, against the defending champion, Madison Keys. She led 4–0 in the first set but lost 6–7, 1–6. Her father watched from Ukraine.
+Her father, who had coached her since she was 16, went back to Ukraine in 2024 and joined the armed forces. She started travelling to tournaments on her own. In 2025 Oliynykova won three WTA 125 titles and broke into the world top 100. In January 2026, at the Australian Open, she played her first ever main-draw match at WTA level, against the defending champion, Madison Keys. She led 4–0 in the first set but lost 6–7, 1–6. Her father watched from Ukraine.
 
 ## Ukraine’s voice on court
 

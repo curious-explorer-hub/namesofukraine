@@ -6,7 +6,7 @@ summary: "Volodymyr Ivasiuk’s song “Chervona Ruta” became her signature, a
 fun_fact: "Sofiia Rotaru didn’t train as a singer but as a choir conductor: in 1968 she graduated from the conducting and choral department of the Chernivtsi music college."
 key_accomplishments:
   - "Soloist of the band Chervona Ruta (from 1971); Volodymyr Ivasiuk’s song “Chervona Ruta” became her signature"
-  - "Won the Golden Orpheus contest (Bulgaria, 1973) and the festival in Sopot (Poland, 1974)"
+  - "Won the Golden Orpheus contest (Bulgaria, 1973) and the Amber Nightingale contest (Sopot, Poland, 1974)"
   - "More than 400 songs by Ukrainian, Moldovan and Russian composers; the musical film Chervona Ruta (1971)"
   - "People’s Artist of the USSR (1988); Hero of Ukraine (2002, decree No. 691/2002); the National Legend of Ukraine award (2021)"
 birthplace_name: "Marshyntsi"
@@ -23,9 +23,9 @@ Sofiia Rotaru was born in 1947 in the village of Marshyntsi in Bukovyna (now in 
 
 ## From Sopot to hundreds of songs
 
-In 1973 Rotaru won the Golden Orpheus contest in Bulgaria, and in 1974 the festival in Sopot, Poland. That same year she graduated from the Chișinău Institute of Arts, and from 1975 she was a soloist of the Crimean Philharmonic. Her repertoire runs to more than 400 songs by Ukrainian, Moldovan and Russian composers, among them Ivasiuk, Levko Dutkovskyi and Eugen Doga. She toured the USSR, Australia, Europe, Asia and the Americas.
+In 1973 Rotaru won the Golden Orpheus contest in Bulgaria, and in 1974 the Amber Nightingale contest in Sopot, Poland. That same year she graduated from the Chișinău Institute of Arts, and from 1975 she was a soloist of the Crimean Philharmonic. Her repertoire runs to more than 400 songs by Ukrainian, Moldovan and Russian composers, among them Ivasiuk, Levko Dutkovskyi and Eugen Doga. She toured the USSR, Australia, Europe, Asia and the Americas.
 
-In 1988 Rotaru became a People’s Artist of the USSR, and in 2002 she was made a Hero of Ukraine. In 2021 she was among the first to receive the National Legend of Ukraine award, together with the poet [Yurii Rybchynskyi](/en/people/yurii-rybchynskyi/), the painter [Ivan Marchuk](/en/people/ivan-marchuk/) and the footballer [Oleh Blokhin](/en/people/oleh-blokhin/).
+In 1988 Rotaru became a People’s Artist of the USSR. She was made an honorary citizen of the Autonomous Republic of Crimea in 1997 and of Chernivtsi in 1998, and a Hero of Ukraine in 2002. In 2021 she was among the first to receive the National Legend of Ukraine award, together with the poet [Yurii Rybchynskyi](/en/people/yurii-rybchynskyi/), the painter [Ivan Marchuk](/en/people/ivan-marchuk/) and the footballer [Oleh Blokhin](/en/people/oleh-blokhin/).
 
 ## Debates and assessments
 

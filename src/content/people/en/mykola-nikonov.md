@@ -2,10 +2,10 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykola-nikonov.md
 name: "Mykola Nikonov"
 role: "Naval special forces officer"
-summary: "70 kilometres behind enemy lines: in 2022 the naval special forces group of Captain 2nd Rank Mykola Nikonov, call sign Nik, went into occupied Novoazovsk and blew up Russian military supplies. He then defended Mariupol and was killed leading his men out of encirclement. Hero of Ukraine."
+summary: "70 kilometres behind enemy lines: in 2022 the naval special forces group of Captain 2nd Rank Mykola Nikonov, call sign Nik, went into occupied Novoazovsk and blew up Russian military supplies. He then defended Mariupol and died leading his men out of encirclement. Hero of Ukraine, posthumously."
 fun_fact: "Mykola Nikonov was not only a detachment commander but also a parachute jump instructor and a reconnaissance diver."
 key_accomplishments:
-  - "Detachment commander in the Antin Holovatyi 73rd Naval Special Operations Centre of the Special Operations Forces (Ochakiv); parachute instructor and reconnaissance diver"
+  - "Commander of the 1st Special Operations Detachment in the Antin Holovatyi 73rd Naval Special Operations Centre of the Special Operations Forces (Ochakiv); parachute instructor and reconnaissance diver"
   - "Fought in eastern Ukraine from 2014: a reconnaissance raid to the Russian border near Novoazovsk (2014) and an attack on a Russian strongpoint near Chermalyk (2015)"
   - "After the full-scale invasion in 2022, his group went 70 km behind enemy lines to occupied Novoazovsk and blew up enemy military supplies"
   - "In 12 days of defending Mariupol his unit destroyed 6 enemy vehicles"
@@ -19,7 +19,7 @@ Did you know that after the full-scale invasion began, a group of Ukrainian nava
 
 ## A naval commando from Kryvyi Rih
 
-Mykola Nikonov was born on 9 August 1985 in Kryvyi Rih. He served in Ochakiv with the Antin Holovatyi 73rd Naval Special Operations Centre of the Special Operations Forces. There he commanded a detachment, taught parachute jumping and served as a reconnaissance diver. In 2011–2012 he took part in international military exercises.
+Mykola Nikonov was born on 9 August 1985 in Kryvyi Rih. He served in Ochakiv with the Antin Holovatyi 73rd Naval Special Operations Centre of the Special Operations Forces. There he commanded the 1st Special Operations Detachment, taught parachute jumping and served as a reconnaissance diver. In 2011–2012 he took part in international military exercises.
 
 ## From Novoazovsk to Chermalyk
 

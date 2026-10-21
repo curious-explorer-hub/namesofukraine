@@ -4,7 +4,7 @@ gender: male
 born: 1980-01-01
 born_circa: true
 living: true
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-21
 era: war-for-independence
 group: defenders
 tags: [warrior]

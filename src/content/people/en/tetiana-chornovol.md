@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/tetiana-chornovol.md
 name: "Tetiana Chornovol"
 role: "Journalist, MP, soldier"
-summary: "She once investigated Yanukovych’s Mezhyhirya estate; now she commands an anti-tank missile crew. Tetiana Chornovol went from journalism and the Maidan to parliament and the front, where she has served since the first day of the full-scale war."
+summary: "She once investigated Yanukovych’s Mezhyhirya estate; later she took command of an anti-tank missile crew. Tetiana Chornovol went from journalism and the Maidan to parliament and the front, which she joined on the first day of the full-scale war."
 fun_fact: "Back in 2014, after the Maidan, Tetiana Chornovol joined the Azov battalion and took part in the defence of Mariupol."
 key_accomplishments:
   - "Investigative journalist (1998–2013) who wrote about Viktor Yanukovych’s Mezhyhirya"
@@ -15,7 +15,7 @@ image_alt: "Tetiana Chornovol in a blue shirt and a pearl necklace at a meeting 
 
 ## From investigations to the Stugna
 
-Tetiana Chornovol once wrote about how Mezhyhirya, President Viktor Yanukovych’s luxury residence, was being built. Today she commands the crew of a Stugna-P anti-tank missile system. Between those two roles lie the Maidan, a government post, parliament and two wars.
+Tetiana Chornovol once wrote about how Mezhyhirya, President Viktor Yanukovych’s luxury residence, was being built. As of October 2025 she was commander of a Stugna-P anti-tank missile crew. Between those two roles lie the Maidan, a government post, parliament and two wars.
 
 ## A journalist who wouldn’t be stopped
 

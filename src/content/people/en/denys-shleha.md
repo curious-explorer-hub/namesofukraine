@@ -1,15 +1,16 @@
 ---
 # English text only; facts (dates, places, group, sources, image) live in ../uk/denys-shleha.md
 name: "Denys Shleha"
-role: "Brigade commander at Mariupol"
+role: "Defender of Mariupol, brigadier general"
 summary: "“About 600 wounded”: that is how Colonel Denys Shleha told the country, on 15 May 2022, what was happening inside besieged Azovstal. Commander of the National Guard’s 12th Brigade, he defended Mariupol to the last day and survived captivity. Hero of Ukraine."
 fun_fact: "Shleha took command of the National Guard’s Mariupol brigade in May 2021, less than a year before the full-scale invasion."
 key_accomplishments:
-  - "Graduated from the Kharkiv Institute of the National Guard (2003); rose from platoon commander to commander of a separate battalion"
-  - "Commanded a military unit in Pavlohrad in 2018–2021; served in the anti-terrorist and Joint Forces operations"
+  - "Graduated from the Kharkiv Institute of the National Guard (2003); in a regiment in Dnipro rose from platoon commander to chief of staff"
+  - "Commanded a regiment guarding key state facilities in Pavlohrad in 2018–2021; served in the anti-terrorist and Joint Forces operations"
   - "From 2021 commander of the 12th Dmytro Vyshnevetskyi Operational Brigade in Mariupol; defended the city and Azovstal (2022)"
   - "Order of Bohdan Khmelnytskyi, 3rd class (2022)"
   - "Hero of Ukraine with the Order of the Golden Star (decree No. 686/2022 of 1 October 2022)"
+  - "Candidate of Legal Sciences (2025); brigadier general (2026), head of the National Guard's Central Territorial Directorate (as of June 2026)"
 birthplace_name: "Pavlohrad"
 ---
 
@@ -19,7 +20,7 @@ On 15 May 2022, with Mariupol under siege for more than two months, Colonel Deny
 
 ## From Pavlohrad to Mariupol
 
-Denys Shleha was born on 1 May 1982 in Pavlohrad in Dnipropetrovsk region. In 2003 he graduated from the Kharkiv Institute of the National Guard and then served in Dnipro, rising from platoon commander to commander of a separate battalion. He went on to be chief of staff of a brigade in Kharkiv, and in 2018–2021 he commanded a military unit in his home town of Pavlohrad. In the anti-terrorist and Joint Forces operations he served in eastern Ukraine more than once.
+Denys Shleha was born on 1 May 1982 in Pavlohrad in Dnipropetrovsk region. In 2003 he graduated from the Kharkiv Institute of the National Guard and then served in Dnipro, in a regiment guarding key state facilities, rising from platoon commander to chief of staff. He went on to be chief of staff of a brigade in Kharkiv, and in 2018–2021 he commanded a similar regiment in his home town of Pavlohrad. In the anti-terrorist and Joint Forces operations he served in eastern Ukraine more than once.
 
 In May 2021 Shleha took command of the 12th Dmytro Vyshnevetskyi Operational Brigade, based in Mariupol.
 
@@ -30,6 +31,8 @@ From the first day of the full-scale invasion, 24 February 2022, Shleha’s brig
 ## Captivity and return
 
 On 21 September 2022 Shleha was freed in an exchange together with [Denys Prokopenko](/en/people/denys-prokopenko/), [Serhii Volynskyi](/en/people/serhii-volynskyi/), [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) and [Oleh Khomenko](/en/people/oleh-khomenko/). The five commanders were interned in Türkiye and came back to Ukraine in early July 2023. On 1 October 2022 Denys Shleha was made a Hero of Ukraine, the country’s highest title.
+
+Back home, Shleha stayed in the National Guard: first as deputy chief for guarding key facilities, then as head of its Central Territorial Directorate (as of June 2026). In 2025 he earned a doctorate in law (Candidate of Legal Sciences) with research on the legal status of the National Guard, and in 2026 he was promoted to brigadier general.
 
 ## Why it matters today
 

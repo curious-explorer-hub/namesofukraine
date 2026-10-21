@@ -30,11 +30,11 @@ Oleksandr only learned of the full-scale invasion on 26 February 2022, at sea. H
 
 ## A week underground
 
-When the garrison began leaving for captivity, Oleksandr asked his commander to keep him off the lists handed to the Russians. Under a sewer hatch on the plant’s grounds he set up a hideout 1.2 metres high, 5 metres long and 2 metres wide. He stayed there for a week, thinking through how to get out. On the seventh night he changed into civilian clothes, hid his weapon and set off into the city. In 18 days Oleksandr reached territory free of occupation: he got through filtration in a Russian camp and walked, by different accounts, from over 100 to about 200 kilometres.
+When the garrison began leaving for captivity, Oleksandr asked his commander to keep him off the lists handed to the Russians, so he was recorded as missing in action. Under a sewer hatch on the plant’s grounds he set up a hideout 1.2 metres high, 5 metres long and 2 metres wide. He had planned to hide there with a comrade, and the two of them brought in mattresses, blankets, food and water. At the last moment, though, his comrade changed his mind and walked out with everyone else. So Oleksandr spent the week alone, thinking through how to get out. On the seventh night he changed into civilian clothes, hid his weapon and set off into the city. In 18 days Oleksandr reached territory free of occupation: he got through filtration in a Russian camp and walked, by different accounts, from over 100 to about 200 kilometres.
 
 ## Back in the ranks
 
-After rehabilitation Oleksandr went back to the army and has served since then with the 3rd Separate Assault Brigade. On 13 June 2025 Junior Sergeant Ivantsov was made a Hero of Ukraine, the country’s highest title; the award was presented at the Constitution Day ceremony. As of June 2025 he was destroying Russian equipment in the Donetsk and Luhansk regions. In November 2025 his memoir, Flashback: Mariupol, was launched in Kyiv.
+After rehabilitation Oleksandr went back to the army and joined the 3rd Separate Assault Brigade: as of September 2023 he was flying aerial reconnaissance missions with it. On 13 June 2025 Junior Sergeant Ivantsov was made a Hero of Ukraine, the country’s highest title; the award was presented at the Constitution Day ceremony. As of June 2025 he was destroying Russian equipment in the Donetsk and Luhansk regions. In November 2025 his memoir, Flashback: Mariupol, was launched in Kyiv.
 
 ## Why it matters today
 

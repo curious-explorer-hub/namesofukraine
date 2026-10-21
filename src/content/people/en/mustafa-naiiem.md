@@ -24,11 +24,11 @@ At first Nayyem led the protest’s coordination centre; later he stayed on the 
 
 ## From Kabul to Kyiv
 
-Mustafa Nayyem was born in 1981 in Kabul, Afghanistan, and moved to Ukraine in 1991. He graduated from the Kyiv Polytechnic Institute and from 2004 worked as a journalist in Kyiv. In 2006 he joined the online newspaper Ukrainska Pravda. In 2013 he was one of the initiators of the internet channel Hromadske TV, which went on air in the first days of the Euromaidan.
+Mustafa Nayyem was born in 1981 in Kabul, Afghanistan, and is Pashtun by origin. He moved to Ukraine in 1991. He graduated from the Kyiv Polytechnic Institute and from 2004 worked as a journalist in Kyiv. In 2006 he joined the online newspaper Ukrainska Pravda, and in 2012 he started some of Ukraine’s first online marathons. In 2013 he was one of the initiators of the internet channel Hromadske TV, which went on air in the first days of the Euromaidan. In 2014 he and his co-authors published On Both Sides of the Barbed Wire, a book based on interviews with Yurii Lutsenko.
 
 ## From journalism to parliament
 
-In 2014 Nayyem was elected to the Verkhovna Rada, Ukraine’s parliament, on the list of the Petro Poroshenko Bloc. He was deputy head of its parliamentary group and sat on the European integration committee. In 2015, as a member of the Interior Ministry’s board, he helped oversee the launch of the new patrol police. He did not stand in the 2019 election.
+In 2014 Nayyem was elected to the Verkhovna Rada, Ukraine’s parliament, on the list of the Petro Poroshenko Bloc. He was deputy head of its parliamentary group and sat on the European integration committee. In 2015, as a member of the Interior Ministry’s board, he helped oversee the launch of the new patrol police. He did not stand in the 2019 election, and that November he became deputy director general of the state defence group Ukroboronprom.
 
 ## Building instead of writing
 

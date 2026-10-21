@@ -7,7 +7,7 @@ fun_fact: "In 2009 his painting Farewell, Caravaggio sold at Phillips for 97,000
 key_accomplishments:
   - "A leading painter of the Ukrainian New Wave of the 1980s and 1990s"
   - "The video Psychedelic Invasion of the Battleship Potemkin into the Tautological Hallucinosis of Sergei Eisenstein (1998): Venice Biennale 2001, MoMA collection"
-  - "Co-founder of the New Art association in Odesa; worked on launching the Soros Center for Contemporary Art in Odesa"
+  - "Co-founder of the New Art association in Odesa; worked on launching the Soros Center for Contemporary Art in Odesa and chaired its board"
   - "Director of the Odesa Art Museum (2018–2021): founded the Marazli Club of patrons"
 birthplace_name: "Odesa"
 image_alt: "Oleksandr Roitburd with a red scarf at his neck, in front of his paintings, 2016"
@@ -19,11 +19,11 @@ Oleksandr Roitburd was born in Odesa in 1961 and graduated from the art and grap
 
 ## A battleship at MoMA
 
-In the 1990s Roitburd helped build contemporary art in Odesa: he co-founded the New Art association and worked on launching the Soros Center for Contemporary Art. He also took up video. His Psychedelic Invasion of the Battleship Potemkin into the Tautological Hallucinosis of Sergei Eisenstein reworks Eisenstein’s famous film Battleship Potemkin. It was shown at the Venice Biennale in 2001, and later bought by the Museum of Modern Art (MoMA) in New York. Roitburd went on to run the Gelman Gallery in Kyiv, and in the winter of 2013–2014 he was an active part of the Euromaidan protests in Odesa.
+In the 1990s Roitburd helped build contemporary art in Odesa: he co-founded the New Art association, worked on launching the Soros Center for Contemporary Art and chaired its board. He also took up video. His Psychedelic Invasion of the Battleship Potemkin into the Tautological Hallucinosis of Sergei Eisenstein reworks Eisenstein’s famous film Battleship Potemkin. It was shown at the Venice Biennale in 2001, and later bought by the Museum of Modern Art (MoMA) in New York. Roitburd went on to run the Gelman Gallery in Kyiv, and in the winter of 2013–2014 he was an active part of the Euromaidan protests in Odesa. After the revolution he curated The Mezhyhirya Code, an exhibition about Viktor Yanukovych’s residence.
 
 ## The museum whose roof stopped leaking
 
-In December 2017 Roitburd won the competition to become director of the Odesa Art Museum. He wanted to turn it into a “city forum”: concerts, film screenings, children’s camps, free-admission days. More than a hundred businesspeople, artists and public figures joined the Marazli Club to buy new works for the museum. The museum’s income grew from about 500,000 hryvnias in 2016 to 3 million in 2020. And the fact that the old palace’s roof no longer leaked he jokingly counted among his achievements.
+In December 2017 Roitburd won the competition to become director of the Odesa Art Museum. He wanted to turn it into a “city forum”: concerts, film screenings, children’s camps, free-admission days. More than a hundred businesspeople, artists and public figures joined the Marazli Club to buy new works for the museum. The museum’s income grew from roughly 500,000 hryvnias in 2016 to about 3 million in 2020. And the fact that the old palace’s roof no longer leaked he jokingly counted among his achievements.
 
 ## The fight for the museum
 

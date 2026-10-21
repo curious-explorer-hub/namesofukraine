@@ -15,7 +15,7 @@ image_alt: "A bearded Valerii Markus in a vest and lifting belt holds a barbell 
 
 ## Videos from an armoured vehicle
 
-In 2014 many Ukrainians first saw the war in the Donbas through the videos of a blogger called Valerii Ananiev. He filmed the paratroopers of the 25th Separate Airborne Brigade, where he himself served as the driver of an airborne fighting vehicle. Valerii fought near Kramatorsk, Sloviansk, Shakhtarsk and Dobropillia. In 2016 he was wounded, and that same year he left the service for health reasons.
+In 2014 many Ukrainians first saw the war in the Donbas through the videos of a blogger called Valerii Ananiev. He filmed the paratroopers of the 25th Separate Airborne Brigade, where he himself served as the driver of an airborne fighting vehicle. Valerii fought near Kramatorsk, Sloviansk, Shakhtarsk and Dobropillia. He was badly wounded and concussed in the fighting near Sloviansk, and in 2016 he left the service for health reasons.
 
 ## A novel from the war
 

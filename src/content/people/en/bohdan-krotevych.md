@@ -29,11 +29,11 @@ In 2014, after Russia occupied Crimea, Krotevych volunteered for Azov as a priva
 
 ## Mariupol and captivity
 
-When the full-scale invasion began in 2022, Krotevych was chief of staff and first deputy to Azov’s commander [Denys Prokopenko](/en/people/denys-prokopenko/), and with him and [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) he helped direct the defence of encircled Mariupol. In March he said: “We have to win this war. We can, if the Ukrainian people believe in their own strength on their own land, which must not be given up to the enemy without a fight.” The defenders held the Azovstal steelworks for almost three months, until they were ordered out. In May Krotevych was taken prisoner, and on 21 September 2022 he was freed in an exchange.
+When the full-scale invasion began in 2022, Krotevych was chief of staff and first deputy to Azov’s commander [Denys Prokopenko](/en/people/denys-prokopenko/), and with him and [Sviatoslav Palamar](/en/people/sviatoslav-palamar/) he helped direct the defence of encircled Mariupol. In March he said: “We have to win this war. We can, if the Ukrainian people believe in their own strength on their own land, which must not be given up to the enemy without a fight.” The defenders held the Azovstal steelworks for almost three months, until they were ordered out. In May Krotevych was taken prisoner. He spent four months in solitary confinement in Moscow’s Lefortovo prison, completely cut off, and on 21 September 2022 he was freed in an exchange.
 
 ## Rebuilding Azov
 
-Back home, Krotevych set about restoring Azov’s fighting strength and helped grow it into the 12th Special Purpose Brigade. In summer 2023 he coordinated the brigade’s fighting in the Zaporizhzhia direction. In February 2025, after more than ten years in uniform, Lieutenant Colonel Krotevych left the service.
+Back home, Krotevych set about restoring Azov’s fighting strength and helped grow it into the 12th Special Purpose Brigade. In summer 2023 he coordinated the brigade’s fighting in the Zaporizhzhia direction. In June 2024 Krotevych asked the State Bureau of Investigation to look into the actions of General Yurii Sodol, commander of the Khortytsia group of forces, and the Kyiv Court of Appeal later ordered the bureau to open a criminal case. In February 2025, after more than ten years in uniform, Lieutenant Colonel Krotevych left the service.
 
 ## Why it matters today
 

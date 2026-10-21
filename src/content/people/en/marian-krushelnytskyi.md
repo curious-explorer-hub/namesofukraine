@@ -16,11 +16,11 @@ birthplace_name: "Pyliava"
 
 ## How did a village boy from the Ternopil region become one of Kurbas’s actors?
 
-It began with a troupe in Ternopil. Marian Krushelnytskyi was born in 1897 in the village of Pyliava in the Ternopil region; he is described as a nephew of the singer [Solomiia Krushelnytska](/en/people/solomiia-krushelnytska/). While still at school he acted with amateur groups, and in 1915 he went on stage with the Ternopilski Teatralni Vechory troupe founded by [Les Kurbas](/en/people/les-kurbas/). Theaters in Ternopil, Vinnytsia and Lviv followed.
+It began with a troupe in Ternopil. Marian Krushelnytskyi was born in 1897 in the village of Pyliava in the Ternopil region; he was a nephew of the singer [Solomiia Krushelnytska](/en/people/solomiia-krushelnytska/). While still at school he acted with amateur groups, and in 1915 he went on stage with the Ternopilski Teatralni Vechory troupe founded by [Les Kurbas](/en/people/les-kurbas/). Theaters in Ternopil, Vinnytsia and Lviv followed. In 1920 in Vinnytsia he helped create the Franko Theater, the same theater he would lead in Kyiv as chief director more than 30 years later. He also took part in creating a Ukrainian circus. In Lviv he acted while studying at the university, and in 1924 he studied at a medical faculty in Karlovy Vary, then in Czechoslovakia.
 
 ## Malakhii at the Berezil
 
-In 1924 Krushelnytskyi moved to Soviet Ukraine and joined Kurbas’s Berezil, first in Kyiv and then in Kharkiv. He soon became one of its leading actors and was at his best in the plays of [Mykola Kulish](/en/people/mykola-kulish/): Malakhii Stakanchyk in The People’s Malakhii (1928), Uncle Taras in Myna Mazailo, Padura in Maklena Grasa. In 1926 [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/) cast him in the lead of his comedy Love’s Berries.
+In 1924 Krushelnytskyi moved to Soviet Ukraine and joined Kurbas’s Berezil, first in Kyiv and then in Kharkiv. He soon became one of its leading actors, equally at home in gentle tragicomedy, grotesque, revue and clowning, and he was at his best in the plays of [Mykola Kulish](/en/people/mykola-kulish/): Malakhii Stakanchyk in The People’s Malakhii (1928), Uncle Taras in Myna Mazailo, Padura in Maklena Grasa. In 1926 [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/) cast him in the lead of his comedy Love’s Berries.
 
 ## After his teacher’s arrest
 

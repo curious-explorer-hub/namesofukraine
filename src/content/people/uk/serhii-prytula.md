@@ -3,7 +3,7 @@ name: Сергій Притула
 gender: male
 born: 1981-06-22
 living: true
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-21
 era: war-for-independence
 group: civic
 tags: [actor]

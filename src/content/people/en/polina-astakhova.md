@@ -4,6 +4,9 @@ name: "Polina Astakhova"
 role: "Gymnast, five Olympic golds"
 summary: "Polina Astakhova from Zaporizhzhia won 10 Olympic medals, took gold on the uneven bars at two Games in a row, and then spent almost a quarter of a century preparing others for the Olympics. Among her pupils was Olympic champion Lilia Podkopayeva."
 fun_fact: "Astakhova appeared on a 1965 Soviet postage stamp marking a national sports festival for schoolchildren."
+misconception:
+  claim: "Polina Astakhova was a Russian gymnast: in Rome they even called her \"the Russian birch\"."
+  truth: "Journalists gave her the nickname \"Russian birch\" at the 1960 Olympics, and the Italian press also called her the Madonna. Astakhova was born in Zaporizhzhia and trained in Donetsk and Kyiv; she competed for the Soviet team, as every athlete from Ukraine did at the time."
 key_accomplishments:
   - "Five-time Olympic champion: team (Melbourne, 1956; Rome, 1960; Tokyo, 1964) and uneven bars (1960, 1964)"
   - "10 Olympic medals (5 gold, 2 silver, 3 bronze): floor silver and all-around bronze in 1960 and 1964, and bronze in the team portable apparatus event in 1956"
@@ -16,11 +19,11 @@ image_alt: "Polina Astakhova in a red leotard performing on the balance beam at 
 
 ## Ten medals and a second life in the sport
 
-Ten Olympic medals at three Games, and then almost a quarter of a century more beside the podium as a national team coach. Polina Astakhova was born on 30 October 1936 in Zaporizhzhia. In her early years at the top level she competed for clubs in Donetsk, then for clubs in Kyiv, and she graduated from the Kyiv Institute of Physical Culture. Abroad, like every athlete from Ukraine at the time, she competed for the Soviet team.
+Ten Olympic medals at three Games, and then almost a quarter of a century more beside the podium as a national team coach. Polina Astakhova was born on 30 October 1936 in Zaporizhzhia. During the war her family was evacuated, and there she was diagnosed with a severe open form of tuberculosis; her legs began to fail. She fell for gymnastics after watching a competition, and from 1952 she trained at the Shakhtar sports palace in Donetsk under Volodymyr Smyrnov, the only coach she ever had. She competed for a club in Donetsk, then for one in Kyiv, and she graduated from the Kyiv Institute of Physical Culture. Abroad, like every athlete from Ukraine at the time, she competed for the Soviet team.
 
 ## Best on the bars, twice
 
-At the 1956 Olympics in Melbourne, Astakhova won gold in the team event and bronze in the team portable apparatus event. In Rome in 1960 she was team champion again, won the uneven bars, and took silver on the floor and bronze in the all-around. Four years later in Tokyo she matched that medal for medal: team gold, gold on the bars, floor silver, all-around bronze. In all, 10 Olympic medals, five of them gold. She also won two world team titles (1958, 1962). She qualified for the 1968 Olympics in Mexico City but could not go for health reasons.
+At the 1956 Olympics in Melbourne, Astakhova won gold in the team event and bronze in the team portable apparatus event. In Rome in 1960 she was team champion again, won the uneven bars, and took silver on the floor and bronze in the all-around. Four years later in Tokyo she matched that medal for medal: team gold, gold on the bars, floor silver, all-around bronze. In all, 10 Olympic medals, five of them gold. She also won two world team titles (1958, 1962). In 1968, at the USSR Cup in Leningrad, she had a heart attack just before the floor exercise. Without waiting for the doctors, she went out on the mat, finished third and qualified for a fourth Olympics, but her health no longer let her compete for new Olympic medals.
 
 ## The national team coach
 

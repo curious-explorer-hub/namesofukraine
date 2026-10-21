@@ -7,6 +7,7 @@ fun_fact: "She won her first European Championship medals, in Prague in 1978, un
 key_accomplishments:
   - "Olympic 800 m champion in a world record of 1:53.43 and 1500 m bronze medallist (Moscow, 1980)"
   - "Her Olympic 800 m record has stood since 1980 (as of October 2026)"
+  - "4×800 m relay world record of 7:50.17 (Moscow, 1984), unbeaten as of October 2026"
   - "European 800 m champion (Stuttgart, 1986); European silver medallist in the 800 m and the 4×400 m relay (Prague, 1978)"
   - "Universiade 800 m champion (Mexico City, 1979)"
   - "Order of Princess Olga, 3rd class (2002)"
@@ -23,11 +24,11 @@ Nadiia Mushta was born in 1953 in Bryansk, Russia, and took up athletics in 1967
 
 ## Summer 1980
 
-A month before the Olympics, Olizarenko broke the 800-metre world record for the first time. At the Games she won the event and lowered the record again, and three days later she added a bronze in the 1500 metres.
+Shortly before the Olympics, Olizarenko broke the 800-metre world record for the first time. At the Games she won the event and lowered the record again, and three days later she added a bronze in the 1500 metres.
 
 ## A second attempt
 
-After the Olympics she retired, but in 1984 she came back, hoping to reach a second Games. That year the USSR boycotted the Los Angeles Olympics, so she ran at the Friendship Games instead and took bronze. She kept going: in 1986 in Stuttgart she became European 800-metre champion, and in 1988 she finally made her second Olympics, in Seoul, where she reached the semi-finals. In 1986 she also graduated from the Odesa Pedagogical Institute.
+After the Olympics she retired, but in 1984 she came back, hoping to reach a second Games. That year the USSR boycotted the Los Angeles Olympics. Even so, on 5 August 1984 in Moscow she and her Soviet teammates set a 4×800 metres relay world record of 7 minutes 50.17 seconds, which still stands (as of October 2026). At the Friendship Games, held instead, she took bronze. She kept going: in 1986 in Stuttgart she became European 800-metre champion, and in 1988 she finally made her second Olympics, in Seoul, where she reached the semi-finals. In 1986 she also graduated from the Odesa Pedagogical Institute.
 
 ## The Nadiia club
 

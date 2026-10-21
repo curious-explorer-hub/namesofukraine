@@ -8,7 +8,7 @@ key_accomplishments:
   - "European champion on the 10 m platform (2019, 2022, 2025); in 2019, at 13, the youngest European champion in history"
   - "World silver medallist on the platform (Singapore, 2025), with a personal best of 515.20 points"
   - "Three gold medals at the 2025 European Championships (Antalya): individual and synchronised platform and the mixed team event"
-  - "Competed at the Tokyo Olympics (6th in the individual and synchronised platform) and in Paris (5th in the synchronised platform)"
+  - "Competed at the Tokyo Olympics (6th in the individual and synchronised platform) and in Paris (8th in the individual and 5th in the synchronised platform)"
   - "European Aquatics male diver of the year 2025"
 birthplace_name: "Mykolaiv"
 image_alt: "Oleksii Sereda in a Ukrainian team jacket, Kyiv, 2021"
@@ -20,11 +20,11 @@ Ten metres is roughly the height of a three-storey building. In August 2019 in K
 
 ## The boy from Mykolaiv
 
-Oleksii Sereda was born on 25 December 2005 in Mykolaiv. By 2021, aged 15, he was at the Tokyo Olympics, where he finished sixth twice: on the individual platform and in the synchronised event with Oleh Serbin. At the 2024 Games in Paris, Sereda and Kyrylo Boliukh came fifth in the synchronised platform.
+Oleksii Sereda was born on 25 December 2005 in Mykolaiv. By 2021, aged 15, he was at the Tokyo Olympics, where he finished sixth twice: on the individual platform and in the synchronised event with Oleh Serbin. At the 2024 Games in Paris, Sereda was eighth on the individual platform and fifth in the synchronised event with Kyrylo Boliukh.
 
 ## Diving while there is war at home
 
-Sereda competes for the Central Sports Club of the Armed Forces of Ukraine. His home city of Mykolaiv is under Russian shelling. He says he wants to help Ukraine's defenders: he raises money for them through his posts and knows where the donations go, because his friends are at war. He does not understand how a terrorist state can be allowed to take part in the Olympic Games.
+Sereda competes for the Central Sports Club of the Armed Forces of Ukraine. His home city of Mykolaiv is under Russian shelling. In 2024 he said he wanted to help Ukraine's defenders: he was raising money for them through his posts and knew where the donations went, because his friends were at war. He said he did not understand how a terrorist state could be allowed to take part in the Olympic Games.
 
 ## Silver and a personal best
 

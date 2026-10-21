@@ -3,7 +3,7 @@
 name: "Olena Pidhrushna"
 role: "Biathlete, Olympic champion"
 summary: "February 2014: Ukraine is living through the Maidan, and in Sochi four Ukrainian women line up for the Olympic relay. Olena Pidhrushna skis the anchor leg and crosses the line first. It was Ukraine's first Winter Olympic gold in 20 years. A year earlier she had become world champion."
-fun_fact: "Pidhrushna was born in Legnica, Poland, where her father was serving, and grew up in Ternopil. She took up biathlon in the fifth grade, after watching Olena Zubrylova from Ternopil win a medal at an international race."
+fun_fact: "Olena Pidhrushna was on a postage stamp before she was an Olympic champion: it was postmarked on 31 January 2014, three weeks before the relay in Sochi."
 misconception:
   claim: "In the summer of 2014 Russian media spread the story that Pidhrushna had become a sniper in the ATO zone and was shooting residents of Sloviansk."
   truth: "It was a fake. Pidhrushna was never in the ATO zone: all that time she was working as deputy minister of youth and sports."
@@ -13,6 +13,7 @@ key_accomplishments:
   - "Five-time European champion (2009–2012), six World Cup race wins"
   - "Competed at three Olympic Games (2010, 2014, 2022); Ukraine's flag bearer at the opening of the 2018 Games and the closing of the 2022 Games"
   - "Deputy minister of youth and sports (2014–2015)"
+  - "Holder of all three classes of the Order of Princess Olga: 3rd (2013), 2nd (2014) and 1st (2021)"
 birthplace_name: "Legnica (Poland)"
 image_alt: "A smiling Olena Pidhrushna in a turquoise jacket with a relay bib, clapping above her head after the win, Sochi, 2014"
 ---
@@ -25,7 +26,7 @@ The athletes knew little of what was happening at home during the Games. “If w
 
 ## From Legnica to Ternopil
 
-Olena Pidhrushna was born on 9 January 1987 in the Polish town of Legnica, where her father was serving in a Soviet army unit. In 1990 the family returned to the Ternopil region, and Olena went to school in Ternopil. In the fifth grade a teacher asked who wanted to try biathlon, and she said yes. She trained at the biathlon base in the village of Pidhorodne outside Ternopil.
+Olena Pidhrushna was born on 9 January 1987 in the Polish town of Legnica, where her father was serving in a Soviet army unit. In 1990 the family returned to the Ternopil region, and Olena went to school in Ternopil. In the fifth grade a teacher asked who wanted to try biathlon, and she said yes at once: the day before, she had watched Olena Zubrylova from Ternopil win a medal at an international race on TV. She trained at the biathlon base in the village of Pidhorodne outside Ternopil. Later she qualified as a PE teacher at Ternopil Pedagogical University and went on to postgraduate study at the Lviv University of Physical Culture.
 
 ## World champion
 

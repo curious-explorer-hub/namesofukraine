@@ -23,7 +23,7 @@ Serhii was born in Kharkiv in 1994. He was one of the leaders of the city’s ul
 
 ## Kraken
 
-At the start of the full-scale invasion in 2022, Velychko and Kostiantyn Nemichev founded Kraken in Kharkiv, a special unit working under Ukraine’s Defence Intelligence (HUR). In 2024 a petition asking for him to be made a Hero of Ukraine was backed by more than 25,000 people.
+At the start of the full-scale invasion in 2022, Velychko and Kostiantyn Nemichev founded Kraken in Kharkiv, a special unit working under Ukraine’s Defence Intelligence (HUR). In 2024 a petition asking for him to be made a Hero of Ukraine was backed by more than 25,000 people. It says he took part in freeing Vilkhivka, Balakliia and other towns and villages in the Kharkiv region.
 
 ## Debates and assessments
 

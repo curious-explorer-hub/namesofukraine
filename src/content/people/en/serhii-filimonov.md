@@ -22,7 +22,7 @@ What do a film festival red carpet and an assault battalion have in common? Serh
 
 Serhii was born in Kyiv in 1994. He took part in the Revolution of Dignity, and in 2014, aged 19, he volunteered for Azov. He fought for Mariupol and Marinka, and near Ilovaisk he was badly wounded.
 
-Back from the front, Filimonov turned to activism. In 2016 he took charge of the Kyiv branch of the National Corps party; in 2019 he left it and publicly accused the party of running a secret cash fund. With like-minded friends he founded Honor, a youth movement that took to the streets, among other things against property developments in Kyiv.
+Back from the front, Filimonov turned to activism. In 2016 he took charge of the Kyiv branch of the National Corps party; in 2019 he left it and publicly accused the party of running a secret cash fund. He was also one of the founders of Honor, a youth movement that took to the streets, among other things against property developments in Kyiv.
 
 ## Alongside “Da Vinci”
 

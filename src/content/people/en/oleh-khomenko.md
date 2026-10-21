@@ -10,7 +10,7 @@ key_accomplishments:
   - "In 2022 commanded Azov's commandant's company and directly commanded the defence of Azovstal"
   - "Order of Danylo Halytskyi (2022)"
   - "Hero of Ukraine with the Order of the Golden Star (decree No. 685/2022 of 1 October 2022)"
-  - "Colonel (April 2026), deputy commander of the National Guard's 1st Azov Corps"
+  - "From May 2025 deputy commander for security of the National Guard's 1st Azov Corps; colonel (April 2026)"
 birthplace_name: "Unknown"
 ---
 
@@ -20,7 +20,7 @@ Did you know that as early as 2014 an Azov fighter warned that the Russians migh
 
 ## From a tyre shop to Azov
 
-Oleh Khomenko was born on 24 October 1972. For many years he lived in Krasnyi Luch in Luhansk region (now Khrustalnyi). He served in the police and later ran his own tyre shop. He supported the Revolution of Dignity, and in spring 2014, when Russia occupied Krasnyi Luch, he moved to Makariv near Kyiv. When the war in the Donbas began, Oleh volunteered for Azov, a unit of Ukraine’s National Guard, and fought in Donetsk and Luhansk regions. In 2019 he was awarded the Medal For Military Service to Ukraine.
+Oleh Khomenko was born on 24 October 1972. For many years he lived in Krasnyi Luch in Luhansk region (now Khrustalnyi). He took a law degree at the Donbas State Technical University, served in the police and later ran his own tyre shop. He supported the Revolution of Dignity, and in spring 2014, when Russia occupied Krasnyi Luch, he moved to Makariv near Kyiv. When the war in the Donbas began, Oleh volunteered for Azov, a unit of Ukraine’s National Guard, and fought in Donetsk and Luhansk regions. In 2019 he was awarded the Medal For Military Service to Ukraine.
 
 ## At Azovstal
 
@@ -30,7 +30,7 @@ When the full-scale invasion began, Major Khomenko commanded Azov’s commandant
 
 On 21 September 2022 Khomenko was freed in an exchange together with [Denys Prokopenko](/en/people/denys-prokopenko/), [Sviatoslav Palamar](/en/people/sviatoslav-palamar/), [Serhii Volynskyi](/en/people/serhii-volynskyi/) and [Denys Shleha](/en/people/denys-shleha/). The five commanders were interned in Türkiye and came back to Ukraine in early July 2023. On 1 October 2022 Oleh Khomenko was made a Hero of Ukraine, the country’s highest title.
 
-After his return he went on serving in Azov. In April 2026 Khomenko was promoted to colonel; as of April 2026 he is deputy commander of the National Guard’s 1st Azov Corps.
+After his return he went on serving in Azov, and in May 2025 he became deputy commander for security of the National Guard’s 1st Azov Corps. In April 2026 Lieutenant Colonel Khomenko was promoted to colonel.
 
 ## Why it matters today
 

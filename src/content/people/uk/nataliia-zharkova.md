@@ -3,7 +3,7 @@ name: Наталія Жаркова
 gender: female
 born: 1989-01-24
 living: true
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-21
 era: independence
 group: sport
 tags: [athlete]

@@ -10,6 +10,7 @@ key_accomplishments:
   - "Co-founded the analysis department of Come Back Alive; became head of the foundation on 24 November 2020"
   - "In 2022 the foundation bought a Bayraktar TB2 system for the army for 16.5 million dollars"
   - "Defender of the Motherland Medal (Presidential Decree No. 593/2022)"
+  - "Member of the supervisory board of the Defence Procurement Agency from 5 February 2026"
 birthplace_name: "Korostyshiv"
 image_alt: "Taras Chmut in a white polo shirt, a Come Back Alive logo on his bag strap, in front of a bronze memorial plaque, Kyiv, 2021"
 ---
@@ -20,11 +21,11 @@ Taras Chmut was born in 1991 in Korostyshiv in the Zhytomyr region. In 2008, at 
 
 ## A master’s graduate who joined the marines
 
-In 2015 Chmut finished his master’s degree and, without waiting for a call-up, signed a contract with the marines, something he had long dreamed of. He served as a rifleman and then as commander of a drone squad in a marine battalion in Odesa. He took several courses run by British instructors and a NATO instructor course in Lithuania. From October 2016 to June 2017 his battalion fought in the Donbas, including near Shyrokyne. From his first day in uniform Chmut kept a “Marine’s Diary”, writing frankly about his battalion’s problems. In 2017 he left the army as a sergeant and reconnaissance platoon commander.
+In 2015 Chmut finished his master’s degree and, without waiting for a call-up, signed a contract with the marines, something he had long dreamed of. He served as a rifleman in the 501st Separate Marine Battalion, and from his first day in uniform he kept a “Marine’s Diary”, writing frankly about his battalion’s problems. In late September 2015 the ATO commander ordered him out of the combat zone, not least because of those posts. From May 2016 Chmut served in a marine battalion in Odesa, where he became commander of a drone squad. He took several courses run by British instructors and a NATO instructor course in Lithuania. From October 2016 to June 2017 his battalion fought in the Donbas, including near Shyrokyne. In 2017 he left the army as a sergeant and reconnaissance platoon commander.
 
 ## “Deals like these require silence”
 
-After the army Chmut helped set up the analysis department of the Come Back Alive foundation, and on 24 November 2020 he became its head. After the full-scale invasion in 2022 the foundation got permission to import military goods. That summer it bought and brought to Ukraine a Bayraktar TB2 system: three drones, a ground station and munitions, for 16.5 million dollars. “Deals like these require silence until they are carried out,” Chmut said, explaining why the purchase was announced only afterwards. In August 2022 the President awarded him the Defender of the Motherland Medal.
+After the army Chmut helped set up the analysis department of the Come Back Alive foundation, and on 24 November 2020 he became its head. After the full-scale invasion in 2022 the foundation got permission to import military goods. That summer it bought and brought to Ukraine a Bayraktar TB2 system: three drones, a ground station and munitions, for 16.5 million dollars. “Deals like these require silence until they are carried out,” Chmut said, explaining why the purchase was announced only afterwards. In August 2022 the President awarded him the Defender of the Motherland Medal. And on 5 February 2026 Chmut joined the supervisory board of the Defence Procurement Agency of the Ministry of Defence.
 
 ## Why it matters today
 
