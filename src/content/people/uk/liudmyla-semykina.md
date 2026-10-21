@@ -3,7 +3,7 @@ name: Людмила Семикіна
 gender: female
 born: 1924-08-23
 died: 2021-01-12
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: visual-arts
 tags: [artist, human-rights]
@@ -13,12 +13,30 @@ fun_fact: "Людмила Семикіна була головною худож�
 birthplace: { name: "Одеса", region: odesa, country: UA, lat: 46.482, lon: 30.723 }
 places:
   - { name: "Київ", lat: 50.450, lon: 30.523, note: "навчалася, жила й працювала; місце смерті" }
+image:
+  src: ./images/liudmyla-semykina.jpg
+  alt: "Людмила Семикіна з рудуватим волоссям до підборіддя, у візерунчастій блузі з шарфом і темній безрукавці"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-891987"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Співавторка вітража «Шевченко. Мати» в Київському університеті (1964), знищеного владою"
   - "Строї за мотивами давнього українського вбрання: серії «Княжа доба», «Поліська легенда», «Скіфський степ», «Високий замок»"
   - "Головна художниця з костюмів фільму «Захар Беркут» (1970–1971)"
   - "Живопис: краєвиди одеського порту, триптих «Легенда про Київ», серія «Київська Русь»"
   - "Державна премія України імені Тараса Шевченка (1997), премія імені Василя Стуса (2001), заслужена художниця України (2009)"
+gallery:
+  - src: ./images/liudmyla-semykina-shevchenko-maty.jpg
+    alt: "Вітраж в арці на чорному тлі: Шевченко в білій сорочці посеред різнобарвних скелець, навколо напис «Возвеличу малих отих рабів німих, я на сторожі коло їх поставлю слово»"
+    caption: "«Шевченко. Мати»"
+    section: 3
+    author: "Людмила Семикіна, Опанас Заливаха, Алла Горська, Галина Севрук, Галина Зубченко"
+    license: "Fair use"
+    source_url: "https://treasures.ui.org.ua/semykina_ua"
+    fair_use: true
 sources:
   - title: "Енциклопедія сучасної України - Семикіна Людмила Миколаївна"
     url: "https://esu.com.ua/article-891987"
@@ -30,7 +48,8 @@ sources:
     url: "https://dnabb.kyiv.ua/semykina-liudmyla-mykolaivna/"
 related: [alla-horska, opanas-zalyvakha, halyna-sevruk]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T21:04:44Z
 ---
 
 ## «Викривлений образ Шевченка»

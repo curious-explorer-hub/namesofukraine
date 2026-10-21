@@ -11,6 +11,10 @@ key_accomplishments:
   - "Paintings: views of the port of Odesa, the triptych Legend of Kyiv, the series Kyivan Rus’"
   - "Shevchenko National Prize (1997), Vasyl Stus Prize (2001), Honoured Artist of Ukraine (2009)"
 birthplace_name: "Odesa"
+image_alt: "Liudmyla Semykina with chin-length reddish hair, in a patterned blouse with a scarf and a dark vest"
+gallery:
+  - alt: "Arched stained-glass window on a black background: Shevchenko in a white shirt among multicoloured panes, with Shevchenko’s lines “I will exalt those small, mute slaves; I will set the word on guard beside them” around the arch"
+    caption: "Shevchenko. Mother"
 ---
 
 ## “A distorted image of Shevchenko”
