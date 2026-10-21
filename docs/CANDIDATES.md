@@ -52,6 +52,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Микола Руденко | 1920–2004 | Writer, philosopher, rights activist (civic) |  |  | Owner suggestion 2026-10-20 (unverified). Founder of the Ukrainian Helsinki Group (1976) |
 | Оксана Мешко | 1905–1991 | Rights activist (civic) | 👩 |  | Owner suggestion 2026-10-20 (unverified). «Баба Оксана», a founding member of the Ukrainian Helsinki Group in Kyiv |
 | Леонід Плющ | 1939–2015 | Mathematician, rights activist (civic) |  |  | Owner suggestion 2026-10-20 (unverified). Held in a Soviet psychiatric hospital; later in emigration (🌍 check) |
+| Ігор Свєшніков | 1915–? | Archaeologist (science) | | | Owner request 2026-10-21 (unverified). Spent his life excavating the field of the Battle of Berestechko (1651), the site of the «Козацькі могили» memorial. Check the spelling (Свєшніков / Свешніков), years and the find details against ESU or IEU. Link to `bohdan-khmelnytskyi` and `ivan-bohun` where the 1651 battle is told |
 
 ## Needs a decision
 
