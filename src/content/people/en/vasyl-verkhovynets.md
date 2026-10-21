@@ -13,7 +13,7 @@ key_accomplishments:
   - "Staged (with V. Lytvynenko) M. Verykivskyi’s ballet Pan Kanovskyi at the Kharkiv Opera and Ballet Theater (1931)"
   - "Art songs to words by Lesya Ukrainka, Ivan Franko and Maksym Rylskyi"
 birthplace_name: "Staryi Mizun"
-image_alt: "Black-and-white photographic portrait of a young Vasyl Verkhovynets in a striped jacket"
+image_alt: "Vasyl Verkhovynets with curly greying hair and a full moustache, in a tweed jacket and striped tie, 1936"
 ---
 
 ## How did a hopak win in London?

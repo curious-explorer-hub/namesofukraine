@@ -3,7 +3,7 @@ name: Василь Верховинець
 gender: male
 born: 1880-01-05
 died: 1938-04-11
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: performing-arts
 tags: [musician, dancer]
@@ -17,11 +17,12 @@ places:
   - { name: "Полтава", lat: 49.589, lon: 34.551, note: "викладав у 1920-х - на початку 1930-х років" }
 image:
   src: ./images/vasyl-verkhovynets.jpg
-  alt: "Чорно-білий фотопортрет молодого Василя Верховинця в смугастому піджаку"
+  alt: "Василь Верховинець із кучерявим сивіючим волоссям і пишними вусами, у твідовому піджаку й смугастій краватці, 1936 рік"
   position: "50% 30%"
-  author: "Невідомий автор"
+  author: "Невідомий автор (родинний архів)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%B8%D0%BD%D0%B5%D1%86%D1%8C_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C.jpg"
+  ai_edit: colorized
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Василь_Верховинець_портрет_1936.JPG"
 key_accomplishments:
   - "Підручники «Українські народні танці» (1913) і «Теорія українського народного танка» (1919): 41 танцювальний рух і власний спосіб запису танцю"
   - "Повний запис весільного обряду в селі Шпичинці (1912): 140 пісень і 70 мелодій; виданий як «Українське весілля» (1914)"
@@ -37,7 +38,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CE%5CVerkhovynetsVasyl.htm"
 related: [mykola-lysenko, mariia-zankovetska, lesya-ukrainka, ivan-franko, maksym-rylskyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T20:19:09Z
 ---
 
 ## Як гопак переміг у Лондоні?
