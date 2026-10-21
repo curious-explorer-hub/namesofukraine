@@ -11,7 +11,10 @@ key_accomplishments:
   - "Editor of the guide Kyiv: A Guidebook (1930); studies of 17th–18th-century Ukrainian art, Heorhii Narbut and Shevchenko as a painter"
   - "The 1925 exhibition of Ukrainian portraits; photographs of Kyiv churches later destroyed"
 birthplace_name: "Kyiv"
-image_alt: "Fedir Ernst, photographic portrait"
+image_alt: "Fedir Ernst in a hat and a grey coat with a fur collar, hands folded in his lap"
+gallery:
+  - alt: "A black-and-white group photograph: several dozen men and women standing, sitting and lying in rows in open country"
+    caption: "Fedir Ernst with the staff of the White Sea–Baltic Canal museum, mid-1930s"
 ---
 
 ## Photographs of a lost Kyiv

@@ -3,7 +3,7 @@ name: Федір Ернст
 gender: male
 born: 1891-11-09
 died: 1942-10-28
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: science
 tags: [scientist]
@@ -18,16 +18,28 @@ places:
   - { name: "Уфа", lat: 54.735, lon: 55.958, note: "Башкирський художній музей; третій арешт 1941, розстріляний 1942" }
 image:
   src: ./images/fedir-ernst.jpg
-  alt: "Федір Ернст, фотопортрет"
+  alt: "Федір Ернст у капелюсі та сірому пальті з хутряним коміром, руки складені на колінах"
+  position: "50% 25%"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Theodor_Richard_Ernst.jpg"
+  license: "Fair use"
+  source_url: "https://uain.press/blogs/fedir-ernst-hranitel-ukrayinskoyi-kulturnoyi-spadshhini-1107542"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Під його керівництвом у 1917–1922 роках зареєстрували близько 160 старовинних будівель Києва"
   - "Завідувач художнього відділу Всеукраїнського історичного музею (з 1923): збірка зросла з кількох сотень до 5 тисяч творів"
   - "Один із засновників Лаврського музею культів, Київської картинної галереї та Музею мистецтв ВУАН (нині Музей Ханенків)"
   - "Редактор путівника «Київ. Провідник» (1930); праці про українське мистецтво XVII–XVIII століть, Георгія Нарбута, Шевченка-маляра"
   - "Виставка українського портрета (1925); фотографії київських храмів, згодом знищених"
+gallery:
+  - src: ./images/fedir-ernst-belomorkanal.jpg
+    alt: "Групова чорно-біла фотографія: кілька десятків чоловіків і жінок стоять, сидять і лежать у кілька рядів на відкритій місцевості"
+    caption: "Федір Ернст разом зі співробітниками музею Біломор-Балтійського каналу, середина 1930-х років"
+    section: 4
+    author: "Невідомий автор (збірка Сергія Білоконя)"
+    license: "Fair use"
+    source_url: "https://uain.press/blogs/fedir-ernst-hranitel-ukrayinskoyi-kulturnoyi-spadshhini-1107542"
+    fair_use: true
 sources:
   - title: "Енциклопедія Сучасної України - Ернст Федір Львович (автор - С. І. Білокінь)"
     url: "https://esu.com.ua/article-18002"
@@ -37,7 +49,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CE%5CR%5CErnstFedir.htm"
 related: [heorhii-narbut, taras-shevchenko, bohdan-khanenko, varvara-khanenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T03:31:49Z
 ---
 
 ## Фотографії зниклого Києва
