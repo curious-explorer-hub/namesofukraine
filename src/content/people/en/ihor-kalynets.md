@@ -10,10 +10,13 @@ key_accomplishments:
   - "One of the publishers of the unofficial journal Yevshan-zillia (1987); fairy tales for children, including Tales from Lviv (1999)"
   - "Shevchenko National Prize (1992), Vasyl Stus Prize (1992), Order of Freedom (2009)"
 birthplace_name: "Khodoriv"
-image_alt: "Ihor Kalynets, a grey-haired man with a moustache, in a grey suit and tie on a street, 2007"
+image_alt: "Ihor Kalynets with dark hair and a moustache, in a white shirt and a patterned neckerchief"
 quotes:
   - text: "I knew it was a challenge, and I went into it knowingly. But it was my duty as a poet to stand up for people who were persecuted, who had done something for Ukraine."
     source: "Interview with Radio Svoboda, July 2019"
+gallery:
+  - alt: "The young Iryna and Ihor Kalynets: she in a white dress with a pearl necklace, he in a dark jacket, white shirt and striped tie"
+    caption: "Ihor and Iryna Kalynets, 1961"
 ---
 
 ## The book they took off the shelves
