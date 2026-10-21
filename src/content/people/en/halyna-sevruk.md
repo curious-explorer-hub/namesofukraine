@@ -11,7 +11,10 @@ key_accomplishments:
   - "Portraits of Alla Horska, Ivan Svitlychnyi, Nadiia Svitlychna and Mykhailo Braichevskyi"
   - "Vasyl Stus Prize (1991), Metropolitan Andrei Sheptytskyi Prize (1994), Honoured Artist of Ukraine"
 birthplace_name: "Samarkand"
-image_alt: "A drawn portrait of Halyna Sevruk: a smiling woman with glasses and a pearl necklace"
+image_alt: "Imagined portrait of a smiling Halyna Sevruk with shoulder-length dark hair, dark-rimmed glasses and a white turtleneck, made by AI"
+gallery:
+  - alt: "Mosaic: a young woman with long auburn hair, in an embroidered shirt, a dark vest, a red necklace and a striped wrap skirt, holds a branch against a green and rust background"
+    caption: "Halyna Sevruk’s Lisova Pisnia (The Forest Song)"
 ---
 
 ## A panel that was saved

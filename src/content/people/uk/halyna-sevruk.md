@@ -3,7 +3,7 @@ name: Галина Севрук
 gender: female
 born: 1929-05-18
 died: 2022-02-13
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -16,17 +16,26 @@ places:
   - { name: "Чернігів", lat: 51.494, lon: 31.289, note: "панно «Давній Чернігів» (1981–1982), тепер у Чернігівському художньому музеї" }
 image:
   src: ./images/halyna-sevruk.jpg
-  alt: "Мальований портрет Галини Севрук: усміхнена жінка в окулярах і з намистом"
-  position: "50% 35%"
-  author: "Nataliia Goncharova, проєкт «Streetcode: History at Every Turn» ГО «History Platform»"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Halyna_Sevruk_Streetcode_Portret.jpg"
+  alt: "Уявний портрет усміхненої Галини Севрук із темним волоссям до плечей, в окулярах у темній оправі й білому светрі з високим коміром, створений ШІ"
+  position: "50% 30%"
+  author: "Знай своїх"
+  license: "Public domain"
+  ai_edit: generated
 key_accomplishments:
   - "Співавторка вітража «Шевченко. Мати» в Київському університеті (1964), знищеного владою"
   - "Керамічні панно для готелів «Турист» у Києві («Місто на семи горбах») і «Градецький» у Чернігові («Давній Чернігів»)"
   - "Керамічні рельєфи з постатями української історії, міфології й фольклору, зокрема Козака Мамая"
   - "Портрети Алли Горської, Івана Світличного, Надії Світличної, Михайла Брайчевського"
   - "Премія імені Василя Стуса (1991), премія імені Митрополита Андрея Шептицького (1994), заслужена художниця України"
+gallery:
+  - src: ./images/halyna-sevruk-lisova-pisnia.jpg
+    alt: "Мозаїка: молода жінка з довгим каштановим волоссям, у вишитій сорочці, темній безрукавці, червоному намисті й смугастій плахті, тримає гілку на зелено-рудому тлі"
+    caption: "«Лісова пісня» Галини Севрук"
+    section: 3
+    author: "Галина Севрук"
+    license: "Fair use"
+    source_url: "https://secondaryarchive.org/artists/halyna-sevruk/"
+    fair_use: true
 sources:
   - title: "Internet Encyclopedia of Ukraine - Sevruk, Halyna"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CE%5CSevrukHalyna.htm"
@@ -38,7 +47,8 @@ sources:
     url: "https://www.history.org.ua/?termin=sevruk_galyna_sylvestrivna"
 related: [alla-horska, opanas-zalyvakha, liudmyla-semykina, ivan-svitlychnyi]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T21:07:11Z
 ---
 
 ## Панно, яке врятували
