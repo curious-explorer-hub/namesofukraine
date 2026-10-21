@@ -3,7 +3,7 @@ name: Микола Вороний
 gender: male
 born: 1871-12-06
 died: 1938-06-07
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [poet]

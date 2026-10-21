@@ -22,13 +22,13 @@ The linguist Yurii Shevelov ranked Oleksa Syniavskyi among the people who did th
 
 ## A boy from Tavria
 
-Oleksa Syniavskyi was born in 1887 on the Andriivka farmstead (now in Zaporizhzhia region), into a poor peasant family with seven children. At 14 he went to study in Odesa. He passed the gymnasium course as an external student and in 1909 entered Kharkiv University.
+Oleksa Syniavskyi was born in 1887 on the Andriivka farmstead (now in Zaporizhzhia region), into a poor peasant family with seven children. At 14 he went to study in Odesa. He passed the gymnasium course as an external student and in 1909 entered Kharkiv University. As a student he described the dialect of the village of Pokrovske in the Katerynoslav province, and the university awarded this unpublished work a silver medal.
 
 ## A banned celebration
 
 The authorities banned any celebration of Shevchenko’s centenary in 1914. Ukrainian students in Kharkiv decided to demonstrate, and Syniavskyi and his friend Dmytro Solovei prepared the march. He was arrested for it and exiled to Poltava for two years under police watch. Back in Kharkiv, he finished his degree as an external student in 1916.
 
-After the 1917 revolution Syniavskyi was elected to the Central Rada from Kharkiv. That autumn he took charge of the first Ukrainian gymnasium in Slobozhanshchyna, and taught there himself.
+After the 1917 revolution Syniavskyi was elected to the Central Rada from Kharkiv. That autumn he became the administrator of the first Ukrainian gymnasium in Slobozhanshchyna, and taught there himself.
 
 ## One orthography for everyone
 

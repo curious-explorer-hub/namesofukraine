@@ -7,7 +7,7 @@ fun_fact: "Among Polishchuk’s many pen names were Vasylii Sontsvit and Mykyta 
 key_accomplishments:
   - "Founded the art group Hrono in Kyiv (1920) and the literary group Avanhard in Kharkiv (1925)"
   - "The theoretical works The Literary Avant-garde (1926) and Pulse of the Epoch (1927), his programme of “constructive dynamism”"
-  - "Poetry collections Metallic Timbre and Electric Glow (1929)"
+  - "Poetry collections Metallic Timbre (1927) and Electric Glow (1929)"
   - "The short novels Hryhorii Skovoroda (1929) and A Tale of Metal and Coal (1931), about the Donbas"
   - "Translations of Arthur Rimbaud, John Reed and Alexander Blok"
 birthplace_name: "Bilche"
@@ -16,7 +16,7 @@ image_alt: "Valerian Polishchuk in a dark suit and bow tie"
 
 ## The boy from Volhynia
 
-Valerian Polishchuk was born in 1897 into a peasant family in the village of Bilche in Volhynia (now in the Rivne region). He went to the gymnasium in Lutsk and then in Katerynoslav. While still a schoolboy, in December 1914, he published his first poem.
+Valerian Polishchuk was born in 1897 into a peasant family in the village of Bilche in Volhynia (now in the Rivne region). He went to the gymnasium in Lutsk and then in Katerynoslav, where he joined a social-democratic circle led by Isaak Mazepa, later head of the UNR government. While still a schoolboy, in December 1914, he published his first poem.
 
 ## Years of upheaval
 
@@ -32,7 +32,7 @@ In time, hopeless moods crept into his cheerful poems. Polishchuk took hard the 
 
 ## Solovki and Sandarmokh
 
-At the end of 1934 Polishchuk was arrested on a fabricated charge of belonging to an anti-Soviet “Borotbist” organization. In March 1935 he was sentenced to 10 years in the camps, which he served on the Solovetsky Islands. In October 1937 a special NKVD troika sentenced him to death. On 3 November 1937 he was shot in the Sandarmokh forest in Karelia; [Mykola Kulish](/en/people/mykola-kulish/), Valerian Pidmohylnyi and [Oleksa Slisarenko](/en/people/oleksa-slisarenko/) were killed there the same day. He was later rehabilitated.
+At the end of 1934 Polishchuk was arrested on a fabricated charge of belonging to an anti-Soviet “Borotbist” organization. In March 1935 he was sentenced to 10 years in the camps, which he served on the Solovetsky Islands. In October 1937 a special NKVD troika sentenced him to death. On 3 November 1937 he was shot in the Sandarmokh forest in Karelia; [Mykola Kulish](/en/people/mykola-kulish/), Valerian Pidmohylnyi and [Oleksa Slisarenko](/en/people/oleksa-slisarenko/) were killed there the same day. He was posthumously rehabilitated in 1962.
 
 ## Why it matters today
 

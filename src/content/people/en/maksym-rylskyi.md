@@ -3,7 +3,7 @@
 name: "Maksym Rylskyi"
 role: "Poet, translator of Pan Tadeusz"
 summary: "He was arrested on his birthday: on 19 March 1931 Maksym Rylskyi turned 36. A Neoclassicist poet and translator of Mickiewicz and Pushkin, after prison he had to become an “official” poet. Of the Kyiv Neoclassicists, he alone lived through the terror while staying in Ukraine."
-fun_fact: "As a gymnasium student, Maksym Rylskyi lived and was brought up in the family of the composer Mykola Lysenko."
+fun_fact: "As a gymnasium student, Maksym Rylskyi lived and was brought up in the family of the composer Mykola Lysenko, who gave him music lessons himself."
 key_accomplishments:
   - "Translation of Adam Mickiewicz’s Pan Tadeusz (published as a book in 1927)"
   - "Translations of Pushkin’s Eugene Onegin, Rostand’s Cyrano de Bergerac and Shakespeare’s King Lear"
@@ -27,11 +27,11 @@ Rylskyi returned to Kyiv in 1923 and joined the circle of Neoclassicist poets: [
 
 ## Arrested on his birthday
 
-Rylskyi was arrested on the day he turned 36: 19 March 1931. The arrest is linked to the trial in the fabricated case of the “Union for the Liberation of Ukraine”. He spent five months in Kyiv’s Lukianivka prison, taken from there to interrogations by the secret police (GPU), and came to know its system of intimidation, forced self-accusation and “repentance”. After his release the poet wrote a verse “Declaration of the Duties of a Poet and Citizen” (1931) and the collection The Sign of Libra (1932), in which he accepted the new rules of Soviet literary life. Most of his Neoclassicist friends later died in Stalin’s camps, and Burghardt had to emigrate.
+Rylskyi was arrested on the day he turned 36: 19 March 1931. The arrest is linked to the trial in the fabricated case of the “Union for the Liberation of Ukraine”. He spent five months in Kyiv’s Lukianivka prison, taken from there to interrogations by the secret police (GPU), and came to know its system of intimidation, forced self-accusation and “repentance”. After his release the poet wrote a verse “Declaration of the Duties of a Poet and Citizen” (1931) and the collection The Sign of Libra (1932), in which he accepted the new rules of Soviet literary life. Most of his Neoclassicist friends later died in Stalin’s camps, and Burghardt had to emigrate. As his closest friends vanished into the camps one after another, Rylskyi told Halyna, the wife of [Yevhen Pluzhnyk](/en/people/yevhen-pluzhnyk/), that he wanted to shout down the line to the Kremlin: “you are taking out Ukraine’s brain and leaving her to live without a brain”.
 
 ## Carrot and stick
 
-Rylskyi became an “official” poet. During the war he was made an academician, joined the Party, headed the Writers’ Union of Ukraine, and from 1944 until his death ran the academy’s institute of folk art and art studies. He received Stalin Prizes (1943, 1950) and the Lenin Prize (1960). But honours alternated with persecution: after the war he was again accused of “nationalist errors”, and the secret police even planned to stage his murder as if by OUN nationalists. A chain of circumstances and the poet’s standing prevented it.
+Rylskyi became an “official” poet. During the war he was made an academician, joined the Party, headed the Writers’ Union of Ukraine, and from 1944 until his death ran the academy’s institute of folk art and art studies. He received Stalin Prizes (1943, 1950) and the Lenin Prize (1960). But honours alternated with persecution: after the war he was again accused of “nationalist errors”, and the secret police even planned to stage his murder as if by OUN nationalists. A chain of circumstances and the poet’s standing prevented it. In the last year of his life the translator of Mickiewicz was made an honorary doctor of the Jagiellonian University in Kraków.
 
 ## Debates and assessments
 

@@ -27,7 +27,7 @@ In 1923 he moved to Kyiv, changed his surname and took up journalism and writing
 
 ## December 1934
 
-In December 1934, after the Bolshevik leader Sergei Kirov was murdered in Leningrad, Falkivskyi was arrested on an invented charge of planning terrorist acts. A visiting session of a military court in Kyiv sentenced him to death together with 27 other Ukrainian cultural figures, among them [Hryhorii Kosynka](/en/people/hryhorii-kosynka/), [Oleksa Vlyzko](/en/people/oleksa-vlyzko/) and [Kost Burevii](/en/people/kost-burevii/). Dmytro Falkivskyi was shot in Kyiv in December 1934. He was rehabilitated in the late 1950s.
+Falkivskyi was arrested in late 1934 (sources give November or December) on an invented charge of planning terrorist acts. After the Bolshevik leader Sergei Kirov was murdered in Leningrad on 1 December, the regime answered with a wave of repression, and a visiting session of a military court in Kyiv sentenced him to death together with 27 other Ukrainian cultural figures, among them [Hryhorii Kosynka](/en/people/hryhorii-kosynka/), [Oleksa Vlyzko](/en/people/oleksa-vlyzko/) and [Kost Burevii](/en/people/kost-burevii/). Dmytro Falkivskyi was shot in Kyiv in December 1934. He was rehabilitated in the late 1950s.
 
 ## Debates and assessments
 

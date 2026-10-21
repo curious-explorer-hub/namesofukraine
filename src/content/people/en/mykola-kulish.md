@@ -23,11 +23,11 @@ Mykola Kulish was born in 1892 in the village of Chaplynka in southern Ukraine (
 
 ## From the trenches to the stage
 
-In the First World War Kulish went through the ensign school in Odesa and fought as an infantry officer in Galicia, Volhynia and Belarus; in 1917 he was wounded. After the revolution he headed the council in Oleshky. From 1922 he worked in education in the Odesa region, and in the autumn of 1925 he moved to Kharkiv.
+In the First World War Kulish went through the ensign school in Odesa and fought as an infantry officer in Galicia, Volhynia and Belarus; in 1917 he was wounded. After the revolution he headed the council in Oleshky, and during the struggle for independence he raised a guerrilla regiment in southern Ukraine to fight the Russian Volunteer Army, and commanded it with distinction. From 1922 he worked in education in the Odesa region, and in the autumn of 1925 he moved to Kharkiv.
 
 ## A play with a new ending
 
-Fame came with his very first play, 97 (1924). But audiences didn’t see it as he wrote it: the director Hnat Yura swapped the tragic ending for an optimistic one. The most important productions of Kulish’s plays were made by [Les Kurbas](/en/people/les-kurbas/) at the Berezil theatre: The People’s Malakhii, Myna Mazailo and Maklena Grasa. Myna Mazailo is a comedy about how people took Ukrainization. It was the only one the authorities let run for long: The People’s Malakhii was banned after a few performances, and Maklena Grasa a few weeks after its dress rehearsal. In all, Kulish wrote about 15 plays.
+Fame came with his very first play, 97 (1924), which is considered the first major play written anywhere in the USSR. But audiences didn’t see it as he wrote it: the director Hnat Yura swapped the tragic ending for an optimistic one. The most important productions of Kulish’s plays were made by [Les Kurbas](/en/people/les-kurbas/) at the Berezil theatre: The People’s Malakhii, Myna Mazailo and Maklena Grasa. Myna Mazailo is a comedy about how people took Ukrainization. It was the only one the authorities let run for long: The People’s Malakhii was banned after a few performances, and Maklena Grasa a few weeks after its dress rehearsal, which armed GPU officers watched. A cut German translation of Sonata Pathétique, published in Berlin in 1932, won the admiration of Bertolt Brecht. In all, Kulish wrote about 15 plays.
 
 ## VAPLITE and Khvylovy
 
@@ -35,7 +35,7 @@ Kulish joined the writers’ union Hart in 1924. In Kharkiv [Mykola Khvylovy](/e
 
 ## Solovki and Sandarmokh
 
-Kulish’s plays were condemned as nationalist in June 1934, and he was expelled from the Party as a “counter-revolutionary”. In December 1934 he was arrested. In the fabricated case of a “Borotbist terrorist centre” he was sentenced to 10 years of imprisonment, which he served on the Solovetsky Islands. On 9 October 1937 a special NKVD troika sentenced him to death. Kulish, [Mykola Zerov](/en/people/mykola-zerov/), Les Kurbas and [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/) were among the Ukrainian prisoners shot at that time in the Sandarmokh forest in Karelia; Kulish was shot on 3 November 1937. His manuscripts were confiscated and most of them destroyed; the play Such Ones was lost for good. He was rehabilitated in 1956.
+Kulish’s plays were condemned as nationalist in June 1934, and he was expelled from the Party as a “counter-revolutionary”. In December 1934 he was arrested. In the fabricated case of a “Borotbist terrorist centre” he was sentenced to 10 years of imprisonment, which he served on the Solovetsky Islands. On 9 October 1937 a special NKVD troika sentenced him to death. Kulish, [Mykola Zerov](/en/people/mykola-zerov/), Les Kurbas and [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/) were among the Ukrainian prisoners shot at that time in the Sandarmokh forest in Karelia; Kulish was shot on 3 November 1937. His manuscripts were confiscated and most of them destroyed; the play Such Ones was lost for good. Some plays survived by a miracle: Ukrainian refugees smuggled them to the West during the Second World War. He was rehabilitated in 1956.
 
 ## Why it matters today
 

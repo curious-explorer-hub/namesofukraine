@@ -3,7 +3,7 @@ name: Борис Антоненко-Давидович
 gender: male
 born: 1899-08-05
 died: 1984-05-09
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer, human-rights]

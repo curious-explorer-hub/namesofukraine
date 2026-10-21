@@ -24,15 +24,15 @@ In Paris in 1909 Boichuk opened his own studio of neo-Byzantine art, and his sch
 
 ## Back home
 
-Back in Lviv, Boichuk rescued old 15th- and 16th-century icons at the National Museum. He painted the icon The Protection of the Mother of God, which includes a portrait of Metropolitan Sheptytskyi, as well as portraits of [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1912–1914 he also worked in the Chernihiv region, painting a church in the village of Lemeshi. In 1914, at the start of the First World War, the Russian authorities interned him as an Austro-Hungarian subject.
+Back in Lviv, Boichuk rescued old 15th- and 16th-century icons at the National Museum. He painted the icon The Protection of the Mother of God, which includes a portrait of Metropolitan Sheptytskyi, as well as portraits of [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1912–1914 he also worked in the Chernihiv region, restoring and painting a church in the village of Lemeshi. In 1914, at the start of the First World War, the Russian authorities interned him as an Austro-Hungarian subject.
 
 ## A school that painted walls
 
-In 1917 Boichuk became one of the founders of the Ukrainian Academy of Arts in Kyiv, where he taught monumental art. A school formed around him, the Boichukists, among them Ivan Padalka, [Vasyl Sedliar](/en/people/vasyl-sedliar/) and Oksana Pavlenko. Together they painted murals for the Lutsk Barracks in Kyiv (1919), a peasant sanatorium on the Khadzhybei Estuary in Odesa (1928) and the Chervonozavodskyi Theatre in Kharkiv (1933–1935).
+In 1917 Boichuk became one of the founders of the Ukrainian Academy of Arts in Kyiv, where he taught monumental art. A school formed around him, the Boichukists, among them [Ivan Padalka](/en/people/ivan-padalka/), [Vasyl Sedliar](/en/people/vasyl-sedliar/) and Oksana Pavlenko. Together they painted murals for the Lutsk Barracks in Kyiv (1919), a peasant sanatorium on the Khadzhybei Estuary in Odesa (1928) and the Chervonozavodskyi Theatre in Kharkiv (1933–1935). In 1930–1932 Boichuk also headed the composition department at the Leningrad Academy of Arts.
 
 ## Arrest and execution
 
-On 25 November 1936 Boichuk was arrested. He was accused of “Ukrainian bourgeois nationalism” and of leading a made-up terrorist organization. On 13 July 1937 he was shot in Kyiv, on the same day as his students Ivan Padalka and Vasyl Sedliar. His wife, the artist [Sofiia Nalepynska-Boichuk](/en/people/sofiia-nalepynska-boichuk/), was also shot later. Most of Boichuk’s works were destroyed: in 1952, 14 of his paintings were removed from the National Museum in Lviv and destroyed as “ideologically harmful”.
+On 25 November 1936 Boichuk was arrested. He was accused of “Ukrainian bourgeois nationalism”, of leading a made-up terrorist organization and even of being an “agent of the Vatican”. On 13 July 1937 he was shot in Kyiv, on the same day as his students Ivan Padalka and Vasyl Sedliar. His wife, the artist [Sofiia Nalepynska-Boichuk](/en/people/sofiia-nalepynska-boichuk/), was also shot later. Most of Boichuk’s works were destroyed: in 1952, 14 of his paintings were removed from the National Museum in Lviv and destroyed as “ideologically harmful”.
 
 ## Why it matters today
 

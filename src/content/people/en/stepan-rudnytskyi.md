@@ -9,7 +9,7 @@ key_accomplishments:
   - "The first ethnographic map of Ukraine and the first physical wall maps of Ukraine (1918)"
   - "The book Ukraina, Land und Volk (1916), in English as Ukraine: The Land and Its People (1918)"
   - "The first Ukrainian geographical dictionary, an Outline of Geographical Terminology (1908)"
-  - "Co-founder of the Ukrainian Free University in Prague; founder of the Ukrainian Research Institute of Geography and Cartography in Kharkiv (1927); member of the All-Ukrainian Academy of Sciences (1929)"
+  - "Co-founder of the Ukrainian Free University in Vienna (later Prague); founder of the Ukrainian Research Institute of Geography and Cartography in Kharkiv (1927); member of the All-Ukrainian Academy of Sciences (1929)"
 birthplace_name: "Peremyshl (now Przemyśl, Poland)"
 image_alt: "Stepan Rudnytskyi, photographic portrait"
 quotes:

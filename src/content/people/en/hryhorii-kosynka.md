@@ -19,11 +19,11 @@ quotes:
 
 ## A flower’s name
 
-The writer’s real surname was Strilets. Hryhorii was born in 1899 in the village of Shcherbanivka in the Kyiv region (now Obukhiv district), into a poor peasant family. His grandfather taught him to read when he was four, and as a boy he already worked at a sugar mill. His mother loved flowers, and he took that love from her: for his pen name he chose kosynka, a small red flower. In 1919 the paper Borotba printed his first story, At Beet Harvest, signed “Hryhorii Kosynka”.
+The writer’s real surname was Strilets. Hryhorii was born in 1899 in the village of Shcherbanivka in the Kyiv region (now Obukhiv district), into a poor peasant family. His grandfather taught him to read when he was four, and as a boy he already worked at a sugar mill. His mother’s brother, Kalistrat Anyshchenko, later a well-known prose writer, encouraged him to study. His mother loved flowers, and he took that love from her: for his pen name he chose kosynka, a small red flower. In 1919 the paper Borotba printed his first story, At Beet Harvest, signed “Hryhorii Kosynka”.
 
 ## The book that surprised him
 
-The first Ukrainian book Hryhorii read was The Witch of Konotop by Kvitka-Osnovianenko. It amazed him: it turned out there were people who wrote simply, the way peasants talk. In 1914 he moved to Kyiv. He took whatever work he could find, went to evening classes, passed the exams for six years of secondary school on his own, and from 1919 to 1922 studied at the Kyiv Institute of People’s Education. Later he worked for newspapers, magazines and publishers, in radio and at the Kyiv film studio.
+The first Ukrainian book Hryhorii read was The Witch of Konotop by Kvitka-Osnovianenko. It amazed him: it turned out there were people who wrote simply, the way peasants talk. In 1914 he moved to Kyiv. He took whatever work he could find, went to evening classes, passed the exams for six years of secondary school on his own, and from 1919 to 1922 studied at the Kyiv Institute of People’s Education. Later he worked for newspapers, magazines and publishers and at the Kyiv film studio, and headed the radio committees in Kharkiv and Kyiv.
 
 ## The village in a storm
 
@@ -35,7 +35,7 @@ In the early 1930s Party critics accused Kosynka of “kulak ideology” and “
 
 ## December 1934
 
-On 4 November 1934, after a critical speech at the Writers’ House, Kosynka was arrested. On 1 December the Bolshevik leader Sergei Kirov was killed in Leningrad, and the regime answered with a wave of repression. On 13–15 December a military court in Kyiv, in a fabricated case of “White Guard terrorists”, sentenced 28 people to death, among them Kosynka and the writers [Dmytro Falkivskyi](/en/people/dmytro-falkivskyi/), [Oleksa Vlyzko](/en/people/oleksa-vlyzko/) and [Kost Burevii](/en/people/kost-burevii/). Hryhorii Kosynka was shot in Kyiv on 15 December 1934. He was rehabilitated in 1957.
+On 4 November 1934, after a critical speech at the Writers’ House, Kosynka was arrested. On 1 December the Bolshevik leader Sergei Kirov was killed in Leningrad, and the regime answered with a wave of repression. On 13–15 December a military court in Kyiv, in a fabricated case of “White Guard terrorists”, sentenced 28 people to death, among them Kosynka and the writers [Dmytro Falkivskyi](/en/people/dmytro-falkivskyi/), [Oleksa Vlyzko](/en/people/oleksa-vlyzko/) and [Kost Burevii](/en/people/kost-burevii/). Hryhorii Kosynka was shot in Kyiv on 15 December 1934. He was rehabilitated in 1957, and in 1979 a monument to him was put up in his native Shcherbanivka.
 
 ## Why it matters today
 

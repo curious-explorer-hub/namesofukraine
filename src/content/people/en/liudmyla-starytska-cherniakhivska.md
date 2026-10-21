@@ -19,7 +19,7 @@ quotes:
 
 ## “The first Ukrainian children”
 
-“We were the first Ukrainian children,” Liudmyla Starytska-Cherniakhivska recalled. She meant that her parents raised her, a city child, as a conscious Ukrainian from birth. Liudmyla was born in 1868 in Kyiv. Her father, Mykhailo Starytskyi, was a playwright, and her mother, Sofiia, was the sister of the composer [Mykola Lysenko](/en/people/mykola-lysenko/). In 1888–1893 Liudmyla took part in the literary circle Pleiada.
+“We were the first Ukrainian children,” Liudmyla Starytska-Cherniakhivska recalled. She meant that her parents raised her, a city child, as a conscious Ukrainian from birth. Liudmyla was born in 1868 in Kyiv. Her father, Mykhailo Starytskyi, was a playwright, and her mother, Sofiia, was the sister of the composer [Mykola Lysenko](/en/people/mykola-lysenko/). Liudmyla first appeared in print in 1887, in the Lviv almanac Pershyi vinok (The First Wreath), and in 1888–1893 she took part in the literary circle Pleiada.
 
 ## Lesya Ukrainka’s friend
 
@@ -31,15 +31,15 @@ Starytska-Cherniakhivska wrote many dramas, often about history: Hetman [Petro D
 
 ## In the Central Rada
 
-In the First World War she worked as a nurse in a hospital and helped refugees. She was a member of the Society of Ukrainian Progressives and of the Ukrainian Central Rada, chaired by [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1919, in Kamianets-Podilskyi, she co-founded the National Council of Ukrainian Women and became its deputy head. In the 1920s she worked at the All-Ukrainian Academy of Sciences, among other things on the commission preparing a Ukrainian Bible for print.
+In the First World War she worked as a nurse in a hospital and helped refugees. She was a member of the Society of Ukrainian Progressives and of the Ukrainian Central Rada, chaired by [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). After the schoolboys and students fell at Kruty, she published “In Memory of the Young Heroes Murdered at Kruty” on 24 March 1918. Their grave, she wrote, would be “a second holy grave above the Dnipro”. In 1919, in Kamianets-Podilskyi, she co-founded the National Council of Ukrainian Women and became its deputy head. In the 1920s she worked at the All-Ukrainian Academy of Sciences, among other things on the commission preparing a Ukrainian Bible for print.
 
 ## The SVU trial
 
-In January 1930 she was arrested and accused of belonging to the “Union for the Liberation of Ukraine” (SVU). [Andrii Nikovskyi](/en/people/andrii-nikovskyi/) was tried in the same case. Starytska-Cherniakhivska was sentenced to five years of imprisonment, but after a few months she was released and exiled to Stalino (now Donetsk), where she earned her living by translating. In 1936 she returned to Kyiv.
+In January 1930 she was arrested and accused of belonging to the “Union for the Liberation of Ukraine” (SVU). [Andrii Nikovskyi](/en/people/andrii-nikovskyi/) was tried in the same case. Starytska-Cherniakhivska was sentenced to five years of imprisonment, but on 4 June 1930 she was released, the sentence was made suspended, and she was exiled to Stalino (now Donetsk), where she earned her living by translating. In 1936 she returned to Kyiv.
 
 ## The last journey
 
-In 1941 the NKVD arrested Liudmyla Starytska-Cherniakhivska again, together with her sister Oksana Steshenko. She was accused of anti-Soviet activity and sent into exile in Kazakhstan. She died on the way; the exact date and place of her death are unknown. In 1989 she was rehabilitated posthumously.
+On 20 July 1941, with fighting already near Kyiv, the NKVD arrested the 72-year-old Liudmyla Starytska-Cherniakhivska again, together with her sister Oksana Steshenko. She was accused of anti-Soviet activity and sent into exile in Kazakhstan. She died on the way; the exact date and place of her death are unknown. In 1989 she was rehabilitated posthumously.
 
 ## Why it matters today
 

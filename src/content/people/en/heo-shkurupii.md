@@ -16,7 +16,7 @@ image_alt: "Heo Shkurupii in a dark suit and tie, looking to the side, photo of 
 
 ## The king of the futuro-prairies
 
-In 1922 a slim book of poems called Psykhetozy came out. Its cover proudly announced “the king of the futuro-prairies Heo Shkurupii”. An advertisement offered “words of iron and porcelain”, wholesale and retail, in the world’s biggest cities, and warned: “Beware of imitations!” The author was nineteen. This is how one of the boldest futurists burst into Ukrainian poetry.
+In 1922 a slim book of poems called Psykhetozy came out. Its cover proudly announced “the king of the futuro-prairies Heo Shkurupii”, and also “Window Three”, though it was his first book. The next one, The Drum, came out as “Window Two”. An advertisement offered “words of iron and porcelain”, wholesale and retail, in the world’s biggest cities, and warned: “Beware of imitations!” The author was nineteen. This is how one of the boldest futurists burst into Ukrainian poetry.
 
 ## A train driver’s son
 
@@ -32,7 +32,7 @@ Shkurupii worked as an editor and screenwriter at film studios: The Blue Packet 
 
 ## 1934–1937
 
-On 3 December 1934 Shkurupii was arrested in Kyiv and accused of belonging to a “Kyiv terrorist organization of the OUN”. He denied everything and complained about illegal interrogation methods, but in April 1935 a military tribunal sentenced him to ten years in the camps. His wife and son were expelled from Kyiv. He served his sentence on the Solovetsky Islands. In 1937 a special NKVD troika sentenced him to death together with 509 other prisoners, and on 8 December 1937 Heo Shkurupii was shot, at the age of 34. Sources give the place as near Leningrad or the Sandarmokh forest in Karelia; where he is buried is not known. After Stalin’s death his wife won a review of the case, and the poet was rehabilitated.
+In 1930 Shkurupii travelled through Ukrainian villages with brigades of “collectivizers”. Then came his book Winter of ’30, a mix of verse and prose that mocked the heads of the new collective farms. The poet Yar Slavutych believed this was what led to his arrest. On 3 December 1934 Shkurupii was arrested in Kyiv and accused of belonging to a “Kyiv terrorist organization of the OUN”. He denied everything and complained about illegal interrogation methods, but in April 1935 a military tribunal sentenced him to ten years in the camps. His wife and son were expelled from Kyiv. He served his sentence on the Solovetsky Islands. In 1937 a special NKVD troika sentenced him to death together with 509 other prisoners, and on 8 December 1937 Heo Shkurupii was shot, at the age of 34. Sources give the place as near Leningrad or the Sandarmokh forest in Karelia; where he is buried is not known. After Stalin’s death his wife won a review of the case, and the poet was rehabilitated.
 
 ## Why it matters today
 

@@ -36,7 +36,7 @@ Pluzhnyk didn’t only write poems. With Valerian Pidmohylnyi he compiled the di
 
 ## Solovki
 
-On 4 December 1934 Pluzhnyk was arrested, together with many other figures of Ukrainian culture; Pidmohylnyi was arrested a few days later. In March 1935 a military court sentenced the poet to death, but the sentence was commuted to ten years’ imprisonment on the Solovetsky Islands in the White Sea. There, on 2 February 1936, Yevhen Pluzhnyk died of tuberculosis, which he had suffered from since 1926. He was buried in a mass grave. He was rehabilitated in 1956.
+On 4 December 1934 Pluzhnyk was arrested, together with many other figures of Ukrainian culture; Pidmohylnyi was arrested a few days later. In March 1935 a military court sentenced the poet to death, but the sentence was commuted to ten years’ imprisonment on the Solovetsky Islands in the White Sea. There, on 2 February 1936, Yevhen Pluzhnyk died of tuberculosis, which he had suffered from since 1926. He was buried in a mass grave. He was rehabilitated in 1956. A memorial plaque has been put up on 18 Prorizna Street in Kyiv, and the central library of the city’s Shevchenkivskyi district bears his name.
 
 ## Why it matters today
 

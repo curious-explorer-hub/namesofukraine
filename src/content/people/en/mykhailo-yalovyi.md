@@ -20,11 +20,11 @@ Yulian Shpol was the name on the books of one of the best-known writers in 1920s
 
 ## Futurist, poet, novelist
 
-With [Mykhailo Semenko](/en/people/mykhail-semenko/) and Vasyl Aleshko, Yalovyi founded the Combat Group of Futurist Poets in 1921. Then came his poetry collection Verkhy (The Peaks, 1923), the comedy Katia’s Love, or Building Propaganda (1928) and the novel Golden Fox Cubs (1929).
+Yalovyi signed his first works “Mykhailo Krasnyi”. With [Mykhailo Semenko](/en/people/mykhail-semenko/) and Vasyl Aleshko, he founded the Combat Group of Futurist Poets in 1921. Then came his poetry collection Verkhy (The Peaks, 1923), the comedy Katia’s Love, or Building Propaganda (1928) and the novel Golden Fox Cubs (1929). He also wrote the screenplay for Vasylyna, a film based on a work by [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/), which Moscow papers attacked for formalism.
 
 ## VAPLITE and Khvylovy
 
-Yalovyi was a close friend and ally of [Mykola Khvylovy](/en/people/mykola-khvylovyi/). In 1925 they were among the founders of VAPLITE, the Free Academy of Proletarian Literature, and Yalovyi became its first president. In the Literary Discussion of 1925–1928 he was one of the sharpest polemicists. In 1927 he took part in the All-Ukrainian Orthographic Conference in Kharkiv, which adopted a single standard Ukrainian spelling.
+Yalovyi was a close friend and ally of [Mykola Khvylovy](/en/people/mykola-khvylovyi/). In 1925 they were among the founders of VAPLITE, the Free Academy of Proletarian Literature, and Yalovyi became its first president. In the Literary Discussion of 1925–1928 he was one of the sharpest polemicists and defended the distinctiveness of Ukrainian art; in 1926 he published an article titled “Saint Petersburg Servility”. In 1927 he took part in the All-Ukrainian Orthographic Conference in Kharkiv, which adopted a single standard Ukrainian spelling.
 
 ## An arrest that sent a signal
 

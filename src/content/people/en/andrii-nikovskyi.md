@@ -20,19 +20,19 @@ Andrii Nikovskyi was born in 1885 in the village of Malyi Buialyk in the Kherson
 
 ## The editor of Rada
 
-Before the First World War Nikovskyi edited the Kyiv newspaper Rada, and in 1915 the journal Osnova in Odesa. When the revolution came in 1917, he became editor-in-chief of the newspaper Nova Rada and ran it until 1919.
+Before the First World War Nikovskyi edited the Kyiv newspaper Rada, and in 1915 the journal Osnova in Odesa. When the revolution came in 1917, he became editor-in-chief of the newspaper Nova Rada and ran it until 1919. He also wrote under the pen names A. Yarynovych, A. Hanaskovych and A. Vasylko.
 
 ## From the Central Rada to the ministry
 
-Nikovskyi sat in the Ukrainian Central Rada, and on 23 June 1917 he was elected deputy to its head, [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1918 he became the first head of the Ukrainian National-State Union. From 26 May 1920 he was foreign minister of the Ukrainian People’s Republic, and he headed the commission that drafted the UNR constitution.
+Nikovskyi sat in the Ukrainian Central Rada, and on 23 June 1917 he was elected deputy to its head, [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1918 he became the first head of the Ukrainian National-State Union. From 26 May 1920 he was foreign minister of the Ukrainian People’s Republic, and he headed the commission that drafted the UNR constitution. In August 1921 he was in Warsaw with the UNR diplomatic mission and sat on the delegation that negotiated joint action with Boris Savinkov; the talks ended in an agreement on mutual recognition between the UNR and the Russian Political Committee.
 
 ## Coming home to a dictionary
 
-Imagine a former minister of the exiled UNR government going home to Soviet Ukraine. In 1924 Nikovskyi was allowed to return. He worked at the All-Ukrainian Academy of Sciences, headed its orthography and terminology commission, and in 1927 published a Ukrainian–Russian dictionary. He also translated Mykola Gogol and Jack London into Ukrainian.
+Imagine a former minister of the exiled UNR government going home to Soviet Ukraine. In 1924 Nikovskyi was allowed to return. He worked at the All-Ukrainian Academy of Sciences, headed its orthography and terminology commission, and in 1927 published a Ukrainian–Russian dictionary. He wrote introductions to editions of [Lesya Ukrainka](/en/people/lesya-ukrainka/), [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/), Olha Kobylianska and Hryhorii Kvitka-Osnovianenko, worked on a Ukrainian edition of Shakespeare’s Hamlet, and translated Mykola Gogol and Jack London into Ukrainian.
 
 ## The SVU trial and Solovki
 
-Nikovskyi was arrested on 21 July 1929 in the case of the “Union for the Liberation of Ukraine” (SVU). At the 1930 show trial, where the writer [Liudmyla Starytska-Cherniakhivska](/en/people/liudmyla-starytska-cherniakhivska/) was also tried, he was sentenced to 10 years of imprisonment, which he served on the Solovetsky Islands. He was released in April 1940. He died in 1942 in besieged Leningrad.
+Nikovskyi was arrested on 21 July 1929 in the case of the “Union for the Liberation of Ukraine” (SVU). At the 1930 show trial, where the writer [Liudmyla Starytska-Cherniakhivska](/en/people/liudmyla-starytska-cherniakhivska/) was also tried, he was sentenced to 10 years of imprisonment, which he served on the Solovetsky Islands. When his term was over, the sentence was annulled and the case closed, and on 21 April 1940 he was released. He died in 1942 in besieged Leningrad and was buried in a mass grave at the Piskarevskoye Cemetery.
 
 ## Why it matters today
 

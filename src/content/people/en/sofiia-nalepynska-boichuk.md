@@ -20,11 +20,11 @@ Zofia Nalepińska was born in 1884 in Łódź, then a city in the Russian Empire
 
 ## A meeting in Paris
 
-In Paris she met the Ukrainian painter [Mykhailo Boichuk](/en/people/mykhailo-boichuk/), and from 1917 she was his wife. That is how a Pole from Łódź tied her life to Ukraine. In 1919–1921 she taught at the art school in Myrhorod, in the Poltava region.
+In Paris she met the Ukrainian painter [Mykhailo Boichuk](/en/people/mykhailo-boichuk/), and from 1917 she was his wife. That is how a Pole from Łódź tied her life to Ukraine. From 1918 (some sources say 1919) to 1921 she taught at the art school in Myrhorod, in the Poltava region.
 
 ## Pictures cut into wood
 
-How do you make a picture you can print hundreds of times? You cut it into a wooden block, then press it onto paper: that is a woodcut. This was Nalepynska-Boichuk’s technique. From 1922 to 1929 she ran the woodcut workshop of the Kyiv Art Institute. Her prints include Factory Apprentice (1925), Girls with a Book and Hungry Children (both 1927) and Pacification of Western Ukraine (1930). She illustrated [Taras Shevchenko](/en/people/taras-shevchenko/)’s Kateryna (1929) and Leo Tolstoy’s Anna Karenina (1935). In 1928–1932 her work was shown in more than 35 group exhibitions.
+How do you make a picture you can print hundreds of times? You cut it into a wooden block, then press it onto paper: that is a woodcut. This was Nalepynska-Boichuk’s technique. From 1922 to 1929 she ran the woodcut workshop of the Kyiv Art Institute. Her prints include Factory Apprentice (1925), Girls with a Book and Hungry Children (both 1927) and Pacification of Western Ukraine (1930). She illustrated [Taras Shevchenko](/en/people/taras-shevchenko/)’s Kateryna (1929) and Leo Tolstoy’s Anna Karenina (1935). In 1928–1932 her work was shown in more than 35 group exhibitions. Her prints shaped younger artists too: [Ivan Padalka](/en/people/ivan-padalka/) took up printmaking following her example.
 
 ## Money that was never printed
 

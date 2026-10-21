@@ -19,7 +19,7 @@ quotes:
 
 ## Swans that break the ice
 
-Swans live on a quiet lake. When the frosts come and the water freezes, they break the ice and have no fear of winter. That is how the sonnet The Swans begins, written by Mykhailo Drai-Khmara in 1928. And it ends with a call: “O fivefold cluster of unconquered singers!” The five were the Kyiv Neoclassicists: [Mykola Zerov](/en/people/mykola-zerov/), [Maksym Rylskyi](/en/people/maksym-rylskyi/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/), Yurii Klen and Drai-Khmara himself. The Soviet authorities read the poem as a call to resist, and it later became grounds for charges against him.
+Swans live on a quiet lake. When the frosts come and the water freezes, they break the ice and have no fear of winter. That is how the sonnet The Swans begins, written by Mykhailo Drai-Khmara in 1928. And it ends with a call: “O fivefold cluster of unconquered singers!” The five were the Kyiv Neoclassicists: [Mykola Zerov](/en/people/mykola-zerov/), [Maksym Rylskyi](/en/people/maksym-rylskyi/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/), [Yurii Klen](/en/people/yurii-klen/) and Drai-Khmara himself. The Soviet authorities read the poem as a call to resist, and it later became grounds for charges against him.
 
 ## From Drai to Drai-Khmara
 
@@ -27,11 +27,11 @@ Mykhailo Drai was born in 1889 in the village of Mali Kanivtsi in the Poltava pr
 
 ## Scholar and poet
 
-Drai-Khmara was a Slavist: he studied Ukrainian, Belarusian and Serbian literature and the history of the Slavic languages. From 1918 to 1923 he taught at the university in Kamianets-Podilskyi, then returned to Kyiv. He had written poems since 1910, but his only collection published in his lifetime, Prorosten, came out in 1926. The same year saw his book [Lesya Ukrainka](/en/people/lesya-ukrainka/): Life and Work. He translated from French, German, Polish, Belarusian and other languages; his translations of Dante’s Divine Comedy and of the Kalevala were never printed.
+Drai-Khmara was a Slavist: he studied Ukrainian, Belarusian and Serbian literature and the history of the Slavic languages. A polyglot, he knew 19 languages, among them ancient Greek, Latin and Sanskrit. From 1918 to 1921 he taught at the university in Kamianets-Podilskyi, and later returned to Kyiv. He had written poems since 1910, but his only collection published in his lifetime, Prorosten, came out in 1926. The same year saw his book [Lesya Ukrainka](/en/people/lesya-ukrainka/): Life and Work. He translated from French, German, Polish, Belarusian and other languages; his translations of Dante’s Divine Comedy and of the Kalevala were never printed.
 
 ## Arrests and Kolyma
 
-Drai-Khmara was first arrested in 1933. He was later released, but lost his job. In September 1935 he was arrested again, and in 1936, in a fabricated case, he was convicted of “counter-revolutionary terrorism” and sent to Kolyma, where he did hard labour in a camp. According to the official records, Drai-Khmara died on 19 January 1939, aged 49. The poet was rehabilitated in 1989.
+Drai-Khmara was first arrested in 1933. He was later released, but lost his job. In September 1935 he was arrested again. He was the only Neoclassicist who refused to admit guilt under interrogation or to slander his friends. In 1936, in a fabricated case, he was convicted of “counter-revolutionary terrorism” and sent to Kolyma, where he did hard labour in a camp. According to the official records, Drai-Khmara died on 19 January 1939, aged 49. The poet was rehabilitated in 1989.
 
 ## Why it matters today
 

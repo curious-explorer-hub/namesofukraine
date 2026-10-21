@@ -19,7 +19,7 @@ quotes:
 
 ## How Pavel Zorev became Pavlo Fylypovych
 
-Pavlo Fylypovych was born in 1891 in the village of Kaitanivka (now in the Cherkasy region), into a priest’s large family. He graduated from the Pavlo Galagan College in Kyiv in 1910 with a gold medal, and from the faculty of history and philology at Kyiv University in 1915. In 1910 he also began to publish poems, but in Russian and under the pen name “Pavel Zorev”. From 1917 on he wrote in Ukrainian.
+Pavlo Fylypovych was born in 1891 in the village of Kaitanivka (now in the Cherkasy region), into a priest’s large family. He graduated from the Pavlo Galagan College in Kyiv in 1910 with a gold medal. At Kyiv University he spent a year studying law before switching to history and philology, graduating in 1915. In 1910 he also began to publish poems, but in Russian and under the pen name “Pavel Zorev”. His first major scholarly work was a book on the Russian poet Yevgeny Baratynsky (1917). Yet from that same year on he wrote in Ukrainian.
 
 ## A poet of the “fivefold cluster”
 
@@ -27,11 +27,11 @@ Fylypovych was one of the Kyiv Neoclassicists, the poets around [Mykola Zerov](/
 
 ## A professor who read Shevchenko anew
 
-As a scholar Fylypovych studied Taras Shevchenko, the Ukrainian classics and the ties between Ukrainian and Russian literature. His works include Shevchenko and the Decembrists (1926) and Pushkin in Ukrainian Literature (1927). He was a professor at the Kyiv Institute of People’s Education, taught modern Ukrainian literature and ran a seminar on its history together with Zerov.
+As a scholar Fylypovych studied Taras Shevchenko, the Ukrainian classics and the ties between Ukrainian and Russian literature. He wrote more than 100 scholarly articles and reviews, among them Shevchenko and the Decembrists (1926) and Pushkin in Ukrainian Literature (1927), and edited the two-volume Shevchenko and His Times (1925–1926). He was a professor at the Kyiv Institute of People’s Education, taught modern Ukrainian literature and ran a seminar on its history together with Zerov.
 
 ## Solovki and Sandarmokh
 
-Fylypovych was arrested on 5 September 1935 on a fabricated charge of belonging to a “counter-revolutionary nationalist organization”. He was tried together with Zerov and sentenced to 10 years of imprisonment, which he served on the Solovetsky Islands. From there he and other prisoners were taken to the Sandarmokh forest in Karelia and shot on 3 November 1937. Zerov, [Mykola Kulish](/en/people/mykola-kulish/) and [Les Kurbas](/en/people/les-kurbas/) were killed there the same day. Fylypovych was rehabilitated in 1958.
+Fylypovych was arrested on 5 September 1935 on a fabricated charge of belonging to a “counter-revolutionary nationalist organization”. He was tried together with Zerov and sentenced to 10 years of imprisonment, which he served on the Solovetsky Islands. From there he and other prisoners were taken to the Sandarmokh forest in Karelia and shot on 3 November 1937, in the mass executions of prisoners timed to mark the 20th anniversary of the October Revolution. Zerov, [Mykola Kulish](/en/people/mykola-kulish/) and [Les Kurbas](/en/people/les-kurbas/) were killed there the same day. Fylypovych was rehabilitated in 1958. His poems first came out as a book only after his death, in Munich in 1959; in Ukraine they had to wait until 1989.
 
 ## Why it matters today
 

@@ -20,11 +20,11 @@ What turns a village boy into an artist? For Ivan Padalka, it was his mother’s
 
 ## Boichuk’s student
 
-In 1913 Padalka entered the Kyiv Art School, and in 1917 he joined the workshop of [Mykhailo Boichuk](/en/people/mykhailo-boichuk/) at the newly founded Ukrainian Academy of Arts. He remembered their first meeting this way: “I had the happy thought that he was the very master who would teach me to make pictures as beautiful as my mother’s carpets.” Boichuk taught his students to look for modern art in icons and folk painting, and Padalka became one of the best of them. In 1919 the Boichukists painted murals in the Lutsk Barracks in Kyiv; they were destroyed as early as 1922. That same year Padalka and Tymko Boichuk illustrated the children’s book Barvinok.
+In 1913 Padalka entered the Kyiv Art School, and in 1917 he joined the workshop of [Mykhailo Boichuk](/en/people/mykhailo-boichuk/) at the newly founded Ukrainian Academy of Arts. He remembered their first meeting this way: “I had the happy thought that he was the very master who would teach me to make pictures as beautiful as my mother’s carpets.” Boichuk taught his students to look for modern art in icons and folk painting, and Padalka became one of the best of them. In 1919 the Boichukists painted 14 murals in the Lutsk Barracks in Kyiv; Padalka’s showed a peasant family coming home from mowing. That same year he and Tymko Boichuk illustrated the children’s book Barvinok. The barracks murals were destroyed as early as 1922.
 
 ## Kharkiv: teacher and printmaker
 
-Padalka taught ceramics students in Myrhorod and Mezhyhiria, and in 1925 he moved to Kharkiv. For almost ten years he taught at the Kharkiv Art Institute, and a whole generation of his students grew up there. He painted and cut prints about the new life around him: the painting Photographer in the Village (1927), the print series Dniprelstan (1928). He illustrated The Tale of Ihor’s Campaign, the Kobzar of [Taras Shevchenko](/en/people/taras-shevchenko/) and the Aeneid of [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). He designed books for his contemporaries too: covers for [Maik Yohansen](/en/people/maik-yohansen/) and [Valerian Polishchuk](/en/people/valerian-polishchuk/), a bookplate for [Oleksa Slisarenko](/en/people/oleksa-slisarenko/), illustrations for Diderot in [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/)’s translation.
+Padalka taught ceramics students in Myrhorod and Mezhyhiria, and in 1925 he moved to Kharkiv. For almost ten years he taught at the Kharkiv Art Institute, and a whole generation of his students grew up there. He painted and cut prints about the new life around him: the painting Photographer in the Village (1927), the print series Dniprelstan (1928). He took up printmaking following the example of [Sofiia Nalepynska-Boichuk](/en/people/sofiia-nalepynska-boichuk/). He illustrated The Tale of Ihor’s Campaign, the Kobzar of [Taras Shevchenko](/en/people/taras-shevchenko/) and the Aeneid of [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). He designed books for his contemporaries too: covers for [Maik Yohansen](/en/people/maik-yohansen/) and [Valerian Polishchuk](/en/people/valerian-polishchuk/), a bookplate for [Oleksa Slisarenko](/en/people/oleksa-slisarenko/), illustrations for Diderot in [Valerian Pidmohylnyi](/en/people/valerian-pidmohylnyi/)’s translation.
 
 ## A fresco for a theatre
 
@@ -32,7 +32,7 @@ In 1933 the Boichukists began painting the Chervonozavodskyi Theatre in Kharkiv,
 
 ## 1936–1937
 
-In September 1936 Padalka became the first of the Boichukists to be arrested. He was accused of belonging to a made-up “national-fascist terrorist organization”. On 13 July 1937 he was shot in Kyiv, on the same day as Mykhailo Boichuk and [Vasyl Sedliar](/en/people/vasyl-sedliar/). He was rehabilitated in 1958.
+On 29 September 1936 Padalka became the first of the Boichukists to be arrested. He was accused of belonging to a made-up “national-fascist terrorist organization”. On 13 July 1937 he was shot in Kyiv, on the same day as Mykhailo Boichuk and [Vasyl Sedliar](/en/people/vasyl-sedliar/). He was rehabilitated on 1 February 1958.
 
 ## Why it matters today
 

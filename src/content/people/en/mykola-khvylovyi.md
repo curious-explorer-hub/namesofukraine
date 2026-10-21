@@ -17,15 +17,15 @@ quotes:
 
 ## The slogan Stalin noticed
 
-Can a few pamphlets become the Kremlin’s business? With Mykola Khvylovy, they did. In pamphlets of 1925–1926 he urged Ukrainian culture to look not to Moscow but to a “psychological Europe”. His slogan “Away from Moscow!” stirred up the whole Ukrainian literary world, and Stalin, in a letter to Lazar Kaganovich, warned the party against Khvylovy’s “Western orientation”, calling it bourgeois nationalism.
+Can a few pamphlets become the Kremlin’s business? With Mykola Khvylovy, they did. In pamphlets of 1925–1926 he urged Ukrainian culture to look not to Moscow but to a “psychological Europe”. His slogan “Away from Moscow!” stirred up the whole Ukrainian literary world, and Stalin, in a letter to Lazar Kaganovich, warned the party against Khvylovy’s “Western orientation”, calling it bourgeois nationalism. He opened the pamphlet “Ukraine or Little Russia?” (1926) with words from Schiller: “Slavery is shameful, but a slave’s mind in freedom deserves contempt.” That pamphlet only saw print in 1990.
 
 ## From revolutionary to rebel
 
-Mykola Fitilov was born in 1893 in Trostianets in Slobozhanshchyna (Sloboda Ukraine). He fought in the First World War, and in 1919 he joined the Communist Party, believing in the ideals of the revolution. In the early 1920s he settled in Kharkiv, then the capital of Soviet Ukraine. Critics noticed his short stories in Blue Etudes and Autumn at once, and young writers took up his bold style. The Free Academy of Proletarian Literature (VAPLITE) formed around him, with Khvylovy as its guiding spirit.
+Mykola Fitilov was born in 1893 in Trostianets in Slobozhanshchyna (Sloboda Ukraine). He fought in the First World War, and after the revolution he fought for the Reds, against the armies of the UNR and the Hetmanate among others. In 1919 he joined the Communist Party, believing in the ideals of the revolution. In the early 1920s he settled in Kharkiv, then the capital of Soviet Ukraine, where among other jobs he worked at a locomotive factory. Critics noticed his short stories in Blue Etudes and Autumn at once: Oleksandr Biletskyi called him “the founder of genuinely new Ukrainian prose”. Young writers took up his bold style. The Free Academy of Proletarian Literature (VAPLITE) formed around him, with Khvylovy as its guiding spirit.
 
 ## Retreat under pressure
 
-The authorities kept up the pressure, and Khvylovy gave ground: in 1927 he left VAPLITE, and in January 1928, in an open letter, he renounced the slogan “Away from Moscow!”. Yet after returning from abroad he founded the journal Literaturnyi yarmarok, which carried on VAPLITE’s line. By the early 1930s he had almost no way left to write and publish. In the spring of 1933 he saw the Holodomor in the Poltava region with his own eyes. After the arrest of his friend, the writer Mykhailo Yalovyi, Khvylovy took his own life on 13 May 1933. His contemporaries saw his death as a protest.
+The authorities kept up the pressure, and Khvylovy gave ground: in 1927 he left VAPLITE, and in January 1928, in an open letter, he renounced the slogan “Away from Moscow!”. The second part of his novel Woodcocks had already been printed when the authorities seized it at the press and destroyed it. Yet after returning from abroad he founded the journal Literaturnyi yarmarok, which carried on VAPLITE’s line. By the early 1930s he had almost no way left to write and publish. In the spring of 1933 he saw the Holodomor in the Poltava region with his own eyes. After the arrest of his friend, the writer Mykhailo Yalovyi, Khvylovy took his own life on 13 May 1933. His contemporaries saw his death as a protest.
 
 ## Why it matters today
 

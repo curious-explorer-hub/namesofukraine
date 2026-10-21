@@ -29,7 +29,7 @@ In 1932 he was arrested. Under interrogation he said: “I am a Ukrainian writer
 
 ## Tigers, taiga and the Garden of Gethsemane
 
-What he lived through became novels. The Tiger Hunters is an adventure story about Ukrainians exiled to the Far East; its three English editions alone sold over a million copies. The Garden of Gethsemane tells of the torture chambers the author went through himself. It was one of the first books to tell the truth about the Gulag, written two decades before Aleksandr Solzhenitsyn’s The Gulag Archipelago.
+What he lived through became novels. The Tiger Hunters is an adventure story about Ukrainians exiled to the Far East. It came out in English as The Hunters and the Hunted (1956), then in Dutch (1959) and German (1961), and its three English editions alone sold over a million copies. The Garden of Gethsemane tells of the torture chambers the author went through himself. It was one of the first books to tell the truth about the Gulag, written two decades before Aleksandr Solzhenitsyn’s The Gulag Archipelago. In 1961 it was published in French as well.
 
 ## Ukraine’s voice in exile
 

@@ -27,15 +27,15 @@ Mykhailo (Maik) Yohansen was born on 28 October 1895 in Kharkiv. His father, Her
 
 ## Burning the past: how Maik Yohansen began
 
-As a schoolboy, Maik Yohansen wrote poems in Russian and German, but later burned them all. This radical step was not just artistic perfectionism but also a conscious ideological choice and an act of patriotism against the backdrop of the Ukrainian Revolution. By burning the youthful work of his imperial years, he broke with the past for good to help build a new Ukrainian culture. From then on he wrote only in Ukrainian and joined the avant-garde literary movement. His first collection, D’hori, came out in 1921.
+As a schoolboy, Maik Yohansen wrote poems in Russian and German, but he didn’t like them and later burned them all. He said he began writing in Ukrainian under the influence of teachers at Kharkiv’s Hrinchenko school. After 1917 he wrote only in Ukrainian, and his first collection, D’hori, came out in 1921.
 
 ## A manifesto and VAPLITE
 
-In 1921 Yohansen, [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and Volodymyr Sosiura wrote the manifesto “Our Universal to the Ukrainian Workers and Ukrainian Proletarian Artists”. He belonged to the proletarian writers’ union Hart, and in 1925 he was one of the founders of VAPLITE. When the authorities forced VAPLITE to dissolve, Yohansen refused to join the new organization Prolitfront and set up the apolitical Techno-Artistic Group A instead; it was banned in 1930.
+In 1921 Yohansen, [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and Volodymyr Sosiura wrote the manifesto “Our Universal to the Ukrainian Workers and Ukrainian Proletarian Artists”. He belonged to the proletarian writers’ union Hart, and in 1925 he was one of the founders of VAPLITE. When the authorities forced VAPLITE to dissolve, Yohansen was the only former member to object publicly to the founding of the new organization Prolitfront. He refused to join it and set up the apolitical Techno-Artistic Group A instead; it was banned in 1930.
 
 ## Film, theater and language
 
-With [Yurii Tiutiunnyk](/en/people/yurii-tiutiunnyk/), Yohansen wrote the script of Zvenyhora, the film made by [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/). With Mykola Khvylovy and [Ostap Vyshnia](/en/people/ostap-vyshnia/) he wrote the operetta Mikado and the revue Hello, on Wave 477! for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater. In his novel Doctor Leonardo’s Travels through the Switzerland of Slobidska Ukraine (1928) he made the landscape the main character and pushed the people into supporting roles. He was a linguist too: he knew European and Scandinavian languages, helped compile a Russian–Ukrainian dictionary (1926) and worked on the draft of the 1928 Ukrainian orthography.
+With [Yurii Tiutiunnyk](/en/people/yurii-tiutiunnyk/), Yohansen wrote the script of Zvenyhora, the film made by [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/). With Mykola Khvylovy and [Ostap Vyshnia](/en/people/ostap-vyshnia/) he wrote the operetta Mikado and the revue Hello, on Wave 477! for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater. In his novel Doctor Leonardo’s Travels through the Switzerland of Slobidska Ukraine (1928) he made the landscape the main character and pushed the people into supporting roles. He was a linguist too: he knew European and Scandinavian languages, helped compile a Russian–Ukrainian dictionary (1926) and worked on the draft of the 1928 Ukrainian orthography. He even drafted a project to write Ukrainian in the Latin alphabet.
 
 ## Books for children
 

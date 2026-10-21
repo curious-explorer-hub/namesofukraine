@@ -3,7 +3,7 @@ name: Олекса Влизько
 gender: male
 born: 1908-02-17
 died: 1934-12-14
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [poet]

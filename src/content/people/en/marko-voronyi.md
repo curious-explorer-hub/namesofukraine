@@ -16,11 +16,13 @@ image_alt: "Marko Voronyi, late 1920s"
 
 ## His grandfather’s name
 
-Why did a young poet sign his work “Antiokh”? It was a tribute to his grandfather, the poet Mykola Verbytskyi-Antiokh. Marko was born in 1904 in Chernihiv. His father was the poet [Mykola Voronyi](/en/people/mykola-voronyi/), and his mother, Vira, was Verbytskyi’s daughter. The boy’s godfather was his father’s friend, the writer [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/). Soon his parents’ marriage broke up, and Marko grew up in his mother’s family; his grandmother taught him to read from Shevchenko’s primer. His first poems came out in 1920 in Holod (Famine), a collection published in Chernihiv, and from 1925 his father, then living in Lviv, placed his son’s poems in Lviv magazines.
+Why did a young poet sign his work “Antiokh”? It was a tribute to his grandfather, the poet Mykola Verbytskyi-Antiokh. Marko was born in 1904 in Chernihiv. His father was the poet [Mykola Voronyi](/en/people/mykola-voronyi/), and his mother, Vira, was Verbytskyi’s daughter. The boy’s godfather was his father’s friend, the writer [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/). Soon his parents’ marriage broke up, and Marko grew up in his mother’s family; his grandmother taught him to read from Shevchenko’s primer.
+
+At the Chernihiv gymnasium Marko was top of his class. As a teenager he hid his age and volunteered for Denikin’s army, but the truth came out and he was turned away. In 1920 he came back to Chernihiv, where he barely managed to find work as a porter at the docks on the Desna. That same year his first poems came out in Holod (Famine), a collection published in Chernihiv, and from 1925 his father, then living in Lviv, placed his son’s poems in Lviv magazines.
 
 ## Film, sonnets and Rilke
 
-In 1926 his father came back to Soviet Ukraine and took Marko to Kharkiv, and later they both moved to Kyiv. Marko studied directing at the Lysenko Music and Drama Institute and at the Institute of People’s Education, and worked as an editor at the Kyiv film studio. From then on he published under his own name, in the magazines Chervonyi shliakh, Hlobus and Zhyttia i revoliutsiia; his cycle Turkestan Sonnets appeared there in 1926. He translated Rilke and Georg Heym from German, Baudelaire and Sully Prudhomme from French, and Boccaccio from Italian.
+In 1926 his father came back to Soviet Ukraine and took Marko to Kharkiv. There Marko got to know Mykola Bazhan, [Volodymyr Sosiura](/en/people/volodymyr-sosiura/) and [Maksym Rylskyi](/en/people/maksym-rylskyi/); later father and son moved to Kyiv. Marko studied directing at the Lysenko Music and Drama Institute and at the Institute of People’s Education, and worked as an editor at the Kyiv film studio. From then on he published under his own name, in the magazines Chervonyi shliakh, Hlobus and Zhyttia i revoliutsiia; his cycle Turkestan Sonnets appeared there in 1926. He translated Rilke and Georg Heym from German, Baudelaire and Sully Prudhomme from French, and Boccaccio from Italian.
 
 ## Children’s verse and prayers
 

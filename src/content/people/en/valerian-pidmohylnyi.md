@@ -19,7 +19,7 @@ quotes:
 
 ## The boy from Chapli
 
-Valerian Pidmohylnyi was born in 1901 in the village of Chapli near Katerynoslav, today’s Dnipro. He went to secondary school in Katerynoslav. His first stories were printed in 1919 by Sich, a Katerynoslav journal, when he was 18.
+Valerian Pidmohylnyi was born in 1901 in the village of Chapli near Katerynoslav, today’s Dnipro. He went to secondary school in Katerynoslav and was already in print as a schoolboy, under the pen name “Lord Lister”. In 1919 Sich, a Katerynoslav journal, published his stories “Vania” and “Haidamaky”, when he was 18. A year later came his first book, with the grand title Works, Volume 1.
 
 ## The hungry years
 
@@ -35,7 +35,7 @@ Pidmohylnyi translated Balzac, Diderot, Anatole France, Maupassant, Stendhal, Vo
 
 ## Solovki and Sandarmokh
 
-Pidmohylnyi was arrested on 8 December 1934 as a supposed member of a “group of nationalist writers with terrorist leanings”. He was imprisoned in the Solovetsky camp. A special troika of the Leningrad NKVD sentenced him to death. Pidmohylnyi, [Mykola Kulish](/en/people/mykola-kulish/), [Mykola Zerov](/en/people/mykola-zerov/) and [Les Kurbas](/en/people/les-kurbas/) were among the Ukrainian prisoners shot at that time in the Sandarmokh forest in Karelia; Pidmohylnyi was shot on 3 November 1937. He was rehabilitated in 1956.
+Pidmohylnyi was arrested on 8 December 1934 as a supposed member of a “group of nationalist writers with terrorist leanings”. He was imprisoned in the Solovetsky camp. It was there, on Pidmohylnyi’s birthday, 2 February 1936, that his closest friend [Yevhen Pluzhnyk](/en/people/yevhen-pluzhnyk/) died. A special troika of the Leningrad NKVD sentenced him to death. Pidmohylnyi, [Mykola Kulish](/en/people/mykola-kulish/), [Mykola Zerov](/en/people/mykola-zerov/) and [Les Kurbas](/en/people/les-kurbas/) were among the Ukrainian prisoners shot at that time in the Sandarmokh forest in Karelia; Pidmohylnyi was shot on 3 November 1937. He was rehabilitated in 1956.
 
 ## Why it matters today
 

@@ -9,7 +9,7 @@ key_accomplishments:
   - "The satirical revues Opportunia (1930) and Four Chamberlains (1931)"
   - "The historical drama Pavlo Polubotok, published abroad after his death"
   - "A co-founder of a Ukrainian theatre studio and of the publisher Selo i Misto in Moscow"
-  - "The studies Three Poets (1931) and Amvrosii Buchma (1933)"
+  - "The studies Three Poems (1931) and Amvrosii Buchma (1933)"
 birthplace_name: "Yevstrativka (Mezhenka), Voronezh region, Russia"
 image_alt: "Kost Burevii with a moustache, in a dark jacket and tie, photo portrait"
 ---
@@ -32,7 +32,7 @@ From then on he worked for Ukrainian culture. In Moscow he helped set up a Ukrai
 
 ## December 1934
 
-In 1929 Burevii moved to Kharkiv, and that same year official critics began to hound him. In 1934, fleeing the repressions in Ukraine, he left for Moscow, but in the autumn he was arrested there too. Investigators accused him of plotting to kill Stalin. Together with other Ukrainian cultural figures, among them [Oleksa Vlyzko](/en/people/oleksa-vlyzko/), [Dmytro Falkivskyi](/en/people/dmytro-falkivskyi/) and [Hryhorii Kosynka](/en/people/hryhorii-kosynka/), he was condemned as a “terrorist”, and on 17 December 1934 Kost Burevii was shot in Kyiv. His wife and daughter took part of his archive abroad, and his daughter Oksana published the works they had saved.
+In 1929 Burevii moved to Kharkiv, and that same year official critics began to hound him. In 1934 he defended a candidate’s dissertation, the Soviet equivalent of a doctorate, in Moscow on the drama of Romain Rolland. That same year, fleeing the repressions in Ukraine, he left for Moscow, but in the autumn he was arrested there too. Investigators accused him of plotting to kill Stalin. Together with other Ukrainian cultural figures, among them [Oleksa Vlyzko](/en/people/oleksa-vlyzko/), [Dmytro Falkivskyi](/en/people/dmytro-falkivskyi/) and [Hryhorii Kosynka](/en/people/hryhorii-kosynka/), he was condemned as a “terrorist”, and on 17 December 1934 Kost Burevii was shot in Kyiv. His prison memoir, Dead Loops (1903–1917), was lost in the NKVD, but his wife and daughter took part of his archive abroad, and his daughter Oksana published the works they had saved.
 
 ## Debates and assessments
 

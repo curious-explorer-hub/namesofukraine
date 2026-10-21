@@ -28,7 +28,7 @@ From 1924 Slisarenko wrote prose, and nothing like his poems. He produced more t
 
 ## Taking on Gorky
 
-In Kharkiv Slisarenko was editor-in-chief of the Knyhospilka publishing house and co-editor of Universalnyi Zhurnal. He belonged to the writers’ union Hart and, in 1926–1928, to VAPLITE, alongside [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and [Mykola Kulish](/en/people/mykola-kulish/). In 1927 he sharply rebuked Maxim Gorky, who had refused to allow a Ukrainian translation of his novel Mother. Official critics accused Slisarenko of writing books with too little ideology and of fighting against keeping Ukrainian literature provincial.
+In Kharkiv Slisarenko was editor-in-chief of the Knyhospilka publishing house and co-editor of Universalnyi Zhurnal. He belonged to the writers’ union Hart and, in 1926–1928, to VAPLITE, alongside [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and [Mykola Kulish](/en/people/mykola-kulish/). In 1927 he sharply rebuked Maxim Gorky, who had refused to allow a Ukrainian translation of his novel Mother. Gorky called Ukrainian a “dialect”; Slisarenko made the letter public and accused Gorky, and the Russian intelligentsia as a whole, of great-power chauvinism. Official critics accused Slisarenko of writing books with too little ideology and of fighting against keeping Ukrainian literature provincial.
 
 ## Solovki and Sandarmokh
 

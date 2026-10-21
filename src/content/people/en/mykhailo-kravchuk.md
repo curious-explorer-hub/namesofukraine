@@ -31,7 +31,7 @@ Back in Kyiv, Kravchuk taught at the Kyiv Polytechnic Institute. In 1924 he defe
 
 ## Kolyma
 
-In Stalin’s terror those very ties to the world became the charge. In 1937 a newspaper attacked the academician for naming repressed scholars in an article. On 21 February 1938 Kravchuk was arrested and accused of treason and spying: he was a member of the Shevchenko Scientific Society in Lviv, had travelled abroad and wrote to colleagues there. He was sentenced to 20 years. In Kolyma he kept developing his ideas, but his notes did not survive. Mykhailo Kravchuk died on 9 March 1942 in Kolyma, near Magadan; where he is buried is unknown. In 1956 his case was closed for lack of any crime.
+In Stalin’s terror those very ties to the world became the charge. In 1937 a newspaper attacked the academician for naming repressed scholars in an article. On 21 February 1938 Kravchuk was arrested and accused of treason and spying: he was a member of the Shevchenko Scientific Society in Lviv, had travelled abroad and wrote to colleagues there. He was sentenced to 20 years. In Kolyma he kept developing his ideas, but his notes did not survive. Mykhailo Kravchuk died on 9 March 1942 in Kolyma, near Magadan; where he is buried is unknown. In 1956 his case was closed for lack of any crime, and in 1992 the Academy of Sciences of Ukraine restored him as a full member. UNESCO has entered his name in its International Calendar of eminent scientists.
 
 ## Why it matters today
 

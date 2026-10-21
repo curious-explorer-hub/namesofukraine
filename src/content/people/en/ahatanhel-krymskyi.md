@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/ahatanhel-krymskyi.md
 name: "Ahatanhel Krymskyi"
 role: "Orientalist, secretary of the Academy"
-summary: "At 18 he knew 8 languages, and over his life he mastered more than 50 more. Ahatanhel Krymskyi laid the foundations of Oriental studies in Ukraine, became one of the first members of the Ukrainian Academy of Sciences, and died in custody after his arrest by the NKVD."
+summary: "At 18 he knew 8 languages; how many he mastered in all is still debated: some say 34, others over 60. Ahatanhel Krymskyi laid the foundations of Oriental studies in Ukraine, became one of the first members of the Ukrainian Academy of Sciences, and died in custody after his arrest by the NKVD."
 fun_fact: "Krymskyi did so much to build the young academy that its staff jokingly called the Ukrainian Academy of Sciences the “Krymskyi Academy”."
 key_accomplishments:
   - "One of the founding academicians of the Ukrainian Academy of Sciences (1918), its permanent secretary and head of its Historical-Philological Division"
@@ -19,17 +19,17 @@ quotes:
 
 ## How many languages can one person know?
 
-At 18, Ahatanhel Krymskyi knew 8 languages, and by the end of his life he had mastered more than 50 more. He was born in 1871 in Volodymyr-Volynskyi (today Volodymyr) and grew up in Zvenyhorodka. His family had Crimean Tatar and Belarusian roots: its founder was a mullah from Bakhchysarai who converted to Christianity. Krymskyi himself called himself a conscious Ukrainian.
+At 18, Ahatanhel Krymskyi knew 8 languages. How many he had mastered by the end of his life is still debated: some say 34, others more than 60. He was born in 1871 in Volodymyr-Volynskyi (today Volodymyr) and grew up in Zvenyhorodka. His family had Crimean Tatar and Belarusian roots: its founder was a mullah from Bakhchysarai who converted to Christianity. Krymskyi himself called himself a conscious Ukrainian.
 
 ## An Arabist who wrote in Ukrainian
 
-Krymskyi studied Arabic at the Lazarev Institute of Oriental Languages in Moscow and later became a professor there. In 1896–1898 he worked in Lebanon and Syria. Influenced by [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/), with whom he also argued in the press, he took up the Ukrainian language and history. He corresponded with [Lesya Ukrainka](/en/people/lesya-ukrainka/) and [Ivan Franko](/en/people/ivan-franko/), wrote poetry and prose, and wrote histories of Islam, the Arabs, Turkey and Persia.
+Krymskyi studied Arabic at the Lazarev Institute of Oriental Languages in Moscow and later became a professor there. In 1896–1898 he worked in Lebanon and Syria. Influenced by [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/), with whom he also argued in the press, he took up the Ukrainian language and history. He corresponded with [Lesya Ukrainka](/en/people/lesya-ukrainka/) and [Ivan Franko](/en/people/ivan-franko/), wrote poetry and prose, and wrote histories of Islam, the Arabs, Turkey and Persia. He translated Omar Khayyam’s Rubaiyat, A Thousand and One Nights and the songs of Hafiz into Ukrainian.
 
 ## How an Orientalist built an academy
 
-[Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) invited him to Kyiv in 1918 to help draft the law on the Ukrainian Academy of Sciences. The academy was founded under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), and Krymskyi became one of its first academicians and its permanent secretary. He supervised The Main Rules of Ukrainian Orthography (1921).
+[Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) invited him to Kyiv in 1918 to help draft the law on the Ukrainian Academy of Sciences. The academy was founded under Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), and Krymskyi became one of its first academicians and its permanent secretary. He supervised The Main Rules of Ukrainian Orthography (1921). He gave the academy his valuable library of tens of thousands of volumes; it is now part of the National Library of Ukraine.
 
-After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts. In July 1941 the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); the date is given as 25 January 1942. He was rehabilitated in 1957.
+After the show trial of the “Union for the Liberation of Ukraine” (1929–1930), Krymskyi was dismissed from all his academic posts. In his last years he wrote a history of the Khazars, which never came out in his lifetime. In July 1941 the NKVD arrested him on charges of Ukrainian nationalism. He died in a prison hospital in Kustanai (Kazakhstan); the date is given as 25 January 1942. He was rehabilitated in 1957.
 
 ## Why it matters today
 

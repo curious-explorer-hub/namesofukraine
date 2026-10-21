@@ -8,7 +8,7 @@ key_accomplishments:
   - "The collections Lyrical Poems (1922), September (1927) and Poems (1940)"
   - "His poems of 1927–1936, published abroad as Medobir (Munich, 1975)"
   - "Translations of Hesiod, Aesop, Ovid and Aristophanes, and of French, German and Polish poetry"
-  - "A study of Podillia carpet weaving (an article of 1916)"
+  - "Research on Podillia carpet weaving; an article on the weaving trade (1916)"
 birthplace_name: "Maianiv"
 image_alt: "A young Volodymyr Svidzynskyi in an embroidered shirt and a dark jacket"
 ---
@@ -19,7 +19,7 @@ In 1927 a collection of poems called September came out in Kharkiv. The critics 
 
 ## From a family of priests
 
-Volodymyr was born on 8 October 1885 in the village of Maianiv in Podillia. His relatives on both his father’s and his mother’s side were priests, so he first studied at the Tyvriv church school and the Kamianets-Podilskyi seminary, but illness kept him from finishing the seminary. Short of money, he then spent seven years as an auditing student at the Kyiv Commercial Institute. His first poem appeared in 1912 in the journal Ukrainska khata. In Zhytomyr he studied the carpet weaving of Podillia, and from 1916 to 1918 he served in the army.
+Volodymyr was born on 8 October 1885 in the village of Maianiv in Podillia. His relatives on both his father’s and his mother’s side were priests, so he first studied at the Tyvriv church school and the Kamianets-Podilskyi seminary, but illness kept him from finishing the seminary. Short of money, he then spent seven years as an auditing student at the Kyiv Commercial Institute. His first poem appeared in 1912 in the journal Ukrainska khata. He researched the carpet weaving of Podillia and went on field trips, and from 1915 he lived in Zhytomyr. His article on the weaving trade came out in 1916, and from 1916 to 1918 he served in the army.
 
 ## Kamianets and a first book
 

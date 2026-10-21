@@ -29,7 +29,7 @@ On 7 August 1929 Khomychevskyi was arrested for his church work, and the next ye
 
 ## Homer in Zhytomyr
 
-After the war Borys Ten lived in Zhytomyr. He worked at the theatre, taught at the music school and taught Latin to students. He founded the Lonok choir and led the regional literary association. He translated Aeschylus, Sophocles, Aristophanes, Shakespeare, Schiller and Mickiewicz, but his life’s great work was the Iliad and the Odyssey. In 1966 he was nominated for the Shevchenko Prize but did not receive it. In 1979 he was awarded the prize named after Maksym Rylskyi for his Homer. Borys Ten died in Zhytomyr in 1983.
+After the war Borys Ten lived in Zhytomyr. He worked at the theatre, taught at the music school and taught Latin to students. He founded the Lonok choir and led the regional literary association. He translated Aeschylus, Sophocles, Aristophanes, Shakespeare, Schiller and Mickiewicz, but his life’s great work was the Iliad and the Odyssey. In 1966 he was nominated for the Shevchenko Prize but did not receive it. In 1979 he was awarded the prize named after Maksym Rylskyi for his Homer. Borys Ten died in Zhytomyr in 1983. The city has a monument to him, and the gymnasium in his native Derman has a memorial room.
 
 ## Why it matters today
 

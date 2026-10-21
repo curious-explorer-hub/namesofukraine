@@ -21,7 +21,7 @@ quotes:
 
 Mykola Zerov was born in 1890 in Zinkiv in the Poltava region. In 1914 he graduated in history and philology from Kyiv University, then taught history and Latin at gymnasiums and edited the bibliographic journal Knyhar. In the famine year of 1920 he moved to Baryshivka near Kyiv, where until 1923 he taught, translated a great deal and wrote his own poems. He then became a professor in Kyiv and later headed departments of the history of Ukrainian literature and of translation theory.
 
-Zerov became the intellectual leader of the Kyiv Neoclassicists, poets who in the 1920s championed classical European values, craftsmanship and taste. He wrote polished sonnets, and his Anthology of Roman Poetry (1920) and the collection Kamena (1924) opened the Roman poets to Ukrainian readers. As a critic Zerov wrote about [Ivan Franko](/en/people/ivan-franko/), [Lesya Ukrainka](/en/people/lesya-ukrainka/), Panteleimon Kulish, Pavlo Tychyna and Maksym Rylskyi.
+Zerov became the intellectual leader of the Kyiv Neoclassicists, poets who in the 1920s championed classical European values, craftsmanship and taste. He wrote polished sonnets, and his Anthology of Roman Poetry (1920) and the collection Kamena (1924) opened the Roman poets to Ukrainian readers. In 1925 his Ukrainian version of Juliusz Słowacki’s drama Mazepa came out. As a critic Zerov wrote about [Ivan Franko](/en/people/ivan-franko/), [Lesya Ukrainka](/en/people/lesya-ukrainka/), Panteleimon Kulish, Pavlo Tychyna and Maksym Rylskyi.
 
 ## “To the sources!”
 
