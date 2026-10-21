@@ -3,7 +3,7 @@ name: Атена Пашко
 gender: female
 born: 1931-10-10
 died: 2012-03-20
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: civic
 tags: [poet, human-rights]
@@ -16,10 +16,11 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "від 1990 року; голова Союзу українок; місце смерті" }
 image:
   src: ./images/atena-pashko.jpg
-  alt: "Атена Пашко, жінка з сивим волоссям, у темному жакеті й білій блузі, травень 1990"
+  alt: "Атена Пашко зі світлим волоссям, у темно-синьому жакеті й білій блузі з вишитим комірцем, травень 1990"
   position: "50% 35%"
   author: "Сергій Лепеха"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%88%D0%BA%D0%BE_%D0%90%D1%82%D0%B5%D0%BD%D0%B0-%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%96%D0%B2%D0%BD%D0%B0.jpg"
 key_accomplishments:
   - "Учасниця випуску самвидавного журналу «Український вісник» (1969–1972)"
@@ -38,7 +39,8 @@ sources:
     url: "https://zaxid.net/atena_pashko_nekrolog_n1250686"
 related: [viacheslav-chornovil, iryna-kalynets, ihor-kalynets, borys-antonenko-davydovych, mykhailyna-kotsiubynska]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T00:27:34Z
 ---
 
 ## Вірші, що стали піснями

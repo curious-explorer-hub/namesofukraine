@@ -11,7 +11,7 @@ key_accomplishments:
   - "President of the Viacheslav Chornovil International Charitable Foundation (from 1999), which published his works in 10 volumes"
   - "Order of Princess Olga, 3rd class (1997), and Order of Freedom (2009)"
 birthplace_name: "Prusy (now Bystrytsia)"
-image_alt: "Atena Pashko, a grey-haired woman in a dark jacket and white blouse, May 1990"
+image_alt: "Atena Pashko with light hair, in a navy jacket and a white blouse with an embroidered collar, May 1990"
 ---
 
 ## Poems that became songs
