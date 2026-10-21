@@ -3,7 +3,7 @@ name: Микола Любченко (Кость Котко)
 gender: male
 born: 1896-02-29
 died: 1937-12-08
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer]
@@ -18,10 +18,11 @@ places:
   - { name: "Соловки", lat: 65.025, lon: 35.71, note: "в'язень Соловецького табору, 1930-ті" }
 image:
   src: ./images/mykola-liubchenko.jpg
-  alt: "Кость Котко (Микола Любченко), чорно-білий портрет"
-  author: "Невідомий автор"
+  alt: "Уявний портрет Кості Котка (Миколи Любченка) з темним кучерявим волоссям, вусами й борідкою, у білій сорочці й темно-синій краватці, створений ШІ"
+  position: "50% 25%"
+  author: "Знай своїх"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Любченко_Микола_Петрович.tif"
+  ai_edit: generated
 key_accomplishments:
   - "Близько двадцяти книжок гумору й сатири, серед них «Без штепселя», «Обличчям до спини», «Як воно там, за кордоном» (усі 1927), «Сто годин на добу» (1928), «Щоденник кількох міст» (1930), «Трагедія і фарс» (1933)"
   - "Ранні ліричні вірші в «Альманаху трьох» (1920)"
@@ -39,7 +40,8 @@ sources:
     url: "https://litakcent.online/2021/08/25/smishno-y-bez-vishni-nayveselisha-triytsya-nashih-20-h/"
 related: [vasyl-chechvianskyi, vasyl-vrazhlyvyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T20:52:38Z
 ---
 
 ## Дипломат, який писав сатиру

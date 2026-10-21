@@ -11,7 +11,7 @@ key_accomplishments:
   - "Work for the newspaper Komunist and the humor magazine Chervonyi Perets"
   - "Diplomatic service: first secretary of the Soviet mission in Warsaw, then at the mission in Prague"
 birthplace_name: "Kyiv"
-image_alt: "Kost Kotko (Mykola Liubchenko), black-and-white portrait"
+image_alt: "Imagined portrait of Kost Kotko (Mykola Liubchenko) with dark curly hair, a moustache and goatee, in a white shirt and navy tie, made by AI"
 ---
 
 ## The diplomat who wrote satire
