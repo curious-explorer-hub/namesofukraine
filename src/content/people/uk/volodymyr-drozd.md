@@ -3,7 +3,7 @@ name: Володимир Дрозд
 gender: male
 born: 1939-08-25
 died: 2003-10-23
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer]
@@ -11,6 +11,15 @@ role: "Прозаїк, творець «химерної прози»"
 summary: "Його роман «Катастрофа» 1968 року надрукував журнал, а потім видавати його заборонили на 20 років. Володимир Дрозд, прозаїк покоління шістдесятників, писав «химерну прозу», де реальне сплітається з народними легендами, і показував, як система ламає людину."
 fun_fact: "Роман Дрозда «Самотній вовк» спершу називався «Вовкулака» (1968), а 1991 року його екранізували під назвою «Оберіг»."
 birthplace: { name: "Петрушин", region: chernihiv, country: UA, lat: 51.650, lon: 31.350 }
+image:
+  src: ./images/volodymyr-drozd.jpg
+  alt: "Молодий Володимир Дрозд у прозорих окулярах, зеленому светрі з високим коміром і сірому твідовому піджаку"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Дрозд_В.jpg"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Перша збірка оповідань «Люблю сині зорі» (1962)"
   - "Роман «Катастрофа» (1968), заборонений до видання на 20 років"
@@ -26,7 +35,8 @@ sources:
     url: "https://zakon.rada.gov.ua/laws/show/86-92-%D0%BF"
 related: [hryhir-tiutiunnyk, yevhen-hutsalo]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T03:09:30Z
 ---
 
 ## Катастрофа на двадцять років

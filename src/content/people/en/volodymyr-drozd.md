@@ -11,6 +11,7 @@ key_accomplishments:
   - "The Taras Shevchenko State Prize of Ukraine (1992) for the epic novel Leaves of the Earth"
   - "Deputy head of the National Writers’ Union of Ukraine (1991–1999)"
 birthplace_name: "Petrushyn"
+image_alt: "A young Volodymyr Drozd in clear-framed glasses, a green turtleneck and a grey tweed jacket"
 ---
 
 ## A twenty-year catastrophe
