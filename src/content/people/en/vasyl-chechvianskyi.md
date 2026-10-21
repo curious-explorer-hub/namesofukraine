@@ -11,7 +11,7 @@ key_accomplishments:
   - "Member of the writers’ organizations Pluh and VUSPP"
   - "Posthumous collections Selected Humorous Sketches and A Softy (1959)"
 birthplace_name: "Chechva farmstead (now the village of Hrun)"
-image_alt: "Vasyl Chechvianskyi wearing an eye patch, black-and-white portrait"
+image_alt: "Vasyl Chechvianskyi wearing an eye patch, in a grey tweed jacket and burgundy tie, resting his hands on the back of a chair"
 ---
 
 ## The brothers from Chechva

@@ -4,7 +4,7 @@ gender: male
 born: 1888-01-01 # Літакцент, ЦДВР and the National Bank of the Repressed: 1888 (the elder brother of Ostap Vyshnia, b. 1889); IEU: 28 February 1898
 born_circa: true
 died: 1937-07-15
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer]
@@ -18,9 +18,11 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "військово-фельдшерська школа; розстріляний 1937" }
 image:
   src: ./images/vasyl-chechvianskyi.jpg
-  alt: "Василь Чечвянський із пов'язкою на оці, чорно-білий портрет"
+  alt: "Василь Чечвянський із пов'язкою на оці, у сірому твідовому піджаку й бордовій краватці, сперся руками на спинку стільця"
+  position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Чечвянський_В2.jpg"
 key_accomplishments:
   - "Багато років відповідальний секретар гумористичного журналу «Червоний перець»"
@@ -39,7 +41,8 @@ sources:
     url: "https://www.reabit.org.ua/nbr/?ID=86264"
 related: [ostap-vyshnia, mykola-liubchenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T20:57:35Z
 ---
 
 ## Брати з хутора Чечва
