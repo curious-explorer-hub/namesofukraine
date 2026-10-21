@@ -3,12 +3,12 @@
 name: "Volodymyr Drozd"
 role: "Creator of ‘chimeric prose’"
 summary: "A journal printed his novel Catastrophe in 1968, and then it was banned from publication for 20 years. Volodymyr Drozd, a prose writer of the Sixtiers generation, wrote ‘chimeric prose’, where reality weaves into folk legend, and showed how the system breaks a person."
-fun_fact: "Drozd’s novel The Lone Wolf was filmed in 1991 under the title The Talisman (Oberih)."
+fun_fact: "Drozd’s novel The Lone Wolf was first called The Werewolf (1968), and in 1991 it was filmed under the title The Talisman (Oberih)."
 key_accomplishments:
   - "His first story collection, I Love the Blue Stars (1962)"
   - "The novel Catastrophe (1968), banned from publication for 20 years"
   - "The short story The White Horse Sheptalo (1969)"
-  - "The novel Leaves of Life (1989); the Taras Shevchenko State Prize of Ukraine (1992)"
+  - "The Taras Shevchenko State Prize of Ukraine (1992) for the epic novel Leaves of the Earth"
   - "Deputy head of the National Writers’ Union of Ukraine (1991–1999)"
 birthplace_name: "Petrushyn"
 ---
@@ -19,7 +19,7 @@ In 1968 the journal Vitchyzna printed a novel by a young writer called Catastrop
 
 ## A boy from the Chernihiv region
 
-Drozd was born in 1939 in the village of Petrushyn in the Chernihiv region. From 1959 he worked for a district newspaper, then for youth papers. His first story collection, I Love the Blue Stars, came out in 1962, and the same year he was admitted to the Writers’ Union. He only graduated from Kyiv University in 1968.
+Drozd was born in 1939 in the village of Petrushyn in the Chernihiv region. From 1959 he worked for a district newspaper, then for youth papers. His first story collection, I Love the Blue Stars, came out in 1962, and the same year he was admitted to the Writers’ Union. He only graduated from Kyiv University in 1968. He was married to the poet Iryna Zhylenko.
 
 From his very first stories Drozd wrote ‘chimeric prose’: the real blends with the imagined, and old Ukrainian tall tales, folk stories, beliefs and legends come alive in new ways. He is counted among the most prominent prose writers of the Sixtiers, with [Hryhir Tiutiunnyk](/en/people/hryhir-tiutiunnyk/) and [Yevhen Hutsalo](/en/people/yevhen-hutsalo/), and Catastrophe and the novella Olives are cited as examples of sharp satire. At the same time, it is noted that during the repressions against the Sixtiers he went over to the official position without putting up much resistance.
 
@@ -27,7 +27,7 @@ From his very first stories Drozd wrote ‘chimeric prose’: the real blends wi
 
 Drozd’s best-known story is The White Horse Sheptalo (1969). As an allegory, it shows how, under the pressure of the system, a bright personality turns into part of a grey, obedient herd. The same theme, how a totalitarian society flattens a person and dissolves them into the crowd, runs through all his prose.
 
-Later Drozd edited the journal Kyiv, and from 1991 to 1999 he was deputy head of the National Writers’ Union of Ukraine. His novel Leaves of Life won him the Shevchenko Prize in 1992. He died in Kyiv on 23 October 2003.
+From 1982 to 1985 Drozd was editor-in-chief of the journal Kyiv, and from 1991 to 1999 he was deputy head of the National Writers’ Union of Ukraine. His epic novel Leaves of the Earth won him the Shevchenko Prize in 1992. He died in Kyiv on 23 October 2003.
 
 ## Why it matters today
 

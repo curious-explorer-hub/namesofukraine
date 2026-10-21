@@ -9,7 +9,7 @@ key_accomplishments:
   - "The collection In the Village of Storks (1969), one of the finest Ukrainian books about children"
   - "The novellas Girls of Marrying Age (1971) and School Bread (1973)"
   - "The trilogy The Borrowed Husband, The Private Life of a Phenomenon and Parade of Planets (1982–1984)"
-  - "The Shevchenko Prize (1985) for the children’s books Saiora and The Horses Flew By"
+  - "The Shevchenko Prize (1985) for the children’s books Saiiora and The Horses Flew By"
 birthplace_name: "Staryi Zhyvotiv (now Novozhyvotiv)"
 ---
 
@@ -25,9 +25,9 @@ In the 1960s he was seen as one of the Sixtiers, the generation that rejected St
 
 ## Two hundred stories and a singing village
 
-Lyrical short stories came most naturally to him: he wrote more than two hundred. They are full of nature, first love, children with a poet’s soul, and mothers. His collection In the Village of Storks (1969) is considered one of the finest Ukrainian books about children. In the novella School Bread he portrayed village teachers in the hard post-war years, forced to collect state loans from their neighbours and to spread anti-religious propaganda.
+Lyrical short stories came most naturally to him: he wrote more than two hundred. They are full of nature, first love, children with a poet’s soul, and mothers. Some he gave a genre label of his own, the “song”: The Song of Ovdii Hora the Dandy, The Song of Varvara Sukhorada. His collection In the Village of Storks (1969) is considered one of the finest Ukrainian books about children. In the novella School Bread he portrayed village teachers in the hard post-war years, forced to collect state loans from their neighbours and to spread anti-religious propaganda.
 
-In 1985 his children’s books Saiora and The Horses Flew By won him the Shevchenko Prize. In his last years he also wrote political essays, among them The Horde Mentality. He died in Kyiv on 4 July 1995.
+In 1985 his children’s books Saiiora and The Horses Flew By won him the Shevchenko Prize. In his last years he also wrote political essays, among them The Horde Mentality. He died in Kyiv on 4 July 1995.
 
 ## Why it matters today
 

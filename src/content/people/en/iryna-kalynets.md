@@ -8,8 +8,9 @@ key_accomplishments:
   - "Handwritten poetry collections Oranta, The Road of Exile and Through Stone; the books Poems (New York, 1991) and Married to Wormwood (1995)"
   - "A founding member of the Public Committee in Defence of Nina Strokata (1971)"
   - "Founded and edited the almanac Yevshan-zillia with her husband (1987–1989)"
-  - "Member of the Verkhovna Rada of Ukraine (1990–1994); head of education in the Lviv region (1990–1992): gymnasiums, lyceums, new school curricula"
-  - "Children's books The Stork and the Black Cloud (1993) and Pimbo-Bimbo (2000); Order of Princess Olga, 3rd class (2000)"
+  - "Member of the first democratic Verkhovna Rada of Ukraine (1990–1994); head of education in the Lviv region (1990–1992): gymnasiums, lyceums, new school curricula"
+  - "Children's books The Stork and the Black Cloud (1993) and Pimbo-Bimbo (2000); the detective novel A Thousand-Year-Old Murder (2002)"
+  - "Order of Princess Olga, 3rd class (2000) and 2nd class (2005)"
 birthplace_name: "Lviv"
 ---
 
@@ -31,7 +32,7 @@ In the Mordovian camp Iryna joined every collective protest of the women politic
 
 ## From rallies to school reform
 
-From 1987 she and her husband published the almanac Yevshan-zillia, and she helped set up the Ukrainian Language Society, Memorial and Rukh, and campaigned for the revival of the Greek Catholic Church. In 1989, after a rally marking the proclamation of the Western Ukrainian People’s Republic, she was jailed for 10 days. In 1990 she was elected to the Verkhovna Rada. As head of education in the Lviv region she changed school curricula and opened gymnasiums and lyceums. Iryna Kalynets died in Lviv on 31 July 2012.
+From 1987 she and her husband published the almanac Yevshan-zillia, and she helped set up the Ukrainian Language Society, Memorial and Rukh, and campaigned for the revival of the Greek Catholic Church. After a rally on 22 January 1989 she was jailed for 10 days. In March 1990 she was elected to the Verkhovna Rada, the first democratic one, which went on to declare Ukraine’s independence. As head of education in the Lviv region she changed school curricula and opened gymnasiums and lyceums. In 2002 her detective novel A Thousand-Year-Old Murder came out as a book of its own; she drew the plot from her research into the history of Kyivan Rus. Iryna Kalynets died in Lviv on 31 July 2012.
 
 ## Why it matters today
 

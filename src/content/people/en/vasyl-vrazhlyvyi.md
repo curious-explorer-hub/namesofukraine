@@ -7,9 +7,9 @@ fun_fact: "His translation of The Adventures of Gil Blas of Santillana by the Fr
 key_accomplishments:
   - "The story collections In the Ravine (1924), Earth (1925), The Wolf Thickets, Youth and Six Stories (1930)"
   - "The allegorical novellas The Life of a White Building (1927) and Father (1929)"
-  - "The novel A Matter of the Heart (1933)"
+  - "The novella Victory (1932) and the novel A Matter of the Heart (1933)"
   - "Translations of Balzac’s The Wild Ass’s Skin (1929) and Lesage’s Gil Blas (1935)"
-  - "Member of the literary groups VAPLITE (1926–1928) and Prolitfront (1929–1931)"
+  - "Member of the literary groups Urbino (1924), VAPLITE (1926–1928) and Prolitfront (1929–1931)"
 birthplace_name: "Opishnia"
 image_alt: "Vasyl Vrazhlyvyi in a light shirt and tie, the frontispiece of his novel A Matter of the Heart (1933)"
 ---
@@ -24,11 +24,11 @@ The writer’s real surname was Shtanko. He was born in 1903 in the small town o
 
 ## In Khvylovy’s circle
 
-In Kharkiv Vrazhlyvyi grew close to [Mykola Khvylovy](/en/people/mykola-khvylovyi/), [Mykola Kulish](/en/people/mykola-kulish/), [Mykhailo Yalovyi](/en/people/mykhailo-yalovyi/) and [Hryhorii Epik](/en/people/hryhorii-epik/). He belonged to the literary groups VAPLITE (1926–1928) and Prolitfront (1929–1931). He wrote about the most downtrodden people of the village and the city, about violence and broken lives, and saw his characters through a humanist’s eyes. That gave us the collections In the Ravine, Earth and The Wolf Thickets, and the novel A Matter of the Heart (1933). He also translated Balzac’s The Wild Ass’s Skin and Lesage’s Gil Blas into Ukrainian.
+In Kharkiv Vrazhlyvyi grew close to [Mykola Khvylovy](/en/people/mykola-khvylovyi/), [Mykola Kulish](/en/people/mykola-kulish/), [Mykhailo Yalovyi](/en/people/mykhailo-yalovyi/) and [Hryhorii Epik](/en/people/hryhorii-epik/). He belonged to the literary groups Urbino (1924), VAPLITE (1926–1928) and Prolitfront (1929–1931). He wrote about the most downtrodden people of the village and the city, about violence and broken lives, and saw his characters through a humanist’s eyes. That gave us the collections In the Ravine, Earth and The Wolf Thickets, the novella Victory (1932) and the novel A Matter of the Heart (1933). He also translated Balzac’s The Wild Ass’s Skin and Lesage’s Gil Blas into Ukrainian.
 
 ## Solovky
 
-In 1934 the NKVD, the Soviet secret police, arrested Vrazhlyvyi in Kharkiv in a fabricated case of a “counter-revolutionary organization of former Borotbists”. In 1935 he was sentenced to ten years, which he served in the Solovky prison camp. In 1937 investigators made up a new charge of “sabotage, terrorism and espionage”. Vasyl Vrazhlyvyi was shot on 8 December 1937. He was rehabilitated in 1956.
+In 1934 the NKVD, the Soviet secret police, arrested Vrazhlyvyi in Kharkiv in a fabricated case of a “counter-revolutionary organization of former Borotbists”. In 1935 he was sentenced to ten years, which he served in the Solovky prison camp. In 1937 investigators made up a new charge of “sabotage, terrorism and espionage”. Vasyl Vrazhlyvyi was shot on 8 December 1937, the same day as another Solovky prisoner, the satirist [Mykola Liubchenko (Kost Kotko)](/en/people/mykola-liubchenko/). Vrazhlyvyi was rehabilitated in 1956.
 
 ## Why it matters today
 

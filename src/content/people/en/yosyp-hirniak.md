@@ -7,7 +7,7 @@ fun_fact: "According to Ostap Vyshnia, Hirniak first went on stage as a schoolbo
 key_accomplishments:
   - "A leading actor of Les Kurbas’s Berezil (1922–1933): Myna Mazailo, and roles in Mykola Kulish’s The People’s Malakhii and Maklena Grasa"
   - "A role in Les Kurbas’s film Vendetta (1924)"
-  - "The first production of Hamlet on the Ukrainian stage (Lviv, 1942–1944)"
+  - "The first production of Hamlet on the Ukrainian stage (Lviv Opera Theater, 1943)"
   - "A theater studio with Olimpiia Dobrovolska in Austria (1946)"
   - "Artistic director of the Ukrainian Theater in America (1954–1964)"
   - "The memoir Spomyny (Memoirs, 1982)"
@@ -17,7 +17,7 @@ birthplace_name: "Strusiv"
 
 ## How many roles can one actor play?
 
-Yosyp Hirniak played more than 170 roles and staged 65 productions. In between came arrest, a prison camp in the far north, war and emigration. He was born in 1895 in the village of Strusiv in Galicia, now in the Ternopil region, the son of a church cantor. In the First World War he and his brother Nykyfor joined the Ukrainian Sich Riflemen, and he began acting in the legion’s theater troupe, and later at the Ruska Besida theater in Lviv.
+Yosyp Hirniak played more than 170 roles and staged 65 productions. In between came arrest, a prison camp in the far north, war and emigration. He was born in 1895 in the village of Strusiv in Galicia, now in the Ternopil region, the son of a church cantor. In the First World War he and his brother Nykyfor joined the Ukrainian Sich Riflemen, and he began acting in the legion’s theater troupe, and later at the Ruska Besida theater in Lviv. In 1920 he was among the first actors of the new Ivan Franko Theater in Vinnytsia, alongside Hnat Yura, Amvrosii Buchma and [Marian Krushelnytskyi](/en/people/marian-krushelnytskyi/).
 
 ## On the Berezil stage
 
@@ -29,7 +29,7 @@ In 1933, as the Berezil was being crushed, Hirniak was arrested and accused of b
 
 ## The first Ukrainian Hamlet
 
-Before the war Hirniak and his wife, the actress Olimpiia Dobrovolska, returned to Kyiv. In 1942 he moved to Lviv, where he staged Shakespeare’s Hamlet on the Ukrainian stage for the first time. In the spring of 1944 the couple left for Austria and then Germany. In 1946 they founded a theater studio that toured Austria and Bavaria with Ukrainian plays banned in the USSR.
+Before the war Hirniak and his wife, the actress Olimpiia Dobrovolska, returned to Kyiv. In 1942 he moved to Lviv, and in 1943, at the city’s Opera Theater, he staged Shakespeare’s Hamlet on the Ukrainian stage for the first time. In the spring of 1944 the couple left for Austria and then Germany. In 1946 they founded a theater studio that toured Austria and Bavaria with Ukrainian plays banned in the USSR.
 
 ## Ukrainian theater in New York
 

@@ -3,14 +3,14 @@
 name: "Hryhir Tiutiunnyk"
 role: "Short-story writer of the Sixtiers"
 summary: "His first story was published in Russian, yet he became one of the most prominent Ukrainian prose writers of the Sixtiers. Hryhir Tiutiunnyk wrote stories of village life full of humour and a rare feel for the language, though he was printed reluctantly and harshly attacked."
-fun_fact: "Hryhir Tiutiunnyk was also a translator: among other things he translated the works of Rudolf Erich Raspe, the author of the tales of Baron Munchausen."
+fun_fact: "On paper both Tiutiunnyk brothers were called Hryhorii. Their parents wanted to name the younger one Heorhii, but the grandfather who went to register the baby mixed up the two similar names. Nobody corrected it, so the younger brother called himself Hryhir to stand apart."
 key_accomplishments:
   - "The story collections Zaviaz (1968), Derevii (1969), Batkivski Porohy (1972), Krainebo (1975) and Korinnia (1978)"
   - "The children’s novellas Klymko (1976) and A Light Far in the Steppe (1979); the Lesia Ukrainka Prize (1980)"
   - "Film adaptation of Klymko (1983)"
   - "Posthumously awarded the Taras Shevchenko State Prize of the Ukrainian SSR (1989)"
 birthplace_name: "Shylivka"
-image_alt: "Painted portrait of Hryhir Tiutiunnyk resting his chin on his hand"
+image_alt: "Hryhir Tiutiunnyk with dark hair combed back, in a dark jacket, white shirt and patterned tie"
 ---
 
 ## Language is the soul of a people
@@ -23,7 +23,7 @@ He was born in 1931 in the village of Shylivka in the Poltava region. In 1937 hi
 
 ## Stories the critics disliked
 
-After moving to Kyiv, Tiutiunnyk worked for editorial offices and a film studio, and published the collections Zaviaz, Derevii, Batkivski Porohy and Krainebo. His stories of the modern village stood out for their vivid everyday detail, their knowledge of how people speak and think, and their juicy humour. He is counted among the most prominent prose writers of the Sixtiers, together with [Volodymyr Drozd](/en/people/volodymyr-drozd/) and [Yevhen Hutsalo](/en/people/yevhen-hutsalo/): their prose was free of the rules of socialist realism.
+After moving to Kyiv, Tiutiunnyk worked for editorial offices and a film studio, and published the collections Zaviaz, Derevii, Batkivski Porohy and Krainebo. His stories of the modern village stood out for their vivid everyday detail, their knowledge of how people speak and think, and their juicy humour. He translated too, among others Vasyl Shukshin and Rudolf Erich Raspe, the author of the tales of Baron Munchausen. He is counted among the most prominent prose writers of the Sixtiers, together with [Volodymyr Drozd](/en/people/volodymyr-drozd/) and [Yevhen Hutsalo](/en/people/yevhen-hutsalo/): their prose was free of the rules of socialist realism.
 
 Yet Tiutiunnyk was printed reluctantly, and every new work was harshly attacked. Some were never published in his lifetime. For children he wrote the novellas Klymko and A Light Far in the Steppe, which won him the Lesia Ukrainka Prize in 1980.
 

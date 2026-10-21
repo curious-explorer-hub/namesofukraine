@@ -26,11 +26,11 @@ In 1953 Atena graduated from the Lviv Forestry Institute and worked in her field
 
 Atena Pashko openly defended persecuted figures of Ukrainian culture. In return she was banned from publishing, reprimanded at work, and had her home searched. In 1970 she signed an appeal to the Supreme Court of Soviet Ukraine to overturn the sentence of Valentyn Moroz, and lost her job for it.
 
-From 1969 to 1972 she helped produce the samvydav journal Ukrainian Herald, started by her husband, [Viacheslav Chornovil](/en/people/viacheslav-chornovil/). After Chornovil’s arrest in 1972, the sixth issue he had prepared came out in Lviv thanks to Mykhailo Kosiv and Atena Pashko. Investigators threatened Chornovil that they would arrest her too. In 1973 she was called as a witness at his trial and at the trial of Iryna Senyk. She was kept under constant KGB watch.
+From 1969 to 1972 she helped produce the samvydav journal Ukrainian Herald, started by her husband, [Viacheslav Chornovil](/en/people/viacheslav-chornovil/). After Chornovil’s arrest in 1972, the sixth issue he had prepared came out in Lviv thanks to Mykhailo Kosiv and Atena Pashko. Investigators threatened Chornovil that they would arrest her too. In 1973 she was called as a witness at his trial and at the trial of Iryna Senyk. She was kept under constant KGB watch, and lived through not only searches and the loss of her job but imprisonment as well. Her collections could not come out at home, so from the 1980s her poems were printed abroad, where At the Crossroads appeared in 1989.
 
 ## The union that came back
 
-The Union of Ukrainian Women was founded in Lviv in 1921, and between the wars it was the largest women’s organisation in western Ukraine. The Soviet authorities disbanded it in 1939. It was revived in 1990, and in December 1991, at its founding congress in Kyiv, Atena Pashko, who had lived in Kyiv since 1990, was elected its head. Her poems, banned at home, had been printed abroad since the 1980s, and from 1989 her collections began to appear as books.
+The Union of Ukrainian Women was founded in Lviv in 1921, and between the wars it was the largest women’s organisation in western Ukraine. The Polish authorities disbanded it in 1938, and it was shut down for good after the Soviet occupation of Galicia in 1939. It was revived in Lviv in February 1990, and in December 1991, at its founding congress in Kyiv, Atena Pashko, who had lived in Kyiv since 1990, was elected its head.
 
 After her husband’s death in 1999 she led the foundation named after him, which published Chornovil’s works in ten volumes. Atena Pashko died in Kyiv on 20 March 2012.
 

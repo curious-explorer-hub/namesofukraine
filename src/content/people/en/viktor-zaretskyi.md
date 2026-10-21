@@ -15,7 +15,7 @@ birthplace_name: "Bilopillia"
 
 ## The Ukrainian Klimt
 
-Why would a Ukrainian painter be named after the Austrian Gustav Klimt? In the 1980s Viktor Zaretskyi discovered Klimt and found a style of his own, which he called “Ukrainian neo-Secession”. Women and nature became his favourite subjects. But it took him a lifetime to get there.
+Why would a Ukrainian painter be named after the Austrian Gustav Klimt? From the 1970s Viktor Zaretskyi painted in an art nouveau manner, and in the 1980s he discovered Klimt and found a style of his own, which he called “Ukrainian neo-Secession”. Women and nature became his favourite subjects. But it took him a lifetime to get there.
 
 ## A boy from the Donbas
 
@@ -27,9 +27,9 @@ With his wife, [Alla Horska](/en/people/alla-horska/), Zaretskyi became the hear
 
 ## After 1970
 
-In November 1970 Alla Horska was found killed in the house of Zaretskyi’s father, and the father was found dead by a railway line. His son later recalled that from then on Zaretskyi lived in fear of being killed too. He stepped away from the dissidents, and in 1978 he opened his own art studio, where more than 200 students learned, and wrote a teaching method for it, Thinking at the Canvas.
+In November 1970 Alla Horska was found killed in the house of Zaretskyi’s father, and the father was found dead by a railway line. His son later recalled that from then on Zaretskyi lived in fear of being killed too. He stepped away from the dissidents, and until 1984 his work was never shown and the press never mentioned it. In 1978 he opened his own art studio, where more than 200 students learned, and wrote a teaching method for it, Thinking at the Canvas.
 
-His later paintings carry a fear for the planet: Ozone Hole, Atomic Winter, Golden Skull. Bells of Chornobyl. One of the last, Ploughman, is a portrait of [Vasyl Stus](/en/people/vasyl-stus/). Zaretskyi’s only solo exhibition in his lifetime opened in Kyiv in December 1989; he died on 23 August 1990. In 1994 he was awarded the Shevchenko Prize posthumously.
+His later paintings carry a fear for the planet: Ozone Hole, Atomic Winter, Golden Skull. Bells of Chornobyl. One of the last, Ploughman, is a portrait of [Vasyl Stus](/en/people/vasyl-stus/). Zaretskyi’s only solo exhibition in his lifetime opened in Kyiv in December 1989; he died on 23 August 1990, leaving about a thousand oil paintings and drawings. In 1994 he was awarded the Shevchenko Prize posthumously.
 
 ## Why it matters today
 

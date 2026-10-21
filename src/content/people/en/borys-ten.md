@@ -3,13 +3,14 @@
 name: "Borys Ten"
 role: "Translator of Homer, poet"
 summary: "He took his pen name from the ancient Greek name of the Dnipro. Borys Ten (Mykola Khomychevskyi) was a priest of the Ukrainian Autocephalous Church, survived a Soviet camp and Nazi captivity, and then gave Ukrainians Homer’s Iliad and Odyssey."
-fun_fact: "In a Soviet labour camp in the Far East, Khomychevskyi led a choir of prisoners."
+fun_fact: "Borys Ten knew ten languages: ancient Greek, Latin, English, French, German, Polish, Czech, Slovak, Latvian and Russian."
 key_accomplishments:
   - "Translated Homer’s Iliad and Odyssey from ancient Greek; Maksym Rylskyi Prize (1979)"
   - "Translations of Aeschylus, Sophocles, Euripides, Aristophanes, Aristotle, Shakespeare, Schiller, Goethe, Mickiewicz and others"
   - "The sonnet collection Starry Orchards (1970)"
   - "Priest of the Ukrainian Autocephalous Orthodox Church; rector of St Sophia’s Cathedral in Kyiv (1924–1926)"
   - "Founded the Lonok choir in Zhytomyr and led the regional literary association"
+  - "Honoured Worker of Polish Culture (1977); a medal of Poland’s Ministry of Culture and Art for translating Słowacki, Mickiewicz and Żuławski"
 birthplace_name: "Derman"
 image_alt: "Borys Ten (Mykola Khomychevskyi), photographic portrait from the 1930s"
 ---
@@ -20,15 +21,15 @@ Where does the name “Borys Ten” come from? The ancient Greeks called the Dni
 
 ## A priest at St Sophia’s
 
-Mykola Khomychevskyi was born in 1897 in the village of Derman in Volhynia, into the large family of a priest and a teacher. At the start of the First World War the family moved to Zhytomyr. There he taught Ukrainian in schools, graduated from the Volhynian Institute of Public Education, and in 1922 became a priest of the Ukrainian Autocephalous Orthodox Church. From 1924 to 1926 he was rector of St Sophia’s Cathedral in Kyiv.
+Mykola Khomychevskyi was born in 1897 in the village of Derman in Volhynia, into the large family of a priest and a teacher. At the start of the First World War the family moved to Zhytomyr. There he taught Ukrainian in schools, graduated from the Volhynian Institute of Public Education, and in 1922 became a priest of the Ukrainian Autocephalous Orthodox Church. From 1924 to 1926 he was rector of St Sophia’s Cathedral in Kyiv. He also belonged to the circle of the Kyiv Neoclassicists, poets who included [Mykola Zerov](/en/people/mykola-zerov/) and [Maksym Rylskyi](/en/people/maksym-rylskyi/).
 
 ## Camp and captivity
 
-On 7 August 1929 Khomychevskyi was arrested for his church work and sentenced to ten years in the camps. He served his term in the Far East, mostly in Vladivostok, where he led a choir of prisoners. He was released in 1936, spent a short time back in Kyiv, and from 1937 worked in Russia. When the Second World War began he was drafted into the Red Army and taken prisoner by the Germans. After a failed escape he was moved to a camp in Germany, and he was freed only in 1945.
+On 7 August 1929 Khomychevskyi was arrested for his church work, and the next year he was sentenced to ten years in the camps. He served his term in the Far East, mostly in Vladivostok, where he led a choir of prisoners. He was released on 1 September 1936, spent a short time back in Kyiv, and from 1937 worked in Russia. When the Second World War began he was drafted into the Red Army and taken prisoner by the Germans. After a failed escape he was moved to a camp in Germany, and he was freed only in 1945.
 
 ## Homer in Zhytomyr
 
-After the war Borys Ten lived in Zhytomyr. He worked at the theatre, taught at the music school and taught Latin to students. He founded the Lonok choir and led the regional literary association. He translated Aeschylus, Sophocles, Aristophanes, Shakespeare, Schiller and Mickiewicz, but his life’s great work was the Iliad and the Odyssey. In 1966 he was nominated for the Shevchenko Prize but did not receive it. In 1979 he was awarded the prize named after [Maksym Rylskyi](/en/people/maksym-rylskyi/) for his Homer. Borys Ten died in Zhytomyr in 1983.
+After the war Borys Ten lived in Zhytomyr. He worked at the theatre, taught at the music school and taught Latin to students. He founded the Lonok choir and led the regional literary association. He translated Aeschylus, Sophocles, Aristophanes, Shakespeare, Schiller and Mickiewicz, but his life’s great work was the Iliad and the Odyssey. In 1966 he was nominated for the Shevchenko Prize but did not receive it. In 1979 he was awarded the prize named after Maksym Rylskyi for his Homer. Borys Ten died in Zhytomyr in 1983.
 
 ## Why it matters today
 

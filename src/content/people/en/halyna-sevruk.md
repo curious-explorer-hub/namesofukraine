@@ -20,7 +20,7 @@ In 2020 a large ceramic panel, Old Chernihiv, was taken down from the wall of th
 
 ## From Samarkand to Kyiv
 
-Halyna Sevruk was born in 1929 in Samarkand, into an architect’s family. A year later the family returned to Ukraine, first to Kharkiv, and in 1944 moved to Kyiv. Halyna studied at an art school and graduated from the Kyiv Art Institute in 1959.
+As a little girl, Halyna kept poring over a lavish Bible with engravings by Gustave Doré. Kyiv’s Jewish community had given it to her grandfather, the lawyer Dmytro Hryhorovych-Barskyi, for winning the Beilis case. Halyna Sevruk was born in 1929 in Samarkand, into an architect’s family. A year later the family returned to Ukraine, first to Kharkiv, and in 1944 moved to Kyiv. Halyna studied at an art school and graduated from the Kyiv Art Institute in 1959.
 
 ## The club and the window
 
@@ -28,9 +28,9 @@ From 1960 to 1964 she took part in the Club of Creative Youth, where the young S
 
 ## A signature that cost her
 
-In 1968 Sevruk signed the “letter of 139” to the Soviet leaders, demanding an end to unlawful political trials. She was expelled from the Union of Artists and only reinstated in 1989. In the early 1970s her workshop’s management banned Cossack subjects for her. She kept working all the same: reliefs of Slavic gods, of figures from Ukrainian history and folklore, of Cossack Mamai and old buildings. She also painted her friends: Alla Horska, [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), Nadiia Svitlychna.
+On 20 April 1966 Sevruk signed a letter to the Supreme Court of Soviet Ukraine demanding a review of Zalyvakha’s case, and in 1968 the “letter of 139” to the Soviet leaders, demanding an end to unlawful political trials. For such letters, and for refusing to repent, she was expelled from candidate membership of the Union of Artists, and only reinstated in 1989. In the early 1970s her workshop’s management banned Cossack subjects for her. She kept working all the same: reliefs of Slavic gods, of figures from Ukrainian history and folklore, of Cossack Mamai and old buildings. She also painted her friends: Alla Horska, [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), Nadiia Svitlychna.
 
-From 1990 Sevruk ran a ceramics studio for children in Kyiv. She died on 13 February 2022, at 92.
+From 1990 Sevruk ran a ceramics studio for children in Kyiv. Until then she had not been allowed to travel abroad; in 1991 she had a solo exhibition in Toronto. In all she made hundreds of ceramic plaques and 30 monumental works, though not all of them survive. She died on 13 February 2022, at 92.
 
 ## Why it matters today
 
