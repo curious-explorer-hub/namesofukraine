@@ -11,7 +11,7 @@ key_accomplishments:
   - "The novels Holliandiia (1930) and Kryshtalevyi Krai (The Crystal Land, 1935)"
   - "Member of the futurist group Nova Generatsiia (1927–1931)"
 birthplace_name: "Novomyrhorod"
-image_alt: "Black-and-white photographic portrait of Dmytro Buzko in a dark jacket"
+image_alt: "Dmytro Buzko with swept-back dark hair, in a blue jacket and white shirt"
 ---
 
 ## How did a Ukrainian screenwriter end up in Denmark?

@@ -4,7 +4,7 @@ gender: male
 born: 1890-01-01
 born_circa: true
 died: 1937-11-14
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer, filmmaker]
@@ -18,10 +18,11 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "об'єднання «Нова генерація», 1927–1931" }
 image:
   src: ./images/dmytro-buzko.jpg
-  alt: "Чорно-білий фотопортрет Дмитра Бузька в темному піджаку"
+  alt: "Дмитро Бузько із зачесаним угору темним волоссям, у синьому піджаку й білій сорочці"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE_%D0%91%D1%83%D0%B7%D1%8C%D0%BA%D0%BE.jpg"
 key_accomplishments:
   - "Повість «Лісовий звір», екранізована за його сценарієм"
@@ -38,7 +39,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CO%5CNovaGeneratsiia.htm"
 related: [les-kurbas, mykhail-semenko, heo-shkurupii]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T21:22:33Z
 ---
 
 ## Як сценарист опинився в Данії?
