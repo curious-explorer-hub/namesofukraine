@@ -12,6 +12,10 @@ key_accomplishments:
   - "Children's books The Stork and the Black Cloud (1993) and Pimbo-Bimbo (2000); the detective novel A Thousand-Year-Old Murder (2002)"
   - "Order of Princess Olga, 3rd class (2000) and 2nd class (2005)"
 birthplace_name: "Lviv"
+image_alt: "A young Iryna Kalynets in a light hat with flowers and a coat with a fur collar, 1960s"
+gallery:
+  - alt: "Two black-and-white photographs of Iryna Kalynets, front and profile, in a high-necked sweater, with her name and year of birth handwritten in Russian below"
+    caption: "Photographs of the arrested Iryna Kalynets in her KGB file, 1972"
 ---
 
 ## A pen and paper

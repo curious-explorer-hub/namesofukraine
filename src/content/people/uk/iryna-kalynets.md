@@ -3,7 +3,7 @@ name: Ірина Калинець
 gender: female
 born: 1940-12-06
 died: 2012-07-31
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: civic
 tags: [poet, human-rights, politician]
@@ -11,6 +11,15 @@ role: "Поетеса, політв'язениця, депутатка"
 summary: "Під слідством вона тричі голодувала, щоб їй дали ручку й папір. Львівська поетеса-шістдесятниця Ірина Калинець відбула шість років таборів і три роки заслання, а в незалежній Україні стала депутаткою і перебудовувала школи Львівщини."
 fun_fact: "1961 року на вечорі пам'яті Шевченка в Києві молода студентка Ірина Калинець виступила з доповіддю про переклади його творів польською мовою."
 birthplace: { name: "Львів", region: lviv, country: UA, lat: 49.842, lon: 24.032 }
+image:
+  src: ./images/iryna-kalynets.jpg
+  alt: "Молода Ірина Калинець у світлому капелюшку з квітами й пальті з хутряним коміром, 1960-ті роки"
+  position: "50% 30%"
+  author: "Невідомий автор (архів Центру досліджень визвольного руху)"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Калинець_Ірина.jpg"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Рукописні поетичні збірки «Оранта», «Дорога вигнання», «Крізь камінь»; книжки «Поезії» (Нью-Йорк, 1991) і «Шлюб із полином» (1995)"
   - "Одна із засновниць Громадського комітету захисту Ніни Строкатої (1971)"
@@ -18,6 +27,15 @@ key_accomplishments:
   - "Народна депутатка України першого демократичного скликання (1990–1994); очільниця освіти Львівщини (1990–1992): гімназії, ліцеї, нові шкільні програми"
   - "Книжки для дітей «Лелека і Чорна Хмара» (1993), «Пімбо-Бімбо» (2000); детективний роман «Вбивство тисячолітньої давності» (2002)"
   - "Ордени княгині Ольги 3-го (2000) і 2-го (2005) ступенів"
+gallery:
+  - src: ./images/iryna-kalynets-kgb-1972.webp
+    alt: "Дві чорно-білі фотографії Ірини Калинець - анфас і в профіль - у светрі з високим коміром; під ними рукописний підпис «Калинец Ирина Онуфриевна, 1940 г. рождения»"
+    caption: "Фотографії заарештованої Ірини Калинець в анкеті КДБ, 1972 рік"
+    section: 3
+    author: "Невідомий автор (анкета КДБ)"
+    license: "Fair use"
+    source_url: "https://localhistory.org.ua/texts/interviu/igor-kalinets-mi-ne-buli-disidentami-mi-buli-natsionalistami/"
+    fair_use: true
 sources:
   - title: "Енциклопедія Сучасної України - Калинець Ірина Онуфріївна"
     url: "https://esu.com.ua/article-10473"
@@ -29,7 +47,8 @@ sources:
     url: "https://zaxid.net/sogodni__rik_yak_pomerla_irina_kalinets_n1290449"
 related: [ihor-kalynets, viacheslav-chornovil, yevhen-sverstiuk, alla-horska, ivan-drach, vasyl-stus]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T03:16:32Z
 ---
 
 ## Ручка і папір
