@@ -18,7 +18,7 @@ In order. Pick from the top.
 |---|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | 1 | **Close Tally:** export its old submissions, then close the form | The site's own form (D19) is live and the weekly digest delivers its messages | Owner          |
 | 2 | **Content session** C4–C7 below, and the drafts                               | The catalogue and its links now limit the site more than features do | Code + content |
-| 3 | **Social upkeep:** January plan by 2026-12-31; both tokens refreshed by 2026-11-29 | Without a plan or with an expired token, nothing is posted, and only the account that last edited a schedule gets GitHub's failure email ([MAINTENANCE.md](MAINTENANCE.md)) | Owner + code   |
+| 3 | **Social upkeep:** February plan by 2027-01-31; both tokens refreshed by 2026-11-29 | Without a plan or with an expired token, nothing is posted, and only the account that last edited a schedule gets GitHub's failure email ([MAINTENANCE.md](MAINTENANCE.md)) | Owner + code   |
 
 ### Content session (owner, 2026-10-06)
 
