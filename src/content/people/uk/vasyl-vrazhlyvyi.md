@@ -4,7 +4,7 @@ gender: male
 born: 1903-01-01 # ЕСУ and IEU: 1903, no day given
 born_circa: true
 died: 1937-12-08
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer]
@@ -17,10 +17,12 @@ places:
   - { name: "Соловки", lat: 65.025, lon: 35.71, note: "в'язень Соловецького табору з 1935 року" }
 image:
   src: ./images/vasyl-vrazhlyvyi.jpg
-  alt: "Василь Вражливий у світлій сорочці й краватці, фото з його роману «Справа серця» (1933)"
-  author: "Невідомий автор (фото з книжки видавництва «Радянська література», 1933)"
+  alt: "Василь Вражливий із зачесаним темним волоссям, у білій сорочці, бордовій краватці й коричневому твідовому піджаку"
+  position: "50% 30%"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:V_vrazhlivyy.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Vasyl_Vrazhlyvy.jpg"
 key_accomplishments:
   - "Збірки оповідань «В яру» (1924), «Земля» (1925), «Вовчі байраки», «Молодість», «Шість оповідань» (1930)"
   - "Повісті-алегорії «Життя білого будинку» (1927) і «Батько» (1929)"
@@ -34,7 +36,8 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CV%5CR%5CVrazhlyvyVasyl.htm"
 related: [mykola-khvylovyi, mykola-kulish, mykhailo-yalovyi, hryhorii-epik, mykola-liubchenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T20:48:39Z
 ---
 
 ## Повісті з другим дном

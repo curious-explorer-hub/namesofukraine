@@ -11,7 +11,7 @@ key_accomplishments:
   - "Translations of Balzac’s The Wild Ass’s Skin (1929) and Lesage’s Gil Blas (1935)"
   - "Member of the literary groups Urbino (1924), VAPLITE (1926–1928) and Prolitfront (1929–1931)"
 birthplace_name: "Opishnia"
-image_alt: "Vasyl Vrazhlyvyi in a light shirt and tie, the frontispiece of his novel A Matter of the Heart (1933)"
+image_alt: "Vasyl Vrazhlyvyi with combed-back dark hair, in a white shirt, burgundy tie and brown tweed jacket"
 ---
 
 ## Stories with a false bottom
