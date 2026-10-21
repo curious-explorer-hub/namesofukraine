@@ -12,7 +12,7 @@ key_accomplishments:
   - "Founded the Lonok choir in Zhytomyr and led the regional literary association"
   - "Honoured Worker of Polish Culture (1977); a medal of Poland’s Ministry of Culture and Art for translating Słowacki, Mickiewicz and Żuławski"
 birthplace_name: "Derman"
-image_alt: "Borys Ten (Mykola Khomychevskyi), photographic portrait from the 1930s"
+image_alt: "Borys Ten (Mykola Khomychevskyi) with dark wavy hair, a moustache and goatee, in a dark jacket, white shirt and burgundy tie, 1930s"
 ---
 
 ## The man named after the Dnipro

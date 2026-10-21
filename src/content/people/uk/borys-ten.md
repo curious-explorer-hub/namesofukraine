@@ -3,7 +3,7 @@ name: Борис Тен
 gender: male
 born: 1897-12-09
 died: 1983-03-12
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [poet, writer, religious]
@@ -17,9 +17,11 @@ places:
   - { name: "Владивосток", lat: 43.116, lon: 131.886, note: "табір, 1930–1936" }
 image:
   src: ./images/borys-ten.jpg
-  alt: "Борис Тен (Микола Хомичевський), фотопортрет 1930-х років"
+  alt: "Борис Тен (Микола Хомичевський) з темним хвилястим волоссям, вусами й борідкою, у темному піджаку, білій сорочці й бордовій краватці, 1930-ті роки"
+  position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Borys_Ten_1930-x.jpg"
 key_accomplishments:
   - "Переклади «Іліади» та «Одіссеї» Гомера з давньогрецької; премія імені Максима Рильського (1979)"
@@ -37,7 +39,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/borys-ten-dolya-perekladacha/32985099.html"
 related: [maksym-rylskyi, mykola-zerov]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T03:11:55Z
 ---
 
 ## Людина з іменем Дніпра
