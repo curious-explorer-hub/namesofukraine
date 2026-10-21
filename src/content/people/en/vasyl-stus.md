@@ -13,10 +13,13 @@ key_accomplishments:
   - "Member of the Ukrainian Helsinki Group"
   - "Posthumously awarded the title Hero of Ukraine (2005)"
 birthplace_name: "Rakhnivka"
-image_alt: "KGB case-file photograph of Vasyl Stus, 1980"
+image_alt: "Vasyl Stus with dark swept-back hair, in a navy turtleneck sweater"
 quotes:
   - text: "My people are going through torment and suffering, but they will live, because they have a soul"
     source: "A saying often found in documentary and biographical materials about the poet, including his letters"
+gallery:
+  - alt: "Two black-and-white photographs of Vasyl Stus from his criminal file, in profile and full face, in a dark jacket, with his name and year of birth written in Russian below"
+    caption: "Photographs of Vasyl Stus from his KGB file"
 ---
 
 ## 600 poems we will never read

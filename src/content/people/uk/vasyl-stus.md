@@ -16,11 +16,13 @@ misconception:
 birthplace: { name: "Рахнівка", region: vinnytsia, country: UA, lat: 48.783, lon: 29.546 }
 image:
   src: ./images/vasyl-stus.jpg
-  alt: "Фото Василя Стуса з кримінальної справи КДБ, 1980"
-  author: "Official KGB photo from Stus file after arrest 1972"
-  license: "Public domain"
+  alt: "Василь Стус із темним зачесаним волоссям, у темно-синьому светрі з високим коміром"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uinp.gov.ua/istorychnyy-kalendar/veresen/4/1985-zagynuv-vasyl-stus-poet"
   ai_edit: colorized
-  source_url: "https://commons.wikimedia.org/wiki/File:Stus_KGB_photo_1980_(cropped).jpg"
+  fair_use: true
 key_accomplishments:
   - Збірки «Зимові дерева», «Свіча в свічаді», «Палімпсести»
   - Публічний протест проти арештів української інтелігенції (1965)
@@ -29,6 +31,14 @@ key_accomplishments:
 quotes:
   - text: "Мій народ іде крізь муки і страждання, але він буде жити, бо в нього є душа"
     source: "Цей вислів часто зустрічається в документальних та біографічних матеріалах про поета, зокрема в його епістолярній спадщині"
+gallery:
+  - src: ./images/vasyl-stus-kgb.jpg
+    alt: "Дві чорно-білі фотографії Василя Стуса з кримінальної справи - у профіль і анфас - у темній куртці; внизу підпис «Стус Василий Семёнович, 1938»"
+    caption: "Фотографії Василя Стуса з його справи в КДБ"
+    section: 3
+    author: "Невідомий автор (КДБ)"
+    license: "Public domain"
+    source_url: "https://uk.wikipedia.org/wiki/Файл:Stus_KGB_photo_1980.jpg"
 sources:
   - title: "Енциклопедія історії України - Стус Василь Семенович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Stus_V"
