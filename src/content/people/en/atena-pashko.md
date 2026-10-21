@@ -12,6 +12,9 @@ key_accomplishments:
   - "Order of Princess Olga, 3rd class (1997), and Order of Freedom (2009)"
 birthplace_name: "Prusy (now Bystrytsia)"
 image_alt: "Atena Pashko with light hair, in a navy jacket and a white blouse with an embroidered collar, May 1990"
+gallery:
+  - alt: "A smiling Atena Pashko in a flowered blouse hugs Viacheslav Chornovil, in a light shirt, from behind; a blue-and-yellow flag in the background"
+    caption: "Atena Pashko and Viacheslav Chornovil"
 ---
 
 ## Poems that became songs

@@ -11,6 +11,7 @@ key_accomplishments:
   - "The trilogy The Borrowed Husband, The Private Life of a Phenomenon and Parade of Planets (1982–1984)"
   - "The Shevchenko Prize (1985) for the children’s books Saiiora and The Horses Flew By"
 birthplace_name: "Staryi Zhyvotiv (now Novozhyvotiv)"
+image_alt: "Yevhen Hutsalo with thick dark hair, in a light open-collared shirt, looking straight at the camera"
 ---
 
 ## The borrowed husband

@@ -3,7 +3,7 @@ name: Євген Гуцало
 gender: male
 born: 1937-01-14
 died: 1995-07-04
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: literature
 tags: [writer, poet]
@@ -11,6 +11,15 @@ role: "Прозаїк, автор понад 200 оповідань"
 summary: "Його роман виріс із жартівливої народної пісні про те, як жінки продавали чоловіків на базарі. Євген Гуцало, прозаїк покоління шістдесятників, написав понад 200 ліричних оповідань про село, природу, кохання й дітей і боявся за майбутнє рідної мови."
 fun_fact: "За мотивами творів Гуцала Юрій Іллєнко зняв двосерійний фільм «Солом'яні дзвони» (1987) і був у ньому водночас сценаристом, оператором і режисером."
 birthplace: { name: "Старий Животів (нині Новоживотів)", region: vinnytsia, country: UA, lat: 49.265, lon: 29.537 }
+image:
+  src: ./images/yevhen-hutsalo.jpg
+  alt: "Євген Гуцало з густим темним волоссям, у світлій сорочці з розстебнутим комірцем, дивиться просто в камеру"
+  position: "50% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-25016"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Перша збірка оповідань «Люди серед людей» (1962); понад 200 ліричних оповідань"
   - "Збірка «У лелечому селі» (1969), одна з найкращих українських книжок про дітей"
@@ -26,7 +35,8 @@ sources:
     url: "https://www.unian.ua/vinnica/628060-kongres-ukrajinskoji-inteligentsiji-vinnichchini-vshanue-evgena-gutsala.html"
 related: [hryhir-tiutiunnyk, volodymyr-drozd]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-21T00:33:34Z
 ---
 
 ## Позичений чоловік
