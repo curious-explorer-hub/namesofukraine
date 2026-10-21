@@ -3,7 +3,7 @@ name: Йосип Гірняк
 gender: male
 born: 1895-04-14
 died: 1989-01-17
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: performing-arts
 tags: [actor]
@@ -16,6 +16,15 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "«Березіль» Леся Курбаса, до арешту 1933 року" }
   - { name: "Чиб'ю (Комі, Росія)", lat: 63.632, lon: 53.559, note: "табір, 1934–1940" }
   - { name: "Нью-Йорк", lat: 40.713, lon: -74.006, note: "Український театр в Америці; тут помер 1989 року" }
+image:
+  src: ./images/yosyp-hirniak.jpg
+  alt: "Йосип Гірняк із темним кучерявим волоссям, у круглих окулярах у світлій оправі й зеленому твідовому піджаку, з легкою усмішкою"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Гірняк_Йосип_Йосипович.jpg"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Провідний актор «Березоля» Леся Курбаса (1922–1933): Мина Мазайло, ролі в «Народному Малахії» й «Маклені Грасі» Миколи Куліша"
   - "Роль у фільмі Леся Курбаса «Вендета» (1924)"
@@ -35,7 +44,8 @@ sources:
     url: "https://www.radiosvoboda.org/a/25374177.html"
 related: [les-kurbas, mykola-kulish, ostap-vyshnia, marian-krushelnytskyi]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T20:43:22Z
 ---
 
 ## Скільки ролей може зіграти один актор?

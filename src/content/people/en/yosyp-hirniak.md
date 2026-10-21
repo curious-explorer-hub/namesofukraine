@@ -13,6 +13,7 @@ key_accomplishments:
   - "The memoir Spomyny (Memoirs, 1982)"
   - "More than 170 roles and 65 productions"
 birthplace_name: "Strusiv"
+image_alt: "Yosyp Hirniak with dark curly hair, in round light-rimmed glasses and a green tweed jacket, smiling slightly"
 ---
 
 ## How many roles can one actor play?
