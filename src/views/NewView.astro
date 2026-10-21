@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PersonCard from '../components/PersonCard.astro';
-import { getPeople, additionBatches, fullDate } from '../lib/people';
+import { getPeople, additionBatches, isNew, fullDate } from '../lib/people';
 import { t, type Lang } from '../i18n';
 
 interface Props {
@@ -9,15 +9,17 @@ interface Props {
 }
 
 const { lang } = Astro.props;
-const batches = additionBatches(await getPeople(lang));
+// Approved profiles published in the last 30 days (the cards' «Нове» badge), at most 50; in dev too, since
+// drafts are reviewed under /admin/drafts/ and in their collections.
+const batches = additionBatches((await getPeople(lang)).filter((p) => p.data.status === 'approved' && isNew(p)), 50);
 ---
 
 <BaseLayout lang={lang} title={t('new.title', lang)} description={t('new.description', lang)}>
   <header class="page-head">
     <h1 class="page-title">{t('new.title', lang)}</h1>
-    <p class="page-lead">{t('new.lead', lang)}</p>
   </header>
 
+  {batches.length === 0 && <p class="page-lead">{t('new.none', lang)}</p>}
   {
     batches.map((b, bi) => (
       <section class="batch" aria-labelledby={`batch-${b.date.getTime()}`}>

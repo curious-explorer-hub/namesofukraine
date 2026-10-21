@@ -140,9 +140,10 @@ export const fullDate = (date: Date, circa = false, lang: Lang = 'uk') =>
       });
 
 // Publication days, newest first; within a day, the latest published first. The initial catalogue is one group.
-export const additionBatches = (people: Person[]) => {
+// With `limit`, only the latest `limit` profiles (the New page keeps its size and speed as the catalogue grows).
+export const additionBatches = (people: Person[], limit = Infinity) => {
   const byDay = new Map<number, Person[]>();
-  for (const p of [...people].sort(newestFirst)) {
+  for (const p of [...people].sort(newestFirst).slice(0, limit)) {
     const d = new Date(publishedAt(p));
     const key = d <= CATALOGUE_DATE ? 0 : Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate());
     byDay.set(key, [...(byDay.get(key) ?? []), p]);
