@@ -11,7 +11,7 @@ key_accomplishments:
   - "Murals for the Lutsk Barracks in Kyiv (1919); the fresco Industrialization at the Chervonozavodskyi Theatre in Kharkiv"
   - "Paintings Execution (1927) and Portrait of Oksana Pavlenko (1927); the drawing series Europe; the essay AKhRR and ARMU (1926)"
 birthplace_name: "Khrystivka"
-image_alt: "Vasyl Sedliar, photographic portrait from the early 1930s"
+image_alt: "Vasyl Sedliar with dark hair and a moustache, in a tweed jacket, white shirt and green tie, early 1930s"
 ---
 
 ## The book they burned

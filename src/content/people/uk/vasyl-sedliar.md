@@ -3,7 +3,7 @@ name: Василь Седляр
 gender: male
 born: 1899-04-12
 died: 1937-07-13
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-21
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -17,9 +17,11 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "«Кобзар» 1931 року; фреска в Червонозаводському театрі; арешт 1936" }
 image:
   src: ./images/vasyl-sedliar.jpg
-  alt: "Василь Седляр, фотопортрет початку 1930-х років"
+  alt: "Василь Седляр із темним волоссям і вусами, у твідовому піджаку, білій сорочці й зеленій краватці, початок 1930-х років"
+  position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D0%B4%D0%BB%D1%8F%D1%80_%D0%92.jpg"
 key_accomplishments:
   - "75 ілюстрацій до «Кобзаря» Тараса Шевченка (Харків, 1931)"
@@ -38,7 +40,8 @@ sources:
     url: "https://lb.ua/culture/2009/09/19/8646_vozvrashchenie_sedlyara.html"
 related: [mykhailo-boichuk, ivan-padalka, taras-shevchenko]
 collections: [executed-renaissance]
-status: draft
+status: approved
+published: 2026-10-21T20:15:37Z
 ---
 
 ## Книжка, яку палили
