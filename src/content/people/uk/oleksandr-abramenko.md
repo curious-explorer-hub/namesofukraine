@@ -34,7 +34,7 @@ sources:
     url: "https://www.olympedia.org/athletes/110841"
   - title: "Kyiv Post - «Ukraine notches its first Olympic gold in Pyeongchang» (18 лютого 2018)"
     url: "https://archive.kyivpost.com/sport/ukraine-notches-first-olympic-gold-pyeongchang.html"
-  - title: "Суспільне Спорт - «"Нікого не обіймав". Абраменко прокоментував фото з представником ОКР після медалі на Олімпіаді-2022» (19 лютого 2022)"
+  - title: "Суспільне Спорт - «„Нікого не обіймав“. Абраменко прокоментував фото з представником ОКР після медалі на Олімпіаді-2022» (19 лютого 2022)"
     url: "https://suspilne.media/sport/208652-nikogo-ne-obijmav-abramenko-prokomentuvav-foto-z-predstavnikom-okr-pisla-medali-na-olimpiadi-2022/"
   - title: "Укрінформ - «Олександр Абраменко, олімпійський чемпіон із фристайлу» (20 травня 2026)"
     url: "https://www.ukrinform.ua/rubric-sports/4125257-oleksandr-abramenko-olimpijskij-cempion-iz-fristajlu.html"
