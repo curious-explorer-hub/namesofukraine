@@ -23,9 +23,15 @@ In 1968 the journal Vitchyzna printed a novel by a young writer called Catastrop
 
 ## A boy from the Chernihiv region
 
-Drozd was born in 1939 in the village of Petrushyn in the Chernihiv region. From 1959 he worked for a district newspaper, then for youth papers. His first story collection, I Love the Blue Stars, came out in 1962, and the same year he was admitted to the Writers’ Union. But in early 1963 he was fired for rebelling against the canons of socialist realism. Soon afterwards he was put in a psychiatric hospital "for examination", and his friends raised a scandal to get him out. Then he was drafted into the army and sent to serve for three years in Transbaikalia, far from society. He only graduated from Kyiv University in 1968. He was married to the poet Iryna Zhylenko.
+Drozd was born in 1939 in the village of Petrushyn in the Chernihiv region. From 1959 he worked for a district newspaper, then for youth papers. His first story collection, I Love the Blue Stars, came out in 1962, and the same year he was admitted to the Writers’ Union. He only graduated from Kyiv University in 1968. He was married to the poet Iryna Zhylenko.
 
 From his very first stories Drozd wrote ‘chimeric prose’: the real blends with the imagined, and old Ukrainian tall tales, folk stories, beliefs and legends come alive in new ways. He is counted among the most prominent prose writers of the Sixtiers, with [Hryhir Tiutiunnyk](/en/people/hryhir-tiutiunnyk/) and [Yevhen Hutsalo](/en/people/yevhen-hutsalo/), and Catastrophe and the novella Olives are cited as examples of sharp satire. At the same time, it is noted that during the repressions against the Sixtiers he went over to the official position without putting up much resistance.
+
+## For rebellion, the most remote garrison
+
+When Drozd first went to the draft office, its chief looked through his file and told him: "Lad, you will never serve in the army… You have forty percent of your sight left."
+
+In early 1963 Drozd was fired for rebelling against the canons of socialist realism. That same year he was put in a psychiatric hospital "for examination", and, as Iryna Zhylenko wrote in her diary, "not even in the nervous ward, but with the mentally ill". His friends raised a scandal to get him out. Then, poor eyesight and all, he was drafted after all. At the transit point in Tarashcha he opened his own file and found a letter from the regional draft office: "send V. H. Drozd to the army at any cost, and to the most remote garrison…". He served all three years, first in Transbaikalia, then in Chernihiv.
 
 ## A white horse in the herd
 
