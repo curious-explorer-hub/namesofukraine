@@ -14,6 +14,9 @@ key_accomplishments:
   - "Colonel of the UNR Army; in exile, a co-founder of the Fund for Aid to Ukrainian Invalids"
 birthplace_name: "Dashchenky"
 image_alt: "An elderly Averkii Honcharenko with short greying hair, in a dark grey tweed suit, white shirt and burgundy tie"
+quotes:
+  - text: "The Muscovite keeps trying to play the big brother and order us about, even when nobody needs him."
+    source: "Memoirs, on the camp of Ukrainian soldiers in Austria, 1945 (via Novynarnia)"
 ---
 
 ## Who commanded at Kruty?
@@ -36,11 +39,11 @@ After Kruty he and the cadets joined Petliura's Slobidskyi Kish and took part in
 
 ## Debates and assessments
 
-In the Second World War, at 53, Honcharenko volunteered for the Galicia Division. Nazi Germany formed it in 1943 from Ukrainian volunteers as a Waffen-SS division; in 1945 it was renamed the 1st Ukrainian Division of the Ukrainian National Army, and it surrendered to the British in Austria. Honcharenko was an officer of the division and mostly trained young soldiers. He put out a weekly news review for the men in Ukrainian, although he was told to print it in German, and began introducing them to Shevchenko's life and works. Service in the division is one of the most contested topics in 20th-century Ukrainian history: some see it as collaboration with the Nazi regime, others as an attempt to build a Ukrainian army to fight the USSR. The ArmyInform author calls Honcharenko's choice a mistake, but explains it by his view of the USSR as an occupier. According to the historian Serhii Butko, British, American and French authorities checked Honcharenko and found no evidence of his involvement in war crimes.
+In the Second World War, at 53, Honcharenko volunteered for the Galicia Division. He described it as "continuing the active struggle" he had begun in the UNR Army: after the defeat of the Ukrainian People's Republic, Ukraine had come under Soviet occupation, so he regarded the USSR as an occupier and saw the division as the seed of a future Ukrainian army. Nazi Germany formed it in 1943 from Ukrainian volunteers as a Waffen-SS division; in 1945 it was renamed the 1st Ukrainian Division of the Ukrainian National Army, and it surrendered to the British in Austria. Honcharenko was an officer of the division and mostly trained young soldiers. He put out a weekly news review for the men in Ukrainian, although he was told to print it in German, and began introducing them to Shevchenko's life and works. Service in the division is one of the most contested topics in 20th-century Ukrainian history: some see it as collaboration with the Nazi regime, others as an attempt to build a Ukrainian army to fight the USSR. Some experts call Honcharenko's choice a mistake, but explain it by that view of the USSR, held by a veteran of the UNR Army. According to the historian Serhii Butko, British, American and French authorities checked Honcharenko and found no evidence of his involvement in war crimes.
 
 ## From Kruty to Ohio
 
-After Germany surrendered, Honcharenko made sure that 2,000 Ukrainian soldiers ended up in the British zone rather than the Soviet one. He then lived in Britain, and from 1952 in the United States, where he helped disabled Ukrainian soldiers and veterans. He died on 12 April 1980 in Cleveland, Ohio, and is buried in the Ukrainian cemetery in neighbouring Parma. Today streets in Ukraine bear his name, including one in Kruty.
+After Germany surrendered, Honcharenko made sure that 2,000 Ukrainian soldiers ended up in the British zone rather than the Soviet one, saving them from almost certain death or repression at Soviet hands. He then lived in Britain, and from 1952 in the United States, where he helped disabled Ukrainian soldiers and veterans. He died on 12 April 1980 in Cleveland, Ohio, and is buried in the Ukrainian cemetery in neighbouring Parma. Today streets in Ukraine bear his name, including one in Kruty.
 
 ## Why it matters today
 
