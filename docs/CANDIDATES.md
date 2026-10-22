@@ -48,6 +48,7 @@ People the owner decided not to profile. Don't draft them, link to them or sugge
 |---|---|---|---|
 | Леонід Кравчук | 1934–2022 | Owner decision; draft removed | 2026-10-16 |
 | Антон Макаренко | 1888–1939 | Owner decision: worked for the GPU–NKVD system (the Dzerzhinsky commune, then the NKVD labour colonies department, 1935–1937); draft removed 2026-10-19 | 2026-10-16 |
+| Тетяна Чорновол | 1979– | Owner decision: too many reputation risks for now; draft kept, not to be published | 2026-10-22 |
 | Лариса Латиніна | b. 1934 | Owner decision; draft removed | 2026-10-19 |
 | Богдан Скробут | 1946–2011 | Owner decision: a 2005 interview («Кримська світлиця») reports an antisemitic remark (most NKVD staff were Jewish); draft removed | 2026-10-21 |
 | Євгенія Емеральд («Жанна д'Арк») | | Owner decision: no official record or clear public deed in reputable sources | 2026-10-21 |

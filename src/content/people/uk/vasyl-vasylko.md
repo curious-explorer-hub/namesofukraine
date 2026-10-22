@@ -18,6 +18,14 @@ places:
   - { name: "Донецьк", lat: 48.015, lon: 37.802, note: "художній керівник театру, 1930-ті" }
   - { name: "Львів", lat: 49.842, lon: 24.031, note: "художній керівник театру імені Лесі Українки, 1941" }
   - { name: "Чернівці", lat: 48.292, lon: 25.936, note: "художній керівник театру, 1940-ві" }
+image:
+  src: ./images/vasyl-vasylko.jpg
+  alt: "Василь Василько в темному костюмі й синій краватці, усміхаючись, сперся руками на спинку дерев'яного стільця"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Public domain"
+  ai_edit: colorized
+  source_url: "https://openkurbas.org/en/collection/vasyl-vasylko-actor-director-n-23507/"
 key_accomplishments:
   - "Актор, режисер і педагог «Березоля» Леся Курбаса (1922–1926)"
   - "Режисерський дебют - «За двома зайцями» за Михайлом Старицьким (1925)"
@@ -36,7 +44,8 @@ sources:
   - title: "Одеський академічний український музично-драматичний театр імені В. Василька - «7 квітня День народження Василя Степановича Василька»"
     url: "https://ukrteatr.odessa.ua/news/7-kvitnya-den-narodjennya-vasilya-stepanovicha-vasilko.html"
 related: [les-kurbas, mariia-zankovetska, taras-shevchenko, mykhailo-kotsiubynskyi]
-status: draft
+status: approved
+published: 2026-10-22T22:48:42Z
 ---
 
 ## Чи знали ви, що театральний музей у Києві допоміг заснувати актор?

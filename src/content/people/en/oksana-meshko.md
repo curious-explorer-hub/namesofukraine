@@ -4,6 +4,7 @@ name: "Oksana Meshko"
 role: "Human rights activist, “Cossack Mother”"
 summary: "At 71 she became the second member of the Ukrainian Helsinki Group; at almost 76 she was sent into exile on the Sea of Okhotsk. Oksana Meshko, a chemist and Gulag survivor whom dissidents called the “Cossack Mother,” held the group together after the others were arrested."
 fun_fact: "When she was invited to join the Helsinki Group, Meshko first answered with a question: “But who will take my son his parcels and send him packages?” Then she said yes, adding that she was not afraid of being arrested."
+image_alt: "Oksana Meshko in old age, grey hair swept back, in an embroidered shirt with red tassels, against green leaves"
 key_accomplishments:
   - "Founding member of the Ukrainian Helsinki Group (1976); after its leaders were arrested, she was in effect its coordinator"
   - "Helped the families of political prisoners and brought new members into the group to replace those arrested"

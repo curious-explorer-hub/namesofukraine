@@ -16,11 +16,13 @@ places:
   - { name: "Нью-Йорк", lat: 40.713, lon: -74.006, note: "жив тут якийсь час наприкінці 1990-х; відео в колекції MoMA" }
 image:
   src: ./images/oleksandr-roitburd.jpg
-  alt: "Олександр Ройтбурд у червоній хустці на шиї на тлі своїх картин, 2016 рік"
-  position: "50% 25%"
-  author: "Qypchak"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Alexander_Roitburd_001.jpg"
+  alt: "Олександр Ройтбурд із сивою бородою, у чорній вишиванці з червоним орнаментом, де є зірки Давида й менори, і червоними китицями"
+  position: "50% 20%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.wikiart.org/en/alexander-roitburd"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Один з головних художників «української нової хвилі» 1980–1990-х"
   - "Відеоробота «Психоделічна інвазія броненосця „Потьомкін“ у тавтологічну галюцинозу Сергія Ейзенштейна» (1998): Венеційська бієнале 2001 року, колекція MoMA"
@@ -36,7 +38,8 @@ sources:
   - title: "Енциклопедія Сучасної України - Одеський національний художній музей"
     url: "https://esu.com.ua/article-75222"
 related: []
-status: draft
+status: approved
+published: 2026-10-22T23:55:35Z
 ---
 
 ## Хлопець з Одеси і «нова хвиля»

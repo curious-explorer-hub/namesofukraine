@@ -18,11 +18,13 @@ places:
   - { name: "Бессеж (Франція)", lat: 44.293, lon: 4.097, note: "життя в еміграції, місце смерті, 2015" }
 image:
   src: ./images/leonid-pliushch.jpg
-  alt: "Літній Леонід Плющ у джинсовій сорочці сидить у саду під деревом, Бессеж, 2013 рік"
-  position: "45% 25%"
-  author: "Cyberic71"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:L%C3%A9onid_Pliouchtch_Bess%C3%A8ges_2013.jpg"
+  alt: "Леонід Плющ із залисинами й легкою усмішкою, у темно-синьому піджаку, блакитній сорочці й візерунчастій краватці, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://en.wikipedia.org/wiki/File:Leonid_Ivanovych_Plyushch.jpg"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - Член Ініціативної групи захисту прав людини в СРСР (1969)
   - Зв'язковий між українським, московським, кримськотатарським і єврейським правозахисними рухами
@@ -39,7 +41,8 @@ sources:
   - title: "LCP - «Ces mathématiciens qui firent plier le Kremlin» (анонс документального фільму)"
     url: "https://lcp.fr/presse/communiques-de-presse/ces-mathematiciens-qui-firent-plier-le-kremlin-debatdoc-lundi-17-aout"
 related: [viktor-hlushkov, taras-shevchenko, mykola-khvylovyi, vasyl-stus]
-status: draft
+status: approved
+published: 2026-10-22T22:51:50Z
 ---
 
 ## Чому за нього заступилися математики світу

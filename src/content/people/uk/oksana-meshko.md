@@ -15,6 +15,15 @@ places:
   - { name: "Ухта", lat: 63.56, lon: 53.69, note: "табір, куди її етапували 1947 року" }
   - { name: "Аян", lat: 56.45, lon: 138.17, note: "заслання на березі Охотського моря, 1981–1985" }
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "дім на Верболозній, 16, де збиралися правозахисники; похована на Байковому кладовищі" }
+image:
+  src: ./images/oksana-meshko.jpg
+  alt: "Літня Оксана Мешко із сивим зачесаним назад волоссям, у вишиванці з червоними китицями, на тлі зелені"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CM%5CE%5CMeshkoOksana.htm"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - Членкиня-засновниця Української Гельсінської групи (1976), після арешту її лідерів фактично координувала роботу групи
   - Допомагала родинам політв'язнів і залучала нових членів до групи замість заарештованих
@@ -29,7 +38,8 @@ sources:
   - title: "Харківська правозахисна група, Музей дисидентського руху - В. Овсієнко, «Мешко Оксана Яківна»"
     url: "https://museum.khpg.org/1121792907"
 related: [levko-lukianenko, oleksa-tykhyi]
-status: draft
+status: approved
+published: 2026-10-22T22:54:26Z
 ---
 
 ## Чому її звали «козацькою матір'ю»?

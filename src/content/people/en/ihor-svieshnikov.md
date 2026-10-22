@@ -4,6 +4,7 @@ name: "Ihor Svieshnikov"
 role: "Archaeologist of the Berestechko battle"
 summary: "Archaeologist Ihor Svieshnikov dug more than 6,000 Cossack objects out of the field of the Battle of Berestechko (1651). Over twenty years of excavations, they let historians retell how the battle went and what the Cossack army was like."
 fun_fact: "At the hillfort of the old chronicle town of Zvenyhorod, Svieshnikov found birch-bark letters, writing on the bark of birch trees, and the remains of unique timber buildings."
+image_alt: "Ihor Svieshnikov with swept-back grey hair and a moustache, in a grey pinstripe jacket and navy tie, photo portrait"
 key_accomplishments:
   - "More than 20 years of excavations on the Berestechko battlefield (1651), over 6,000 Cossack objects"
   - "The book The Battle of Berestechko (Lviv, 1993)"

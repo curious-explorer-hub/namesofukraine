@@ -10,7 +10,7 @@ key_accomplishments:
   - "Co-founder of the New Art association in Odesa; worked on launching the Soros Center for Contemporary Art in Odesa and chaired its board"
   - "Director of the Odesa Art Museum (2018–2021): founded the Marazli Club of patrons"
 birthplace_name: "Odesa"
-image_alt: "Oleksandr Roitburd with a red scarf at his neck, in front of his paintings, 2016"
+image_alt: "Oleksandr Roitburd with a grey beard, in a black embroidered shirt with a red pattern of Stars of David and menorahs, and red tassels"
 ---
 
 ## The Odesa boy and the New Wave

@@ -15,6 +15,15 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.031, note: "Львівський історичний музей (1945–1959), Інститут суспільних наук АН УРСР (1959–1994)" }
   - { name: "Пляшева", lat: 50.355, lon: 25.197, note: "розкопки на полі Берестецької битви (1970–1994)" }
   - { name: "Дубно", lat: 50.393, lon: 25.735, note: "тут помер 1995 року" }
+image:
+  src: ./images/ihor-svieshnikov.jpg
+  alt: "Ігор Свєшніков із зачесаним назад сивим волоссям і вусами, у сірому смугастому піджаку й синій краватці, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.istvolyn.info/post/97"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - Понад 20 років розкопок на полі Берестецької битви 1651 року, понад 6 тисяч козацьких предметів
   - Книжка «Битва під Берестечком» (Львів, 1993)
@@ -31,7 +40,8 @@ sources:
   - title: "The Ukrainian Week - K. Lypa, «Berestechko: A Place of Power» (1 серпня 2011)"
     url: "https://ukrainianweek.com/berestechko-a-place-of-power/"
 related: [bohdan-khmelnytskyi, ivan-bohun]
-status: draft
+status: approved
+published: 2026-10-22T22:50:11Z
 ---
 
 ## Що зберегло болото

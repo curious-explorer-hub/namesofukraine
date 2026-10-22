@@ -16,6 +16,15 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.031, note: "театр «Руська бесіда», до 1924 року" }
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "«Березіль»; художній керівник театру, 1933–1952" }
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "«Березіль», 1924–1926; театр імені Франка, 1952–1963" }
+image:
+  src: ./images/marian-krushelnytskyi.jpg
+  alt: "Мар'ян Крушельницький із короткою темною зачіскою, у сірому твідовому піджаку, білій сорочці й смугастій краватці, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://openkurbas.org/collection/mar-yan-krushelnytskyy-aktor-rezhyser-f-17232/"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Малахій Стаканчик у «Народному Малахії» Миколи Куліша в «Березолі» Леся Курбаса (1928)"
   - "Головна роль у комедії Олександра Довженка «Ягідка кохання» (1926)"
@@ -31,7 +40,8 @@ sources:
   - title: "Довженко-Центр, «ВУФКУ. Lost & Found» - Мар'ян Крушельницький"
     url: "https://vufku.org/names/mar-yan-krushelnitskiy/"
 related: [les-kurbas, mykola-kulish, oleksandr-dovzhenko, solomiia-krushelnytska, les-taniuk]
-status: draft
+status: approved
+published: 2026-10-22T22:53:11Z
 ---
 
 ## Як хлопець із тернопільського села став актором Курбаса?

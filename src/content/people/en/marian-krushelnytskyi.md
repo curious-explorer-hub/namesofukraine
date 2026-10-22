@@ -4,6 +4,7 @@ name: "Marian Krushelnytskyi"
 role: "Actor and director of the Berezil"
 summary: "He started out in Les Kurbas’s troupe in Ternopil, and after his teacher’s arrest he took over Kurbas’s Berezil. Marian Krushelnytskyi played Malakhii in Mykola Kulish’s play, Tevye and King Lear, and late in life passed Kurbas’s teaching on to young directors."
 fun_fact: "In 1926 Oleksandr Dovzhenko gave Krushelnytskyi the lead, a barber, in his short comedy Love’s Berries."
+image_alt: "Marian Krushelnytskyi with short dark hair, in a grey tweed jacket, white shirt and striped tie, photo portrait"
 key_accomplishments:
   - "Malakhii Stakanchyk in Mykola Kulish’s The People’s Malakhii at Les Kurbas’s Berezil (1928)"
   - "The lead in Oleksandr Dovzhenko’s comedy Love’s Berries (1926)"

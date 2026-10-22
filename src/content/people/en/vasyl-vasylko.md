@@ -4,6 +4,7 @@ name: "Vasyl Vasylko"
 role: "Director, colleague of Les Kurbas"
 summary: "He acted and directed under Kurbas, then spent thirty years at the head of Ukrainian theaters in Odesa, Kharkiv, Donetsk, Lviv and Chernivtsi. Vasyl Vasylko helped found the theater museum in Kyiv, and today Odesa’s Ukrainian Music and Drama Theater bears his name."
 fun_fact: "Vasylko was a stage name. The director’s real surname was Myliaiev."
+image_alt: "Vasyl Vasylko, smiling, in a dark suit and navy tie, leaning on the back of a wooden chair"
 key_accomplishments:
   - "Actor, director and teacher at Les Kurbas’s Berezil (1922–1926)"
   - "Directing debut: After Two Hares, after Mykhailo Starytskyi (1925)"

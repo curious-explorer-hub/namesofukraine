@@ -11,7 +11,7 @@ key_accomplishments:
   - "Memoir In the Carnival of History (1976) and the study Taras Shevchenko’s Exodus (1986)"
   - "Order for Courage, 1st class (2006)"
 birthplace_name: "Naryn (Kyrgyzstan)"
-image_alt: "Leonid Pliushch in old age, in a denim shirt, sitting in a garden under a tree, Bessèges, 2013"
+image_alt: "Leonid Pliushch, balding, with a slight smile, in a navy jacket, light blue shirt and patterned tie, photo portrait"
 ---
 
 ## Why the world’s mathematicians spoke up for him
