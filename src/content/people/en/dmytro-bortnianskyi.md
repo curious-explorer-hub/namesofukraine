@@ -19,7 +19,7 @@ image_alt: "Dmytro Bortnianskyi in a powdered wig and dark coat, an oil portrait
 
 ## A voice from Hlukhiv
 
-Dmytro Bortnianskyi was born in 1751 in Hlukhiv, in the Cossack Hetmanate. He learned to sing at the Hlukhiv singing school and went on from there to the court choir in St Petersburg. An older singer from the same town, [Maksym Berezovskyi](/en/people/maksym-berezovskyi/), had taken the same road.
+Where did the name Bortnianskyi come from? By tradition, the composer's father, Stefan Shkurat, came from the Lemko village of Bortne and moved to the Cossack Hetmanate so that he would not be made Catholic. He took his new surname in memory of his home village. Dmytro was born in Hlukhiv in 1751 and learned to sing at the Hlukhiv singing school. In the summer of 1758, aged seven, the boy with the strong treble voice was picked as one of the ten most gifted children and taken to the court choir in St Petersburg. He never saw his parents or the Hetmanate again. An older singer from the same town, [Maksym Berezovskyi](/en/people/maksym-berezovskyi/), had taken the same road.
 
 ## Ten years in Italy
 
@@ -27,7 +27,7 @@ In 1769 the young man was sent to Italy to study with the Venetian composer Bald
 
 ## Master of the choir
 
-Back from Italy in 1779, Bortnianskyi became kapellmeister at the court of the heir to the throne in Gatchina and Pavlovsk, where he wrote songs and operas in French. In 1796 he took charge of the court choir and raised it to a high standard. He wrote more than a hundred choral works, sacred and secular. In them he joined the old traditions of Ukrainian choral singing with the European music of his day, and he made wide use of Ukrainian folk melodies. Bortnianskyi died in St Petersburg in 1825.
+Back from Italy in 1779, Bortnianskyi became kapellmeister at the court of the heir to the throne in Gatchina and Pavlovsk, where he wrote songs and operas in French. His Concerto-Symphony of 1790 was long considered the first symphonic work composed in the Russian Empire. In 1796 he took charge of the court choir, whose singers were mostly Ukrainians, and raised it to a high standard. He wrote more than a hundred choral works, sacred and secular. In them he joined the old traditions of Ukrainian choral singing with the European music of his day, and he made wide use of Ukrainian folk melodies. Bortnianskyi died in St Petersburg in 1825. One of his tunes lives on: in the 19th century Prussian soldiers took it for the prayer "Ich bete an die Macht der Liebe" ("I worship the power of love"), which is still played at the German army's solemn ceremony, the Großer Zapfenstreich.
 
 ## The opera that came back from Lisbon
 

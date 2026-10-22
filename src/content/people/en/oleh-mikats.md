@@ -21,11 +21,11 @@ quotes:
 
 When Oleh Mikats was made a major general in August 2015, he became the first Ukrainian general who had never served in the Soviet army. He received the rank on Independence Day.
 
-Mikats comes from Novohrad-Volynskyi, in the Zhytomyr region. He joined the Armed Forces of Ukraine in 1992 and graduated from the Kharkiv Higher Tank Command School in 1996. At 29 he served with the Ukrainian peacekeeping contingent in Iraq. In the summer of 2013 he was given command of the 93rd Separate Mechanized Brigade.
+Mikats comes from Novohrad-Volynskyi, in the Zhytomyr region. As a teenager he attended a School of Young Paratroopers that Afghan war veterans set up in his hometown. He joined the Armed Forces of Ukraine in 1992: he spent two years at the Odesa Combined Arms School and graduated from the Kharkiv Higher Tank Command School in 1996. At 29 he served with the Ukrainian peacekeeping contingent in Iraq: the Ukrainians were part of a Polish division and operated in Wasit province near the city of Al-Kut, on the border with Iran. In the summer of 2013 he was given command of the 93rd Separate Mechanized Brigade.
 
 ## "I led the defense"
 
-When war broke out in the east in 2014, Mikats's brigade fought pro-Russian armed groups and Russian troops. On 24 July its units took Pisky and Pervomaiske, giving Ukrainian forces control of the road between Donetsk and Dnipropetrovsk.
+When war broke out in the east in 2014, Mikats's brigade fought pro-Russian armed groups and Russian troops. On 13 June, near Dobropillia, the brigade came under fire from Grad rocket launchers for the first time. Its soldiers captured one of the vehicles, a BM-21-M1, which the enemy abandoned as it retreated. "Ukraine didn't even have a vehicle like that in service," Mikats said. On 24 July its units took Pisky and Pervomaiske, giving Ukrainian forces control of the road between Donetsk and Dnipropetrovsk.
 
 From September 2014, Mikats led the defense of Donetsk airport. His brigade's positions stretched for more than 30 kilometers. "I wasn't defending the airport - I was leading its defense," he later explained. The militant commander "Givi" got hold of his phone number and kept threatening him, demanding that the Ukrainians leave the airport. Mikats organized the defense of the airport, whose defenders became known as the "cyborgs," almost to the very end.
 
