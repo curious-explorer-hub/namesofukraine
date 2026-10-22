@@ -53,11 +53,11 @@ Per person, a heading with the name and the profile link, then:
 |---|---|---|---|---|---|---|
 
 - **Source:** the link, and the supporting sentence quoted in the original language.
-- After the table: **Conflicts with the profile** (if any), and **Source limits**: whether using a fact would add a source beyond 4, or a second one from the same website.
+- After the table: **Conflicts with the profile** (if any), and **Source limits**: whether using a fact would add a second source from the same website.
 - End with the question of which facts to add.
 
 - Set `last_reviewed:` in the uk file to today's date (the page shows it as «Станом на …» / "As of …"): the facts were checked against sources today. This is the only edit before the owner picks facts.
 
 ## 7. When the owner picks facts
 
-Apply only those; when the owner asks to *enrich* the profiles (or to add all high-confidence facts), apply every high-confidence fact and fix the conflicts the sources settle, without asking first. Follow AGENTS.md: both languages; the source added to `sources:` (at most 4 per profile, one per website; say so if a pick breaks this); profile prose never names the encyclopedia or outlet («вважають» / "is believed"); " - " for dashes in Ukrainian; role ≤ 40 and summary ≤ 300 characters. Show the changes as Before/After tables. Don't commit unless asked.
+Apply only those; when the owner asks to *enrich* the profiles (or to add all high-confidence facts), apply every high-confidence fact and fix the conflicts the sources settle, without asking first. Follow AGENTS.md: both languages; the source added to `sources:` (one per website; say so if a pick breaks this); profile prose never names the encyclopedia or outlet («вважають» / "is believed"); " - " for dashes in Ukrainian; role ≤ 40 and summary ≤ 300 characters. Show the changes as Before/After tables. Don't commit unless asked.

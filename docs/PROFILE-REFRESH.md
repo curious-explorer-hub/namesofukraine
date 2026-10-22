@@ -21,7 +21,7 @@ Not a refresh: style rewrites, new sections, or facts that were already true whe
 
 ## How to update a profile
 
-- **Same rules as a new profile** (AGENTS.md, «Content rules»; product_vision.md §7): every new fact backed by a listed source; at most 4 sources, one per site; no Russian sources; no invented numbers or quotes. If a new fact needs a new source and the list is full, replace the weakest one only if every remaining fact is still covered.
+- **Same rules as a new profile** (AGENTS.md, «Content rules»; product_vision.md §7): every new fact backed by a listed source; one source per site (add as many as the new facts need); no Russian sources; no invented numbers or quotes.
 - **Both languages:** facts in `uk/<slug>.md`, the same change in the text of `en/<slug>.md`.
 - **Where it goes:** a major achievement goes into `key_accomplishments` and a sentence in the matching story section; update `summary` or `role` only if the change is that big (limits: role ≤ 40, summary ≤ 300 characters). Don't touch `published`.
 - **Timestamp:** set `last_reviewed` to today's date (UTC, `YYYY-MM-DD`) **only on profiles that changed**. It shows on every profile, in the sources section, as «Станом на» / "As of": the date facts were last checked. Unchanged profiles keep their date.

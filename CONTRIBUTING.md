@@ -14,7 +14,7 @@ Thank you for helping «Знай своїх» / Know Your Own. The site is a non
 ## Principles
 
 1. **Everything goes through a pull request.** Nobody pushes to `main` except the owner. A push to `main` publishes the site within minutes, so every outside change is reviewed first.
-2. **Facts need sources.** Every fact is backed by a reputable source, at least one of them an encyclopedia; Wikipedia alone is never enough. Russian sources (Russian media, publishers, institutions, `.ru` sites) are never used. A profile lists at most 4 sources, one per website ([product_vision.md](product_vision.md) §7).
+2. **Facts need sources.** Every fact is backed by a reputable source, at least one of them an encyclopedia; Wikipedia alone is never enough. Russian sources (Russian media, publishers, institutions, `.ru` sites) are never used. A profile lists as many sources as its facts need, one per website ([product_vision.md](product_vision.md) §7).
 3. **Neutral, short and engaging.** Write for a curious reader of any age: what the person did and why it matters, not every date and office.
 4. **Both languages.** Ukrainian holds the facts; English mirrors the text. A profile goes live only when the owner approves it.
 5. **Respect people.** Living people: public role only. Fallen defenders: public service and deeds; nothing private or graphic.

@@ -95,7 +95,7 @@ It must be the **last section**, always («Дискусії та оцінки»,
 - **Tone follows the subject.** Deaths, wars, repressions, the fallen and their families: plain and respectful, no playful hooks about the death itself. Contested people: the debates section stays neutral; hooks never take a side.
 - **Fallen defenders:** hooks come from their life and service (a call sign, a first, a choice they made), never from their death or the fighting. The death gets one plain sentence with the full name, place and age. The story ends on what their service gave: what they held, whom they saved, what they showed others; how they are remembered gets one sentence at most. No battle drama, no graphic detail, nothing private about the family.
 - **Living people:** public role only, as always.
-- **Limits stay:** role ≤ 40 characters, summary ≤ 300, at most 4 sources (§7.3).
+- **Limits stay:** role ≤ 40 characters, summary ≤ 300, one source per website (§7.3).
 
 ## Profile fields
 
