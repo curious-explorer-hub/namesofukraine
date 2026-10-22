@@ -18,11 +18,11 @@ quotes:
 
 ## “And who are you?”
 
-An art institute in Leningrad. A Czech classmate asks Panas what nationality he is, what his art is, and whether he is Russian. “No, I’m Ukrainian,” he says. And what can he tell her about Ukrainian art? Nothing. Opanas Zalyvakha was born in 1925 in the village of Husynka in the Kharkiv region, but in 1933, the years of the Holodomor, the man-made famine, his family moved to the Soviet Far East. He spent more than 30 years in Russia and had forgotten many Ukrainian words, or never known them.
+An art institute in Leningrad. A Czech classmate asks Panas what nationality he is, what his art is, and whether he is Russian. “No, I’m Ukrainian,” he says. And what can he tell her about Ukrainian art? Nothing. Opanas Zalyvakha was born in 1925 in the village of Husynka in the Kharkiv region, but in 1933, the years of the Holodomor, the man-made famine, his family moved to the Soviet Far East. There even his birthday, 26 November, was written down by an army draft office: they examined the young conscript and “set” the date. He spent nearly 30 years in Russia and had forgotten many Ukrainian words, or never known them.
 
 ## A dictation on the floor
 
-The institute expelled him in 1947 for “behaviour unworthy of a Soviet student”, and he only graduated in 1960. On a work placement in Kosiv, in the Hutsul highlands, Zalyvakha saw living Ukrainian village life for the first time, and in 1961 he moved to Ivano-Frankivsk.
+The institute expelled him in 1947 for “behaviour unworthy of a Soviet student”: with a few other students, he had skipped a meeting with a candidate for the Supreme Soviet. He only graduated in 1960, and his diploma said just that: entered 1946, graduated 1960. “Fourteen years of study!” the painter joked. On a work placement in Kosiv, in the Hutsul highlands, Zalyvakha saw living Ukrainian village life for the first time, and in 1961 he moved to Ivano-Frankivsk.
 
 In Kyiv he painted in [Alla Horska](/en/people/alla-horska/)’s studio, while [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/) handed him one book after another. He met [Ivan Dziuba](/en/people/ivan-dziuba/) in a hospital garden, where Dziuba sat over a pile of books by Lesia Ukrainka. Zalyvakha learned Ukrainian with a notebook for new words, and in Horska’s studio Nadiia Svitlychna read dictations to the friends. He was 35, the oldest in that “class”.
 
@@ -32,10 +32,10 @@ For Shevchenko’s 150th anniversary in 1964, Zalyvakha, Horska, [Liudmyla Semyk
 
 ## “Hold on, Panas”
 
-Officers came to search Zalyvakha’s home on 28 August 1965. Halfway through, Svitlychnyi rang the doorbell, and both were taken away. As they parted, Svitlychnyi told him: “Hold on, Panas.” In March 1966 a closed court sentenced Zalyvakha to five years in a strict-regime camp for “anti-Soviet agitation and propaganda”. In the camp in Mordovia he secretly made bookplates, greeting cards and posters of Shevchenko.
+Officers came to search Zalyvakha’s home on 28 August 1965. Halfway through, Svitlychnyi rang the doorbell, and both were taken away. As they parted, Svitlychnyi told him: “Hold on, Panas.” Among the things taken was a notebook in which Zalyvakha had copied a poem by Shevchenko. The experts in Lviv did not recognise it, and the verdict called it “a poem by an unknown author of anti-Soviet content”. In March 1966 a closed court sentenced Zalyvakha to five years in a strict-regime camp for “anti-Soviet agitation and propaganda”. In the camp in Mordovia he secretly made bookplates, greeting cards and posters of Shevchenko, and painted a portrait of the Latvian poet and fellow prisoner Knuts Skujenieks.
 
 In 1970 friends, Horska among them, welcomed him back in Kyiv. In Ivano-Frankivsk he was made to work as a labourer, but kept painting.
 
 ## Why it matters today
 
-Opanas Zalyvakha showed that it is never too late to find your way back to your roots: he spent more than 30 years in Russia, and at 35 he sat down with friends for a dictation and learned the language again. He gave his art to Ukrainian history and faith, and neither the sentence nor the camp made him put down his brush. Anyone just starting to look for what is theirs can take heart: you can begin at any age.
+Opanas Zalyvakha showed that it is never too late to find your way back to your roots: he spent nearly 30 years in Russia, and at 35 he sat down with friends for a dictation and learned the language again. He gave his art to Ukrainian history and faith, and neither the sentence nor the camp made him put down his brush. In 2017 a bronze monument was unveiled on Nezalezhnosti Street in Ivano-Frankivsk, where he used to walk: the painter sits on a bench at his easel. Anyone just starting to look for what is theirs can take heart: you can begin at any age.

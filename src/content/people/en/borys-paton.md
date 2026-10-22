@@ -21,7 +21,7 @@ quotes:
 
 ## Welding that helped win a war
 
-Borys Paton was born in 1918 in Kyiv into the family of [Yevhen Paton](/en/people/yevhen-paton/), the scientist after whom the Institute of Electric Welding was later named. In 1941 he graduated from the Kyiv Industrial Institute (now the Kyiv Polytechnic Institute) and became an engineer at the Krasnoye Sormovo plant in the city of Gorky. From 1942 Paton worked at the Institute of Electric Welding, which had been evacuated to Nizhny Tagil, and helped introduce automatic welding of tank armor.
+Borys Paton was born in 1918 in Kyiv into the family of [Yevhen Paton](/en/people/yevhen-paton/), the scientist after whom the Institute of Electric Welding was later named. In 1941 he graduated from the Kyiv Industrial Institute (now the Kyiv Polytechnic Institute): the war began on the very day he defended his diploma, and he made his way home during a bombing raid. He then became an engineer at the Krasnoye Sormovo plant in the city of Gorky. From 1942 Paton worked at the Institute of Electric Welding, which had been evacuated to Nizhny Tagil, and helped introduce automatic welding of tank armor. In his words, the plant where the institute’s scientists worked went from three tanks a day to 35.
 
 ## How do you weld metal in space?
 
@@ -29,7 +29,7 @@ Electroslag welding, which Paton created in 1949 with H. Voloshkevych, is a way 
 
 ## 58 years at the head of the Academy
 
-Paton was elected president of the Academy of Sciences of the Ukrainian SSR (from 1994 the National Academy of Sciences of Ukraine) in 1962. He headed it for 58 years, until his death in 2020. In independent Ukraine he was made a Hero of Ukraine (1998). After 1991, despite sharp cuts in funding, he is considered to have preserved the Academy’s main scientific schools.
+Paton was exactly as old as the Academy: he was born on 27 November 1918, the very day the founding meeting of the Ukrainian Academy of Sciences elected [Volodymyr Vernadskyi](/en/people/volodymyr-vernadskyi/) its first president. Paton was elected president of the Academy of Sciences of the Ukrainian SSR (from 1994 the National Academy of Sciences of Ukraine) in 1962. He headed it for 58 years, until his death in 2020. In the 1970s he was offered the presidency of the USSR Academy of Sciences in Moscow, to replace the ailing Mstislav Keldysh. Even when told it was Brezhnev’s “personal initiative”, he refused, believing his place was in Kyiv. Before the disaster, the Academy under his direction assessed the possible harm to the environment, society and the economy of building a nuclear plant near Chornobyl and reported it to the Soviet leadership. After the 1986 disaster its institutes worked on the clean-up from the very first days. In independent Ukraine Paton was the first person ever made a Hero of Ukraine (1998). After 1991, despite sharp cuts in funding, he is considered to have preserved the Academy’s main scientific schools.
 
 ## Why it matters today
 
