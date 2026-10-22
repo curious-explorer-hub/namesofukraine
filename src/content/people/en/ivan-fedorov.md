@@ -24,7 +24,7 @@ At first Fedorov worked on the estate of Hetman Hryhorii Khodkevych in Zabłudó
 
 ## The Ostroh Bible
 
-Prince Kostiantyn Vasyl Ostrozkyi invited Fedorov into his service: in 1575 he ran the Derman Monastery, and then he set up a press in Ostroh. It published the Azbuka (1578), the New Testament (1580) and the Ostroh Bible (1581), the first full edition of the Bible in Church Slavonic and a masterpiece of printing.
+Prince [Kostiantyn Vasyl Ostrozkyi](/en/people/kostiantyn-vasyl-ostrozkyi/) invited Fedorov into his service: in 1575 he ran the Derman Monastery, and then he set up a press in Ostroh. It published the Azbuka (1578), the New Testament (1580) and the Ostroh Bible (1581), the first full edition of the Bible in Church Slavonic and a masterpiece of printing.
 
 ## Back to Lviv
 

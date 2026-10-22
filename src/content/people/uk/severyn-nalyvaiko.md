@@ -39,14 +39,14 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CA%5CNalyvaikoSeveryn.htm"
   - title: "Читомо - Микола Вінграновський: поет у поезії, у прозі, у житті (Василь Слапчук, 2023)"
     url: "https://chytomo.com/mykola-vinhranovskyj-poet-u-poezii-u-prozi-u-zhytti/"
-related: [taras-shevchenko, mykola-vinhranovskyi]
+related: [taras-shevchenko, mykola-vinhranovskyi, kostiantyn-vasyl-ostrozkyi]
 status: approved
 published: 2026-10-12T23:52:54Z
 ---
 
 ## Від служби князю до власного війська
 
-Про молодість Северина Наливайка відомо мало. Він народився, імовірно, близько 1560 року в Гусятині на Поділлі або в Острозі. Змолоду козакував на Запоріжжі, а потім служив сотником у приватному війську князя Костянтина-Василя Острозького. Історики знають його і під ім'ям Семерій.
+Про молодість Северина Наливайка відомо мало. Він народився, імовірно, близько 1560 року в Гусятині на Поділлі або в Острозі. Змолоду козакував на Запоріжжі, а потім служив сотником у приватному війську князя [Костянтина-Василя Острозького](/uk/people/kostiantyn-vasyl-ostrozkyi/). Історики знають його і під ім'ям Семерій.
 
 ## Проти турків і татар
 

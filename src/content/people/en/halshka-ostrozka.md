@@ -22,7 +22,7 @@ Halshka (baptized Elizabeth) was born in the autumn of 1539 to Prince Illia Ostr
 
 ## Three marriages
 
-In September 1553 her uncle, Prince Vasyl-Kostiantyn Ostrozkyi, stormed Ostroh castle and married his very young niece to Prince Dmytro Sanhushko. Halshka’s mother, Beata, complained to the king; Sanhushko was declared an outlaw and fled with his wife to Bohemia, but he was caught there and killed in 1554. In 1555, pressed by King Sigismund II Augustus, Halshka was married to the voivode Łukasz Górka without her mother’s blessing. Beata hid her daughter in the Dominican monastery in Lviv, and in March 1559 married her to Prince Semen Slutskyi. Within weeks a royal order handed Halshka back to Górka.
+In September 1553 her uncle, Prince [Vasyl-Kostiantyn Ostrozkyi](/en/people/kostiantyn-vasyl-ostrozkyi/), stormed Ostroh castle and married his very young niece to Prince Dmytro Sanhushko. Halshka’s mother, Beata, complained to the king; Sanhushko was declared an outlaw and fled with his wife to Bohemia, but he was caught there and killed in 1554. In 1555, pressed by King Sigismund II Augustus, Halshka was married to the voivode Łukasz Górka without her mother’s blessing. Beata hid her daughter in the Dominican monastery in Lviv, and in March 1559 married her to Prince Semen Slutskyi. Within weeks a royal order handed Halshka back to Górka.
 
 ## The tower at Szamotuły
 

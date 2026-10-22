@@ -15,7 +15,7 @@ image_alt: "Imagined portrait of Severyn Nalyvaiko holding a mace, in chain mail
 
 ## From a prince’s service to an army of his own
 
-Little is known about Severyn Nalyvaiko’s early life. He was probably born around 1560, in Husiatyn in Podillia or in Ostroh. As a young man he joined the Cossacks in Zaporizhzhia, then served as a captain in the private army of Prince Kostiantyn-Vasyl Ostrozkyi. Historians also know him as Semerii.
+Little is known about Severyn Nalyvaiko’s early life. He was probably born around 1560, in Husiatyn in Podillia or in Ostroh. As a young man he joined the Cossacks in Zaporizhzhia, then served as a captain in the private army of Prince [Kostiantyn-Vasyl Ostrozkyi](/en/people/kostiantyn-vasyl-ostrozkyi/). Historians also know him as Semerii.
 
 ## Against the Turks and the Tatars
 
