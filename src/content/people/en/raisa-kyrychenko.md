@@ -18,15 +18,17 @@ quotes:
 
 ## From a factory choir to the big stage
 
-Raisa Korzh was born in 1943 in the village of Koreshchyna in the Poltava region. At school in the neighboring village of Zemlianky she was the choir’s soloist. Then she worked at the Kremenchuk car factory. She sang at a district amateur arts show, and after that she was taken on as a singer in the factory’s folk choir.
+Raisa Korzh was born in 1943 in the village of Koreshchyna in the Poltava region. As a girl she would take her father’s harmonica, climb the cherry tree and play and sing loud enough for the whole village to hear. At school in the neighboring village of Zemlianky she was the choir’s soloist. Then she worked at the Kremenchuk car factory. She sang at a district amateur arts show, and after that she was taken on as a singer in the factory’s folk choir.
 
 ## The voice of the Cherkasy choir
 
-Raisa joined the ensemble Veselka at the Poltava Philharmonic in 1962, then sang with the ensemble Lonok in Zhytomyr. For fifteen years, from 1968 to 1983, she was a soloist of the Cherkasy Folk Choir. Later she returned to the Poltava Philharmonic, where the ensemble Churaivna was created on her initiative. Kyrychenko earned her diploma as a choral conductor when she was already famous, in 1989, and later taught singing herself at the Poltava music college.
+Raisa joined the ensemble Veselka at the Poltava Philharmonic in 1962, then sang with the ensemble Lonok in Zhytomyr. For fifteen years, from 1968 to 1983, she was a soloist of the Cherkasy Folk Choir. Then she spent two years singing with the ensemble Rosava at the Cherkasy Philharmonic, and later she returned to the Poltava Philharmonic, where the ensemble Churaivna was created on her initiative. Kyrychenko earned her diploma as a choral conductor when she was already famous, in 1989, and later taught singing herself at the Poltava music college.
 
 ## “Quiet Water” and “Two Colors”
 
-She sang folk songs such as “Quiet Water” and “Oh, I Am Pretty”, and songs by modern composers: Anatolii Pashkevych’s “The White Cottage” and “Mother’s Cherry Tree”, and Oleksandr Bilash’s “Two Colors” and “The Sycamore and Its Mate” to lyrics by Dmytro Pavlychko. She toured Canada, the United States, Australia, Algeria, Tunisia and other countries. She won the Shevchenko Prize in 1986 and was named a Hero of Ukraine in 2003. Raisa Kyrychenko died in Kyiv in 2005 and was buried in her native village.
+She sang folk songs such as “Quiet Water” and “Oh, I Am Pretty”, and songs by modern composers: Anatolii Pashkevych’s “The White Cottage” and “Mother’s Cherry Tree”, and Oleksandr Bilash’s “Two Colors” and “The Sycamore and Its Mate” to lyrics by Dmytro Pavlychko. One of her best-known songs is “I Am Your Cossack Woman”. It was written in spring 1990 by a campfire on the bank of the Desna, during a hike along old Cossack routes: a teacher, Nadiia Halkovska, wrote the lyrics, the composer Mykola Zbaratskyi wrote the music, and Anatolii Pashkevych offered the song to Kyrychenko. It was first heard on New Year’s night, 1 January 1991, on the UT-1 TV channel.
+
+She toured Canada, the United States, Australia, Algeria, Tunisia and other countries. She won the Shevchenko Prize in 1986, and in 1999–2001 she herself sat on the committee that awards it. In the 1990s she fell seriously ill. While she was being treated in Germany, the doctors suggested she take German citizenship so that she could have an operation, but she refused. Once she was back on stage, Kyrychenko also took up public work: at her request a church was built, a village club was restored, a kindergarten was opened and several villages were connected to gas. In 2003 she was named a Hero of Ukraine. Raisa Kyrychenko died in Kyiv in 2005 and was buried in her native village.
 
 ## Why it matters today
 

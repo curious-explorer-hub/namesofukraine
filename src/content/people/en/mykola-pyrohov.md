@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykola-pyrohov.md
 name: "Mykola Pyrohov"
 role: "Founder of military field surgery"
-summary: "To see how the organs sit inside the body, he sawed frozen bodies like blocks of ice. Mykola Pyrohov, a surgeon born in Moscow, was the first to operate under ether in a field hospital, ran the schools of Kyiv, and spent his last 20 years living and treating patients near Vinnytsia."
+summary: "To see how the organs sit inside the body, he sawed frozen bodies like blocks of ice. Mykola Pyrohov, a surgeon born in Moscow, was the first to operate under ether in a field hospital, ran the schools of Kyiv, and from 1861 lived and treated patients near Vinnytsia."
 fun_fact: "In 1862 Pyrohov was asked to examine the wounded Giuseppe Garibaldi: he worked out what kind of wound it was and advised how to treat it."
 key_accomplishments:
   - "The first to use ether anaesthesia for operations in a military field hospital (1847)"
@@ -16,7 +16,7 @@ image_alt: "Portrait of Mykola Pyrohov by Ilya Repin, 1881"
 
 ## Anatomy made of ice
 
-Mykola Pyrohov was born in 1810 in Moscow, into the family of a military official. At 14 he became a medical student at Moscow University, and in 1832 he defended his doctoral thesis in Dorpat (now Tartu in Estonia). He went on to teach surgery in Dorpat and at the Medical and Surgical Academy in Saint Petersburg.
+Mykola Pyrohov was born in 1810 in Moscow, into the family of a military official. At 14 he became a medical student at Moscow University, and in 1832 he defended his doctoral thesis in Dorpat (now Tartu in Estonia). He went on to teach surgery in Dorpat and at the Medical and Surgical Academy in Saint Petersburg. In place of the usual way of grading medical students, Pyrohov brought in a two-mark system that gave a clear answer: could this person treat patients or not.
 
 A surgeon has to know exactly where every organ lies. To show it, Pyrohov sawed frozen bodies in three directions and drew the cuts. The result was a four-volume atlas, Topographic Anatomy of Frozen Sections of the Human Body (1851–1859), which won him the Great Demidov Prize.
 
@@ -34,7 +34,7 @@ In 1859 Pyrohov helped open Sunday schools for adults in Kyiv and supported teac
 
 ## The doctor of Vyshnia
 
-After Kyiv, Pyrohov settled on his estate of Vyshnia near Vinnytsia (now inside the city). He built a hospital and a pharmacy there and treated the sick who came to him. He spent 1862–1866 in Germany, guiding young scholars preparing for professorships, and later advised the army during the Franco-Prussian and Russo-Turkish wars.
+After Kyiv, Pyrohov settled on his estate of Vyshnia near Vinnytsia (now inside the city). He built a hospital and a pharmacy there and treated the sick who came to him. He spent 1862–1866 in Heidelberg, Germany, mentoring 30 young scholars being prepared for professorships, and later advised the army during the Franco-Prussian and Russo-Turkish wars.
 
 In 1881 Moscow marked 50 years of his work with a grand celebration, and that year [Ilya Repin](/en/people/illia-riepin/) painted his portrait. Pyrohov died at Vyshnia on 5 December 1881. His body was embalmed and laid in a crypt, over which a church was built in 1885.
 

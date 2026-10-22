@@ -1,6 +1,6 @@
 ---
 # English text only; facts (dates, places, group, sources, image) live in ../uk/serhii-bubka.md
-name: "Sergey Bubka"
+name: "Serhii Bubka"
 role: "Pole vaulter, 35 world records"
 summary: "Until 1985 no pole vaulter in the world had cleared 6 metres. Serhii Bubka did it first, went on to break world records 35 times and won six World Championships in a row. He later headed the National Olympic Committee of Ukraine (2005–2022)."
 fun_fact: "A monument to Serhii Bubka was put up in Donetsk as early as 1999."
@@ -19,13 +19,15 @@ gallery:
 
 ## Six metres
 
-No pole vaulter in the world had cleared 6 metres until Serhii Bubka did it in Paris on 13 June 1985. He went on to set world records 35 times: 17 outdoors (best 6.14 m, Sestriere, 1994) and 18 indoors (6.15 m, Donetsk, 1993). Both records stood for more than 20 years. His name went into the Guinness Book of Records for the most world records in athletics.
+No pole vaulter in the world had cleared 6 metres until Serhii Bubka did it in Paris on 13 July 1985. He hadn't even planned to compete there: he was passing through Paris on his way to a meet in Nice and decided to jump only that morning. He won the competition at 5.70 m and, instead of his usual 5.90, went straight to 6 metres. He missed his first two attempts and cleared the bar on his last. The French compared the jump to Gagarin's flight into space. That same year Bubka was named the best athlete in the world.
+
+He called 13 his lucky number: four of his world records, the 6 metres among them, fell on the 13th, and in Donetsk he lived on the 13th floor for many years. In all he set world records 35 times: 17 outdoors (best 6.14 m, Sestriere, 1994; that record won him a Ferrari worth about 120,000 dollars) and 18 indoors (6.15 m, Donetsk, 1993). Both records stood for more than 20 years. From 1990 Donetsk also hosted the Pole Vault Stars international meet, which Bubka helped to found; it was not held from 2015. His name went into the Guinness Book of Records for the most world records in athletics.
 
 ## Six gold medals
 
 Bubka was born in 1963 in Luhansk. He took up the pole vault in 1973 in his home town under coach Vitalii Petrov, and from 1979 he trained in Donetsk. In 1983, aged 19, he won the first-ever World Athletics Championships as an outsider, and then five more in a row, through 1997. No other athlete has won six world titles in the same individual event.
 
-The Olympics were less kind. In 1988 in Seoul Bubka became Olympic champion, but in 1984 the USSR boycotted the Games, in 1992 his tactics let him down, and in 1996 and 2000 injuries got in the way. In 2001 he was made a Hero of Ukraine.
+The Olympics were less kind. In 1988 in Seoul Bubka became Olympic champion, but in 1984 the USSR boycotted the Games, in 1992 his tactics let him down, and in 1996 and 2000 injuries got in the way. In 2001 he became the first athlete to be made a Hero of Ukraine.
 
 ## After the sport
 

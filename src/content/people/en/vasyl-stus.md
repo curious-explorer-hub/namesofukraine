@@ -6,7 +6,7 @@ summary: "The KGB seized and destroyed more than 600 of his poems, and he kept w
 fun_fact: "Stus’s first collection, Winter Trees, came out not in Ukraine but in Brussels in 1970: at home it had been dropped from the publisher’s plan."
 misconception:
   claim: "The official version is that Stus died of natural causes, from heart failure, in a punishment cell."
-  truth: "The circumstances of his death remain disputed: according to fellow camp inmates, Stus had declared a hunger strike in protest and was left in the punishment cell without proper medical care despite a known heart condition. There is no conclusive documentary proof of deliberate killing, but the “simple natural death” version is an oversimplification."
+  truth: "The circumstances of his death remain disputed: Stus was put in the punishment cell supposedly for leaning on the plank bed while reading a book, and according to fellow camp inmates, he had declared a dry hunger strike in protest and was left in the punishment cell without proper medical care despite a known heart condition. There is no conclusive documentary proof of deliberate killing, but the “simple natural death” version is an oversimplification."
 key_accomplishments:
   - "The collections Winter Trees, A Candle in a Candle-Mirror and Palimpsests"
   - "Public protest against the arrests of Ukrainian intellectuals (1965)"
@@ -24,15 +24,15 @@ gallery:
 
 ## 600 poems we will never read
 
-While Stus was in exile in 1976, more than 600 of his poems were seized, along with his translations of Goethe, Rilke, Kipling and Baudelaire. All of it was destroyed. He kept writing, and some of his poems were still smuggled out.
+In the camp in 1976, more than 600 of Stus’s poems were seized, along with his translations of Goethe, Rilke, Kipling and Baudelaire. All of it was destroyed. He kept writing, and some of his poems were still smuggled out.
 
 ## A protest at the Ukraina cinema
 
-Vasyl Stus was born in 1938 in the Vinnytsia region and grew up in the Donbas. He graduated from the pedagogical institute in Donetsk, worked as a teacher, and in 1963 began postgraduate studies at the Institute of Literature in Kyiv. On 4 September 1965, before the premiere of the film Shadows of Forgotten Ancestors at the Ukraina cinema in Kyiv, he backed [Ivan Dziuba](/en/people/ivan-dziuba/)’s protest against the arrests of Ukrainian intellectuals. Two weeks later he was expelled from his postgraduate program, and his poems stopped being published.
+Vasyl Stus was born on Ukrainian Christmas Eve, 6 January 1938, in the Vinnytsia region and grew up in the Donbas. He graduated from the pedagogical institute in Donetsk, worked as a teacher, spent a week underground at the Oktiabrska coal mine in Donetsk in the spring of 1963, and that autumn began postgraduate studies at the Institute of Literature in Kyiv. On 4 September 1965, before the premiere of the film Shadows of Forgotten Ancestors at the Ukraina cinema in Kyiv, he backed [Ivan Dziuba](/en/people/ivan-dziuba/)’s protest against the arrests of Ukrainian intellectuals. Two weeks later he was expelled from his postgraduate program, and his poems stopped being published. The title of his first collection, Winter Trees, came from a walk in the Sviatoshyn forest in the winter of 1965–66: the bare, frost-covered trees seemed to him an image of what poetry should be, nothing extra, only the essence.
 
 ## Two sentences
 
-Stus was arrested for “anti-Soviet agitation” in 1972: 5 years in camps and 3 years of exile. In 1979 he returned to Kyiv and joined the Ukrainian Helsinki Group, and in 1980 he received a new sentence: 10 years in camps and 5 years of exile. Even in captivity he wrote poems and translated Rilke and Goethe; Palimpsests took shape mostly there. In 1985 the Ukrainian diaspora tried to put him forward for the Nobel Prize in Literature. On the night of 3–4 September 1985 Vasyl Stus died in a punishment cell of the special-regime camp Perm-36 in the village of Kuchino. He was 47.
+Stus was arrested for “anti-Soviet agitation” in 1972: 5 years in camps and 3 years of exile. In captivity he twice renounced his Soviet citizenship, the first time in 1975: “To be a Soviet citizen means to be a slave.” In exile in the Magadan region he worked in a gold mine, first as an apprentice tunneller, then as a scraper operator. In 1979 he returned to Kyiv and joined the Ukrainian Helsinki Group, and in 1980 he received a new sentence: 10 years in camps and 5 years of exile. Even in captivity he wrote poems and translated Rilke and Goethe; Palimpsests took shape mostly there. His last book, Bird of the Soul, about 300 unrhymed poems and as many translations, was never returned: his family was officially told the manuscripts were destroyed when the camp closed. In 1985 he was reportedly nominated for the Nobel Prize in Literature; Heinrich Böll is named as the nominator. On the night of 3–4 September 1985 Vasyl Stus died in a punishment cell of the special-regime camp Perm-36 in the village of Kuchino. He was 47.
 
 ## How he came back
 

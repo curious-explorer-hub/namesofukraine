@@ -3,7 +3,7 @@
 name: "Andrii Pilshchykov"
 role: "Fighter pilot, “Juice”"
 summary: "A boy who photographed planes as a teenager grew up to fly MiG-29s and defend the sky over Kyiv. Andrii Pilshchykov, call sign “Juice”, lobbied US senators to give Ukraine F-16s. Killed in 2023; Hero of Ukraine (posthumously)."
-fun_fact: "He got the call sign “Juice” at the international Clear Sky 2018 exercise: he never ordered alcohol, only juice."
+fun_fact: "American pilots gave him the call sign “Juice” because he never ordered alcohol, only juice."
 misconception:
   claim: "Andrii Pilshchykov was the legendary “Ghost of Kyiv”, a lone pilot shooting down Russian aircraft over the capital."
   truth: "The “Ghost of Kyiv” is a collective image. On 30 April 2022 the Air Force Command explained that it stands for the pilots of the 40th Tactical Aviation Brigade who defend the capital’s sky, not for one person. Pilshchykov himself stressed that the “Ghost of Kyiv” was the whole brigade: “we were just doing our job.”"
@@ -21,17 +21,17 @@ quotes:
 
 ## The boy who photographed planes
 
-Andrii Pilshchykov was born in 1993 in Kharkiv and dreamed of flying from childhood. As a teenager he photographed aircraft and helped found the plane-spotting movement in his home city. To get into the Ivan Kozhedub Kharkiv National University of the Air Force he first had to have his eyesight corrected. After graduating he flew MiG-29 fighters with the 40th Tactical Aviation Brigade, and in 2018, at the Clear Sky exercise, he got the call sign “Juice.”
+Andrii Pilshchykov was born in 1993 in Kharkiv and dreamed of flying from childhood. As a teenager he photographed aircraft and helped found the plane-spotting movement in his home city. His love of flying so impressed Kharkiv pilots that they set up an aviation cadet centre for teenagers. Andrii was in its first intake and made his first flight in a light “Bekas” plane; later, as a military pilot, he came back to teach the cadets himself. To get into the Ivan Kozhedub Kharkiv National University of the Air Force he first had to have his eyesight corrected. After graduating he flew MiG-29 fighters with the 40th Tactical Aviation Brigade. American pilots gave him the call sign “Juice” because he only ever ordered juice.
 
 ## He left the service, then came back
 
-Pilshchykov quit in 2021: he disliked the Soviet ways that lingered in the army, kept trying to change them and kept running into resistance from senior officers. But when the full-scale invasion began in 2022, he went back to his brigade. Between March 2022 and August 2023 “Juice” flew 101 combat sorties, including over Kyiv. The legend of the “Ghost of Kyiv” stands for his brigade’s pilots, and Andrii insisted the credit belonged to the whole unit.
+Pilshchykov quit in 2021: he disliked the Soviet ways that lingered in the army, kept trying to change them and kept running into resistance from senior officers. But when the full-scale invasion began in 2022, he went back to his brigade. That morning the first thing he did was phone the wives of colleagues who were on alert. There was no free jet for him, so for the first few days “Juice” defended the airfield on the ground before getting back into a cockpit. Between March 2022 and August 2023 “Juice” flew 101 combat sorties, including over Kyiv. The legend of the “Ghost of Kyiv” stands for his brigade’s pilots, and Andrii insisted the credit belonged to the whole unit.
 
 ## Eight senators and the F-16
 
-How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and his classmate and close friend [Oleksii Mes](/en/people/oleksii-mes/), “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also gave his own savings to buy helmets for his fellow pilots.
+How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and his classmate and close friend [Oleksii Mes](/en/people/oleksii-mes/), “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also helped helicopter pilots who were flying into battle in old helmets: he gave $13,000 of his own savings to buy new helmets for them. The LEGO “Ghost of Kyiv” minifigure was his idea too: between sorties he photographed what he was wearing so the figure would be an exact copy. Its sales raised about $60,000 for pilots’ gear.
 
-On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30.
+On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30. In November 2023 his name was engraved on the memorial wall of the US National Air and Space Museum. And in his home city of Kharkiv, after a petition signed by 5,000 people, a road was renamed “Juice’s Glide Path” in April 2024. A glide path is the line a plane follows as it comes in to land.
 
 ## Why it matters today
 

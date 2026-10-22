@@ -20,16 +20,16 @@ Mykhailo Verbytskyi was born in 1815 in the village of Yavornyk Ruskyi near Prze
 
 ## A priest with a guitar
 
-In Lviv, where he studied at the seminary, Verbytskyi took up the guitar, taught it himself and put together a collection of pieces for guitarists. He is remembered as a virtuoso who made guitar music fashionable in Galicia. He was ordained in 1850, and from 1856 he served as the parish priest of Mlyny, a village near Przemyśl.
+In Lviv, where he studied at the seminary, Verbytskyi took up the guitar. After a bad injury he spent 15 weeks in bed, and seminarians were allowed no books except textbooks, so a friend brought him a guitar. Later Verbytskyi taught it himself and put together a collection of pieces for guitarists. He is remembered as a virtuoso who made guitar music fashionable in Galicia. He was ordained in 1850, and from 1856 he served as the parish priest of Mlyny, a village near Przemyśl.
 
 ## A song from a magazine
 
-The poem Shche ne vmerla Ukraina (“Ukraine Has Not Yet Perished”) appeared in the Lviv magazine Meta in 1863. It carried no signature, so people took it for Shevchenko’s. In fact the words were by [Pavlo Chubynskyi](/en/people/pavlo-chubynskyi/) of Kyiv. In the spring of 1863, in Mlyny, Verbytskyi set the poem to music: first as a song for voice and guitar, later for choir and orchestra. It was first sung in public on 10 March 1865, at a Shevchenko evening in Przemyśl.
+The poem Shche ne vmerla Ukraina (“Ukraine Has Not Yet Perished”) appeared in the Lviv magazine Meta in 1863. It carried no signature, so people took it for Shevchenko’s. In fact the words were by [Pavlo Chubynskyi](/en/people/pavlo-chubynskyi/) of Kyiv. In the spring of 1863, in Mlyny, Verbytskyi set the poem to music: first as a song for voice and guitar, later for choir and orchestra. That same year the composer himself first sang it in the hall of the Przemyśl seminary, and the seminarians spread it from there. In 1864 its tune was heard on stage in Lviv, as the Cossack chorus Shche ne zhyblo Zaporozhzhia in Karl Heinch’s historical drama The Zaporozhians at the Ruska Besida theatre. It was first performed as a work in its own right on 10 March 1865, at a Shevchenko evening in Przemyśl.
 
 ## Music for the stage and the church
 
-Verbytskyi wrote music for plays, including The Soldier-Sorcerer after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/), and from 1864 for the Ruthenian People’s Theatre in Lviv. He set [Taras Shevchenko](/en/people/taras-shevchenko/)’s Zapovit (“Testament”) for choir and wrote music for the Divine Liturgy and other church hymns. He died in Mlyny in 1870 and is buried near the village church.
+Verbytskyi wrote music for plays, including The Soldier-Sorcerer after [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/), and from 1864 for the Ruthenian People’s Theatre in Lviv. In 1868, on commission from the Shevchenko Committee, he set [Taras Shevchenko](/en/people/taras-shevchenko/)’s Zapovit (“Testament”) for baritone, male and mixed choirs and orchestra. Verbytskyi dreamed of setting all of Shevchenko’s poems to music. He also wrote music for the Divine Liturgy and other church hymns. He died in Mlyny in 1870 and is buried near the village church.
 
 ## Why it matters today
 
-A song a village priest wrote for the guitar became the music of Ukraine’s state anthem. He wrote it when there was no Ukrainian state, and since 1992 an independent Ukraine has sung it. Verbytskyi showed that something made in a small village can bring a whole country together. Every time Ukrainians sing their anthem, it is his music they hear.
+A song a village priest wrote for the guitar became the music of Ukraine’s state anthem. He wrote it when there was no Ukrainian state. In 1917–1920 the song became one of the anthems of the West Ukrainian People’s Republic and the Ukrainian People’s Republic, in 1939 the anthem of Carpatho-Ukraine, and since 1992 an independent Ukraine has sung it. Verbytskyi showed that something made in a small village can bring a whole country together. Every time Ukrainians sing their anthem, it is his music they hear.

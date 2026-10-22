@@ -5,8 +5,8 @@ role: "Film actress, “queen of the screen”"
 summary: "Audiences called her the “queen of the screen,” though her career lasted less than five years. Vira Kholodna from Poltava became one of the first great silent-film stars of the Russian Empire and died in Odesa at 25."
 fun_fact: "Of the dozens of films Vira Kholodna appeared in, only a few survive today, among them Children of the Age, Mirages, A Life for a Life and a fragment of The Last Tango."
 misconception:
-  claim: "Vira Kholodna was poisoned, either by a bouquet of white lilies sent from the French consulate or by intelligence agents, because she was supposedly a spy."
-  truth: "These versions are rumors that spread only after her death. The actress caught the “Spanish flu,” the pandemic influenza that killed millions of people worldwide in 1918–1919, and died on 16 February 1919 in Odesa; her family and friends confirmed this cause."
+  claim: "Vira Kholodna was poisoned, either by a bouquet of white lilies, or on the orders of the French consul, or by intelligence agents, because she was supposedly a spy."
+  truth: "These versions are rumors that spread only after her death, and in the late 1940s Yurii Smolych's novel Dawn over the Sea and the operetta At Dawn spread them further. The actress caught the “Spanish flu,” the pandemic influenza that killed millions of people worldwide in 1918–1919, and died on 16 February 1919 in Odesa; those who knew her confirmed this cause. The screenwriter Aleksei Kapler publicly defended her: there was, he wrote, “absolutely nothing mysterious” about how she died."
 key_accomplishments:
   - "One of the first great stars of silent cinema in the Russian Empire, the “queen of the screen”"
   - "Dozens of film roles in 1914–1919"
@@ -22,9 +22,9 @@ She was born Vira Levchenko, in 1893 in Poltava, the daughter of a literature te
 
 ## A star after one film
 
-Vira first appeared on screen in 1914, in a small part in the film Anna Karenina. The next year the director Yevgeny Bauer gave her the lead in Song of Triumphant Love, and that film made her a star. She worked at the Moscow studios of Aleksandr Khanzhonkov and later Dmitry Kharitonov, with Bauer, Pyotr Chardynin and Vladimir Gardin. In under five years dozens of films with her came out, mostly dramas and melodramas.
+Vira first appeared on screen in 1914, in a small part in the film Anna Karenina. The next year the director Yevgeny Bauer gave her the lead in Song of Triumphant Love, and that film made her a star. In Kharkiv the crowd trying to get into Song of Triumphant Love at the Ampir cinema smashed the windows, and mounted dragoons had to be called in. The Michel cinema in Kharkiv showed A Life for a Life for 12 days in a row, longer than any film had run there before. By his own account, the singer Alexander Vertinsky invented the title “queen of the screen”; he dedicated songs to her. When he showed her his song “Your Fingers Smell of Incense,” she asked him to take the dedication off: “This is death!” After she died, he inscribed it after all: “To the Queen of the Screen, Vira Kholodna.” She worked at the Moscow studios of Aleksandr Khanzhonkov and later Dmitry Kharitonov, with Bauer, Pyotr Chardynin and Vladimir Gardin. In under five years dozens of films with her came out, mostly dramas and melodramas.
 
-In the summer of 1918 Kharitonov's troupe moved to Odesa. There Kholodna kept filming and performed at charity concerts. In early 1919 she caught the “Spanish flu,” the pandemic influenza, and died on 16 February. She was 25. She was buried at the First Christian Cemetery in Odesa, but the cemetery was destroyed in the 1930s and her grave has not survived.
+In 1918 Kharitonov's troupe moved to Odesa. There Kholodna kept filming and performed at charity concerts. On 8 February 1919 a frost hit, down to minus 11–13 °C, and at a charity evening the audience sat in fur coats while she, already coughing, went on stage in a concert dress. After that her illness got worse: it was the “Spanish flu,” the pandemic influenza, and on 16 February Vira Kholodna died. She was 25. Her funeral was filmed: the documentary The Funeral of Vira Kholodna reached Odesa's screens within days, and it survives today. She was buried at the First Christian Cemetery in Odesa, but the cemetery was destroyed in the 1930s and her grave has not survived.
 
 ## Why it matters today
 
