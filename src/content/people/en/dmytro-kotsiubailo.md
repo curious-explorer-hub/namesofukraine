@@ -18,14 +18,14 @@ quotes:
 
 ## Why “Da Vinci”?
 
-Dmytro Kotsiubailo was born in 1995 in the village of Zadnistrianske in the Ivano-Frankivsk region. He drew well from childhood, which is where his call sign “Da Vinci” came from. He went to school in nearby Bovshiv, and in 2014, straight after the Revolution of Dignity, he went to war as an 18-year-old volunteer with the Right Sector Ukrainian Volunteer Corps.
+Dmytro Kotsiubailo was born in 1995 in the village of Zadnistrianske in the Ivano-Frankivsk region. He drew well from childhood, which is where his call sign “Da Vinci” came from. He went to school in nearby Bovshiv, and from 2012 to the art lyceum in Ivano-Frankivsk. In 2014, straight after the Revolution of Dignity, the 18-year-old left his studies and went from the Maidan to war as a volunteer with the Right Sector Ukrainian Volunteer Corps.
 
 ## The first among volunteers
 
-That same year he was badly wounded in Pisky in the Donetsk region. After rehabilitation he went back to the front. From 2015 Kotsiubailo commanded a company, later the 1st Assault Company, which became known as the “Da Vinci Wolves”. In 2021 he became the first volunteer to be made a Hero of Ukraine during his lifetime.
+That same year he was badly wounded in Pisky in the Donetsk region. After rehabilitation he went back to the front. From 2015 Kotsiubailo commanded a company, later the 1st Assault Company, which became known as the “Da Vinci Wolves”. A real wolf lived at the company’s base in Avdiivka: it was a gift to the fighters, and Kotsiubailo called it the unit’s “son of the regiment”. In April 2021 a New York Times journalist asked him what he expected next. “Da Vinci” answered: “A full-scale war.” That same year he became the first volunteer to be made a Hero of Ukraine during his lifetime.
 
 After the full-scale invasion began, his company grew into the 1st Separate Battalion “Da Vinci Wolves”. On 7 March 2023 Dmytro Kotsiubailo was killed in battle near Bakhmut. He was 27.
 
 ## Why it matters today
 
-Dmytro Kotsiubailo showed how much one person who chose to defend his country could give its army. A bad wound didn’t send him home: he came back and led his fighters for years, until his company grew into a battalion. He became the first volunteer made a Hero of Ukraine in his lifetime. He put the heart of it himself: “A fighter isn’t just muscles and a rifle. What matters is what’s inside you, what you’re fighting for.” Anyone who chooses to stand up for Ukraine today follows his path.
+Dmytro Kotsiubailo showed how much one person who chose to defend his country could give its army. A bad wound didn’t send him home: he came back and led his fighters for years, until his company grew into a battalion. He became the first volunteer made a Hero of Ukraine in his lifetime. He put the heart of it himself: “A fighter isn’t just muscles and a rifle. What matters is what’s inside you, what you’re fighting for.” His name is now borne by the Bovshiv gymnasium, where a museum holds dozens of his drawings, and by streets in Kramatorsk, Pokrovsk, Kharkiv, Zaporizhzhia and other cities, and the Ukrainian Catholic University set up a scholarship fund in his name. Anyone who chooses to stand up for Ukraine today follows his path.

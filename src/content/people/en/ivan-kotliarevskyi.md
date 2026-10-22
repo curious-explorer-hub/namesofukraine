@@ -27,10 +27,12 @@ So what was it? Kotliarevskyi took Virgil’s ancient Roman poem about the wande
 
 ## Seminarian, officer, theater director
 
-Kotliarevskyi was born in 1769 in Poltava into a clerk’s family. He studied at the Poltava Theological Seminary, worked as a private tutor in landowners’ families, and then spent more than ten years in the army. During the war of 1812 he raised the 5th Cossack Regiment and was made a major.
+Kotliarevskyi was born in 1769 in Poltava into a clerk’s family. He studied at the Poltava Theological Seminary, worked as a private tutor in landowners’ families, and then spent more than ten years in the army. From 1810, for a quarter of a century, he ran a home for the education of children of poor nobles in Poltava. One of his pupils was the future great mathematician Mykhailo Ostrohradskyi. During the war of 1812 Kotliarevskyi raised the 5th Cossack Regiment in about three weeks and was made a major. He set one condition: after the war with Napoleon, the regiment would stay a permanent Cossack unit.
 
-In 1819, while he was running the Poltava theater, he wrote two plays for it: Natalka Poltavka and Moskal-Charivnyk (“The Soldier-Sorcerer”). Modern Ukrainian drama began with them.
+The Poltava theater was staging Prince Shakhovskoi’s comedy “The Cossack Poet”, which mangled the Ukrainian language and caricatured Ukrainians. Kotliarevskyi answered in his own way: in 1819, while he was running the theater, he wrote two plays for it, Natalka Poltavka and Moskal-Charivnyk (“The Soldier-Sorcerer”). Modern Ukrainian drama began with them.
+
+Kotliarevskyi also collected folk wisdom: 70 Ukrainian sayings and proverbs he wrote down were printed in 1831 in Snegirev’s collection.
 
 ## Why it matters today
 
-Kotliarevskyi proved that the language people spoke at home and at the market was fit for great literature. Modern Ukrainian literature began with his Eneida, and modern Ukrainian drama with Natalka Poltavka and Moskal-Charivnyk. His characters speak with the words, customs and sayings of ordinary Ukrainians, and so he showed that his own culture deserved both the page and the stage. Anyone who writes in Ukrainian today, for a reader or for the stage, follows a road he opened more than two hundred years ago.
+Kotliarevskyi proved that the language people spoke at home and at the market was fit for great literature. Modern Ukrainian literature began with his Eneida, and modern Ukrainian drama with Natalka Poltavka and Moskal-Charivnyk. His characters speak with the words, customs and sayings of ordinary Ukrainians, and so he showed that his own culture deserved both the page and the stage. In 1903, at a time when the Ukrainian language was suppressed, the unveiling of his monument in Poltava became a great national event, attended by Lesia Ukrainka, Mykhailo Kotsiubynskyi, Mykola Lysenko, Panas Myrnyi, Vasyl Stefanyk and many others. Anyone who writes in Ukrainian today, for a reader or for the stage, follows a road he opened more than two hundred years ago.

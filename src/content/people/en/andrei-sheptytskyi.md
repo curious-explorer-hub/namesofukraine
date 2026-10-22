@@ -25,15 +25,15 @@ Roman Sheptytskyi was born in 1865 in the village of Prylbychi in the Lviv regio
 
 ## A pastor under four regimes
 
-Sheptytskyi led the church for 43 years: under Austria-Hungary, under Poland, and under Soviet and Nazi occupation. His work went beyond faith. He founded the National Museum in Lviv and a hospital, and he supported schools. In 1914 the Russian authorities arrested him and took him to Russia. He was released only in 1917.
+Sheptytskyi led the church for 43 years: under Austria-Hungary, under Poland, and under Soviet and Nazi occupation. His work went beyond faith. He founded the National Museum in Lviv and a hospital, and he supported schools. He was one of the founders of Plast, the Ukrainian scouts, and gave them land in Pidliute for a camp. In 1922 he became co-owner of Fortuna, the first Ukrainian candy factory, and by 1935 its sweets were sold across Europe and even in the USA. In 1914 the Russian authorities arrested him and took him to Russia. He was released only in 1917. On 24 July 1933, together with six bishops, Sheptytskyi addressed the world in the pastoral letter “Ukraine in Death Throes”, one of the first attempts to draw the world’s attention to the Holodomor.
 
 ## A letter to Himmler and “Thou Shalt Not Kill”
 
-Under Nazi occupation, in February 1942, Sheptytskyi wrote to Himmler protesting the killing of Jews. That November he issued the pastoral letter “Thou Shalt Not Kill”, condemning the killings. Together with his brother Klymentii, he organized the hiding of Jews, mostly children, in the church’s monasteries. Estimates put the number saved at 150 to 200 people.
+Under Nazi occupation, in February 1942, Sheptytskyi wrote to Himmler protesting the killing of Jews. That November he issued the pastoral letter “Thou Shalt Not Kill”, condemning the killings. Together with his brother Klymentii, he organized the hiding of Jews, mostly children, in the church’s monasteries and even in the Metropolitan’s own palace beside St. George’s Cathedral. Rabbi Kahane and Kurt Lewin, the son of a Lviv rabbi, hid there. At least 150 people were saved this way. For more than ten of his last years the Metropolitan was confined to a wheelchair, yet those were the years when he wrote these letters and saved people.
 
 ## Debates and assessments
 
-In 1941 Sheptytskyi welcomed the German army and the proclamation of the Act of Restoration of the Ukrainian State, and in 1943 he appointed chaplains to the Galicia Division. This early support for the German authorities is the main reason Israel’s Yad Vashem memorial has not recognized him as Righteous Among the Nations. His brother Klymentii has been given the title. In 2015 Pope Francis declared the Metropolitan Venerable, the first step toward beatification.
+In 1941 Sheptytskyi welcomed the German army and the proclamation of the Act of Restoration of the Ukrainian State, and in 1943 he appointed chaplains to the Galicia Division. Israel’s Yad Vashem memorial has not recognized him as Righteous Among the Nations, although people he saved have repeatedly asked for it. His brother Klymentii has been given the title. In 2015 Pope Francis declared the Metropolitan Venerable, the first step toward beatification.
 
 ## Why it matters today
 

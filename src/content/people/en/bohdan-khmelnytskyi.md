@@ -21,15 +21,15 @@ quotes:
 
 ## It started with a homestead
 
-Bohdan (Zynovii) Khmelnytskyi was an educated Cossack: he studied at the Jesuit college in Lviv. In 1620 he fought at Cecora, was taken prisoner by the Turks and spent two years in captivity. Later he became the sotnyk (Cossack captain) of Chyhyryn and farmed his homestead at Subotiv.
+Bohdan (Zynovii) Khmelnytskyi was an educated Cossack: he studied at the Jesuit college in Lviv. In 1620 he fought at Cecora, was taken prisoner by the Turks and spent two years in Istanbul, until his mother paid his ransom. Later he became the sotnyk (Cossack captain) of Chyhyryn and farmed his homestead at Subotiv.
 
-In the spring of 1647 the homestead was seized by Czapliński, a deputy official who held a personal grudge against him. That wrong came on top of the Cossacks’ anger at the abuses of officials, magnates and leaseholders. Early in 1648 Khmelnytskyi was elected hetman, and the uprising grew into a war of liberation.
+In the spring of 1647 the homestead was seized by Czapliński, a deputy official who held a personal grudge against him. That wrong came on top of the Cossacks’ anger at the abuses of officials, magnates and leaseholders. Late in 1647 the magnate Aleksander Koniecpolski ordered Khmelnytskyi's arrest and execution, but friends among the Chyhyryn officers, above all Colonel Mykhailo Krychevskyi, stood surety for him and saved his life. Early in 1648 Khmelnytskyi was elected hetman, and the uprising grew into a war of liberation.
 
 ## A state born of war
 
-Allied with the Crimean Khanate, the hetman routed Polish armies in 1648 at Zhovti Vody, Korsun and Pyliavtsi. The war swung back and forth: in 1651 the Cossacks suffered a heavy defeat at Berestechko. But on the freed lands a Cossack state, the Hetmanate, had already taken shape, with its own army, government and diplomacy. The hetman negotiated with Crimea, the Ottoman Empire, Sweden, Transylvania and Moscow.
+Allied with the Crimean Khanate, the hetman routed Polish armies in 1648 at Zhovti Vody, Korsun and Pyliavtsi. At the turn of 1649 he made a triumphal entry into Kyiv: the Academy's students hailed him as a Moses and called him "given by God", reading it into his name, Bohdan. The war swung back and forth: in 1651 the Cossacks suffered a heavy defeat at Berestechko. But on the freed lands a Cossack state, the Hetmanate, had already taken shape, with its own army, government and diplomacy. The hetman negotiated with Crimea, the Ottoman Empire, Sweden, Transylvania and Moscow. In December 1650 the Ottoman Sultan Mehmed IV addressed him as "the greatest of the monarchs of the religion of Jesus", and other foreign rulers styled him "illustrissimus dux", "most illustrious prince".
 
-In 1654, at the Pereiaslav Council, Khmelnytskyi accepted the protection of the Muscovite tsar. He died in 1657 in Chyhyryn and was buried in Subotiv, in St. Elijah’s Church, which he had built himself.
+In 1654, at the Pereiaslav Council, Khmelnytskyi accepted the protection of the Muscovite tsar. He died in 1657 in Chyhyryn and was buried in Subotiv, in St. Elijah’s Church, which he had built himself. The exact site of his grave is still unknown: in 2019 ground-penetrating radar found a crypt-like cavity, 3 m long and 1.3 m wide, under the church floor. A later chronicle says his remains were thrown out of the grave in 1664, but some researchers doubt that account.
 
 ## Debates and assessments
 

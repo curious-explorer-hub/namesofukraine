@@ -3,7 +3,7 @@
 name: "Petro Kalnyshevskyi"
 role: "Last otaman of the Zaporozhian Sich"
 summary: "In 1765 the Zaporozhians elected him otaman against Catherine II’s wishes and kept re-electing him for ten years. After the Sich was destroyed in 1775, the last otaman, Petro Kalnyshevskyi, was sent to the Solovetsky Islands, where he spent 25 years in captivity."
-fun_fact: "When the new emperor, Alexander I, freed Kalnyshevskyi in 1801, he was already over a hundred years old. He chose not to go home: he stayed at the Solovetsky Monastery and lived there until his death."
+fun_fact: "When the new emperor, Alexander I, freed Kalnyshevskyi in 1801, he was already over a hundred years old, according to the monastery. He chose not to go home: he stayed at the Solovetsky Monastery and lived there until his death."
 key_accomplishments:
   - "Otaman of the Zaporozhian Sich in 1762 and continuously in 1765–1775"
   - "Encouraged settlement of the Zaporozhian lands, farming and trade"
@@ -22,11 +22,17 @@ Kalnyshevskyi was born in the village of Pustoviitivka (now in the Sumy region);
 
 ## Administrator and diplomat
 
-Kalnyshevskyi’s first concern was the Zaporozhian lands. He encouraged settlers to move there and promoted farming and trade: by 1770 the lands of the Sich had 45 villages and some 4,000 farmsteads. Several times he traveled to St. Petersburg to defend those lands from the empire’s encroachment. In the Russo-Turkish War of 1768–1774 he distinguished himself so much that Catherine II awarded him a gold medal with diamonds.
+Kalnyshevskyi’s first concern was the Zaporozhian lands. He encouraged settlers to move there and promoted farming and trade: by 1770 the lands of the Sich had 45 villages and some 4,000 farmsteads. Despite the landowners’ demands, he refused to hand back the runaways who sought freedom on the Sich’s lands. Several times he traveled to St. Petersburg to defend those lands from the empire’s encroachment. In the Russo-Turkish War of 1768–1774 he distinguished himself so much that Catherine II awarded him a gold medal with diamonds.
 
 ## 25 years on the Solovetsky Islands
 
-Once the Ottoman Empire was defeated, the empire no longer needed the Sich. In 1775 Russian troops destroyed the New Sich, and Kalnyshevskyi was arrested and, on Catherine II’s orders, sent to the prison of the Solovetsky Monastery on the White Sea. He spent 25 years there in harsh conditions. He died in 1803; sources put his age at 112 or 113.
+Once the Ottoman Empire was defeated, the empire no longer needed the Sich. In 1775 Russian troops destroyed the New Sich, and Kalnyshevskyi was arrested. His property was confiscated: at his arrest he owned 50,000 roubles, 639 horses, over a thousand cattle and some 14,000 sheep and goats. He was held under arrest in Moscow for almost a year, and in 1776, on Catherine II’s orders, he was sent to the prison of the Solovetsky Monastery on the White Sea. The empire allowed one rouble a day for the prisoner’s keep.
+
+For about 16 years he was held in a cell whose roof leaked so badly that, as the monastery’s deputy head wrote, “the clothes on him rot” from the rain. Then came 9 more years in a half-underground cell called “Sushylo”. He was not allowed to write letters and was let out of his cell only three times a year: at Christmas, Easter and the Feast of the Transfiguration. Even there he wore Cossack dress and spoke Ukrainian, as he had at home.
+
+He died in 1803. The inscription on his gravestone gives his age as 112; historians doubt he lived that long.
+
+Ukraine learned of the otaman’s fate only in the 1860s. Petro Yefymenko, exiled to the north, heard an 80-year-old local speak of a “Cossack otaman” and found the documents in an archive. Then in December 1867 [Pavlo Chubynskyi](/en/people/pavlo-chubynskyi/), who wrote the words of the national anthem, found the otaman’s grave by the cathedral of the Solovetsky Monastery.
 
 ## Why it matters today
 

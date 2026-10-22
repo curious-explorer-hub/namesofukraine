@@ -19,13 +19,13 @@ quotes:
 
 ## 211
 
-That is how many goals Oleh Blokhin scored in 432 Soviet league matches, a Soviet football record. He also played and scored more than anyone else for the USSR national team.
+That is how many goals Oleh Blokhin scored in 432 Soviet league matches, a Soviet football record. He also played and scored more than anyone else for the USSR national team: he is the only player capped more than 100 times for it. For Dynamo Blokhin played a record 582 matches and scored 266 goals in all competitions.
 
 ## Dynamo’s left wing
 
-Blokhin was born in Kyiv in 1952 and came through the Dynamo football school. In November 1969, aged 17, he made his first-team debut for the club he would then represent for almost twenty years. The team was run by [Valerii Lobanovskyi](/en/people/valerii-lobanovskyi/) and Oleh Bazylevych, and Blokhin’s trademark became his high-speed runs down the left wing.
+Blokhin was born in Kyiv in 1952 and came through the Dynamo football school. His first coach was his mother, Kateryna Adamenko, many times Soviet and Ukrainian champion in pentathlon, long jump and hurdles, who built up her son’s speed. At 16 Blokhin ran 100 metres in 11 seconds and was nearly lured into athletics, but he chose football. In November 1969, aged 17, he made his first-team debut for the club he would then represent for almost twenty years. Later the team was run by [Valerii Lobanovskyi](/en/people/valerii-lobanovskyi/) and Oleh Bazylevych, and Blokhin’s trademark became his high-speed runs down the left wing.
 
-In 1975 Dynamo won the Cup Winners’ Cup and then the UEFA Super Cup, beating Bayern Munich twice; Blokhin scored three goals against them. That same year he became the first Soviet footballer to receive the Ballon d'Or as Europe’s best player. In 1986 the club won the Cup Winners’ Cup a second time. With Dynamo Blokhin was Soviet champion seven times and won the Soviet Cup five times, and with the USSR he won Olympic bronze in 1972 and 1976 and silver at the 1988 European Championship. He finished his playing career in Austria and Cyprus.
+In 1975 Dynamo won the Cup Winners’ Cup and then the UEFA Super Cup, beating Bayern Munich twice; Blokhin scored three goals against them. That same year he became the first Soviet footballer to receive the Ballon d'Or as Europe’s best player. Of the 26 journalists who voted, 20 put him first: Blokhin scored 122 points, 80 more than the runner-up, Franz Beckenbauer. In 1986 the club won the Cup Winners’ Cup a second time. With Dynamo Blokhin was Soviet champion seven times and won the Soviet Cup five times, and with the USSR he won Olympic bronze in 1972 and 1976 and silver at the 1988 European Championship. His farewell match was played on 28 June 1989 at the Republican Stadium in Kyiv before 100,000 spectators: the USSR drew 3–3 with a World Stars XI. He finished his playing career in Austria and Cyprus.
 
 ## The coach of the first World Cup
 

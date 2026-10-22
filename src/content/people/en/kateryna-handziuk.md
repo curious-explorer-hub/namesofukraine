@@ -22,22 +22,22 @@ quotes:
 
 ## The Kherson woman who followed the money
 
-Kateryna was born in Kherson on 17 June 1985. She graduated from Kherson State University and the Kyiv National Economic University. From 2003 she was an activist of the Batkivshchyna party, and later she was elected to the Kherson regional council. In 2012 she co-founded the MOST citizen journalism agency and the website most.ks.ua. Over time the site focused on how public money was spent: on monitoring public procurement.
+Kateryna was born in Kherson on 17 June 1985. She graduated from Kherson State University and the Kyiv National Economic University. From 2003 she was an activist of the Batkivshchyna party and led its regional youth organisation, Batkivshchyna Moloda. In 2004 she took part in the Orange Revolution, and later she was elected to the Kherson regional council. In 2012 she co-founded the MOST citizen journalism agency and the website most.ks.ua. Over time the site focused on how public money was spent: on monitoring public procurement. The agency made a series of investigative programmes called “Yest predel”. In 2017 one of them told previously unknown facts about the life of Vladyslav Manher, head of the Kherson regional council. Manher sued the journalist and asked for a symbolic 1 hryvnia in moral damages.
 
 ## Maidan, displaced people, city hall
 
-Kateryna took part in the Euromaidan in Kherson and stood up to attempts to start a “Russian Spring” in the city. She looked after displaced people and worked at the office of the UN High Commissioner for Refugees. In May 2014 she was elected to the Kherson city council, and in 2016 she became acting manager of affairs of the council’s executive committee. She spoke out publicly about corruption in local government and the police.
+Kateryna took part in the Euromaidan in Kherson and stood up to attempts to start a “Russian Spring” in the city. She looked after displaced people and worked at the office of the UN High Commissioner for Refugees. In May 2014 she was elected to the Kherson city council, and in 2016 she studied at the National Academy for Public Administration under the President of Ukraine and became acting manager of affairs of the council’s executive committee. She spoke out publicly about corruption in local government and the police. One of her last disputes with the authorities followed a large forest fire in the Oleshky district. Kateryna claimed that the forest was being set on fire on purpose so that everything that didn’t burn could be cut down and sold, and she posted photos on Facebook of trucks loaded with charred logs.
 
 ## The attack
 
-Kateryna Handziuk was attacked in Kherson on 31 July 2018 and doused with acid. She was taken to Kyiv for treatment. Kateryna Handziuk died on 4 November 2018. She was 33.
+Kateryna Handziuk was attacked in Kherson on 31 July 2018 and doused with acid. She was taken to Kyiv for treatment. From hospital she recorded a video address: in the past year there had been 40 attacks on civic activists in Ukraine, and not one of the people who ordered them had been named. “Worst of all, I know half of the people on this list personally,” Kateryna said. Kateryna Handziuk died on 4 November 2018. She was 33.
 
 ## What the courts decided
 
 In 2019 the five men who carried out the attack admitted their guilt, made plea deals and were sentenced to between three and six and a half years in prison. On 26 June 2023 the Dniprovskyi District Court of Kyiv found Vladyslav Manher, the former head of the Kherson regional council, and Oleksii Levin guilty of organising the attack and sentenced each of them to 10 years in prison. Manher said he was not guilty, and the verdict was appealed.
 
-As of June 2026, the Kyiv Court of Appeal had not finished the case, so the verdict had not taken legal effect. In three years the panel of judges changed four times.
+As of June 2026, the Kyiv Court of Appeal had not finished the case, so the verdict had not taken legal effect and the presumption of innocence applied to the defendants. In three years the panel of judges changed four times.
 
 ## Why it matters today
 
-Kateryna Handziuk showed that keeping watch on public money is every citizen’s job, not only officials’. She did not stay silent about corruption, and not even the attack silenced her: from her hospital bed she talked about justice and the rule of law, which, in her words, “today no one is treating.” People have kept her question alive: the “Who Ordered Katia Handziuk?” movement goes on following the trial. Anyone who checks where public money goes, or demands a fair trial, carries on her work.
+Kateryna Handziuk showed that keeping watch on public money is every citizen’s job, not only officials’. She did not stay silent about corruption, and not even the attack silenced her: from her hospital bed she talked about justice and the rule of law, which, in her words, “today no one is treating.” The US Embassy nominated her for the Woman of Courage award: in 2019 the US State Department gave Kateryna a posthumous special honour, and the embassy in Kyiv named her the 2019 Ukrainian Woman of Courage. People have kept her question alive: the “Who Ordered Katia Handziuk?” movement goes on following the trial. Anyone who checks where public money goes, or demands a fair trial, carries on her work.
