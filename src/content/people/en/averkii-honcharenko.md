@@ -3,14 +3,17 @@
 name: "Averkii Honcharenko"
 role: "Ukrainian commander at Kruty"
 summary: "About 500 young volunteers against a force eight times larger. At Kruty in 1918 they were led by 27-year-old Captain Averkii Honcharenko. The battle held up the Bolshevik advance on Kyiv; Honcharenko lived another 62 years and died in exile in the United States."
-fun_fact: "One of the first detailed memoirs of the Battle of Kruty was written by Honcharenko himself; it was printed by the Warsaw journal Za derzhavnist in 1938."
+fun_fact: "Among the students sent to reinforce Kruty was Honcharenko's own brother, a third-year medical student at Kyiv University."
+misconception:
+  claim: "The Ukrainians at Kruty were untrained students."
+  truth: "The cadets of the military school had trained for four months and had spent weeks guarding Bakhmach before the battle. The students had only seven days of training, but, as Honcharenko recalled, they could already shoot."
 key_accomplishments:
   - "Ukrainized the Kyiv ensign school, which became the First Ukrainian Bohdan Khmelnytsky Cadet School (1917)"
   - "Commanded the Ukrainian units at the Battle of Kruty on 29 January 1918"
   - "Head of the chancellery of Supreme Otaman Symon Petliura (1919)"
   - "Colonel of the UNR Army; in exile, a co-founder of the Fund for Aid to Ukrainian Invalids"
 birthplace_name: "Dashchenky"
-image_alt: "Averkii Honcharenko, photograph, 1943"
+image_alt: "An elderly Averkii Honcharenko with short greying hair, in a dark grey tweed suit, white shirt and burgundy tie"
 ---
 
 ## Who commanded at Kruty?
@@ -23,21 +26,21 @@ Honcharenko was born in 1890 in the village of Dashchenky in the Poltava region 
 
 ## The school that went to the front
 
-In 1916 Honcharenko began teaching tactics, topography and fortification at the Kyiv ensign school. After the 1917 revolution he Ukrainized it, and it became the First Ukrainian Bohdan Khmelnytsky Cadet School. In the winter of 1918 its cadets, together with student volunteers, set out to defend Kyiv from the Bolshevik army of Mikhail Muravyov.
+In 1916 Honcharenko began teaching tactics, topography and fortification at the Kyiv ensign school. After the 1917 revolution he Ukrainized it, with 36 cadets from his own class the first to back him, and it became the First Ukrainian Bohdan Khmelnytsky Cadet School. In the winter of 1918 its cadets, together with student volunteers, set out to defend Kyiv from the Bolshevik army of Mikhail Muravyov.
 
-At Kruty about 500 Ukrainian soldiers, mostly cadets and students, faced some 4,000 Bolsheviks. About half of them were killed, but the battle held up the advance on Kyiv. This is considered to have given the Ukrainian government time to sign the Treaty of Brest-Litovsk. Honcharenko managed to lead the rest of his force out in good order.
+At Kruty about 500 Ukrainian soldiers, mostly cadets and students, faced some 4,000 Bolsheviks. About half of them were killed, but the battle held up the advance on Kyiv. This is considered to have given the Ukrainian government time to sign the Treaty of Brest-Litovsk. When the enemy again tried to surround them, Honcharenko spotted the move, concentrated fire on the left flank and ordered the retreat, so the rest of his force got out in good order. Historians estimate that the Bolsheviks could resume their advance on Kyiv only four days later.
 
 ## After Kruty
 
-In 1918 Honcharenko was a military commandant in Podillia, and in 1919 head of the chancellery of Supreme Otaman [Symon Petliura](/en/people/symon-petliura/). The UNR government in exile later made him a colonel. In the 1920s and 1930s he lived in Galicia, worked for Ukrainian cooperatives and wrote his memoirs of Kruty.
+After Kruty he and the cadets joined Petliura's Slobidskyi Kish and took part in storming the Arsenal plant in Kyiv. Later in 1918 Honcharenko was a military commandant in Podillia, and in 1919 head of the chancellery of Supreme Otaman [Symon Petliura](/en/people/symon-petliura/). The UNR government in exile later made him a colonel. In the 1920s and 1930s he lived in Galicia, worked for Ukrainian cooperatives and wrote his memoirs of Kruty. His account, The Battle of Kruty, one of the first detailed descriptions of the battle, was printed by the Warsaw journal Za derzhavnist in 1938.
 
 ## Debates and assessments
 
-In the Second World War, at 53, Honcharenko volunteered for the Galicia Division. Nazi Germany formed it in 1943 from Ukrainian volunteers as a Waffen-SS division; in 1945 it was renamed the 1st Ukrainian Division of the Ukrainian National Army, and it surrendered to the British in Austria. Honcharenko was an officer of the division and mostly trained young soldiers. Service in the division is one of the most contested topics in 20th-century Ukrainian history: some see it as collaboration with the Nazi regime, others as an attempt to build a Ukrainian army to fight the USSR. The ArmyInform author calls Honcharenko's choice a mistake, but explains it by his view of the USSR as an occupier. According to the historian Serhii Butko, British, American and French authorities checked Honcharenko and found no evidence of his involvement in war crimes.
+In the Second World War, at 53, Honcharenko volunteered for the Galicia Division. Nazi Germany formed it in 1943 from Ukrainian volunteers as a Waffen-SS division; in 1945 it was renamed the 1st Ukrainian Division of the Ukrainian National Army, and it surrendered to the British in Austria. Honcharenko was an officer of the division and mostly trained young soldiers. He put out a weekly news review for the men in Ukrainian, although he was told to print it in German, and began introducing them to Shevchenko's life and works. Service in the division is one of the most contested topics in 20th-century Ukrainian history: some see it as collaboration with the Nazi regime, others as an attempt to build a Ukrainian army to fight the USSR. The ArmyInform author calls Honcharenko's choice a mistake, but explains it by his view of the USSR as an occupier. According to the historian Serhii Butko, British, American and French authorities checked Honcharenko and found no evidence of his involvement in war crimes.
 
 ## From Kruty to Ohio
 
-After the war Honcharenko lived in Britain, and from 1952 in the United States, where he helped disabled Ukrainian soldiers and veterans. He died on 12 April 1980 in Cleveland, Ohio, and is buried in the Ukrainian cemetery in neighbouring Parma. Today streets in Ukraine bear his name, including one in Kruty.
+After Germany surrendered, Honcharenko made sure that 2,000 Ukrainian soldiers ended up in the British zone rather than the Soviet one. He then lived in Britain, and from 1952 in the United States, where he helped disabled Ukrainian soldiers and veterans. He died on 12 April 1980 in Cleveland, Ohio, and is buried in the Ukrainian cemetery in neighbouring Parma. Today streets in Ukraine bear his name, including one in Kruty.
 
 ## Why it matters today
 
