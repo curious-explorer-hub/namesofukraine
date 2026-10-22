@@ -23,7 +23,7 @@ A new contributor called Ig2000 signed up to the Ukrainian Wikipedia on 23 July 
 
 ## From Zubrets to Lviv
 
-Ig2000 was Ihor Kostenko. He was born on 31 December 1991 in the village of Zubrets in Ternopil region. He finished the St Josaphat Collegium in Buchach and in 2009 entered the Faculty of Geography at Lviv University, where he was one of the best students. He played football, supported Karpaty Lviv and, while still a student, became a journalist for the sports website Sportanalityka. With friends he planned a sports site, allsport24.com; it went live after he was gone.
+Ig2000 was Ihor Kostenko. He was born on 31 December 1991 in the village of Zubrets in Ternopil region. Another hero of the Heavenly Hundred, Vasyl Moisei, came from the same village and the same village school; in 2017 the school in Zubrets was named after both of them. He finished the St Josaphat Collegium in Buchach and in 2009 entered the Faculty of Geography at Lviv University, where he was one of the best students. He played football, supported Karpaty Lviv and, while still a student, became a journalist for the sports website Sportanalityka. With friends he planned a sports site, allsport24.com; it went live after he was gone.
 
 ## On the Maidan
 
@@ -33,4 +33,6 @@ Ihor Kostenko was killed on Instytutska Street in Kyiv on 20 February 2014, as p
 
 ## Why it matters today
 
-Ihor Kostenko lived by his own words: “Everyone should do what they can, where they are.” He showed that you can build your country from a keyboard: every article in Ukrainian brings knowledge about Ukraine closer to the people looking for it. He didn’t only write; he brought in new contributors, and when the students went out to the Maidan, he was among them. Every article someone adds to the Ukrainian Wikipedia today carries his work on; in 2014 Jimmy Wales named him Wikipedian of the Year.
+Ihor Kostenko lived by his own words: “Everyone should do what they can, where they are.” He showed that you can build your country from a keyboard: every article in Ukrainian brings knowledge about Ukraine closer to the people looking for it. He didn’t only write; he brought in new contributors, and when the students went out to the Maidan, he was among them. Every article someone adds to the Ukrainian Wikipedia today carries his work on; in 2014 Jimmy Wales named him Wikipedian of the Year. Ihor was the first Ukrainian to receive it: earlier winners wrote for the Kazakh, Yoruba and French Wikipedias. On 13 September 2014 in Kyiv, Wales handed the diploma to Ihor’s sister, together with a Wikipedia T-shirt signed by contributors who had known him.
+
+In 2017 the government set up an Ihor Kostenko scholarship for geography students. In 2018 a monument to him was unveiled in the courtyard of the Faculty of Geography in Lviv. The 120,000 hryvnias it cost were raised by students, alumni and donors; even kindergarten children collected bottle caps and raised 700 hryvnias from them.

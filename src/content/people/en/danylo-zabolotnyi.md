@@ -3,7 +3,7 @@
 name: "Danylo Zabolotnyi"
 role: "Epidemiologist who hunted plague"
 summary: "He drank a live cholera culture to test a vaccine. Danylo Zabolotnyi from Podillia studied plague and cholera from India to Manchuria, proved that wild rodents pass plague to people, founded the world’s first department of epidemiology and led the All-Ukrainian Academy of Sciences."
-fun_fact: "When Zabolotnyi was elected president of the All-Ukrainian Academy of Sciences in 1928, not one of the 39 voters was against him; only one abstained."
+fun_fact: "When Zabolotnyi was elected president of the All-Ukrainian Academy of Sciences in 1928, 39 members of the Academy's council voted for him, none against, and only one abstained."
 key_accomplishments:
   - "With Ivan Savchenko, tested an oral cholera vaccine on himself (1893)"
   - "Among the first to show that healthy people can carry cholera germs"
@@ -29,13 +29,13 @@ How do you make sure a vaccine really protects? In 1893 Zabolotnyi and his colle
 
 ## The plague hunter
 
-In 1897 Zabolotnyi went to India, where plague was raging. From then on he studied infections on expeditions to Arabia, Mongolia, China, Mesopotamia, Scotland, Morocco, Manchuria and other lands. In 1898 he worked at the Pasteur Institute in Paris, and then for over 20 years headed the department of medical bacteriology at the Women’s Medical Institute in Saint Petersburg, the first department of its kind in the Russian Empire.
+In 1897 Zabolotnyi went to India, where plague was raging. From then on he studied infections on expeditions to Arabia, Mongolia, China, Mesopotamia, Scotland, Morocco, Manchuria and other lands. In 1898 he worked at the Pasteur Institute in Paris; for this work France awarded him the Legion of Honour. Then for over 20 years he headed the department of medical bacteriology at the Women’s Medical Institute in Saint Petersburg, the first department of its kind in the Russian Empire. In 1918 Zabolotnyi led the fight against cholera in Petrograd, and in 1920 against typhus.
 
-One of his key discoveries came while he was looking for where plague comes from. In 1911 Zabolotnyi proved that its germs pass to people from wild rodents. One such carrier turned out to be the tarbagan, the Mongolian marmot.
+One of his key discoveries came while he was looking for where plague comes from. In 1911 Zabolotnyi proved that its germs pass to people from wild rodents. He showed that rodents carry plague and fleas spread it, and he found the natural reservoirs where the disease survives between epidemics. That same year, as a delegate of the Russian Empire, Zabolotnyi was one of the most influential participants of the International Plague Conference in Mukden. It was called after the epidemic in Manchuria, which killed more than 60,000 people and is believed to have started with tarbagans, Mongolian marmots.
 
 ## Odesa and Kyiv
 
-From 1919 to 1923 Zabolotnyi was rector of the Odesa Medical Institute, where in 1920 he founded the world’s first department of epidemiology, the science of how diseases spread and how to stop them. In 1928 he moved to Kyiv and was elected president of the All-Ukrainian Academy of Sciences. That year he also founded the Institute of Microbiology and Epidemiology. Zabolotnyi died in Kyiv on 15 December 1929. He was buried in his home village, next to his wife.
+From 1919 to 1923 Zabolotnyi was rector of the Odesa Medical Institute, where in 1920 he founded the world’s first department of epidemiology, the science of how diseases spread and how to stop them. In 1928 he moved to Kyiv and was elected president of the All-Ukrainian Academy of Sciences. That year he also founded the Institute of Microbiology and Epidemiology. Zabolotnyi died in Kyiv on 15 December 1929. He was buried in his home village, next to his wife. His house there is now a museum: on the table by the window stands the Zeiss microscope that went with him to the deserts of Asia and to Manchuria, and the garden still has trees he brought back from his expeditions, a Karelian birch and an Ussuri maple.
 
 ## Why it matters today
 

@@ -20,17 +20,17 @@ image_alt: "Imagined portrait of Roksolana by an unknown artist, 16th century"
 
 Nobody knows her real name. Venetian diplomats in Istanbul wrote that she was “from Rus’,” and Michalo Lituanus wrote that she had been taken captive by the Crimean Tatars. The girl, born around 1505, was probably sold at a slave market in Istanbul, and that is how she came into the harem of Sultan Suleiman I.
 
-In the harem she was named Hürrem, Persian for “joy.” The title “haseki,” meaning “favorite sultana,” was created for her first. The dynasty’s customs allowed a concubine only one son, yet she bore Suleiman six children. Probably in the 1530s the sultan took her as his lawful wife.
+In the harem she was named Hürrem, Persian for “joy.” The title “haseki,” meaning “favorite sultana,” was created for her first. The dynasty’s customs allowed a concubine only one son, yet she bore Suleiman six children. Probably in the 1530s the sultan took her as his lawful wife and settled on her a dowry of 5,000 gold coins.
 
 ## Power that left no paper trail
 
-There is no direct evidence of her role in politics. Her daughter married Rüstem Pasha, who became grand vizier in 1544. It seems that, together with him, Roksolana convinced the sultan that Prince Mustafa, the son of another concubine, was after the throne; in 1553 Mustafa was executed. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul and Edirne to Jerusalem, Mecca and Medina. Roksolana died in 1558, and after Suleiman the throne passed to her son Selim II.
+There is no direct evidence of her role in politics. After a fire in the Old Palace in 1541, she won the right to move with her household into Topkapı Palace, where the government sat. Her daughter married Rüstem Pasha, who became grand vizier in 1544. Following Ottoman court protocol, Roksolana also wrote to King Sigismund II Augustus of Poland: her 1548 letter, bearing her own seal, congratulating the king on his accession and consoling him on his father’s death, is still kept in an archive in Warsaw. It seems that, together with him, Roksolana convinced the sultan that Prince Mustafa, the son of another concubine, was after the throne; in 1553 Mustafa was executed. She founded mosques, a women’s hospital, schools and soup kitchens for the poor, from Istanbul and Edirne to Jerusalem, Mecca and Medina. The endowment deed for her foundations in Jerusalem (1557), 49 pages in Arabic with her seal, is now kept in a museum in Istanbul. Roksolana died in 1558, and after Suleiman the throne passed to her son Selim II.
 
 ## Debates and assessments
 
-Her origin in Rohatyn is the traditional version, given by the Polish diplomat Samuel Twardowski in the 17th century. The names Nastia Lisovska or Oleksandra appeared only in the 19th century and have no reliable evidence behind them.
+Her origin in Rohatyn is the traditional version, given in the 17th century by the Polish poet Samuel Twardowski, a member of an embassy to Istanbul. The names Nastia Lisovska or Oleksandra appeared only in the 19th century and have no reliable evidence behind them.
 
-Her example began a period when women of the sultan’s family influenced politics, which historians call the “Sultanate of Women.” The Habsburg ambassador Busbecq portrayed her as a witch and a schemer, and that image long prevailed in Europe.
+Her example began a period when women of the sultan’s family influenced politics, which historians call the “Sultanate of Women.” The Habsburg ambassador Busbecq portrayed her as a witch and a schemer, and that image long prevailed in Europe. Her name even made its way into music: the second movement of Joseph Haydn’s Symphony No. 63 is called “La Roxelane.”
 
 Ukrainian writers from the 19th century on, by contrast, cast her as a patriot and even a defender of Ukraine, although the sources don’t confirm it. Novels, a TV series (1996–2003) and a monument in Rohatyn (1999) reinforced this image; historians criticize it as unrealistic. Even all the known portraits of Roksolana, including the earliest, by Titian (around 1552), come from the artists’ imagination.
 

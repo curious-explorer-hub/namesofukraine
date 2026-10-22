@@ -6,9 +6,9 @@ summary: "He started out as a Red Army lieutenant and became one of the UPA's id
 fun_fact: "“Poltava” was only a pen name: Petro Fedun was born in the Lviv region, in the village of Shnyriv near Brody. He had meant to become a doctor and studied medicine in Lviv."
 key_accomplishments:
   - "Head of political education at the staff of UPA-West (1944–1946) and at the UPA General Military Staff (1946–1949)"
-  - "Head of the Information Bureau of the Ukrainian Supreme Liberation Council (1946–1951), member of the OUN leadership (from 1948)"
+  - "Head of the Information Bureau of the Ukrainian Supreme Liberation Council (1946–1951) and deputy head of its General Secretariat, member of the OUN leadership (from 1948)"
   - "Author of “Who Are the Banderites and What Are They Fighting For”, “Ukraine Is Perishing! Who Is to Blame?” and “The Concept of an Independent Ukraine”"
-  - "Silver Cross of Merit (1947), Gold Cross of Combat Merit, 1st class"
+  - "Silver Cross of Merit (1947), Gold Cross of Combat Merit, 1st class, Medal for Struggle in Especially Difficult Conditions"
 birthplace_name: "Shnyriv, near Brody"
 image_alt: "Petro Poltava in insurgent uniform and cap in a winter forest, late 1940s"
 ---
@@ -23,13 +23,13 @@ In 1940 the 21-year-old student was drafted into the Red Army. He was sent on a 
 
 ## The voice of the underground
 
-In 1944 Fedun went underground. He ran political education first at the staff of UPA-West and, from 1946 to 1949, at the UPA General Military Staff, then headed by [Oleksa Hasyn](/en/people/oleksa-hasyn/). He also led the OUN's main propaganda centre and the Information Bureau of the Ukrainian Supreme Liberation Council, the political leadership of the independence movement. In 1948 he joined the OUN leadership, and in 1950 he was made a major.
+In 1944 Fedun went underground; that summer he ran the OUN Youth cadre school in the Carpathians. He ran political education first at the staff of UPA-West and, from 1946 to 1949, at the UPA General Military Staff, then headed by [Oleksa Hasyn](/en/people/oleksa-hasyn/). He also led the OUN's main propaganda centre and the Information Bureau of the Ukrainian Supreme Liberation Council, the political leadership of the independence movement. The centre had a hidden radio station, Afrodyta, and a large printing house, Praha, in the Carpathians; over the winter of 1949–1950 the underground presses of the Drohobych region alone turned out more than 300,000 copies. Fedun was co-opted onto the Ukrainian Supreme Liberation Council and made deputy head of its General Secretariat. In 1948 he joined the OUN leadership, and in 1950 he was made a major.
 
-He signed his work “Petro Poltava”. He wrote about the ideas of the Ukrainian independence movement, criticized Soviet occupation policy, set out what a future independent Ukraine should look like, and tied the fight for it to social justice. One pamphlet, “Who Are the Banderites and What Are They Fighting For”, was written for people living under Soviet rule; “Banderites” was the name for followers of the OUN faction led by [Stepan Bandera](/en/people/stepan-bandera/). His writings are considered to have strongly shaped the ideas of the insurgent movement.
+He signed his work “Petro Poltava”, and in the underground he also went by “Sever” and “Volianskyi”. He wrote about the ideas of the Ukrainian independence movement, criticized Soviet occupation policy, set out what a future independent Ukraine should look like, and tied the fight for it to social justice. One pamphlet, “Who Are the Banderites and What Are They Fighting For”, was written for people living under Soviet rule; “Banderites” was the name for followers of the OUN faction led by [Stepan Bandera](/en/people/stepan-bandera/). His writings are considered to have strongly shaped the ideas of the insurgent movement.
 
 ## The last bunker
 
-On 23 December 1951 MGB troops came upon his kryivka, an underground hideout, in the forest near the village of Novoshyn. Sources differ on whether Petro Fedun was killed in the fight or shot himself to avoid capture. He was 32.
+He was hunted for years: in late 1951 about 4,500 MGB troops and officers cordoned off the forest where he was spending the winter. On 23 December they came upon his kryivka, an underground hideout, in the forest near the village of Novoshyn. Sources differ on whether Petro Fedun was killed in the fight or shot himself to avoid capture. He was 32.
 
 ## Debates and assessments
 
@@ -37,4 +37,4 @@ The OUN and the UPA, which Fedun helped lead, are judged in very different ways.
 
 ## Why it matters today
 
-Petro Poltava showed that independence is fought for not only with weapons but with words: his pamphlets explained why Ukraine needed a state of its own and what it should be like. He joined the idea of independence to a demand for social justice and thought about how to govern a state that did not yet exist. His path from Red Army lieutenant to ideologist of the underground shows how the war forced young people to choose a side. His writings, republished in independent Ukraine, help us understand what the Ukrainian underground lived for.
+Petro Poltava showed that independence is fought for not only with weapons but with words: his pamphlets explained why Ukraine needed a state of its own and what it should be like. He joined the idea of independence to a demand for social justice and thought about how to govern a state that did not yet exist. His path from Red Army lieutenant to ideologist of the underground shows how the war forced young people to choose a side. His writings came out in exile (his “Collection of Underground Writings” was published posthumously in Munich in 1959) and were republished in independent Ukraine; they help us understand what the Ukrainian underground lived for.

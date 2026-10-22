@@ -12,7 +12,7 @@ key_accomplishments:
   - "The novellas The Boarding-School Girl, Marusia and other works that opened new genres in Ukrainian literature, including prose for children"
   - "Translated 15 Jules Verne novels into Russian, as well as works by Charles Darwin and other authors"
   - "Edited the journal Translations of the Best Foreign Writers"
-birthplace_name: "Katerynyne estate, Yelets district, Oryol province (now Lipetsk Oblast, Russia)"
+birthplace_name: "Katerynynske estate, Yelets district, Oryol province (now Lipetsk Oblast, Russia)"
 image_alt: "Photograph of Marko Vovchok (Mariia Vilinska)"
 ---
 
@@ -24,11 +24,11 @@ Folk Stories by Marko Vovchok came out in Saint Petersburg in 1857. Behind that 
 
 Mariia was born in 1833 on an estate in the Oryol province (now Lipetsk Oblast in Russia) and grew up among Russian speakers. In 1851 she married the ethnographer Opanas Markovych and lived with him in Chernihiv, Kyiv and Nemyriv in Podillia. There she collected folklore and came to know the Ukrainian language and way of life in depth.
 
-[Shevchenko](/en/people/taras-shevchenko/) read her book. In early 1859 they met in person in Saint Petersburg, and he dedicated the poem “To Marko Vovchok” to her, calling her his “daughter”. That same year her stories came out in Russian, translated under the editorship of Ivan Turgenev.
+[Shevchenko](/en/people/taras-shevchenko/) read her book. In early 1859 they met in person in Saint Petersburg, and he dedicated the poem “To Marko Vovchok” to her, calling her his “daughter”. That same year she dedicated her novella The Boarding-School Girl to Shevchenko, and in 1902 she noted that it was he who had urged her to write fairy tales too. Also in 1859 her stories came out in Russian, translated under the editorship of Ivan Turgenev. When Turgenev asked Shevchenko whom to read to learn Ukrainian quickly, Shevchenko replied: “Marko Vovchok! He alone has mastered our language.”
 
 ## Jules Verne in Russian
 
-For eight years, from 1859 to 1867, Marko Vovchok lived abroad, longest of all in Paris. Back in Russia she edited the journal Translations of the Best Foreign Writers and was the first to translate 15 Jules Verne novels into Russian, as well as works by Charles Darwin. She married a second time, to Mykhailo Lobach-Zhuchenko, spent her last years in the Caucasus and died in 1907 on the Dolinsk farmstead (now part of Nalchik).
+For eight years, from 1859 to 1867, Marko Vovchok lived abroad, longest of all in Paris. While she was abroad, the German composer Eduard Mertke took down the collection Two Hundred Ukrainian Songs (1865) from her singing. Back in Russia she wrote and translated for Russian journals, because Ukrainian was banned in the Empire: she edited the journal Translations of the Best Foreign Writers and was the first to translate 15 Jules Verne novels into Russian, as well as works by Charles Darwin. Her novella Marusia, about a Ukrainian girl in the 17th century, became a classic of French children’s literature. But her name was pushed aside from the very first edition in 1878 and vanished in later reprints, giving way to the pen name of her publisher, Pierre-Jules Hetzel: P.-J. Stahl. She married a second time, to Mykhailo Lobach-Zhuchenko, spent her last years in the Caucasus and died in 1907 on the Dolinsk farmstead (now part of Nalchik).
 
 ## Why it matters today
 
