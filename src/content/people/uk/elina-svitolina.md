@@ -49,7 +49,7 @@ sources:
     url: "https://www.wtatennis.com/news/4504616/svitolina-wins-third-rome-title-becomes-first-ukrainian-with-20-wta-crrowns"
   - title: "Elina Svitolina Foundation - Еліна Світоліна"
     url: "https://elinasvitolinafoundation.org/elina-svitolina"
-related: [marta-kostiuk]
+related: [marta-kostiuk, mykhailo-romanchuk]
 collections: [olympians]
 status: approved
 published: 2026-10-14T20:06:43Z

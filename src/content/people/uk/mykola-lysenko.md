@@ -36,7 +36,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CL%5CY%5CLysenkoMykola.htm"
   - title: Вікіпедія - Лисенко Микола Віталійович
     url: https://uk.wikipedia.org/wiki/Микола_Лисенко
-related: [mykola-leontovych, taras-shevchenko, lesya-ukrainka, ivan-kotliarevskyi, mykola-hohol, hnat-khotkevych, liudmyla-starytska-cherniakhivska]
+related: [mykola-leontovych, taras-shevchenko, lesya-ukrainka, ivan-kotliarevskyi, mykola-hohol, hnat-khotkevych, liudmyla-starytska-cherniakhivska, sofiia-rusova]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

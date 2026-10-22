@@ -41,7 +41,7 @@ sources:
     url: "https://espreso.tv/suspilstvo-ministr-sportu-bidniy-ne-bachit-pravovikh-pidstav-pozbaviti-bubku-zvannya-geroy-ukraini"
   - title: Вікіпедія - Бубка Сергій Назарович
     url: https://uk.wikipedia.org/wiki/Бубка_Сергій_Назарович
-related: [vladyslav-heraskevych]
+related: [vladyslav-heraskevych, nataliia-dobrynska]
 collections: [olympians]
 status: approved
 published: 2026-10-07T06:23:13Z

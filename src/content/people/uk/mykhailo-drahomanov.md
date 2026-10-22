@@ -36,7 +36,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CD%5CR%5CDrahomanovMykhailo.htm"
   - title: Вікіпедія - Драгоманов Михайло Петрович
     url: https://uk.wikipedia.org/wiki/Драгоманов_Михайло_Петрович
-related: [lesya-ukrainka, ivan-franko]
+related: [lesya-ukrainka, ivan-franko, sofiia-rusova]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
