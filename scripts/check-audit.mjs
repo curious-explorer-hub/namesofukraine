@@ -10,6 +10,7 @@ const allowed = {
   'GHSA-7pqw-9j4j-h8q3': 'extract-zip: CI only, no untrusted archives',
   'GHSA-hp3w-g68c-fv3c': 'sprintf-js: CI only, no outside format input',
   'GHSA-w5hq-g745-h8pq': 'uuid: CI only, no caller-supplied buffers',
+  'GHSA-mrhx-c7xc-m3w5': 'zod 3 (via @lhci/cli): CI only, no untrusted input',
 };
 
 let report;
