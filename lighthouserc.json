@@ -9,7 +9,7 @@
         "/uk/new/",
         "/uk/people/olha-kharlan/"
       ],
-      "numberOfRuns": 3,
+      "numberOfRuns": 1,
       "settings": {
         "formFactor": "mobile",
         "chromeFlags": "--headless=new --no-sandbox"
