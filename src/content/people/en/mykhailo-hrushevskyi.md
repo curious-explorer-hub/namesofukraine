@@ -25,11 +25,13 @@ For a long time the history of the Ukrainian lands was told as part of Russia’
 
 ## A professor in Lviv
 
-Hrushevskyi was born in 1866 in the town of Kholm (now Chełm in Poland) into the family of an educator and studied at Kyiv University. In 1894 he took over a chair at Lviv University that became, in effect, the first chair of Ukrainian history. Under his leadership the Shevchenko Scientific Society grew into a true academy of sciences.
+Hrushevskyi was born in 1866 in the town of Kholm (now Chełm in Poland) into the family of an educator, and grew up in the Caucasus: the family moved there in 1869, and he finished the gymnasium in Tiflis (now Tbilisi). At Kyiv University he studied under the historian Volodymyr Antonovych. In 1894, on Antonovych’s recommendation, the 28-year-old Hrushevskyi took over a chair at Lviv University that became, in effect, the first chair of Ukrainian history. Under his leadership the Shevchenko Scientific Society grew into a true academy of sciences.
+
+Every summer from 1907 to 1914 Hrushevskyi lived and worked with his wife and daughter in the Hutsul village of Kryvorivnia, in a wooden villa furnished inside in the Hutsul style. There he was in constant touch with [Ivan Franko](/en/people/ivan-franko/), [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/) and other writers and scholars. In 1917 Russian troops retreating from the Carpathians burned the villa down.
 
 ## From autonomy to independence
 
-Hrushevskyi was elected head of the Ukrainian Central Rada (council) in 1917. Under his leadership the Rada first proclaimed autonomy, and then, on 22 January 1918, by its Fourth Universal (proclamation), the independence of the Ukrainian People’s Republic.
+Hrushevskyi was elected head of the Ukrainian Central Rada (council) in 1917. Under his leadership the Rada first proclaimed autonomy, and then, on 22 January 1918, by its Fourth Universal (proclamation), the independence of the Ukrainian People’s Republic. At Hrushevskyi’s proposal, the trident was adopted as the republic’s coat of arms.
 
 In 1919 he emigrated, and in 1924 he returned to Soviet Ukraine. In 1931 he was forced to move to Moscow and arrested; after his release he lived under surveillance. In 1934 Hrushevskyi died suddenly in Kislovodsk after a minor operation, and the circumstances of his death still arouse suspicion.
 
