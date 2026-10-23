@@ -3,7 +3,7 @@
 name: "Ivan Mazepa"
 role: "Hetman and patron of Cossack Baroque"
 summary: "For twenty years he was the Muscovite tsar’s ally; then, in 1708, he went over to the Swedish king to free Ukraine from Moscow’s rule. Ivan Mazepa was the hetman whose money built and restored many churches in the Cossack Baroque style."
-fun_fact: "Mazepa’s story inspired Byron, Hugo, Pushkin and the composer Franz Liszt."
+fun_fact: "Mazepa’s story inspired Byron, Hugo, Pushkin, the composer Franz Liszt and the painter Eugène Delacroix."
 misconception:
   claim: "Mazepa was a traitor who sold Ukraine out to the Swedes for his own gain."
   truth: "This label was spread by imperial propaganda after 1709. In fact, Mazepa had been Peter I’s loyal ally for two decades; he switched to Charles XII’s side only once the tsar began dismantling the Hetmanate’s autonomy - meaning he acted to preserve Ukraine, not to sell it."
@@ -21,18 +21,18 @@ quotes:
 
 ## A hetman with a European education
 
-Ivan Mazepa came from the Ukrainian nobility and was born on a homestead that later became the village of Mazepyntsi near Bila Tserkva. His exact birth date is unknown; 20 March 1639 is the traditional one. He studied at the Kyiv-Mohyla College and in Europe, served at the court of the Polish king and spoke several languages. In 1669 he entered the service of Hetman [Petro Doroshenko](/en/people/petro-doroshenko/), first commanding a squadron of his guard and later as his chancellor. In 1687 the Cossack officers (the starshyna) elected him hetman.
+Ivan Mazepa came from the Ukrainian nobility and was born on a homestead that later became the village of Mazepyntsi near Bila Tserkva. His exact birth date is unknown; 20 March 1639 is the traditional one. He studied at the Kyiv-Mohyla College and at the Jesuit college in Warsaw, and learned gunnery in the Netherlands. He served at the court of the Polish king and knew about eight languages, from Latin and German to Italian and Tatar. In 1669 he entered the service of Hetman [Petro Doroshenko](/en/people/petro-doroshenko/), first commanding a squadron of his guard and later as his chancellor. In 1687 the Cossack officers (the starshyna) elected him hetman.
 
 ## Churches that named a style
 
-Mazepa was one of the greatest patrons of the arts in Ukraine’s history. His money built and restored many churches, including in the Kyiv Pechersk Lavra and St. Michael’s Golden-Domed Monastery. Their style became known as Cossack, or Mazepa, Baroque. He also supported printing, schools and the Kyiv-Mohyla Academy.
+Mazepa was one of the greatest patrons of the arts in Ukraine’s history. His money built and restored many churches, including in the Kyiv Pechersk Lavra, where the Church of All Saints went up in 1696–98, and St. Michael’s Golden-Domed Monastery. Their style became known as Cossack, or Mazepa, Baroque. He also supported printing, schools and the Kyiv-Mohyla Academy, and helped found the Chernihiv Collegium. The hetman wrote verse himself, including his Duma on Ukraine’s fate, and collected books and weapons.
 
 ## The ally who changed sides
 
-For about twenty years Mazepa was an ally of Tsar Peter I and fought alongside him, including in the Azov campaigns. But the tsar kept cutting back the Hetmanate’s autonomy and wearing the Cossacks down with wars. In 1708 the hetman went over to the Swedish king Charles XII. In response, Menshikov’s troops destroyed the hetman’s capital, Baturyn, together with its people.
+For about twenty years Mazepa was an ally of Tsar Peter I and fought alongside him, including in the Azov campaigns. In 1704 he took Right-Bank Ukraine under his mace, briefly uniting the Ukrainian lands on both banks of the Dnipro, and in 1707 he was made a Prince of the Holy Roman Empire. But the tsar kept cutting back the Hetmanate’s autonomy and wearing the Cossacks down with wars. In 1708 the hetman went over to the Swedish king Charles XII. In response, Menshikov’s troops destroyed the hetman’s capital, Baturyn, together with its people.
 
 After the defeat at Poltava in 1709, Mazepa retreated to Bender and died there. He was buried in the Monastery of St. George in Galați (now in Romania). The Russian Church anathematized him, and for centuries “Mazepist” (mazepynets) was a slur in the empire for Ukrainians who wanted independence.
 
 ## Why it matters today
 
-Ivan Mazepa put his wealth into churches, schools and printing, and the style he made possible is still called Mazepa Baroque. In 1708 he risked everything to free Ukraine from Moscow’s rule, and lost. Yet the empire spent centuries turning his name into a slur precisely because it came to stand for Ukrainians who wanted independence. His call to stand “as one” “in defence of our laws and freedoms” still rings true today. His portrait is on the 10-hryvnia banknote.
+Ivan Mazepa put his wealth into churches, schools and printing, and the style he made possible is still called Mazepa Baroque. In 1708 he risked everything to free Ukraine from Moscow’s rule, and lost. Yet the empire spent centuries turning his name into a slur precisely because it came to stand for Ukrainians who wanted independence. His call to stand “as one” “in defence of our laws and freedoms” still rings true today. His portrait is on the 10-hryvnia banknote, and the 54th Separate Mechanized Brigade and a Ukrainian Navy corvette bear his name.
