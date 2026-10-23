@@ -3,7 +3,7 @@
 name: "Bohdan Khmelnytskyi"
 role: "Hetman, founder of the Cossack state"
 summary: "A Cossack captain lost his homestead to a lawless official, and within a year he was leading an uprising that shifted the balance of power in Europe. Hetman Bohdan Khmelnytskyi went on to build a Cossack state, the Hetmanate."
-fun_fact: "Khmelnytskyi studied at the Jesuit college in Lviv and spoke Ukrainian, Polish and Latin; later he also learned Turkish and Tatar."
+fun_fact: "Khmelnytskyi studied at the Jesuit college in Lviv and spoke Ukrainian, Polish and Latin; later he also learned Turkish, Tatar and French."
 misconception:
   claim: "At the 1654 Pereyaslav Council, Khmelnytskyi and the Muscovite envoy swore mutual loyalty to each other - an agreement between two equal sides."
   truth: "The oath was one-sided: Khmelnytskyi demanded that envoy Vasily Buturlin also swear on the tsar’s behalf, but Buturlin flatly refused - by Muscovite tradition, the tsar did not swear oaths to his subjects. The Ukrainian side ultimately swore alone, without any matching obligation from Moscow."
@@ -21,7 +21,7 @@ quotes:
 
 ## It started with a homestead
 
-Bohdan (Zynovii) Khmelnytskyi was an educated Cossack: he studied at the Jesuit college in Lviv. In 1620 he fought at Cecora, was taken prisoner by the Turks and spent two years in Istanbul, until his mother paid his ransom. Later he became the sotnyk (Cossack captain) of Chyhyryn and farmed his homestead at Subotiv.
+Bohdan (Zynovii) Khmelnytskyi was born into the family of the nobleman Mykhailo Khmelnytskyi and became an educated Cossack: he studied at the Jesuit college in Lviv. In 1620 he fought at Cecora alongside his father. His father was killed, and Bohdan was taken prisoner by the Turks and spent two years in Istanbul, until his mother paid his ransom. Later he became the sotnyk (Cossack captain) of Chyhyryn and farmed his homestead at Subotiv. He married Hanna Somkivna and had about ten children with her; in all, he married three times.
 
 In the spring of 1647 the homestead was seized by Czapliński, a deputy official who held a personal grudge against him. That wrong came on top of the Cossacks’ anger at the abuses of officials, magnates and leaseholders. Late in 1647 the magnate Aleksander Koniecpolski ordered Khmelnytskyi's arrest and execution, but friends among the Chyhyryn officers, above all Colonel Mykhailo Krychevskyi, stood surety for him and saved his life. Early in 1648 Khmelnytskyi was elected hetman, and the uprising grew into a war of liberation.
 
