@@ -87,8 +87,8 @@ const structuredData = [
 ];
 const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birthplace.region, lang);
 const memberOf = collections.filter((c) => data.collections.includes(c.id));
-// "The story in N minutes": the readout's length rounded up to whole minutes, with the right plural form.
-const minutes = data.audio && Math.ceil(data.audio.duration.split(':').reduce((s, part) => s * 60 + Number(part), 0) / 60);
+// "The story in N minutes": the readout's length rounded to the nearest minute (at least 1), with the right plural form.
+const minutes = data.audio && Math.max(1, Math.round(data.audio.duration.split(':').reduce((s, part) => s * 60 + Number(part), 0) / 60));
 const plural = minutes && new Intl.PluralRules(lang).select(minutes);
 const audioTitle = minutes && t(plural === 'one' ? 'audio.title_one' : plural === 'few' ? 'audio.title_few' : 'audio.title_many', lang, { n: minutes });
 ---

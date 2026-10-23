@@ -46,6 +46,7 @@ sources:
     url: "https://litgazeta.com.ua/chytaty-onlayn/drozd-volodimir-grigorovich-lista-zemli/"
   - title: "Радіо Свобода - Ми український народ: національно-етнічна мозаїка (2003)"
     url: "https://www.radiosvoboda.org/a/904457.html"
+audio: { duration: "2:03" }
 related: [hryhir-tiutiunnyk, yevhen-hutsalo]
 collections: [sixtiers]
 status: approved
