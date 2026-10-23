@@ -3,7 +3,7 @@ name: Олена Пчілка
 gender: female
 born: 1849-06-29
 died: 1930-10-04
-last_reviewed: 2026-10-14
+last_reviewed: 2026-10-23
 era: 19th-century
 group: literature
 tags: [writer, scientist]
