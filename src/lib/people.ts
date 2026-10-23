@@ -24,7 +24,9 @@ const slugOf = (p: Profile) => p.id.split('/').slice(1).join('/');
 const localize = (profile: Profile, translation: Translation | undefined, lang: Lang): Person => {
   const slug = slugOf(profile);
   if (lang === 'uk' || !translation) {
-    return { slug, lang, data: profile.data, body: profile, bodyFallback: lang !== 'uk' };
+    // The Ukrainian readout plays only on the Ukrainian page
+    const data = lang === 'uk' ? profile.data : { ...profile.data, audio: undefined };
+    return { slug, lang, data, body: profile, bodyFallback: lang !== 'uk' };
   }
   const tr = translation.data;
   const { image, birthplace, gallery, quotes, videos } = profile.data;
@@ -44,6 +46,7 @@ const localize = (profile: Profile, translation: Translation | undefined, lang: 
       gallery: gallery.map((g, i) => ({ ...g, ...tr.gallery[i] })),
       quotes: quotes.map((q, i) => ({ ...q, ...tr.quotes[i] })),
       videos: videos.map((v, i) => ({ ...v, ...tr.videos[i] })),
+      audio: tr.audio,
     },
     body: translation.body?.trim() ? translation : profile,
     bodyFallback: !translation.body?.trim(),

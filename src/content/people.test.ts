@@ -22,6 +22,19 @@ describe('profile portraits', () => {
   });
 });
 
+// Readouts: a profile with `audio` in a language file has public/audio/<lang>/<slug>.m4a, and every file there belongs to one.
+describe('profile audio', () => {
+  for (const lang of ['uk', 'en']) {
+    const langDir = join(dir, '..', lang);
+    const audioDir = join(dir, '..', '..', '..', '..', 'public', 'audio', lang);
+    const files = existsSync(audioDir) ? readdirSync(audioDir) : [];
+    const withAudio = readdirSync(langDir).filter((f) => f.endsWith('.md') && /^audio:/m.test(readFileSync(join(langDir, f), 'utf8')));
+    it(`${lang}: audio files match the profiles that set \`audio\``, () => {
+      expect(files.sort()).toEqual(withAudio.map((f) => `${f.slice(0, -3)}.m4a`).sort());
+    });
+  }
+});
+
 // Name forms for finding mentions of profiled people (BACKLOG I17); one entry per profile, both languages.
 describe('aliases.json', () => {
   const aliases = JSON.parse(readFileSync(join(dir, '..', '..', 'aliases.json'), 'utf8')) as Record<string, { uk: string[]; en: string[] }>;

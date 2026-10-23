@@ -37,6 +37,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CC%5CPchilkaOlena.htm"
   - title: Вікіпедія - Олена Пчілка
     url: https://uk.wikipedia.org/wiki/Олена_Пчілка
+audio: { duration: "1:41" }
 related: [lesya-ukrainka, mykhailo-drahomanov, mykola-lysenko, nataliia-kobrynska, sofiia-rusova]
 status: approved
 published: 2026-10-15T23:50:07Z

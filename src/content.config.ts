@@ -85,6 +85,10 @@ const people = defineCollection({
         videos: z
           .array(z.object({ youtube: z.string().regex(/^[\w-]{11}$/), title: z.string(), source: z.string(), date: z.coerce.date(), duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/), section: z.number().int().min(1) }))
           .default([]),
+        // A short spoken readout of the profile in this file's language, at public/audio/<lang>/<slug>.m4a; set it in
+        // each language file that has one. The file loads only when the reader presses play, so its length comes
+        // from `duration` ("The story in 2 minutes").
+        audio: z.object({ duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/) }).optional(),
         sources: z.array(z.object({ title: z.string(), url: webUrl })).min(2),
         related: z.array(z.string()).default([]),
         collections: z.array(z.enum(ids(collectionsData.collections))).default([]),
@@ -117,6 +121,8 @@ const people_en = defineCollection({
     quotes: z.array(z.object({ text: z.string(), source: z.string() })).default([]),
     // Same order as `videos` in the Ukrainian file
     videos: z.array(z.object({ title: z.string(), source: z.string().optional() })).default([]),
+    // The English readout, as `audio` in the Ukrainian file; without it the English page has no player
+    audio: z.object({ duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/) }).optional(),
   }),
 });
 

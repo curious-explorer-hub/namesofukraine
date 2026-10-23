@@ -35,6 +35,8 @@
   --myth-bg: light-dark(#fbe9e7, #3a1a17);
   --myth-line: light-dark(#c0392b, #e0675a);
   --myth-ink: light-dark(#8f2a1e, #ff9f93);
+  --audio-bg: light-dark(#e2edfb, #15264a);
+  --audio-line: light-dark(#4f86d6, #6f9ae8);
 
   --font-display: 'Fixel Display', system-ui, sans-serif;
   --font-text: 'Fixel Text', system-ui, sans-serif;
@@ -1270,6 +1272,10 @@ main:focus { outline: none; }
   margin: 2.5rem 0 0.75rem;
 }
 .profile-summary { margin: 0; font-size: var(--step-1); line-height: 1.5; }
+
+.profile-audio { margin: 0 0 1.5rem; padding: 0.85rem 1.25rem 1rem; background: var(--audio-bg); border-left: 6px solid var(--audio-line); }
+.profile-audio figcaption { margin-bottom: 0.4rem; font-weight: 500; }
+.profile-audio audio { display: block; width: 100%; height: 2.5rem; }
 
 .fun-fact {
   margin-top: 2rem;

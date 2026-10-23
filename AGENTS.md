@@ -24,6 +24,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/content/people/uk/<slug>.md` | All facts (dates, places, group, tags, sources, image, related) + Ukrainian text |
 | `src/content/people/en/<slug>.md` | English text only (same slug); facts are never repeated here |
 | `src/content/people/uk/images/` | Portraits (self-hosted, credited per file) |
+| `public/audio/{uk,en}/<slug>.m4a` | Optional spoken readouts, one per language; set `audio: { duration }` in that language's file (tested) |
 | `src/content/aliases.json` | Name stems per profile for cross-profile link checks (one entry per profile, tested) |
 | `src/content/{categories,eras,regions}.json` | Allowed groups/tags, eras, map regions |
 | `src/content/pages/{uk,en}/` | Text of About, Support, Feedback, Credits |
@@ -73,6 +74,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Living people and fallen defenders:** public role and deeds only; nothing private or graphic.
 - **Images:** public domain or a free license (Wikimedia Commons; check the license through the API), or written permission; credit author, license and source. Mark AI edits with `ai_edit` (`colorized`, `restored`, `rendered`). Fair use only by owner decision (`fair_use: true`).
 - **English names:** official transliteration with -skyi; established personal spellings are exceptions (§5).
+- **Readouts:** an audio readout says only what the profile says; listen to it all before adding it, like a draft. Encode for speech (AAC mono 64 kbps, `-movflags +faststart`).
 - **Cross-links:** link a name in the story text to the profile at the sentence that explains the tie, in both languages; add the slug to `related:`; add the new person to `aliases.json`.
 
 ## Build and verify
