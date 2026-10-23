@@ -13,7 +13,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Astro** (static output) with TypeScript; minimal client JS in `src/scripts/`; plain CSS in `src/styles/global.css` (`light-dark()` tokens for the theme).
 - Content: Markdown + frontmatter in content collections, validated by zod (`src/content.config.ts`).
 - Tests: Vitest (unit and happy-dom), Playwright (smoke tests in `e2e/`), Lighthouse budget (`lighthouserc.json`).
-- Share cards: Satori + resvg at build time (`src/lib/og.ts`). Map: a static SVG built at build time (`src/lib/map.ts`, `src/lib/world.ts`).
+- Share cards: Satori + resvg at build time (`src/lib/og.ts`). Audio readouts: self-hosted `.m4a` in `public/audio/`, the browser's own player (D21). Map: a static SVG built at build time (`src/lib/map.ts`, `src/lib/world.ts`).
 - Hosting: Cloudflare Pages, deployed by GitHub Actions. Feedback form: the site's own form, stored in Cloudflare D1 by one Pages Function (`functions/api/feedback.ts`), spam check by Cloudflare Turnstile (D19). Analytics: Cloudflare Web Analytics.
 - Node 22 (`.nvmrc`). Runtime dependencies: `astro`, `@astrojs/rss`, `@astrojs/sitemap`, and nothing else.
 
@@ -24,7 +24,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/content/people/uk/<slug>.md` | All facts (dates, places, group, tags, sources, image, related) + Ukrainian text |
 | `src/content/people/en/<slug>.md` | English text only (same slug); facts are never repeated here |
 | `src/content/people/uk/images/` | Portraits (self-hosted, credited per file) |
-| `public/audio/{uk,en}/<slug>.m4a` | Optional spoken readouts, one per language; set `audio: { duration }` in that language's file (tested) |
+| `public/audio/{uk,en}/<slug>.m4a` | Optional spoken readouts, one per language; set `audio: { duration }` in that language's file (D21, tested) |
 | `src/content/aliases.json` | Name stems per profile for cross-profile link checks (one entry per profile, tested) |
 | `src/content/{categories,eras,regions}.json` | Allowed groups/tags, eras, map regions |
 | `src/content/pages/{uk,en}/` | Text of About, Support, Feedback, Credits |
@@ -40,7 +40,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 | Doc | Read it for |
 |---|---|
-| [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D19 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
+| [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D21 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
 | [docs/BACKLOG.md](docs/BACKLOG.md) | Current status and open items (**start here to resume work**) |
 | [docs/STYLE.md](docs/STYLE.md) | How profiles are written: hook first, short, for readers of all ages |
 | [docs/CANDIDATES.md](docs/CANDIDATES.md) | People planned for future batches, with flags and editorial notes |
@@ -58,7 +58,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Comments only where they add something** the code can't say (a why, a constraint). No narration, no commented-out code.
 - **Both languages, always.** Every UI string goes in both `uk.json` and `en.json`; every profile change touches both files where the text differs.
 - **No inline scripts or styles that need `unsafe-inline`.** The CSP in `public/_headers` forbids them; use files in `src/scripts/` or `public/` (e.g. `public/theme.js`).
-- **Static only:** no server code, no third-party requests at runtime (fonts, map and images are self-hosted). The exceptions: a YouTube player the reader starts by pressing play (D18), and the feedback form (D19), whose Pages Function is the only server code and whose Turnstile check loads only once the reader starts filling it in. Every file in `functions/` becomes a public route, so keep tests and helpers out of it.
+- **Static only:** no server code, no third-party requests at runtime (fonts, map, images and audio are self-hosted). The exceptions: a YouTube player the reader starts by pressing play (D18), and the feedback form (D19), whose Pages Function is the only server code and whose Turnstile check loads only once the reader starts filling it in. Every file in `functions/` becomes a public route, so keep tests and helpers out of it.
 - **Nothing private in the repo:** no tokens, `.env` contents, emails or reader submissions. Don't rewrite git history.
 
 ## Content rules (summary of product_vision.md §7)
@@ -74,7 +74,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 - **Living people and fallen defenders:** public role and deeds only; nothing private or graphic.
 - **Images:** public domain or a free license (Wikimedia Commons; check the license through the API), or written permission; credit author, license and source. Mark AI edits with `ai_edit` (`colorized`, `restored`, `rendered`). Fair use only by owner decision (`fair_use: true`).
 - **English names:** official transliteration with -skyi; established personal spellings are exceptions (§5).
-- **Readouts:** an audio readout says only what the profile says; listen to it all before adding it, like a draft. Encode for speech (AAC mono 64 kbps, `-movflags +faststart`).
+- **Audio readouts (D21):** a readout says only what the profile says, and the owner listens to it in full before it's added. Encode the owner's file for speech: `ffmpeg -i in.m4a -map_metadata -1 -ac 1 -c:a aac -b:a 64k -movflags +faststart public/audio/<lang>/<slug>.m4a`, and set `duration` (m:ss) to its length. Keep the player's download hidden.
 - **Cross-links:** link a name in the story text to the profile at the sentence that explains the tie, in both languages; add the slug to `related:`; add the new person to `aliases.json`.
 
 ## Build and verify

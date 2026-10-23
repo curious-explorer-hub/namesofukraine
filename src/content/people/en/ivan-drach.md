@@ -3,10 +3,11 @@
 name: "Ivan Drach"
 role: "Sixtier poet, first leader of Rukh"
 summary: "Some critics found his poem A Knife in the Sun incomprehensible; others called it a revelation. Ivan Drach, a poet of the Sixtiers and a screenwriter, gave way under pressure from the regime, and in 1989 became the first leader of the People’s Movement of Ukraine."
-fun_fact: "A Well for the Thirsty, the film Drach wrote, was shot in 1965, but because of censorship audiences only saw it in 1987."
+fun_fact: "A Well for the Thirsty, the film Drach wrote, was shot in 1965, but because of censorship audiences had to wait 22 years to see it, until 1987."
 key_accomplishments:
   - "The collection Sunflower (1962), one of the key debuts of the Sixtiers"
   - "Screenplay for A Well for the Thirsty (1965, directed by Yurii Illienko)"
+  - "Screenplays for The Stone Cross (1968), I Am Coming to You (1971) and The Lost Letter (1972)"
   - "The poem The Chornobyl Madonna (1988)"
   - "First leader of the People’s Movement of Ukraine (Rukh, 1989–1992); member of parliament for four terms"
   - "Hero of Ukraine (2006)"
@@ -21,11 +22,11 @@ quotes:
 
 A long poem by a young author, A Knife in the Sun, appeared in the weekly Literaturna Ukraina in the summer of 1961. Some readers were shocked by its unusual form and by themes that were meant to be avoided; others were baffled by its difficult language; still others greeted it as a long-awaited revelation. That was how Ivan Drach arrived.
 
-He was born in 1936 in the village of Telizhyntsi in the Kyiv region and studied at Kyiv University. His first collection, Sunflower, came out in 1962. Together with the debuts of [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/) and [Vasyl Symonenko](/en/people/vasyl-symonenko/), it became one of the central events in the literature of those years.
+He was born in 1936 in the village of Telizhyntsi in the Kyiv region and studied at Kyiv University. His first collection, Sunflower, came out in 1962. In its Ballad of the Sunflower, an ordinary flower reaching for the sun becomes an image of the poet reaching for poetry. Drach blended folk song with bold intellectual thought, and complex metaphors became his signature. Together with the debuts of [Mykola Vinhranovskyi](/en/people/mykola-vinhranovskyi/) and [Vasyl Symonenko](/en/people/vasyl-symonenko/), it became one of the central events in the literature of those years.
 
 ## A poet under attack
 
-The success didn’t last. In 1963 the leadership of the Communist Party of Ukraine publicly condemned Drach; Soviet papers stopped printing his poems, and he was expelled from the university. He turned to screenwriting: A Well for the Thirsty, directed by Yurii Illienko, would come to be seen as one of the high points of Ukrainian poetic cinema.
+The success didn’t last. In 1963 the leadership of the Communist Party of Ukraine publicly condemned Drach; Soviet papers stopped printing his poems, and he was expelled from the university. With the way to print closed, he carried his voice into cinema as a screenwriter. A Well for the Thirsty, directed by Yurii Illienko, would come to be seen as one of the high points of Ukrainian poetic cinema. His scripts also became The Stone Cross (1968), after the stories of Vasyl Stefanyk, I Am Coming to You (1971), about [Lesya Ukrainka](/en/people/lesya-ukrainka/), and The Lost Letter (1972), after the story by [Nikolai Gogol](/en/people/mykola-hohol/).
 
 In 1965 the arrests of the Sixtiers began. At the premiere of [Serhii Paradzhanov](/en/people/serhii-paradzhanov/)’s Shadows of Forgotten Ancestors, Drach stood up with others in support of [Ivan Dziuba](/en/people/ivan-dziuba/), who spoke out against the arrests. In 1966 he went to the trial of those arrested with [Lina Kostenko](/en/people/lina-kostenko/), [Viacheslav Chornovil](/en/people/viacheslav-chornovil/) and Ivan Dziuba, and at a writers’ meeting he and Lina Kostenko tried to defend the convicted. For this he was given a severe reprimand.
 
