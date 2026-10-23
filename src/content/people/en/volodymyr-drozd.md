@@ -8,7 +8,7 @@ key_accomplishments:
   - "His first story collection, I Love the Blue Stars (1962)"
   - "The novel Catastrophe (1968), banned from publication for 20 years"
   - "The short story The White Horse Sheptalo (1969)"
-  - "The Taras Shevchenko State Prize of Ukraine (1992) for the epic novel Leaves of the Earth"
+  - "The Taras Shevchenko State Prize of Ukraine (1992) for the epic novel Leaves of the Earth, a chronicle of a century from the 1880s to the 1980s"
   - "Deputy head of the National Writers’ Union of Ukraine (1991–1999)"
 birthplace_name: "Petrushyn"
 image_alt: "A young Volodymyr Drozd in clear-framed glasses, a green turtleneck and a grey tweed jacket"
@@ -23,9 +23,11 @@ In 1968 the journal Vitchyzna printed a novel by a young writer called Catastrop
 
 ## A boy from the Chernihiv region
 
-Drozd was born in 1939 in the village of Petrushyn in the Chernihiv region. From 1959 he worked for a district newspaper, then for youth papers. His first story collection, I Love the Blue Stars, came out in 1962, and the same year he was admitted to the Writers’ Union. He only graduated from Kyiv University in 1968. He was married to the poet Iryna Zhylenko.
+Drozd was born in 1939 into a peasant family in the village of Petrushyn in the Chernihiv region. His father was taken to the front, and for three years the family had no word of him; when Volodia was eight, his mother died. His older sisters’ schoolbooks were his first books. To get to school in the next village he walked eight kilometres each way, whatever the weather. One of his ancestors was nicknamed Semyrozum (“Seven Minds”): a village craftsman who built a flying machine with cloth wings, jumped off a barn and landed in a cherry orchard. Semyrozum is also the title of a novella by Drozd (1967).
 
-From his very first stories Drozd wrote ‘chimeric prose’: the real blends with the imagined, and old Ukrainian tall tales, folk stories, beliefs and legends come alive in new ways. He is counted among the most prominent prose writers of the Sixtiers, with [Hryhir Tiutiunnyk](/en/people/hryhir-tiutiunnyk/) and [Yevhen Hutsalo](/en/people/yevhen-hutsalo/), and Catastrophe and the novella Olives are cited as examples of sharp satire. At the same time, it is noted that during the repressions against the Sixtiers he went over to the official position without putting up much resistance.
+Right after school, in 1959, Drozd became a journalist at a district newspaper, then worked for youth papers. In 1962, at 23, he published his first story collection, I Love the Blue Stars, and the same year he was admitted to the Writers’ Union. He only graduated from Kyiv University in 1968. He was married to the poet Iryna Zhylenko.
+
+From his very first stories Drozd wrote ‘chimeric prose’: the real blends with the imagined, and old Ukrainian tall tales, folk stories, beliefs and legends come alive in new ways, as in the novella Vyrii (1974). He is counted among the most prominent prose writers of the Sixtiers, with [Hryhir Tiutiunnyk](/en/people/hryhir-tiutiunnyk/) and [Yevhen Hutsalo](/en/people/yevhen-hutsalo/), and Catastrophe and the novella Olives are cited as examples of sharp satire. At the same time, it is noted that during the repressions against the Sixtiers he went over to the official position without putting up much resistance.
 
 ## For rebellion, the most remote garrison
 
@@ -37,8 +39,8 @@ In early 1963 Drozd was fired for rebelling against the canons of socialist real
 
 Drozd’s best-known story is The White Horse Sheptalo (1969). As an allegory, it shows how, under the pressure of the system, a bright personality turns into part of a grey, obedient herd. The same theme, how a totalitarian society flattens a person and dissolves them into the crowd, runs through all his prose.
 
-From 1982 to 1985 Drozd was editor-in-chief of the journal Kyiv, which he had helped to found. The journal soon became known for boldly publishing banned works by Ukrainian authors. From 1991 to 1999 Drozd was deputy head of the National Writers’ Union of Ukraine. His epic novel Leaves of the Earth won him the Shevchenko Prize in 1992. He died in Kyiv on 23 October 2003.
+From 1982 to 1985 Drozd was editor-in-chief of the journal Kyiv, which he had helped to found. The journal soon became known for boldly publishing banned works by Ukrainian authors. From 1991 to 1999 Drozd was deputy head of the National Writers’ Union of Ukraine. In 1992 he won the Shevchenko Prize for his epic novel Leaves of the Earth. It is a chronicle of a Ukrainian village over a whole century, from the 1880s to the 1980s, which Drozd built from people’s accounts that he recorded and collected for decades, among them his fellow villagers from Petrushyn in the Chernihiv region and Khalepia in the Kyiv region. He died in Kyiv on 23 October 2003.
 
 ## Why it matters today
 
-Volodymyr Drozd showed how the pressure of a system turns a bright personality into part of a grey mass, and he said so out loud when such things were not meant to be written. His ‘chimeric prose’ brought old Ukrainian legends, folk tales and beliefs back into modern literature. He wrote 14 novels, 17 novellas and nearly 300 short stories and essays, and The White Horse Sheptalo was added to the 8th-grade school curriculum. His white horse Sheptalo reminds every reader that staying yourself sometimes takes courage. And Catastrophe, which could not be published for twenty years, shows how much power an honest word has.
+Volodymyr Drozd showed how the pressure of a system turns a bright personality into part of a grey mass, and he said so out loud when such things were not meant to be written. His ‘chimeric prose’ brought old Ukrainian legends, folk tales and beliefs back into modern literature. He wrote 14 novels, 17 novellas and nearly 300 short stories and essays, and The White Horse Sheptalo was added to the 8th-grade school curriculum. His white horse Sheptalo reminds every reader that staying yourself sometimes takes courage. And Catastrophe, which could not be published for twenty years, shows how much power an honest word has. Leaves of the Earth, in turn, has kept his fellow villagers’ voices across a whole century.
