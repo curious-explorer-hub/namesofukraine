@@ -43,6 +43,7 @@ sources:
     url: "https://armyinform.com.ua/2021/10/27/de-pohovano-bogdana-hmelnyczkogo-rozvinchuyemo-mify/"
 related: [petro-sahaidachnyi, ivan-mazepa, ivan-bohun, ivan-sirko]
 collections: [money-people]
+audio: { duration: "2:08" }
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
