@@ -13,6 +13,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 - **Collectives** (Захисники Азовсталі, Невідомий солдат, Герої Небесної Сотні): skip, create a "collective" profile type, or profile individuals?
 - **Current or serving leaders:** §7.6 prefers lasting achievements over current positions. Add now, or after their time in office?
 - **Executed Renaissance, owner suggestions (2026-10-20), left out:** Микола Садовський, Микола Максимейко, Василь Данилевич (not repressed, older generation); Оксана Павленко and Анатоль Петрицький (never arrested; Petrytskyi was later a People's Artist of the USSR with two Stalin Prizes).
+- **Sixtiers roster check against Mokryk's «Бунт проти імперії» (2026-10-23), left out by owner decision:** Зіновія Франко (minor role; recanted under the KGB) and Андрій Малишко (Soviet-establishment poet, only mentioned). Antonenko-Davydovych joined the `sixtiers` collection as a mentor of the generation.
 - **Executed Renaissance roster check (2026-10-10), skipped for now:** Микола Скрипник (contested Bolshevik leader); Іван Кулик and Іван Микитенко (attacked other writers before being destroyed); Чехівський, Лозинський (political figures); Олена Курило and Катерина Грушевська (dates conflict, thin sources). Survivors Осьмачка, Слабченко, Суровцова, Мисик and Івченко: only if a strong profile on their own.
 
 ## To draft
