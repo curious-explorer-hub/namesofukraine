@@ -45,6 +45,7 @@ sources:
   - title: "Локальна історія - Д. Мандзюк, «Постріли в обороні мільйонів» (2021)"
     url: "https://localhistory.org.ua/texts/statti/postrili-v-oboroni-milioniv/"
 related: [stepan-bandera, roman-shukhevych]
+audio: { duration: "1:57" }
 status: approved
 published: 2026-10-19T19:15:22Z
 ---
