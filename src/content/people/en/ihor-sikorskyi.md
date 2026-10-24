@@ -21,7 +21,7 @@ quotes:
 
 ## Helicopter first, airplane second
 
-Igor Sikorsky was born in Kyiv in 1889 into the family of a professor of psychiatry. He studied at the Kyiv Polytechnic Institute, and in 1909, while still a student, he set out to build a helicopter. By 1910 he had built two: the first never left the ground, and the second lifted only itself (180 kg) but not its pilot - it "refused to lift me," Sikorsky recalled. Still, it was the first rotorcraft in Ukraine to take off. His first biplanes followed that same year, and he set several records in airplanes of his own design. At the end of 1911, in his S-6 with three passengers on board, he reached 111 km/h, a world speed record.
+Igor Sikorsky was born in Kyiv in 1889 into the family of a professor of psychiatry. As a boy he devoured Jules Verne’s novels, one of which describes a helicopter, and by the age of ten he was building toy flying machines out of paper and bamboo, among them a helicopter whose blades were spun by a rubber band. He studied at the Kyiv Polytechnic Institute, and in 1909, while still a student, he set out to build a helicopter. By 1910 he had built two: the first never left the ground, and the second lifted only itself (180 kg) but not its pilot - it "refused to lift me," Sikorsky recalled. Still, it was the first rotorcraft in Ukraine to take off. His first biplanes followed that same year, and he set several records in airplanes of his own design. At the end of 1911, in his S-6 with three passengers on board, he reached 111 km/h, a world speed record.
 
 Once his plane’s engine stopped in flight - reportedly a mosquito had clogged the fuel intake. After that crash Sikorsky turned to aircraft with several engines, which fly on even when one fails.
 
@@ -33,7 +33,7 @@ After the revolution of 1917 Sikorsky emigrated: to France in 1918 and to the Un
 
 ## The dream that took off
 
-The VS-300, which Sikorsky flew in 1939, had a single main rotor and a tail rotor. Most helicopters are still built that way. His R-4 of 1942 became the world’s first mass-produced helicopter, and Sikorsky’s company became the world leader in making helicopters. Sikorsky helicopters have carried US presidents since Dwight Eisenhower.
+On 14 September 1939 Sikorsky, in his trademark fedora, lifted the tethered VS-300 off the ground for 10 seconds. It had a single main rotor and a tail rotor. Most helicopters are still built that way. His R-4 of 1942 became the world’s first mass-produced helicopter, and Sikorsky’s company became the world leader in making helicopters. Sikorsky helicopters have carried US presidents since Dwight Eisenhower.
 
 ## Why it matters today
 
