@@ -26,13 +26,13 @@ Volodymyr was the son of [Prince Sviatoslav](/en/people/sviatoslav-khorobryi/) a
 
 ## From Perun to baptism
 
-Early in his reign Volodymyr tried to rally the state around the pagan gods, led by Perun. Later, though, he chose Byzantine-rite Christianity. The Christianization of Rus’ is traditionally dated to 988; historians place these events in 987–990. The new faith opened Kyiv to writing, education, stone architecture and close ties with Byzantium and Europe. The Church of the Tithes rose in Kyiv.
+Early in his reign Volodymyr tried to rally the state around the pagan gods, led by Perun. Later, though, he chose Byzantine-rite Christianity. The Christianization of Rus’ is traditionally dated to 988; historians place these events in 987–990. The prince himself was baptized with the name Vasylii (Basil), in Kyiv or, by other accounts, in Chersonesus (Korsun) in Crimea. The new faith opened Kyiv to writing, education, stone architecture and close ties with Byzantium and Europe. The Church of the Tithes and the first schools rose in Kyiv.
 
 Volodymyr expanded the state and built lines of forts against the nomadic Pechenegs. The Church venerates him as a saint, Equal to the Apostles.
 
 ## Debates and assessments
 
-Ukraine and Russia read Volodymyr’s legacy differently today: there are monuments to him in both Kyiv and Moscow. For Ukraine, he is a ruler of the Kyivan state, whose center was in Kyiv, and his sign, the trident, is Ukraine’s state coat of arms.
+Ukraine and Russia read Volodymyr’s legacy differently today: there are monuments to him in both Moscow and Kyiv, where since 1853 the prince, cross in hand, has stood above the Dnipro on Volodymyrska Hill. For Ukraine, he is a ruler of the Kyivan state, whose center was in Kyiv, and his sign, the trident, is Ukraine’s state coat of arms.
 
 ## Why it matters today
 
