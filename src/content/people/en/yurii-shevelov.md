@@ -13,7 +13,7 @@ key_accomplishments:
   - "Editor-in-chief of the journal Suchasnist (1978–1981), president of the Ukrainian Academy of Arts and Sciences in the US"
   - "Shevchenko National Prize of Ukraine (2000)"
 birthplace_name: "Kharkiv"
-image_alt: "An elderly Yurii Shevelov in glasses, a dark coat, a light scarf and a tie, smiling, photograph"
+image_alt: "Yurii Shevelov in dark-rimmed glasses, a dark jacket, a white shirt and a tie, portrait photograph"
 ---
 
 ## How a Schneider became Shevelov, and then Ukrainian

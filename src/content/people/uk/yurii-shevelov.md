@@ -3,7 +3,7 @@ name: Юрій Шевельов
 gender: male
 born: 1908-12-17
 died: 2002-04-12
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-24
 era: 20th-century
 group: science
 tags: [scientist, writer]
@@ -27,11 +27,13 @@ places:
   - { name: "Нью-Йорк", lat: 40.807, lon: -73.962, note: "професор Колумбійського університету, 1954–1977; місце смерті" }
 image:
   src: ./images/yurii-shevelov.jpg
-  alt: "Літній Юрій Шевельов в окулярах, у темному пальті, світлому шарфі й краватці, усміхається, фото"
+  alt: "Юрій Шевельов в окулярах у темній оправі, темному піджаку, білій сорочці й краватці, фотопортрет"
   position: "50% 30%"
-  author: "Тамара Гундорова"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%AE%D1%80%D1%96%D0%B9_%D0%A8%D0%B5%D0%B2%D0%B5%D0%BB%D1%8C%D0%BE%D0%B2_%D0%9C%D0%B8%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%97%D0%BD%D0%B0%D1%94%D0%BD%D0%BA%D0%BE_%D0%93%D1%83%D0%BD%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0,_%D0%9D%D1%8C%D1%8E_%D0%99%D0%BE%D1%80%D0%BA,_1998_(cropped).jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.yakaboo.ua/ua/author/view/Jurij_Shevelev"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Енциклопедія історії України - Шевельов Юрій Володимирович (автор - Л. Т. Масенко)"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Shevelov_Y"
@@ -50,7 +52,8 @@ sources:
   - title: "Інтерфакс-Україна - «У Харкові невідомі осквернили відновлену меморіальну дошку Шевельову» (2022)"
     url: "https://interfax.com.ua/news/general/794483.html"
 related: [mykhailo-hrushevskyi, ivan-kotliarevskyi]
-status: draft
+status: approved
+published: 2026-10-24T21:07:27Z
 ---
 
 ## Як Шнейдер став Шевельовим, а потім українцем
