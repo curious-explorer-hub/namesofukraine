@@ -13,12 +13,12 @@ key_accomplishments:
   - "Founded a library and schools; promoted book learning and the copying of books"
   - "Dynastic marriages of his children with the rulers of France, Norway, Hungary and other countries"
 birthplace_name: "Unknown"
-image_alt: "Imagined portrait of Prince Yaroslav the Wise, an illustration from Mykola Arkas’s History of Ukraine-Rus’, 1912"
+image_alt: "Imagined portrait of Prince Yaroslav the Wise in a fur hat and a cloak clasped at the shoulder, a drawing in warm sepia tones made with AI"
 ---
 
 ## A prince who had to fight for Kyiv
 
-Yaroslav was the son of Volodymyr the Great. The throne didn't simply pass to him when his father died: he won a long struggle for Kyiv. Yaroslav walked with a limp, and his enemies mocked him for it: at Liubech in 1016, a commander of his brother and rival Sviatopolk shouted to the Novgorodians, “Why have you come with this limper?” A study of his bones showed that as a child he had dislocated his right leg and later broken it below the knee. From 1019 until his death Yaroslav ruled as Grand Prince of Kyiv. For ten years, in 1026–1036, he shared Rus' with his brother Mstyslav, splitting it along the Dnipro. In 1030, between Lake Peipus and the Baltic, he founded the town of Yuriev and named it after his baptismal name, Yurii. Today it is Tartu in Estonia.
+Yaroslav was the son of [Volodymyr the Great](/en/people/volodymyr-velykyi/) and Princess Rohnida of Polatsk. In his father’s lifetime he ruled Rostov and, from 1010, Novgorod, which became his main power base. The throne didn't simply pass to him when his father died: he won a long struggle for Kyiv. Yaroslav walked with a limp, and his enemies mocked him for it: at Liubech in 1016, a commander of his brother and rival Sviatopolk shouted to the Novgorodians, “Why have you come with this limper?” A study of his bones showed that as a child he had dislocated his right leg and later broken it below the knee. From 1019 until his death Yaroslav ruled as Grand Prince of Kyiv. For ten years, in 1026–1036, he shared Rus' with his brother Mstyslav, splitting it along the Dnipro. In 1030, between Lake Peipus and the Baltic, he founded the town of Yuriev and named it after his baptismal name, Yurii. Today it is Tartu in Estonia.
 
 ## Laws, books and stone
 
