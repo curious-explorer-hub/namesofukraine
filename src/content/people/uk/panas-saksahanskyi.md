@@ -17,11 +17,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "директор Народного театру, 1918–1922; місце смерті" }
 image:
   src: ./images/panas-saksahanskyi.jpg
-  alt: "Чорно-білий фотопортрет Панаса Саксаганського 1890-х років: темне волосся, густі вуса, вишиванка під темним піджаком"
+  alt: "Фотопортрет Панаса Саксаганського 1890-х років: темне волосся, густі вуса, червоно-чорна вишиванка під темним піджаком; відновлений і розфарбований ШІ"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Панас_Саксаганський_2.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "1890 року очолив власну трупу, створену разом із братом Іваном Карпенком-Карим"
   - "Близько сотні головних ролей: Возний у «Наталці Полтавці», Копач у «Ста тисячах», Голохвостий у «За двома зайцями»"
@@ -47,7 +48,8 @@ sources:
   - title: Вікіпедія - Саксаганський Панас Карпович
     url: https://uk.wikipedia.org/wiki/Саксаганський_Панас_Карпович
 related: [ivan-karpenko-karyi, mykola-sadovskyi, marko-kropyvnytskyi, mykhailo-starytskyi, ivan-kotliarevskyi, hryhorii-kvitka-osnovianenko, yevhen-chykalenko, mariia-zankovetska]
-status: draft
+status: approved
+published: 2026-10-24T04:06:50Z
 ---
 
 ## П'єса, яку знала мати

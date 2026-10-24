@@ -12,7 +12,7 @@ key_accomplishments:
   - "In 1918–1922 led the People’s Theatre in Kyiv, the basis of the later Mariia Zankovetska Theatre"
   - "The comedies Hypocrites (1908) and Rabble, and books of memoirs"
 birthplace_name: "Kamiano-Kostuvate, Kherson Governorate (now Voznesensk district, Mykolaiv Oblast)"
-image_alt: "Black-and-white photo portrait of Panas Saksahanskyi in the 1890s: dark hair, a thick moustache, an embroidered shirt under a dark jacket"
+image_alt: "Photo portrait of Panas Saksahanskyi in the 1890s: dark hair, a thick moustache, a red-and-black embroidered shirt under a dark jacket; restored and colorized with AI"
 ---
 
 ## The play their mother knew by heart
