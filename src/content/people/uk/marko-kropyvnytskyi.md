@@ -21,11 +21,12 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "жив у пізні роки; місце поховання" }
 image:
   src: ./images/marko-kropyvnytskyi.jpg
-  alt: "Чорно-білий фотопортрет Марка Кропивницького з вусами, у двобортному сюртуку й краватці-метелику, Київ, 1883"
+  alt: "Фотопортрет Марка Кропивницького з вусами, у темно-синьому двобортному сюртуку й бордовій краватці-метелику, Київ, 1883; відновлений і розфарбований ШІ"
   position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%BE%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9B%D1%83%D0%BA%D0%B8%D1%87.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "1882 року створив у Єлисаветграді першу українську професійну трупу (театр корифеїв)"
   - "Автор 41 п'єси, серед них «Доки сонце зійде, роса очі виїсть», «Глитай, або ж Павук», «Дві сім'ї», «Олеся»"
@@ -48,7 +49,8 @@ sources:
   - title: "А. Новиков - «…Зветься мій хутір Затишок»: останні роки життя Марка Кропивницького (Літератури світу, 2018)"
     url: "https://journal.kdpu.edu.ua/world_lit/article/view/2065"
 related: [mykhailo-starytskyi, mariia-zankovetska, mykola-sadovskyi, panas-saksahanskyi, ivan-karpenko-karyi, hryhorii-kvitka-osnovianenko, ivan-kotliarevskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-24T04:22:42Z
 ---
 
 ## Місто, назване на честь актора

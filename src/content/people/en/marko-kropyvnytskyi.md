@@ -13,7 +13,7 @@ key_accomplishments:
   - "Took a Ukrainian troupe on tour to Saint Petersburg and Moscow (1886)"
   - "In 2016 the city of Kirovohrad was renamed Kropyvnytskyi in his honour"
 birthplace_name: "Bezhbairaky, Kherson Governorate (now the village of Kropyvnytske, Kirovohrad Oblast)"
-image_alt: "Black-and-white photo portrait of Marko Kropyvnytskyi with a moustache, in a double-breasted frock coat and bow tie, Kyiv, 1883"
+image_alt: "Photo portrait of Marko Kropyvnytskyi with a moustache, in a navy double-breasted frock coat and burgundy bow tie, Kyiv, 1883; restored and colorized with AI"
 ---
 
 ## A city named after an actor
