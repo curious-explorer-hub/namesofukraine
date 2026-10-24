@@ -13,7 +13,7 @@ key_accomplishments:
   - "Directed the film Natalka Poltavka (1911); lead role in the film Wind from the Rapids (1929)"
   - "The memoir My Theatrical Reminiscences, 1881–1917 (1930)"
 birthplace_name: "Kamiano-Kostuvate, Kherson Governorate (now Voznesensk district, Mykolaiv Oblast)"
-image_alt: "Black-and-white photo portrait of Mykola Sadovskyi: a greying man with a long moustache, in a dark suit, seated in a carved chair"
+image_alt: "Photo portrait of a young Mykola Sadovskyi: dark hair, a full moustache, a grey check frock coat and white collar; restored and colorized with AI"
 ---
 
 ## The soldier who brought back the banner

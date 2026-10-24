@@ -21,11 +21,12 @@ places:
   - { name: "Прага", lat: 50.088, lon: 14.420, note: "в еміграції, 1923–1926" }
 image:
   src: ./images/mykola-sadovskyi.jpg
-  alt: "Чорно-білий фотопортрет Миколи Садовського: сивуватий чоловік із довгими вусами в темному костюмі сидить у різьбленому кріслі"
-  position: "55% 25%"
-  author: "AnatolyPm (знімок фотографії початку XX ст. з Музею театрального, музичного та кіномистецтва України)"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Микола_Садовський.jpg"
+  alt: "Фотопортрет молодого Миколи Садовського: темне волосся, пишні вуса, сірий картатий сюртук і білий комір; відновлений і розфарбований ШІ"
+  position: "50% 30%"
+  author: "Невідомий автор (Державний архів Кіровоградської області)"
+  license: "Public domain"
+  source_url: "https://dakiro.kr-admin.gov.ua/v/2025/cntu2025/person/sadovskii.html"
+  ai_edit: colorized
 key_accomplishments:
   - "1907 року відкрив у Києві перший український стаціонарний театр, що діяв до 1919 року; 1914-го тут уперше поставили «Камінного господаря» Лесі Українки"
   - "Ролі Богдана Хмельницького, Сави Чалого, гетьмана Дорошенка, Командора в «Камінному господарі» Лесі Українки"
@@ -58,7 +59,8 @@ sources:
   - title: Вікіпедія - Садовський Микола Карпович
     url: https://uk.wikipedia.org/wiki/Садовський_Микола_Карпович
 related: [ivan-karpenko-karyi, panas-saksahanskyi, mariia-zankovetska, marko-kropyvnytskyi, mykhailo-starytskyi, liudmyla-starytska-cherniakhivska, lesya-ukrainka, mykola-lysenko, les-kurbas, symon-petliura]
-status: draft
+status: approved
+published: 2026-10-24T04:14:23Z
 ---
 
 ## Солдат, який повернув прапор
