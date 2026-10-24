@@ -13,6 +13,7 @@ const allowed = {
   'GHSA-mrhx-c7xc-m3w5': 'zod 3 (via @lhci/cli): CI only, no untrusted input',
   'GHSA-4qv8-2p9j-2685': 'undici 7 (via wrangler): deploy tool only, no EventSource',
   'GHSA-f72v-6w45-q472': 'undici 7 (via wrangler): deploy tool only, no Subresource Integrity checks',
+  'GHSA-xjj6-f33q-929c': 'undici 7 (via wrangler): deploy tool only, talks only to Cloudflare',
 };
 
 let report;
