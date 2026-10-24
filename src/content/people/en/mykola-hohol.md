@@ -20,15 +20,15 @@ quotes:
 
 ## A flop, then fame
 
-At 19 Nikolai Gogol, the son of Ukrainian nobles from Velyki Sorochyntsi in the Poltava region, finished the Nizhyn Gymnasium of Higher Sciences and set off for Saint Petersburg to make his name in literature. His first attempt failed: critics tore his romantic poem apart.
+Nikolai Gogol was born in Velyki Sorochyntsi in the Poltava region, into the old Ukrainian Hohol-Yanovskyi family, and grew up on his parents’ estate at Vasylivka (now the village of Hoholeve, home to a museum in his name). At 19 he finished the Nizhyn Gymnasium of Higher Sciences and set off for Saint Petersburg to make his name in literature. His first attempt failed: critics tore his romantic poem apart.
 
-Success came with a different book. Evenings on a Farm Near Dikanka, stories about the Ukrainian village full of humor, folklore and the supernatural, made him famous overnight. Next came the collection Mirgorod, with Taras Bulba and Viy.
+Success came with a different book. Evenings on a Farm Near Dikanka, stories about the Ukrainian village full of humor, folklore and the supernatural, made him famous overnight. Next came the collection Mirgorod, with Taras Bulba and Viy. Gogol dreamed of becoming a professor of history at the newly founded university in Kyiv, but did not get the post and taught ancient history at Saint Petersburg University instead.
 
 ## Books that changed prose
 
 Later Gogol wrote the comedy The Government Inspector, the novel Dead Souls and the story The Overcoat, which shaped the development of world prose. He wrote in Russian, but Ukrainian themes, folklore and history run through much of his work.
 
-In his last years Gogol went through a deep religious crisis. In 1847 he published Selected Passages from Correspondence with Friends, and shortly before his death he burned the manuscript of the second volume of Dead Souls. He died in Moscow in 1852.
+He spent many years abroad, mostly in Rome, and came back only in 1849. In his last years Gogol went through a deep religious crisis. In 1847 he published Selected Passages from Correspondence with Friends, and shortly before his death he burned the manuscript of the second volume of Dead Souls. He died in Moscow in 1852.
 
 ## Debates and assessments
 
