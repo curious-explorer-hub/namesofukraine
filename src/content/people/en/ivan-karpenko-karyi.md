@@ -12,7 +12,7 @@ key_accomplishments:
   - "His 1897 memorandum to the congress of stage workers in Moscow on the persecution of Ukrainian theatre"
   - "Actor and director of the Theatre of Coryphaei, playing leading roles in his own plays"
 birthplace_name: "Arsenivka, Kherson Governorate (now Novoukrainka district, Kirovohrad Oblast)"
-image_alt: "Oval photo portrait of Ivan Karpenko-Karyi with a short fair moustache, in a dark double-breasted frock coat and white collar"
+image_alt: "A smiling, grey-haired Ivan Karpenko-Karyi with a full moustache, in a green frock coat, seated with an open book by a table with a floral cloth; photo restored and colorized with AI"
 ---
 
 ## Noble rank lost in the paperwork

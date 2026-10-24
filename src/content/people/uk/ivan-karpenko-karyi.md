@@ -19,11 +19,12 @@ places:
   - { name: "Берлін", lat: 52.52, lon: 13.405, note: "лікування в клініці; місце смерті, 1907" }
 image:
   src: ./images/ivan-karpenko-karyi.jpg
-  alt: "Фотопортрет Івана Карпенка-Карого в овалі: короткі світлі вуса, темний двобортний сюртук, білий комір"
+  alt: "Сивий усміхнений Іван Карпенко-Карий з пишними вусами, у зеленому сюртуці, сидить із розгорнутою книжкою біля столу з квітчастою скатертиною; фото, відновлене й розфарбоване ШІ"
   position: "50% 30%"
-  author: "Федір Кірдановський"
+  author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Карпенко-Карий_І.jpg"
+  source_url: "https://uinp.gov.ua/istorychnyy-kalendar/veresen/29/1845-narodyvsya-ivan-karpenko-karyy-dramaturg"
+  ai_edit: colorized
 key_accomplishments:
   - "18 п'єс, серед них комедії «Мартин Боруля» (1886), «Сто тисяч» (1889) і «Хазяїн» (1900)"
   - "Трагедія «Сава Чалий» (1899) і драми «Бурлака», «Наймичка» та «Безталанна»"
@@ -51,7 +52,8 @@ sources:
   - title: Вікіпедія - Іван Карпенко-Карий
     url: https://uk.wikipedia.org/wiki/Іван_Карпенко-Карий
 related: [mykola-sadovskyi, panas-saksahanskyi, marko-kropyvnytskyi, mykhailo-starytskyi, mariia-zankovetska, taras-shevchenko, ivan-kotliarevskyi, ivan-franko]
-status: draft
+status: approved
+published: 2026-10-24T04:01:51Z
 ---
 
 ## Дворянство, яке загубилося в паперах
