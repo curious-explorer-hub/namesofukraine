@@ -14,7 +14,7 @@ key_accomplishments:
   - "The first ruler of Rus’ to accept Christianity; established peaceful relations with Byzantium"
   - "Around 959 sent an embassy to the German king Otto I"
 birthplace_name: "Unknown (according to the chronicle, Pleskov)"
-image_alt: "Saint Olha, an icon from c. 1700 (detail)"
+image_alt: "Imagined portrait of Princess Olha in a fur-trimmed crown set with pearls and gems, a white veil and a green robe with a cross, made with AI"
 ---
 
 ## More than revenge
@@ -23,13 +23,13 @@ Little is known about Olha herself. According to the Tale of Bygone Years she ca
 
 In the autumn of 944 the Derevlianians killed Ihor when he tried to collect tribute from them a second time. His widow took the throne of Kyiv and ruled in place of their young son, [Sviatoslav](/en/people/sviatoslav-khorobryi/). In 945–946 she crushed the Derevlianians and abolished their tribal principality. The chronicle tells of her revenge in several vivid stories, among them the burning of Iskorosten with the help of birds.
 
-But Olha’s most important work came afterwards. Instead of poliuddia, the dangerous tribute rounds on one of which Ihor had been killed, she set up princely pohosty and stations across the country. Through these centers Kyiv collected taxes, held courts and governed its lands.
+But Olha’s most important work came afterwards. Instead of poliuddia, the dangerous tribute rounds on one of which Ihor had been killed, she set up princely pohosty and stations across the country and, the chronicle says, laid down “statutes and dues” (ustavy i uroky): fixed amounts of tribute and duties. Through these centers Kyiv collected taxes, held courts and governed its lands.
 
 ## Peace instead of war
 
-With Byzantium, Olha negotiated rather than fought. She visited Constantinople and made peace with Emperor Constantine VII Porphyrogenitus. It is believed that she was baptized there, in the Cathedral of Hagia Sophia, and took the name Olena (Helena). The date of the visit and the place of her baptism are still debated: 946, 955 or 957 are suggested, and some historians believe Olha was baptized earlier, in Kyiv. Around 959 she sent an embassy to the German king Otto I.
+With Byzantium, Olha negotiated rather than fought. She visited Constantinople and made peace with Emperor Constantine VII Porphyrogenitus. It is believed that she was baptized there, in the Cathedral of Hagia Sophia, and took the name Olena (Helena). The date of the visit and the place of her baptism are still debated: 946, 955 or 957 are suggested, and some historians believe Olha was baptized earlier, in Kyiv. The chronicle adds a tale: after the baptism the emperor wanted to marry Olha, but she replied that he had baptized her himself and called her his daughter, so Christian law forbade it. “You have outwitted me, Olha,” said the emperor. Around 959 she sent an embassy to the German king Otto I.
 
-Olha could not make Christianity the state religion: she was opposed by the pagan nobility led by Sviatoslav. In 964 she handed power to her son but went on governing during his campaigns. Olha died in 969 and was buried according to Christian custom.
+Olha could not make Christianity the state religion: she was opposed by the pagan nobility led by Sviatoslav. In 964 she handed power to her son but went on governing during his campaigns. In 968, while Sviatoslav was fighting on the Danube, the Pechenegs besieged Kyiv for the first time, and Olha waited out the siege in the city with her grandsons, among them the young Volodymyr. She died in 969 and was buried according to Christian custom. The Church venerates Olha as Equal to the Apostles; her veneration began in Volodymyr’s reign.
 
 ## Why it matters today
 
