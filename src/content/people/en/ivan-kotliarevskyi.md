@@ -13,7 +13,7 @@ key_accomplishments:
   - "Headed the Poltava theater (1819–1821)"
   - "During the war of 1812 he raised the 5th Cossack Regiment and was made a major"
 birthplace_name: "Poltava"
-image_alt: "Oil portrait of Ivan Kotliarevskyi by Leontii Kashtelianchuk"
+image_alt: "Oil portrait of Ivan Kotliarevskyi by Leontii Kashtelianchuk, restored with AI"
 quotes:
   - text: "Where love of the fatherland stirs heroes, / No enemy force can stand, / There a breast is stronger than cannons…"
     source: "The mock-epic Eneida, part five"
@@ -27,7 +27,7 @@ So what was it? Kotliarevskyi took Virgil’s ancient Roman poem about the wande
 
 ## Seminarian, officer, theater director
 
-Kotliarevskyi was born in 1769 in Poltava into a clerk’s family. He studied at the Poltava Theological Seminary, worked as a private tutor in landowners’ families, and then spent more than ten years in the army. From 1810, for a quarter of a century, he ran a home for the education of children of poor nobles in Poltava. One of his pupils was the future great mathematician Mykhailo Ostrohradskyi. During the war of 1812 Kotliarevskyi raised the 5th Cossack Regiment in about three weeks and was made a major. He set one condition: after the war with Napoleon, the regiment would stay a permanent Cossack unit.
+Kotliarevskyi was born in 1769 in Poltava into a clerk’s family. He studied at the Poltava Theological Seminary, worked as a private tutor in landowners’ families, and then spent more than ten years in the army, including fighting the Turks in the Russo-Turkish War of 1806–1812. From 1810, for a quarter of a century, he ran a home for the education of children of poor nobles in Poltava. One of his pupils was the future great mathematician Mykhailo Ostrohradskyi. During the war of 1812 Kotliarevskyi raised the 5th Cossack Regiment in about three weeks and was made a major. He set one condition: after the war with Napoleon, the regiment would stay a permanent Cossack unit. In 1818 Kotliarevskyi joined the Poltava Masonic lodge Love of Truth.
 
 The Poltava theater was staging Prince Shakhovskoi’s comedy “The Cossack Poet”, which mangled the Ukrainian language and caricatured Ukrainians. Kotliarevskyi answered in his own way: in 1819, while he was running the theater, he wrote two plays for it, Natalka Poltavka and Moskal-Charivnyk (“The Soldier-Sorcerer”). Modern Ukrainian drama began with them.
 
