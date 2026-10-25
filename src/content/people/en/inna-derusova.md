@@ -20,7 +20,7 @@ That is how her comrade Petro Lysenko remembered Inna Derusova. She came to the 
 
 ## A nurse who trained medics
 
-Inna was born in 1970 in Kryvyi Rih, an industrial city in central Ukraine. She graduated from a medical college and worked as a nurse at kindergarten No. 46 run by the Kryvyi Rih-Holovnyi railway station. In 2015 she joined the Armed Forces, became a combat medic in the 58th Separate Motorized Infantry Brigade and served in Donbas until 2018, in Avdiivka, Pisky, Zolote and elsewhere. Many medics who came to the war from civilian life passed through her hands. Her comrade said that within two weeks she could turn bewildered young women into real combat medics. In 2016 her son signed a contract and began serving in her unit, and Inna was very proud of him. In 2021 Inna was awarded the Defender of the Motherland Medal.
+Inna was born in 1970 in Kryvyi Rih, an industrial city in central Ukraine. She graduated from a medical college and worked as a nurse at kindergarten No. 46 run by the Kryvyi Rih-Holovnyi railway station. In 2015 she joined the Armed Forces, became a combat medic in the 58th Separate Motorized Infantry Brigade, named after Hetman Ivan Vyhovskyi, and served in Donbas until 2018, in Avdiivka, Pisky, Zolote, Toretske and elsewhere. Many medics who came to the war from civilian life passed through her hands. Her comrade said that within two weeks she could turn bewildered young women into real combat medics. In 2016 her son signed a contract and began serving in her unit, and Inna was very proud of him. In 2021 Inna was awarded the Defender of the Motherland Medal.
 
 ## Two days in Okhtyrka
 
