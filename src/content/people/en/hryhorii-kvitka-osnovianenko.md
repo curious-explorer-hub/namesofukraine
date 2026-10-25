@@ -12,7 +12,7 @@ key_accomplishments:
   - "Co-founder of the Society of Benevolence, which helped poor children, and of Ukraine’s first institute for girls of noble birth (both 1812)"
   - "Curator of Kharkiv’s first public library"
 birthplace_name: "Osnova, Sloboda Ukraine Governorate (now part of Kharkiv)"
-image_alt: "Lithograph portrait of Hryhorii Kvitka-Osnovianenko in a dark frock coat with a high collar, holding a paper, in an oval frame"
+image_alt: "A lithograph portrait of Hryhorii Kvitka-Osnovianenko turned by AI into a photo-like image: a dark frock coat, a black neckcloth, sideburns"
 ---
 
 ## The boy who went blind
