@@ -14,7 +14,7 @@ key_accomplishments:
   - "The two-volume Foundations of Botany (1828–1831)"
   - "The first archaeological report in Ukraine to use the typological method (1868)"
 birthplace_name: "Tymkivshchyna farmstead, Poltava Governorate (now the village of Bohuslavets, Cherkasy Oblast)"
-image_alt: "Photograph of an elderly Mykhailo Maksymovych with glasses and a moustache, in a sheepskin coat and a tall lambskin hat"
+image_alt: "Imagined portrait of an elderly Mykhailo Maksymovych with glasses and a grey beard, in a dark suit and a burgundy bow tie, made by AI"
 ---
 
 ## Twenty-one days
