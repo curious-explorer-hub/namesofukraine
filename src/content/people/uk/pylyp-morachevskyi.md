@@ -3,7 +3,7 @@ name: Пилип Морачевський
 gender: male
 born: 1806-11-26
 died: 1879-04-29
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-24
 era: 19th-century
 group: literature
 tags: [poet, writer]
@@ -20,11 +20,12 @@ places:
   - { name: "Шняківка", lat: 50.73, lon: 31.942, note: "родинний маєток; тут перекладав Святе Письмо; місце смерті й поховання" }
 image:
   src: ./images/pylyp-morachevskyi.jpg
-  alt: "Чорно-білий овальний портрет літнього Пилипа Морачевського з довгим сивим волоссям і довгою сивою бородою"
+  alt: "Літній Пилип Морачевський із довгим сивим волоссям і довгою сивою бородою, у темному сюртуку, кольоровий фотопортрет"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Moracevskiy.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Перший повний переклад Нового Завіту й Псалтиря новою українською літературною мовою (1860–1865)"
   - "Його Євангеліє вийшло друком 1906–1911 років; у діаспорі його й досі читають у церквах"
@@ -47,7 +48,8 @@ sources:
   - title: "Slavic-Eurasian Research Center, Hokkaido University - A. Danylenko, «The Ukrainian Bible, the Polish Uprising, and the Imperial censorship in 1863» (2009)"
     url: "https://src-h.slav.hokudai.ac.jp/center/essay/20090804AndriyDanylenko_e.html"
 related: [ivan-ohiienko, taras-shevchenko, panteleimon-kulish]
-status: draft
+status: approved
+published: 2026-10-25T02:05:44Z
 ---
 
 ## Євангеліє без імені

@@ -11,7 +11,7 @@ key_accomplishments:
   - "The poem Chumaky, about the 1768 Koliivshchyna uprising, under the pen name Khvylymon Haluzenko"
   - "Poems in the Ukrainian Almanac (1831), the first Ukrainian literary almanac"
 birthplace_name: "Shestovytsia, Chernihiv region"
-image_alt: "Black-and-white oval portrait of an elderly Pylyp Morachevskyi with long white hair and a long white beard"
+image_alt: "An elderly Pylyp Morachevskyi with long white hair and a long white beard, in a dark frock coat, colour portrait photograph"
 ---
 
 ## A Gospel with no name on it
