@@ -20,6 +20,13 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
+| Улас Самчук | 1905–1987 | Writer (literature) | 🌍 ⚖️ | | Owner request 2026-10-24. From Volhynia; novels «Марія» (one of the first about the Holodomor) and «Волинь»; emigrated, died in Canada. Edited the newspaper «Волинь» in Rivne under German occupation (1941–1943); articles from it are disputed (check): needs a debates section |
+| Віктор Домонтович (Віктор Петров) | 1894–1969 | Writer, archaeologist, ethnologist (literature) | ⚖️ | | Owner request 2026-10-24. Novelist and scholar of the Neoclassicists' circle; in emigration after the war, then vanished in 1949 and returned to the USSR. His work for Soviet intelligence is debated (check): needs a debates section |
+| Євген Маланюк | 1897–1968 | Poet, essayist (literature) | 🌍 | | Owner request 2026-10-24. Born in Novoarkhanhelsk; UNR army officer; poet of the «Prague school» in emigration (Poland, then the US), «імператор залізних строф» (check) |
+| Докія Гуменна | 1904–1996 | Writer (literature) | 👩 🌍 | | Owner request 2026-10-24. From the Kyiv region; novel cycle «Діти Чумацького шляху»; emigrated after the war, died in New York (check) |
+| Сергій Нігоян | 1993–2014 | Maidan activist (defenders?) | | | Owner request 2026-10-24. From Dnipropetrovsk Oblast, of Armenian descent; the first protester shot dead on Hrushevskoho St, 22 January 2014; Hero of Ukraine (posthumously, Heavenly Hundred; check the decree). Which group, and the civic-icons collection? |
+| Федір Стригун | b. 1939 | Actor, theatre director (performing-arts) | 🟢 | | Owner request 2026-10-24. Long-time artistic director of the Zankovetska Theatre in Lviv; People's Artist of Ukraine (check dates and living status) |
+| Петро Дужий | 1916–2009 | OUN member, publicist (statehood?) | ⚖️ | | Owner request 2026-10-24. From the Lviv region; OUN underground, Gulag prisoner; wrote about Stepan Bandera and the OUN (check dates and honours): may need a debates section |
 
 ## Needs a decision
 
