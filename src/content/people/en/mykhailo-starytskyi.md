@@ -16,7 +16,7 @@ key_accomplishments:
   - "Translation of Shakespeare’s Hamlet (1882)"
   - "The historical novels The Youth of Mazepa and The Bandit Karmeliuk"
 birthplace_name: "Klishchyntsi, Poltava Governorate (now Cherkasy Oblast)"
-image_alt: "Black-and-white photo portrait of Mykhailo Starytskyi with long swept-back hair, a moustache and a goatee, in a frock coat"
+image_alt: "Mykhailo Starytskyi with swept-back hair, a moustache and a goatee, in a dark coat, a blue waistcoat and a patterned cravat, colour portrait photograph"
 ---
 
 ## Where “What a Moonlit Night” came from
@@ -45,7 +45,7 @@ In 1885 the troupe split, and Starytskyi gathered a new one from young actors. I
 
 ## From Chasing Two Hares to Bohdan Khmelnytskyi
 
-Starytskyi wrote and reworked dozens of plays. He built the comedy Chasing Two Hares on [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/)’s play Na Kozhumiakakh. His dramas tell of ordinary people’s lives and of history, from Destiny, dedicated to [Mariia Zankovetska](/en/people/mariia-zankovetska/), to Bohdan Khmelnytskyi. Late in life he wrote historical novels, mostly in Russian.
+Starytskyi wrote and reworked dozens of plays. He built the comedy Chasing Two Hares on [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/)’s play Na Kozhumiakakh. His dramas tell of ordinary people’s lives and of history, from Destiny, dedicated to [Mariia Zankovetska](/en/people/mariia-zankovetska/), to Bohdan Khmelnytskyi. Late in life he turned to historical novels, such as The Youth of Mazepa and The Bandit Karmeliuk.
 
 He died in Kyiv in 1904. His daughter [Liudmyla Starytska-Cherniakhivska](/en/people/liudmyla-starytska-cherniakhivska/) became a writer and playwright.
 

@@ -3,7 +3,7 @@ name: Михайло Старицький
 gender: male
 born: 1840-12-14
 died: 1904-04-27
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-24
 era: 19th-century
 group: literature
 tags: [writer, poet]
@@ -20,11 +20,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "університет; співпраця з Лисенком; «Товариство українських сценічних акторів» (1872); місце смерті й поховання" }
 image:
   src: ./images/mykhailo-starytskyi.jpg
-  alt: "Чорно-білий фотопортрет Михайла Старицького з довгим зачесаним назад волоссям, вусами й борідкою, у сюртуку"
+  alt: "Михайло Старицький із зачесаним назад волоссям, вусами й борідкою, у темному пальті, синьому жилеті й візерунчастій краватці, кольоровий фотопортрет"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Mykhaylo_staryckyy.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Очолював першу українську професійну трупу (1883–1885), потім власні трупи"
   - "Разом із Миколою Лисенком заснував у Києві «Товариство українських сценічних акторів» (1872)"
@@ -51,7 +52,8 @@ sources:
   - title: "Еспресо - Пивоваров і KOLA записали дует «Ніч яка місячна» за віршем Михайла Старицького (2024)"
     url: "https://espreso.tv/kultura-pivovarov-i-kola-zapisali-duet-nich-yaka-misyachna-za-virshem-mikhayla-staritskogo"
 related: [mykola-lysenko, marko-kropyvnytskyi, mykola-sadovskyi, ivan-nechui-levytskyi, mykola-hohol, liudmyla-starytska-cherniakhivska, olena-pchilka, mykola-kostomarov, mariia-zankovetska]
-status: draft
+status: approved
+published: 2026-10-25T01:28:22Z
 ---
 
 ## Звідки взялася «Ніч яка місячна»
@@ -80,7 +82,7 @@ status: draft
 
 ## Від «За двома зайцями» до «Богдана Хмельницького»
 
-Старицький написав і переробив десятки п'єс. Комедію «За двома зайцями» він створив на основі п'єси [Івана Нечуя-Левицького](/uk/people/ivan-nechui-levytskyi/) «На Кожум'яках». Його драми - і про долі простих людей, і про історію: від «Талану», присвяченого [Марії Заньковецькій](/uk/people/mariia-zankovetska/), до «Богдана Хмельницького». Наприкінці життя писав історичні романи, здебільшого російською мовою.
+Старицький написав і переробив десятки п'єс. Комедію «За двома зайцями» він створив на основі п'єси [Івана Нечуя-Левицького](/uk/people/ivan-nechui-levytskyi/) «На Кожум'яках». Його драми - і про долі простих людей, і про історію: від «Талану», присвяченого [Марії Заньковецькій](/uk/people/mariia-zankovetska/), до «Богдана Хмельницького». Наприкінці життя він узявся за історичні романи - «Молодість Мазепи» і «Розбійник Кармелюк».
 
 Він помер 1904 року в Києві. Його донька [Людмила Старицька-Черняхівська](/uk/people/liudmyla-starytska-cherniakhivska/) стала письменницею й драматургинею.
 
