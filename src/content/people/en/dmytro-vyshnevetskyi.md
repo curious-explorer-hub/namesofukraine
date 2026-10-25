@@ -37,7 +37,7 @@ In 1563 Vyshnevetskyi set out for Moldavia: some Moldavian boyars who did not wa
 
 ## Was he Baida?
 
-Legends about his death began to spread in Ukraine, Poland and Lithuania right after it happened. According to tradition, it inspired the folk duma about the Cossack Baida, who refuses to serve the sultan. Whether Vyshnevetskyi really was the model for Baida is debated by historians.
+Legends about his death began to spread in Ukraine, Poland and Lithuania right after it happened. It was said that in Istanbul he was hung on a hook and hung there for three days, mocking the Turks and cursing their faith, until they could bear it no longer and shot him. According to tradition, it inspired the folk duma about the Cossack Baida, who refuses to serve the sultan. Whether Vyshnevetskyi really was the model for Baida is debated by historians.
 
 ## Why it matters today
 
