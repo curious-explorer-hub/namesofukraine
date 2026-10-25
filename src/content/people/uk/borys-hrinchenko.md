@@ -3,7 +3,7 @@ name: Борис Грінченко
 gender: male
 born: 1863-12-09
 died: 1910-05-06
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-24
 era: 19th-century
 group: science
 tags: [scientist, writer]
@@ -18,11 +18,12 @@ places:
   - { name: "Оспедалетті, Італія", lat: 43.8, lon: 7.717, note: "лікувався від туберкульозу; місце смерті" }
 image:
   src: ./images/borys-hrinchenko.jpg
-  alt: "Фотопортрет молодого Бориса Грінченка з густою бородою, у темному сюртуку й краватці"
+  alt: "Молодий Борис Грінченко з густою бородою, у темному піджаку й світлій сорочці з квітковим візерунком, кольоровий фотопортрет"
   position: "50% 30%"
-  author: "Нухим Тираспольський"
+  author: "Єлисей Трофімов (імовірно)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Грінченко_Борис.jpg"
+  source_url: "https://en.wikipedia.org/wiki/Borys_Hrinchenko"
+  ai_edit: colorized
 key_accomplishments:
   - "Упорядкував чотиритомний «Словар української мови» (1907–1909), близько 68 тисяч слів; друга премія імені Миколи Костомарова Петербурзької академії наук"
   - "Понад десять років учителював у сільських школах; написав одні з перших підручників українською"
@@ -47,7 +48,8 @@ sources:
   - title: "Вікіпедія - Борис Грінченко"
     url: "https://uk.wikipedia.org/wiki/Борис_Грінченко"
 related: [taras-shevchenko, mykhailo-drahomanov, yevhen-chykalenko, serhii-yefremov]
-status: draft
+status: approved
+published: 2026-10-25T01:36:10Z
 ---
 
 ## Словник, який чекав 46 років

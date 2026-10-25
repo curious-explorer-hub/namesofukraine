@@ -13,7 +13,7 @@ key_accomplishments:
   - "Letters from Dnieper Ukraine (1892–1893); some 50 short stories, novelettes, plays and translations"
   - "Three volumes of Ethnographic Materials (1895–1899) from the Chernihiv region and neighbouring provinces"
 birthplace_name: "Vilkhovyi Yar farmstead near Ruski Tyshky, Kharkiv region"
-image_alt: "Photograph of a young Borys Hrinchenko with a full beard, in a dark frock coat and tie"
+image_alt: "A young Borys Hrinchenko with a full beard, in a dark jacket and a light floral-patterned shirt, colour portrait photograph"
 ---
 
 ## A dictionary 46 years in the waiting
