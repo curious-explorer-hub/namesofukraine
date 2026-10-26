@@ -8,7 +8,7 @@ key_accomplishments:
   - "Scout in the Ukrainian Insurgent Army (1944–1946)"
   - "Camps in Mordovia and exile in Siberia (1946–1956)"
   - "The first protest by self-immolation in Ukraine, on Khreshchatyk in Kyiv (5 November 1968)"
-  - "A street in Dnipro named after him (2015) and a memorial plaque on Khreshchatyk (2017)"
+  - "A street in Dnipro named after him (2015), a memorial plaque on Khreshchatyk (2017), a footbridge in Prague (2018) and a street in Kyiv (2019)"
 birthplace_name: "Kariv"
 image_alt: "Photo portrait of Vasyl Makukh in a checked shirt against grass and trees"
 quotes:
@@ -20,13 +20,13 @@ quotes:
 
 Vasyl Makukh was born in 1927 in the village of Kariv in the Lviv region, into a peasant family. In late 1944, at seventeen, he deserted from the Soviet Army, joined the Ukrainian Insurgent Army (UPA) and served in its intelligence under the code name “Mykola”. In February 1946 he was wounded in battle and captured. Under interrogation the eighteen-year-old gave no one away: to every question from the investigator, even about his commander, he answered, “I don’t know.”
 
-A Soviet court gave him ten years in the camps and five years of exile. He served his term in the camps of Mordovia; in 1955 he was let out of the camp and sent into exile in Siberia, and in 1956 he was finally free.
+A Soviet court gave him ten years in the camps and five years of exile. He served his term in the camps of Mordovia; in 1955 he was let out of the camp and sent into exile in Siberia, and in 1956 he was finally free. In exile he met the actress Lidiia Zapara, who at seventeen had also been sentenced to ten years in the camps and five years of exile.
 
 ## A stranger in his own country
 
-Former insurgents weren’t allowed back home to Galicia. Makukh settled in Dnipropetrovsk, worked as a fitter, married and raised a daughter and a son. He wanted to study and got into university, but he was expelled as soon as his years in the camps came to light.
+Former insurgents weren’t allowed back home to Galicia. Makukh followed Lidiia to Dnipropetrovsk, married her and worked as a fitter. Their daughter Olha was born in 1960 and their son Volodymyr in 1964. He wanted to study: he finished evening school and got into the university’s education faculty, but he was expelled as soon as his years in the camps came to light.
 
-At home the family spoke Ukrainian, which was already unusual in the city. Early in 1968 he was deeply moved by Oles Honchar’s novel *The Cathedral* in the journal *Vitchyzna*, and outraged by the way the press hounded it. Then in August one piece of news shook him: Soviet troops rolled into Czechoslovakia to crush the Prague Spring. He told his wife he was ready to give himself for a free Ukraine and for his children’s future.
+At home the family spoke Ukrainian, which was already unusual in the city. Early in 1968 he was deeply moved by Oles Honchar’s novel *The Cathedral* in the journal *Vitchyzna*, and outraged by the way the press hounded it. Then in August one piece of news shook him: Soviet troops rolled into Czechoslovakia to crush the Prague Spring. He told his wife he was ready to give himself for a free Ukraine and for his children’s future. In October he went to his family in the Lviv region and from there wrote letters to friends and to his wife; each ended with “Glory to Ukraine!” According to testimony kept by the SBU, he also wrote a letter of protest to the Central Committee of the Communist Party of Ukraine.
 
 ## A protest on Khreshchatyk
 
@@ -42,4 +42,4 @@ In hospital Vasyl Makukh came round an hour before he died. The doctors reproach
 
 ## Why it matters today
 
-Vasyl Makukh’s protest was the first of its kind in Ukraine: a former political prisoner walked onto the capital’s main street and shouted “Long live a free Ukraine!” Soviet newspapers kept silent, but the news reached the world, and later Jan Palach in Prague and [Oleksa Hirnyk](/en/people/oleksa-hirnyk/) in Kaniv made the same protest. His act is a reminder that Ukraine’s freedom had defenders even when almost no one could hear them. He believed his children would “yet be proud of their father”, and the free Ukraine he never lived to see can now know his name: since 2017 a plaque on Khreshchatyk has marked it.
+Vasyl Makukh’s protest was the first of its kind in Ukraine: a former political prisoner walked onto the capital’s main street and shouted “Long live a free Ukraine!” Soviet newspapers kept silent, but the news reached the world, and later Jan Palach in Prague, Romas Kalanta in Lithuania and [Oleksa Hirnyk](/en/people/oleksa-hirnyk/) in Kaniv made the same protest. His act is a reminder that Ukraine’s freedom had defenders even when almost no one could hear them. He believed his children would “yet be proud of their father”, and the free Ukraine he never lived to see can now know his name: since 2017 a plaque on Khreshchatyk has marked it, in 2018 a footbridge in Prague was named after him, and in 2019 a street in Kyiv.
