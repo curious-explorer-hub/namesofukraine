@@ -3,7 +3,7 @@ name: Докія Гуменна
 gender: female
 born: 1904-03-07
 died: 1996-04-04
-last_reviewed: 2026-10-24
+last_reviewed: 2026-10-26
 era: 20th-century
 group: literature
 tags: [writer]
@@ -19,6 +19,7 @@ image:
   src: ./images/dokiia-humenna.jpg
   alt: "Молода Докія Гуменна з короткою зачіскою, у темній сукні з мереживним комірцем"
   position: "50% 30%"
+  ai_edit: colorized
   author: "Невідомий автор"
   license: "Public domain (Ukraine)"
   source_url: "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dokia_Humenna.jpg"
@@ -44,7 +45,8 @@ sources:
   - title: "Укрінформ - До честі: увічнити в Києві ім'я Докії Гуменної"
     url: "https://www.ukrinform.ua/rubric-other_news/2205038-do-cesti-uvicniti-v-kievi-ima-dokii-gumennoi.html"
 related: [maksym-rylskyi, olena-teliha, yurii-shevelov, viktor-domontovych]
-status: draft
+status: approved
+published: 2026-10-26T21:20:03Z
 ---
 
 ## Письменниця з лопатою
