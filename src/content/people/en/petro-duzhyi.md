@@ -12,7 +12,7 @@ key_accomplishments:
   - "The books Stepan Bandera, Symbol of the Nation (1996–1997), General Taras Chuprynka (1997) and Roman Shukhevych: Politician, Soldier, Citizen (1998)"
   - "Founder of the journal Ukrainska Ideia i Chyn (1998); honorary citizen of Lviv (1996)"
 birthplace_name: "Kariv"
-image_alt: "Black-and-white portrait of a young Petro Duzhyi in a dark jacket and tie"
+image_alt: "Portrait of a young Petro Duzhyi in a dark jacket and tie"
 ---
 
 ## Two death sentences

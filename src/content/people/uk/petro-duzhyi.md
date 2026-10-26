@@ -3,7 +3,7 @@ name: Петро Дужий
 gender: male
 born: 1916-06-07
 died: 1997-10-24
-last_reviewed: 2026-10-24
+last_reviewed: 2026-10-26
 era: 20th-century
 group: statehood
 tags: [politician, writer]
@@ -19,8 +19,9 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.031, note: "останні роки, почесний громадянин міста (1996)" }
 image:
   src: ./images/petro-duzhyi.jpg
-  alt: "Чорно-білий портрет молодого Петра Дужого в темному піджаку й краватці"
-  position: "50% 30%"
+  alt: "Портрет молодого Петра Дужого в темному піджаку й краватці"
+  position: "50% 25%"
+  ai_edit: colorized
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%94%D1%83%D0%B6%D0%B8%D0%B9_1938.JPG"
@@ -49,7 +50,8 @@ sources:
   - title: "Збруч - У Львові перейменували наступні 20 вулиць. Залишається ще 11 (18.08.2022)"
     url: "https://zbruc.eu/node/112856"
 related: [stepan-bandera, roman-shukhevych]
-status: draft
+status: approved
+published: 2026-10-26T20:54:35Z
 ---
 
 ## Два смертні вироки
