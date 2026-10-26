@@ -11,6 +11,7 @@ key_accomplishments:
   - "Hero of Ukraine with the Gold Star order, posthumously (decree No. 104/2023)"
   - "Full cavalier of the Order For Courage; Cross of Combat Merit"
 birthplace_name: "Zinkiv"
+image_alt: "Serhii Mishchenko in a camouflage bandana, smiling against green foliage"
 ---
 
 ## “The tank destroyer”

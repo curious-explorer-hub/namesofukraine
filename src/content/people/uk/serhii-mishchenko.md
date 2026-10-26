@@ -3,7 +3,7 @@ name: Сергій Міщенко
 gender: male
 born: 1974-05-21
 died: 2022-12-01
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-25
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -14,6 +14,14 @@ birthplace: { name: "Зіньків", region: poltava, country: UA, lat: 50.208,
 places:
   - { name: "Ірпінь", lat: 50.522, lon: 30.25, note: "оборона Київщини: бої за Київ, Бучу та Ірпінь (2022)" }
   - { name: "Барвінкове", lat: 48.906, lon: 37.027, note: "бої на Харківщині (2022)" }
+image:
+  src: ./images/serhii-mishchenko.jpg
+  alt: "Сергій Міщенко в камуфляжній бандані усміхається на тлі зелені"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://armyinform.com.ua/2023/05/25/rodyni-zagyblogo-geroya-ukrayiny-sergiya-mishhenka-peredaly-orden-za-muzhnist-ii-stupenya/"
+  fair_use: true
 key_accomplishments:
   - Командир відділення взводу протитанкових ракетних комплексів 45-ї окремої артилерійської бригади
   - 35 знищених одиниць російської техніки, з них 14 танків
@@ -31,7 +39,8 @@ sources:
     url: "https://memorybook.org.ua/soldiers/serhii-o-mishchenko"
 related: []
 collections: [battle-of-kyiv]
-status: draft
+status: approved
+published: 2026-10-26T02:17:51Z
 ---
 
 ## «Винищувач танків»
