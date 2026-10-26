@@ -8,7 +8,7 @@ key_accomplishments:
   - "The poem Shche ne vmerla Ukrainy (1862); its first verse and refrain are the text of Ukraine’s state anthem (law of 2003)"
   - "Led an ethnographic and statistical expedition to the Kyiv, Volhynia and Podillia regions (1869)"
   - "Seven volumes of the expedition’s Proceedings (1872–1878), a key source on Ukrainian folk culture"
-  - "Gold medals of the Russian Geographical Society (1873) and of an international congress in Paris (1875); the Uvarov Prize (1879)"
+  - "Gold medals of the russian Geographical Society (1873) and of an international congress in Paris (1875); the Uvarov Prize (1879)"
   - "A founder of the Southwestern Branch of the Geographical Society in Kyiv (1873)"
 birthplace_name: "the Chubynskyi farmstead (now Chubynske)"
 image_alt: "Pavlo Chubynskyi with a beard, in a dark frock coat, a photo from the late 19th century"
@@ -23,7 +23,7 @@ On Velyka Vasylkivska Street in Kyiv, one autumn evening in 1862, Ukrainian acti
 
 ## Exile to the North
 
-Chubynskyi was born in 1839 on a farmstead near Boryspil and studied law in St Petersburg. By the autumn of 1862 the gendarmes had marked him as “unreliable”: he was arrested without any investigation and sent under police watch to the Arkhangelsk Governorate, in Russia’s far north. He didn’t sit idle there. He worked for the statistics committee, edited a newspaper and wrote studies.
+Chubynskyi was born in 1839 on a farmstead near Boryspil and studied law in St Petersburg. By the autumn of 1862 the gendarmes had marked him as “unreliable”: he was arrested without any investigation and sent under police watch to the Arkhangelsk Governorate, in russia’s far north. He didn’t sit idle there. He worked for the statistics committee, edited a newspaper and wrote studies.
 
 ## Seven volumes of folk memory
 

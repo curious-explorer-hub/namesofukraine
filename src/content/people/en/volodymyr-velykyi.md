@@ -32,7 +32,7 @@ Volodymyr expanded the state and built lines of forts against the nomadic Pechen
 
 ## Debates and assessments
 
-Ukraine and Russia read Volodymyr’s legacy differently today: there are monuments to him in both Moscow and Kyiv, where since 1853 the prince, cross in hand, has stood above the Dnipro on Volodymyrska Hill. For Ukraine, he is a ruler of the Kyivan state, whose center was in Kyiv, and his sign, the trident, is Ukraine’s state coat of arms.
+Ukraine and russia read Volodymyr’s legacy differently today: there are monuments to him in both Moscow and Kyiv, where since 1853 the prince, cross in hand, has stood above the Dnipro on Volodymyrska Hill. For Ukraine, he is a ruler of the Kyivan state, whose center was in Kyiv, and his sign, the trident, is Ukraine’s state coat of arms.
 
 ## Why it matters today
 

@@ -2,12 +2,12 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/vitalii-skakun.md
 name: "Vitalii Skakun"
 role: "Marine combat engineer"
-summary: "A welder who had worked in Poland and studied software engineering became a combat engineer in the marines. On the first day of the full-scale war, Sailor Vitalii Skakun volunteered to blow up a bridge near Henichesk to hold back a Russian tank column, and was killed. Hero of Ukraine (posthumously)."
-fun_fact: "Prague has a Vitalii Skakun Bridge, and it stands right next to the Russian embassy."
+summary: "A welder who had worked in Poland and studied software engineering became a combat engineer in the marines. On the first day of the full-scale war, Sailor Vitalii Skakun volunteered to blow up a bridge near Henichesk to hold back a russian tank column, and was killed. Hero of Ukraine (posthumously)."
+fun_fact: "Prague has a Vitalii Skakun Bridge, and it stands right next to the russian embassy."
 key_accomplishments:
   - "Combat engineer in the engineering and demolition section of the 35th Separate Marine Brigade (from 2020)"
   - "Served on combat missions in eastern Ukraine during the Joint Forces Operation"
-  - "On 24 February 2022 volunteered to mine and blow up the road bridge between Henichesk and the Arabat Spit, slowing a Russian tank column"
+  - "On 24 February 2022 volunteered to mine and blow up the road bridge between Henichesk and the Arabat Spit, slowing a russian tank column"
   - "Hero of Ukraine (posthumously, decree No. 74/2022 of 26 February 2022)"
 birthplace_name: "Berezhany"
 image_alt: "Vitalii Skakun in military uniform and a green knitted hat"
@@ -19,7 +19,7 @@ Vitalii Skakun was born in 1996 in Berezhany, a town in the Ternopil region of w
 
 ## The bridge at Henichesk
 
-Henichesk, in the Kherson region, sits right next to Crimea. On 24 February 2022, the first day of the full-scale invasion, Vitalii’s unit was holding a position near the isthmus that links Crimea to the mainland. That day he volunteered to mine and blow up the road bridge between Henichesk and the Arabat Spit to hold back a Russian tank column. The blast slowed the column considerably, and the Ukrainian troops had time to regroup and set up a defence.
+Henichesk, in the Kherson region, sits right next to Crimea. On 24 February 2022, the first day of the full-scale invasion, Vitalii’s unit was holding a position near the isthmus that links Crimea to the mainland. That day he volunteered to mine and blow up the road bridge between Henichesk and the Arabat Spit to hold back a russian tank column. The blast slowed the column considerably, and the Ukrainian troops had time to regroup and set up a defence.
 
 Sailor Vitalii Skakun was killed blowing up the bridge near Henichesk. He was 25.
 

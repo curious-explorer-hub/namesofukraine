@@ -19,7 +19,7 @@ image_alt: "Sholem Aleichem, 1907"
 
 ## The boy from Pereiaslav
 
-Sholem Rabinovich was born in 1859 in Pereiaslav, in the Kyiv region, into a Jewish shopkeeper’s family. He spent his childhood in the nearby small town of Voronkiv. Later he turned his memories of it into Kasrilevke, an invented town that became the image of the Jewish shtetl. He studied at a kheder (a religious primary school) and then at the Pereiaslav district school, which he finished with distinction. Around that time, still a teenager, he wrote his first story, in Russian: A Jewish Robinson Crusoe. He gave Russian lessons, and from 1877 he spent a few years as a tutor in the family of Elimelekh Loyev, a wealthy leaseholder, where he fell in love with Loyev’s daughter Olga. When the romance came out, he had to leave. In 1881–1883 he was the state-appointed rabbi in Lubny.
+Sholem Rabinovich was born in 1859 in Pereiaslav, in the Kyiv region, into a Jewish shopkeeper’s family. He spent his childhood in the nearby small town of Voronkiv. Later he turned his memories of it into Kasrilevke, an invented town that became the image of the Jewish shtetl. He studied at a kheder (a religious primary school) and then at the Pereiaslav district school, which he finished with distinction. Around that time, still a teenager, he wrote his first story, in russian: A Jewish Robinson Crusoe. He gave russian lessons, and from 1877 he spent a few years as a tutor in the family of Elimelekh Loyev, a wealthy leaseholder, where he fell in love with Loyev’s daughter Olga. When the romance came out, he had to leave. In 1881–1883 he was the state-appointed rabbi in Lubny.
 
 ## “Peace be with you!”
 
@@ -27,7 +27,7 @@ In 1883 his first works in Yiddish came out in a St Petersburg weekly, among the
 
 ## Tevye, Yehupets and Boiberik
 
-The first Tevye story came out in 1894. Tevye sells his milk to rich summer visitors in Boiberik, outside Yehupets. Sholem Aleichem invented these names for real places: Kyiv became Yehupets, Boiarka became Boiberik, Odesa became Chornomorsk, and Russia was “Aunt Reyzl”. Most of his stories are set in Ukraine, with Ukrainian landscapes, Ukrainian words and folklore. He loved Ukrainian songs himself and kept [Shevchenko](/en/people/taras-shevchenko/)’s Kobzar in his library. His heroes are poor “little people” who keep their humour and their faith in justice even in hard times.
+The first Tevye story came out in 1894. Tevye sells his milk to rich summer visitors in Boiberik, outside Yehupets. Sholem Aleichem invented these names for real places: Kyiv became Yehupets, Boiarka became Boiberik, Odesa became Chornomorsk, and russia was “Aunt Reyzl”. Most of his stories are set in Ukraine, with Ukrainian landscapes, Ukrainian words and folklore. He loved Ukrainian songs himself and kept [Shevchenko](/en/people/taras-shevchenko/)’s Kobzar in his library. His heroes are poor “little people” who keep their humour and their faith in justice even in hard times.
 
 ## From Kyiv to New York
 

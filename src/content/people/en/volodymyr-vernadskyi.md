@@ -12,7 +12,7 @@ key_accomplishments:
   - "One of the founders of geochemistry and biogeochemistry; developed radiogeology"
   - "The Biosphere (1926) and the theory of the noosphere"
   - "A co-founder of the National Library of Ukraine (1918)"
-birthplace_name: "Saint Petersburg (Russia)"
+birthplace_name: "Saint Petersburg (russia)"
 image_alt: "Photograph of Volodymyr Vernadskyi, 1934"
 quotes:
   - text: "Therefore we may face the future with confidence. It is in our hands. We will not let it go."

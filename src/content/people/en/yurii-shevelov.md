@@ -18,7 +18,7 @@ image_alt: "Yurii Shevelov in dark-rimmed glasses, a dark jacket, a white shirt 
 
 ## How a Schneider became Shevelov, and then Ukrainian
 
-Yurii Shevelov was born in Kharkiv in 1908, the son of a general in the tsar’s army. His father, and partly his mother, were ethnic Germans, and the boy was born with a German surname: Schneider. During the First World War his father changed it to Shevelov. The boy knew Russian, French and German, but not Ukrainian. Yet in Kharkiv he became a linguist, studied the language of [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/), and became Ukrainian by his own choice.
+Yurii Shevelov was born in Kharkiv in 1908, the son of a general in the tsar’s army. His father, and partly his mother, were ethnic Germans, and the boy was born with a German surname: Schneider. During the First World War his father changed it to Shevelov. The boy knew russian, French and German, but not Ukrainian. Yet in Kharkiv he became a linguist, studied the language of [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/), and became Ukrainian by his own choice.
 
 ## Twenty-seven days and a hospital ward
 
@@ -34,7 +34,7 @@ After the war Shevelov spent several years in camps for displaced persons in Ger
 
 ## A language that didn’t come from a “cradle”
 
-Imagine a man who didn’t speak Ukrainian as a child writing about it in six languages, with a list of works that runs to 872 items. In the United States Shevelov taught at Harvard and then, for more than twenty years, at Columbia University. In A Historical Phonology of the Ukrainian Language (1979) he used a vast body of evidence to show that Ukrainian grew directly out of Common Slavic. This refuted the popular idea of a shared Old Rus’ language as the “cradle” of Ukrainian, Russian and Belarusian. He compared his contribution to what [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) had done for the history of Ukraine.
+Imagine a man who didn’t speak Ukrainian as a child writing about it in six languages, with a list of works that runs to 872 items. In the United States Shevelov taught at Harvard and then, for more than twenty years, at Columbia University. In A Historical Phonology of the Ukrainian Language (1979) he used a vast body of evidence to show that Ukrainian grew directly out of Common Slavic. This refuted the popular idea of a shared Old Rus’ language as the “cradle” of Ukrainian, russian and Belarusian. He compared his contribution to what [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/) had done for the history of Ukraine.
 
 After the Soviet Union collapsed, Shevelov came back to Kharkiv. In 2000 he received the Shevchenko Prize, and in 2002 he died in New York.
 

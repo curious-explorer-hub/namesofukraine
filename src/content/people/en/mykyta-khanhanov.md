@@ -15,7 +15,7 @@ image_alt: "A smiling Mykyta Khanhanov in a hooded jacket with a backpack, stand
 
 ## He didn’t hide whose side he was on
 
-Mykyta Khanhanov was born in 2006 in Berdiansk and went to the town’s School No. 1. When Russia occupied the city in 2022, he stayed at home and, like his friend [Tihran Ohannisian](/en/people/tihran-ohannisian/), openly backed Ukraine.
+Mykyta Khanhanov was born in 2006 in Berdiansk and went to the town’s School No. 1. When russia occupied the city in 2022, he stayed at home and, like his friend [Tihran Ohannisian](/en/people/tihran-ohannisian/), openly backed Ukraine.
 
 ## A fabricated case
 

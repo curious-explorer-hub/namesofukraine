@@ -39,7 +39,7 @@ After he stopped competing, Abramenko joined the coaching staff of Ukraine's nat
 
 ## Debates and assessments
 
-After his 2018 win Abramenko hugged the bronze medallist, Russia's Ilya Burov, on the podium, and the photo caused a scandal in Ukraine. In Beijing in 2022 Burov, bronze medallist again, hugged Abramenko from behind as he stood with the Ukrainian flag. Back home, Abramenko said: "I didn't hug anyone this time. I just congratulated him in a sporting way, one athlete to another, that's all."
+After his 2018 win Abramenko hugged the bronze medallist, russia's Ilya Burov, on the podium, and the photo caused a scandal in Ukraine. In Beijing in 2022 Burov, bronze medallist again, hugged Abramenko from behind as he stood with the Ukrainian flag. Back home, Abramenko said: "I didn't hug anyone this time. I just congratulated him in a sporting way, one athlete to another, that's all."
 
 ## Why it matters today
 

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/pavlo-fylypovych.md
 name: "Pavlo Fylypovych"
 role: "Neoclassicist poet, Shevchenko scholar"
-summary: "He first published poems in Russian as “Pavel Zorev”; from 1917 he wrote only in Ukrainian. Pavlo Fylypovych was a Neoclassicist poet, a professor and a scholar of Shevchenko, author of the collections Earth and Wind and Space. He was shot at Sandarmokh in 1937."
+summary: "He first published poems in russian as “Pavel Zorev”; from 1917 he wrote only in Ukrainian. Pavlo Fylypovych was a Neoclassicist poet, a professor and a scholar of Shevchenko, author of the collections Earth and Wind and Space. He was shot at Sandarmokh in 1937."
 fun_fact: "Fylypovych graduated from the Pavlo Galagan College in Kyiv in 1910 with a gold medal; Mykhailo Drai-Khmara studied there too."
 key_accomplishments:
   - "The poetry collections Earth and Wind (1922) and Space (1925)"
@@ -19,7 +19,7 @@ quotes:
 
 ## How Pavel Zorev became Pavlo Fylypovych
 
-Pavlo Fylypovych was born in 1891 in the village of Kaitanivka (now in the Cherkasy region), into a priest’s large family. He graduated from the Pavlo Galagan College in Kyiv in 1910 with a gold medal. At Kyiv University he spent a year studying law before switching to history and philology, graduating in 1915. In 1910 he also began to publish poems, but in Russian and under the pen name “Pavel Zorev”. His first major scholarly work was a book on the Russian poet Yevgeny Baratynsky (1917). Yet from that same year on he wrote in Ukrainian.
+Pavlo Fylypovych was born in 1891 in the village of Kaitanivka (now in the Cherkasy region), into a priest’s large family. He graduated from the Pavlo Galagan College in Kyiv in 1910 with a gold medal. At Kyiv University he spent a year studying law before switching to history and philology, graduating in 1915. In 1910 he also began to publish poems, but in russian and under the pen name “Pavel Zorev”. His first major scholarly work was a book on the russian poet Yevgeny Baratynsky (1917). Yet from that same year on he wrote in Ukrainian.
 
 ## A poet of the “fivefold cluster”
 
@@ -27,7 +27,7 @@ Fylypovych was one of the Kyiv Neoclassicists, the poets around [Mykola Zerov](/
 
 ## A professor who read Shevchenko anew
 
-As a scholar Fylypovych studied Taras Shevchenko, the Ukrainian classics and the ties between Ukrainian and Russian literature. He wrote more than 100 scholarly articles and reviews, among them Shevchenko and the Decembrists (1926) and Pushkin in Ukrainian Literature (1927), and edited the two-volume Shevchenko and His Times (1925–1926). He was a professor at the Kyiv Institute of People’s Education, taught modern Ukrainian literature and ran a seminar on its history together with Zerov.
+As a scholar Fylypovych studied Taras Shevchenko, the Ukrainian classics and the ties between Ukrainian and russian literature. He wrote more than 100 scholarly articles and reviews, among them Shevchenko and the Decembrists (1926) and Pushkin in Ukrainian Literature (1927), and edited the two-volume Shevchenko and His Times (1925–1926). He was a professor at the Kyiv Institute of People’s Education, taught modern Ukrainian literature and ran a seminar on its history together with Zerov.
 
 ## Solovki and Sandarmokh
 
@@ -35,4 +35,4 @@ Fylypovych was arrested on 5 September 1935 on a fabricated charge of belonging 
 
 ## Why it matters today
 
-Pavlo Fylypovych started out in Russian but chose Ukrainian for both his poetry and his scholarship. With [Mykola Zerov](/en/people/mykola-zerov/) and the other Neoclassicists he brought classical form and the European tradition into Ukrainian poetry, and in his translations Baudelaire and Verlaine spoke Ukrainian. He taught his students to read Shevchenko and the Ukrainian classics anew. Anyone who chooses Ukrainian for their writing or research today follows the path of “Pavel Zorev”, who became Pavlo Fylypovych.
+Pavlo Fylypovych started out in russian but chose Ukrainian for both his poetry and his scholarship. With [Mykola Zerov](/en/people/mykola-zerov/) and the other Neoclassicists he brought classical form and the European tradition into Ukrainian poetry, and in his translations Baudelaire and Verlaine spoke Ukrainian. He taught his students to read Shevchenko and the Ukrainian classics anew. Anyone who chooses Ukrainian for their writing or research today follows the path of “Pavel Zorev”, who became Pavlo Fylypovych.

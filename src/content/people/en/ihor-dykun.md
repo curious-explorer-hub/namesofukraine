@@ -21,7 +21,7 @@ quotes:
 
 ## The student who took a leave of absence
 
-"An ordinary family, no one in the military": that is how Ihor Dykun describes where he comes from. He was born on 4 June 1994 in Borshchiv, a town in the Ternopil region of western Ukraine. At school his favourite subject was history, above all the history of the Cossacks. In 2014, when Russia started the war in eastern Ukraine, Ihor was studying at the Lviv State University of Internal Affairs. He took a leave of absence and went to the front.
+"An ordinary family, no one in the military": that is how Ihor Dykun describes where he comes from. He was born on 4 June 1994 in Borshchiv, a town in the Ternopil region of western Ukraine. At school his favourite subject was history, above all the history of the Cossacks. In 2014, when russia started the war in eastern Ukraine, Ihor was studying at the Lviv State University of Internal Affairs. He took a leave of absence and went to the front.
 
 ## From soldier to officer
 
@@ -29,7 +29,7 @@ Ihor fought with the 24th Separate Mechanized Brigade named after King Danylo. H
 
 ## The line at Irpin
 
-In March 2022 Ihor's unit was holding a defensive line in Irpin. Everyone knew the line could not be given up: this was a suburb of Kyiv. On 24 March, after heavy shelling, Russian troops attacked, and their armoured vehicles tried to get round the position from the flank. Junior Lieutenant Dykun went out to meet them with a small group and destroyed the enemy vehicles with a grenade launcher. He was wounded in the shoulder and the leg but kept directing fire until the enemy pulled back, and only then let himself be evacuated. On 26 March 2022 he was made a Hero of Ukraine.
+In March 2022 Ihor's unit was holding a defensive line in Irpin. Everyone knew the line could not be given up: this was a suburb of Kyiv. On 24 March, after heavy shelling, russian troops attacked, and their armoured vehicles tried to get round the position from the flank. Junior Lieutenant Dykun went out to meet them with a small group and destroyed the enemy vehicles with a grenade launcher. He was wounded in the shoulder and the leg but kept directing fire until the enemy pulled back, and only then let himself be evacuated. On 26 March 2022 he was made a Hero of Ukraine.
 
 ## From platoon to brigade
 

@@ -31,7 +31,7 @@ In the mid-1920s Piddubnyi performed in the United States. There he quickly mast
 
 ## Repression and arrest
 
-Later Piddubnyi settled in the town of Yeysk (now Krasnodar Krai, Russia). In 1937 he was issued a Soviet passport that spelled his name “Poddubny” and recorded him as Russian. He crossed this out himself and wrote “Piddubnyi” and “Ukrainian”. It happened at the height of the repressions against Ukrainians, and soon he was arrested. He spent about a year in prison in Rostov-on-Don. A medical orderly who treated him later recalled the scars of torture on his back. After the Soviet pact with Nazi Germany in 1939, the authorities decided to make use of his world fame: they “rehabilitated” him and gave him the title of Honoured Artist and an order.
+Later Piddubnyi settled in the town of Yeysk (now Krasnodar Krai, russia). In 1937 he was issued a Soviet passport that spelled his name “Poddubny” and recorded him as russian. He crossed this out himself and wrote “Piddubnyi” and “Ukrainian”. It happened at the height of the repressions against Ukrainians, and soon he was arrested. He spent about a year in prison in Rostov-on-Don. A medical orderly who treated him later recalled the scars of torture on his back. After the Soviet pact with Nazi Germany in 1939, the authorities decided to make use of his world fame: they “rehabilitated” him and gave him the title of Honoured Artist and an order.
 
 ## A life and death in poverty
 

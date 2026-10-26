@@ -5,7 +5,7 @@ role: "Fighter pilot, “Juice”"
 summary: "A boy who photographed planes as a teenager grew up to fly MiG-29s and defend the sky over Kyiv. Andrii Pilshchykov, call sign “Juice”, lobbied US senators to give Ukraine F-16s. Killed in 2023; Hero of Ukraine (posthumously)."
 fun_fact: "American pilots gave him the call sign “Juice” because he never ordered alcohol, only juice."
 misconception:
-  claim: "Andrii Pilshchykov was the legendary “Ghost of Kyiv”, a lone pilot shooting down Russian aircraft over the capital."
+  claim: "Andrii Pilshchykov was the legendary “Ghost of Kyiv”, a lone pilot shooting down russian aircraft over the capital."
   truth: "The “Ghost of Kyiv” is a collective image. On 30 April 2022 the Air Force Command explained that it stands for the pilots of the 40th Tactical Aviation Brigade who defend the capital’s sky, not for one person. Pilshchykov himself stressed that the “Ghost of Kyiv” was the whole brigade: “we were just doing our job.”"
 key_accomplishments:
   - "MiG-29 fighter pilot in the Ukrainian Air Force’s 40th Tactical Aviation Brigade"

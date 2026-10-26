@@ -3,7 +3,7 @@
 name: "Serhii Velychko"
 role: "Metalist ultra, Azov veteran"
 summary: "The whole world knows the chant “Putin - kh#ilo!” (roughly “Putin is a d#ckhead”), and Kharkiv football fan Serhii Velychko, call sign Chili, is considered one of its authors. In 2014 he volunteered for Azov, and in 2022 he co-founded the military intelligence unit Kraken."
-fun_fact: "On 30 March 2022 a Russian general claimed that Velychko and Nemichev had been taken prisoner. The same day both commanders disproved it with a video from Kharkiv."
+fun_fact: "On 30 March 2022 a russian general claimed that Velychko and Nemichev had been taken prisoner. The same day both commanders disproved it with a video from Kharkiv."
 key_accomplishments:
   - "One of the leaders of Metalist’s Kharkiv ultras, who defended the Euromaidan protest in Kharkiv in 2014"
   - "One of the authors of the chant “Putin - kh#ilo!”, first sung in Kharkiv on 30 March 2014"
@@ -19,7 +19,7 @@ Where did “Putin - kh#ilo!”, the rude chant that became a symbol of defiance
 
 ## From the terraces to the front
 
-Serhii was born in Kharkiv in 1994. He was one of the leaders of the city’s ultras, who in 2014 defended the Euromaidan protest in Kharkiv from pro-Russian thugs. That same year he volunteered for Azov and fought in the Donbas until 2015. Back home, in 2018 he co-founded the Kharkiv branch of the National Corps party.
+Serhii was born in Kharkiv in 1994. He was one of the leaders of the city’s ultras, who in 2014 defended the Euromaidan protest in Kharkiv from pro-russian thugs. That same year he volunteered for Azov and fought in the Donbas until 2015. Back home, in 2018 he co-founded the Kharkiv branch of the National Corps party.
 
 ## Kraken
 

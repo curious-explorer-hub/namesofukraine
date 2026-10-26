@@ -33,7 +33,7 @@ Knockouts became his strength: Ponomariov reached the World Cup final twice more
 
 ## Chess to help
 
-In 2022, during Russia's war against Ukraine, Ponomariov coordinated the book From Ukraine with Love for Chess. The games in it were chosen and annotated by the Ukrainian players themselves, among them Vasyl Ivanchuk and the sisters Anna and Mariya Muzychuk. All proceeds go to Ukrainian charities.
+In 2022, during russia's war against Ukraine, Ponomariov coordinated the book From Ukraine with Love for Chess. The games in it were chosen and annotated by the Ukrainian players themselves, among them Vasyl Ivanchuk and the sisters Anna and Mariya Muzychuk. All proceeds go to Ukrainian charities.
 
 ## Why it matters today
 

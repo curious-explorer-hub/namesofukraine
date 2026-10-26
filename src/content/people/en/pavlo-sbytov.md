@@ -8,7 +8,7 @@ key_accomplishments:
   - "Graduated from the Heroes of Kruty Lyceum in Lviv (2012) and the National Army Academy (2016)"
   - "With the 503rd Separate Marine Battalion from 2016, fighting on the Mariupol front; company commander from 2017, battalion commander from 2021"
   - "In 2019 his company won the contest for the best unit of its type in Ukraine’s Armed Forces"
-  - "In February–March 2022 his battalion took the blow of three Russian battalion tactical groups between Mariupol and Volnovakha and kept units of the 53rd Mechanised Brigade from being encircled"
+  - "In February–March 2022 his battalion took the blow of three russian battalion tactical groups between Mariupol and Volnovakha and kept units of the 53rd Mechanised Brigade from being encircled"
   - "Order For Courage, 3rd class (2018); Hero of Ukraine, posthumously (decree No. 139/2022 of 16 March 2022)"
 birthplace_name: "Berezets"
 image_alt: "Pavlo Sbytov in field uniform and the green beret of the marines"
@@ -28,7 +28,7 @@ In 2017 Sbytov took command of a company. “The main thing is to understand peo
 
 ## Between Mariupol and Volnovakha
 
-After 24 February 2022 Sbytov’s battalion covered the ground between Mariupol and Volnovakha and took the main blow of three Russian battalion tactical groups. The marines inflicted heavy losses and kept units of the 53rd Mechanised Brigade from being encircled and destroyed. Major Pavlo Sbytov was killed in battle on 12 March 2022 near the village of Yevheniivka in Donetsk region, aged 27. Four days later he was made a Hero of Ukraine, the country’s highest title, posthumously.
+After 24 February 2022 Sbytov’s battalion covered the ground between Mariupol and Volnovakha and took the main blow of three russian battalion tactical groups. The marines inflicted heavy losses and kept units of the 53rd Mechanised Brigade from being encircled and destroyed. Major Pavlo Sbytov was killed in battle on 12 March 2022 near the village of Yevheniivka in Donetsk region, aged 27. Four days later he was made a Hero of Ukraine, the country’s highest title, posthumously.
 
 ## Why it matters today
 

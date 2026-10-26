@@ -24,7 +24,7 @@ In Paris in 1909 Boichuk opened his own studio of neo-Byzantine art, and his sch
 
 ## Back home
 
-Back in Lviv, Boichuk rescued old 15th- and 16th-century icons at the National Museum. He painted the icon The Protection of the Mother of God, which includes a portrait of Metropolitan Sheptytskyi, as well as portraits of [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1912–1914 he also worked in the Chernihiv region, restoring and painting a church in the village of Lemeshi. In 1914, at the start of the First World War, the Russian authorities interned him as an Austro-Hungarian subject.
+Back in Lviv, Boichuk rescued old 15th- and 16th-century icons at the National Museum. He painted the icon The Protection of the Mother of God, which includes a portrait of Metropolitan Sheptytskyi, as well as portraits of [Mykhailo Hrushevskyi](/en/people/mykhailo-hrushevskyi/). In 1912–1914 he also worked in the Chernihiv region, restoring and painting a church in the village of Lemeshi. In 1914, at the start of the First World War, the russian authorities interned him as an Austro-Hungarian subject.
 
 ## A school that painted walls
 

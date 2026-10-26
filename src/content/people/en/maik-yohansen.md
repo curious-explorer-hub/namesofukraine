@@ -9,7 +9,7 @@ key_accomplishments:
   - "The poetry collections D’hori (To the Peak, 1921), Krokoveie kolo (The Dancing Circle, 1923) and Iasen (The Ash Tree, 1930)"
   - "The script of Oleksandr Dovzhenko’s film Zvenyhora (with Yurii Tiutiunnyk)"
   - "A founder of VAPLITE (1925) and of the Techno-Artistic Group A"
-  - "Co-compiler of a Russian–Ukrainian dictionary (1926); worked on the 1928 Ukrainian orthography"
+  - "Co-compiler of a russian–Ukrainian dictionary (1926); worked on the 1928 Ukrainian orthography"
 birthplace_name: "Kharkiv"
 image_alt: "Maik Yohansen, 1928"
 quotes:
@@ -27,7 +27,7 @@ Mykhailo (Maik) Yohansen was born on 28 October 1895 in Kharkiv. His father, Her
 
 ## Burning the past: how Maik Yohansen began
 
-As a schoolboy, Maik Yohansen wrote poems in Russian and German, but he didn’t like them and later burned them all. He said he began writing in Ukrainian under the influence of teachers at Kharkiv’s Hrinchenko school. After 1917 he wrote only in Ukrainian, and his first collection, D’hori, came out in 1921.
+As a schoolboy, Maik Yohansen wrote poems in russian and German, but he didn’t like them and later burned them all. He said he began writing in Ukrainian under the influence of teachers at Kharkiv’s Hrinchenko school. After 1917 he wrote only in Ukrainian, and his first collection, D’hori, came out in 1921.
 
 ## A manifesto and VAPLITE
 
@@ -35,7 +35,7 @@ In 1921 Yohansen, [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and Volodymyr 
 
 ## Film, theater and language
 
-With [Yurii Tiutiunnyk](/en/people/yurii-tiutiunnyk/), Yohansen wrote the script of Zvenyhora, the film made by [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/). With Mykola Khvylovy and [Ostap Vyshnia](/en/people/ostap-vyshnia/) he wrote the operetta Mikado and the revue Hello, on Wave 477! for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater. In his novel Doctor Leonardo’s Travels through the Switzerland of Slobidska Ukraine (1928) he made the landscape the main character and pushed the people into supporting roles. He was a linguist too: he knew European and Scandinavian languages, helped compile a Russian–Ukrainian dictionary (1926) and worked on the draft of the 1928 Ukrainian orthography. He even drafted a project to write Ukrainian in the Latin alphabet.
+With [Yurii Tiutiunnyk](/en/people/yurii-tiutiunnyk/), Yohansen wrote the script of Zvenyhora, the film made by [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/). With Mykola Khvylovy and [Ostap Vyshnia](/en/people/ostap-vyshnia/) he wrote the operetta Mikado and the revue Hello, on Wave 477! for [Les Kurbas](/en/people/les-kurbas/)’s Berezil theater. In his novel Doctor Leonardo’s Travels through the Switzerland of Slobidska Ukraine (1928) he made the landscape the main character and pushed the people into supporting roles. He was a linguist too: he knew European and Scandinavian languages, helped compile a russian–Ukrainian dictionary (1926) and worked on the draft of the 1928 Ukrainian orthography. He even drafted a project to write Ukrainian in the Latin alphabet.
 
 ## Books for children
 

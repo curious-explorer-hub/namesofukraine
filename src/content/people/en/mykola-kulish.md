@@ -23,7 +23,7 @@ Mykola Kulish was born in 1892 in the village of Chaplynka in southern Ukraine (
 
 ## From the trenches to the stage
 
-In the First World War Kulish went through the ensign school in Odesa and fought as an infantry officer in Galicia, Volhynia and Belarus; in 1917 he was wounded. After the revolution he headed the council in Oleshky, and during the struggle for independence he raised a guerrilla regiment in southern Ukraine to fight the Russian Volunteer Army, and commanded it with distinction. From 1922 he worked in education in the Odesa region, and in the autumn of 1925 he moved to Kharkiv.
+In the First World War Kulish went through the ensign school in Odesa and fought as an infantry officer in Galicia, Volhynia and Belarus; in 1917 he was wounded. After the revolution he headed the council in Oleshky, and during the struggle for independence he raised a guerrilla regiment in southern Ukraine to fight the russian Volunteer Army, and commanded it with distinction. From 1922 he worked in education in the Odesa region, and in the autumn of 1925 he moved to Kharkiv.
 
 ## A play with a new ending
 

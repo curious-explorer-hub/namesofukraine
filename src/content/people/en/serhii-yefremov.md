@@ -24,7 +24,7 @@ The tsarist authorities arrested him several times for his writing and politics.
 
 ## The revolution of 1917
 
-Yefremov was one of the founders of the Central Rada and became its deputy head, and in the first Ukrainian government he was general secretary for interethnic affairs. He also sat on the Ukrainian delegation that negotiated with the Russian Provisional Government. He led the Ukrainian Party of Socialists-Federalists. He saw the Bolshevik coup as a danger to the Ukrainian movement. When Soviet rule returned to Kyiv in 1920, he had to go into hiding. In 1921, at the request of the Academy of Sciences, he was amnestied.
+Yefremov was one of the founders of the Central Rada and became its deputy head, and in the first Ukrainian government he was general secretary for interethnic affairs. He also sat on the Ukrainian delegation that negotiated with the russian Provisional Government. He led the Ukrainian Party of Socialists-Federalists. He saw the Bolshevik coup as a danger to the Ukrainian movement. When Soviet rule returned to Kyiv in 1920, he had to go into hiding. In 1921, at the request of the Academy of Sciences, he was amnestied.
 
 ## The Academy and the diary
 

@@ -11,7 +11,7 @@ key_accomplishments:
   - "European 800 m champion (Stuttgart, 1986); European silver medallist in the 800 m and the 4×400 m relay (Prague, 1978)"
   - "Universiade 800 m champion (Mexico City, 1979)"
   - "Order of Princess Olga, 3rd class (2002)"
-birthplace_name: "Bryansk (Russia)"
+birthplace_name: "Bryansk (russia)"
 ---
 
 ## A record older than independent Ukraine
@@ -20,7 +20,7 @@ Ukraine became independent in 1991. Nadiia Olizarenko's Olympic 800-metre record
 
 ## From Bryansk to Odesa
 
-Nadiia Mushta was born in 1953 in Bryansk, Russia, and took up athletics in 1967. She ran for the army sports club in Odesa (SKA). She made the Soviet national team in 1977, and the next year, at the European Championships in Prague, won two silver medals: in the 800 metres and the 4×400 metres relay. In 1979 she won the Universiade in Mexico City.
+Nadiia Mushta was born in 1953 in Bryansk, russia, and took up athletics in 1967. She ran for the army sports club in Odesa (SKA). She made the Soviet national team in 1977, and the next year, at the European Championships in Prague, won two silver medals: in the 800 metres and the 4×400 metres relay. In 1979 she won the Universiade in Mexico City.
 
 ## Summer 1980
 
@@ -36,4 +36,4 @@ After her running career Nadiia Olizarenko coached athletes at her Odesa club, S
 
 ## Why it matters today
 
-Nadiia Olizarenko was born in Russia, but Odesa became her sporting home: she won Olympic gold running for an Odesa club, coached there and founded the Nadiia club there. Her Olympic 800-metre record has outlasted more than forty years of Games. She showed that you can come back after a break and become the best in Europe again, as long as you don't give up. Any young runner in Ukraine who dreams of the Olympics can remember that an Odesa club has already produced an Olympic champion whose record has outlived generations.
+Nadiia Olizarenko was born in russia, but Odesa became her sporting home: she won Olympic gold running for an Odesa club, coached there and founded the Nadiia club there. Her Olympic 800-metre record has outlasted more than forty years of Games. She showed that you can come back after a break and become the best in Europe again, as long as you don't give up. Any young runner in Ukraine who dreams of the Olympics can remember that an Odesa club has already produced an Olympic champion whose record has outlived generations.

@@ -22,7 +22,7 @@ In the spring of 2014 Kostiantyn was among the first to go and defend his countr
 
 ## Coming back
 
-For some years, given by sources as 2015–2019 or 2018–2021, Kostiantyn lived in Israel, where he worked in construction and on an organic farm. When Russia's full-scale invasion began on 24 February 2022, he was again among the first to defend his country. With the 14th Separate Mechanised Brigade named after Prince Roman the Great, he fought in the Kyiv region and defended the road to Kyiv. The enemy far outnumbered them, but the tank man's actions cost it heavy losses.
+For some years, given by sources as 2015–2019 or 2018–2021, Kostiantyn lived in Israel, where he worked in construction and on an organic farm. When russia's full-scale invasion began on 24 February 2022, he was again among the first to defend his country. With the 14th Separate Mechanised Brigade named after Prince Roman the Great, he fought in the Kyiv region and defended the road to Kyiv. The enemy far outnumbered them, but the tank man's actions cost it heavy losses.
 
 Kostiantyn Mrochko was killed in action near the village of Lypivka in the Kyiv region on 8 March 2022. He was 37. Four days later, on 12 March, he was posthumously made a Hero of Ukraine, the country's highest title.
 

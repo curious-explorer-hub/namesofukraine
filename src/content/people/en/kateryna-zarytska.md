@@ -18,7 +18,7 @@ quotes:
 
 ## A salute from the laundry window
 
-Vladimir Central was a Russian prison for those the Soviet authorities considered especially dangerous. When a work gang was led out, the prisoners passed the window of the prison laundry. A tall woman with greying hair stood there and greeted them. And all of them, Ukrainians and Lithuanians, Jews and Russians, Moldovans and Armenians, silently took off their caps or saluted. That is how a former prisoner from Leningrad, Anatol Radygin, remembered it. The woman was Kateryna Zarytska.
+Vladimir Central was a russian prison for those the Soviet authorities considered especially dangerous. When a work gang was led out, the prisoners passed the window of the prison laundry. A tall woman with greying hair stood there and greeted them. And all of them, Ukrainians and Lithuanians, Jews and russians, Moldovans and Armenians, silently took off their caps or saluted. That is how a former prisoner from Leningrad, Anatol Radygin, remembered it. The woman was Kateryna Zarytska.
 
 ## A professor’s daughter in the underground
 

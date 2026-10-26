@@ -5,8 +5,8 @@ role: "Gymnast, five Olympic golds"
 summary: "Polina Astakhova from Zaporizhzhia won 10 Olympic medals, took gold on the uneven bars at two Games in a row, and then spent almost a quarter of a century preparing others for the Olympics. Among her pupils was Olympic champion Lilia Podkopayeva."
 fun_fact: "Astakhova appeared on a 1965 Soviet postage stamp marking a national sports festival for schoolchildren."
 misconception:
-  claim: "Polina Astakhova was a Russian gymnast: in Rome they even called her \"the Russian birch\"."
-  truth: "Journalists gave her the nickname \"Russian birch\" at the 1960 Olympics, and the Italian press also called her the Madonna. Astakhova was born in Zaporizhzhia and trained in Donetsk and Kyiv; she competed for the Soviet team, as every athlete from Ukraine did at the time."
+  claim: "Polina Astakhova was a russian gymnast: in Rome they even called her \"the russian birch\"."
+  truth: "Journalists gave her the nickname \"russian birch\" at the 1960 Olympics, and the Italian press also called her the Madonna. Astakhova was born in Zaporizhzhia and trained in Donetsk and Kyiv; she competed for the Soviet team, as every athlete from Ukraine did at the time."
 key_accomplishments:
   - "Five-time Olympic champion: team (Melbourne, 1956; Rome, 1960; Tokyo, 1964) and uneven bars (1960, 1964)"
   - "10 Olympic medals (5 gold, 2 silver, 3 bronze): floor silver and all-around bronze in 1960 and 1964, and bronze in the team portable apparatus event in 1956"

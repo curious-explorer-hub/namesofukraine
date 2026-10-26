@@ -22,11 +22,11 @@ Panas Rudchenko was born in 1849 in Myrhorod, into the family of a minor officia
 
 ## A novel printed in Geneva
 
-Together with his brother Ivan Rudchenko, who wrote as Ivan Bilyk, Panas began the novel Do Oxen Low When Their Mangers Are Full? in 1872. It follows a Ukrainian village from serfdom to the years after the reform. The brothers finished it in the autumn of 1875. But in 1876 came the Ems Decree, which banned printing Ukrainian books in the Russian Empire, so Ivan sent the manuscript to [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) in Geneva. The novel came out there in 1880. It is considered the first great realist novel in Ukrainian literature.
+Together with his brother Ivan Rudchenko, who wrote as Ivan Bilyk, Panas began the novel Do Oxen Low When Their Mangers Are Full? in 1872. It follows a Ukrainian village from serfdom to the years after the reform. The brothers finished it in the autumn of 1875. But in 1876 came the Ems Decree, which banned printing Ukrainian books in the russian empire, so Ivan sent the manuscript to [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) in Geneva. The novel came out there in 1880. It is considered the first great realist novel in Ukrainian literature.
 
 ## The Loose Woman and translations
 
-In the Russian Empire Myrnyi was first printed only in 1883, when the almanac Rada carried the first part of his novel The Loose Woman, about the village after serfdom was abolished. That same year he wrote the drama Lymerivna, his most popular play. Myrnyi translated Shakespeare’s King Lear and Longfellow’s The Song of Hiawatha into Ukrainian.
+In the russian empire Myrnyi was first printed only in 1883, when the almanac Rada carried the first part of his novel The Loose Woman, about the village after serfdom was abolished. That same year he wrote the drama Lymerivna, his most popular play. Myrnyi translated Shakespeare’s King Lear and Longfellow’s The Song of Hiawatha into Ukrainian.
 
 ## Poltava and Ridnyi krai
 

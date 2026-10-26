@@ -23,7 +23,7 @@ Azov was just forming a tank unit at the time: the Kholodnyi Yar company. Mykhai
 
 ## The defence of Mariupol
 
-From the first day of Russia's full-scale invasion on 24 February 2022, Chuprin's company defended Mariupol. The tank crews held a line along Naberezhna Street, the main route of the Russian attacks, and between 25 February and 12 March they beat back eight attempts to break through. On 13 March, when Russian forces tried to break into the city from the direction of Staryi Krym, Senior Lieutenant Chuprin personally knocked out three tanks and two armoured personnel carriers.
+From the first day of russia's full-scale invasion on 24 February 2022, Chuprin's company defended Mariupol. The tank crews held a line along Naberezhna Street, the main route of the russian attacks, and between 25 February and 12 March they beat back eight attempts to break through. On 13 March, when russian forces tried to break into the city from the direction of Staryi Krym, Senior Lieutenant Chuprin personally knocked out three tanks and two armoured personnel carriers.
 
 Mykhailo Chuprin was killed in action in Mariupol on 19 March 2022. He was 31. On 25 March he was posthumously made a Hero of Ukraine, the country's highest title; the same decree gave it posthumously to the Azov soldier [Stanislav Partala](/en/people/stanislav-partala/) and the National Guard colonel [Dmytro Apukhtin](/en/people/dmytro-apukhtin/).
 

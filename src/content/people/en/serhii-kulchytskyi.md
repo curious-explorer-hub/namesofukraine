@@ -8,7 +8,7 @@ key_accomplishments:
   - "Served in Ukraine's National Guard from 1992, rising from deputy battalion commander to general"
   - "Head of the National Guard's directorate of combat and special training"
   - "In spring 2014 formed and trained the National Guard's first volunteer battalions, drawn from Maidan activists, and went with them to the front"
-  - "Hero of Ukraine (posthumously, decree No. 544/2014 of 20 June 2014) - the first Ukrainian general killed in the war with Russia"
+  - "Hero of Ukraine (posthumously, decree No. 544/2014 of 20 June 2014) - the first Ukrainian general killed in the war with russia"
 birthplace_name: "Weimar, Germany"
 image_alt: "A smiling Major General Serhii Kulchytskyi in a dark tunic with general's shoulder boards"
 quotes:
@@ -24,7 +24,7 @@ Serhii Kulchytskyi was born on 17 December 1963 in the German city of Weimar, wh
 
 Over the next two decades he graduated from the National Defence Academy of Ukraine in Kyiv, rose to major general and became head of the National Guard's directorate of combat and special training. In spring 2014, after the Revolution of Dignity, it was Kulchytskyi who built and trained the Guard's first volunteer battalions, drawn from former Maidan activists - and he went to the front with them himself. There he lived in a tent with his soldiers and ate what they ate. Interior Minister Arsen Avakov later recalled visiting the front line and watching soldiers spontaneously applaud the general: something, he said, he had never seen before.
 
-On 29 May 2014, near Sloviansk in the Donetsk region, the Mi-8 helicopter carrying Kulchytskyi was shot down as it flew back from Mount Karachun, where it had just delivered food and rotated troops. He was 50. He became the first Ukrainian general killed in the war with Russia. A decree of 20 June 2014 posthumously made him a Hero of Ukraine.
+On 29 May 2014, near Sloviansk in the Donetsk region, the Mi-8 helicopter carrying Kulchytskyi was shot down as it flew back from Mount Karachun, where it had just delivered food and rotated troops. He was 50. He became the first Ukrainian general killed in the war with russia. A decree of 20 June 2014 posthumously made him a Hero of Ukraine.
 
 ## Why it matters today
 

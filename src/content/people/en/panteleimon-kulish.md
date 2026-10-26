@@ -7,7 +7,7 @@ fun_fact: "At Kulish’s wedding in 1847, Taras Shevchenko was the best man. Tha
 key_accomplishments:
   - "The novel The Black Council (in full, 1857), the first Ukrainian historical novel"
   - "The phonetic Kulishivka spelling, the basis of modern Ukrainian orthography"
-  - "Hramatka (1857), the first Ukrainian-language primer in the Russian Empire"
+  - "Hramatka (1857), the first Ukrainian-language primer in the russian empire"
   - "A founder of the Brotherhood of Saints Cyril and Methodius (1845)"
   - "Translations of Shakespeare, Schiller, Goethe and Byron; a Ukrainian translation of the Bible"
 birthplace_name: "Voronizh"
@@ -31,7 +31,7 @@ In Kyiv Kulish grew close to Shevchenko and [Mykola Kostomarov](/en/people/mykol
 
 ## The first historical novel
 
-In 1857 The Black Council came out in full, the first Ukrainian historical novel, in Ukrainian and in Russian. In the Russian edition Kulish argued for the political unity of Ukraine and Russia, while stressing that Ukrainians were a distinct people. The same year he published Hramatka, the first Ukrainian-language primer in the Russian Empire. At his own press in St Petersburg he printed Shevchenko and edited the works of [Marko Vovchok](/en/people/marko-vovchok/).
+In 1857 The Black Council came out in full, the first Ukrainian historical novel, in Ukrainian and in russian. In the russian edition Kulish argued for the political unity of Ukraine and russia, while stressing that Ukrainians were a distinct people. The same year he published Hramatka, the first Ukrainian-language primer in the russian empire. At his own press in St Petersburg he printed Shevchenko and edited the works of [Marko Vovchok](/en/people/marko-vovchok/).
 
 ## Shakespeare and the Bible in Ukrainian
 

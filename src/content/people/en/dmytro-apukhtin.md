@@ -19,7 +19,7 @@ The brigade Dmytro Apukhtin served in is called Khortytsia, like the island in h
 
 ## A battalion group outside Mariupol
 
-From 2020 Colonel Apukhtin was deputy commander of the 23rd Separate Public Order Brigade Khortytsia. In December 2021 he took command of a National Guard battalion group in the east, so Russia's full-scale invasion on 24 February 2022 found him at the front. His guardsmen defended Mariupol: they covered the main road junctions on the approaches to the city and again and again took on an enemy that far outnumbered them. In these battles they destroyed about 20 Russian armoured vehicles.
+From 2020 Colonel Apukhtin was deputy commander of the 23rd Separate Public Order Brigade Khortytsia. In December 2021 he took command of a National Guard battalion group in the east, so russia's full-scale invasion on 24 February 2022 found him at the front. His guardsmen defended Mariupol: they covered the main road junctions on the approaches to the city and again and again took on an enemy that far outnumbered them. In these battles they destroyed about 20 russian armoured vehicles.
 
 Dmytro Apukhtin was killed in action on the northern edge of Mariupol on 12 March 2022, aged 44. His unit completed its last mission, and his soldiers survived. On 25 March he was posthumously made a Hero of Ukraine, the country's highest title; the same decree gave it posthumously to the Azov soldiers [Mykhailo Chuprin](/en/people/mykhailo-chuprin/) and [Stanislav Partala](/en/people/stanislav-partala/).
 

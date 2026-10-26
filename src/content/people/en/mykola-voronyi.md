@@ -20,11 +20,11 @@ quotes:
 
 ## Expelled from school
 
-Mykola Voronyi was born in 1871 in the Katerynoslav gubernia. He went to secondary schools in Kharkiv and Rostov, but was expelled for ties to the Narodniks, circles who wanted to change the lives of peasants. He could no longer get a higher education in the Russian Empire, so he went to Vienna and then to Lviv.
+Mykola Voronyi was born in 1871 in the Katerynoslav gubernia. He went to secondary schools in Kharkiv and Rostov, but was expelled for ties to the Narodniks, circles who wanted to change the lives of peasants. He could no longer get a higher education in the russian empire, so he went to Vienna and then to Lviv.
 
 ## Franko’s friend, and the theatre
 
-In Lviv Voronyi studied at the university and grew close to [Ivan Franko](/en/people/ivan-franko/), helping him put out newspapers. There he became director of the Ruska Besida theatre. In 1897 he returned to Russian-ruled Ukraine, and until 1901 he acted in the troupes of Marko Kropyvnytskyi and Panas Saksahanskyi.
+In Lviv Voronyi studied at the university and grew close to [Ivan Franko](/en/people/ivan-franko/), helping him put out newspapers. There he became director of the Ruska Besida theatre. In 1897 he returned to russian-ruled Ukraine, and until 1901 he acted in the troupes of Marko Kropyvnytskyi and Panas Saksahanskyi.
 
 ## A manifesto for “new” art
 

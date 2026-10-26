@@ -27,7 +27,7 @@ In 2016 Voroshylov joined the 204th Tactical Aviation Brigade, the same brigade 
 
 ## An evening over Vinnytsia
 
-During a massive Russian missile attack on 10 October 2022, Voroshylov shot down two cruise missiles. On 12 October he destroyed five Iranian-made Shahed kamikaze drones: three over southern Ukraine and two over Vinnytsia. During the last attack his MiG-29 was damaged. Seeing the lights of a settlement ahead, he steered the jet towards open fields, and only then ejected.
+During a massive russian missile attack on 10 October 2022, Voroshylov shot down two cruise missiles. On 12 October he destroyed five Iranian-made Shahed kamikaze drones: three over southern Ukraine and two over Vinnytsia. During the last attack his MiG-29 was damaged. Seeing the lights of a settlement ahead, he steered the jet towards open fields, and only then ejected.
 
 ## Why it matters today
 

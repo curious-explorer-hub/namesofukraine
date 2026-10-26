@@ -23,7 +23,7 @@ How do you write poetry at the front? Yaryna Chornohuz says: “on the out-breat
 
 ## Ukrainian from the start
 
-Yaryna was born in 1995 in Kyiv, into a family of bandura players. Her grandfather was the writer Oleh Chornohuz. She spoke Ukrainian from childhood, and in a largely Russian-speaking world she kept being asked, by children and adults alike, “Why do you speak Ukrainian?” She graduated in the humanities from the Kyiv-Mohyla Academy and joined the protests on the Maidan during the Revolution of Dignity.
+Yaryna was born in 1995 in Kyiv, into a family of bandura players. Her grandfather was the writer Oleh Chornohuz. She spoke Ukrainian from childhood, and in a largely russian-speaking world she kept being asked, by children and adults alike, “Why do you speak Ukrainian?” She graduated in the humanities from the Kyiv-Mohyla Academy and joined the protests on the Maidan during the Revolution of Dignity.
 
 ## From volunteer to Marine
 

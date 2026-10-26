@@ -27,7 +27,7 @@ Money was short, so Ivan only finished the district school and started work as a
 
 ## The policeman whose office stopped taking bribes
 
-Ivan rose to police secretary in Yelysavethrad. It is said that under him the clerks stopped taking bribes and cases were handled in turn. At the same time he was spreading banned books, and in 1883 he was dismissed: he had been helping revolutionaries get passports. He managed to join [Mykhailo Starytskyi](/en/people/mykhailo-starytskyi/)'s troupe, but in 1884 he was exiled for three years to Novocherkassk, now in Russia. There he worked at a forge, then bound books, and wrote. In exile he finished his first drama, Burlaka, followed by Bondarivna and The Servant Girl.
+Ivan rose to police secretary in Yelysavethrad. It is said that under him the clerks stopped taking bribes and cases were handled in turn. At the same time he was spreading banned books, and in 1883 he was dismissed: he had been helping revolutionaries get passports. He managed to join [Mykhailo Starytskyi](/en/people/mykhailo-starytskyi/)'s troupe, but in 1884 he was exiled for three years to Novocherkassk, now in russia. There he worked at a forge, then bound books, and wrote. In exile he finished his first drama, Burlaka, followed by Bondarivna and The Servant Girl.
 
 ## An oasis in the steppe
 

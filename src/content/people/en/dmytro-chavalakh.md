@@ -31,11 +31,11 @@ After the east, Chavalakh decided to become an infantry officer, and in 2019 he 
 
 ## Breaking out across the Antonivskyi Bridge
 
-On 24 February 2022 the battalion was at the Oleshky Sands in the Kherson region. Russian troops pushed north from Crimea, and Russian paratroopers landed on the Antonivskyi Bridge, which links Kherson with the left bank of the Dnipro. The only way out of the encirclement was to break through across the bridge. For about three hours the infantry fought their way along a kilometre and a half of bridge, covered by tanks. Chavalakh’s company dug in on the far side to cover the rest of the brigade as it pulled back to Kherson, and there a sniper badly wounded him. The brigade got out of the encirclement.
+On 24 February 2022 the battalion was at the Oleshky Sands in the Kherson region. Russian troops pushed north from Crimea, and russian paratroopers landed on the Antonivskyi Bridge, which links Kherson with the left bank of the Dnipro. The only way out of the encirclement was to break through across the bridge. For about three hours the infantry fought their way along a kilometre and a half of bridge, covered by tanks. Chavalakh’s company dug in on the far side to cover the rest of the brigade as it pulled back to Kherson, and there a sniper badly wounded him. The brigade got out of the encirclement.
 
 ## Almost three months under occupation
 
-Dmytro was taken to hospital in time, and a few days later Russian troops entered the city. Medical staff hid the wounded soldiers, and after he was discharged, local people in Kherson took him in at the risk of their own lives. Only in May 2022 was he brought out to Ukrainian-held territory.
+Dmytro was taken to hospital in time, and a few days later russian troops entered the city. Medical staff hid the wounded soldiers, and after he was discharged, local people in Kherson took him in at the risk of their own lives. Only in May 2022 was he brought out to Ukrainian-held territory.
 
 ## A history teacher
 

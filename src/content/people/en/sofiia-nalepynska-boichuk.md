@@ -16,7 +16,7 @@ image_alt: "Sofiia Nalepynska-Boichuk, detail of a photo"
 
 ## The girl from Łódź
 
-Zofia Nalepińska was born in 1884 in Łódź, then a city in the Russian Empire and now in Poland. She was of Polish origin; her brother Tadeusz became a Polish poet. She studied art in Saint Petersburg, at the school of Jan Ciągliński, then in Munich, and in 1909 at the Académie Ranson in Paris, where Félix Vallotton and Maurice Denis taught.
+Zofia Nalepińska was born in 1884 in Łódź, then a city in the russian empire and now in Poland. She was of Polish origin; her brother Tadeusz became a Polish poet. She studied art in Saint Petersburg, at the school of Jan Ciągliński, then in Munich, and in 1909 at the Académie Ranson in Paris, where Félix Vallotton and Maurice Denis taught.
 
 ## A meeting in Paris
 

@@ -19,7 +19,7 @@ quotes:
 
 ## Books he couldn’t print at home
 
-Ivan Nechui-Levytskyi published most of his work far from where he lived. Because of censorship in the Russian Empire, it came out in Galicia, in the Lviv journals Pravda, Dilo and Zoria. That is where his first stories, Two Moscow Girls and The Fisherman Panas Krut, appeared in 1868, signed “Ivan Nechui”. His real surname was Levytskyi.
+Ivan Nechui-Levytskyi published most of his work far from where he lived. Because of censorship in the russian empire, it came out in Galicia, in the Lviv journals Pravda, Dilo and Zoria. That is where his first stories, Two Moscow Girls and The Fisherman Panas Krut, appeared in 1868, signed “Ivan Nechui”. His real surname was Levytskyi.
 
 ## A priest’s son from Stebliv
 

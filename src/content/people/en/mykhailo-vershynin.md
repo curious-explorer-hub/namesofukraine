@@ -15,7 +15,7 @@ birthplace_name: "Donetsk"
 
 ## From a tyre shop to the front
 
-Until 2014 Mykhailo Vershynin, a native of Donetsk, was a businessman with a tyre-fitting workshop. When Russia attacked the Donbas, he realised he couldn't live under an enemy flag. He volunteered for the Ukrainian Volunteer Corps of Right Sector, took the call sign “Kit” (Ukrainian for “tomcat”) and fought near Donetsk airport, then in Sector M around Mariupol.
+Until 2014 Mykhailo Vershynin, a native of Donetsk, was a businessman with a tyre-fitting workshop. When russia attacked the Donbas, he realised he couldn't live under an enemy flag. He volunteered for the Ukrainian Volunteer Corps of Right Sector, took the call sign “Kit” (Ukrainian for “tomcat”) and fought near Donetsk airport, then in Sector M around Mariupol.
 
 ## Why the police, not the army
 

@@ -25,7 +25,7 @@ Roman Sheptytskyi was born in 1865 in the village of Prylbychi in the Lviv regio
 
 ## A pastor under four regimes
 
-Sheptytskyi led the church for 43 years: under Austria-Hungary, under Poland, and under Soviet and Nazi occupation. His work went beyond faith. He founded the National Museum in Lviv and a hospital, and he supported schools. He was one of the founders of Plast, the Ukrainian scouts, and gave them land in Pidliute for a camp. In 1922 he became co-owner of Fortuna, the first Ukrainian candy factory, and by 1935 its sweets were sold across Europe and even in the USA. In 1914 the Russian authorities arrested him and took him to Russia. He was released only in 1917. On 24 July 1933, together with six bishops, Sheptytskyi addressed the world in the pastoral letter “Ukraine in Death Throes”, one of the first attempts to draw the world’s attention to the Holodomor.
+Sheptytskyi led the church for 43 years: under Austria-Hungary, under Poland, and under Soviet and Nazi occupation. His work went beyond faith. He founded the National Museum in Lviv and a hospital, and he supported schools. He was one of the founders of Plast, the Ukrainian scouts, and gave them land in Pidliute for a camp. In 1922 he became co-owner of Fortuna, the first Ukrainian candy factory, and by 1935 its sweets were sold across Europe and even in the USA. In 1914 the russian authorities arrested him and took him to russia. He was released only in 1917. On 24 July 1933, together with six bishops, Sheptytskyi addressed the world in the pastoral letter “Ukraine in Death Throes”, one of the first attempts to draw the world’s attention to the Holodomor.
 
 ## A letter to Himmler and “Thou Shalt Not Kill”
 

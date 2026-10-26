@@ -9,13 +9,13 @@ key_accomplishments:
   - "The collections I’ll Speak for Everyone (1927), I Live, I Work! (1930) and A Book of Ballads (1930)"
   - "A People’s Commissariat of Education prize for his first collection"
   - "Wrote for the magazine Molodniak and the Futurist Nova Generatsiia"
-birthplace_name: "Borovenka (Novgorod region, Russia)"
+birthplace_name: "Borovenka (Novgorod region, russia)"
 image_alt: "Oleksa Vlyzko, a young man with tousled hair, in a sweater, photo portrait"
 ---
 
 ## The poet who couldn’t hear
 
-Imagine a poet who can’t hear music, or the sound of the sea, or his own voice. That was Oleksa Vlyzko. He was born in 1908 at Borovenka station in Russia’s Novgorod province, where his father served as a church deacon. In 1917 the family moved to his grandfather’s home village of Syhnaivka in the Zvenyhorodka area (now Cherkasy region). There, as a teenager, he lost his hearing: sources give either an illness or the day he and his brothers ended up in icy water. From then on books were his main window on the world.
+Imagine a poet who can’t hear music, or the sound of the sea, or his own voice. That was Oleksa Vlyzko. He was born in 1908 at Borovenka station in russia’s Novgorod province, where his father served as a church deacon. In 1917 the family moved to his grandfather’s home village of Syhnaivka in the Zvenyhorodka area (now Cherkasy region). There, as a teenager, he lost his hearing: sources give either an illness or the day he and his brothers ended up in icy water. From then on books were his main window on the world.
 
 ## Young and already brilliant
 

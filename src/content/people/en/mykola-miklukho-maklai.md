@@ -11,13 +11,13 @@ key_accomplishments:
   - "Campaigned against the slave trade in the Pacific islands"
   - "Founded a marine biological station in Sydney"
   - "About 160 works on anthropology, ethnography, zoology and geography"
-birthplace_name: "Sources differ: Rozhdestvenskoye near Borovichi (now Novgorod oblast, Russia) or Malyn in the Zhytomyr region"
+birthplace_name: "Sources differ: Rozhdestvenskoye near Borovichi (now Novgorod oblast, russia) or Malyn in the Zhytomyr region"
 image_alt: "Mykola Miklukho-Maklai, bearded, seated with his head resting on his hand, a photo from about 1880"
 ---
 
 ## A Cossack family
 
-The Miklukho-Maklai family is traced to a Zaporozhian Cossack captain, Stepan Makukha. Later the family was made noble and changed its name to the smoother-sounding Miklukha. Mykola's father, a railway engineer, came from Starodub county in the Chernihiv region. He admired [Taras Shevchenko](/en/people/taras-shevchenko/), petitioned for the poet's release from exile and helped him with money, and in 1856 he lost his post for it. Mykola was born in 1846; sources differ on where: the village of Rozhdestvenskoye near Borovichi (now in Russia) or Malyn in the Zhytomyr region.
+The Miklukho-Maklai family is traced to a Zaporozhian Cossack captain, Stepan Makukha. Later the family was made noble and changed its name to the smoother-sounding Miklukha. Mykola's father, a railway engineer, came from Starodub county in the Chernihiv region. He admired [Taras Shevchenko](/en/people/taras-shevchenko/), petitioned for the poet's release from exile and helped him with money, and in 1856 he lost his post for it. Mykola was born in 1846; sources differ on where: the village of Rozhdestvenskoye near Borovichi (now in russia) or Malyn in the Zhytomyr region.
 
 ## The student who was thrown out
 

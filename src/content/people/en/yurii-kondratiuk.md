@@ -23,7 +23,7 @@ A young man from Poltava wrote down the answer in his notebooks back in 1916–1
 
 ## A man with a borrowed name
 
-His real name was Oleksandr Sharhei. He was born in 1897 in Poltava, caught the space-travel bug as a schoolboy, and in 1916 was drafted into the Russian army. In 1918–1919 in Kyiv he wrote the manuscript “To Those Who Will Read in Order to Build”, setting out, independently of other scientists, his own theory of spaceflight and describing multistage rockets. As a former officer he risked arrest under Soviet rule, so in 1921 his stepmother obtained for him the papers of a dead student, Yurii Kondratiuk. He lived the rest of his life under that name. In 1929 his book The Conquest of Interplanetary Space came out in Novosibirsk.
+His real name was Oleksandr Sharhei. He was born in 1897 in Poltava, caught the space-travel bug as a schoolboy, and in 1916 was drafted into the russian army. In 1918–1919 in Kyiv he wrote the manuscript “To Those Who Will Read in Order to Build”, setting out, independently of other scientists, his own theory of spaceflight and describing multistage rockets. As a former officer he risked arrest under Soviet rule, so in 1921 his stepmother obtained for him the papers of a dead student, Yurii Kondratiuk. He lived the rest of his life under that name. In 1929 his book The Conquest of Interplanetary Space came out in Novosibirsk.
 
 ## A granary without a single nail
 
@@ -31,7 +31,7 @@ Kondratiuk built grain elevators in Siberia. In 1930 he was arrested for “sabo
 
 ## Debates and assessments
 
-How he died is still being investigated. Older sources say he died in October 1941; more recent ones say he was killed in battle between 22 and 25 February 1942 near the village of Krivtsovo (now Oryol Oblast, Russia).
+How he died is still being investigated. Older sources say he died in October 1941; more recent ones say he was killed in battle between 22 and 25 February 1942 near the village of Krivtsovo (now Oryol Oblast, russia).
 
 ## Why it matters today
 

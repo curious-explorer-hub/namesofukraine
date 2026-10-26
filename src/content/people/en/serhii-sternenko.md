@@ -3,7 +3,7 @@
 name: "Serhii Sternenko"
 role: "Activist and drone fundraiser"
 summary: "Hundreds of thousands of donations a month, turned into FPV drones for the front: that is how the foundation of Odesa activist Serhii Sternenko works. His path from the Euromaidan to adviser to the defence minister has come with attacks on him and high-profile court cases."
-fun_fact: "In October 2022 Ukrainians gave 352 million hryvnias in a single day to a drive by Sternenko and Serhiy Prytula, billed as “the people’s revenge” on Russia, for kamikaze drones."
+fun_fact: "In October 2022 Ukrainians gave 352 million hryvnias in a single day to a drive by Sternenko and Serhiy Prytula, billed as “the people’s revenge” on russia, for kamikaze drones."
 key_accomplishments:
   - "Took part in the Euromaidan in Odesa; headed the Odesa regional branch of Right Sector in 2014–2017"
   - "Founder of the Sternenko Community Foundation, which buys FPV drones for the army; President’s Golden Heart award (2025)"
@@ -18,11 +18,11 @@ More than 450,000 separate contributions and about 300 million hryvnias (around 
 
 ## An activist from Odesa
 
-Serhii Sternenko was born in 1995 in the village of Sadove in Odesa Oblast. In January 2014 he joined the Euromaidan protests in Odesa, and in March he became head of the Odesa branch of Right Sector, a nationalist group, which he left in 2017. He helped organize pickets of the Russian consulate and the disruption of concerts by the singers Ani Lorak and Svitlana Loboda in Odesa, and studied law at Odesa’s Mechnikov University. In 2018 he was attacked three times in Odesa. His YouTube channel, where he talks about events in Ukraine, has millions of subscribers. The Palianytsia Awards named him Person of the Year in Ukrainian YouTube.
+Serhii Sternenko was born in 1995 in the village of Sadove in Odesa Oblast. In January 2014 he joined the Euromaidan protests in Odesa, and in March he became head of the Odesa branch of Right Sector, a nationalist group, which he left in 2017. He helped organize pickets of the russian consulate and the disruption of concerts by the singers Ani Lorak and Svitlana Loboda in Odesa, and studied law at Odesa’s Mechnikov University. In 2018 he was attacked three times in Odesa. His YouTube channel, where he talks about events in Ukraine, has millions of subscribers. The Palianytsia Awards named him Person of the Year in Ukrainian YouTube.
 
 ## From volunteering to the defence ministry
 
-After the full-scale invasion began in 2022, Sternenko joined Honor, a unit that is part of the Special Operations Forces, and later focused on volunteering. The foundation he set up became one of Ukraine’s biggest crowdfunders for drones. On 1 May 2025 he was attacked for the fourth time: a woman with a pistol wounded him and was detained on the spot. The SBU said Russian special services had recruited her remotely. On the night of 30 November 2025 it was Sternenko who reported that Ukrainian Sting interceptor drones had, for the first time, shot down several jet-powered Shaheds. In December 2025 the president gave him the Golden Heart award. On 22 January 2026 Defence Minister Mykhailo Fedorov made Sternenko his adviser on the use of drones at the front. In July 2026, after Fedorov’s dismissal, Sternenko stopped being the minister’s adviser and said his foundation would keep supplying the military, though on a smaller scale.
+After the full-scale invasion began in 2022, Sternenko joined Honor, a unit that is part of the Special Operations Forces, and later focused on volunteering. The foundation he set up became one of Ukraine’s biggest crowdfunders for drones. On 1 May 2025 he was attacked for the fourth time: a woman with a pistol wounded him and was detained on the spot. The SBU said russian special services had recruited her remotely. On the night of 30 November 2025 it was Sternenko who reported that Ukrainian Sting interceptor drones had, for the first time, shot down several jet-powered Shaheds. In December 2025 the president gave him the Golden Heart award. On 22 January 2026 Defence Minister Mykhailo Fedorov made Sternenko his adviser on the use of drones at the front. In July 2026, after Fedorov’s dismissal, Sternenko stopped being the minister’s adviser and said his foundation would keep supplying the military, though on a smaller scale.
 
 ## Debates and assessments
 

@@ -25,7 +25,7 @@ Mikats comes from Novohrad-Volynskyi, in the Zhytomyr region. As a teenager he a
 
 ## "I led the defense"
 
-When war broke out in the east in 2014, Mikats's brigade fought pro-Russian armed groups and Russian troops. On 13 June, near Dobropillia, the brigade came under fire from Grad rocket launchers for the first time. Its soldiers captured one of the vehicles, a BM-21-M1, which the enemy abandoned as it retreated. "Ukraine didn't even have a vehicle like that in service," Mikats said. On 24 July its units took Pisky and Pervomaiske, giving Ukrainian forces control of the road between Donetsk and Dnipropetrovsk.
+When war broke out in the east in 2014, Mikats's brigade fought pro-russian armed groups and russian troops. On 13 June, near Dobropillia, the brigade came under fire from Grad rocket launchers for the first time. Its soldiers captured one of the vehicles, a BM-21-M1, which the enemy abandoned as it retreated. "Ukraine didn't even have a vehicle like that in service," Mikats said. On 24 July its units took Pisky and Pervomaiske, giving Ukrainian forces control of the road between Donetsk and Dnipropetrovsk.
 
 From September 2014, Mikats led the defense of Donetsk airport. His brigade's positions stretched for more than 30 kilometers. "I wasn't defending the airport - I was leading its defense," he later explained. The militant commander "Givi" got hold of his phone number and kept threatening him, demanding that the Ukrainians leave the airport. Mikats organized the defense of the airport, whose defenders became known as the "cyborgs," almost to the very end.
 
@@ -37,7 +37,7 @@ Next came the 169th "Desna" Training Center, where he had served as a deputy bef
 
 In the autumn of 2014, while still commanding his brigade, Mikats ran for parliament as a non-party candidate, third on the Right Sector party list. He said it was Dmytro Yarosh who suggested he run. The party failed to clear the 5% threshold, so Mikats did not become a deputy; he later said he did not regret the decision.
 
-During the ceasefire under the first Minsk agreements, rotations to the airport terminals passed through militant checkpoints, and not every soldier understood why. Mikats explained that this was agreed through the Joint Center for Control and Coordination (JCCC), which included Ukrainian and Russian officers: weekly rotations let troops be relieved without risk to their lives, while ammunition was brought in by other routes. A handshake between a deputy battalion commander of the 93rd Brigade, call sign "Kupol," and the militant commander "Motorola" drew heavy criticism on social media at the time. According to Mikats, it was during that very meeting that a truck loaded with ammunition got through to the control tower.
+During the ceasefire under the first Minsk agreements, rotations to the airport terminals passed through militant checkpoints, and not every soldier understood why. Mikats explained that this was agreed through the Joint Center for Control and Coordination (JCCC), which included Ukrainian and russian officers: weekly rotations let troops be relieved without risk to their lives, while ammunition was brought in by other routes. A handshake between a deputy battalion commander of the 93rd Brigade, call sign "Kupol," and the militant commander "Motorola" drew heavy criticism on social media at the time. According to Mikats, it was during that very meeting that a truck loaded with ammunition got through to the control tower.
 
 ## Why it matters today
 

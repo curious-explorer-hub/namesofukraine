@@ -3,7 +3,7 @@
 name: "Viktor Hlushkov"
 role: "Cybernetician behind the MIR computers"
 summary: "Could a network of computers help plan a whole country’s economy? Viktor Hlushkov, a mathematician from Rostov-on-Don, proposed such a system. He worked in Kyiv for 26 years, led the Institute of Cybernetics and oversaw the building of the Dnepr and MIR computers."
-fun_fact: "Under Hlushkov’s editorship Kyiv published the world’s first Encyclopedia of Cybernetics, in Ukrainian and in Russian."
+fun_fact: "Under Hlushkov’s editorship Kyiv published the world’s first Encyclopedia of Cybernetics, in Ukrainian and in russian."
 key_accomplishments:
   - "Solved the generalized fifth Hilbert problem"
   - "Director of the Computing Center (from 1957) and of the Institute of Cybernetics of the Ukrainian Academy of Sciences (1962–1982), which now bears his name"
@@ -17,7 +17,7 @@ image_alt: "Viktor Hlushkov in glasses, a dark jacket and a checked tie, colour 
 
 ## A mathematician from Rostov
 
-Viktor Hlushkov was born in 1923 in Rostov-on-Don (now in Russia). He graduated from Rostov University in 1948 and spent eight years teaching at a forestry institute in Sverdlovsk (now Yekaterinburg). He first made his name as a mathematician by solving the generalized fifth Hilbert problem, one of the famous puzzles of higher algebra.
+Viktor Hlushkov was born in 1923 in Rostov-on-Don (now in russia). He graduated from Rostov University in 1948 and spent eight years teaching at a forestry institute in Sverdlovsk (now Yekaterinburg). He first made his name as a mathematician by solving the generalized fifth Hilbert problem, one of the famous puzzles of higher algebra.
 
 ## Kyiv and its computers
 

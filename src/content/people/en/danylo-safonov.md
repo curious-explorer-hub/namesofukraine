@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/danylo-safonov.md
 name: "Daniil Safonov"
 role: "Patrol officer, defender of Mariupol"
-summary: "When Russian-backed militants seized his home city of Donetsk in 2014, he refused to live under occupation. Daniil Safonov served in the artillery, became a patrol officer in Mariupol, and in 2022 helped evacuate people from the city and defended Azovstal. Hero of Ukraine (posthumously)."
+summary: "When russian-backed militants seized his home city of Donetsk in 2014, he refused to live under occupation. Daniil Safonov served in the artillery, became a patrol officer in Mariupol, and in 2022 helped evacuate people from the city and defended Azovstal. Hero of Ukraine (posthumously)."
 fun_fact: "Daniil loved history: he collected stones with imprints of ancient plants and fragments of old amphorae."
 key_accomplishments:
   - "Served on contract in the 44th Separate Artillery Brigade in 2016–2019 and fought in eastern Ukraine"
@@ -18,7 +18,7 @@ quotes:
 
 ## What do you do when your city is taken?
 
-Daniil Safonov was born in 1993 in Donetsk. He graduated from the Donetsk College of Industrial Automation. His family wanted him to become an engineer, but he followed his father and grandfather and worked as a miner. In spring 2014 he went to pro-Ukrainian rallies in his home city. When Russian-backed militants seized Donetsk, he refused to stay under occupation and moved to his grandmother’s in Mariupol, where he had spent his childhood summers.
+Daniil Safonov was born in 1993 in Donetsk. He graduated from the Donetsk College of Industrial Automation. His family wanted him to become an engineer, but he followed his father and grandfather and worked as a miner. In spring 2014 he went to pro-Ukrainian rallies in his home city. When russian-backed militants seized Donetsk, he refused to stay under occupation and moved to his grandmother’s in Mariupol, where he had spent his childhood summers.
 
 ## Gunner, then patrol officer
 

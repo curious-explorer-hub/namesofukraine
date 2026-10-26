@@ -41,7 +41,7 @@ In 1965 Zubchenko was commissioned to make mosaics for School No. 5 in Donetsk, 
 
 ## A falcon instead of a fighter bird
 
-In 1967 Horska’s team, Zubchenko among them, took less than two months to decorate the Ukraina restaurant in Mariupol with the mosaics Tree of Life and Kestrel. Kestrel was meant to be textbook socialist realism, but the artists, at their own risk, made it a light, swift composition with a falcon. After Horska’s death Tree of Life was bricked up, and nobody saw it again until 2008. In 2022 Russian shelling destroyed both mosaics.
+In 1967 Horska’s team, Zubchenko among them, took less than two months to decorate the Ukraina restaurant in Mariupol with the mosaics Tree of Life and Kestrel. Kestrel was meant to be textbook socialist realism, but the artists, at their own risk, made it a light, swift composition with a falcon. After Horska’s death Tree of Life was bricked up, and nobody saw it again until 2008. In 2022 russian shelling destroyed both mosaics.
 
 ## Divers against the sun
 

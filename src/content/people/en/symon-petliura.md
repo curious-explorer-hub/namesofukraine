@@ -24,7 +24,7 @@ He was born in 1879 in Poltava into a townspeople’s family of Cossack origin. 
 
 ## Building an army
 
-After the revolution of 1917 Petliura became the first General Secretary for Military Affairs of the Central Rada and pushed for the Ukrainization of units of the Russian army. At the end of 1917 he formed the Haidamaka Kish of Sloboda Ukraine, which fought the Bolsheviks and helped suppress the uprising at the Arsenal plant in Kyiv.
+After the revolution of 1917 Petliura became the first General Secretary for Military Affairs of the Central Rada and pushed for the Ukrainization of units of the russian army. At the end of 1917 he formed the Haidamaka Kish of Sloboda Ukraine, which fought the Bolsheviks and helped suppress the uprising at the Arsenal plant in Kyiv.
 
 Under Hetman Skoropadskyi, Petliura headed the All-Ukrainian Union of Zemstvos and spent several months in prison. In November 1918 he became Chief Otaman of the forces of the Directory, which rose against the hetman, and from 1919 he headed the Directory itself. For 10 months the UPR Army under his command fought the Bolsheviks and Denikin’s forces. At the end of 1919, on his orders, the army set out on the First Winter Campaign. In 1920, after the Treaty of Warsaw with Poland, UPR and Polish forces took Kyiv on 7 May, but later had to retreat.
 

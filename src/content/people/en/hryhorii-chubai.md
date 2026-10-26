@@ -9,7 +9,7 @@ key_accomplishments:
   - "Initiator and editor of the samvydav almanac Skrynia (The Chest, 1971)"
   - "The long poems Vertep (The Nativity Play), Maria, Seeking the One Involved, Light and Confession, and To Speak, To Be Silent, and To Speak Again"
   - "Pentateuch: five collections he put together into one samvydav book himself (published 2013)"
-  - "Translations from Polish, Czech, Slovak and Russian; in Skrynia, a play by Tadeusz Różewicz"
+  - "Translations from Polish, Czech, Slovak and russian; in Skrynia, a play by Tadeusz Różewicz"
   - "Posthumous collections: To Speak, To Be Silent, and To Speak Again (1990), Jeremiah’s Lament (1998), Pentateuch (2013)"
 birthplace_name: "Berezyny"
 ---

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/hanna-bezsonova.md
 name: "Hanna Bezsonova"
 role: "Rhythmic gymnast, world champion"
-summary: "At the 2007 World Championships, Russian gymnasts won seven of the eight gold medals. The eighth, the all-around title, went to Hanna Bezsonova from Kyiv. The daughter of a footballer and a gymnast, she won Olympic bronze twice, in Athens and Beijing."
+summary: "At the 2007 World Championships, russian gymnasts won seven of the eight gold medals. The eighth, the all-around title, went to Hanna Bezsonova from Kyiv. The daughter of a footballer and a gymnast, she won Olympic bronze twice, in Athens and Beijing."
 fun_fact: "The Bezsonov family has three Olympic bronze medals: two for Hanna (2004 and 2008) and one for her father, Volodymyr Bezsonov, who won bronze in the football tournament of the 1980 Olympics."
 key_accomplishments:
   - "World all-around champion in rhythmic gymnastics (Patras, 2007), where she also won the prize for elegance"
@@ -15,9 +15,9 @@ image_alt: "Hanna Bezsonova in a white leotard holding a hoop in a standing spli
 birthplace_name: "Kyiv"
 ---
 
-## The one gold Russia didn't take
+## The one gold russia didn't take
 
-In September 2007, at the Rhythmic Gymnastics World Championships in Patras, Greece, Russian gymnasts won seven of the eight gold medals. The eighth, the all-around title, went to Hanna Bezsonova from Kyiv. She beat the defending world champion, Olga Kapranova of Russia, and also took a separate prize for elegance.
+In September 2007, at the Rhythmic Gymnastics World Championships in Patras, Greece, russian gymnasts won seven of the eight gold medals. The eighth, the all-around title, went to Hanna Bezsonova from Kyiv. She beat the defending world champion, Olga Kapranova of russia, and also took a separate prize for elegance.
 
 ## A gymnastics family
 
@@ -33,4 +33,4 @@ In 2010, at the Deriugina Cup, Bezsonova formally said goodbye to top-level spor
 
 ## Why it matters today
 
-Bezsonova competed in years when Russian gymnasts won almost every gold in rhythmic gymnastics, and she showed that a Ukrainian could beat them at a World Championships. Her two Olympic medals earned Ukraine respect in a sport that judges beauty and artistry as much as strength. She grew up in a Kyiv gymnastics school and then went on to teach children herself. For every girl who steps onto the mat with a hoop today, her story is proof that even the strongest rival can be beaten with a style of your own.
+Bezsonova competed in years when russian gymnasts won almost every gold in rhythmic gymnastics, and she showed that a Ukrainian could beat them at a World Championships. Her two Olympic medals earned Ukraine respect in a sport that judges beauty and artistry as much as strength. She grew up in a Kyiv gymnastics school and then went on to teach children herself. For every girl who steps onto the mat with a hoop today, her story is proof that even the strongest rival can be beaten with a style of your own.

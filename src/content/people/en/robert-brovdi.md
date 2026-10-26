@@ -22,7 +22,7 @@ On 7 February 2022, before the full-scale invasion began, the 46-year-old Brovdi
 
 ## From a reconnaissance platoon to a new branch of the army
 
-Brovdi had no wish to spend hours lying in a trench, waiting for the shelling to stop. So, bureaucracy notwithstanding, he bought a drone with his own money and started scouting the front line himself. In May 2022, within the 59th Separate Motorized Infantry Brigade, Brovdi put together a small reconnaissance drone unit known as "Madyar's Birds." Its scout and FPV drones helped find and destroy Russian equipment and positions. Brovdi also pioneered laying mines from octocopters - drones with eight rotors.
+Brovdi had no wish to spend hours lying in a trench, waiting for the shelling to stop. So, bureaucracy notwithstanding, he bought a drone with his own money and started scouting the front line himself. In May 2022, within the 59th Separate Motorized Infantry Brigade, Brovdi put together a small reconnaissance drone unit known as "Madyar's Birds." Its scout and FPV drones helped find and destroy russian equipment and positions. Brovdi also pioneered laying mines from octocopters - drones with eight rotors.
 
 For 110 days, until March 2023, the unit held the defense of Bakhmut and Soledar. It kept growing - a company, then in January 2024 the 414th battalion, which moved to the Marines, a regiment in June, and by December 2024 the 414th Separate Strike Unmanned Aerial Systems Brigade. From June 2023 to January 2025, "Madyar's Birds" destroyed or hit more than 17,000 enemy targets.
 

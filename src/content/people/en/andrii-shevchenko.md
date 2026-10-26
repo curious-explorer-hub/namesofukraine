@@ -33,7 +33,7 @@ Shevchenko moved to AC Milan in 1999 and in his very first season became Serie A
 
 Shevchenko was the first player to make 100 appearances for Ukraine and became the national team’s all-time top scorer, with 48 goals. He captained the team that, under [Oleh Blokhin](/en/people/oleh-blokhin/), reached the quarterfinals of the 2006 World Cup. In 2016–2021 he coached the national team himself, and at Euro 2020 it again made the last eight. He then briefly managed Genoa in Italy (2021–2022).
 
-In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada as number two on the list of the Ukraine – Forward! party. After Russia’s full-scale invasion in 2022 he became the first ambassador of the UNITED24 fundraising platform. On 25 January 2024 the Congress of the Ukrainian Association of Football elected him president of the UAF: 93 of the 94 delegates voted for him, and he himself did not take part in the vote. As of October 2026 he holds this post.
+In 2012 Shevchenko ran unsuccessfully for the Verkhovna Rada as number two on the list of the Ukraine – Forward! party. After russia’s full-scale invasion in 2022 he became the first ambassador of the UNITED24 fundraising platform. On 25 January 2024 the Congress of the Ukrainian Association of Football elected him president of the UAF: 93 of the 94 delegates voted for him, and he himself did not take part in the vote. As of October 2026 he holds this post.
 
 ## Why it matters today
 

@@ -10,7 +10,7 @@ key_accomplishments:
   - "With his comrades, carried wounded people to the field hospital at Azovstal and helped save civilians"
   - "Order for Courage, 3rd class (posthumously)"
   - "Hero of Ukraine with the Gold Star order (posthumously, decree No. 562/2024 of 23 August 2024)"
-birthplace_name: "Tolbuzino (Amur Oblast, Russia)"
+birthplace_name: "Tolbuzino (Amur Oblast, russia)"
 image_alt: "Andrii Subotin in field uniform and cap, with armoured vehicles behind him"
 quotes:
   - text: "Tell my father I’m a real general’s son. I was never a general’s pampered boy."

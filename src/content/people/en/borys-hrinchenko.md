@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/borys-hrinchenko.md
 name: "Borys Hrinchenko"
 role: "Compiler of the Ukrainian dictionary"
-summary: "People spent 46 years collecting words for this dictionary; one man finished it in two. Borys Hrinchenko, a teacher and linguist from a Russian-speaking home, taught village children in their own language, published books for peasants and gave Ukrainians a dictionary of 68,000 words."
+summary: "People spent 46 years collecting words for this dictionary; one man finished it in two. Borys Hrinchenko, a teacher and linguist from a russian-speaking home, taught village children in their own language, published books for peasants and gave Ukrainians a dictionary of 68,000 words."
 fun_fact: "Hrinchenko wrote under many pen names, among them Vasyl Chaichenko, P. Vartovyi, B. Vilkhivskyi and L. Yavorenko."
 key_accomplishments:
   - "Compiled the four-volume Dictionary of the Ukrainian Language (1907–1909), some 68,000 words; the Saint Petersburg Academy of Sciences’ second Kostomarov Prize"
@@ -22,7 +22,7 @@ Imagine Ukrainians collecting words for a dictionary for 46 years, and still no 
 
 ## The boy who chose his language
 
-Hrinchenko was born in 1863 on the Vilkhovyi Yar farmstead near the village of Ruski Tyshky in the Kharkiv region, into an impoverished noble family. His father, a retired officer, spoke Russian at home and Ukrainian only with the peasants. The boy’s first poems were in Russian too. Then [Taras Shevchenko](/en/people/taras-shevchenko/)’s Kobzar changed everything: Hrinchenko began writing in Ukrainian.
+Hrinchenko was born in 1863 on the Vilkhovyi Yar farmstead near the village of Ruski Tyshky in the Kharkiv region, into an impoverished noble family. His father, a retired officer, spoke russian at home and Ukrainian only with the peasants. The boy’s first poems were in russian too. Then [Taras Shevchenko](/en/people/taras-shevchenko/)’s Kobzar changed everything: Hrinchenko began writing in Ukrainian.
 
 ## Arrested at sixteen
 
@@ -30,13 +30,13 @@ He studied at a technical secondary school in Kharkiv. At sixteen he was arreste
 
 ## A teacher who wrote his own textbooks
 
-For more than ten years he taught in village schools in the Kharkiv and Katerynoslav provinces, in the children’s own language. He wrote some of the first Ukrainian textbooks for them, such as the reader Native Word. For a while he worked at Khrystyna Alchevska’s school in Oleksiivka, but he disagreed with her teaching the children in Russian after the Ems Ukaz, and left.
+For more than ten years he taught in village schools in the Kharkiv and Katerynoslav provinces, in the children’s own language. He wrote some of the first Ukrainian textbooks for them, such as the reader Native Word. For a while he worked at Khrystyna Alchevska’s school in Oleksiivka, but he disagreed with her teaching the children in russian after the Ems Ukaz, and left.
 
 In the early 1890s Hrinchenko co-founded the Brotherhood of Taras, whose members swore at Shevchenko’s grave to spread his ideas. In his open Letters from Dnieper Ukraine he argued with [Mykhailo Drahomanov](/en/people/mykhailo-drahomanov/) about where Ukrainian literature should go.
 
 ## Fifty books past the censors
 
-In 1894 Hrinchenko moved to Chernihiv and worked for the provincial zemstvo. With money from the patron Ivan Cherevatenko he set up the largest publishing house in Russian-ruled Ukraine. Despite the censors it put out 50 popular educational books for villagers.
+In 1894 Hrinchenko moved to Chernihiv and worked for the provincial zemstvo. With money from the patron Ivan Cherevatenko he set up the largest publishing house in russian-ruled Ukraine. Despite the censors it put out 50 popular educational books for villagers.
 
 ## Two years on the dictionary
 

@@ -22,7 +22,7 @@ In 1992 he swore allegiance to the people of Ukraine. He became a military pilot
 
 ## Back from retirement
 
-Stepan Chobanu retired in 2010. But in 2015, with Russia already waging war on Ukraine, he went back to his 831st Tactical Aviation Brigade. As one of the most experienced pilots, he stood combat duty with the air defence forces and passed on what he knew to younger pilots.
+Stepan Chobanu retired in 2010. But in 2015, with russia already waging war on Ukraine, he went back to his 831st Tactical Aviation Brigade. As one of the most experienced pilots, he stood combat duty with the air defence forces and passed on what he knew to younger pilots.
 
 ## First in the sky
 

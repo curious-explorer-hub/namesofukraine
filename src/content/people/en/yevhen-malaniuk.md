@@ -18,7 +18,7 @@ image_alt: "Yevhen Malaniuk in a grey tweed jacket, light blue shirt and striped
 
 Which is stronger, the dagger or the pen? A stiletto is a small fighting knife; a stylus is the pointed stick people once used to write on wax tablets. Yevhen Malaniuk, an officer who became a poet, kept asking himself that question all his life.
 
-He was born in 1897 in the small town of Arkhanhorod in the Kherson region, today Novoarkhanhelsk in Kirovohrad Oblast, Ukraine. Malaniuk was proud that his surname appears in the Cossack registers of Khmelnytskyi’s time. On his mother’s side he had Montenegrin roots. At secondary school in Yelysavethrad he wrote his first poems, still in Russian back then. In 1916 he graduated from a military school in Kyiv and went to fight in the First World War.
+He was born in 1897 in the small town of Arkhanhorod in the Kherson region, today Novoarkhanhelsk in Kirovohrad Oblast, Ukraine. Malaniuk was proud that his surname appears in the Cossack registers of Khmelnytskyi’s time. On his mother’s side he had Montenegrin roots. At secondary school in Yelysavethrad he wrote his first poems, still in russian back then. In 1916 he graduated from a military school in Kyiv and went to fight in the First World War.
 
 From November 1917 Malaniuk served in the army of the Ukrainian People’s Republic, and in 1919 he was aide-de-camp to its commander, Vasyl Tiutiunnyk. After the defeat he retreated with the army into Poland, not knowing he was leaving his homeland for good.
 
@@ -30,13 +30,13 @@ In Lviv, [Dmytro Dontsov](/en/people/dmytro-dontsov/) printed his poems. Malaniu
 
 ## Russian lessons for Polish officers
 
-In 1929 Malaniuk settled in Warsaw and, with Yurii Lypa, founded the literary group Tank. Its programme was a decisive break with Russian culture and the idea of a Ukrainian state. At the same time the poet taught Russian at the Polish General Staff Academy. His work was translated into Polish, and from 1930 to 1937 he corresponded with the Czech poet Josef Svatopluk Machar.
+In 1929 Malaniuk settled in Warsaw and, with Yurii Lypa, founded the literary group Tank. Its programme was a decisive break with russian culture and the idea of a Ukrainian state. At the same time the poet taught russian at the Polish General Staff Academy. His work was translated into Polish, and from 1930 to 1937 he corresponded with the Czech poet Josef Svatopluk Machar.
 
 ## Giving up before the fight
 
 In 1944 Malaniuk left Poland, and after the war he taught at a camp for displaced persons in Regensburg. In the late 1940s he moved to the United States, where he first worked as a lift operator in a hospital and then as a technical draughtsman in New York.
 
-There he wrote the essay Little Russianism (1959). To Malaniuk, a “Little Russian” was someone who surrenders before the battle has even begun. He set against it “Mazepism”: the conscious will to defend one’s own state with the sabre, the word and the mind, as [Ivan Mazepa](/en/people/ivan-mazepa/) had. The poet never accepted the Soviet spelling rules of 1933, which pulled Ukrainian closer to Russian, and to the end he signed his first name the old way, Евген rather than Євген.
+There he wrote the essay Little Russianism (1959). To Malaniuk, a “Little Russian” was someone who surrenders before the battle has even begun. He set against it “Mazepism”: the conscious will to defend one’s own state with the sabre, the word and the mind, as [Ivan Mazepa](/en/people/ivan-mazepa/) had. The poet never accepted the Soviet spelling rules of 1933, which pulled Ukrainian closer to russian, and to the end he signed his first name the old way, Евген rather than Євген.
 
 Yevhen Malaniuk died in New York on 16 February 1968. That evening he had planned to go to the theatre: the ticket was found in his pocket. He was buried in Bound Brook, New Jersey.
 

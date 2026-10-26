@@ -25,7 +25,7 @@ Oleksandr Matsiievskyi was born in 1980 in Chișinău, where his mother had been
 
 On 24 February 2022, the first day of the full-scale invasion, Matsiievskyi went to the Nizhyn enlistment office, but was not taken into the army at once. So he helped build fortifications, stood guard at checkpoints, made incendiary mixtures and kept going back to the recruiting station. On 11 March 2022 he was enlisted in the 163rd Battalion of the 119th Separate Territorial Defense Brigade of Chernihiv Oblast. He completed his training and from November 2022 fought as a sniper in the Bakhmut sector.
 
-In late December 2022, during the battles for Soledar, Oleksandr Matsiievskyi was taken prisoner, and on 30 December, unarmed, he was shot by Russian soldiers after he said “Slava Ukraini!”; he was 42.
+In late December 2022, during the battles for Soledar, Oleksandr Matsiievskyi was taken prisoner, and on 30 December, unarmed, he was shot by russian soldiers after he said “Slava Ukraini!”; he was 42.
 
 ## Why it matters today
 

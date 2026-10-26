@@ -7,7 +7,7 @@ fun_fact: "Mykhailo gave the money raised for his own treatment to fellow soldie
 key_accomplishments:
   - "Volunteer since January 2015, first in the airborne troops, then in the marines"
   - "Senior sergeant of the 36th Separate Marine Brigade; fought in the defence of Mariupol and Azovstal (2022)"
-  - "Came home from Russian captivity in the prisoner exchange of 21 September 2022"
+  - "Came home from russian captivity in the prisoner exchange of 21 September 2022"
   - "Gave the 23.4 million hryvnias raised for his treatment to treat fellow soldiers (October 2022)"
 birthplace_name: "Ternopil"
 image_alt: "A smiling Mykhailo Dianov in a black T-shirt flexing his right arm to show his biceps"
@@ -31,7 +31,7 @@ Mykhailo comes from Ternopil. In January 2015 he went to war as a volunteer, fir
 
 ## Captivity
 
-When the defenders of Azovstal laid down their arms, Mykhailo was taken prisoner by Russia. He spent about four months at the prison camp in Olenivka in occupied Donetsk Oblast and lost around 40 kilograms. He later told journalists about the beatings and hunger the prisoners faced. On 21 September 2022 he was freed in an exchange, the same one that brought home the marines’ commander [Serhii Volynskyi](/en/people/serhii-volynskyi/) and paramedic [Kateryna Polishchuk](/en/people/kateryna-polishchuk/).
+When the defenders of Azovstal laid down their arms, Mykhailo was taken prisoner by russia. He spent about four months at the prison camp in Olenivka in occupied Donetsk Oblast and lost around 40 kilograms. He later told journalists about the beatings and hunger the prisoners faced. On 21 September 2022 he was freed in an exchange, the same one that brought home the marines’ commander [Serhii Volynskyi](/en/people/serhii-volynskyi/) and paramedic [Kateryna Polishchuk](/en/people/kateryna-polishchuk/).
 
 ## 23.4 million for his comrades
 
@@ -39,4 +39,4 @@ After his release, people rushed to send Mykhailo money for treatment: more than
 
 ## Why it matters today
 
-Mykhailo Dianov volunteered to defend Ukraine and didn’t leave his comrades even when he was badly wounded. His two photos, before and after captivity, showed the world what Russia does to prisoners of war. And the money people raised for his treatment he gave to those who needed it more, proving that people’s trust can be passed on. His choice shows that a defender thinks first of his comrades, and that any of us can think the same way about those who have it harder right now.
+Mykhailo Dianov volunteered to defend Ukraine and didn’t leave his comrades even when he was badly wounded. His two photos, before and after captivity, showed the world what russia does to prisoners of war. And the money people raised for his treatment he gave to those who needed it more, proving that people’s trust can be passed on. His choice shows that a defender thinks first of his comrades, and that any of us can think the same way about those who have it harder right now.

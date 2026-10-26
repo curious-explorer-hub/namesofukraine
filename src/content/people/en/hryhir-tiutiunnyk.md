@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/hryhir-tiutiunnyk.md
 name: "Hryhir Tiutiunnyk"
 role: "Short-story writer of the Sixtiers"
-summary: "His first story was published in Russian, yet he became one of the most prominent Ukrainian prose writers of the Sixtiers. Hryhir Tiutiunnyk wrote stories of village life full of humour and a rare feel for the language, though he was printed reluctantly and harshly attacked."
+summary: "His first story was published in russian, yet he became one of the most prominent Ukrainian prose writers of the Sixtiers. Hryhir Tiutiunnyk wrote stories of village life full of humour and a rare feel for the language, though he was printed reluctantly and harshly attacked."
 fun_fact: "On paper both Tiutiunnyk brothers were called Hryhorii. Their parents wanted to name the younger one Heorhii, but the grandfather who went to register the baby mixed up the two similar names. Nobody corrected it, so the younger brother called himself Hryhir to stand apart."
 key_accomplishments:
   - "The story collections Zaviaz (1968), Derevii (1969), Batkivski Porohy (1972), Krainebo (1975) and Korinnia (1978)"
@@ -15,7 +15,7 @@ image_alt: "Hryhir Tiutiunnyk with dark hair combed back, in a dark jacket, whit
 
 ## Language is the soul of a people
 
-Hryhir Tiutiunnyk’s first story came out in 1961, in Russian. He wrote in Russian to his brother too: the writer Hryhorii Tiutiunnyk, author of the popular novel The Whirlpool. His brother taught him to work on every sentence and cut the words he didn’t need, and kept telling him: “Just know, little brother, language is the soul of a people.” Hryhir listened, and wrote everything after that in Ukrainian.
+Hryhir Tiutiunnyk’s first story came out in 1961, in russian. He wrote in russian to his brother too: the writer Hryhorii Tiutiunnyk, author of the popular novel The Whirlpool. His brother taught him to work on every sentence and cut the words he didn’t need, and kept telling him: “Just know, little brother, language is the soul of a people.” Hryhir listened, and wrote everything after that in Ukrainian.
 
 ## Fitter, radio operator, teacher
 
@@ -31,4 +31,4 @@ Hounded and driven to despair, Hryhir Tiutiunnyk took his own life in Kyiv on th
 
 ## Why it matters today
 
-Hryhir Tiutiunnyk began with stories in Russian and became one of the masters of the Ukrainian short story, because he understood that a people’s soul can only be conveyed in its own language. His stories preserved the living speech and the characters of the Ukrainian village he knew from the inside. He wrote the truth about people even when he was harshly attacked for it. His life shows that it is never too late to return to your own language, and that it can be what makes a writer great.
+Hryhir Tiutiunnyk began with stories in russian and became one of the masters of the Ukrainian short story, because he understood that a people’s soul can only be conveyed in its own language. His stories preserved the living speech and the characters of the Ukrainian village he knew from the inside. He wrote the truth about people even when he was harshly attacked for it. His life shows that it is never too late to return to your own language, and that it can be what makes a writer great.

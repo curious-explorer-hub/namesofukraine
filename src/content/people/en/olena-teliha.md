@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/olena-teliha.md
 name: "Olena Teliha"
 role: "Poet and OUN activist"
-summary: "“That dog’s language is my language!” By her own account, that is what a poet raised among Russian speakers shouted at a party in Prague in 1934. From then on Olena Teliha spoke only Ukrainian. In 1941 she headed the Writers’ Union in Kyiv; in 1942 the Nazis executed her."
+summary: "“That dog’s language is my language!” By her own account, that is what a poet raised among russian speakers shouted at a party in Prague in 1934. From then on Olena Teliha spoke only Ukrainian. In 1941 she headed the Writers’ Union in Kyiv; in 1942 the Nazis executed her."
 fun_fact: "Olena met her husband, the Kuban Cossack and bandura player Mykhailo Teliha, in 1924 at a concert in Prague, where he played the bandura and sang Ukrainian dumas that evening."
 key_accomplishments:
   - "Poems and essays in Dmytro Dontsov’s journal Vistnyk (from 1933); the posthumous collection The Soul on Guard (1946)"
@@ -17,7 +17,7 @@ quotes:
 
 ## “That dog’s language is my language!”
 
-Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv (other sources give 1907 and Saint Petersburg). In 1918 the family moved to Kyiv. In 1920 her father left for exile with the UNR government, while 13-year-old Olena stayed in Kyiv with her mother and worked as a messenger at the Kyiv Polytechnic Institute, where he had recently taught: she washed floors, delivered notices and sawed firewood. In 1922 the family was reunited in Poděbrady in Czechoslovakia. Olena grew up in a Russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
+Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv (other sources give 1907 and Saint Petersburg). In 1918 the family moved to Kyiv. In 1920 her father left for exile with the UNR government, while 13-year-old Olena stayed in Kyiv with her mother and worked as a messenger at the Kyiv Polytechnic Institute, where he had recently taught: she washed floors, delivered notices and sawed firewood. In 1922 the family was reunited in Poděbrady in Czechoslovakia. Olena grew up in a russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
 
 In 1934, at a party in Prague, someone began mocking the Ukrainian language. By her own account, printed in Vistnyk, Olena stood up, banged her fist on the table and shouted: “You boors! That dog’s language is my language! The language of my father and my mother! And I don’t want to know you any more!” From then on, she wrote, she spoke only Ukrainian.
 
@@ -49,4 +49,4 @@ Teliha belonged to the OUN and published in Vistnyk, edited by Dontsov, the chie
 
 ## Why it matters today
 
-Olena Teliha’s story shows that you can claim your language as an adult: a young woman raised among Russian speakers stood up one evening in Prague, called Ukrainian her own, and spoke nothing else from then on. In her poems and essays she wrote about the role of women in the life of the nation. In occupied Kyiv she refused to cooperate with the occupiers. Her line “Victory is given only to those who could laugh even in pain” still gives strength to anyone going through hard times.
+Olena Teliha’s story shows that you can claim your language as an adult: a young woman raised among russian speakers stood up one evening in Prague, called Ukrainian her own, and spoke nothing else from then on. In her poems and essays she wrote about the role of women in the life of the nation. In occupied Kyiv she refused to cooperate with the occupiers. Her line “Victory is given only to those who could laugh even in pain” still gives strength to anyone going through hard times.

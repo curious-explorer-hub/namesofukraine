@@ -29,7 +29,7 @@ After the defeat at Poltava in 1709, Orlyk retreated with Mazepa to Ottoman terr
 
 ## Thirty years abroad
 
-Orlyk never managed to win Ukraine back: his campaigns into Right-Bank Ukraine with the Tatars and Zaporozhians ended in failure. Decades of exile followed: in 1714 he moved to Sweden, in 1720 to Silesia, and in 1721 to the Polish-Lithuanian Commonwealth. From 1722 to 1734 he lived in Salonika under Ottoman supervision, then in the Budjak and Moldavia. All this time he corresponded with European courts, trying to build a coalition against Russia. He died in 1742 in Iași; his burial place is unknown.
+Orlyk never managed to win Ukraine back: his campaigns into Right-Bank Ukraine with the Tatars and Zaporozhians ended in failure. Decades of exile followed: in 1714 he moved to Sweden, in 1720 to Silesia, and in 1721 to the Polish-Lithuanian Commonwealth. From 1722 to 1734 he lived in Salonika under Ottoman supervision, then in the Budjak and Moldavia. All this time he corresponded with European courts, trying to build a coalition against russia. He died in 1742 in Iași; his burial place is unknown.
 
 ## Why it matters today
 

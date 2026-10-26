@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykola-lysenko.md
 name: "Mykola Lysenko"
 role: "Father of Ukrainian classical music"
-summary: "Tchaikovsky himself wanted to stage his Taras Bulba, but only in Russian, and the composer said no. Mykola Lysenko laid the foundations of Ukrainian classical music and wrote “Prayer for Ukraine”, which became the country’s spiritual anthem."
+summary: "Tchaikovsky himself wanted to stage his Taras Bulba, but only in russian, and the composer said no. Mykola Lysenko laid the foundations of Ukrainian classical music and wrote “Prayer for Ukraine”, which became the country’s spiritual anthem."
 fun_fact: "Lysenko wrote his first piece, a polka, as a boy, in 1852."
 misconception:
   claim: "Lysenko’s “Prayer for Ukraine” (“O God the Great, the Only One”) is often taken for Ukraine’s national anthem."
@@ -21,7 +21,7 @@ quotes:
 
 ## The opera he wouldn’t give up
 
-Pyotr Tchaikovsky offered to stage Mykola Lysenko’s opera Taras Bulba. There was one condition: it would be sung in Russian. Lysenko refused. For his operas he accepted only Ukrainian, even though the Ems Ukaz of 1876 banned printing Ukrainian even in the words to sheet music. In the composer’s lifetime only fragments of Taras Bulba were staged; the full opera reached the stage in 1924.
+Pyotr Tchaikovsky offered to stage Mykola Lysenko’s opera Taras Bulba. There was one condition: it would be sung in russian. Lysenko refused. For his operas he accepted only Ukrainian, even though the Ems Ukaz of 1876 banned printing Ukrainian even in the words to sheet music. In the composer’s lifetime only fragments of Taras Bulba were staged; the full opera reached the stage in 1924.
 
 ## How a natural scientist became a composer
 

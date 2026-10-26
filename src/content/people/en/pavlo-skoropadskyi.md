@@ -3,7 +3,7 @@
 name: "Pavlo Skoropadskyi"
 role: "Hetman of the Ukrainian State"
 summary: "He was hetman for less than eight months in 1918, yet the Academy of Sciences founded then still works today. General Pavlo Skoropadskyi came to power with German backing; his regime was authoritarian, and views of it still differ."
-fun_fact: "The hetman signed the law founding the Ukrainian Academy of Sciences on 14 November 1918 - the same day he issued the Federation Charter on union with a future non-Bolshevik Russia."
+fun_fact: "The hetman signed the law founding the Ukrainian Academy of Sciences on 14 November 1918 - the same day he issued the Federation Charter on union with a future non-Bolshevik russia."
 key_accomplishments:
   - "Ukrainized the 34th Army Corps into the 1st Ukrainian Corps and in December 1917 kept Bolshevized units out of Kyiv"
   - "Hetman of the Ukrainian State (29 April - 14 December 1918)"
@@ -28,11 +28,11 @@ Skoropadskyi was born in Wiesbaden, Germany, into an old Ukrainian family of Cos
 
 Skoropadskyi was proclaimed hetman on 29 April 1918, with the backing of the German command. The Ukrainian People’s Republic became the Ukrainian State, and all power lay with the hetman. Under his rule came the Ukrainian Academy of Sciences, state universities in Kyiv and Kamianets-Podilskyi and the National Library; by November 1918 there were 150 Ukrainian gymnasiums. But the regime never solved the land question, peasants rose up, and its power rested on German and Austro-Hungarian troops.
 
-After the Central Powers were defeated, on 14 November 1918, the hetman announced a course towards federation with a future non-Bolshevik Russia. The Directory’s uprising began, and on 14 December Skoropadskyi gave up power. In exile he lived in Wannsee near Berlin and led the hetmanite movement, and in 1926 the Ukrainian Scientific Institute in Berlin was founded on his initiative. In April 1945 he was mortally wounded in a bombing raid on Plattling station in Bavaria.
+After the Central Powers were defeated, on 14 November 1918, the hetman announced a course towards federation with a future non-Bolshevik russia. The Directory’s uprising began, and on 14 December Skoropadskyi gave up power. In exile he lived in Wannsee near Berlin and led the hetmanite movement, and in 1926 the Ukrainian Scientific Institute in Berlin was founded on his initiative. In April 1945 he was mortally wounded in a bombing raid on Plattling station in Bavaria.
 
 ## Debates and assessments
 
-Views of the Hetmanate still differ. Critics, including the Ukrainian democratic and socialist parties of the day, pointed out that Skoropadskyi’s power came from a coup backed by the German army, was authoritarian, introduced censorship and brought into government Russian figures hostile to Ukrainian independence. At the same time, historians acknowledge the Ukrainian State’s achievements in diplomacy, education and culture. His rule is described as a temporary one-man government that drew on historical and national traditions and leaned towards authoritarianism, and it is noted that in exile he gave up his federalist views.
+Views of the Hetmanate still differ. Critics, including the Ukrainian democratic and socialist parties of the day, pointed out that Skoropadskyi’s power came from a coup backed by the German army, was authoritarian, introduced censorship and brought into government russian figures hostile to Ukrainian independence. At the same time, historians acknowledge the Ukrainian State’s achievements in diplomacy, education and culture. His rule is described as a temporary one-man government that drew on historical and national traditions and leaned towards authoritarianism, and it is noted that in exile he gave up his federalist views.
 
 ## Why it matters today
 

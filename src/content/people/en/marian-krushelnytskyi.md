@@ -25,7 +25,7 @@ In 1924 Krushelnytskyi moved to Soviet Ukraine and joined Kurbas’s Berezil, fi
 
 ## After his teacher’s arrest
 
-In 1933 Kurbas was removed as head of the theater and later arrested. His pupil Krushelnytskyi took over the Berezil and ran it until 1952; today it is the Shevchenko Ukrainian Drama Theater in Kharkiv. The repertoire changed: socialist-realist plays, among them Oleksandr Korniichuk’s, and the Russian classics now dominated. Krushelnytskyi himself won his greatest fame as Tevye the Dairyman and King Lear. He was made a People’s Artist of the USSR (1944) and received the Stalin Prize (1947).
+In 1933 Kurbas was removed as head of the theater and later arrested. His pupil Krushelnytskyi took over the Berezil and ran it until 1952; today it is the Shevchenko Ukrainian Drama Theater in Kharkiv. The repertoire changed: socialist-realist plays, among them Oleksandr Korniichuk’s, and the russian classics now dominated. Krushelnytskyi himself won his greatest fame as Tevye the Dairyman and King Lear. He was made a People’s Artist of the USSR (1944) and received the Stalin Prize (1947).
 
 ## Teaching a new generation
 

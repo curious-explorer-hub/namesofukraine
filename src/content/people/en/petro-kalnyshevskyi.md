@@ -26,7 +26,7 @@ Kalnyshevskyi’s first concern was the Zaporozhian lands. He encouraged settler
 
 ## 25 years on the Solovetsky Islands
 
-Once the Ottoman Empire was defeated, the empire no longer needed the Sich. In 1775 Russian troops destroyed the New Sich, and Kalnyshevskyi was arrested. His property was confiscated: at his arrest he owned 50,000 roubles, 639 horses, over a thousand cattle and some 14,000 sheep and goats. He was held under arrest in Moscow for almost a year, and in 1776, on Catherine II’s orders, he was sent to the prison of the Solovetsky Monastery on the White Sea. The empire allowed one rouble a day for the prisoner’s keep.
+Once the Ottoman Empire was defeated, the empire no longer needed the Sich. In 1775 russian troops destroyed the New Sich, and Kalnyshevskyi was arrested. His property was confiscated: at his arrest he owned 50,000 roubles, 639 horses, over a thousand cattle and some 14,000 sheep and goats. He was held under arrest in Moscow for almost a year, and in 1776, on Catherine II’s orders, he was sent to the prison of the Solovetsky Monastery on the White Sea. The empire allowed one rouble a day for the prisoner’s keep.
 
 For about 16 years he was held in a cell whose roof leaked so badly that, as the monastery’s deputy head wrote, “the clothes on him rot” from the rain. Then came 9 more years in a half-underground cell called “Sushylo”. He was not allowed to write letters and was let out of his cell only three times a year: at Christmas, Easter and the Feast of the Transfiguration. Even there he wore Cossack dress and spoke Ukrainian, as he had at home.
 

@@ -3,7 +3,7 @@
 name: "Ivan Vyhovskyi"
 role: "Hetman, victor at Konotop"
 summary: "In 1648 he fought against the Cossacks and was taken prisoner by the Tatars. Khmelnytskyi bought his freedom, and nine years later Ivan Vyhovskyi was hetman himself: he signed the Treaty of Hadiach with Poland and crushed a Muscovite army at Konotop."
-fun_fact: "Before he joined the Cossacks, Vyhovskyi worked in the courts of Kyiv and Lutsk, and he knew Latin, Church Slavonic, Russian and Polish."
+fun_fact: "Before he joined the Cossacks, Vyhovskyi worked in the courts of Kyiv and Lutsk, and he knew Latin, Church Slavonic, russian and Polish."
 key_accomplishments:
   - "General chancellor of the Zaporozhian Host under Bohdan Khmelnytskyi (from 1649–1650)"
   - "Hetman of the Zaporozhian Host (1657–1659)"

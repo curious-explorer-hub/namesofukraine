@@ -25,11 +25,11 @@ Valerii Padytel was born in 1978 in Dunaivtsi, in the Khmelnytskyi region of wes
 
 ## Border guards at Azovstal
 
-On the night of 24 February 2022 the detachment’s positions came under air and missile strikes, and near Dokuchaievsk and Hnutove Russian tank columns tried to break through the line of contact. The detachment joined the defence of Mariupol, and on 28 February the whole unit moved into the Azovstal steelworks. From there the border guards went out in groups on combat tasks set by [Denys Shleha](/en/people/denys-shleha/) and [Denys Prokopenko](/en/people/denys-prokopenko/). Padytel’s men also met the helicopters that flew in to the plant, unloading ammunition at speed and putting the wounded on board.
+On the night of 24 February 2022 the detachment’s positions came under air and missile strikes, and near Dokuchaievsk and Hnutove russian tank columns tried to break through the line of contact. The detachment joined the defence of Mariupol, and on 28 February the whole unit moved into the Azovstal steelworks. From there the border guards went out in groups on combat tasks set by [Denys Shleha](/en/people/denys-shleha/) and [Denys Prokopenko](/en/people/denys-prokopenko/). Padytel’s men also met the helicopters that flew in to the plant, unloading ammunition at speed and putting the wounded on board.
 
 ## The last of his unit
 
-In May the defenders of Azovstal followed the order to save lives and left the plant. Before they went out, Padytel photographed every one of his men, signed each photo and sent them to his commanders. He himself left last, at the end of the column, and was taken prisoner by Russia. He had promised his men he would also be the last to leave captivity, but on 21 September 2022 he was exchanged among the first. He calls that his cross to bear. On 14 October 2022 he was made a Hero of Ukraine.
+In May the defenders of Azovstal followed the order to save lives and left the plant. Before they went out, Padytel photographed every one of his men, signed each photo and sent them to his commanders. He himself left last, at the end of the column, and was taken prisoner by russia. He had promised his men he would also be the last to leave captivity, but on 21 September 2022 he was exchanged among the first. He calls that his cross to bear. On 14 October 2022 he was made a Hero of Ukraine.
 
 ## Steel Border
 

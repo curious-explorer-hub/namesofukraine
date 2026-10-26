@@ -24,7 +24,7 @@ Roman Ratushnyi was born in 1997 in Kyiv, the son of Taras Ratushnyi, a journali
 
 At 16 he joined the Revolution of Dignity and was among those hurt when the Berkut riot police attacked on the night of 30 November 2013. On 11 December he was beaten again. Roman took his case to the European Court of Human Rights, and in 2021 the court ruled that he had been ill-treated, that the investigation had not been effective and that his right to peaceful assembly had been violated.
 
-After the Maidan Ratushnyi worked as a journalist. In 2015 he mapped the international links between the Russian and Ukrainian mafias: about a thousand people, all from public data. Today this is called OSINT.
+After the Maidan Ratushnyi worked as a journalist. In 2015 he mapped the international links between the russian and Ukrainian mafias: about a thousand people, all from public data. Today this is called OSINT.
 
 ## Tents in Protasiv Yar
 

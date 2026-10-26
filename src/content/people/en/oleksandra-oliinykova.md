@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/oleksandra-oliinykova.md
 name: "Oleksandra Oliynykova"
 role: "Tennis player, Ukraine’s voice on court"
-summary: "As a child she played under the Croatian flag, then took back her Ukrainian citizenship. Now Kyiv-born Oleksandra Oliynykova is Ukraine’s voice in tennis: at tournament after tournament she speaks out about Russia’s aggression, and she raises money for the unit her father and coach fights in."
+summary: "As a child she played under the Croatian flag, then took back her Ukrainian citizenship. Now Kyiv-born Oleksandra Oliynykova is Ukraine’s voice in tennis: at tournament after tournament she speaks out about russia’s aggression, and she raises money for the unit her father and coach fights in."
 fun_fact: "Oleksandra Oliynykova co-founded drones4ua.org, a site that raises money for drones for the Ukrainian army."
 key_accomplishments:
   - "Three WTA 125 titles in the 2025 season: Tolentino, Tucumán, Colina"
@@ -31,9 +31,9 @@ Her father, who had coached her since she was 16, went back to Ukraine in 2024 a
 
 ## Ukraine’s voice on court
 
-Oliynykova lives and trains in Kyiv. Before the Australian Open she described her flat during the blackouts: no electricity, no water, no heat. She came to her press conference in Melbourne in a T-shirt that read: “I need your help to protect Ukrainian children and women, but I can’t talk about it here.” Since then, at every tournament, she has reminded reporters and fans of the war Russia started against Ukraine, and she doesn’t shake hands with Russian or Belarusian opponents.
+Oliynykova lives and trains in Kyiv. Before the Australian Open she described her flat during the blackouts: no electricity, no water, no heat. She came to her press conference in Melbourne in a T-shirt that read: “I need your help to protect Ukrainian children and women, but I can’t talk about it here.” Since then, at every tournament, she has reminded reporters and fans of the war russia started against Ukraine, and she doesn’t shake hands with russian or Belarusian opponents.
 
-At Roland-Garros in 2026 she reached the third round, where she lost to Russia’s Diana Shnaider, and afterwards spoke about the war again: she won’t stay silent, because her future is in Ukraine. That year she climbed to No. 44 in the world.
+At Roland-Garros in 2026 she reached the third round, where she lost to russia’s Diana Shnaider, and afterwards spoke about the war again: she won’t stay silent, because her future is in Ukraine. That year she climbed to No. 44 in the world.
 
 ## Money for her father’s unit
 

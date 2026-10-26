@@ -27,7 +27,7 @@ Kateryna was born in 2001 in the village of Sosnivka in the Ternopil region of w
 
 ## Captivity and return
 
-Following orders from command, Kateryna left the plant with the other defenders on 19 May 2022, and all of them were taken prisoner by Russia. She was held in the Olenivka prison in the occupied Donetsk region. Even in captivity she went on working as a paramedic, helping other prisoners. On 29 July 2022 about 50 defenders were killed in an attack on the prison. After four months in captivity she came home in a prisoner exchange on 21 September 2022.
+Following orders from command, Kateryna left the plant with the other defenders on 19 May 2022, and all of them were taken prisoner by russia. She was held in the Olenivka prison in the occupied Donetsk region. Even in captivity she went on working as a paramedic, helping other prisoners. On 29 July 2022 about 50 defenders were killed in an attack on the prison. After four months in captivity she came home in a prisoner exchange on 21 September 2022.
 
 ## Back in the army
 

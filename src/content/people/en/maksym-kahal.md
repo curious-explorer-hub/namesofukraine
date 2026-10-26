@@ -26,9 +26,9 @@ The next year, 2015, Maksym joined Azov and went to defend eastern Ukraine under
 
 ## Mariupol, 2022
 
-When the full-scale invasion began, Senior Lieutenant Kahal commanded a platoon in Azov, led by [Denys Prokopenko](/en/people/denys-prokopenko/). During the defence of Mariupol he and his soldiers destroyed several pieces of Russian military equipment.
+When the full-scale invasion began, Senior Lieutenant Kahal commanded a platoon in Azov, led by [Denys Prokopenko](/en/people/denys-prokopenko/). During the defence of Mariupol he and his soldiers destroyed several pieces of russian military equipment.
 
-Maksym Kahal was killed in a Russian airstrike in Mariupol on 25 March 2022. He was 30. On 2 April 2022 he was made a Hero of Ukraine posthumously, by the same decree as his fellow Azov officer [Vitalii Hrytsaienko](/en/people/vitalii-hrytsaienko/).
+Maksym Kahal was killed in a russian airstrike in Mariupol on 25 March 2022. He was 30. On 2 April 2022 he was made a Hero of Ukraine posthumously, by the same decree as his fellow Azov officer [Vitalii Hrytsaienko](/en/people/vitalii-hrytsaienko/).
 
 ## Why it matters today
 

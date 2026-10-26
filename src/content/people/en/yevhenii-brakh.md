@@ -19,7 +19,7 @@ Did you know that Yevhenii Brakh’s call sign is the name of a country in Afric
 
 ## A legionnaire without French
 
-Yevhenii was 19 in 2014, when Russia’s war in Donbas began, and the army then took volunteers only from 20. So he left university, went abroad and in September 2015 joined the French Foreign Legion, even though he didn’t know the language. The Legion sent him to Mali, which gave him his call sign, and later to French Guiana in South America. In 2020 he finished his five-year contract as a corporal and stayed on in the Legion’s reserve. He lived and worked in France and ran a YouTube channel and an Instagram account.
+Yevhenii was 19 in 2014, when russia’s war in Donbas began, and the army then took volunteers only from 20. So he left university, went abroad and in September 2015 joined the French Foreign Legion, even though he didn’t know the language. The Legion sent him to Mali, which gave him his call sign, and later to French Guiana in South America. In 2020 he finished his five-year contract as a corporal and stayed on in the Legion’s reserve. He lived and worked in France and ran a YouTube channel and an Instagram account.
 
 ## Coming home
 

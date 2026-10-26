@@ -20,7 +20,7 @@ quotes:
 
 ## Why did a teacher walk out of college and take to the road?
 
-Hryhorii Skovoroda could have had a quiet career. Born into a Cossack family in the village of Chornukhy in the Poltava region, he studied at the Kyiv-Mohyla Academy, sang in the court choir in Saint Petersburg, and in 1745 left with a Russian mission to the Tokaj vineyards in Hungary. From there he travelled to Vienna, Buda and Pressburg (now Bratislava) to meet learned people: he spoke fluent Latin and German and knew Greek. Later he taught poetics in Pereiaslav and at the Kharkiv Collegium.
+Hryhorii Skovoroda could have had a quiet career. Born into a Cossack family in the village of Chornukhy in the Poltava region, he studied at the Kyiv-Mohyla Academy, sang in the court choir in Saint Petersburg, and in 1745 left with a russian mission to the Tokaj vineyards in Hungary. From there he travelled to Vienna, Buda and Pressburg (now Bratislava) to meet learned people: he spoke fluent Latin and German and knew Greek. Later he taught poetics in Pereiaslav and at the Kharkiv Collegium.
 
 Skovoroda was also a musician: he played the violin, flute, bandura and gusli, and wrote music for church concertos.
 

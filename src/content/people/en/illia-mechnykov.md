@@ -7,7 +7,7 @@ fun_fact: "In 1970 a crater on the Moon was named after Mechnikov."
 key_accomplishments:
   - "Discovered phagocytosis (1882) and created the phagocytic theory of immunity"
   - "Nobel Prize in Physiology or Medicine (1908, shared with Paul Ehrlich)"
-  - "With Mykola Hamaliia and Yakiv Bardakh, founded the first bacteriological station in the Russian Empire, in Odesa (1886)"
+  - "With Mykola Hamaliia and Yakiv Bardakh, founded the first bacteriological station in the russian empire, in Odesa (1886)"
   - "One of the founders of evolutionary embryology and scientific gerontology"
 birthplace_name: "Ivanivka"
 image_alt: "Photograph of Ilya Mechnikov, about 1908"
@@ -24,7 +24,7 @@ Mechnikov was born in 1845 on the Panasivka estate in the Kharkiv region (now th
 
 ## A station against epidemics
 
-Together with Mykola Hamaliia and Yakiv Bardakh, Mechnikov founded in Odesa, in 1886, the first bacteriological station in the Russian Empire, and the second in the world, to fight infectious diseases. The very next year he was forced to leave Odesa.
+Together with Mykola Hamaliia and Yakiv Bardakh, Mechnikov founded in Odesa, in 1886, the first bacteriological station in the russian empire, and the second in the world, to fight infectious diseases. The very next year he was forced to leave Odesa.
 
 ## A Nobel Prize in Paris
 

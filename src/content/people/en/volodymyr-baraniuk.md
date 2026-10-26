@@ -5,7 +5,7 @@ role: "Commander of the 36th Marine Brigade"
 summary: "Russian troops captured him once before, in Crimea in 2014, and left him with broken ribs. Eight years later, as a colonel and Hero of Ukraine, he commanded the 36th Marine Brigade's defence of Mariupol - and was taken prisoner again."
 fun_fact: "After Baraniuk was captured in a failed breakout from Mariupol, about 500 of his soldiers fought their way through to the Azovstal plant under the command of Serhii Volynskyi."
 key_accomplishments:
-  - "During Russia's seizure of Crimea in 2014, then a major, took command of his besieged marine battalion in Feodosia"
+  - "During russia's seizure of Crimea in 2014, then a major, took command of his besieged marine battalion in Feodosia"
   - "Commanded the 36th Separate Marine Brigade (September 2021 - April 2022)"
   - "Organized the defense of Mariupol from the first days of the full-scale invasion (from 24 February 2022)"
   - "Hero of Ukraine (decree No. 148/2022, 19 March 2022)"
@@ -15,7 +15,7 @@ image_alt: "Colonel Volodymyr Baraniuk in Marine field uniform and a boonie hat"
 
 ## The first time they caught him
 
-As Russia seized Crimea in March 2014, Major Volodymyr Baraniuk was deputy commander of a marine battalion in Feodosia. When Russian troops surrounded the base and flew the senior officers out by helicopter, Baraniuk took charge of the encircled unit. Russian troops fired on the unarmed marines and threw flash grenades at them; Baraniuk came away with broken ribs and a head injury. He was released on 26 March 2014, along with the other captured marines.
+As russia seized Crimea in March 2014, Major Volodymyr Baraniuk was deputy commander of a marine battalion in Feodosia. When russian troops surrounded the base and flew the senior officers out by helicopter, Baraniuk took charge of the encircled unit. Russian troops fired on the unarmed marines and threw flash grenades at them; Baraniuk came away with broken ribs and a head injury. He was released on 26 March 2014, along with the other captured marines.
 
 ## Mariupol
 

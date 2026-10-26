@@ -24,7 +24,7 @@ Vasyl Sedliar was born in 1899 on the Khrystivka farmstead near the village of Z
 
 ## A teacher of ceramicists
 
-From 1923 to 1930 Sedliar ran the ceramics school at Mezhyhiria, just outside Kyiv. Oksana Pavlenko and [Ivan Padalka](/en/people/ivan-padalka/) worked there with him. In 1926 he wrote the essay AKhRR and ARMU, arguing against the influence of Russian realist painting on Ukrainian art. In 1926–1927 he toured Europe’s museums with Boichuk, Germany and France among them, and brought back a series of drawings called Europe, which Party critics attacked. From 1930 he trained ceramicists at the Kyiv Art Institute, and in Kharkiv he worked on the fresco Industrialization for the Chervonozavodskyi Theatre.
+From 1923 to 1930 Sedliar ran the ceramics school at Mezhyhiria, just outside Kyiv. Oksana Pavlenko and [Ivan Padalka](/en/people/ivan-padalka/) worked there with him. In 1926 he wrote the essay AKhRR and ARMU, arguing against the influence of russian realist painting on Ukrainian art. In 1926–1927 he toured Europe’s museums with Boichuk, Germany and France among them, and brought back a series of drawings called Europe, which Party critics attacked. From 1930 he trained ceramicists at the Kyiv Art Institute, and in Kharkiv he worked on the fresco Industrialization for the Chervonozavodskyi Theatre.
 
 ## 1936–1937
 
@@ -32,4 +32,4 @@ On 26 November 1936 Sedliar was arrested in Kharkiv and, on the strength of fabr
 
 ## Why it matters today
 
-Vasyl Sedliar gave the Kobzar a new look, in the language of icons, frescoes and folk painting that he had learned from Boichuk. He spoke out openly against Ukrainian art copying Russian realist painting. As a director and teacher he trained ceramicists and artists, so the Boichukist school lived on in his students too. They tried to erase his Kobzar along with him, but the book came back to its readers. Anyone who illustrates, paints or publishes books today can carry on what he started: showing their own classics in their own visual language.
+Vasyl Sedliar gave the Kobzar a new look, in the language of icons, frescoes and folk painting that he had learned from Boichuk. He spoke out openly against Ukrainian art copying russian realist painting. As a director and teacher he trained ceramicists and artists, so the Boichukist school lived on in his students too. They tried to erase his Kobzar along with him, but the book came back to its readers. Anyone who illustrates, paints or publishes books today can carry on what he started: showing their own classics in their own visual language.

@@ -6,7 +6,7 @@ summary: "In the 1920s only Shevchenko outsold Ostap Vyshnia in print runs. In 1
 fun_fact: "In his humorous “My Autobiography” he wrote that for about ten years his mother claimed he had been “pulled out of the well while the cow Oryshka was being watered.”"
 key_accomplishments:
   - "The Vyshnia’s Smiles cycles (rural, Crimean, literary, from abroad and others)"
-  - "The collection We Are Ukrainizing and satire on Russian great-power chauvinism"
+  - "The collection We Are Ukrainizing and satire on russian great-power chauvinism"
   - "The cycle Hunting Smiles"
   - "Translations of Nikolai Gogol, Anton Chekhov, Jaroslav Hašek and Mark Twain"
 birthplace_name: "Chechva farmstead (now the village of Hrun)"
@@ -24,7 +24,7 @@ In the 1920s, 23 of Ostap Vyshnia’s books went through 42 editions. Only Shevc
 
 In 1917 he enrolled in the history and philology faculty of Kyiv University, though he never graduated. Those days, he said, he was “building Ukraine”, running back and forth between the Central Rada and the university. He first went into print in Kamianets-Podilskyi in 1919, when the government of the Ukrainian People’s Republic was based there, signing himself P. Hrunskyi. Under the Ukrainian People’s Republic he headed the medical and sanitary directorate of the Ministry of Railways: all the railway hospitals were under him, packed with typhus-stricken soldiers of the UNR Army and the Ukrainian Galician Army. For that service the Bolshevik security service jailed him in 1920; the next year Vasyl Blakytnyi, editor of the newspaper Visti VUTsVK, helped get him out.
 
-In 1921 he joined Visti as a translator, until it struck him: “Why am I translating when I could be writing feuilletons!” From then on Kharkiv newspapers and magazines ran his feuilletons and “smiles”, the humorous genre he started and named, now signed Ostap Vyshnia: about the village, language, Ukrainization and Russian great-power chauvinism. His language, he wrote, was polished by hard work and by the guidance of [Ahatanhel Krymskyi](/en/people/ahatanhel-krymskyi/) and Modest Levytskyi, whom he had the luck to work with. With [Maik Yohansen](/en/people/maik-yohansen/) and [Mykola Khvylovy](/en/people/mykola-khvylovyi/) he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
+In 1921 he joined Visti as a translator, until it struck him: “Why am I translating when I could be writing feuilletons!” From then on Kharkiv newspapers and magazines ran his feuilletons and “smiles”, the humorous genre he started and named, now signed Ostap Vyshnia: about the village, language, Ukrainization and russian great-power chauvinism. His language, he wrote, was polished by hard work and by the guidance of [Ahatanhel Krymskyi](/en/people/ahatanhel-krymskyi/) and Modest Levytskyi, whom he had the luck to work with. With [Maik Yohansen](/en/people/maik-yohansen/) and [Mykola Khvylovy](/en/people/mykola-khvylovyi/) he wrote the revue Hello, on Wave 477!, staged by the Berezil theater in 1929.
 
 ## Ten years in the North
 
@@ -36,4 +36,4 @@ For years [Oleksandr Dovzhenko](/en/people/oleksandr-dovzhenko/), Mykola Bazhan 
 
 ## Why it matters today
 
-Ostap Vyshnia proved that humor in Ukrainian could win a mass readership: in the 1920s only Shevchenko’s books outsold his. His “smiles” talked with readers about language and Ukrainization and mocked Russian great-power chauvinism. The Soviet regime took ten years of his life, and after the camps he went back to humor. His books still show that laughter in Ukrainian can be both comfort and sharp satire.
+Ostap Vyshnia proved that humor in Ukrainian could win a mass readership: in the 1920s only Shevchenko’s books outsold his. His “smiles” talked with readers about language and Ukrainization and mocked russian great-power chauvinism. The Soviet regime took ten years of his life, and after the camps he went back to humor. His books still show that laughter in Ukrainian can be both comfort and sharp satire.

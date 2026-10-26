@@ -36,9 +36,9 @@ In 2016 Kovalchuk was made a Hero of Ukraine and promoted to major general.
 
 ## The counteroffensive in the south
 
-In August 2021 Kovalchuk took over Operational Command South. After the full-scale invasion began, he was given the task of leading the counteroffensive in the Kherson region. His aim was not only to free the territory but to cut off the Russian forces on the right bank of the Dnipro so that they could not get out.
+In August 2021 Kovalchuk took over Operational Command South. After the full-scale invasion began, he was given the task of leading the counteroffensive in the Kherson region. His aim was not only to free the territory but to cut off the russian forces on the right bank of the Dnipro so that they could not get out.
 
-The offensive was hard going. Kovalchuk insisted that the Russians would retreat; it was only a matter of time. But according to press reports, Kyiv decided the offensive was moving too slowly and handed command of the operation to Brigadier General Oleksandr Tarnavskyi; the change was not announced publicly. In November 2022 Ukrainian forces took back Kherson.
+The offensive was hard going. Kovalchuk insisted that the russians would retreat; it was only a matter of time. But according to press reports, Kyiv decided the offensive was moving too slowly and handed command of the operation to Brigadier General Oleksandr Tarnavskyi; the change was not announced publicly. In November 2022 Ukrainian forces took back Kherson.
 
 In April 2024 the general became head of the Military Academy in Odesa; as of June 2026 he was its head.
 

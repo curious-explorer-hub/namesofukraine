@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykhailo-romanchuk.md
 name: "Mykhailo Romanchuk"
 role: "Swimmer, Tokyo Olympic medallist"
-summary: "When Russia's full-scale war began, a long-time rival from Germany invited him to train there. Mykhailo Romanchuk from Rivne won Olympic silver and bronze in Tokyo, six European titles and Ukraine's first world championship medal in open water swimming."
+summary: "When russia's full-scale war began, a long-time rival from Germany invited him to train there. Mykhailo Romanchuk from Rivne won Olympic silver and bronze in Tokyo, six European titles and Ukraine's first world championship medal in open water swimming."
 fun_fact: "From the age of two to six, Mykhailo Romanchuk lived in Argentina, where his parents had moved for work. He took up swimming at six, back in Rivne, simply because his parents wanted him to learn to swim."
 key_accomplishments:
   - "Silver in the 1500 m and bronze in the 800 m freestyle at the Tokyo Olympics (2021); Olympic record of 7:41.28 in the 800 m heats"
@@ -20,7 +20,7 @@ quotes:
 
 ## A medal for all Ukrainians
 
-Budapest, June 2022. Mykhailo Romanchuk stands on the World Championships podium with bronze in the 800 metres: he taps his heart, bows his head, wipes away tears. On the other side of the podium stands the silver medallist, Germany's Florian Wellbrock, his long-time rival. Only months earlier, when Russia launched its full-scale war, it was Wellbrock who had invited the Ukrainian to join him. Romanchuk dedicated his medal to all Ukrainians and the army.
+Budapest, June 2022. Mykhailo Romanchuk stands on the World Championships podium with bronze in the 800 metres: he taps his heart, bows his head, wipes away tears. On the other side of the podium stands the silver medallist, Germany's Florian Wellbrock, his long-time rival. Only months earlier, when russia launched its full-scale war, it was Wellbrock who had invited the Ukrainian to join him. Romanchuk dedicated his medal to all Ukrainians and the army.
 
 ## From a pool in Rivne
 

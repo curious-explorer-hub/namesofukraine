@@ -24,7 +24,7 @@ Inna was born in 1970 in Kryvyi Rih, an industrial city in central Ukraine. She 
 
 ## Two days in Okhtyrka
 
-On the day Russia launched its full-scale invasion, 24 February 2022, Sergeant Derusova, senior combat medic of the 15th Separate Motorized Infantry Battalion, was on her way back to her unit from leave. She stopped in Okhtyrka in the Sumy region, which Russian forces were shelling. There were many wounded, and Inna stayed with them. In two days she saved more than ten soldiers.
+On the day russia launched its full-scale invasion, 24 February 2022, Sergeant Derusova, senior combat medic of the 15th Separate Motorized Infantry Battalion, was on her way back to her unit from leave. She stopped in Okhtyrka in the Sumy region, which russian forces were shelling. There were many wounded, and Inna stayed with them. In two days she saved more than ten soldiers.
 
 Inna Derusova was killed by artillery fire in Okhtyrka on 26 February 2022 while giving first aid to the wounded. She was 51.
 

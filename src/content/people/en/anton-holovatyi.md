@@ -21,7 +21,7 @@ Anton (also Antin) Holovatyi was born in 1744 in the small town of Novi Sanzhary
 
 ## The Sich is gone. What now?
 
-In 1775 Russian troops destroyed the Sich while Holovatyi was in Saint Petersburg. Kalnyshevskyi was exiled; Holovatyi was given the rank of captain by the tsarist government and later served as a colonel of the Boh Cossack Host. In 1787, together with other former Zaporozhian officers, he helped create the Host of Loyal Cossacks, soon renamed the Black Sea Cossack Host.
+In 1775 russian troops destroyed the Sich while Holovatyi was in Saint Petersburg. Kalnyshevskyi was exiled; Holovatyi was given the rank of captain by the tsarist government and later served as a colonel of the Boh Cossack Host. In 1787, together with other former Zaporozhian officers, he helped create the Host of Loyal Cossacks, soon renamed the Black Sea Cossack Host.
 
 ## An island taken from the boats
 
@@ -37,11 +37,11 @@ Holovatyi wrote verses that became songs: “Oh God, Our Merciful God!” and �
 
 ## The Persian campaign
 
-In 1796 Holovatyi led Cossack regiments in the Russian army’s Persian campaign. Hundreds of Cossacks died there of disease. The otaman himself fell ill with malaria and died early in 1797.
+In 1796 Holovatyi led Cossack regiments in the russian army’s Persian campaign. Hundreds of Cossacks died there of disease. The otaman himself fell ill with malaria and died early in 1797.
 
 ## Debates and assessments
 
-Holovatyi is judged in different ways. For many Ukrainian writers he is the man who kept the Zaporozhian traditions alive after 1775: the Black Sea Cossacks settled the Kuban in kurins, as at the Sich, and Ukrainian settlers kept moving there until the early 20th century. Others stress that the Black Sea Host served the Russian Empire: its Cossacks fought the empire’s wars against Turkey and Persia, and Holovatyi himself received ranks, orders and estates from it. Researchers describe him as a complex, contradictory figure who combined bravery and servility, selflessness and a wish to grow rich. The Persian campaign remains a dark chapter: the heavy losses to disease and the otaman’s death helped spark a Cossack revolt.
+Holovatyi is judged in different ways. For many Ukrainian writers he is the man who kept the Zaporozhian traditions alive after 1775: the Black Sea Cossacks settled the Kuban in kurins, as at the Sich, and Ukrainian settlers kept moving there until the early 20th century. Others stress that the Black Sea Host served the russian empire: its Cossacks fought the empire’s wars against Turkey and Persia, and Holovatyi himself received ranks, orders and estates from it. Researchers describe him as a complex, contradictory figure who combined bravery and servility, selflessness and a wish to grow rich. The Persian campaign remains a dark chapter: the heavy losses to disease and the otaman’s death helped spark a Cossack revolt.
 
 ## Why it matters today
 

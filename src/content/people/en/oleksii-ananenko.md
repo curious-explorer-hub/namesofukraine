@@ -16,13 +16,13 @@ key_accomplishments:
   - "More than 20 years working on the safety of Ukraine’s nuclear plants and nuclear regulation, including at the State Nuclear Regulatory Committee of Ukraine (2001–2010)"
   - "Hero of Ukraine (Decree No. 468/2019)"
   - "Order for Courage, 3rd class (2018); Order of the Badge of Honour (1989)"
-birthplace_name: "Inta (now Komi Republic, Russia)"
+birthplace_name: "Inta (now Komi Republic, russia)"
 image_alt: "Oleksii Ananenko with a moustache, in a light striped shirt"
 ---
 
 ## From the far north to Prypiat
 
-Oleksii Ananenko was born in 1959 in the town of Inta, now in Russia’s Komi Republic. He trained in Moscow as a nuclear power plant engineer and in 1983, straight after graduating, came to work at the Chornobyl Nuclear Power Plant. He started as an operator and became a senior mechanical engineer in the reactor shop.
+Oleksii Ananenko was born in 1959 in the town of Inta, now in russia’s Komi Republic. He trained in Moscow as a nuclear power plant engineer and in 1983, straight after graduating, came to work at the Chornobyl Nuclear Power Plant. He started as an operator and became a senior mechanical engineer in the reactor shop.
 
 ## Whose shift it was
 

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/mykola-hohol.md
 name: "Nikolai Gogol"
 role: "Classic of world prose"
-summary: "Critics tore his first poem apart, but his next book, stories about a Ukrainian village, made him famous overnight. Gogol wrote in Russian, yet it was his Evenings on a Farm Near Dikanka and Taras Bulba that showed the world Ukraine."
+summary: "Critics tore his first poem apart, but his next book, stories about a Ukrainian village, made him famous overnight. Gogol wrote in russian, yet it was his Evenings on a Farm Near Dikanka and Taras Bulba that showed the world Ukraine."
 fun_fact: "His father, Vasyl Hohol-Yanovskyi, wrote comedies in Ukrainian."
 misconception:
   claim: "Gogol was buried alive in a state of lethargic sleep, and when his body was reburied in 1931, it showed signs that he had tried to claw his way out of the coffin."
@@ -26,13 +26,13 @@ Success came with a different book. Evenings on a Farm Near Dikanka, stories abo
 
 ## Books that changed prose
 
-Later Gogol wrote the comedy The Government Inspector, the novel Dead Souls and the story The Overcoat, which shaped the development of world prose. He wrote in Russian, but Ukrainian themes, folklore and history run through much of his work.
+Later Gogol wrote the comedy The Government Inspector, the novel Dead Souls and the story The Overcoat, which shaped the development of world prose. He wrote in russian, but Ukrainian themes, folklore and history run through much of his work.
 
 He spent many years abroad, mostly in Rome, and came back only in 1849. In his last years Gogol went through a deep religious crisis. In 1847 he published Selected Passages from Correspondence with Friends, and shortly before his death he burned the manuscript of the second volume of Dead Souls. He died in Moscow in 1852.
 
 ## Debates and assessments
 
-Gogol’s national identity is a long-standing subject of dispute. He wrote in Russian and belongs to both Russian and Ukrainian culture; in Ukraine, emphasis is placed on his Ukrainian origin and themes. Scholars still argue, too, about how Gogol himself felt about Ukraine. This profile presents him as a writer of Ukrainian origin whose works brought Ukraine into world literature.
+Gogol’s national identity is a long-standing subject of dispute. He wrote in russian and belongs to both russian and Ukrainian culture; in Ukraine, emphasis is placed on his Ukrainian origin and themes. Scholars still argue, too, about how Gogol himself felt about Ukraine. This profile presents him as a writer of Ukrainian origin whose works brought Ukraine into world literature.
 
 ## Why it matters today
 

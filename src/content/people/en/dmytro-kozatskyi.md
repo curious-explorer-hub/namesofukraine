@@ -26,11 +26,11 @@ How did the world find out what was happening underneath a besieged steel plant?
 
 ## Photos before captivity
 
-As the garrison was leaving the plant for captivity on 20 May 2022, on orders from command, Orest posted his photos online and said goodbye. Soon people around the world were asking for permission to show them at exhibitions about Russia's war against Ukraine. The best known shows a beam of light falling through a shattered ceiling into the darkness of a shelter. The series was called “The Light Will Win”.
+As the garrison was leaving the plant for captivity on 20 May 2022, on orders from command, Orest posted his photos online and said goodbye. Soon people around the world were asking for permission to show them at exhibitions about russia's war against Ukraine. The best known shows a beam of light falling through a shattered ceiling into the darkness of a shelter. The series was called “The Light Will Win”.
 
 ## Awards waiting for their author
 
-While Dmytro was a prisoner in Russia, his photos lived a life of their own. In summer 2022 they went on show in Zhytomyr, and in September the series won a photography contest in Paris. Back in April, during the defence, he had been awarded the Medal for Military Service to Ukraine.
+While Dmytro was a prisoner in russia, his photos lived a life of their own. In summer 2022 they went on show in Zhytomyr, and in September the series won a photography contest in Paris. Back in April, during the defence, he had been awarded the Medal for Military Service to Ukraine.
 
 On 21 September 2022 Orest was freed in a large exchange that brought 215 Ukrainians home, among them the Azov commanders [Denys Prokopenko](/en/people/denys-prokopenko/) and [Sviatoslav Palamar](/en/people/sviatoslav-palamar/). At the end of the year The Guardian included his Azovstal photo among the best photographs of 2022.
 

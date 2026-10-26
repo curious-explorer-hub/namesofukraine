@@ -18,9 +18,9 @@ image_alt: "Imagined portrait of Kost Kotko (Mykola Liubchenko) with dark curly 
 
 Did you know that one of the satirists of the 1920s was a diplomat? Mykola Liubchenko served as first secretary of the Soviet mission in Warsaw and also worked at the mission in Prague. Readers knew him as Kost Kotko, author of some twenty books of humor and satire, among them How Are Things Over There, Abroad (1927) and A Diary of Several Cities (1930).
 
-## From Russian verse to Ukrainian satire
+## From russian verse to Ukrainian satire
 
-Mykola was born in Kyiv on 29 February 1896 (17 February in the Old Style calendar), the son of a police clerk. By the modern calendar his birthday falls only once every four years. In 1914 he finished secondary school and entered Kyiv University, but studied there for little more than a year. His first poems and columns, from 1911 on, were in Russian; later he wrote in Ukrainian. In 1917 he moved to Berdychiv and started writing for the local paper. In 1918 he joined the underground Borotbists, the Ukrainian left Socialist Revolutionaries, and was arrested three times for his revolutionary work.
+Mykola was born in Kyiv on 29 February 1896 (17 February in the Old Style calendar), the son of a police clerk. By the modern calendar his birthday falls only once every four years. In 1914 he finished secondary school and entered Kyiv University, but studied there for little more than a year. His first poems and columns, from 1911 on, were in russian; later he wrote in Ukrainian. In 1917 he moved to Berdychiv and started writing for the local paper. In 1918 he joined the underground Borotbists, the Ukrainian left Socialist Revolutionaries, and was arrested three times for his revolutionary work.
 
 ## Papers, magazines, embassies
 
@@ -32,4 +32,4 @@ On 1 December 1934 the Bolshevik leader Sergei Kirov was killed in Leningrad, an
 
 ## Why it matters today
 
-Kost Kotko made his own choice: a Kyiv boy who began with Russian verse became a Ukrainian satirist. His books show the 1920s through the eyes of someone who saw both the revolution and Europe. The regime shot him and for decades hid even the truth about his death. Yet his laughter outlived the sentence: in 1961 his satire came out again in the collection Red Satire. Bringing back his name brings back a part of Ukrainian laughter that was meant to be erased.
+Kost Kotko made his own choice: a Kyiv boy who began with russian verse became a Ukrainian satirist. His books show the 1920s through the eyes of someone who saw both the revolution and Europe. The regime shot him and for decades hid even the truth about his death. Yet his laughter outlived the sentence: in 1961 his satire came out again in the collection Red Satire. Bringing back his name brings back a part of Ukrainian laughter that was meant to be erased.

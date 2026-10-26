@@ -36,11 +36,11 @@ Usyk started out at cruiserweight. In July 2018 he won the final of the World Bo
 
 ## February 2022
 
-When Russia launched its full-scale invasion, Usyk came back from Britain to Kyiv and joined the territorial defence. “It is my duty to fight, to defend my home, my family,” he said. The rematch with Anthony Joshua that was being planned had to wait. In 2024 the president awarded Usyk the Order of Freedom and the National Legend of Ukraine award.
+When russia launched its full-scale invasion, Usyk came back from Britain to Kyiv and joined the territorial defence. “It is my duty to fight, to defend my home, my family,” he said. The rematch with Anthony Joshua that was being planned had to wait. In 2024 the president awarded Usyk the Order of Freedom and the National Legend of Ukraine award.
 
 ## Debates and assessments
 
-Before 2022 some Ukrainians criticized Usyk for words and actions linked to Russia. In October 2014, after Russia annexed Crimea, he took part in opening a boxing tournament in Simferopol alongside Sergei Aksyonov, whom Russia had installed as the peninsula’s leader. In 2015 he posted a photo with a St George ribbon on Instagram, and later replaced it. In a 2016 interview he said: “I don’t divide our peoples, because we are Slavs,” and the media reported this as a claim that Ukrainians and Russians are one people. In 2020 he was criticized for appearing in a film made by a Russian monastery.
+Before 2022 some Ukrainians criticized Usyk for words and actions linked to russia. In October 2014, after russia annexed Crimea, he took part in opening a boxing tournament in Simferopol alongside Sergei Aksyonov, whom russia had installed as the peninsula’s leader. In 2015 he posted a photo with a St George ribbon on Instagram, and later replaced it. In a 2016 interview he said: “I don’t divide our peoples, because we are Slavs,” and the media reported this as a claim that Ukrainians and russians are one people. In 2020 he was criticized for appearing in a film made by a russian monastery.
 
 Usyk himself never gave up his Ukrainian citizenship. In 2020 he answered his critics: “Don’t divide people,” and explained: “For me a Ukrainian is a Ukrainian. And it doesn’t matter whether he lives in Lviv, Crimea, Donetsk or Odesa.” After the 2022 invasion he joined the territorial defence, and in 2024 the state awarded him the Order of Freedom.
 

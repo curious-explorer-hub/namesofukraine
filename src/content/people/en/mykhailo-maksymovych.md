@@ -41,7 +41,7 @@ After retiring, Maksymovych settled on his estate of Mykhailova Hora near Zoloto
 
 ## Who lived in ancient Kyiv?
 
-The Russian historian Mikhail Pogodin claimed that the people of princely Kyiv were “Great Russians”. After the Mongol invasion, he said, they moved north, the land stood empty, and in the 14th and 15th centuries settlers from Transcarpathia filled it again. Maksymovych answered with his essay On the Alleged Desolation of Ukraine (1857) and with letters to Pogodin. He showed that the theory rested on faulty ground: life on the Kyiv land had never been broken off, and princely Rus’ and Cossack Ukraine were one history.
+The russian historian Mikhail Pogodin claimed that the people of princely Kyiv were “Great Russians”. After the Mongol invasion, he said, they moved north, the land stood empty, and in the 14th and 15th centuries settlers from Transcarpathia filled it again. Maksymovych answered with his essay On the Alleged Desolation of Ukraine (1857) and with letters to Pogodin. He showed that the theory rested on faulty ground: life on the Kyiv land had never been broken off, and princely Rus’ and Cossack Ukraine were one history.
 
 ## A gift from Shevchenko
 

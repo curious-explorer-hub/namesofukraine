@@ -33,7 +33,7 @@ When the repression of the intelligentsia began in Ukraine, he went back to Leni
 
 ## Debates and assessments
 
-Whose artist he is remains disputed. Malevich was born in Kyiv to a Polish family (sources differ on his mother’s origin) and did most of his work in Moscow and Petrograd, so for a long time he was seen mainly as a Russian avant-garde artist. The Polish tradition stresses his Polish roots; Ukrainian scholars stress his Kyiv roots, his work in Ukraine and the influence of folk art. He himself described himself at different times as Polish and as Ukrainian. In documents, under “nationality”, he wrote “Ukrainian”, including on the questionnaire after his 1930 arrest, and in letters he wrote in Ukrainian he also called himself Ukrainian. Since 2022 a number of Western museums have revised their labels for his works, but art historians have not reached a consensus.
+Whose artist he is remains disputed. Malevich was born in Kyiv to a Polish family (sources differ on his mother’s origin) and did most of his work in Moscow and Petrograd, so for a long time he was seen mainly as a russian avant-garde artist. The Polish tradition stresses his Polish roots; Ukrainian scholars stress his Kyiv roots, his work in Ukraine and the influence of folk art. He himself described himself at different times as Polish and as Ukrainian. In documents, under “nationality”, he wrote “Ukrainian”, including on the questionnaire after his 1930 arrest, and in letters he wrote in Ukrainian he also called himself Ukrainian. Since 2022 a number of Western museums have revised their labels for his works, but art historians have not reached a consensus.
 
 ## Why it matters today
 

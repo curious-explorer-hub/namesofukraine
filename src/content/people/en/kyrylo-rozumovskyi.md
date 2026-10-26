@@ -15,7 +15,7 @@ image_alt: "Kyrylo Rozumovskyi with the hetman’s mace, portrait by Louis Tocqu
 
 ## How a Cossack’s son became a count
 
-Kyrylo Rozumovskyi was born in 1728 in the village of Lemeshi in the Chernihiv region, the son of an ordinary Cossack, Hryhorii Rozum. His elder brother Oleksii changed the family’s fortunes when he became the favorite of the Russian empress Elizabeth. In 1742 Kyrylo moved to the imperial court; he studied in Europe, mainly in Germany, was made a count in 1744, and later headed the St. Petersburg Academy of Sciences.
+Kyrylo Rozumovskyi was born in 1728 in the village of Lemeshi in the Chernihiv region, the son of an ordinary Cossack, Hryhorii Rozum. His elder brother Oleksii changed the family’s fortunes when he became the favorite of the russian empress Elizabeth. In 1742 Kyrylo moved to the imperial court; he studied in Europe, mainly in Germany, was made a count in 1744, and later headed the St. Petersburg Academy of Sciences.
 
 ## A reforming hetman
 

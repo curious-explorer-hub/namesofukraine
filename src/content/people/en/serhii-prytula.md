@@ -32,7 +32,7 @@ In 2019 Prytula joined the Holos (Voice) party and ran for parliament on its lis
 
 ## The people’s fundraisers of the full-scale war
 
-After 24 February 2022 Prytula took charge of his charitable foundation again; it raises money for weapons, equipment and humanitarian aid. The Bayraktar drive was one of its best known. Another came in October 2022: after a massive Russian missile strike on Ukrainian cities, Prytula and [Serhii Sternenko](/en/people/serhii-sternenko/) launched a fundraiser for “revenge”. The goal was 100 million hryvnias; in a day people gave 352 million. The money bought 142 strike drones, some of them able to fly hundreds of kilometres. In August 2022 Prytula was awarded the Order of Merit, 2nd class, as a volunteer and the founder of the foundation.
+After 24 February 2022 Prytula took charge of his charitable foundation again; it raises money for weapons, equipment and humanitarian aid. The Bayraktar drive was one of its best known. Another came in October 2022: after a massive russian missile strike on Ukrainian cities, Prytula and [Serhii Sternenko](/en/people/serhii-sternenko/) launched a fundraiser for “revenge”. The goal was 100 million hryvnias; in a day people gave 352 million. The money bought 142 strike drones, some of them able to fly hundreds of kilometres. In August 2022 Prytula was awarded the Order of Merit, 2nd class, as a volunteer and the founder of the foundation.
 
 ## Why it matters today
 

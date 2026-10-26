@@ -20,7 +20,7 @@ quotes:
 
 ## The escapee who became a commander
 
-How does a man who has just escaped captivity end up in command in Kyiv within months? Yevhen Konovalets was born in 1891 in the village of Zashkiv near Lviv and studied law at Lviv University. In the First World War he was called up into the Austro-Hungarian army, and in 1915 he was taken prisoner by the Russians and held in a camp near Tsaritsyn. In September 1917 he escaped to Kyiv, where, together with other Galicians, he formed a battalion of the Sich Riflemen. In January 1918 Konovalets took command of it.
+How does a man who has just escaped captivity end up in command in Kyiv within months? Yevhen Konovalets was born in 1891 in the village of Zashkiv near Lviv and studied law at Lviv University. In the First World War he was called up into the Austro-Hungarian army, and in 1915 he was taken prisoner by the russians and held in a camp near Tsaritsyn. In September 1917 he escaped to Kyiv, where, together with other Galicians, he formed a battalion of the Sich Riflemen. In January 1918 Konovalets took command of it.
 
 ## The Sich Riflemen
 

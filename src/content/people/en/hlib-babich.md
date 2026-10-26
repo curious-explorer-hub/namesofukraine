@@ -3,7 +3,7 @@
 name: "Hlib Babich"
 role: "Poet, songwriter and soldier"
 summary: "Why was a soldier who served six rotations at the front called “Lazybones”? Poet Hlib Babich wrote songs for Kozak System, among them “Podai Zbroiu” (Pass Me a Weapon), his brigade's unofficial anthem. He went to the front in 2014 and joined up again in 2022. He was killed near Izium."
-fun_fact: "For most of his life Hlib Babich spoke and wrote in Russian; he switched to Ukrainian while serving at the front."
+fun_fact: "For most of his life Hlib Babich spoke and wrote in russian; he switched to Ukrainian while serving at the front."
 key_accomplishments:
   - "Wrote more than 500 poems and songs; his collection “Poems and Songs” (Bilka, 2021) made ArmyInform's list of the ten best books of 2021 by veterans"
   - "Wrote the lyrics of seven songs by Kozak System, including “Podai Zbroiu”, “Molfar”, “Those Who Hold Up the Sky over Christmas” and “Ne Pokyn” (Don't Leave)"
@@ -20,7 +20,7 @@ Hlib Babich was born in 1969 in Mykolaiv. He wrote poems from childhood, later b
 
 ## Six rotations and a new language
 
-In 2014 Babich went to the front. Over five years he served six rotations - Debaltseve, Marinka, Shyrokyne, Vodiane, Avdiivka - and became an expert on the Shilka anti-aircraft guns. He commanded a platoon in the 10th Separate Mountain Assault Brigade. For most of his life Hlib had spoken and written in Russian; at the front he switched to Ukrainian. His song “Podai Zbroiu” (Pass Me a Weapon) became the brigade's unofficial anthem.
+In 2014 Babich went to the front. Over five years he served six rotations - Debaltseve, Marinka, Shyrokyne, Vodiane, Avdiivka - and became an expert on the Shilka anti-aircraft guns. He commanded a platoon in the 10th Separate Mountain Assault Brigade. For most of his life Hlib had spoken and written in russian; at the front he switched to Ukrainian. His song “Podai Zbroiu” (Pass Me a Weapon) became the brigade's unofficial anthem.
 
 ## Poems, songs and brothers in arms
 

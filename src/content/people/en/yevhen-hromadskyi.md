@@ -2,11 +2,11 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/yevhen-hromadskyi.md
 name: "Yevhenii Hromadskyi"
 role: "National Guard officer, Hero of Ukraine"
-summary: "He became a Hero of Ukraine at 21, less than a year after leaving the academy. On the first evening of the full-scale war, National Guard lieutenant Yevhenii Hromadskyi and his platoon stopped a Russian column heading for Kharkiv. He later led a company in the 92nd Brigade and returned to the Guard."
+summary: "He became a Hero of Ukraine at 21, less than a year after leaving the academy. On the first evening of the full-scale war, National Guard lieutenant Yevhenii Hromadskyi and his platoon stopped a russian column heading for Kharkiv. He later led a company in the 92nd Brigade and returned to the Guard."
 fun_fact: "In his first month of fighting for Kharkiv, Lieutenant Hromadskyi did not lose a single one of his soldiers: all of them survived, and only one was lightly wounded. It is one of the things he is proudest of."
 key_accomplishments:
   - "Graduated from the National Academy of the National Guard of Ukraine (Kharkiv, 2021) and served in the 3rd Operational Brigade named after Colonel Petro Bolbochan"
-  - "On 24 February 2022, as a platoon commander, stopped a Russian column on the approaches to Kharkiv, then held the line near Rohan"
+  - "On 24 February 2022, as a platoon commander, stopped a russian column on the approaches to Kharkiv, then held the line near Rohan"
   - "Hero of Ukraine with the Gold Star order (decree No. 167/2022 of 25 March 2022)"
   - "Company commander in the 92nd Separate Assault Brigade named after Otaman Ivan Sirko"
   - "Later returned to the National Guard, joining the Khartiia brigade; a major as of June 2025"
@@ -20,9 +20,9 @@ How long does it take to become a Hero of Ukraine? For Yevhenii Hromadskyi it to
 
 ## The first evening of the war
 
-On the night of 24 February 2022, Yevhenii was the duty officer in his unit. As soon as the first missiles hit, he raised his soldiers on alert, and the platoon dug in on the approaches to Kharkiv near Hoptivka, on the direct road from Belgorod. In the evening a Russian column with Grad rocket launchers came down that road. Yevhenii and four soldiers in a Varta armored vehicle struck it from the side, and the column was destroyed.
+On the night of 24 February 2022, Yevhenii was the duty officer in his unit. As soon as the first missiles hit, he raised his soldiers on alert, and the platoon dug in on the approaches to Kharkiv near Hoptivka, on the direct road from Belgorod. In the evening a russian column with Grad rocket launchers came down that road. Yevhenii and four soldiers in a Varta armored vehicle struck it from the side, and the column was destroyed.
 
-His father, reserve colonel Oleh Hromadskyi, who had fought the Russian invaders back in 2014-2015, was fighting nearby in those hours. He had come to help with a group of volunteers that day, and he was killed in the battle for Kharkiv.
+His father, reserve colonel Oleh Hromadskyi, who had fought the russian invaders back in 2014-2015, was fighting nearby in those hours. He had come to help with a group of volunteers that day, and he was killed in the battle for Kharkiv.
 
 Next, Yevhenii's platoon held a line near Rohan, on the road to Chuhuiv, and beat back another attack, this time with tanks.
 

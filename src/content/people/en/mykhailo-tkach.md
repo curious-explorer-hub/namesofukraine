@@ -28,7 +28,7 @@ In 2015 Tkach joined Schemes: Corruption in Detail, an investigative programme m
 
 ## Ukrainska Pravda
 
-In 2021 Tkach became head of the investigations desk at Ukrainska Pravda, the outlet founded by [Georgiy Gongadze](/en/people/heorhii-honhadze/). During the full-scale war he has investigated the routes of trade with Russia, officials who went on holiday abroad while travel was restricted, and the financial scandals of Ukrainian millionaires across Europe. He has also exposed corruption in government contracts and among defence suppliers, reported on Operation Midas, and uncovered covert Russian influence in Western countries.
+In 2021 Tkach became head of the investigations desk at Ukrainska Pravda, the outlet founded by [Georgiy Gongadze](/en/people/heorhii-honhadze/). During the full-scale war he has investigated the routes of trade with russia, officials who went on holiday abroad while travel was restricted, and the financial scandals of Ukrainian millionaires across Europe. He has also exposed corruption in government contracts and among defence suppliers, reported on Operation Midas, and uncovered covert russian influence in Western countries.
 
 ## Recognition
 

@@ -20,7 +20,7 @@ image_alt: "Black-and-white photo: Fedir Stryhun with a grey moustache and a pip
 
 ## The advice that led him to Lviv
 
-“Fedinko, don’t do anything foolish, don’t go to the Russian stage, you have the nature of a Ukrainian actor.” That, as Fedir Stryhun remembered it, is what his teacher Volodymyr Nelli told him. The fourth-year student at the Karpenko-Karyi Theatre Institute in Kyiv had been invited to join the Lesya Ukrainka Theatre, a Russian-language theatre in the capital. He turned it down.
+“Fedinko, don’t do anything foolish, don’t go to the Russian stage, you have the nature of a Ukrainian actor.” That, as Fedir Stryhun remembered it, is what his teacher Volodymyr Nelli told him. The fourth-year student at the Karpenko-Karyi Theatre Institute in Kyiv had been invited to join the Lesya Ukrainka Theatre, a russian-language theatre in the capital. He turned it down.
 
 Stryhun was born in 1939 in the village of Tomashivka, in the Cherkasy region. He graduated in 1961 and first acted at the drama theatre in Zaporizhzhia. In 1965 he and his wife, the actress Taisiia Lytvynenko, moved to Lviv and joined the Maria Zankovetska Theatre. He later recalled the first time he heard a Lviv tram announce its stops in Ukrainian: “I even thought it was a joke.”
 
@@ -46,4 +46,4 @@ Fedir Stryhun died in Lviv on 23 October 2026.
 
 ## Why it matters today
 
-Fedir Stryhun made a choice that was far from obvious at the time: Ukrainian theatre instead of the Russian stage in the capital. He built his whole life on it, with roles that generations of audiences remember and more than three decades in which, under his leadership, Ukrainian classics filled the stage of the Maria Zankovetska Theatre. His Andrii from The Lost Letter still shows that Ukrainian cinema can be funny and full of life. And his path is a reminder that the language you choose for your work can shape the culture of a whole country.
+Fedir Stryhun made a choice that was far from obvious at the time: Ukrainian theatre instead of the russian stage in the capital. He built his whole life on it, with roles that generations of audiences remember and more than three decades in which, under his leadership, Ukrainian classics filled the stage of the Maria Zankovetska Theatre. His Andrii from The Lost Letter still shows that Ukrainian cinema can be funny and full of life. And his path is a reminder that the language you choose for your work can shape the culture of a whole country.

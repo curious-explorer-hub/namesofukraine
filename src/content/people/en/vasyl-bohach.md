@@ -19,7 +19,7 @@ gallery:
 
 ## Who is Ivan Bohdan?
 
-Three books about the war in the Donbas carry the name Ivan Bohdan on their covers. They were actually written by Vasyl Bohach, an officer of the Security Service of Ukraine (SBU), call sign Domakha. He made up the pen name from his sons’ names. The first book, Mariupol 2014, came out in 2016; he later regretted having written it in Russian. Patriot Prisoners (2018) and On the Other Side of the Trenches (2020) followed.
+Three books about the war in the Donbas carry the name Ivan Bohdan on their covers. They were actually written by Vasyl Bohach, an officer of the Security Service of Ukraine (SBU), call sign Domakha. He made up the pen name from his sons’ names. The first book, Mariupol 2014, came out in 2016; he later regretted having written it in russian. Patriot Prisoners (2018) and On the Other Side of the Trenches (2020) followed.
 
 ## From Volnovakha to the war
 
@@ -29,7 +29,7 @@ Vasyl was born in 1979 in Volnovakha, in Donetsk Oblast. At nine he enrolled in 
 
 When the full-scale invasion began, Lieutenant Colonel Bohach stayed in Mariupol. Together with the fighters of Azov, commanded by [Denys Prokopenko](/en/people/denys-prokopenko/), he defended the city. From the first days of the siege he posted updates, photos and videos: people queuing for water, ruined buildings, the city’s defenders. Those posts remain a record of the siege of Mariupol. In April 2022 he was awarded the Order for Courage, 3rd class.
 
-On 4 April Bohach was badly wounded, and from then on he lay in the field hospital at the Azovstal steelworks. Lieutenant Colonel Vasyl Bohach was killed on 8 May 2022 at Azovstal, when a Russian aerial bomb hit the hospital. He was 42. In 2023 he was made a Hero of Ukraine posthumously.
+On 4 April Bohach was badly wounded, and from then on he lay in the field hospital at the Azovstal steelworks. Lieutenant Colonel Vasyl Bohach was killed on 8 May 2022 at Azovstal, when a russian aerial bomb hit the hospital. He was 42. In 2023 he was made a Hero of Ukraine posthumously.
 
 ## Why it matters today
 

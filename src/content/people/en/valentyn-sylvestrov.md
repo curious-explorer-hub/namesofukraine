@@ -26,7 +26,7 @@ In the 1960s and 1970s the Soviet press harshly criticized his music, and he was
 
 With his String Quartet No. 1 and the song cycle Quiet Songs, Silvestrov moved in the 1970s away from the avant-garde towards slow, tonal, meditative music. He called his style “metamusic,” short for “metaphorical music.” He has written symphonies, concertos for soloists and orchestra, cantatas and songs to poems by [Taras Shevchenko](/en/people/taras-shevchenko/), Pushkin, Lermontov and John Keats, a cappella sacred choral music and music for 15 films. He received the 1995 Shevchenko Prize for his Fifth Symphony, String Quartet No. 1 and a cantata to Shevchenko’s words. His music has been performed by Gidon Kremer and Gennady Rozhdestvensky, among others. The events on the Maidan found an echo in his choral piece Maidan – Kyiv and in choral prayers for Ukraine.
 
-In March 2022, after Russia’s full-scale invasion, the 84-year-old composer left Kyiv for Berlin at his family’s request.
+In March 2022, after russia’s full-scale invasion, the 84-year-old composer left Kyiv for Berlin at his family’s request.
 
 ## Why it matters today
 

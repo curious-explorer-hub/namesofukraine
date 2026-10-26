@@ -24,7 +24,7 @@ He was born on 9 March 1895 in the village of Kalanchak in southern Ukraine (now
 
 ## From poems to plays
 
-Dniprovskyi first wrote in Russian, and from 1921 in Ukrainian. After his studies in Kamianets-Podilskyi he moved in 1923 to Kharkiv, then the capital, and worked at the State Publishing House of Ukraine and the magazine Chervonyi shliakh. He belonged to the writers’ groups Hart and VAPLITE and was one of the closest allies of [Mykola Khvylovyi](/en/people/mykola-khvylovyi/). After his long poems he turned to drama. Love and Smoke (1925) was his creative contest with Kulish’s play 97. Apple-Blossom Captivity, staged by the director Yanuarii Bortnyk at the Berezil theatre, set off a fierce debate: in it Dniprovskyi showed that settling ideological conflicts with blood impoverishes the human soul.
+Dniprovskyi first wrote in russian, and from 1921 in Ukrainian. After his studies in Kamianets-Podilskyi he moved in 1923 to Kharkiv, then the capital, and worked at the State Publishing House of Ukraine and the magazine Chervonyi shliakh. He belonged to the writers’ groups Hart and VAPLITE and was one of the closest allies of [Mykola Khvylovyi](/en/people/mykola-khvylovyi/). After his long poems he turned to drama. Love and Smoke (1925) was his creative contest with Kulish’s play 97. Apple-Blossom Captivity, staged by the director Yanuarii Bortnyk at the Berezil theatre, set off a fierce debate: in it Dniprovskyi showed that settling ideological conflicts with blood impoverishes the human soul.
 
 ## Stories about war
 

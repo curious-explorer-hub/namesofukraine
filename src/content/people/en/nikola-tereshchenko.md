@@ -20,7 +20,7 @@ Nikola (Mykola) Tereshchenko was born in 1819 in Hlukhiv in the Chernihiv region
 
 ## A sugar empire
 
-After serfdom was abolished in 1861, Tereshchenko, his father Artemii and his brother Fedir bought up large estates, sugar mills and distilleries. In 1870 the brothers founded the Tereshchenko Brothers’ Sugar and Refinery Company, at the time the largest in the sugar industry of the Russian Empire. The same year the family was granted hereditary nobility. Nikola personally owned three more sugar mills, flour mills, brickworks and about 60,000 desiatins of land.
+After serfdom was abolished in 1861, Tereshchenko, his father Artemii and his brother Fedir bought up large estates, sugar mills and distilleries. In 1870 the brothers founded the Tereshchenko Brothers’ Sugar and Refinery Company, at the time the largest in the sugar industry of the russian empire. The same year the family was granted hereditary nobility. Nikola personally owned three more sugar mills, flour mills, brickworks and about 60,000 desiatins of land.
 
 ## Money given back to the cities
 

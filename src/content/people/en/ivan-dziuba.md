@@ -31,7 +31,7 @@ Dziuba sent his essay Internationalism or Russification? to the leaders of Sovie
 
 ## A second life
 
-In the late 1980s Dziuba returned to public life: he was one of the founders of the People’s Movement of Ukraine (Rukh), minister of culture in 1992–1994 and, from 1992, a member of the National Academy of Sciences. He chaired the Shevchenko National Prize Committee and co-chaired the editorial board of the Encyclopedia of Modern Ukraine, for which he wrote, among others, the entry on [Mykola Zerov](/en/people/mykola-zerov/). He wrote a book on [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and the monograph Taras Shevchenko: Life and Work on [Taras Shevchenko](/en/people/taras-shevchenko/). He died in Kyiv on 22 February 2022, two days before Russia’s full-scale invasion.
+In the late 1980s Dziuba returned to public life: he was one of the founders of the People’s Movement of Ukraine (Rukh), minister of culture in 1992–1994 and, from 1992, a member of the National Academy of Sciences. He chaired the Shevchenko National Prize Committee and co-chaired the editorial board of the Encyclopedia of Modern Ukraine, for which he wrote, among others, the entry on [Mykola Zerov](/en/people/mykola-zerov/). He wrote a book on [Mykola Khvylovy](/en/people/mykola-khvylovyi/) and the monograph Taras Shevchenko: Life and Work on [Taras Shevchenko](/en/people/taras-shevchenko/). He died in Kyiv on 22 February 2022, two days before russia’s full-scale invasion.
 
 ## Debates and assessments
 

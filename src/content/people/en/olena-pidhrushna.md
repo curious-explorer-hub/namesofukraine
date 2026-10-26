@@ -5,7 +5,7 @@ role: "Biathlete, Olympic champion"
 summary: "February 2014: Ukraine is living through the Maidan, and in Sochi four Ukrainian women line up for the Olympic relay. Olena Pidhrushna skis the anchor leg and crosses the line first. It was Ukraine's first Winter Olympic gold in 20 years. A year earlier she had become world champion."
 fun_fact: "Olena Pidhrushna was on a postage stamp before she was an Olympic champion: it was postmarked on 31 January 2014, three weeks before the relay in Sochi."
 misconception:
-  claim: "In the summer of 2014 Russian media spread the story that Pidhrushna had become a sniper in the ATO zone and was shooting residents of Sloviansk."
+  claim: "In the summer of 2014 russian media spread the story that Pidhrushna had become a sniper in the ATO zone and was shooting residents of Sloviansk."
   truth: "It was a fake. Pidhrushna was never in the ATO zone: all that time she was working as deputy minister of youth and sports."
 key_accomplishments:
   - "Olympic champion in the relay (Sochi, 2014), skiing the anchor leg"
@@ -20,7 +20,7 @@ image_alt: "A smiling Olena Pidhrushna in a turquoise jacket with a relay bib, c
 
 ## The anchor leg
 
-On 21 February 2014, shortly after the bloodshed on the Maidan in Kyiv, Ukraine's women's biathlon team lined up for the Olympic relay in Sochi. Russia and Norway were the favourites; Ukraine was given an outside chance of bronze at best. Vita Semerenko, Yuliia Dzhyma and Valia Semerenko handed the anchor leg to Olena Pidhrushna with a lead of almost half a minute, and she brought the team home to gold. None of the four had the fastest time on her leg, but all of them skied steadily: it was a team win. It was Ukraine's first Winter Olympic gold in 20 years, since the figure skater [Oksana Baiul](/en/people/oksana-baiul/) won in 1994. The Russian relay team was later disqualified for doping.
+On 21 February 2014, shortly after the bloodshed on the Maidan in Kyiv, Ukraine's women's biathlon team lined up for the Olympic relay in Sochi. Russia and Norway were the favourites; Ukraine was given an outside chance of bronze at best. Vita Semerenko, Yuliia Dzhyma and Valia Semerenko handed the anchor leg to Olena Pidhrushna with a lead of almost half a minute, and she brought the team home to gold. None of the four had the fastest time on her leg, but all of them skied steadily: it was a team win. It was Ukraine's first Winter Olympic gold in 20 years, since the figure skater [Oksana Baiul](/en/people/oksana-baiul/) won in 1994. The russian relay team was later disqualified for doping.
 
 The athletes knew little of what was happening at home during the Games. “If we had known the whole truth, who knows what state of mind we'd have been in, and it's not certain we could have won the relay,” Pidhrushna recalled.
 
@@ -34,7 +34,7 @@ At the European Championships between 2009 and 2012 Pidhrushna won five titles. 
 
 ## The ministry and the comeback
 
-In April 2014 Pidhrushna became deputy minister of youth and sports. That summer Russian media spread a fake story that she had become a sniper in the ATO zone; she received threats and deleted her social media accounts. In March 2015 she left the post and went back to biathlon: she won more World Championship medals in relays, and at the 2022 Beijing Olympics she carried Ukraine's flag at the closing ceremony.
+In April 2014 Pidhrushna became deputy minister of youth and sports. That summer russian media spread a fake story that she had become a sniper in the ATO zone; she received threats and deleted her social media accounts. In March 2015 she left the post and went back to biathlon: she won more World Championship medals in relays, and at the 2022 Beijing Olympics she carried Ukraine's flag at the closing ceremony.
 
 On 28 March 2026, at the Ukrainian Championships in Bukovel, Olena Pidhrushna and Vita Semerenko officially retired. As of March 2026 she holds the rank of major in the National Guard of Ukraine.
 

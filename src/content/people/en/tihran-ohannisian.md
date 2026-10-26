@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/tihran-ohannisian.md
 name: "Tihran Ohannisian"
 role: "Schoolboy from occupied Berdiansk"
-summary: "425 votes in favour: that is how the European Parliament told Russia in 2023 to let two Berdiansk schoolboys go. Tihran Ohannisian stayed in his occupied city and openly backed Ukraine. The occupiers tortured him and charged him with “sabotage”. In June 2023, aged 16, he was killed."
+summary: "425 votes in favour: that is how the European Parliament told russia in 2023 to let two Berdiansk schoolboys go. Tihran Ohannisian stayed in his occupied city and openly backed Ukraine. The occupiers tortured him and charged him with “sabotage”. In June 2023, aged 16, he was killed."
 fun_fact: "In 2024 Zaporizhzhia split Lassalle Street in two: one part is now Tihran Ohannisian Street, the other is named after his friend Mykyta Khanhanov."
 key_accomplishments:
   - "A pupil of School No. 7 in Berdiansk who openly backed Ukraine under occupation"
@@ -15,7 +15,7 @@ image_alt: "Tihran Ohannisian with long fringe, in a black tank top and a neck c
 
 ## He stayed
 
-Tihran Ohannisian was born in 2006 in Berdiansk, on the Sea of Azov, and went to the town’s School No. 7. In 2022 Russia occupied the city. Tihran stayed, and he made no secret of being on Ukraine’s side.
+Tihran Ohannisian was born in 2006 in Berdiansk, on the Sea of Azov, and went to the town’s School No. 7. In 2022 russia occupied the city. Tihran stayed, and he made no secret of being on Ukraine’s side.
 
 ## A case against a schoolboy
 

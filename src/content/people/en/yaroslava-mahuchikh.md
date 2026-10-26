@@ -22,7 +22,7 @@ quotes:
 
 ## Three days on the road to gold
 
-When Russia launched its full-scale invasion, Yaroslava Mahuchikh was at home in Dnipro. The World Indoor Championships in Belgrade were only weeks away. She went by car: three days and about 2,000 kilometres through Moldova and Romania to Serbia. In Belgrade Mahuchikh cleared 2.02 m and became world champion.
+When russia launched its full-scale invasion, Yaroslava Mahuchikh was at home in Dnipro. The World Indoor Championships in Belgrade were only weeks away. She went by car: three days and about 2,000 kilometres through Moldova and Romania to Serbia. In Belgrade Mahuchikh cleared 2.02 m and became world champion.
 
 ## The girl from Dnipro
 

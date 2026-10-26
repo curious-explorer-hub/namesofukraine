@@ -12,7 +12,7 @@ key_accomplishments:
   - "First mitral valve replacement in the USSR (1963); created the world’s first anti-thrombotic heart valve prostheses (1965)"
   - "Founded the Kyiv institute of cardiovascular surgery that now bears his name"
   - "Books Thoughts and the Heart and Reflections on Health; the “limits and loads” health system"
-birthplace_name: "Olkhove (Russia)"
+birthplace_name: "Olkhove (russia)"
 image_alt: "Mykola Amosov, a photo from Soviet Life, 1984"
 quotes:
   - text: "Surgery was my suffering and my happiness."
@@ -21,7 +21,7 @@ quotes:
 
 ## A surgeon from a drowned village
 
-Mykola Amosov was born in 1913 in the village of Olkhove in the Vologda region of Russia. The village is no longer on the map: it was flooded by the Rybinsk Reservoir. Amosov first studied power engineering, but news of his mother’s death gave him the idea of building an artificial heart, and this became one of the reasons he turned to medicine. He studied at two institutes at once, did the first two years of medical school in one year, and graduated from both with honours in 1939. In the Second World War Amosov was the leading surgeon of a field hospital and operated on about 40,000 wounded. In 1952 he moved to Kyiv, where he spent the rest of his life.
+Mykola Amosov was born in 1913 in the village of Olkhove in the Vologda region of russia. The village is no longer on the map: it was flooded by the Rybinsk Reservoir. Amosov first studied power engineering, but news of his mother’s death gave him the idea of building an artificial heart, and this became one of the reasons he turned to medicine. He studied at two institutes at once, did the first two years of medical school in one year, and graduated from both with honours in 1939. In the Second World War Amosov was the leading surgeon of a field hospital and operated on about 40,000 wounded. In 1952 he moved to Kyiv, where he spent the rest of his life.
 
 ## How to fix a heart
 

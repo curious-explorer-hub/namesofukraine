@@ -24,7 +24,7 @@ Heorhii (Yurii) Shkurupii was born on 20 April 1903 in Bendery, then in the Bess
 
 ## Semenko’s right hand
 
-In the autumn of 1921 [Mykhail Semenko](/en/people/mykhail-semenko/), the leader of Ukrainian futurism, came to Kyiv, and Shkurupii became his closest ally. He came up with the word “panfuturism”, to show that Ukrainian futurism was broader than the Russian kind, and was active in the groups Aspanfut and Komunkult and later Nova Generatsiia. He wrote about cities, factories, trains and railway signals, and in literary quarrels he sharply attacked the Neoclassicists, above all [Mykola Zerov](/en/people/mykola-zerov/). Three poetry collections came out in three years, and at 22 Shkurupii was called the child prodigy of Ukrainian literature.
+In the autumn of 1921 [Mykhail Semenko](/en/people/mykhail-semenko/), the leader of Ukrainian futurism, came to Kyiv, and Shkurupii became his closest ally. He came up with the word “panfuturism”, to show that Ukrainian futurism was broader than the russian kind, and was active in the groups Aspanfut and Komunkult and later Nova Generatsiia. He wrote about cities, factories, trains and railway signals, and in literary quarrels he sharply attacked the Neoclassicists, above all [Mykola Zerov](/en/people/mykola-zerov/). Three poetry collections came out in three years, and at 22 Shkurupii was called the child prodigy of Ukrainian literature.
 
 ## Cinema on paper
 

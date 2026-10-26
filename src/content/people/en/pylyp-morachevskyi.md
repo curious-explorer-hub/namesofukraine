@@ -16,7 +16,7 @@ image_alt: "An elderly Pylyp Morachevskyi with long white hair and a long white 
 
 ## A Gospel with no name on it
 
-In the spring of 1906 a Gospel in Ukrainian was finally printed in the Russian Empire. The first five thousand copies sold out at once, and within two years 129,000 had been sold. Yet the translator’s name was nowhere on the book. Pylyp Morachevskyi had died 27 years earlier.
+In the spring of 1906 a Gospel in Ukrainian was finally printed in the russian empire. The first five thousand copies sold out at once, and within two years 129,000 had been sold. Yet the translator’s name was nowhere on the book. Pylyp Morachevskyi had died 27 years earlier.
 
 ## A mathematician who wrote poems
 
@@ -32,7 +32,7 @@ In 1859 Morachevskyi settled on his estate at Shniakivka near Nizhyn and took up
 
 In 1860 the Synod refused to let it be printed. The manuscript came back on the day his wife died. Still, by the end of 1861 all four Gospels were done, and academicians wrote that the translation was bound to mark an epoch.
 
-Imagine: in 1862 the New Testament came out in Russian, while the Ukrainian one was banned. An anonymous denunciation reached the secret police, the chief of the gendarmes called the translation a dangerous and harmful book, and the Synod refused again. In 1863 the Valuev Circular banned religious and educational books in Ukrainian. Some historians see Morachevskyi’s translation as one of the causes of the circular; others argue that the main cause was the Polish uprising.
+Imagine: in 1862 the New Testament came out in russian, while the Ukrainian one was banned. An anonymous denunciation reached the secret police, the chief of the gendarmes called the translation a dangerous and harmful book, and the Synod refused again. In 1863 the Valuev Circular banned religious and educational books in Ukrainian. Some historians see Morachevskyi’s translation as one of the causes of the circular; others argue that the main cause was the Polish uprising.
 
 ## The manuscript that vanished for 150 years
 

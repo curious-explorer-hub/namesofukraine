@@ -19,7 +19,7 @@ quotes:
 
 ## A German from Podillia
 
-How does a German become a Ukrainian poet? Oswald Burghardt was born in 1891 in the village of Serbynivtsi in Podillia (now in the Vinnytsia region), into a family of German colonists. He graduated from Kyiv University and in 1915 published a study of poetic style in Russian. When the First World War broke out, the Russian authorities exiled him, as the son of German colonists, to a village in the Arkhangelsk province in northern Russia. After the revolution of 1917 he returned to Ukraine.
+How does a German become a Ukrainian poet? Oswald Burghardt was born in 1891 in the village of Serbynivtsi in Podillia (now in the Vinnytsia region), into a family of German colonists. He graduated from Kyiv University and in 1915 published a study of poetic style in russian. When the First World War broke out, the russian authorities exiled him, as the son of German colonists, to a village in the Arkhangelsk province in northern russia. After the revolution of 1917 he returned to Ukraine.
 
 ## Baryshivka and Zerov
 

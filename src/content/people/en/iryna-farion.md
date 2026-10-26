@@ -29,7 +29,7 @@ On the evening of 19 July 2024 Iryna Farion was shot dead outside her home in Lv
 
 ## Debates and assessments
 
-Farion was one of the most controversial public figures in Ukraine. Supporters saw her as an uncompromising defender of the Ukrainian language; critics saw a politician whose offensive remarks alienated Russian-speaking Ukrainians and harmed the cause of Ukrainization itself. She was criticised in particular for reproaching kindergarten children for the Russian forms of their names, and for saying that she could not call Russian-speaking soldiers Ukrainians. After those words Lviv Polytechnic dismissed her, but a court later reinstated her.
+Farion was one of the most controversial public figures in Ukraine. Supporters saw her as an uncompromising defender of the Ukrainian language; critics saw a politician whose offensive remarks alienated russian-speaking Ukrainians and harmed the cause of Ukrainization itself. She was criticised in particular for reproaching kindergarten children for the russian forms of their names, and for saying that she could not call russian-speaking soldiers Ukrainians. After those words Lviv Polytechnic dismissed her, but a court later reinstated her.
 
 ## Why it matters today
 

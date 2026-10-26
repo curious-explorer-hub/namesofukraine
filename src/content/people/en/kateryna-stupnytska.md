@@ -25,7 +25,7 @@ Even before the full-scale invasion, Kateryna went on front-line rotations with 
 
 The brigade was fighting near Makariv, in Kyiv oblast, in spring 2022. On 8 March Kateryna carried wounded soldiers out under fire, among them a platoon commander, and gave them first aid. By one account, at least one wounded soldier survived only thanks to Katia.
 
-Medical service sergeant Kateryna Stupnytska was killed on 8 March 2022 in a Russian air strike on the village of Nalyvaikivka in Kyiv oblast. She was 25.
+Medical service sergeant Kateryna Stupnytska was killed on 8 March 2022 in a russian air strike on the village of Nalyvaikivka in Kyiv oblast. She was 25.
 
 ## Why it matters today
 

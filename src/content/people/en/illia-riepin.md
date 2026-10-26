@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/illia-riepin.md
 name: "Ilya Repin"
 role: "Painter of the Zaporozhian Cossacks"
-summary: "Everyone recognizes the Cossacks writing their letter to the Ottoman sultan. Ilya Repin, born in Chuhuiv in Sloboda Ukraine, spent 11 years on that painting. He was long called a Russian painter; in 2023 the Met relabeled him Ukrainian."
+summary: "Everyone recognizes the Cossacks writing their letter to the Ottoman sultan. Ilya Repin, born in Chuhuiv in Sloboda Ukraine, spent 11 years on that painting. He was long called a russian painter; in 2023 the Met relabeled him Ukrainian."
 fun_fact: "Repin submitted four drawings to the competition for a monument to Taras Shevchenko in Kyiv (1910–1914) and took part in the efforts to build the first monument to the poet in Ukraine."
 key_accomplishments:
   - "The painting Reply of the Zaporozhian Cossacks (1880–1891)"
@@ -34,7 +34,7 @@ From 1900 Repin lived at his Penaty estate in Kuokkala near St Petersburg, which
 
 ## Debates and assessments
 
-Most encyclopedias and museums around the world have traditionally called Repin a Russian painter: he lived and worked mainly in St Petersburg, and many of his best-known canvases are about Russian life. Some Ukrainian scholars call him a Ukrainian painter. Others note that some of his works show his attachment to Ukraine.
+Most encyclopedias and museums around the world have traditionally called Repin a russian painter: he lived and worked mainly in St Petersburg, and many of his best-known canvases are about russian life. Some Ukrainian scholars call him a Ukrainian painter. Others note that some of his works show his attachment to Ukraine.
 
 In early 2023 the Metropolitan Museum of Art in New York changed his description to “Ukrainian, born Russian Empire”. Supporters of the change, such as the journalist and historian Oksana Semenik, point to Repin’s Ukrainian landscapes and subjects. Critics, such as Vartan Matiossian writing in Hyperallergic, argue that reclassifying 19th-century artists this way replaces one oversimplification with another.
 

@@ -11,7 +11,7 @@ key_accomplishments:
   - "The plays Professor Sukhorab and In the Courtyard in the Suburb (1929)"
   - "The dictionary Phraseology of Business Language (1926), with Valerian Pidmohylnyi"
   - "An anthology of Ukrainian poetry (1930–1932), with Vasyl Atamaniuk and Feliks Yakubovskyi"
-birthplace_name: "Kantemyrivka, Voronezh gubernia (now Voronezh oblast, Russia)"
+birthplace_name: "Kantemyrivka, Voronezh gubernia (now Voronezh oblast, russia)"
 image_alt: "Yevhen Pluzhnyk, portrait"
 quotes:
   - text: "My people! / Unlettered and barefoot! / Hallowed be thy name! / Let new rye come into bloom / With the lush flower of new glory!"
@@ -20,7 +20,7 @@ quotes:
 
 ## The boy from Kantemyrivka
 
-Yevhen Pluzhnyk was born in 1898 in Kantemyrivka, a settlement in the Voronezh gubernia of the Russian Empire; today it is a town in Russia’s Voronezh oblast. He grew up in a large family of peasants and craftsmen. In 1918, when Yevhen finished secondary school, the family moved to Ukraine. From then on his whole life and work belonged to Ukraine, above all to Kyiv, and he kept his home town in his pen name, “Kantemyrianyn”.
+Yevhen Pluzhnyk was born in 1898 in Kantemyrivka, a settlement in the Voronezh gubernia of the russian empire; today it is a town in russia’s Voronezh oblast. He grew up in a large family of peasants and craftsmen. In 1918, when Yevhen finished secondary school, the family moved to Ukraine. From then on his whole life and work belonged to Ukraine, above all to Kyiv, and he kept his home town in his pen name, “Kantemyrianyn”.
 
 ## Kyiv, Aspys and Lanka
 

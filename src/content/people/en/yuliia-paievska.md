@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/yuliia-paievska.md
 name: "Yuliia Paievska"
 role: "Paramedic “Taira”"
-summary: "She was given a camera for a Prince Harry documentary and used it to film the siege of Mariupol. Yuliia “Taira” Paievska had been saving the wounded in Donbas since 2014; in 2022 she spent three months in Russian captivity. Winner of the US International Women of Courage Award."
+summary: "She was given a camera for a Prince Harry documentary and used it to film the siege of Mariupol. Yuliia “Taira” Paievska had been saving the wounded in Donbas since 2014; in 2022 she spent three months in russian captivity. Winner of the US International Women of Courage Award."
 fun_fact: "Yuliia picked her call sign, “Taira”, in the video game World of Warcraft."
 key_accomplishments:
   - "From 2014, taught tactical medicine and rescued the wounded in Donbas; led the volunteer paramedic team “Taira’s Angels”"
@@ -19,18 +19,18 @@ quotes:
 
 ## A camera meant for Netflix
 
-Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When Russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
+Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
 
 ## Treating the enemy too
 
-One clip shows two wounded Russian soldiers being brought into a hospital. A woman asks Taira whether she is going to treat the Russians. “They will not be as kind to us,” she replies. “But I couldn’t do otherwise. They are prisoners of war.”
+One clip shows two wounded russian soldiers being brought into a hospital. A woman asks Taira whether she is going to treat the russians. “They will not be as kind to us,” she replies. “But I couldn’t do otherwise. They are prisoners of war.”
 
 ## From aikido to the front line
 
 Yuliia was born in 1968 in Kyiv. Until 2014 she worked as a designer and taught aikido for more than 20 years. During the Revolution of Dignity, the 2013–2014 protests on Kyiv’s Maidan, she began giving first aid to the injured, and from 2014 she ran tactical medicine training in Donbas and led a volunteer paramedic team, “Taira’s Angels”. From 2018 to 2020 she served as a military medic.
 
-On 16 March 2022 Russian troops detained Taira as she was trying to evacuate women and children from Mariupol to Zaporizhzhia. She spent three months in Russian captivity and came home on 17 June 2022.
+On 16 March 2022 russian troops detained Taira as she was trying to evacuate women and children from Mariupol to Zaporizhzhia. She spent three months in russian captivity and came home on 17 June 2022.
 
 ## Why it matters today
 
-A camera meant for a documentary became evidence for the whole world: through Taira, people saw how medics saved the wounded in besieged Mariupol. She had been teaching tactical medicine since 2014, so the people she trained save lives too. She treated even wounded Russian soldiers, and that choice shows it is possible to stay humane where the enemy offers no such mercy. Her example is a reminder that courage means both carrying the truth to the world and helping anyone in need. For this work she received the US International Women of Courage Award and Ukraine’s Order of Freedom.
+A camera meant for a documentary became evidence for the whole world: through Taira, people saw how medics saved the wounded in besieged Mariupol. She had been teaching tactical medicine since 2014, so the people she trained save lives too. She treated even wounded russian soldiers, and that choice shows it is possible to stay humane where the enemy offers no such mercy. Her example is a reminder that courage means both carrying the truth to the world and helping anyone in need. For this work she received the US International Women of Courage Award and Ukraine’s Order of Freedom.

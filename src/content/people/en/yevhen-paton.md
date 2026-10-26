@@ -3,7 +3,7 @@
 name: "Yevhen Paton"
 role: "Bridge builder, pioneer of welding"
 summary: "At almost 60, a famous bridge builder started over and took up welding. Yevhen Paton founded the Institute of Electric Welding in Kyiv, and under his direction Europe’s largest all-welded road bridge was built: the Paton Bridge across the Dnipro."
-fun_fact: "Paton was born in Nice, the son of a Russian consul, and held two engineering degrees: the Russian Empire didn’t recognize his Dresden diploma, so he sat the exams again in St Petersburg."
+fun_fact: "Paton was born in Nice, the son of a russian consul, and held two engineering degrees: the russian empire didn’t recognize his Dresden diploma, so he sat the exams again in St Petersburg."
 misconception:
   claim: "Kyiv’s Paton Bridge was built by Borys Paton."
   truth: "The bridge was built under the direction of his father, Yevhen Paton, and named after him in 1953. Yevhen Paton died less than three months before it opened."
@@ -19,7 +19,7 @@ image_alt: "Yevhen Paton as a lecturer at the Kyiv Polytechnic Institute, 1904�
 
 ## The boy from Nice
 
-Yevhen Paton was born in 1870 in Nice, where his father was the Russian consul. He graduated from the polytechnic in Dresden (1894), but the Russian Empire didn’t recognize foreign degrees. So Paton took the exams at the St Petersburg Institute of Railway Engineers and earned a second diploma in 1896.
+Yevhen Paton was born in 1870 in Nice, where his father was the russian consul. He graduated from the polytechnic in Dresden (1894), but the russian empire didn’t recognize foreign degrees. So Paton took the exams at the St Petersburg Institute of Railway Engineers and earned a second diploma in 1896.
 
 ## Bridges for Kyiv
 

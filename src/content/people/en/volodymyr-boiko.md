@@ -26,7 +26,7 @@ Boiko was an unofficial adviser to Ukraine’s first president and a member of t
 
 ## Debates and assessments
 
-The plant’s road into private hands was disputed. In 2000 parliament passed a special law on privatizing the state’s stake in the plant: it was to be sold to a company founded by the plant’s workers, at no less than nominal value. In 2010 representatives of Cypriot companies claimed they had bought a controlling stake on behalf of an unnamed Russian group; Boiko denied it. That same year the plant announced a merger with Rinat Akhmetov’s Metinvest holding. The deal was completed in 2011: Boiko’s company received 5% of the holding, which experts valued at 1–1.2 billion dollars, and he kept his post as general director.
+The plant’s road into private hands was disputed. In 2000 parliament passed a special law on privatizing the state’s stake in the plant: it was to be sold to a company founded by the plant’s workers, at no less than nominal value. In 2010 representatives of Cypriot companies claimed they had bought a controlling stake on behalf of an unnamed russian group; Boiko denied it. That same year the plant announced a merger with Rinat Akhmetov’s Metinvest holding. The deal was completed in 2011: Boiko’s company received 5% of the holding, which experts valued at 1–1.2 billion dollars, and he kept his post as general director.
 
 ## Why it matters today
 

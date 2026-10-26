@@ -12,7 +12,7 @@ key_accomplishments:
   - "Named the world's best female shooter (2011)"
   - "Honoured Master of Sport of Ukraine (2002); holds all three classes of the Order of Princess Olga and of the Order For Merit; Order of Prince Yaroslav the Wise, 5th (2023) and 4th (2026) class"
 image_alt: "A smiling Olena Kostevych in a light-blue Olympic jacket holding up her Tokyo 2020 bronze medal, with a sunflower bouquet in her other hand"
-birthplace_name: "Khabarovsk (Russia)"
+birthplace_name: "Khabarovsk (russia)"
 ---
 
 ## The flag and the superstition
@@ -21,7 +21,7 @@ Ukraine's Olympic team had a superstition: whoever carried the flag at the openi
 
 ## A shooting range in Chernihiv
 
-Olena Kostevych was born on 14 April 1985 in Khabarovsk, Russia, and grew up in Chernihiv. "My home city is Chernihiv," she says. It was her mother who brought her to the sport: one day she suggested Olena try shooting at a shooting range. From 1996, at the age of 11, Olena trained at the Kolos sports school in Chernihiv, and in 2000 she made Ukraine's national team.
+Olena Kostevych was born on 14 April 1985 in Khabarovsk, russia, and grew up in Chernihiv. "My home city is Chernihiv," she says. It was her mother who brought her to the sport: one day she suggested Olena try shooting at a shooting range. From 1996, at the age of 11, Olena trained at the Kolos sports school in Chernihiv, and in 2000 she made Ukraine's national team.
 
 ## Champion at 17 and at 19
 

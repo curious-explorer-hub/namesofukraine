@@ -2,13 +2,13 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/vira-kholodna.md
 name: "Vira Kholodna"
 role: "Film actress, “queen of the screen”"
-summary: "Audiences called her the “queen of the screen,” though her career lasted less than five years. Vira Kholodna from Poltava became one of the first great silent-film stars of the Russian Empire and died in Odesa at 25."
+summary: "Audiences called her the “queen of the screen,” though her career lasted less than five years. Vira Kholodna from Poltava became one of the first great silent-film stars of the russian empire and died in Odesa at 25."
 fun_fact: "Of the dozens of films Vira Kholodna appeared in, only a few survive today, among them Children of the Age, Mirages, A Life for a Life and a fragment of The Last Tango."
 misconception:
   claim: "Vira Kholodna was poisoned, either by a bouquet of white lilies, or on the orders of the French consul, or by intelligence agents, because she was supposedly a spy."
   truth: "These versions are rumors that spread only after her death, and in the late 1940s Yurii Smolych's novel Dawn over the Sea and the operetta At Dawn spread them further. The actress caught the “Spanish flu,” the pandemic influenza that killed millions of people worldwide in 1918–1919, and died on 16 February 1919 in Odesa; those who knew her confirmed this cause. The screenwriter Aleksei Kapler publicly defended her: there was, he wrote, “absolutely nothing mysterious” about how she died."
 key_accomplishments:
-  - "One of the first great stars of silent cinema in the Russian Empire, the “queen of the screen”"
+  - "One of the first great stars of silent cinema in the russian empire, the “queen of the screen”"
   - "Dozens of film roles in 1914–1919"
   - "Her breakthrough was Yevgeny Bauer’s film Song of Triumphant Love (1915)"
   - "Surviving films include Children of the Age, Mirages and A Life for a Life"

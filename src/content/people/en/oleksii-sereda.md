@@ -24,7 +24,7 @@ Oleksii Sereda was born on 25 December 2005 in Mykolaiv. By 2021, aged 15, he wa
 
 ## Diving while there is war at home
 
-Sereda competes for the Central Sports Club of the Armed Forces of Ukraine. His home city of Mykolaiv is under Russian shelling. In 2024 he said he wanted to help Ukraine's defenders: he was raising money for them through his posts and knew where the donations went, because his friends were at war. He said he did not understand how a terrorist state could be allowed to take part in the Olympic Games.
+Sereda competes for the Central Sports Club of the Armed Forces of Ukraine. His home city of Mykolaiv is under russian shelling. In 2024 he said he wanted to help Ukraine's defenders: he was raising money for them through his posts and knew where the donations went, because his friends were at war. He said he did not understand how a terrorist state could be allowed to take part in the Olympic Games.
 
 ## Silver and a personal best
 

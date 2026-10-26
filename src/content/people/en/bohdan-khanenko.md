@@ -10,13 +10,13 @@ key_accomplishments:
   - "Head of the Kyiv Society of Antiquities and Art; funded archaeological digs"
   - "With his wife published the six volumes of Antiquities of the Dnipro Region (1899–1907)"
   - "In 1917 left instructions to turn the collection into a museum for Kyiv, today’s Khanenko Museum"
-birthplace_name: "Lotoky, Chernihiv Governorate (now Bryansk Oblast, Russia)"
+birthplace_name: "Lotoky, Chernihiv Governorate (now Bryansk Oblast, russia)"
 image_alt: "Bohdan Khanenko, a grey-haired bearded man in a dark suit and tie"
 ---
 
 ## The honeymoon that started a museum
 
-Museums usually begin with a building or a decree. The Khanenko Museum began with a honeymoon. Bohdan Khanenko came from an old Ukrainian family of Cossack officers; among his ancestors was Hetman Mykhailo Khanenko. He was born in 1849 on the family estate of Lotoky in the Chernihiv region (the village is now in Russia’s Bryansk Oblast). He studied law at Moscow University and served in St Petersburg and Warsaw. In St Petersburg he fell for the art of the old masters and began to dream of a collection of his own. In 1874 Bohdan married Varvara, the eldest daughter of the sugar magnate and patron [Nikola Tereshchenko](/en/people/nikola-tereshchenko/). On their honeymoon in Italy the couple bought the first pieces of their shared collection.
+Museums usually begin with a building or a decree. The Khanenko Museum began with a honeymoon. Bohdan Khanenko came from an old Ukrainian family of Cossack officers; among his ancestors was Hetman Mykhailo Khanenko. He was born in 1849 on the family estate of Lotoky in the Chernihiv region (the village is now in russia’s Bryansk Oblast). He studied law at Moscow University and served in St Petersburg and Warsaw. In St Petersburg he fell for the art of the old masters and began to dream of a collection of his own. In 1874 Bohdan married Varvara, the eldest daughter of the sugar magnate and patron [Nikola Tereshchenko](/en/people/nikola-tereshchenko/). On their honeymoon in Italy the couple bought the first pieces of their shared collection.
 
 ## Two collectors
 

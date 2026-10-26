@@ -28,7 +28,7 @@ After he recovered, Pavlo settled in the village of Semypolky outside Kyiv and s
 
 ## The battle in the Kyiv region
 
-On 24 February 2022, when Russia launched its full-scale invasion, Pavlo went back to the fight. In late March, in the Kyiv region, Master Sergeant Bilous of the Ground Forces and Senior Sergeant Oleksandr Kliuchka took on a column of enemy armour. Thanks to them, Russian tanks and airborne and infantry fighting vehicles were destroyed.
+On 24 February 2022, when russia launched its full-scale invasion, Pavlo went back to the fight. In late March, in the Kyiv region, Master Sergeant Bilous of the Ground Forces and Senior Sergeant Oleksandr Kliuchka took on a column of enemy armour. Thanks to them, russian tanks and airborne and infantry fighting vehicles were destroyed.
 
 On 7 April 2022 Pavlo Bilous was made a Hero of Ukraine with the Gold Star order, for personal courage and heroism in defending Ukraine. The President later presented him with the order.
 

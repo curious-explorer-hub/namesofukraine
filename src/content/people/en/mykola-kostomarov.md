@@ -11,7 +11,7 @@ key_accomplishments:
   - "Founder of the populist trend in Ukrainian historiography"
   - "Compiler and editor of Shevchenko’s first posthumous Kobzar (1867)"
   - "The poetry collections Ukrainian Ballads (1839) and The Branch (1840)"
-birthplace_name: "Yurasivka, Voronezh Governorate (now Voronezh Oblast, Russia)"
+birthplace_name: "Yurasivka, Voronezh Governorate (now Voronezh Oblast, russia)"
 image_alt: "Lithograph portrait of Mykola Kostomarov with glasses and a beard, in a dark frock coat and white shirt with a bow, colorized with AI"
 quotes:
   - text: "And Ukraine loved neither tsar nor lord, but made for itself the Cossack host, a true brotherhood […], and the Cossacks were all equal among themselves […]"
@@ -20,7 +20,7 @@ quotes:
 
 ## The serf who became a professor
 
-Mykola Kostomarov was born in 1817 in the village of Yurasivka in the Voronezh Governorate, now in Russia’s Voronezh Oblast. This land once belonged to the Ostrohozk Cossack regiment of Sloboda Ukraine, founded by Ukrainian settlers. The boy was the illegitimate son of a Russian nobleman and a Ukrainian serf woman, so he was born a serf himself. Ukrainian culture surrounded him from childhood. He finished secondary school in Voronezh and, in 1836, Kharkiv University.
+Mykola Kostomarov was born in 1817 in the village of Yurasivka in the Voronezh Governorate, now in russia’s Voronezh Oblast. This land once belonged to the Ostrohozk Cossack regiment of Sloboda Ukraine, founded by Ukrainian settlers. The boy was the illegitimate son of a russian nobleman and a Ukrainian serf woman, so he was born a serf himself. Ukrainian culture surrounded him from childhood. He finished secondary school in Voronezh and, in 1836, Kharkiv University.
 
 ## Iieremiia Halka
 
@@ -32,7 +32,7 @@ Kostomarov became an adjunct professor at Kyiv University in 1846. There he grew
 
 ## History is not just about tsars
 
-Kostomarov became professor of Russian history at Saint Petersburg University in 1859, but in 1862 he left in protest at the authorities’ actions during student unrest. From then on he only researched and wrote. His books on Bohdan Khmelnytskyi, the Ruin and [Ivan Mazepa](/en/people/ivan-mazepa/) drew on documents he tracked down in 65 archives and libraries. He wrote lives of [Volodymyr the Great](/en/people/volodymyr-velykyi/), Petro Mohyla, [Ivan Sirko](/en/people/ivan-sirko/), [Pylyp Orlyk](/en/people/pylyp-orlyk/) and [Hryhorii Skovoroda](/en/people/hryhorii-skovoroda/), and got readers interested in Ukrainian history. Kostomarov believed a historian should study the life of the whole people, not just its rulers, and he founded the populist trend in Ukrainian historiography. In his essay Two Rus’ Peoples (1861) he argued that Ukrainians and Russians are different peoples with different histories.
+Kostomarov became professor of russian history at Saint Petersburg University in 1859, but in 1862 he left in protest at the authorities’ actions during student unrest. From then on he only researched and wrote. His books on Bohdan Khmelnytskyi, the Ruin and [Ivan Mazepa](/en/people/ivan-mazepa/) drew on documents he tracked down in 65 archives and libraries. He wrote lives of [Volodymyr the Great](/en/people/volodymyr-velykyi/), Petro Mohyla, [Ivan Sirko](/en/people/ivan-sirko/), [Pylyp Orlyk](/en/people/pylyp-orlyk/) and [Hryhorii Skovoroda](/en/people/hryhorii-skovoroda/), and got readers interested in Ukrainian history. Kostomarov believed a historian should study the life of the whole people, not just its rulers, and he founded the populist trend in Ukrainian historiography. In his essay Two Rus’ Peoples (1861) he argued that Ukrainians and russians are different peoples with different histories.
 
 ## Shevchenko’s Kobzar
 

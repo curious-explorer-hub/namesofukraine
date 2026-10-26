@@ -19,7 +19,7 @@ quotes:
 
 ## A language adviser who survived the camps
 
-Did you know that How We Speak, one of the best-known books on good Ukrainian, was written by a survivor of Stalin’s camps? Borys Antonenko-Davydovych published it in 1970. It is a collection of short notes on the Ukrainian literary language: what is right, and why. He flatly rejected surzhyk, the Russian-Ukrainian mix, and that was exactly why he was accused of nationalism: the official line at the time was the “drawing together of languages”, in other words Russification.
+Did you know that How We Speak, one of the best-known books on good Ukrainian, was written by a survivor of Stalin’s camps? Borys Antonenko-Davydovych published it in 1970. It is a collection of short notes on the Ukrainian literary language: what is right, and why. He flatly rejected surzhyk, the russian-Ukrainian mix, and that was exactly why he was accused of nationalism: the official line at the time was the “drawing together of languages”, in other words Russification.
 
 ## From Romny to Kyiv
 
@@ -37,4 +37,4 @@ Borys Antonenko-Davydovych died in Kyiv on 9 May 1984. A newspaper gave his deat
 
 ## Why it matters today
 
-Borys Antonenko-Davydovych stood up for Ukrainian when the state was pushing Russification, and after 23 years of camps and exile he went on doing it. How We Speak, reprinted again and again since 1991, still teaches people to speak Ukrainian not in borrowed Russian patterns but the way the language itself speaks. He showed that caring about the right word is no small matter for linguists alone: it is a way to defend a language that others tried to dissolve into their own. The Sixtiers, the younger dissidents, could lean on his example. Anyone today who reaches for a Ukrainian word instead of a borrowed one is carrying on his work.
+Borys Antonenko-Davydovych stood up for Ukrainian when the state was pushing Russification, and after 23 years of camps and exile he went on doing it. How We Speak, reprinted again and again since 1991, still teaches people to speak Ukrainian not in borrowed russian patterns but the way the language itself speaks. He showed that caring about the right word is no small matter for linguists alone: it is a way to defend a language that others tried to dissolve into their own. The Sixtiers, the younger dissidents, could lean on his example. Anyone today who reaches for a Ukrainian word instead of a borrowed one is carrying on his work.

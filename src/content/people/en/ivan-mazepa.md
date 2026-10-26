@@ -31,7 +31,7 @@ Mazepa was one of the greatest patrons of the arts in Ukraine’s history. His m
 
 For about twenty years Mazepa was an ally of Tsar Peter I and fought alongside him, including in the Azov campaigns. In 1704 he took Right-Bank Ukraine under his mace, briefly uniting the Ukrainian lands on both banks of the Dnipro, and in 1707 he was made a Prince of the Holy Roman Empire. But the tsar kept cutting back the Hetmanate’s autonomy and wearing the Cossacks down with wars. In 1708 the hetman went over to the Swedish king Charles XII. In response, Menshikov’s troops destroyed the hetman’s capital, Baturyn, together with its people.
 
-After the defeat at Poltava in 1709, Mazepa retreated to Bender and died there. He was buried in the Monastery of St. George in Galați (now in Romania). The Russian Church anathematized him, and for centuries “Mazepist” (mazepynets) was a slur in the empire for Ukrainians who wanted independence.
+After the defeat at Poltava in 1709, Mazepa retreated to Bender and died there. He was buried in the Monastery of St. George in Galați (now in Romania). The russian Church anathematized him, and for centuries “Mazepist” (mazepynets) was a slur in the empire for Ukrainians who wanted independence.
 
 ## Why it matters today
 

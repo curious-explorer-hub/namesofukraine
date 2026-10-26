@@ -3,7 +3,7 @@
 name: "Borys Ten"
 role: "Translator of Homer, poet"
 summary: "He took his pen name from the ancient Greek name of the Dnipro. Borys Ten (Mykola Khomychevskyi) was a priest of the Ukrainian Autocephalous Church, survived a Soviet camp and Nazi captivity, and then gave Ukrainians Homer’s Iliad and Odyssey."
-fun_fact: "Borys Ten knew ten languages: ancient Greek, Latin, English, French, German, Polish, Czech, Slovak, Latvian and Russian."
+fun_fact: "Borys Ten knew ten languages: ancient Greek, Latin, English, French, German, Polish, Czech, Slovak, Latvian and russian."
 key_accomplishments:
   - "Translated Homer’s Iliad and Odyssey from ancient Greek; Maksym Rylskyi Prize (1979)"
   - "Translations of Aeschylus, Sophocles, Euripides, Aristophanes, Aristotle, Shakespeare, Schiller, Goethe, Mickiewicz and others"
@@ -25,7 +25,7 @@ Mykola Khomychevskyi was born in 1897 in the village of Derman in Volhynia, into
 
 ## Camp and captivity
 
-On 7 August 1929 Khomychevskyi was arrested for his church work, and the next year he was sentenced to ten years in the camps. He served his term in the Far East, mostly in Vladivostok, where he led a choir of prisoners. He was released on 1 September 1936, spent a short time back in Kyiv, and from 1937 worked in Russia. When the Second World War began he was drafted into the Red Army and taken prisoner by the Germans. After a failed escape he was moved to a camp in Germany, and he was freed only in 1945.
+On 7 August 1929 Khomychevskyi was arrested for his church work, and the next year he was sentenced to ten years in the camps. He served his term in the Far East, mostly in Vladivostok, where he led a choir of prisoners. He was released on 1 September 1936, spent a short time back in Kyiv, and from 1937 worked in russia. When the Second World War began he was drafted into the Red Army and taken prisoner by the Germans. After a failed escape he was moved to a camp in Germany, and he was freed only in 1945.
 
 ## Homer in Zhytomyr
 

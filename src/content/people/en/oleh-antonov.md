@@ -42,7 +42,7 @@ Oleh Antonov died on 4 April 1984 in Kyiv, where he had lived for more than 30 y
 
 The Kyiv bureau bears Antonov’s name. Over the years it has created more than 100 types and versions of An aircraft and built more than 22,000 of them. Antonov did not live to see the most famous of them: the An-225 Mriya (“Dream”) first flew in 1988, four years after his death.
 
-Just three months after its first flight, the Mriya set 110 world records in a single flight, and 240 in all, something unprecedented in aviation. In 2009 it carried a generator weighing more than 187 tonnes from Frankfurt to Yerevan, and the flight entered Guinness World Records as the largest single-piece cargo in aviation history. The Mriya was called the flagship of Ukrainian aviation. On 27 February 2022 it became known that Russian troops had destroyed it at the Antonov airfield in Hostomel, near Kyiv.
+Just three months after its first flight, the Mriya set 110 world records in a single flight, and 240 in all, something unprecedented in aviation. In 2009 it carried a generator weighing more than 187 tonnes from Frankfurt to Yerevan, and the flight entered Guinness World Records as the largest single-piece cargo in aviation history. The Mriya was called the flagship of Ukrainian aviation. On 27 February 2022 it became known that russian troops had destroyed it at the Antonov airfield in Hostomel, near Kyiv.
 
 ## Why it matters today
 

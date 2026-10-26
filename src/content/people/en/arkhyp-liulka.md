@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/arkhyp-liulka.md
 name: "Arkhyp Liulka"
 role: "Jet engine designer"
-summary: "“In Moscow they think I’m a Ukrainian nationalist, and at home, a Muscovite,” said Arkhyp Liulka. A boy from the Kyiv region, he began designing a jet engine in Kharkiv and became one of the first Soviet jet engine designers. From 1939 he worked in Russia, but kept his Ukrainian to the end."
+summary: "“In Moscow they think I’m a Ukrainian nationalist, and at home, a Muscovite,” said Arkhyp Liulka. A boy from the Kyiv region, he began designing a jet engine in Kharkiv and became one of the first Soviet jet engine designers. From 1939 he worked in russia, but kept his Ukrainian to the end."
 fun_fact: "In 1980 Liulka came to the 50th anniversary of the Kharkiv Aviation Institute, where he had once taught, wearing a vyshyvanka, and greeted his colleagues in Ukrainian."
 key_accomplishments:
   - "Design of the RD-1 turbojet engine (Kharkiv, 1937–1939)"
@@ -32,7 +32,7 @@ Under Liulka’s lead, his bureau built the AL series of engines. They powered a
 
 ## “My soul is here”
 
-Liulka spent more than half his life in Moscow, but he did not forget home. He read Ukrainian magazines, kept more than a thousand books on Ukrainian studies, and wrote to people from home only in Ukrainian. Portraits of Taras Shevchenko and of his teacher Mykhailo Kravchuk hung in his study. When officials from Kyiv spoke Russian at a gathering in Savarka, he answered in Ukrainian: “My soul is here, in Ukraine, in Savarka.” Arkhyp Liulka died in Moscow on 1 June 1984.
+Liulka spent more than half his life in Moscow, but he did not forget home. He read Ukrainian magazines, kept more than a thousand books on Ukrainian studies, and wrote to people from home only in Ukrainian. Portraits of Taras Shevchenko and of his teacher Mykhailo Kravchuk hung in his study. When officials from Kyiv spoke russian at a gathering in Savarka, he answered in Ukrainian: “My soul is here, in Ukraine, in Savarka.” Arkhyp Liulka died in Moscow on 1 June 1984.
 
 ## Why it matters today
 

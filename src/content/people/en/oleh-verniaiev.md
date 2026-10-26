@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/oleh-verniaiev.md
 name: "Oleg Verniaiev"
 role: "Gymnast, Olympic champion"
-summary: "A world champion who got the wrong anthem. Oleg Verniaiev from Donetsk won Rio 2016 gold on the parallel bars and silver in the all-around, turned down offers to compete for Russia and became an officer in Ukraine's army. After a two-year doping ban he came back and competed at Paris 2024."
+summary: "A world champion who got the wrong anthem. Oleg Verniaiev from Donetsk won Rio 2016 gold on the parallel bars and silver in the all-around, turned down offers to compete for russia and became an officer in Ukraine's army. After a two-year doping ban he came back and competed at Paris 2024."
 fun_fact: "In 2015 Verniaiev became the first Ukrainian to win the Artistic Gymnastics World Cup."
 key_accomplishments:
   - "Olympic champion on the parallel bars and all-around silver medallist (Rio de Janeiro, 2016)"
@@ -27,11 +27,11 @@ Oleg Verniaiev was born on 29 September 1993 in Donetsk. His mother had been a g
 
 ## Gold in Rio
 
-At the 2016 Olympic Games in Rio de Janeiro, Verniaiev became Olympic champion on the parallel bars and won silver in the all-around. He had plenty of offers to switch countries: from Russia, Azerbaijan, Germany and Kazakhstan. The best-paid one, he said, came from Russia. He turned them all down and competed only for Ukraine.
+At the 2016 Olympic Games in Rio de Janeiro, Verniaiev became Olympic champion on the parallel bars and won silver in the all-around. He had plenty of offers to switch countries: from russia, Azerbaijan, Germany and Kazakhstan. The best-paid one, he said, came from russia. He turned them all down and competed only for Ukraine.
 
 ## Medals for the displaced
 
-After Russia's full-scale invasion, in April 2022, Verniaiev said he had joined the Armed Forces of Ukraine. He put his Universiade medals up at a charity auction in the United States, and the money built two houses in Kyiv region for people displaced from the Donbas. He also switched to speaking Ukrainian.
+After russia's full-scale invasion, in April 2022, Verniaiev said he had joined the Armed Forces of Ukraine. He put his Universiade medals up at a charity auction in the United States, and the money built two houses in Kyiv region for people displaced from the Donbas. He also switched to speaking Ukrainian.
 
 ## The comeback
 

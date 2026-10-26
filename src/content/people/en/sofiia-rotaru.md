@@ -2,12 +2,12 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/sofiia-rotaru.md
 name: "Sofiia Rotaru"
 role: "Singer, the voice of Chervona Ruta"
-summary: "Volodymyr Ivasiuk’s song “Chervona Ruta” became her signature, and the band she sang with took the same name. Sofiia Rotaru from Bukovyna is one of the best-known singers of the USSR and Ukraine and a Hero of Ukraine. Her performances in Russia after 2014 are still debated."
+summary: "Volodymyr Ivasiuk’s song “Chervona Ruta” became her signature, and the band she sang with took the same name. Sofiia Rotaru from Bukovyna is one of the best-known singers of the USSR and Ukraine and a Hero of Ukraine. Her performances in russia after 2014 are still debated."
 fun_fact: "Sofiia Rotaru didn’t train as a singer but as a choir conductor: in 1968 she graduated from the conducting and choral department of the Chernivtsi music college."
 key_accomplishments:
   - "Soloist of the band Chervona Ruta (from 1971); Volodymyr Ivasiuk’s song “Chervona Ruta” became her signature"
   - "Won the Golden Orpheus contest (Bulgaria, 1973) and the Amber Nightingale contest (Sopot, Poland, 1974)"
-  - "More than 400 songs by Ukrainian, Moldovan and Russian composers; the musical film Chervona Ruta (1971)"
+  - "More than 400 songs by Ukrainian, Moldovan and russian composers; the musical film Chervona Ruta (1971)"
   - "People’s Artist of the USSR (1988); Hero of Ukraine (2002, decree No. 691/2002); the National Legend of Ukraine award (2021)"
 birthplace_name: "Marshyntsi"
 image_alt: "Sofiia Rotaru holding white roses at the National Legend of Ukraine award ceremony, 2021"
@@ -23,16 +23,16 @@ Sofiia Rotaru was born in 1947 in the village of Marshyntsi in Bukovyna (now in 
 
 ## From Sopot to hundreds of songs
 
-In 1973 Rotaru won the Golden Orpheus contest in Bulgaria, and in 1974 the Amber Nightingale contest in Sopot, Poland. That same year she graduated from the Chișinău Institute of Arts, and from 1975 she was a soloist of the Crimean Philharmonic. Her repertoire runs to more than 400 songs by Ukrainian, Moldovan and Russian composers, among them Ivasiuk, Levko Dutkovskyi and Eugen Doga. She toured the USSR, Australia, Europe, Asia and the Americas.
+In 1973 Rotaru won the Golden Orpheus contest in Bulgaria, and in 1974 the Amber Nightingale contest in Sopot, Poland. That same year she graduated from the Chișinău Institute of Arts, and from 1975 she was a soloist of the Crimean Philharmonic. Her repertoire runs to more than 400 songs by Ukrainian, Moldovan and russian composers, among them Ivasiuk, Levko Dutkovskyi and Eugen Doga. She toured the USSR, Australia, Europe, Asia and the Americas.
 
 In 1988 Rotaru became a People’s Artist of the USSR. She was made an honorary citizen of the Autonomous Republic of Crimea in 1997 and of Chernivtsi in 1998, and a Hero of Ukraine in 2002. In 2021 she was among the first to receive the National Legend of Ukraine award, together with the poet [Yurii Rybchynskyi](/en/people/yurii-rybchynskyi/), the painter [Ivan Marchuk](/en/people/ivan-marchuk/) and the footballer [Oleh Blokhin](/en/people/oleh-blokhin/).
 
 ## Debates and assessments
 
-Rotaru built much of her career on the stages of the USSR and later Russia, and her performances there after 2014 are judged in different ways. In 2014, after Russia occupied Crimea, she was photographed with a Ukrainian flag, and her concerts in Russia began to be cancelled. Yet she kept appearing at Russia’s televised Song of the Year festival: she stayed away in 2018 but set off for Moscow again in 2019. That trip set off a campaign against her in Russia, and her concert director defended her on the Russian propaganda talk show 60 Minutes.
+Rotaru built much of her career on the stages of the USSR and later russia, and her performances there after 2014 are judged in different ways. In 2014, after russia occupied Crimea, she was photographed with a Ukrainian flag, and her concerts in russia began to be cancelled. Yet she kept appearing at russia’s televised Song of the Year festival: she stayed away in 2018 but set off for Moscow again in 2019. That trip set off a campaign against her in russia, and her concert director defended her on the russian propaganda talk show 60 Minutes.
 
 After the full-scale invasion of 2022, Rotaru spoke out against the war on Instagram, and in August 2022 she urged people to support a fund that helps the wives and children of Ukrainian soldiers. Russia’s occupation authorities in Crimea have since demanded that her hotel in Yalta and her honorary citizenship of the city be taken from her; one Crimean official said she “takes an anti-Russian position.”
 
 ## Why it matters today
 
-Sofiia Rotaru is one of the people who carried Ukrainian song far beyond the country: with [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/)’s “Chervona Ruta” and songs by other Ukrainian composers she toured Europe, Asia, the Americas and Australia. Her path from amateur singing in a Bukovynian village to international festivals shows that talent and hard work can open the stage to anyone, wherever they come from. Several generations know her songs, and her performances in Russia are judged in different ways.
+Sofiia Rotaru is one of the people who carried Ukrainian song far beyond the country: with [Volodymyr Ivasiuk](/en/people/volodymyr-ivasiuk/)’s “Chervona Ruta” and songs by other Ukrainian composers she toured Europe, Asia, the Americas and Australia. Her path from amateur singing in a Bukovynian village to international festivals shows that talent and hard work can open the stage to anyone, wherever they come from. Several generations know her songs, and her performances in russia are judged in different ways.

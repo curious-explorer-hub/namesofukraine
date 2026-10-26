@@ -5,7 +5,7 @@ role: "Innovator of modern sculpture"
 summary: "Can a hole be part of a sculpture? Kyiv-born Alexander Archipenko proved it can: he was the first to bring Cubism into sculpture, made the void and the hole part of the form, and influenced modern art in Europe and America."
 fun_fact: "In 1927 Archipenko patented the “Archipentura”, a device in which the picture gradually changed."
 misconception:
-  claim: "Archipenko is often labeled a “Russian sculptor” because he was born in the Russian Empire and studied in Moscow."
+  claim: "Archipenko is often labeled a “Russian sculptor” because he was born in the russian empire and studied in Moscow."
   truth: "Archipenko consistently identified himself as Ukrainian, was born and raised in Kyiv, and kept up his ties to Ukrainian culture abroad (portraits of Shevchenko and Franko, participation in the Ukrainian pavilion at the 1933 Chicago World’s Fair)."
 key_accomplishments:
   - "One of the first to use the void and the hole as an expressive element of sculpture"

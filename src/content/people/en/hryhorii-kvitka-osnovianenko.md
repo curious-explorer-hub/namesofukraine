@@ -31,13 +31,13 @@ He loved fireworks, too. Once, while preparing a display at home, he was caught 
 
 ## The argument that started a literature
 
-He began writing in Russian, but in the 1830s he turned more and more to Ukrainian. His story A Soldier’s Portrait (1833) follows in the footsteps of [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). The story goes that Petro Hulak-Artemovskyi, a Kharkiv professor, didn’t believe anything tender or moving could be written in Ukrainian. Kvitka, by then past fifty, answered with the novella Marusia.
+He began writing in russian, but in the 1830s he turned more and more to Ukrainian. His story A Soldier’s Portrait (1833) follows in the footsteps of [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/). The story goes that Petro Hulak-Artemovskyi, a Kharkiv professor, didn’t believe anything tender or moving could be written in Ukrainian. Kvitka, by then past fifty, answered with the novella Marusia.
 
 It came out in 1834 in his collection Little Russian Tales. The second volume, in 1837, brought The Witch of Konotop, which he had written back in 1833. And in 1854 his Poor Oksana appeared in French in Paris. These tales are why Kvitka is called the father of Ukrainian prose.
 
 ## Laughter on stage
 
-Kvitka also wrote comedies: Shelmenko the District Clerk (1831), Matchmaking at Honcharivka (1836) and Shelmenko the Orderly (1837). Shelmenko played to full houses in Kharkiv. Some critics see his Russian comedy The Visitor from the Capital as a forerunner of [Nikolai Gogol’s](/en/people/mykola-hohol/) The Government Inspector. In 1839 [Taras Shevchenko](/en/people/taras-shevchenko/) dedicated a poem to him, To Osnovianenko.
+Kvitka also wrote comedies: Shelmenko the District Clerk (1831), Matchmaking at Honcharivka (1836) and Shelmenko the Orderly (1837). Shelmenko played to full houses in Kharkiv. Some critics see his russian comedy The Visitor from the Capital as a forerunner of [Nikolai Gogol’s](/en/people/mykola-hohol/) The Government Inspector. In 1839 [Taras Shevchenko](/en/people/taras-shevchenko/) dedicated a poem to him, To Osnovianenko.
 
 Kvitka-Osnovianenko died in Kharkiv in 1843.
 

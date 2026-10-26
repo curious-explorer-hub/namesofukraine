@@ -21,7 +21,7 @@ Imagine a dictionary of about a thousand pages, holding some 60,000 rhyming pair
 
 ## The Odesa boy who chose Ukrainian
 
-Sviatoslav Karavanskyi was born on 24 December 1920 in Odesa, into a family of Ukrainian intelligentsia who had left turbulent Kyiv. He himself counted Russian as his native language, but from childhood he heard Ukrainian proverbs, songs and jokes, mostly from his mother. In 1938 he entered the Odesa Industrial Institute, and in 1940 he joined the army. In the summer of 1941 his unit was surrounded, and in spring 1942 he made it back to Odesa, then under Romanian occupation. There he grew close to young Ukrainians in the underground Organization of Ukrainian Nationalists (OUN), joined it in 1943 and ran a Ukrainian bookshop called Osnova.
+Sviatoslav Karavanskyi was born on 24 December 1920 in Odesa, into a family of Ukrainian intelligentsia who had left turbulent Kyiv. He himself counted russian as his native language, but from childhood he heard Ukrainian proverbs, songs and jokes, mostly from his mother. In 1938 he entered the Odesa Industrial Institute, and in 1940 he joined the army. In the summer of 1941 his unit was surrounded, and in spring 1942 he made it back to Odesa, then under Romanian occupation. There he grew close to young Ukrainians in the underground Organization of Ukrainian Nationalists (OUN), joined it in 1943 and ran a Ukrainian bookshop called Osnova.
 
 ## 25 years for refusing to inform
 
@@ -29,7 +29,7 @@ Karavanskyi was arrested in 1944. He was offered his freedom in exchange for rep
 
 ## Back behind bars
 
-In 1960, under an amnesty of 1955, his sentence was cut in half, and on 19 December 1960 Karavanskyi walked free. He worked as a translator and journalist, translated Jane Eyre and collected Ukrainian books for the Ukrainians of the Kuban. In 1964 he demanded that the education minister be held to account for university entrance exams in Russian, and in 1965 he wrote the article “On One Political Mistake” against the Russification of schools. On 13 November 1965 he was arrested again and sent back to the camps without trial to serve the rest of his old sentence. He went on hunger strike several times; in 1967 he was moved to Vladimir Prison. There he wrote down the accounts of fellow prisoners who had taken part in or witnessed the shooting of Polish officers at Katyn, and wrote an article about it that was smuggled out. In 1970 he was given a new sentence. In February 1979, still a prisoner, he announced that he was joining the Ukrainian Helsinki Group.
+In 1960, under an amnesty of 1955, his sentence was cut in half, and on 19 December 1960 Karavanskyi walked free. He worked as a translator and journalist, translated Jane Eyre and collected Ukrainian books for the Ukrainians of the Kuban. In 1964 he demanded that the education minister be held to account for university entrance exams in russian, and in 1965 he wrote the article “On One Political Mistake” against the Russification of schools. On 13 November 1965 he was arrested again and sent back to the camps without trial to serve the rest of his old sentence. He went on hunger strike several times; in 1967 he was moved to Vladimir Prison. There he wrote down the accounts of fellow prisoners who had taken part in or witnessed the shooting of Polish officers at Katyn, and wrote an article about it that was smuggled out. In 1970 he was given a new sentence. In February 1979, still a prisoner, he announced that he was joining the Ukrainian Helsinki Group.
 
 ## Dictionaries from across the ocean
 
@@ -37,4 +37,4 @@ On 30 November 1979 Karavanskyi and his wife, the former political prisoner Nina
 
 ## Why it matters today
 
-Sviatoslav Karavanskyi did not grow up with Ukrainian as his first language: he chose it, and paid for that choice with 31 years behind bars. Even behind barbed wire he worked for the language, collecting rhymes and translating, and once out of the camp he spoke openly against the Russification of schools. His dictionaries help people find the exact Ukrainian word instead of a borrowed Russian pattern. His life shows that a language is defended not by slogans but by daily work, and that anyone can choose it.
+Sviatoslav Karavanskyi did not grow up with Ukrainian as his first language: he chose it, and paid for that choice with 31 years behind bars. Even behind barbed wire he worked for the language, collecting rhymes and translating, and once out of the camp he spoke openly against the Russification of schools. His dictionaries help people find the exact Ukrainian word instead of a borrowed russian pattern. His life shows that a language is defended not by slogans but by daily work, and that anyone can choose it.

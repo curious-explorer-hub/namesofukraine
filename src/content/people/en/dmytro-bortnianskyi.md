@@ -5,7 +5,7 @@ role: "Composer and choral conductor"
 summary: "In 1776 his opera Creonte ran for a whole season in Venice, yet Ukraine first heard it only in 2024. Dmytro Bortnianskyi of Hlukhiv was a composer and conductor who wrote more than a hundred choral works and from 1796 directed the court choir in St Petersburg."
 fun_fact: "A whole branch of musicology, Bortnianskyi studies, is devoted to his life and music."
 misconception:
-  claim: "Bortnianskyi was a Russian composer."
+  claim: "Bortnianskyi was a russian composer."
   truth: "He was born in Hlukhiv in the Cossack Hetmanate and trained at the Hlukhiv singing school; he spent most of his life working in St Petersburg. Scholars call him a Ukrainian composer, and his choral works draw on Ukrainian folk melodies."
 key_accomplishments:
   - "Italian operas for the theatres of Venice and Modena, among them Creonte (1776)"
@@ -27,7 +27,7 @@ In 1769 the young man was sent to Italy to study with the Venetian composer Bald
 
 ## Master of the choir
 
-Back from Italy in 1779, Bortnianskyi became kapellmeister at the court of the heir to the throne in Gatchina and Pavlovsk, where he wrote songs and operas in French. His Concerto-Symphony of 1790 was long considered the first symphonic work composed in the Russian Empire. In 1796 he took charge of the court choir, whose singers were mostly Ukrainians, and raised it to a high standard. He wrote more than a hundred choral works, sacred and secular. In them he joined the old traditions of Ukrainian choral singing with the European music of his day, and he made wide use of Ukrainian folk melodies. Bortnianskyi died in St Petersburg in 1825. One of his tunes lives on: in the 19th century Prussian soldiers took it for the prayer "Ich bete an die Macht der Liebe" ("I worship the power of love"), which is still played at the German army's solemn ceremony, the Großer Zapfenstreich.
+Back from Italy in 1779, Bortnianskyi became kapellmeister at the court of the heir to the throne in Gatchina and Pavlovsk, where he wrote songs and operas in French. His Concerto-Symphony of 1790 was long considered the first symphonic work composed in the russian empire. In 1796 he took charge of the court choir, whose singers were mostly Ukrainians, and raised it to a high standard. He wrote more than a hundred choral works, sacred and secular. In them he joined the old traditions of Ukrainian choral singing with the European music of his day, and he made wide use of Ukrainian folk melodies. Bortnianskyi died in St Petersburg in 1825. One of his tunes lives on: in the 19th century Prussian soldiers took it for the prayer "Ich bete an die Macht der Liebe" ("I worship the power of love"), which is still played at the German army's solemn ceremony, the Großer Zapfenstreich.
 
 ## The opera that came back from Lisbon
 

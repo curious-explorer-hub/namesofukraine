@@ -5,8 +5,8 @@ role: "Military rocket designer, general"
 summary: "Neighbours reportedly complained to the governor that he was setting haystacks on fire. That was how Oleksandr Zasiadko, a descendant of Zaporozhian gunners from the Poltava region, tested gunpowder rockets; later he built launchers that fired six at once. A crater on the Moon bears his name."
 fun_fact: "For salvo fire Zasiadko designed a launcher that could fire six rockets at once, and it was light enough for a single soldier to carry."
 misconception:
-  claim: "Zasiadko was a Russian inventor."
-  truth: "He served in the army of the Russian Empire and rose to general there. But he was born in the Cossack town of Liutenka in the Poltava region, his father was chief gunner of the Zaporozhian Sich, and he tested his first rockets near his home town."
+  claim: "Zasiadko was a russian inventor."
+  truth: "He served in the army of the russian empire and rose to general there. But he was born in the Cossack town of Liutenka in the Poltava region, his father was chief gunner of the Zaporozhian Sich, and he tested his first rockets near his home town."
 key_accomplishments:
   - "From 1815 developed incendiary and explosive gunpowder rockets with a range of over 2 kilometres"
   - "Designed launchers for a single rocket and for a salvo of six"
@@ -23,7 +23,7 @@ Oleksandr Zasiadko’s neighbours, the story goes, once complained to the govern
 
 ## The son of a Sich gunner
 
-Zasiadko was born in 1779 in the Cossack town of Liutenka in the Poltava region. His family traced its roots to Yakiv Zasiadko, a colonel of the Lubny Regiment, and his father, Dmytro Zasiadko, was the last chief gunner of the Zaporozhian Sich. Oleksandr followed his father: he graduated from the cadet corps in St Petersburg and became an artillery officer in the Russian army. He crossed the Alps, fought the Turks in the Mediterranean and on the Danube and fought Napoleon’s armies, and was awarded a golden sword for bravery.
+Zasiadko was born in 1779 in the Cossack town of Liutenka in the Poltava region. His family traced its roots to Yakiv Zasiadko, a colonel of the Lubny Regiment, and his father, Dmytro Zasiadko, was the last chief gunner of the Zaporozhian Sich. Oleksandr followed his father: he graduated from the cadet corps in St Petersburg and became an artillery officer in the russian army. He crossed the Alps, fought the Turks in the Mediterranean and on the Danube and fought Napoleon’s armies, and was awarded a golden sword for bravery.
 
 ## Rockets from the Poltava region
 

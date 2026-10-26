@@ -8,7 +8,7 @@ key_accomplishments:
   - "Volunteered for the army in August 2014; fought in the 3rd Separate Tank Battalion “Zvirobii” near the Butivka-Donetska mine and Marinka"
   - "Order of Bohdan Khmelnytskyi, 3rd class (2015)"
   - "Returned to the 3rd Separate Tank Brigade on 26 February 2022, two days after the full-scale invasion began"
-  - "In March 2022 his company of six tanks fought more than twenty Russian tanks near Topolske; nine were confirmed destroyed"
+  - "In March 2022 his company of six tanks fought more than twenty russian tanks near Topolske; nine were confirmed destroyed"
   - "Hero of Ukraine with the Gold Star order (decree No. 201/2022 of 2 April 2022)"
   - "As of March 2025, deputy commander of the 9th Battalion of the 3rd Separate Iron Tank Brigade"
 birthplace_name: "Dvirkivshchyna (Kyiv region)"
@@ -32,7 +32,7 @@ In August 2014 he volunteered for the army. With the 3rd Separate Tank Battalion
 
 The civilian job lasted just six weeks. On 26 February 2022, two days after the full-scale invasion began, Ponomarenko returned to his brigade. On 12 March his tank company arrived near Barvinkove and joined the long battles for the Kharkiv region.
 
-Near Topolske the company attacked together with paratroopers of the 25th Brigade. Scouts had reported only a small enemy force; in battle it turned out to be far larger. Nine Russian tanks were confirmed destroyed by sight. When one Ukrainian tank was hit, the commander's tank covered it with fire, the vehicle was pulled off the battlefield and its crew was taken to safety. On 2 April 2022 Captain Ponomarenko was made a Hero of Ukraine. He says that battle wasn't special: in every fight you give everything you've got.
+Near Topolske the company attacked together with paratroopers of the 25th Brigade. Scouts had reported only a small enemy force; in battle it turned out to be far larger. Nine russian tanks were confirmed destroyed by sight. When one Ukrainian tank was hit, the commander's tank covered it with fire, the vehicle was pulled off the battlefield and its crew was taken to safety. On 2 April 2022 Captain Ponomarenko was made a Hero of Ukraine. He says that battle wasn't special: in every fight you give everything you've got.
 
 Soon afterwards he became a deputy battalion commander. As of March 2025, Ponomarenko was deputy commander of the 9th Battalion of the 3rd Separate Iron Tank Brigade. He argues that veterans with combat experience should be the ones training new soldiers.
 

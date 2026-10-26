@@ -19,7 +19,7 @@ Can you feel Ukrainian far away from Ukraine? Oleh Skrypka says that is exactly 
 
 ## From the Polytechnic to the rock club
 
-Oleh Skrypka was born in 1964 in Tajikistan, to a family of Ukrainian settlers: his father was a doctor and his mother a kindergarten teacher. He spent his childhood in Russia. In 1986 he graduated from the radio engineering faculty of the Kyiv Polytechnic Institute, and that same year the band Vopli Vidopliassova was formed in Kyiv. Skrypka sang and played button accordion, guitar and trumpet. In 1987 the band made its debut at the Kyiv Rock Club, won the Rock Parade festival with the song “Tantsi” (Dances) and was voted band of the year by listeners.
+Oleh Skrypka was born in 1964 in Tajikistan, to a family of Ukrainian settlers: his father was a doctor and his mother a kindergarten teacher. He spent his childhood in russia. In 1986 he graduated from the radio engineering faculty of the Kyiv Polytechnic Institute, and that same year the band Vopli Vidopliassova was formed in Kyiv. Skrypka sang and played button accordion, guitar and trumpet. In 1987 the band made its debut at the Kyiv Rock Club, won the Rock Parade festival with the song “Tantsi” (Dances) and was voted band of the year by listeners.
 
 ## “Vesna” and the return
 
@@ -31,4 +31,4 @@ In 2004 Skrypka organized the first Kraina Mrii ethnic festival, named like the 
 
 ## Why it matters today
 
-Oleh Skrypka is called a legend of Ukrainian ethno-rock: in his songs and at Kraina Mrii, folk tradition sounds modern. He showed that tradition doesn’t belong in a museum: it can be sung on a rock stage, and at a festival people can join in rather than just listen. His path shows that you can find your Ukrainian self even if you were born in Tajikistan and grew up in Russia. After the full-scale invasion began, his family stayed in Kyiv, and in 2024 he turned his jubilee concert into a collection “for Victory.” Anyone looking for their roots today can start with a song.
+Oleh Skrypka is called a legend of Ukrainian ethno-rock: in his songs and at Kraina Mrii, folk tradition sounds modern. He showed that tradition doesn’t belong in a museum: it can be sung on a rock stage, and at a festival people can join in rather than just listen. His path shows that you can find your Ukrainian self even if you were born in Tajikistan and grew up in russia. After the full-scale invasion began, his family stayed in Kyiv, and in 2024 he turned his jubilee concert into a collection “for Victory.” Anyone looking for their roots today can start with a song.

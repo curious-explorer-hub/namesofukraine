@@ -22,9 +22,9 @@ In 2016, in his late thirties, Andrii volunteered for a contract with the Armed 
 
 ## Defending the Kyiv region
 
-When the full-scale invasion began, Norov planned and organized the defense of the Kyiv hydroelectric plant in Vyshhorod, just outside Kyiv. On the very first day his unit destroyed several enemy helicopters, and later an armored vehicle, supply trucks and an ammunition depot. His soldiers fought their way into a small town in the Kyiv region and freed it. On 5 March 2022 Andrii was promoted to captain. On the night of 12 March he led a reinforced platoon sent to stop a Russian breakthrough. The platoon halted the advance, and the enemy answered with Grad rocket fire.
+When the full-scale invasion began, Norov planned and organized the defense of the Kyiv hydroelectric plant in Vyshhorod, just outside Kyiv. On the very first day his unit destroyed several enemy helicopters, and later an armored vehicle, supply trucks and an ammunition depot. His soldiers fought their way into a small town in the Kyiv region and freed it. On 5 March 2022 Andrii was promoted to captain. On the night of 12 March he led a reinforced platoon sent to stop a russian breakthrough. The platoon halted the advance, and the enemy answered with Grad rocket fire.
 
-Captain Andrii Norov was killed in the Kyiv region on 13 March 2022, when Russian forces shelled a convoy carrying wounded soldiers. He was 44. On 19 March he was posthumously made a Hero of Ukraine.
+Captain Andrii Norov was killed in the Kyiv region on 13 March 2022, when russian forces shelled a convoy carrying wounded soldiers. He was 44. On 19 March he was posthumously made a Hero of Ukraine.
 
 ## Why it matters today
 

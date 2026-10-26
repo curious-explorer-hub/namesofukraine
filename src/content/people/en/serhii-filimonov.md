@@ -26,13 +26,13 @@ Back from the front, Filimonov turned to activism. In 2016 he took charge of the
 
 ## Alongside “Da Vinci”
 
-After Russia’s full-scale invasion in 2022, Honor’s members formed their own unit. In April that year it joined [Dmytro Kotsiubailo](/en/people/dmytro-kotsiubailo/)’s assault company to form the “Da Vinci Wolves” battalion, and Filimonov took command of the Honor company. In July 2022 he was wounded by a Grad rocket. He came back and fought near Kupiansk, Bakhmut and Soledar.
+After russia’s full-scale invasion in 2022, Honor’s members formed their own unit. In April that year it joined [Dmytro Kotsiubailo](/en/people/dmytro-kotsiubailo/)’s assault company to form the “Da Vinci Wolves” battalion, and Filimonov took command of the Honor company. In July 2022 he was wounded by a Grad rocket. He came back and fought near Kupiansk, Bakhmut and Soledar.
 
 Kotsiubailo was killed near Bakhmut in March 2023. In February 2024 Filimonov took command of the 108th Separate Assault Battalion “Da Vinci Wolves”, named after “Da Vinci”. Within three years he received all three classes of the Order of Bohdan Khmelnytskyi, and as of October 2026 he holds the rank of major.
 
 ## Debates and assessments
 
-Filimonov is one of the most controversial public figures among Ukraine’s commanders. Until 2019 he led the Kyiv branch of the National Corps, a party that grew out of Azov; the US State Department has called the party a “nationalist hate group”. In 2022 VICE described Filimonov as a far-right influencer, and experts it interviewed described Honor as a militant street movement. Filimonov has rejected accusations of neo-Nazism and racism and has named the movement’s guiding idea as the “struggle for justice and Ukrainian independence”. VICE also notes that Russian propaganda uses such groups to smear Ukraine’s forces as a whole.
+Filimonov is one of the most controversial public figures among Ukraine’s commanders. Until 2019 he led the Kyiv branch of the National Corps, a party that grew out of Azov; the US State Department has called the party a “nationalist hate group”. In 2022 VICE described Filimonov as a far-right influencer, and experts it interviewed described Honor as a militant street movement. Filimonov has rejected accusations of neo-Nazism and racism and has named the movement’s guiding idea as the “struggle for justice and Ukrainian independence”. VICE also notes that russian propaganda uses such groups to smear Ukraine’s forces as a whole.
 
 His street activism came with clashes and criminal cases: in 2021, for example, he was served a notice of suspicion of hooliganism over clashes outside the Office of the President. When he was named battalion commander in February 2024, the command of the unit the battalion split from at first publicly disputed it. In July 2026 Filimonov said he had been reprimanded by the Commander-in-Chief, Oleksandr Syrskyi, shortly after he had publicly listed problems in the army. The General Staff denied that the decision was politically motivated.
 

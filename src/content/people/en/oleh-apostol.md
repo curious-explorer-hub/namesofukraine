@@ -30,13 +30,13 @@ From 2014 Apostol fought in eastern Ukraine. Again and again he stormed the occu
 
 ## Kherson, Voznesensk, Popasna
 
-In the first days of the full-scale war, on 26–27 February 2022, Apostol led an air assault company out of encircled Kherson without losing its people or equipment. In March he commanded the defense of Voznesensk in the Mykolaiv region. A Russian brigade stormed the town twice, but Voznesensk held, and the enemy could not encircle Mykolaiv. After that, about a dozen towns and villages were freed under his command.
+In the first days of the full-scale war, on 26–27 February 2022, Apostol led an air assault company out of encircled Kherson without losing its people or equipment. In March he commanded the defense of Voznesensk in the Mykolaiv region. A russian brigade stormed the town twice, but Voznesensk held, and the enemy could not encircle Mykolaiv. After that, about a dozen towns and villages were freed under his command.
 
-In June 2022 Apostol helped hold back a Russian breakthrough from Popasna in the Luhansk region and kept it from reaching Bakhmut and Soledar.
+In June 2022 Apostol helped hold back a russian breakthrough from Popasna in the Luhansk region and kept it from reaching Bakhmut and Soledar.
 
 ## Commander of the 95th
 
-In November 2022 Apostol took command of the 95th Separate Air Assault Brigade. Its units defended and attacked in the Donetsk, Kharkiv and Luhansk regions. On 18 February 2024, while the brigade was fighting on the Kupiansk front, Colonel Apostol was made a Hero of Ukraine with the Gold Star order. Later that year he took part in the offensive in Russia’s Kursk region.
+In November 2022 Apostol took command of the 95th Separate Air Assault Brigade. Its units defended and attacked in the Donetsk, Kharkiv and Luhansk regions. On 18 February 2024, while the brigade was fighting on the Kupiansk front, Colonel Apostol was made a Hero of Ukraine with the Gold Star order. Later that year he took part in the offensive in russia’s Kursk region.
 
 ## General
 

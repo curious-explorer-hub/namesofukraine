@@ -34,7 +34,7 @@ After the Olympics Klitschko turned professional. In 2000 he first became WBO wo
 
 ## Outside the ring
 
-The Klitschko brothers set up the Klitschko Brothers Foundation in 2003. In 2017 Wladimir was awarded the Order of Freedom. On 2 February 2022, before Russia’s full-scale invasion, he signed up for the Territorial Defence Forces in Kyiv.
+The Klitschko brothers set up the Klitschko Brothers Foundation in 2003. In 2017 Wladimir was awarded the Order of Freedom. On 2 February 2022, before russia’s full-scale invasion, he signed up for the Territorial Defence Forces in Kyiv.
 
 ## Why it matters today
 

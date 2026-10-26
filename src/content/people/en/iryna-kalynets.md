@@ -14,7 +14,7 @@ key_accomplishments:
 birthplace_name: "Lviv"
 image_alt: "A young Iryna Kalynets in a light hat with flowers and a coat with a fur collar, 1960s"
 gallery:
-  - alt: "Two black-and-white photographs of Iryna Kalynets, front and profile, in a high-necked sweater, with her name and year of birth handwritten in Russian below"
+  - alt: "Two black-and-white photographs of Iryna Kalynets, front and profile, in a high-necked sweater, with her name and year of birth handwritten in russian below"
     caption: "Photographs of the arrested Iryna Kalynets in her KGB file, 1972"
 ---
 

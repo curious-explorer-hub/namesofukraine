@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/olha-kharlan.md
 name: "Olga Kharlan"
 role: "Sabre fencer, six Olympic medals"
-summary: "She won the bout 15–7, refused to shake her Russian opponent's hand, and was disqualified. Olga Kharlan, a sabre fencer from Mykolaiv, is a two-time Olympic champion, a six-time world champion and the athlete with the most Olympic medals ever won for Ukraine."
+summary: "She won the bout 15–7, refused to shake her russian opponent's hand, and was disqualified. Olga Kharlan, a sabre fencer from Mykolaiv, is a two-time Olympic champion, a six-time world champion and the athlete with the most Olympic medals ever won for Ukraine."
 fun_fact: "A one-of-a-kind Barbie doll was made in Olga Kharlan's likeness. It sold at auction for more than 10,000 dollars, and the money went to the rehabilitation of wounded Ukrainian soldiers."
 key_accomplishments:
   - "Olympic champion in the team event (Beijing, 2008; Paris, 2024) and team silver medallist (Rio de Janeiro, 2016)"
@@ -35,14 +35,14 @@ Mattel created a one-of-a-kind Barbie doll in Olga Kharlan's honour in 2020, as 
 
 ## Disqualified for a win
 
-At the 2023 World Championships in Milan, Olga Kharlan beat Russia's Anna Smirnova 15–7. Her opponent was competing as a "neutral" athlete. After the bout Kharlan did not shake her hand; she held out her sabre instead, offering to tap blades. The International Fencing Federation disqualified her. She later said she had thought it was the end of her career.
+At the 2023 World Championships in Milan, Olga Kharlan beat russia's Anna Smirnova 15–7. Her opponent was competing as a "neutral" athlete. After the bout Kharlan did not shake her hand; she held out her sabre instead, offering to tap blades. The International Fencing Federation disqualified her. She later said she had thought it was the end of her career.
 
 But the public outcry and the world's solidarity forced the International Fencing Federation to lift the penalty, and the International Olympic Committee guaranteed Olga a place at the Olympics. After this case, the handshake rules in world fencing were officially changed.
 
 ## Paris 2024
 
-Kharlan won Ukraine's first medal of those Games, a bronze in the individual event, on 29 July 2024. On 3 August, in the team final against South Korea, she fenced the last bout, levelled the score at 40–40 and then scored five touches in a row. Ukraine won 45–42 and took its first gold in Paris. Kharlan dedicated her medal to the people of Ukraine, to its defenders and to the athletes Russia has killed.
+Kharlan won Ukraine's first medal of those Games, a bronze in the individual event, on 29 July 2024. On 3 August, in the team final against South Korea, she fenced the last bout, levelled the score at 40–40 and then scored five touches in a row. Ukraine won 45–42 and took its first gold in Paris. Kharlan dedicated her medal to the people of Ukraine, to its defenders and to the athletes russia has killed.
 
 ## Why it matters today
 
-Olga Kharlan proved you can win on the piste without giving up your dignity: refusing to shake a Russian opponent's hand cost her a disqualification, but the world took her side, and fencing changed its rules. Six Olympic medals, more than anyone else has won for Ukraine, have raised the Ukrainian flag over the world's podiums again and again. She dedicates her wins to the people of Ukraine and its defenders, and turns her fame into help for wounded soldiers. Anyone standing up for what's right, even when it's frightening, can remember the sabre she held out instead of her hand.
+Olga Kharlan proved you can win on the piste without giving up your dignity: refusing to shake a russian opponent's hand cost her a disqualification, but the world took her side, and fencing changed its rules. Six Olympic medals, more than anyone else has won for Ukraine, have raised the Ukrainian flag over the world's podiums again and again. She dedicates her wins to the people of Ukraine and its defenders, and turns her fame into help for wounded soldiers. Anyone standing up for what's right, even when it's frightening, can remember the sabre she held out instead of her hand.

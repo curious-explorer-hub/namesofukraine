@@ -10,13 +10,13 @@ key_accomplishments:
   - "European (1955) and world (1958) all-around champion; four individual titles at the 1958 World Championships"
   - "Member of the International Gymnastics Federation's Technical Committee (1968–1992); judge for Ukraine at the 2004 Olympics"
   - "Inducted into the International Gymnastics Hall of Fame (2002); honorary citizen of Kyiv"
-birthplace_name: "Ishim (Tyumen Oblast, Russia)"
+birthplace_name: "Ishim (Tyumen Oblast, russia)"
 image_alt: "Borys Shakhlin in the white Soviet team kit performing on the rings at the World Championships in Dortmund, 1966"
 ---
 
 ## A greatcoat and a bundle
 
-Did you know that one of the most successful gymnasts in Olympic history arrived in Kyiv in a soldier's greatcoat, with everything he owned in a bundle? Borys Shakhlin was born on 27 January 1932 in Ishim, a town in Siberia (now Tyumen Oblast, Russia). He lost both parents at 12 and was raised by his grandmother.
+Did you know that one of the most successful gymnasts in Olympic history arrived in Kyiv in a soldier's greatcoat, with everything he owned in a bundle? Borys Shakhlin was born on 27 January 1932 in Ishim, a town in Siberia (now Tyumen Oblast, russia). He lost both parents at 12 and was raised by his grandmother.
 
 After a physical education college in Sverdlovsk, his coach put him in touch with the Kyiv coach Oleksandr Mishakov. That is how Shakhlin came to Kyiv. He lived in the dormitory of the Institute of Physical Culture, in a gym fitted with 50 beds. Kyiv stayed his home for the rest of his life: he studied, trained and competed for a Kyiv club there, although abroad, like every athlete from Ukraine at the time, he competed for the Soviet team.
 

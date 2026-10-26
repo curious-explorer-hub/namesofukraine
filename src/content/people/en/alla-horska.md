@@ -32,7 +32,7 @@ For Kyiv University in 1964, Horska and other artists made the stained-glass win
 
 ## A mosaic behind a brick wall
 
-In the 1960s Horska’s mosaics went up in Donetsk, Mariupol and Kyiv, among them on School No. 5 in Donetsk. In 1967 a team of artists she led decorated the Ukraina restaurant in Mariupol with the mosaics Kestrel and Tree of Life. Kestrel even contains pieces of stainless-steel spoons. Later Horska’s name was struck from the lists of authors, and a Party order called for the mosaics to be knocked down. Instead, local artists hid them behind a brick wall, and they were uncovered only in 2008, during a renovation. In 2022 Russian shelling badly damaged Kestrel. Present-day artists recreated the mosaic, and in 2025 [Oleksandr Usyk](/en/people/oleksandr-usyk/) unveiled the copy in Trafalgar Square, London.
+In the 1960s Horska’s mosaics went up in Donetsk, Mariupol and Kyiv, among them on School No. 5 in Donetsk. In 1967 a team of artists she led decorated the Ukraina restaurant in Mariupol with the mosaics Kestrel and Tree of Life. Kestrel even contains pieces of stainless-steel spoons. Later Horska’s name was struck from the lists of authors, and a Party order called for the mosaics to be knocked down. Instead, local artists hid them behind a brick wall, and they were uncovered only in 2008, during a renovation. In 2022 russian shelling badly damaged Kestrel. Present-day artists recreated the mosaic, and in 2025 [Oleksandr Usyk](/en/people/oleksandr-usyk/) unveiled the copy in Trafalgar Square, London.
 
 ## Beside those on trial
 

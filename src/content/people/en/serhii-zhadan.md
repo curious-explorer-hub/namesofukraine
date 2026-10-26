@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/serhii-zhadan.md
 name: "Serhii Zhadan"
 role: "Poet, novelist, volunteer"
-summary: "On 1 March 2014, pro-Russian militants surrounded a Kharkiv poet and ordered him to kneel. He refused and was beaten with a bat. Serhii Zhadan, author of Voroshilovgrad and The Orphanage, stayed in Kharkiv after 2022 and in 2024 joined the Khartiia National Guard brigade."
+summary: "On 1 March 2014, pro-russian militants surrounded a Kharkiv poet and ordered him to kneel. He refused and was beaten with a bat. Serhii Zhadan, author of Voroshilovgrad and The Orphanage, stayed in Kharkiv after 2022 and in 2024 joined the Khartiia National Guard brigade."
 fun_fact: "Zhadan's postgraduate thesis wasn't about his contemporaries at all - it was on Ukrainian Futurism of the 1920s, a movement whose loose, mischievous language you can still hear in his own writing."
 key_accomplishments:
   - "Author of the novels Voroshilovgrad (2010), Mesopotamia (2014) and The Orphanage (2017), translated into dozens of languages"
@@ -21,7 +21,7 @@ quotes:
 
 Serhii Zhadan was born on 23 August 1974 in Starobilsk, in the Luhansk region. He graduated from Kharkiv Pedagogical University in 1996 and soon became one of the sharpest new voices in Ukrainian writing: ironic, blunt, and attentive to ordinary people living through unsettled times.
 
-On 1 March 2014, during a pro-Russian rally outside the Kharkiv regional administration building, militants beat Zhadan and demanded he kneel. He refused. The moment became a kind of marker for the stance the Kharkiv writer would keep for years afterward.
+On 1 March 2014, during a pro-russian rally outside the Kharkiv regional administration building, militants beat Zhadan and demanded he kneel. He refused. The moment became a kind of marker for the stance the Kharkiv writer would keep for years afterward.
 
 ## The city he writes about
 

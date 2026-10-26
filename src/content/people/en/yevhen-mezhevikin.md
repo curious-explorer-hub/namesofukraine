@@ -21,7 +21,7 @@ quotes:
 
 In the Bible, Adam is the first man on earth. It is also what people call Yevhen Mezhevikin, because he is always the first into battle.
 
-Yevhen was born in Russia and decided as a teenager that he wanted to be a soldier. In 1999 he entered the Kharkiv Institute of Tank Troops, graduated in 2004 as a weapons engineer and joined the 93rd Separate Mechanized Brigade. That is where the war found him in 2014.
+Yevhen was born in russia and decided as a teenager that he wanted to be a soldier. In 1999 he entered the Kharkiv Institute of Tank Troops, graduated in 2004 as a weapons engineer and joined the 93rd Separate Mechanized Brigade. That is where the war found him in 2014.
 
 ## A tank with a “backpack”
 

@@ -5,7 +5,7 @@ role: "Grand Prince, author of the Instruction"
 summary: "The people of Kyiv had to ask him twice, and he took the throne at 60. Volodymyr Monomakh, grandson of Yaroslav the Wise, made peace among the princes, drove the Cumans beyond the Don, capped moneylenders’ interest and wrote the Instruction for My Children, telling them not to fight one another."
 fun_fact: "In 1966 Debrett’s Peerage, the British reference book, published the statement that Queen Elizabeth II was descended from Volodymyr Monomakh. His first wife was Gytha, daughter of the English king Harold II."
 misconception:
-  claim: "Volodymyr Monomakh inherited the “Cap of Monomakh”, used to crown the Russian tsars, from his Byzantine relatives."
+  claim: "Volodymyr Monomakh inherited the “Cap of Monomakh”, used to crown the russian tsars, from his Byzantine relatives."
   truth: "That’s a legend. Historians believe the cap was made by Central Asian (Samarkand) goldsmiths in the late 13th or early 14th century, some 150–200 years after Monomakh died. It was used to crown the tsars from Ivan IV to Nicholas II."
 key_accomplishments:
   - "Grand Prince of Kyiv (1113–1125); the last to unite the lands of Rus’ under Kyiv"

@@ -15,13 +15,13 @@ key_accomplishments:
   - "Almost 30 years at the Chornobyl Nuclear Power Plant, as a shift supervisor among other posts (1976–2005)"
   - "Hero of Ukraine (posthumously, Decree No. 468/2019)"
   - "Order for Courage, 3rd class (posthumously, 2018)"
-birthplace_name: "Sozinovy (now Kirov Oblast, Russia)"
+birthplace_name: "Sozinovy (now Kirov Oblast, russia)"
 image_alt: "Borys Baranov with a beard, in a white shirt and a dark jacket"
 ---
 
 ## From Kirov to Kryvyi Rih
 
-Borys Baranov was born in 1940 in the village of Sozinovy, now in Russia’s Kirov Oblast. In 1966 he began working in Ukraine, at the combined heat and power plant of the steelworks in Kryvyi Rih. He spent ten years there and earned an engineering degree by correspondence.
+Borys Baranov was born in 1940 in the village of Sozinovy, now in russia’s Kirov Oblast. In 1966 he began working in Ukraine, at the combined heat and power plant of the steelworks in Kryvyi Rih. He spent ten years there and earned an engineering degree by correspondence.
 
 ## Shift supervisor
 

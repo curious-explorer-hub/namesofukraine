@@ -29,7 +29,7 @@ Ig2000 was Ihor Kostenko. He was born on 31 December 1991 in the village of Zubr
 
 From the first days of the Euromaidan, Ihor joined the student protests in Lviv that demanded the signing of the EU Association Agreement. He went to Kyiv with friends several times and was on the Maidan on the night of 30 November 2013, when riot police broke up the students’ protest. He set off for the capital for the last time with other Lviv students on 18 February 2014.
 
-Ihor Kostenko was killed on Instytutska Street in Kyiv on 20 February 2014, as protesters moved up the street. He was 22. The historian [Bohdan Solchanyk](/en/people/bohdan-solchanyk/), a graduate of the same university, was killed on Instytutska that same morning. In 2023 the Sviatoshynskyi District Court of Kyiv found three former officers of the Berkut riot police guilty of killing protesters on the Maidan; back in 2019 they had been released from custody in a prisoner exchange with Russia.
+Ihor Kostenko was killed on Instytutska Street in Kyiv on 20 February 2014, as protesters moved up the street. He was 22. The historian [Bohdan Solchanyk](/en/people/bohdan-solchanyk/), a graduate of the same university, was killed on Instytutska that same morning. In 2023 the Sviatoshynskyi District Court of Kyiv found three former officers of the Berkut riot police guilty of killing protesters on the Maidan; back in 2019 they had been released from custody in a prisoner exchange with russia.
 
 ## Why it matters today
 

@@ -3,7 +3,7 @@
 name: "Nataliia Kobrynska"
 role: "Writer, women’s movement pioneer"
 summary: "She married on the condition that she would not just keep house but work for her people. In 1884 Nataliia Kobrynska founded the first Ukrainian feminist organization, and with Olena Pchilka she published the first women’s almanac, The First Wreath (1887)."
-fun_fact: "Kobrynska wrote in five languages: Ukrainian, Russian, Polish, German and French."
+fun_fact: "Kobrynska wrote in five languages: Ukrainian, russian, Polish, German and French."
 key_accomplishments:
   - "Founded the Society of Ruthenian Women in Stanyslaviv (1884)"
   - "Compiled The First Wreath (1887), the first Ukrainian women’s almanac, with Olena Pchilka"

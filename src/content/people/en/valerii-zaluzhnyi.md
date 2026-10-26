@@ -22,9 +22,9 @@ He was born on 8 July 1973 in Novohrad-Volynskyi (now Zviahel), in the Zhytomyr 
 
 ## Commander-in-Chief
 
-On 27 July 2021 Zaluzhnyi was appointed Commander-in-Chief of the Armed Forces of Ukraine, seven months before Russia's full-scale invasion. He led the army through the first two years of the war. In March 2022 he was made a full general, and in May Time magazine put him on its list of the world's 100 most influential people.
+On 27 July 2021 Zaluzhnyi was appointed Commander-in-Chief of the Armed Forces of Ukraine, seven months before russia's full-scale invasion. He led the army through the first two years of the war. In March 2022 he was made a full general, and in May Time magazine put him on its list of the world's 100 most influential people.
 
-In early November 2023 Zaluzhnyi gave an interview to the British magazine The Economist and published an essay, "Modern Positional Warfare and How to Win It". The war, he wrote, was gradually turning positional: the two sides had reached technological and tactical parity, and the front was thick with mines. A war like that suits Russia, because it drags on. To break out of it, Ukraine needed air superiority, ways to breach deep minefields, better counter-battery fire, trained reserves and more electronic warfare.
+In early November 2023 Zaluzhnyi gave an interview to the British magazine The Economist and published an essay, "Modern Positional Warfare and How to Win It". The war, he wrote, was gradually turning positional: the two sides had reached technological and tactical parity, and the front was thick with mines. A war like that suits russia, because it drags on. To break out of it, Ukraine needed air superiority, ways to breach deep minefields, better counter-battery fire, trained reserves and more electronic warfare.
 
 ## From the army to diplomacy
 

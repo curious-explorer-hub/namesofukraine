@@ -31,7 +31,7 @@ In 2017, at a European Championships held at home in Ukraine, he won gold on the
 
 ## A coach in wartime
 
-After he stopped competing, Kvasha opened his own club in Ukraine and coached the national team. When Russia launched its full-scale invasion in February 2022, he stayed in Ukraine and made sure his divers moved safely to other countries in Europe. Later that year, at the World Junior Championships in Montreal, his divers made the top six. In 2023 Kvasha became head coach and program director of a diving club in Ottawa, Canada.
+After he stopped competing, Kvasha opened his own club in Ukraine and coached the national team. When russia launched its full-scale invasion in February 2022, he stayed in Ukraine and made sure his divers moved safely to other countries in Europe. Later that year, at the World Junior Championships in Montreal, his divers made the top six. In 2023 Kvasha became head coach and program director of a diving club in Ottawa, Canada.
 
 ## Why it matters today
 

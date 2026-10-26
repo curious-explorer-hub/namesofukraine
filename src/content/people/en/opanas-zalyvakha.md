@@ -18,7 +18,7 @@ quotes:
 
 ## “And who are you?”
 
-An art institute in Leningrad. A Czech classmate asks Panas what nationality he is, what his art is, and whether he is Russian. “No, I’m Ukrainian,” he says. And what can he tell her about Ukrainian art? Nothing. Opanas Zalyvakha was born in 1925 in the village of Husynka in the Kharkiv region, but in 1933, the years of the Holodomor, the man-made famine, his family moved to the Soviet Far East. There even his birthday, 26 November, was written down by an army draft office: they examined the young conscript and “set” the date. He spent nearly 30 years in Russia and had forgotten many Ukrainian words, or never known them.
+An art institute in Leningrad. A Czech classmate asks Panas what nationality he is, what his art is, and whether he is russian. “No, I’m Ukrainian,” he says. And what can he tell her about Ukrainian art? Nothing. Opanas Zalyvakha was born in 1925 in the village of Husynka in the Kharkiv region, but in 1933, the years of the Holodomor, the man-made famine, his family moved to the Soviet Far East. There even his birthday, 26 November, was written down by an army draft office: they examined the young conscript and “set” the date. He spent nearly 30 years in russia and had forgotten many Ukrainian words, or never known them.
 
 ## A dictation on the floor
 
@@ -38,4 +38,4 @@ In 1970 friends, Horska among them, welcomed him back in Kyiv. In Ivano-Frankivs
 
 ## Why it matters today
 
-Opanas Zalyvakha showed that it is never too late to find your way back to your roots: he spent nearly 30 years in Russia, and at 35 he sat down with friends for a dictation and learned the language again. He gave his art to Ukrainian history and faith, and neither the sentence nor the camp made him put down his brush. In 2017 a bronze monument was unveiled on Nezalezhnosti Street in Ivano-Frankivsk, where he used to walk: the painter sits on a bench at his easel. Anyone just starting to look for what is theirs can take heart: you can begin at any age.
+Opanas Zalyvakha showed that it is never too late to find your way back to your roots: he spent nearly 30 years in russia, and at 35 he sat down with friends for a dictation and learned the language again. He gave his art to Ukrainian history and faith, and neither the sentence nor the camp made him put down his brush. In 2017 a bronze monument was unveiled on Nezalezhnosti Street in Ivano-Frankivsk, where he used to walk: the painter sits on a bench at his easel. Anyone just starting to look for what is theirs can take heart: you can begin at any age.

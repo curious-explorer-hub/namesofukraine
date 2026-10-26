@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/pavlo-fedosenko.md
 name: "Pavlo Fedosenko"
 role: "92nd Brigade commander, Hero of Ukraine"
-summary: "Rubber batons and flare pistols: that is what Pavlo Fedosenko's soldiers found in a Russian National Guard column they destroyed outside Kharkiv. The 92nd Brigade commander from Kryvyi Rih organized the defence of Kharkiv in 2022; that autumn his brigade pushed to Kupiansk. Hero of Ukraine."
+summary: "Rubber batons and flare pistols: that is what Pavlo Fedosenko's soldiers found in a russian National Guard column they destroyed outside Kharkiv. The 92nd Brigade commander from Kryvyi Rih organized the defence of Kharkiv in 2022; that autumn his brigade pushed to Kupiansk. Hero of Ukraine."
 fun_fact: "On 22–23 February 2022, before the invasion began, Fedosenko had already moved his brigade's battalions up to the border, where they started digging trenches and building fortifications."
 key_accomplishments:
   - "Graduated from the Kharkiv Higher Tank Command School (1995), later earned a master's at the National Defence University of Ukraine"
@@ -21,7 +21,7 @@ quotes:
 
 ## Batons instead of weapons
 
-What did Russia's National Guard bring with it to "restore order" in Kharkiv? When soldiers of the 92nd Brigade destroyed one of its columns near Mala Rohan and Tsyrkuny, they found no super-weapons, just rubber batons, flare pistols and rubber bullets for breaking up protests. That was when brigade commander Pavlo Fedosenko, call sign "Maestro", understood: the enemy had come expecting a parade.
+What did russia's National Guard bring with it to "restore order" in Kharkiv? When soldiers of the 92nd Brigade destroyed one of its columns near Mala Rohan and Tsyrkuny, they found no super-weapons, just rubber batons, flare pistols and rubber bullets for breaking up protests. That was when brigade commander Pavlo Fedosenko, call sign "Maestro", understood: the enemy had come expecting a parade.
 
 ## From Kryvbas to brigade commander
 

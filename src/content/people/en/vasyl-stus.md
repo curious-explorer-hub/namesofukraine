@@ -18,7 +18,7 @@ quotes:
   - text: "My people are going through torment and suffering, but they will live, because they have a soul"
     source: "A saying often found in documentary and biographical materials about the poet, including his letters"
 gallery:
-  - alt: "Two black-and-white photographs of Vasyl Stus from his criminal file, in profile and full face, in a dark jacket, with his name and year of birth written in Russian below"
+  - alt: "Two black-and-white photographs of Vasyl Stus from his criminal file, in profile and full face, in a dark jacket, with his name and year of birth written in russian below"
     caption: "Photographs of Vasyl Stus from his KGB file"
 ---
 

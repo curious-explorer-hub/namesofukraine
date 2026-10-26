@@ -26,7 +26,7 @@ Vitalii was born in 1989 in Odesa, studied at an Interior Ministry academy in Kh
 
 From the first day of the full-scale invasion, Khvat’s group defended Mariupol as part of the Azov regiment, commanded by [Denys Prokopenko](/en/people/denys-prokopenko/). The snipers blew up bridges in the enemy’s path and set ambushes to buy time for the city’s defence. When the fighting reached the streets, Blazhko scouted with a drone and directed his snipers. For their work in Mariupol he was promoted to major ahead of schedule. After his fourth wound he refused to be evacuated, including by helicopter, and stayed with his comrades.
 
-Major Vitalii Blazhko was killed on 8 May 2022 at the Azovstal steelworks in Mariupol, when a Russian aerial bomb hit a bunker. He was 32.
+Major Vitalii Blazhko was killed on 8 May 2022 at the Azovstal steelworks in Mariupol, when a russian aerial bomb hit a bunker. He was 32.
 
 ## Why it matters today
 

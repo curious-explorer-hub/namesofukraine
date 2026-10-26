@@ -26,7 +26,7 @@ In May 2021 Shleha took command of the 12th Dmytro Vyshnevetskyi Operational Bri
 
 ## The defence of Mariupol
 
-From the first day of the full-scale invasion, 24 February 2022, Shleha’s brigade defended Mariupol. In March 2022 he was awarded the Order of Bohdan Khmelnytskyi, 3rd class. Together with the other defenders he ended up at Azovstal, and on 20 May, on the orders of the command, he was among the last to lay down his arms, and he was taken prisoner by Russia.
+From the first day of the full-scale invasion, 24 February 2022, Shleha’s brigade defended Mariupol. In March 2022 he was awarded the Order of Bohdan Khmelnytskyi, 3rd class. Together with the other defenders he ended up at Azovstal, and on 20 May, on the orders of the command, he was among the last to lay down his arms, and he was taken prisoner by russia.
 
 ## Captivity and return
 

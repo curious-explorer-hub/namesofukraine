@@ -24,7 +24,7 @@ In 1875 the tsarist authorities dismissed him from the university for his part i
 
 ## A printing press in Geneva
 
-There he founded the Free Ukrainian Press and published Hromada (1878–1882), the first Ukrainian political journal, as well as pamphlets telling Europeans how Ukrainians lived in the Russian Empire. With Serhii Podolynskyi and Mykhailo Pavlyk he founded the Geneva Circle, the seed of the Ukrainian socialist movement.
+There he founded the Free Ukrainian Press and published Hromada (1878–1882), the first Ukrainian political journal, as well as pamphlets telling Europeans how Ukrainians lived in the russian empire. With Serhii Podolynskyi and Mykhailo Pavlyk he founded the Geneva Circle, the seed of the Ukrainian socialist movement.
 
 He kept close ties with young Galicians, including [Ivan Franko](/en/people/ivan-franko/), and became the intellectual mentor of the Ruthenian-Ukrainian Radical Party, founded in 1890. After a break with the Kyiv Hromada in 1886 he lost its financial support, and in 1889 he took up the chair of general history at Sofia University. He died and was buried there, in Sofia.
 

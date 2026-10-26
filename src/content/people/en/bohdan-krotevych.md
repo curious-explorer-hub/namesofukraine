@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/bohdan-krotevych.md
 name: "Bohdan Krotevych"
 role: "Azov chief of staff (2021–2025)"
-summary: "“What is Ukraine to you?” he was asked in Moscow’s Lefortovo prison. Bohdan Krotevych, call sign Tavr, a Crimean who joined Azov as a private in 2014, rose to chief of staff, helped direct the defence of Mariupol in 2022 and survived Russian captivity."
+summary: "“What is Ukraine to you?” he was asked in Moscow’s Lefortovo prison. Bohdan Krotevych, call sign Tavr, a Crimean who joined Azov as a private in 2014, rose to chief of staff, helped direct the defence of Mariupol in 2022 and survived russian captivity."
 fun_fact: "He never dreamed of the army: he went to the Academy of Water Transport in Kyiv to become a merchant navy navigator, and finished his degree by correspondence while already serving in Azov."
 key_accomplishments:
   - "Azov volunteer from 2014: rose from private to the unit’s chief of staff (2021)"
@@ -25,7 +25,7 @@ Bohdan Krotevych was born in 1993 in Izmail in the Odesa region, but he calls Si
 
 ## From private to chief of staff
 
-In 2014, after Russia occupied Crimea, Krotevych volunteered for Azov as a private. He finished his degree by correspondence while serving. He fought for Shyrokyne and defended Marinka, Krasnohorivka and the Svitlodarsk arc in the Donetsk region. In 2021, under the call sign Tavr, he became Azov’s chief of staff.
+In 2014, after russia occupied Crimea, Krotevych volunteered for Azov as a private. He finished his degree by correspondence while serving. He fought for Shyrokyne and defended Marinka, Krasnohorivka and the Svitlodarsk arc in the Donetsk region. In 2021, under the call sign Tavr, he became Azov’s chief of staff.
 
 ## Mariupol and captivity
 

@@ -7,9 +7,9 @@ fun_fact: "While fighting with the 3rd Assault Brigade, Datskyi graduated in 202
 key_accomplishments:
   - "Contract marine from 2016; served in the anti-terrorist operation in the east"
   - "From 2022 defended Kyiv and southern Ukraine; in the 3rd Separate Assault Brigade, commander of the 2nd Company of the 2nd Assault Battalion from 2024"
-  - "February 2024, Avdiivka: his assault group killed and wounded about 200 Russian troops; wounded himself, he carried a soldier out"
+  - "February 2024, Avdiivka: his assault group killed and wounded about 200 russian troops; wounded himself, he carried a soldier out"
   - "September 2024, Luhansk region: carried out a raid ambush"
-  - "December 2024, Kharkiv region: a group under his command took six Russian prisoners, yielding valuable intelligence"
+  - "December 2024, Kharkiv region: a group under his command took six russian prisoners, yielding valuable intelligence"
   - "Order for Courage, 3rd (2023) and 2nd (2024) class; Hero of Ukraine (decree No. 273/2025 of 5 May 2025)"
   - "As of early 2026, commander of the 2nd Assault Battalion of the 3rd Separate Assault Brigade"
 birthplace_name: "Unknown"
@@ -21,13 +21,13 @@ Did you know that Hero of Ukraine Vladyslav Datskyi made furniture between two w
 
 ## “Datsyk” of the 3rd Assault
 
-When Russia launched its full-scale invasion on 24 February 2022, Datskyi took up arms again. He defended Kyiv, then fought in the south. Later he joined the 3rd Separate Assault Brigade, where he is known by the call sign Datsyk. In 2023 his platoon fought in the Bakhmut area. In 2024 he took command of the 2nd Company of the brigade's 2nd Assault Battalion.
+When russia launched its full-scale invasion on 24 February 2022, Datskyi took up arms again. He defended Kyiv, then fought in the south. Later he joined the 3rd Separate Assault Brigade, where he is known by the call sign Datsyk. In 2023 his platoon fought in the Bakhmut area. In 2024 he took command of the 2nd Company of the brigade's 2nd Assault Battalion.
 
 ## Avdiivka and six prisoners
 
-In February 2024, in Avdiivka in the Donetsk region, Datskyi's assault group killed and wounded about 200 Russian troops. He was wounded himself, yet he gave first aid to one of his soldiers and carried him out personally. In September 2024 he carried out a raid ambush in the Luhansk region.
+In February 2024, in Avdiivka in the Donetsk region, Datskyi's assault group killed and wounded about 200 russian troops. He was wounded himself, yet he gave first aid to one of his soldiers and carried him out personally. In September 2024 he carried out a raid ambush in the Luhansk region.
 
-In December 2024, in the Kharkiv region, his group carried out a raid and took six Russians prisoner. The prisoners gave up valuable intelligence.
+In December 2024, in the Kharkiv region, his group carried out a raid and took six russians prisoner. The prisoners gave up valuable intelligence.
 
 ## Hero of Ukraine
 

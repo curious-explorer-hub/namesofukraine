@@ -29,7 +29,7 @@ Bohdan was born on 25 July 1985 in Staryi Sambir in Lviv region. In his home tow
 
 As a student activist in the youth group Pora!, Solchanyk helped bring students out for the Orange Revolution in 2004. In the summer of 2013 he organized a picket outside the regional police headquarters in Lviv in solidarity with the people of Vradiivka, who had risen up against police abuse. On 22 November 2013, after the government halted preparations to sign the EU Association Agreement, Bohdan led a column of several thousand Lviv students carrying EU flags. He went to Kyiv several times and organized pickets in Lviv, but he was against radical action: a friend recalled that on 18 February 2014 he tried to talk people out of storming the security service (SBU) building in Lviv, because people could be killed.
 
-Bohdan Solchanyk was killed on Instytutska Street in Kyiv on 20 February 2014. He was 28. [Ihor Kostenko](/en/people/ihor-kostenko/), a Lviv University student, was killed on Instytutska that same morning. In 2023 the Sviatoshynskyi District Court of Kyiv found three former officers of the Berkut riot police guilty of killing protesters on the Maidan; back in 2019 they had been released from custody in a prisoner exchange with Russia.
+Bohdan Solchanyk was killed on Instytutska Street in Kyiv on 20 February 2014. He was 28. [Ihor Kostenko](/en/people/ihor-kostenko/), a Lviv University student, was killed on Instytutska that same morning. In 2023 the Sviatoshynskyi District Court of Kyiv found three former officers of the Berkut riot police guilty of killing protesters on the Maidan; back in 2019 they had been released from custody in a prisoner exchange with russia.
 
 ## Why it matters today
 

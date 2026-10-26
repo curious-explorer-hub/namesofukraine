@@ -2,18 +2,18 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/roman-hrybov.md
 name: "Roman Hrybov"
 role: "Border guard, call sign \"Wolf\""
-summary: "On Snake Island on 24 February 2022, 32-year-old border guard Roman Hrybov answered a Russian ultimatum with four words that went around the world. A month in captivity, then recognition: his words became a symbol of Ukrainian resistance."
+summary: "On Snake Island on 24 February 2022, 32-year-old border guard Roman Hrybov answered a russian ultimatum with four words that went around the world. A month in captivity, then recognition: his words became a symbol of Ukrainian resistance."
 fun_fact: "Hrybov himself does not remember clearly when he shouted those words. He found out about his own fame only during a prisoner exchange, when the person organizing it told him he had become world-famous."
 key_accomplishments:
   - Border guard with Ukraine's State Border Guard Service
   - One of 13 defenders of Snake Island during the assault of 24 February 2022
-  - Made the defiant response to a Russian warship ultimatum with his legendary phrase
-  - Held in Russian captivity from 24 February to 24 March 2022
+  - Made the defiant response to a russian warship ultimatum with his legendary phrase
+  - Held in russian captivity from 24 February to 24 March 2022
   - Awarded the honor “For Services to Cherkasy Region” by the head of the Cherkasy Regional Military Administration on 29 March 2022
 birthplace_name: "Zolotonosha, Cherkasy region"
 image_alt: "Roman Hrybov in a military fleece with a sleeve patch, sitting at a table with a phone in his hand"
 gallery:
-  - alt: "Postage stamp: a Ukrainian soldier with a rifle stands on the shore with his back to us, showing his middle finger to a Russian cruiser at sea; inscriptions “Ukraine”, “2022” and the denomination “W”"
+  - alt: "Postage stamp: a Ukrainian soldier with a rifle stands on the shore with his back to us, showing his middle finger to a russian cruiser at sea; inscriptions “Ukraine”, “2022” and the denomination “W”"
     caption: "Ukrposhta stamp “Russian warship, go…! Glory to Ukraine!” (2022)"
 quotes:
   - text: "God made it so that we all survived."
@@ -22,7 +22,7 @@ quotes:
 
 ## Four words heard worldwide
 
-The full-scale invasion began on 24 February 2022. On Snake Island in the Black Sea, 13 Ukrainian border guards were on duty, among them 32-year-old Roman Hrybov from Zolotonosha in the Cherkasy region. When the Russian cruiser Moskva ordered them to surrender, the island answered.
+The full-scale invasion began on 24 February 2022. On Snake Island in the Black Sea, 13 Ukrainian border guards were on duty, among them 32-year-old Roman Hrybov from Zolotonosha in the Cherkasy region. When the russian cruiser Moskva ordered them to surrender, the island answered.
 
 "Russian warship, go f#ck yourself," came the reply over the radio.
 
@@ -30,9 +30,9 @@ At that moment nobody knew whether the island's defenders would survive. Nobody 
 
 ## One month in enemy hands
 
-At first it seemed all 13 island defenders were dead. President Zelensky announced he would award them Hero of Ukraine medals posthumously. But on 28 February the Ukrainian Navy reported that they were alive. The Russians had taken them prisoner.
+At first it seemed all 13 island defenders were dead. President Zelensky announced he would award them Hero of Ukraine medals posthumously. But on 28 February the Ukrainian Navy reported that they were alive. The russians had taken them prisoner.
 
-Roman Hrybov spent a month in Russian captivity - 24 February to 24 March 2022. He was moved three times: first to Crimea, then to tent camps and detention facilities. "We were treated worse than dogs," he said later. "They put us in prisoner uniforms, applied psychological pressure. They didn't care if you were military, a woman, or a priest." His captors inflicted both psychological and physical torture, falsely claiming Russian forces had already taken Kyiv to break his spirit.
+Roman Hrybov spent a month in russian captivity - 24 February to 24 March 2022. He was moved three times: first to Crimea, then to tent camps and detention facilities. "We were treated worse than dogs," he said later. "They put us in prisoner uniforms, applied psychological pressure. They didn't care if you were military, a woman, or a priest." His captors inflicted both psychological and physical torture, falsely claiming russian forces had already taken Kyiv to break his spirit.
 
 This account changes how we understand the phrase. Hrybov doesn't remember clearly when he said it. And here was the crucial part: he didn't even know anyone was looking for him. "They didn't know who said it," he explained. "That was good, because I don't think I would have come home otherwise."
 

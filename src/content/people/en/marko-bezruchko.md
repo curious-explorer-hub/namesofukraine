@@ -27,7 +27,7 @@ Budyonny never managed to help the Reds at Warsaw, which historians count as one
 
 Marko Bezruchko was born in 1883 in Velykyi Tokmak in southern Ukraine (now Tokmak in the Zaporizhzhia region). He studied at a teachers’ seminary in Pereiaslav, then graduated from the infantry cadet school in Odesa and, in 1914, from the Imperial Nicholas Military Academy in Saint Petersburg. In the First World War he was a staff officer and a lieutenant colonel.
 
-In 1917 Bezruchko helped Ukrainize Russian army units at the front. At the end of 1918 he went over to the Directory and took charge of the operations department of the UNR Army General Staff. From April 1919 he was chief of staff of the Sich Riflemen Corps, commanded by [Yevhen Konovalets](/en/people/yevhen-konovalets/).
+In 1917 Bezruchko helped Ukrainize russian army units at the front. At the end of 1918 he went over to the Directory and took charge of the operations department of the UNR Army General Staff. From April 1919 he was chief of staff of the Sich Riflemen Corps, commanded by [Yevhen Konovalets](/en/people/yevhen-konovalets/).
 
 ## The Sixth Sich Division
 

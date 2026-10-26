@@ -30,7 +30,7 @@ In 1871 he went professional in Odesa: his first role was Stetsko in [Hryhorii K
 
 Imagine: it is 1876, in Katerynoslav, and a Ukrainian play is on. Between the third and fourth acts an official walks backstage and announces that such plays are now banned. That is how the actors learned of the Ems Ukaz.
 
-For five years Kropyvnytskyi worked in Russian troupes, mostly in operetta, and all that time he fought for the right to perform in Ukrainian again.
+For five years Kropyvnytskyi worked in russian troupes, mostly in operetta, and all that time he fought for the right to perform in Ukrainian again.
 
 ## The Theatre of Coryphaei
 
@@ -40,7 +40,7 @@ In 1883 [Mykhailo Starytskyi](/en/people/mykhailo-starytskyi/) took over the tro
 
 ## A full house in the imperial capital
 
-In 1886 Kropyvnytskyi took his actors to Saint Petersburg and Moscow. Tickets were expensive, yet the halls filled up, and the takings broke the records of local theatres and touring companies. Kropyvnytskyi was invited to work in Russian art, where a career was there for the taking. He said no.
+In 1886 Kropyvnytskyi took his actors to Saint Petersburg and Moscow. Tickets were expensive, yet the halls filled up, and the takings broke the records of local theatres and touring companies. Kropyvnytskyi was invited to work in russian art, where a career was there for the taking. He said no.
 
 ## From Stetsko to Othello
 
@@ -54,4 +54,4 @@ In 1910 Kropyvnytskyi died suddenly on the way from Mykolaiv to Kharkiv, returni
 
 ## Why it matters today
 
-Kropyvnytskyi made Ukrainian theatre professional at a time when the empire banned the Ukrainian word on stage. He proved that a Ukrainian play could fill the halls even in the imperial capital, and he chose the Ukrainian stage when he could have built a career on the Russian one. His troupe became a school for the actors who carried Ukrainian theatre through the decades that followed, and his plays are still staged. Anyone who steps onto a Ukrainian stage today carries on the work he began.
+Kropyvnytskyi made Ukrainian theatre professional at a time when the empire banned the Ukrainian word on stage. He proved that a Ukrainian play could fill the halls even in the imperial capital, and he chose the Ukrainian stage when he could have built a career on the russian one. His troupe became a school for the actors who carried Ukrainian theatre through the decades that followed, and his plays are still staged. Anyone who steps onto a Ukrainian stage today carries on the work he began.

@@ -59,6 +59,10 @@ Section headings can be hooks too, in place of the plain «Хто він», «Г
 
 Keep «Дискусії та оцінки» / "Debates and assessments" as it is: it signals a neutral section.
 
+## russia in lowercase
+
+Write «росія», «російська імперія» and, in English, "russia", "russian empire", "russian", "russians" in lowercase, in the text and in frontmatter (summary, fun_fact, alt text, notes). Keep the capital at the start of a sentence or heading, inside quoted words («…», “…”), in `quotes:` and `sources:` (quotes and source titles stay as published), and in titles of works ("Little Russian Tales", "Russian-Ukrainian Dictionary").
+
 ## Writing
 
 - **Short sentences, active verbs, concrete details.** "He built a granary without nails" beats "he was engaged in the construction of agricultural facilities".

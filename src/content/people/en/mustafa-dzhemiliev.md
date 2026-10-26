@@ -21,7 +21,7 @@ quotes:
 
 Mustafa Dzhemilev (in Crimean Tatar, Mustafa Cemilev, also known as Qırımoğlu, “son of Crimea”) was born in 1943 in the village of Ay-Serez in Crimea (today Mizhrichchia). In May 1944 the Soviet authorities deported the entire Crimean Tatar people, and the Dzhemilev family was sent to Uzbekistan. Mustafa was six months old.
 
-Seventy years later, on 22 April 2014, the Russian occupation authorities banned him from entering Crimea. For the second time, he had been driven from his homeland.
+Seventy years later, on 22 April 2014, the russian occupation authorities banned him from entering Crimea. For the second time, he had been driven from his homeland.
 
 ## 15 years for the right to go home
 

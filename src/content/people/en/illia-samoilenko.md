@@ -9,7 +9,7 @@ key_accomplishments:
   - "Intelligence officer of the Azov regiment during the defence of Mariupol (2022)"
   - "Spoke for the Azovstal defenders at an online press conference from the besieged plant (May 2022)"
   - "Defender of the Fatherland Medal (Decree No. 256/2022)"
-  - "Survived 120 days in solitary confinement in Russian captivity; freed in an exchange in 2022"
+  - "Survived 120 days in solitary confinement in russian captivity; freed in an exchange in 2022"
 birthplace_name: "Kyiv"
 image_alt: "Bearded Illia Samoilenko in camouflage with “Samoilenko” and “Azov” name tapes, in front of the red building of Kyiv University"
 quotes:
@@ -19,7 +19,7 @@ quotes:
 
 ## A hook for a hand
 
-Kyiv-born Illia Samoilenko studied history, and in 2015, with Russia already at war in Donbas, he joined the army. In the fighting in Donbas a round of ammunition went off in his hand: Illia lost his left hand and his right eye. He was fitted with a titanium hook in place of the hand and went back to his comrades in Azov. His call sign is “Gendalf”.
+Kyiv-born Illia Samoilenko studied history, and in 2015, with russia already at war in Donbas, he joined the army. In the fighting in Donbas a round of ammunition went off in his hand: Illia lost his left hand and his right eye. He was fitted with a titanium hook in place of the hand and went back to his comrades in Azov. His call sign is “Gendalf”.
 
 ## The voice of Azovstal
 
@@ -27,7 +27,7 @@ When the full-scale invasion began, Illia took up arms again. He was an intellig
 
 ## 120 days alone
 
-When the garrison left the plant, Illia was taken prisoner. He was held at Olenivka and then in Russia, 120 days in solitary confinement. The Russians took his prosthetic hand straight away. He came home in September 2022 in an exchange that freed 215 Ukrainians, among them the Azov commanders Palamar and [Denys Prokopenko](/en/people/denys-prokopenko/). “I personally don't consider myself a hero,” he said after his return, thinking of the comrades still in captivity.
+When the garrison left the plant, Illia was taken prisoner. He was held at Olenivka and then in russia, 120 days in solitary confinement. The russians took his prosthetic hand straight away. He came home in September 2022 in an exchange that freed 215 Ukrainians, among them the Azov commanders Palamar and [Denys Prokopenko](/en/people/denys-prokopenko/). “I personally don't consider myself a hero,” he said after his return, thinking of the comrades still in captivity.
 
 ## Why it matters today
 

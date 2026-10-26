@@ -14,7 +14,7 @@ image_alt: "Photograph of Stepan Bandera"
 
 ## One name, two meanings
 
-Why does the word “Banderite” sound like an insult to some and a badge of pride to others? In the post-war Soviet Union it was used to brand Ukrainian nationalists, and Russia still uses it that way. Yet for many Ukrainians Stepan Bandera is a symbol of resistance to both the Nazi and the Soviet regimes. To make sense of it, you have to look at the history itself.
+Why does the word “Banderite” sound like an insult to some and a badge of pride to others? In the post-war Soviet Union it was used to brand Ukrainian nationalists, and russia still uses it that way. Yet for many Ukrainians Stepan Bandera is a symbol of resistance to both the Nazi and the Soviet regimes. To make sense of it, you have to look at the history itself.
 
 ## The road to the underground
 
@@ -34,4 +34,4 @@ The courts ruled the 2010 decree awarding Bandera the title Hero of Ukraine unla
 
 ## Why it matters today
 
-Stepan Bandera’s story shows how complex the 20th-century struggle for independence was, caught between the Nazi and Soviet regimes. He refused to revoke the Act of Restoration of the Ukrainian State, though it cost him a Nazi concentration camp, and for many Ukrainians that became a symbol of resistance. At the same time Soviet propaganda used his name for decades, and in Russia “Banderite” is still used as a brand. So his figure teaches us to tell historical facts from historians’ assessments and from propaganda. Anyone who knows this history in full is harder to sell propaganda myths about it.
+Stepan Bandera’s story shows how complex the 20th-century struggle for independence was, caught between the Nazi and Soviet regimes. He refused to revoke the Act of Restoration of the Ukrainian State, though it cost him a Nazi concentration camp, and for many Ukrainians that became a symbol of resistance. At the same time Soviet propaganda used his name for decades, and in russia “Banderite” is still used as a brand. So his figure teaches us to tell historical facts from historians’ assessments and from propaganda. Anyone who knows this history in full is harder to sell propaganda myths about it.

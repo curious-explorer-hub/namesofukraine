@@ -3,14 +3,14 @@
 name: "Maksym Yalovtsov"
 role: "Athlete and volunteer, “Rugbyist”"
 summary: "A rugby player for Aviator, a Master of Sport in grappling and a leader of Dynamo Kyiv fans, he taught civilians to handle weapons safely even before the war. Maksym Yalovtsov defended Kyiv from the first days of the invasion, then fought behind enemy lines. Killed in 2022."
-fun_fact: "On 20 March 2022 a Russian strike destroyed the Retroville shopping center in Kyiv, where Maksym and his fellow volunteers were based. He was the first to rush in to pull his friends from the rubble and give first aid to the wounded."
+fun_fact: "On 20 March 2022 a russian strike destroyed the Retroville shopping center in Kyiv, where Maksym and his fellow volunteers were based. He was the first to rush in to pull his friends from the rubble and give first aid to the wounded."
 key_accomplishments:
   - "Played for the first team of the Aviator rugby club (Kyiv) in the top division of the Ukrainian championship"
   - "Master of Sport of Ukraine in grappling, free fight and mixed martial arts; medalist at World and European championships in pankration and Brazilian jiu-jitsu"
   - "Founder of the Civil Safety (Tsyvilna bezpeka) organization, whose Civil Safety Academy taught civilians to handle firearms safely"
   - "Volunteer in the defense of Kyiv in 2022"
   - "Order for Courage, 3rd class (posthumously, Decree No. 81/2023 of 15 February 2023)"
-birthplace_name: "Unknown (Memorial says Russia, no town named)"
+birthplace_name: "Unknown (Memorial says russia, no town named)"
 image_alt: "Maksym Yalovtsov in uniform and a helmet with a rifle, a helicopter behind him"
 ---
 
@@ -20,7 +20,7 @@ Did you know that, even before the full-scale war, Maksym Yalovtsov was teaching
 
 ## Rugby, combat sports and Dynamo
 
-Maksym was born in 1990, reportedly in Russia, and when he was one his family moved to the Donetsk region. He grew up in Torez (now Chystiakove), and in 2002 the family moved to Kyiv. As a boy he played football and supported Dynamo Kyiv. Later he took up rugby and played in the first team of Aviator in Ukraine’s top division. He became a Master of Sport of Ukraine in grappling, free fight and mixed martial arts, and won medals at world and European championships in pankration and Brazilian jiu-jitsu.
+Maksym was born in 1990, reportedly in russia, and when he was one his family moved to the Donetsk region. He grew up in Torez (now Chystiakove), and in 2002 the family moved to Kyiv. As a boy he played football and supported Dynamo Kyiv. Later he took up rugby and played in the first team of Aviator in Ukraine’s top division. He became a Master of Sport of Ukraine in grappling, free fight and mixed martial arts, and won medals at world and European championships in pankration and Brazilian jiu-jitsu.
 
 ## A volunteer from day one
 

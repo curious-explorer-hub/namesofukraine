@@ -8,7 +8,7 @@ key_accomplishments:
   - "The narrative poem The Shepherd (1925)"
   - "The poetry collections Horizons (1927), On the Ashes (1928) and Polissia (1931)"
   - "Editorial secretary of the magazine Kino (1927–1933) and a screenwriter"
-  - "Translations from Belarusian, Russian and German"
+  - "Translations from Belarusian, russian and German"
 birthplace_name: "Velyki Lepesy (Berestia region, now Belarus)"
 image_alt: "Dmytro Falkivskyi in a dark coat and tie, seated, photo portrait"
 ---
@@ -31,7 +31,7 @@ Falkivskyi was arrested in late 1934 (sources give November or December) on an i
 
 ## Debates and assessments
 
-Falkivskyi is remembered among the poets of the Executed Renaissance whom the Soviet regime destroyed on invented charges. Yet from 1920 to 1923 he served in the Cheka, and scholars describe his first poem, The Chekist, as a romanticizing of the “Red Terror”. His poems also contain a Chekist’s memories of executions at night, and some researchers write that he took part in repressions himself. The Ukrainian Institute of National Memory has placed Falkivskyi (as of 2025) on its list of people linked to Russian imperial policy, as a former officer of the Soviet security services who took part in terror in the Bolshevik underground during the Ukrainian People’s Republic. Streets, monuments and other public objects named after people on this list are to be removed.
+Falkivskyi is remembered among the poets of the Executed Renaissance whom the Soviet regime destroyed on invented charges. Yet from 1920 to 1923 he served in the Cheka, and scholars describe his first poem, The Chekist, as a romanticizing of the “Red Terror”. His poems also contain a Chekist’s memories of executions at night, and some researchers write that he took part in repressions himself. The Ukrainian Institute of National Memory has placed Falkivskyi (as of 2025) on its list of people linked to russian imperial policy, as a former officer of the Soviet security services who took part in terror in the Bolshevik underground during the Ukrainian People’s Republic. Streets, monuments and other public objects named after people on this list are to be removed.
 
 ## Why it matters today
 

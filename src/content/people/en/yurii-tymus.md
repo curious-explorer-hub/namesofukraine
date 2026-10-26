@@ -24,11 +24,11 @@ Yurii Tymus was born on 2 May 1987 in the village of Ditkivtsi near Brody in Lvi
 
 ## The sky over Kyiv
 
-From 24 February 2022 Tymus defended Kyiv. In February and March he flew 28 combat sorties, striking Russian armour heading for the capital. On 10 March 2022 he was awarded the Order For Courage, 3rd class.
+From 24 February 2022 Tymus defended Kyiv. In February and March he flew 28 combat sorties, striking russian armour heading for the capital. On 10 March 2022 he was awarded the Order For Courage, 3rd class.
 
 ## The run to Mariupol
 
-By late March Mariupol had been encircled for weeks. Army Aviation helicopters broke through to the city, carrying volunteers, weapons, medicine and food in and flying the wounded out. On 31 March Yurii Tymus flew the fifth of seven such runs. On the way back, with badly wounded soldiers on board, his helicopter was hit by a Russian missile near the village of Rybatske. The 34-year-old commander was killed together with navigator Denys Badika and flight engineer Ivan Vakhovskyi. For more than two years Yurii was listed as missing; in 2024 he was buried in Brody, and on 30 September 2024 he was made a Hero of Ukraine, the country’s highest title, posthumously.
+By late March Mariupol had been encircled for weeks. Army Aviation helicopters broke through to the city, carrying volunteers, weapons, medicine and food in and flying the wounded out. On 31 March Yurii Tymus flew the fifth of seven such runs. On the way back, with badly wounded soldiers on board, his helicopter was hit by a russian missile near the village of Rybatske. The 34-year-old commander was killed together with navigator Denys Badika and flight engineer Ivan Vakhovskyi. For more than two years Yurii was listed as missing; in 2024 he was buried in Brody, and on 30 September 2024 he was made a Hero of Ukraine, the country’s highest title, posthumously.
 
 ## Why it matters today
 

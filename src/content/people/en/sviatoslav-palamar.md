@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/sviatoslav-palamar.md
 name: "Sviatoslav Palamar"
 role: "Deputy commander of Azov"
-summary: "The maple stands for Canada, the birch for Russia, and the true symbol of Ukraine is the kalyna, the guelder rose. That is how Sviatoslav Palamar chose his call sign. Deputy commander of Azov, in 2022 he held Mariupol and Azovstal until 20 May. Hero of Ukraine."
+summary: "The maple stands for Canada, the birch for russia, and the true symbol of Ukraine is the kalyna, the guelder rose. That is how Sviatoslav Palamar chose his call sign. Deputy commander of Azov, in 2022 he held Mariupol and Azovstal until 20 May. Hero of Ukraine."
 fun_fact: "After captivity and his return home, Palamar graduated from the Kharkiv University of Internal Affairs in 2024 with a master’s degree in psychology."
 key_accomplishments:
   - "In Azov since August 2014: rose from private machine gunner to deputy commander"
@@ -18,7 +18,7 @@ quotes:
 
 ## Why Kalyna?
 
-At Azov’s recruiting centre in 2014, Sviatoslav Palamar was told: “Friend, pick your call sign.” He thought it over: the maple makes people think of Canada, the birch of Russia, but the true symbol of Ukraine is the kalyna, the guelder rose, found in songs, chronicles and legends of the Cossack era. So he became Kalyna.
+At Azov’s recruiting centre in 2014, Sviatoslav Palamar was told: “Friend, pick your call sign.” He thought it over: the maple makes people think of Canada, the birch of russia, but the true symbol of Ukraine is the kalyna, the guelder rose, found in songs, chronicles and legends of the Cossack era. So he became Kalyna.
 
 ## From machine gunner to deputy commander
 
@@ -26,7 +26,7 @@ Palamar was born in 1982 in the small town of Mykolaiv in Lviv Oblast (not the b
 
 ## A voice of Mariupol’s defence
 
-From the first days of Russia’s full-scale invasion in 2022, Palamar defended Mariupol alongside Azov’s commander, [Denys Prokopenko](/en/people/denys-prokopenko/). When the city was besieged, he recorded video appeals: he described the defence and said the garrison was ready to leave the encirclement together with civilians, the wounded and the bodies of the dead. On 8 May he and other Azovstal defenders spoke to foreign journalists at a press conference. On 20 May, on the command’s orders, Palamar was among the last to leave the steelworks and was taken prisoner by Russia.
+From the first days of russia’s full-scale invasion in 2022, Palamar defended Mariupol alongside Azov’s commander, [Denys Prokopenko](/en/people/denys-prokopenko/). When the city was besieged, he recorded video appeals: he described the defence and said the garrison was ready to leave the encirclement together with civilians, the wounded and the bodies of the dead. On 8 May he and other Azovstal defenders spoke to foreign journalists at a press conference. On 20 May, on the command’s orders, Palamar was among the last to leave the steelworks and was taken prisoner by russia.
 
 ## Coming back
 

@@ -29,8 +29,8 @@ Klitschko first made his name in kickboxing, winning world titles many times as 
 
 ## From the ring to City Hall
 
-Klitschko won a seat on Kyiv City Council as early as 2006, and in 2010 he became leader of the UDAR party (the name means “punch”). In 2012–2014 he was a member of the Verkhovna Rada, Ukraine’s parliament. In 2014 he was elected mayor of Kyiv, and he was re-elected in 2015 and 2020. As of October 2026 he leads a city living under constant Russian attacks.
+Klitschko won a seat on Kyiv City Council as early as 2006, and in 2010 he became leader of the UDAR party (the name means “punch”). In 2012–2014 he was a member of the Verkhovna Rada, Ukraine’s parliament. In 2014 he was elected mayor of Kyiv, and he was re-elected in 2015 and 2020. As of October 2026 he leads a city living under constant russian attacks.
 
 ## Why it matters today
 
-Together with his brother [Wladimir](/en/people/volodymyr-klychko/), Vitali Klitschko made Ukrainian boxers known all over the world. After injuries and years away from the ring he came back and won the world title again, then gave up the belt himself for a new calling: politics. As of October 2026 he leads Kyiv, a city living under constant Russian attacks. His story shows that you can make it back to the top, and that a new goal can be worth giving up what you have won.
+Together with his brother [Wladimir](/en/people/volodymyr-klychko/), Vitali Klitschko made Ukrainian boxers known all over the world. After injuries and years away from the ring he came back and won the world title again, then gave up the belt himself for a new calling: politics. As of October 2026 he leads Kyiv, a city living under constant russian attacks. His story shows that you can make it back to the top, and that a new goal can be worth giving up what you have won.

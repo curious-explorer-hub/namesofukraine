@@ -5,7 +5,7 @@ role: "MiG-29 fighter pilot"
 summary: "A village boy from western Ukraine learned the trumpet at music school, then at 13 left for a military boarding school so he could fly. Major Stepan Tarabalka defended Ukraine’s sky in a MiG-29 in the first weeks of the full-scale war. Killed in 2022; Hero of Ukraine (posthumously)."
 fun_fact: "In 2023 the Mykhailo Hrushevskyi Lyceum in Kolomyia, the school he once attended, opened a museum to the pilot Stepan Tarabalka."
 misconception:
-  claim: "Stepan Tarabalka was the “Ghost of Kyiv”, the pilot who shot down 40 Russian aircraft."
+  claim: "Stepan Tarabalka was the “Ghost of Kyiv”, the pilot who shot down 40 russian aircraft."
   truth: "The British newspaper The Times claimed this in spring 2022. On 30 April 2022 the Ukrainian Air Force Command denied it: Tarabalka was not the “Ghost of Kyiv” and had not downed 40 planes. The “Ghost of Kyiv” is a legend, a collective image of the pilots of the 40th Tactical Aviation Brigade who defend the capital’s sky."
 key_accomplishments:
   - "Graduated from the Ivan Kozhedub Kharkiv University of the Air Force (2014)"
@@ -22,7 +22,7 @@ Stepan Tarabalka was born in 1993 in the village of Korolivka near Kolomyia, in 
 
 ## A MiG-29 pilot
 
-After graduating, Tarabalka served in the 114th Tactical Aviation Brigade and flew the MiG-29 fighter. When Russia launched its full-scale invasion on 24 February 2022, he took to the air again and again, flying many combat sorties in the first weeks of the war.
+After graduating, Tarabalka served in the 114th Tactical Aviation Brigade and flew the MiG-29 fighter. When russia launched its full-scale invasion on 24 February 2022, he took to the air again and again, flying many combat sorties in the first weeks of the war.
 
 On 13 March 2022 Major Stepan Tarabalka was killed in an air battle over Zhytomyr. He was 29.
 
