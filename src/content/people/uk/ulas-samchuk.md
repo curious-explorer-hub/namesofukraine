@@ -3,7 +3,7 @@ name: Улас Самчук
 gender: male
 born: 1905-02-20
 died: 1987-07-09
-last_reviewed: 2026-10-24
+last_reviewed: 2026-10-26
 era: 20th-century
 group: literature
 tags: [writer]
@@ -19,11 +19,12 @@ places:
   - { name: "Торонто", lat: 43.653, lon: -79.383, note: "життя в еміграції з 1948 року" }
 image:
   src: ./images/ulas-samchuk.jpg
-  alt: "Молодий Улас Самчук у капелюсі й темному шкіряному плащі"
-  position: "50% 30%"
+  alt: "Портрет Уласа Самчука в темному костюмі й бордовій краватці"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BC%D1%87%D1%83%D0%BA_%D0%A31.jpg"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-889315"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Роман «Марія» (Львів, 1934), перший художній твір про Голодомор 1932–1933 років"
   - "Трилогія «Волинь» (1932–1937), перекладена кількома мовами"
@@ -49,7 +50,8 @@ sources:
   - title: "Historians.in.ua - Роман Михальчук, Антисемітизм публікацій легальної преси Рівненщини (1941–1944 рр.). Частина ІІ"
     url: "http://www.historians.in.ua/index.php/en/zabuti-zertvy-viyny/1093-roman-mykhalchuk-antysemityzm-publikatsii-lehalnoi-presy-rivnenshchyny-1941-1944-rr-chastyna-ii"
 related: [olena-teliha, yurii-shevelov, ivan-bahrianyi]
-status: draft
+status: approved
+published: 2026-10-26T20:31:15Z
 ---
 
 ## Роман, написаний за кордоном

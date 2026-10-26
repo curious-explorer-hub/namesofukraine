@@ -12,7 +12,7 @@ key_accomplishments:
   - "Founder and editor-in-chief of the newspaper Volyn in Rivne (1941–1942)"
   - "Head of the Ukrainian Art Movement (MUR) in Germany (1945–1948); a co-founder of the Slovo writers’ association (1954)"
 birthplace_name: "Derman (now Derman Persha)"
-image_alt: "A young Ulas Samchuk in a hat and a dark leather coat"
+image_alt: "Portrait of Ulas Samchuk in a dark suit and a burgundy tie"
 ---
 
 ## A novel written abroad
