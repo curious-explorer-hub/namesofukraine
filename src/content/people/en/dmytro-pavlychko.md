@@ -13,7 +13,10 @@ key_accomplishments:
   - "One of the authors of the Declaration of State Sovereignty of Ukraine (1990) and the Declaration of Independence of Ukraine (1991)"
   - "Ukraine’s ambassador to Slovakia (1995–1998) and Poland (1999–2002); Hero of Ukraine (2004)"
 birthplace_name: "Stopchativ"
-image_alt: "Dmytro Pavlychko at a microphone, in a dark jacket and a yellow tie"
+image_alt: "Young Dmytro Pavlychko in an embroidered shirt and a grey sweater, looking to the side"
+quotes:
+  - text: "I do not need glory, / I need you to live."
+    source: "The poem I Am Your Tree, Ukraine… (1967; translated from Ukrainian)"
 ---
 
 ## The scarf that started a song

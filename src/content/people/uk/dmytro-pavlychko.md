@@ -3,7 +3,7 @@ name: Дмитро Павличко
 gender: male
 born: 1929-09-28
 died: 2023-01-29
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-25
 era: 20th-century
 group: literature
 tags: [poet, politician]
@@ -17,11 +17,13 @@ places:
   - { name: "Варшава", lat: 52.23, lon: 21.012, note: "посол України в Польщі (1999–2002)" }
 image:
   src: ./images/dmytro-pavlychko.jpg
-  alt: "Дмитро Павличко біля мікрофона, у темному піджаку й жовтій краватці"
+  alt: "Молодий Дмитро Павличко у вишитій сорочці й сірому светрі, дивиться вбік"
   position: "50% 30%"
-  author: "Melnikov v n"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BC._%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%BA%D0%BE,_02.02.2016.JPG"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://vogue.ua/article/culture/knigi/chervone-to-lyubov-a-chorne-to-zhurba-pishov-z-zhittya-poet-dmitro-pavlichko-51188.html"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Слова пісень «Два кольори» (1964, музика Олександра Білаша), «Явір і яворина», «Долиною туман тече»"
   - "Збірки «Правда кличе» (1958, заборонена), «Гранослов» (1968), «Покаянні псалми» (1994); антологія перекладів «Світовий сонет» (1983)"
@@ -30,6 +32,9 @@ key_accomplishments:
   - "Перший голова Товариства української мови імені Тараса Шевченка; один із засновників Народного руху України"
   - "Один з авторів Декларації про державний суверенітет України (1990) і Акта проголошення незалежності України (1991)"
   - "Посол України у Словаччині (1995–1998) і Польщі (1999–2002); Герой України (2004)"
+quotes:
+  - text: "Мені не потрібно слави, / А потрібно, щоб ти жила."
+    source: "Вірш «Я древо твоє, Україно…» (1967)"
 sources:
   - title: "Енциклопедія історії України - Павличко Дмитро Васильович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Pavlychko_D"
@@ -51,7 +56,8 @@ sources:
     url: "https://www.kyivpost.com/post/30450"
 related: [ivan-drach, mykhailo-horyn, levko-lukianenko, ivan-svitlychnyi, kvitka-tsisyk, maksym-rylskyi, bohdan-havrylyshyn]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-26T00:43:50Z
 ---
 
 ## Хустка, з якої почалася пісня
