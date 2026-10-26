@@ -3,7 +3,7 @@ name: Микола Руденко
 gender: male
 born: 1920-12-19
 died: 2004-04-01
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-25
 era: 20th-century
 group: civic
 tags: [human-rights, writer, philosopher]
@@ -17,11 +17,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "повернувся з еміграції 1990 року; похований на Байковому кладовищі" }
 image:
   src: ./images/mykola-rudenko.jpg
-  alt: "Микола Руденко з сивою бородою, у піджаку й краватці з візерунком, чорно-біла фотографія"
+  alt: "Микола Руденко з сивою бородою, у темному костюмі з жилетом і краватці в горошок"
   position: "50% 30%"
-  author: "Український інститут національної пам'яті"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Rudenko.jpg"
+  author: "Невідомий автор (вихідну світлину не встановлено)"
+  license: "Невідомо"
+  ai_edit: colorized
+  fair_use: true
+  source_url: "https://commons.wikimedia.org/wiki/Category:Mykola_Rudenko"
 key_accomplishments:
   - Засновник і перший голова Української Гельсінської групи (1976)
   - Філософські праці «Економічні монологи» (самвидав, 1975) та «Енергія прогресу», де він сперечався з економічним ученням Маркса
@@ -36,7 +38,8 @@ sources:
   - title: "Указ Президента України № 1347/2000 «Про присвоєння звання Герой України»"
     url: "https://zakon.rada.gov.ua/laws/show/1347/2000"
 related: [oleksa-tykhyi, levko-lukianenko]
-status: draft
+status: approved
+published: 2026-10-26T01:47:56Z
 ---
 
 ## Комуніст, який посперечався з Марксом

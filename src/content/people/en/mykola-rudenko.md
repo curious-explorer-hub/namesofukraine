@@ -11,7 +11,7 @@ key_accomplishments:
   - "Head of the Ukrainian Helsinki Group's representation abroad (from 1988)"
   - "Shevchenko Prize for the novel Orlova Balka (1993); Hero of Ukraine (2000)"
 birthplace_name: "Yurivka"
-image_alt: "Black-and-white photo of Mykola Rudenko with a grey beard, in a jacket and a patterned tie"
+image_alt: "Mykola Rudenko with a grey beard, in a dark suit with a waistcoat and a polka-dot tie"
 ---
 
 ## The communist who argued with Marx
