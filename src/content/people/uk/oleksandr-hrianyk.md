@@ -3,7 +3,7 @@ name: Олександр Гряник
 gender: male
 born: 1994-01-08
 died: 2022-05-08
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-25
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -13,6 +13,15 @@ fun_fact: "У «Азові» Олександр був не лише кулем�
 birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.45, lon: 30.523 }
 places:
   - { name: "Маріуполь", lat: 47.096, lon: 37.549, note: "прилетів гелікоптером до оточених захисників у березні 2022 року; оборона «Азовсталі», загинув 8 травня 2022" }
+image:
+  src: ./images/oleksandr-hrianyk.jpg
+  alt: "Олександр Гряник у камуфляжній панамі й коричневій футболці усміхається в степу"
+  position: "50% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://vechirniy.kyiv.ua/news/85340/"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Учасник Євромайдану"
   - "З 2016 року служив у полку «Азов»: старший кулеметник на першій лінії під Маріуполем, працював у пресслужбі полку"
@@ -30,7 +39,8 @@ sources:
     url: "https://hromadske.ua/posts/u-nogo-buv-shans-vizhiti-ale-vin-obrav-svoyih-pobratimiv"
 related: []
 collections: [battle-of-kyiv, defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-26T01:53:22Z
 ---
 
 ## Місце в гелікоптері

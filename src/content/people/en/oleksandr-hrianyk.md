@@ -11,6 +11,7 @@ key_accomplishments:
   - "On 27 March 2022 flew by helicopter into encircled Mariupol in an operation of the Defence Intelligence Directorate; wounded, he gave up his place on an evacuation flight to a civilian"
   - "Order For Courage, 3rd class (posthumously; decree No. 891/2022 of 27 December 2022)"
 birthplace_name: "Kyiv"
+image_alt: "Oleksandr Hrianyk in a camouflage bush hat and a brown T-shirt, smiling in the steppe"
 ---
 
 ## A seat on the helicopter
