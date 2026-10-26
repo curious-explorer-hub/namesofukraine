@@ -3,7 +3,7 @@ name: Ірина Жиленко
 gender: female
 born: 1941-04-28
 died: 2013-08-03
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-25
 era: 20th-century
 group: literature
 tags: [poet, writer]
@@ -13,11 +13,12 @@ fun_fact: "Ірину Жиленко вважають найбагатшою н�
 birthplace: { name: "Київ", region: kyiv-city, country: UA, lat: 50.450, lon: 30.523 }
 image:
   src: ./images/iryna-zhylenko.jpg
-  alt: "Мальований портрет Ірини Жиленко: молода жінка з темним волоссям до плечей, у синій сукні, сидить біля червоного столу з книжкою, на тлі темного саду й візерунчастого килима"
-  position: "50% 12%"
-  author: "Ірина Вишеславська (1969)"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Painting_by_Iryna_Vyshes-Irina_Zhilenko%27s_portrait-1969.jpg"
+  alt: "Ірина Жиленко з короткою сивою стрижкою, у темно-синьому жакеті й золотих сережках, усміхається"
+  position: "50% 30%"
+  author: "Український інститут національної пам'яті"
+  license: "CC BY 4.0"
+  ai_edit: colorized
+  source_url: "https://uinp.gov.ua/istorychnyy-kalendar/kviten/28/1941-narodylasya-iryna-zhylenko-poetka-shistdesyatnycya"
 key_accomplishments:
   - "Поетичні збірки «Соло на сольфі» (1965), «Автопортрет у червоному» (1971), «Вікно у сад» (1978), «Концерт для скрипки, дощу і цвіркуна» (1979), «Євангеліє від ластівки» (2002)"
   - "Державна премія України імені Тараса Шевченка (1996) за збірку «Вечірка у старій винарні»"
@@ -43,7 +44,8 @@ sources:
     url: "https://zn.ua/SOCIETY/irina_zhilenko_ya_vsya__sutsilne_sertse.html"
 related: [volodymyr-drozd, lesya-ukrainka, alla-horska, opanas-zalyvakha, mykhailyna-kotsiubynska, vasyl-symonenko, vasyl-stus, ivan-svitlychnyi, yevhen-sverstiuk, ivan-dziuba]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-26T02:37:53Z
 ---
 
 ## Вірш при світлі газет

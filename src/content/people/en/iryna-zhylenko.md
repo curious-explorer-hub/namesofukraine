@@ -11,7 +11,7 @@ key_accomplishments:
   - "The memoir Homo feriens about the Sixtiers (serialised in Suchasnist from 1997, published as a book in 2011)"
   - "Volodymyr Sosiura Prize (1987), Vasyl Stus Prize (2012), Order of Princess Olga, 3rd class (2001)"
 birthplace_name: "Kyiv"
-image_alt: "Painted portrait of Iryna Zhylenko: a young woman with shoulder-length dark hair, in a blue dress, sitting by a red table with a book, against a dark garden and a patterned rug"
+image_alt: "Iryna Zhylenko with short grey hair, in a navy jacket and gold earrings, smiling"
 ---
 
 ## A poem by the light of newspapers
