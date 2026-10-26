@@ -3,7 +3,7 @@ name: Сергій Нігоян
 gender: male
 born: 1993-08-02
 died: 2014-01-22
-last_reviewed: 2026-10-24
+last_reviewed: 2026-10-25
 era: independence
 group: civic
 tags: [human-rights]
@@ -38,7 +38,8 @@ sources:
   - title: "Kyiv Post - Heavenly Hundred public garden exhibits mural by Portuguese artist Vhils (2015)"
     url: "https://www.kyivpost.com/guide/about-kyiv/heavenly-hundred-public-garden-exhibits-mural-by-portuguese-artist-vhils-393603.html"
 related: [taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-26T02:53:46Z
 ---
 
 ## Вірменин, який читав Шевченка
