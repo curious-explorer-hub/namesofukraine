@@ -4,6 +4,9 @@ name: "Oleksandr Ivantsov"
 role: "Defender of Mariupol, Hero of Ukraine"
 summary: "When the Azovstal garrison was ordered out into captivity, the soldier called Skhid stayed behind at the plant. Oleksandr Ivantsov from Luhansk hid underground for a week, then walked out through occupied land back to his own side. Hero of Ukraine."
 fun_fact: "The full-scale invasion caught him at sea: he was guarding a civilian ship against Somali pirates and only learned of the war on 26 February 2022, when he got internet access."
+gallery:
+  - alt: "Oleksandr Ivantsov in a grey hoodie and an olive jacket, holding his book Flashback: Mariupol"
+    caption: "Oleksandr Ivantsov with his book Flashback: Mariupol, 2025"
 key_accomplishments:
   - "Took part in the Revolution of Dignity in Luhansk region; served with Azov in 2015–2020 and fought in the ATO and JFO"
   - "On 25 March 2022 flew into encircled Mariupol on an Mi-8 helicopter in a special operation of military intelligence (HUR)"
@@ -11,6 +14,7 @@ key_accomplishments:
   - "Hero of Ukraine with the Order of the Golden Star (decree No. 402/2025 of 13 June 2025)"
   - "Author of the memoir Flashback: Mariupol (2025)"
 birthplace_name: "Luhansk"
+image_alt: "Oleksandr Ivantsov with a beard, in a dark bush hat and camouflage uniform, against a peeling brick wall"
 quotes:
   - text: "I would never have forgiven myself if I hadn’t taken part in the war for Ukraine and had stayed somewhere abroad in safety while my friends were showing real heroism for the sake of freedom."
     source: "Interview with the PRESSING YouTube channel (as reported by 5 Kanal), September 2023"
@@ -34,7 +38,11 @@ When the garrison began leaving for captivity, Oleksandr asked his commander to 
 
 ## Back in the ranks
 
-After rehabilitation Oleksandr went back to the army and joined the 3rd Separate Assault Brigade: as of September 2023 he was flying aerial reconnaissance missions with it. On 13 June 2025 Junior Sergeant Ivantsov was made a Hero of Ukraine, the country’s highest title; the award was presented at the Constitution Day ceremony. As of June 2025 he was destroying russian equipment in the Donetsk and Luhansk regions. In November 2025 his memoir, Flashback: Mariupol, was launched in Kyiv.
+After rehabilitation Oleksandr went back to the army and joined the 3rd Separate Assault Brigade: as of September 2023 he was flying aerial reconnaissance missions with it. On 13 June 2025 Junior Sergeant Ivantsov was made a Hero of Ukraine, the country’s highest title; the award was presented at the Constitution Day ceremony. As of June 2025 he was destroying russian equipment in the Donetsk and Luhansk regions.
+
+## Flashback: Mariupol
+
+On 15 November 2025 the Third Army Corps launched his memoir, Flashback: Mariupol, at VDNH in Kyiv. Oleksandr wrote it himself. It is a true soldier’s story with a streak of adventure: about the football fan movement, working for a private military company in Africa, pirates and love. But at its heart is Mariupol: how in 2022 he flew into the city by helicopter, fought at Azovstal, and then walked 200 kilometres through occupied territory to get back to his own side.
 
 ## Why it matters today
 
