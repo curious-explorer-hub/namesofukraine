@@ -15,7 +15,7 @@ key_accomplishments:
   - "Productions of The Haidamaks after Shevchenko, Lina Kostenko’s Marusia Churai, the Mazepa trilogy after Bohdan Lepkyi, and Hamlet; Yaroslav Barnych’s operettas"
   - "Order of Merit, 3rd, 2nd and 1st class (1st class 2006); Order of Prince Yaroslav the Wise, 5th and 4th class (4th class 2014)"
 birthplace_name: "Tomashivka"
-image_alt: "Black-and-white photo: Fedir Stryhun with a grey moustache and a pipe, in stage costume"
+image_alt: "Fedir Stryhun with a grey moustache and a pipe, in a tweed jacket"
 ---
 
 ## The advice that led him to Lviv

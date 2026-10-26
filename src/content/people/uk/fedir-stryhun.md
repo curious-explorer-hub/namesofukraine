@@ -3,7 +3,7 @@ name: Федір Стригун
 gender: male
 born: 1939-11-01
 died: 2026-10-23
-last_reviewed: 2026-10-24
+last_reviewed: 2026-10-26
 era: 20th-century
 group: performing-arts
 tags: [actor]
@@ -17,8 +17,9 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.031, note: "Театр імені Марії Заньковецької, з 1965 року; тут помер 2026 року" }
 image:
   src: ./images/fedir-stryhun.jpg
-  alt: "Чорно-біле фото: Федір Стригун із сивими вусами й люлькою в зубах, у сценічному костюмі"
+  alt: "Федір Стригун із сивими вусами й люлькою в зубах, у твідовій куртці"
   position: "50% 30%"
+  ai_edit: colorized
   author: "Na3ar"
   license: "CC BY-SA 4.0"
   source_url: "https://commons.wikimedia.org/wiki/File:UBN_009.jpg"
@@ -52,7 +53,8 @@ sources:
   - title: "Детектор медіа - У віці 86 років помер режисер та актор Федір Стригун (23.10.2026)"
     url: "https://detector.media/infospace/article/253465/2026-10-23-u-vitsi-86-rokiv-pomer-rezhyser-ta-aktor-fedir-strygun/"
 related: [ivan-mykolaichuk, mariia-zankovetska, mykola-sadovskyi, bohdan-stupka, andrei-sheptytskyi, taras-shevchenko, lina-kostenko, ivan-mazepa]
-status: draft
+status: approved
+published: 2026-10-26T20:42:53Z
 ---
 
 ## Порада, яка привела до Львова
