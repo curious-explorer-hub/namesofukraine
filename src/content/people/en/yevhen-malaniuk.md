@@ -11,7 +11,7 @@ key_accomplishments:
   - "Officer of the Ukrainian People’s Republic army; in 1919, aide-de-camp to its commander, Vasyl Tiutiunnyk"
   - "Honorary head of Slovo, the association of Ukrainian writers in the diaspora"
 birthplace_name: "Novoarkhanhelsk (then Arkhanhorod)"
-image_alt: "Yevhen Malaniuk in a dark suit and a light tie against a background of leaves, black-and-white photo"
+image_alt: "Yevhen Malaniuk in a grey tweed jacket, light blue shirt and striped tie, Prague, 1924"
 ---
 
 ## Stiletto or stylus?

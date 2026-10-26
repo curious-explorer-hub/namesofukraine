@@ -3,7 +3,7 @@ name: Євген Маланюк
 gender: male
 born: 1897-02-01
 died: 1968-02-16
-last_reviewed: 2026-10-24
+last_reviewed: 2026-10-25
 era: 20th-century
 group: literature
 tags: [poet, writer]
@@ -19,11 +19,12 @@ places:
   - { name: "Нью-Йорк", lat: 40.713, lon: -74.006, note: "життя в США з кінця 1940-х, есей «Малоросійство», місце смерті" }
 image:
   src: ./images/yevhen-malaniuk.jpg
-  alt: "Євген Маланюк у темному костюмі й світлій краватці на тлі листя, чорно-біле фото"
-  position: "50% 20%"
+  alt: "Євген Маланюк у сірому твідовому піджаку, блакитній сорочці й смугастій краватці, Прага, 1924 рік"
+  position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D0%B0%D0%BD%D1%8E%D0%BA_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD.3.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D0%B0%D0%BD%D1%8E%D0%BA_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD.2.jpg"
 key_accomplishments:
   - "Збірки поезій «Стилет і стилос» (1925), «Гербарій» (1926), «Земля й залізо» (1930), «Земна мадонна» (1934), «Перстень Полікрата» (1939), «Влада» (1951), «Серпень» (1964)"
   - "Есеї «Нариси з історії нашої культури» (1954), «Малоросійство» (1959), «Illustriussimus Dominus Mazepa» (1961); двотомна «Книга спостережень» (1962–1966)"
@@ -52,7 +53,8 @@ sources:
   - title: "Освіта.ua - Євген Маланюк, «Напис на книзі віршів»"
     url: "https://osvita.ua/school/literature/m/71016/"
 related: [olena-teliha, dmytro-dontsov, ivan-mazepa, volodymyr-sosiura]
-status: draft
+status: approved
+published: 2026-10-26T00:37:14Z
 ---
 
 ## Стилет чи стилос?
