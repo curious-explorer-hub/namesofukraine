@@ -22,9 +22,9 @@ Can you write an obituary for a corncob? Vasyl Symonenko did. It was a satire on
 
 ## A journalist in Cherkasy
 
-Symonenko was born in 1935 in the village of Biivtsi in the Poltava region into a peasant family and lost his father early. He began writing poetry at Kyiv University, where he studied journalism and led a student literary studio. After graduating he worked for newspapers in Cherkasy and was the Cherkasy correspondent of Robitnycha Hazeta.
+Symonenko was born in 1935 in the village of Biivtsi in the Poltava region into a peasant family and lost his father early: the boy was raised by his mother and grandfather. He walked 9 kilometres each way to school and finished it with a gold medal. He began writing poetry at Kyiv University, where he studied journalism and led a student literary studio. After graduating he worked for newspapers in Cherkasy and was the Cherkasy correspondent of Robitnycha Hazeta. At home he made wine from rose petals and, in the French manner, called it “Simone”, and his wife Liudmyla “Lucienne”.
 
-Because of censorship, Symonenko published little in his lifetime. His only collection, Silence and Thunder, came out in 1962, and that same year he was admitted to the Writers’ Union of Ukraine. His best-known poems, though, were the samvydav ones: satires, poems about the hard life of the peasants, about resisting despotism and great-power chauvinism, and a cycle of poems about his love for Ukraine.
+Because of censorship, Symonenko published little in his lifetime. His only collection, Silence and Thunder, came out in 1962, and that same year he was admitted to the Writers’ Union of Ukraine. A children’s tale, Tsar Plaksii and Loskoton, also came out in his lifetime. His best-known poems, though, were the samvydav ones: satires, poems about the hard life of the peasants, about resisting despotism and great-power chauvinism, and a cycle of poems about his love for Ukraine.
 
 ## Secret graves near Kyiv
 
