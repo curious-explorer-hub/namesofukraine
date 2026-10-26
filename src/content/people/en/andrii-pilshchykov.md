@@ -21,7 +21,7 @@ quotes:
 
 ## The boy who photographed planes
 
-Andrii Pilshchykov was born in 1993 in Kharkiv and dreamed of flying from childhood. As a teenager he photographed aircraft and helped found the plane-spotting movement in his home city. His love of flying so impressed Kharkiv pilots that they set up an aviation cadet centre for teenagers. Andrii was in its first intake and made his first flight in a light “Bekas” plane; later, as a military pilot, he came back to teach the cadets himself. To get into the Ivan Kozhedub Kharkiv National University of the Air Force he first had to have his eyesight corrected. After graduating he flew MiG-29 fighters with the 40th Tactical Aviation Brigade. American pilots gave him the call sign “Juice” because he only ever ordered juice.
+Andrii Pilshchykov was born in 1993 in Kharkiv and dreamed of flying from childhood. As a teenager he photographed aircraft and helped found the plane-spotting movement in his home city. His love of flying so impressed Kharkiv pilots that they set up an aviation cadet centre for teenagers. Andrii was in its first intake and made his first flight in a light “Bekas” plane; later, as a military pilot, he came back to teach the cadets himself. To get into the Ivan Kozhedub Kharkiv National University of the Air Force he first had to have his eyesight corrected. After graduating he flew MiG-29 fighters with the 40th Tactical Aviation Brigade. American pilots gave him the call sign “Juice” in 2019, during an internship at an Air National Guard base in California, because he only ever ordered juice.
 
 ## He left the service, then came back
 
@@ -29,9 +29,9 @@ Pilshchykov quit in 2021: he disliked the Soviet ways that lingered in the army,
 
 ## Eight senators and the F-16
 
-How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and his classmate and close friend [Oleksii Mes](/en/people/oleksii-mes/), “Moonfish,” went to Washington and met eight US senators. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also helped helicopter pilots who were flying into battle in old helmets: he gave $13,000 of his own savings to buy new helmets for them. The LEGO “Ghost of Kyiv” minifigure was his idea too: between sorties he photographed what he was wearing so the figure would be an exact copy. Its sales raised about $60,000 for pilots’ gear.
+How do you talk America into giving Ukraine fighter jets? In 2022 Pilshchykov and his classmate and close friend [Oleksii Mes](/en/people/oleksii-mes/), “Moonfish,” went to Washington and met eight US senators. After these meetings Congressman Adam Kinzinger introduced the Ukraine Fighter Pilots Act in the House of Representatives. He gave interviews and spoke publicly about why Ukraine needed modern Western aircraft, the F-16 among them. He also helped helicopter pilots who were flying into battle in old helmets: he gave $13,000 of his own savings to buy new helmets for them. The LEGO “Ghost of Kyiv” minifigure was his idea too: between sorties he photographed what he was wearing so the figure would be an exact copy. Its sales raised about $60,000 for pilots’ gear.
 
-On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30. In November 2023 his name was engraved on the memorial wall of the US National Air and Space Museum. And in his home city of Kharkiv, after a petition signed by 5,000 people, a road was renamed “Juice’s Glide Path” in April 2024. A glide path is the line a plane follows as it comes in to land.
+On 25 August 2023 Andrii Pilshchykov was killed in the Zhytomyr region when two L-39 training and combat aircraft collided. He was 30. He was posthumously promoted to major. In November 2023 his name was engraved on the memorial wall of the US National Air and Space Museum. And in his home city of Kharkiv, after a petition signed by 5,000 people, a road was renamed “Juice’s Glide Path” in April 2024. A glide path is the line a plane follows as it comes in to land.
 
 ## Why it matters today
 
