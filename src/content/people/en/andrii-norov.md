@@ -10,6 +10,7 @@ key_accomplishments:
   - "Planned and organized the defense of the Kyiv hydroelectric plant at the start of the full-scale invasion (2022)"
   - "Hero of Ukraine with the Gold Star order (posthumously, decree No. 148/2022)"
 birthplace_name: "Kropyvnytskyi (then Kirovohrad)"
+image_alt: "Andrii Norov in Ukrainian Armed Forces field uniform with “Norov” and “Armed Forces of Ukraine” patches, against a dark background"
 ---
 
 ## The economist who joined the army

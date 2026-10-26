@@ -3,7 +3,7 @@ name: Андрій Норов
 gender: male
 born: 1977-06-06
 died: 2022-03-13
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-25
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -13,6 +13,15 @@ fun_fact: "Звання капітана Андрій Норов отримав 
 birthplace: { name: "Кропивницький (тоді Кіровоград)", region: kirovohrad, country: UA, lat: 48.508, lon: 32.262 }
 places:
   - { name: "Київська ГЕС, Вишгород", lat: 50.59, lon: 30.5, note: "організував оборону станції на початку повномасштабного вторгнення, 2022" }
+image:
+  src: ./images/andrii-norov.jpg
+  alt: "Андрій Норов у польовій формі ЗСУ з нашивками «Норов» і «Збройні сили України», на темному тлі"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorial.ua/obituaries/militaries/norov-andrii-6666"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Доброволець-контрактник 72-ї окремої механізованої бригади з 2016 року, згодом заступник командира батальйону"
   - "Учасник АТО/ООС; медаль «За військову службу Україні» (2019) та орден «За мужність» III ступеня (2020)"
@@ -29,7 +38,8 @@ sources:
     url: "https://memorybook.org.ua/soldiers/andrii-o-norov"
 related: []
 collections: [battle-of-kyiv]
-status: draft
+status: approved
+published: 2026-10-26T02:14:08Z
 ---
 
 ## Економіст, який пішов у військо
