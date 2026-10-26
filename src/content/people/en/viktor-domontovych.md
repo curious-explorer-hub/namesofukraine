@@ -13,16 +13,16 @@ key_accomplishments:
   - "A study of Ukrainian cultural figures destroyed by the Bolshevik terror (published in the West in 1959)"
   - "Author of about 300 scholarly works"
 birthplace_name: "Katerynoslav (now Dnipro)"
-image_alt: "Viktor Petrov in pince-nez and a dark suit, 1930s"
+image_alt: "Viktor Petrov in round glasses and a dark suit, 1930s"
 ---
 
 ## The sixth in the cluster
 
-The Kyiv Neoclassicists were known as the “cluster of five”: [Mykola Zerov](/en/people/mykola-zerov/), [Maksym Rylskyi](/en/people/maksym-rylskyi/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/), [Mykhailo Drai-Khmara](/en/people/mykhailo-drai-khmara/) and Oswald Burghardt. Later, critics added a sixth: Viktor Petrov, whom readers know as V. Domontovych. He was a friend of the Neoclassicists, and in 1923 he gave a talk at the Academy of Sciences on Neoclassicism in Ukrainian poetry.
+The Kyiv Neoclassicists were known as the “cluster of five”: [Mykola Zerov](/en/people/mykola-zerov/), [Maksym Rylskyi](/en/people/maksym-rylskyi/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/), [Mykhailo Drai-Khmara](/en/people/mykhailo-drai-khmara/) and [Oswald Burghardt](/en/people/yurii-klen/). Later, critics added a sixth: Viktor Petrov, whom readers know as V. Domontovych. He was a friend of the Neoclassicists, and in 1923 he gave a talk at the Academy of Sciences on Neoclassicism in Ukrainian poetry.
 
 ## A priest’s son from Katerynoslav
 
-Petrov was born in 1894 in Katerynoslav (now Dnipro), the son of a priest. On Soviet forms he would later write that his father had been a teacher. He went to school in Odesa and Kholm, and in 1918 he graduated from Kyiv University. In 1918–1921, while the civil war was wrecking Kyiv, he changed jobs 15 times. In the early 1920s he taught in Baryshivka, outside Kyiv, together with Zerov and Burghardt, the future [Yurii Klen](/en/people/yurii-klen/). The teachers there were paid in food, a rare luxury at the time. There Petrov met Sofia, Zerov’s wife. Scholars write that he loved her for the rest of his life.
+Petrov was born in 1894 in Katerynoslav (now Dnipro), the son of a priest. On Soviet forms he would later write that his father had been a teacher. He went to school in Odesa and Kholm, and in 1918 he graduated from Kyiv University. In 1918–1921, while the civil war was wrecking Kyiv, he changed jobs 15 times. In the early 1920s he taught in Baryshivka, outside Kyiv, together with Zerov and Burghardt, the future Yurii Klen. The teachers there were paid in food, a rare luxury at the time. There Petrov met Sofia, Zerov’s wife. Scholars write that he loved her for the rest of his life.
 
 ## Novels of ideas
 
