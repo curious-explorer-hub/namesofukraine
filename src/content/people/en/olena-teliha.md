@@ -17,7 +17,7 @@ quotes:
 
 ## “That dog’s language is my language!”
 
-Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv (other sources give 1907 and Saint Petersburg). In 1918 the family moved to Kyiv. In 1920 her father left for exile with the UNR government, while 13-year-old Olena stayed in Kyiv with her mother and worked as a messenger at the Kyiv Polytechnic Institute, where he had recently taught: she washed floors, delivered notices and sawed firewood. In 1922 the family was reunited in Poděbrady in Czechoslovakia. Olena grew up in a russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
+Olena Shovheniva was born in 1906 in the village of Ilyinskoye near Moscow, into the family of the hydraulic engineer Ivan Shovheniv, who came from Sloboda Ukraine, and a teacher from Podillia who came from an old Orthodox priestly family (other sources give 1907 and Saint Petersburg). In 1918 the family moved to Kyiv. In 1920 her father left for exile with the UNR government, while 13-year-old Olena stayed in Kyiv with her mother and worked as a messenger at the Kyiv Polytechnic Institute, where he had recently taught: she washed floors, delivered notices and sawed firewood. In 1922 the family was reunited in Poděbrady in Czechoslovakia. Olena grew up in a russian-speaking environment, and as she wrote in 1928, she had known Ukrainian only “very recently”.
 
 In 1934, at a party in Prague, someone began mocking the Ukrainian language. By her own account, printed in Vistnyk, Olena stood up, banged her fist on the table and shouted: “You boors! That dog’s language is my language! The language of my father and my mother! And I don’t want to know you any more!” From then on, she wrote, she spoke only Ukrainian.
 
@@ -29,7 +29,7 @@ Her verse is known for its subtle lyricism, love of life and the theme of heroic
 
 ## A poet of Vistnyk
 
-In 1923–1929 Olena studied at the Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw, where she taught at a Ukrainian school. From 1933 she published poems and essays in [Dmytro Dontsov](/en/people/dmytro-dontsov/)’s journal Vistnyk. In December 1939 Teliha joined the OUN and in Cracow worked with Oleh Olzhych in its cultural section, heading the Zarevo arts society.
+In 1923–1929 Olena studied at the Mykhailo Drahomanov Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw. At first they were poor, and by some accounts Olena performed musical numbers in night-time cabarets and even worked as a fashion model before she became a teacher at a Ukrainian school. From 1933 she published poems and essays in [Dmytro Dontsov](/en/people/dmytro-dontsov/)’s journal Vistnyk. In December 1939 Teliha joined the OUN and in Cracow worked with Oleh Olzhych in its cultural section, heading the Zarevo arts society.
 
 ## Kyiv, 1941
 
@@ -39,7 +39,7 @@ When the occupation authorities closed Ukrainske Slovo and replaced it with the 
 
 ## Her husband followed her to her execution
 
-On 9 February 1942 the Gestapo arrested her at the Union’s premises. Her husband Mykhailo Teliha, a Kuban Cossack and bandura player who had never left her side since they met in Prague in 1924, was not a member of the Union. Even so, he voluntarily joined the arrested writers. On the wall of her cell at 33 Korolenka Street Olena scratched a trident and the words “Here sat, and from here goes to her execution, Olena Teliha.”
+On 9 February 1942 the Gestapo arrested her at the Union’s premises. Her husband Mykhailo Teliha, a Kuban Cossack and bandura player who had never left her side since they met in Prague in 1924, was not a member of the Union and could have left, but he did not take the chance: he said he was a writer so that he could stay with his wife. On the wall of her cell at 33 Korolenka Street Olena scratched a trident and the words “Here sat, and from here goes to her execution, Olena Teliha.”
 
 The Nazis executed Olena and Mykhailo Teliha at Babyn Yar. The exact date is unknown: it is usually given as 21 February 1942, but also as 22 or 13 February. Her poems were published as a book only after her death, in the collection The Soul on Guard (1946).
 
