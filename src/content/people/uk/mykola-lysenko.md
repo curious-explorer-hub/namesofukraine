@@ -41,6 +41,7 @@ sources:
   - title: "Укрінформ - Микола Лисенко. 2. На чолі Олімпу"
     url: "https://www.ukrinform.ua/rubric-society/2567223-mikola-lisenko-2-na-coli-olimpu.html"
 related: [mykola-leontovych, taras-shevchenko, lesya-ukrainka, ivan-kotliarevskyi, mykola-hohol, hnat-khotkevych, liudmyla-starytska-cherniakhivska, sofiia-rusova]
+audio: { duration: "1:54" }
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
