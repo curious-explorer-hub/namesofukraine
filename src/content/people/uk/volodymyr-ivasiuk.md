@@ -19,12 +19,11 @@ places:
   - { name: "Брюховицький ліс", lat: 49.904, lon: 23.954, note: "тут 18 травня 1979 року знайшли його тіло" } # approximate: coordinates of Briukhovychi
 image:
   src: ./images/volodymyr-ivasiuk.jpg
-  alt: "Володимир Івасюк на лавці в парку"
-  position: "50% 20%"
-  author: "Український інститут національної пам'яті"
-  license: "CC BY 4.0"
-  ai_edit: colorized
-  source_url: "https://commons.wikimedia.org/wiki/File:Володимир_Івасюк.jpg"
+  alt: "Уявний портрет Володимира Івасюка з вусами, у темному піджаку й візерунчастій краватці, на тлі піаніно й книжкової шафи, створений ШІ"
+  position: "50% 30%"
+  author: "Знай своїх"
+  license: "Public domain"
+  ai_edit: generated
 key_accomplishments:
   - "«Червона рута» й «Водограй» (1970): перемоги на всесоюзних телефестивалях «Пісня-71» і «Пісня-72»"
   - "Пісні до музичного фільму «Червона рута» (1971)"

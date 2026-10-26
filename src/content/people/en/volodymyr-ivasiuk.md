@@ -10,7 +10,7 @@ key_accomplishments:
   - "107 songs, among them “Pisnia Bude Pomizh Nas” (A Song Will Be Among Us), “Balada pro Malvy” (Ballad of the Hollyhocks), “Dva Persteni” (Two Rings) and “Klenovyi Vohon” (Maple Fire), and 53 instrumental works"
   - "Shevchenko Prize (1994, posthumously); Hero of Ukraine (2009, posthumously, Decree No. 110/2009)"
 birthplace_name: "Kitsman"
-image_alt: "Volodymyr Ivasiuk on a park bench"
+image_alt: "Imagined portrait of Volodymyr Ivasiuk with a moustache, in a dark jacket and a patterned tie, in front of a piano and a bookcase, made by AI"
 quotes:
   - text: "Tell me, confess, where your magic comes from"
     source: "The song Chervona Ruta, 1970 (words and music)"
