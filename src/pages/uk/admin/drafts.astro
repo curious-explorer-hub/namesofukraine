@@ -11,6 +11,7 @@ if (!import.meta.env.DEV) {
 }
 
 const people = (await getPeople(lang)).filter((p) => p.data.status === 'draft').sort((a, b) => {
+  if (!!a.data.living !== !!b.data.living) return a.data.living ? 1 : -1;
   const aDate = new Date(a.data.last_reviewed || '');
   const bDate = new Date(b.data.last_reviewed || '');
   return bDate.getTime() - aDate.getTime();
@@ -31,7 +32,7 @@ const people = (await getPeople(lang)).filter((p) => p.data.status === 'draft').
             <tr>
               <th>{t('admin.name', lang)}</th>
               <th>{t('admin.role', lang)}</th>
-              <th>{t('admin.status', lang)}</th>
+              <th>{t('admin.life', lang)}</th>
               <th>{t('admin.last_reviewed', lang)}</th>
               <th>{t('admin.action', lang)}</th>
             </tr>
@@ -41,7 +42,7 @@ const people = (await getPeople(lang)).filter((p) => p.data.status === 'draft').
               <tr>
                 <td>{p.data.name}</td>
                 <td>{p.data.role}</td>
-                <td><span class="badge badge-draft">{t('draft.badge', lang)}</span></td>
+                <td>{t(`admin.${p.data.living ? 'living' : 'deceased'}${p.data.gender === 'female' ? '_female' : ''}`, lang)}</td>
                 <td>{new Date(p.data.last_reviewed || '').toLocaleDateString('uk-UA')}</td>
                 <td>
                   <a href={`${localePath(lang, '/people/')}${p.slug}/`} class="link-view">
@@ -115,19 +116,6 @@ const people = (await getPeople(lang)).filter((p) => p.data.status === 'draft').
 
   .drafts-table tbody tr:hover {
     background: var(--color-bg-secondary);
-  }
-
-  .badge {
-    display: inline-block;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.25rem;
-    font-size: 0.85rem;
-    font-weight: 600;
-  }
-
-  .badge-draft {
-    background: var(--color-draft-bg, #fef3c7);
-    color: var(--color-draft-text, #92400e);
   }
 
   .link-view {
