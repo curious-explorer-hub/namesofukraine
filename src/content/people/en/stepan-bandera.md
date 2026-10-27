@@ -3,7 +3,7 @@
 name: "Stepan Bandera"
 role: "Leader of the OUN-B"
 summary: "In the USSR his surname became a slur; for many Ukrainians it is a symbol of resistance. Stepan Bandera led the OUN-B, whose followers proclaimed the Act of Restoration of the Ukrainian State in 1941. One of the most contested figures in history."
-fun_fact: "As a young man Bandera was an active member of Plast, the Ukrainian scouting movement."
+fun_fact: "In Plast, the Ukrainian scouting movement, young Bandera went by the name “Gandhi”, after Mahatma Gandhi, leader of India’s struggle for independence. He got in only at his third attempt: rheumatism in his knees had kept him out."
 key_accomplishments:
   - "Head of the OUN’s regional executive in western Ukraine (1933–1934)"
   - "Led the OUN-B, which proclaimed the Act of Restoration of the Ukrainian State on 30 June 1941"
@@ -18,13 +18,13 @@ Why does the word “Banderite” sound like an insult to some and a badge of pr
 
 ## The road to the underground
 
-Stepan Bandera was born in 1909 in the village of Staryi Uhryniv in Prykarpattia, the Carpathian foothills, into the family of a Greek Catholic priest. In 1927 he joined the Ukrainian Military Organization, and in 1929, as a student at the Lviv Polytechnic, the OUN. In 1933 he became head of the OUN’s regional executive in western Ukraine. In 1936 a Polish court sentenced him to death for organizing the assassination of Interior Minister Bronisław Pieracki; the sentence was commuted to life imprisonment.
+Stepan Bandera was born in 1909 in the village of Staryi Uhryniv in Prykarpattia, the Carpathian foothills, into the family of a Greek Catholic priest. In 1927 he joined the Ukrainian Military Organization, and in 1929, as an agronomy student at the Lviv Polytechnic, the OUN. In 1933 he became head of the OUN’s regional executive in western Ukraine. In 1934, before his diploma exam, the Polish police arrested him, so he never received his agronomy degree. At the Warsaw trial of 1936 he was sentenced to death for organizing the assassination of Interior Minister Bronisław Pieracki; the sentence was commuted to life imprisonment. The same year he was tried again in Lviv.
 
 ## The 1941 Act and a Nazi camp
 
-The OUN split in 1940, and Bandera became leader of its revolutionary wing, the OUN-B. On 30 June 1941 in Lviv his followers proclaimed the Act of Restoration of the Ukrainian State. Berlin reacted sharply, but Bandera refused to revoke the Act. He was imprisoned first in Berlin and then, from 1942 until the autumn of 1944, in the Zellenbau, a special block for political prisoners at Sachsenhausen concentration camp. Two of his brothers, Oleksandr and Vasyl, died in Auschwitz in 1942.
+The OUN split in 1940, and Bandera became leader of its revolutionary wing, the OUN-B. On 30 June 1941 in Lviv his followers proclaimed the Act of Restoration of the Ukrainian State. Berlin reacted sharply, but Bandera refused to revoke the Act. He was imprisoned first in Berlin and then, from 1942 until the autumn of 1944, in the Zellenbau, a special block for political prisoners at Sachsenhausen concentration camp. His family suffered too: in 1941 a Soviet court sentenced his father, the priest Andrii Bandera, to be shot, and three of his sisters spent many years in Stalin’s camps. Two of his brothers, Oleksandr and Vasyl, died in Auschwitz in 1942.
 
-After the war Bandera lived in exile in Munich and headed the OUN’s Foreign Units. On 15 October 1959 he was killed by KGB agent Bohdan Stashynskyi.
+After the war Bandera lived in exile in Munich under the name Stefan Popel and headed the OUN’s Foreign Units. On 15 October 1959 he was killed by KGB agent Bohdan Stashynskyi, with a special pistol that fired a cyanide-based poison, hidden in a newspaper.
 
 ## Debates and assessments
 
