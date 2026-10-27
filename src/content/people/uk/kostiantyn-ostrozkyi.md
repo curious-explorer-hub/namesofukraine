@@ -4,7 +4,7 @@ gender: male
 born: 1460-01-01
 born_circa: true
 died: 1530-08-10
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-27
 era: lithuanian-polish
 group: statehood
 tags: [warrior, politician]
@@ -42,7 +42,8 @@ sources:
   - title: "Історична правда - Гальшка Острозька - Чорна Княгиня. Нещасливі шлюби найбагатшої нареченої"
     url: "https://www.istpravda.com.ua/articles/2011/05/12/38444/"
 related: [kostiantyn-vasyl-ostrozkyi, halshka-ostrozka]
-status: draft
+status: approved
+published: 2026-10-27T23:54:38Z
 ---
 
 ## «Руський Сципіон»
