@@ -23,11 +23,11 @@ Did you know Nataliia Ozarkevych married on special terms? She agreed with her f
 
 ## A priest’s daughter from the Sniatyn area
 
-She was born on 8 June 1855 in the village of Beleluia near Sniatyn (now in the Ivano-Frankivsk region), the daughter of the priest Ivan Ozarkevych, a deputy to the Galician Diet and the Austrian parliament. Other sources give her birth year as 1851. Nataliia was educated at home. Eight years after the wedding her husband died suddenly. The young widow went back to her parents and travelled with her father to Vienna, where she met Ukrainian students. Soon she began to write: her first story, “Mrs Shuminska”, came out in 1883.
+She was born on 8 June 1855 in the village of Beleluia near Sniatyn (now in the Ivano-Frankivsk region), the daughter of the priest Ivan Ozarkevych, a deputy to the Galician Diet and the Austrian parliament. Other sources give her birth year as 1851. Nataliia was educated at home. Eight years after the wedding her husband died suddenly. On the day of his funeral Nataliia cut off her long braids and laid them in his coffin, and from then on she wore black every day, which earned her the nickname “the lady in black”. The young widow went back to her parents and travelled with her father to Vienna, where she met Ukrainian students. Soon she began to write: her first story, “Mrs Shuminska” (later retitled “The Spirit of the Times”), came out in 1883, followed in 1884 by the novella “For a Piece of Bread”.
 
 ## The day a movement began
 
-On 8 December 1884 the Society of Ruthenian Women, founded by Kobrynska, held its first meeting in Stanyslaviv (now Ivano-Frankivsk). That date is seen as the start of the Ukrainian women’s movement. The society set out to shape “the growth of the female spirit” through literature and cared about education for village women. In 1891 Kobrynska called the first public women’s assembly in Stryi. She collected signatures for a petition to the Austrian government for women’s right to education. Kobrynska was convinced that women’s lives would change only through national awareness and a sound education.
+On 8 December 1884 the Society of Ruthenian Women, founded by Kobrynska, held its first meeting in Stanyslaviv (now Ivano-Frankivsk). That date is seen as the start of the Ukrainian women’s movement. The society set out to shape “the growth of the female spirit” through literature and cared about education for village women. In 1891 Kobrynska called the first public women’s assembly in Stryi. She collected signatures for a petition to the Austrian government for women’s right to education. Kobrynska was convinced that women’s lives would change only through national awareness and a sound education. That is why she argued with the German socialist Clara Zetkin, who held that the women’s question would be solved by changing the capitalist system.
 
 ## The First Wreath
 
@@ -39,7 +39,7 @@ At the women’s assembly in Stryi in 1891, Kobrynska raised the idea of day nur
 
 ## The last winter
 
-During the First World War, in 1915, Kobrynska was arrested and accused of spying; the lawyer and writer Andrii Chaikovskyi saved her from a camp. In her home in Bolekhiv she welcomed the Ukrainian Sich Riflemen. In the winter of 1920 she caught typhus and died alone in Bolekhiv; she was found dead on 22 January.
+During the First World War, in 1915, Kobrynska was arrested and accused of spying; the lawyer and writer Andrii Chaikovskyi saved her from a camp. In her home in Bolekhiv she welcomed the Ukrainian Sich Riflemen. In the winter of 1920 she caught typhus and died alone in Bolekhiv; she was found dead on 22 January. As she had asked, her gravestone reads: “My heart no longer aches.”
 
 ## Why it matters today
 
