@@ -8,7 +8,7 @@ key_accomplishments:
   - "The book Studies in Shevchenko's Poetics (written in the 1960s, published in 1990)"
   - "Compiled The Road of Pain (1990), the first book of Vasyl Stus published in Ukraine"
   - "Head of the editorial board of Stus's collected works; his letters appeared there with her commentary"
-  - "Shevchenko National Prize (2005) for the two-volume My Horizons"
+  - "Shevchenko National Prize (2005) for the two-volume My Horizons; Order of Princess Olha, 3rd class (2006)"
 birthplace_name: "Vinnytsia"
 image_alt: "Mykhailyna Kotsiubynska as a young woman with a lace collar"
 quotes:
@@ -22,7 +22,7 @@ In 1966 Mykhailyna Kotsiubynska was being expelled from the Communist Party. She
 
 ## A girl from the museum
 
-Mykhailyna was named after her uncle, the writer [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/). She was born in 1931 in Vinnytsia and, as she was told, in the very room where he had been born. Her father, Khoma, the writer's brother, was setting up a Kotsiubynskyi museum there, and later another one in Chernihiv. All her life, in her own words, she tried "not to disgrace that name". She graduated from Kyiv University and became a researcher at the Institute of Literature, studying how Shevchenko built his poems. She also translated poetry: her translations of the Canadian poet Pauline Johnson (Tekahionwake) came out in 1962, and in 1993 a collection of Jacques Prévert, most of it in her translation. At the institute she met a postgraduate student, [Vasyl Stus](/en/people/vasyl-stus/). She was deeply influenced by the Sixtiers [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/) and [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), and her friends included [Alla Horska](/en/people/alla-horska/) and [Lina Kostenko](/en/people/lina-kostenko/).
+Mykhailyna was named after her uncle, the writer [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/). She was born in 1931 in Vinnytsia and, as she was told, in the very room where he had been born. Her father, Khoma, the writer's brother, was setting up a Kotsiubynskyi museum there, and later another one in Chernihiv. All her life, in her own words, she tried "not to disgrace that name". She graduated from Kyiv University and became a researcher at the Institute of Literature, earning her candidate’s degree in philology in 1959 and studying how Shevchenko built his poems. She also translated poetry: her translations of the Canadian poet Pauline Johnson (Tekahionwake) came out in 1962, and in 1993 a collection of Jacques Prévert, most of it in her translation. At the institute she met a postgraduate student, [Vasyl Stus](/en/people/vasyl-stus/). She was deeply influenced by the Sixtiers [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/) and [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/), and her friends included [Alla Horska](/en/people/alla-horska/) and [Lina Kostenko](/en/people/lina-kostenko/).
 
 ## A protest and twenty years of silence
 
@@ -32,7 +32,7 @@ In 1972 the KGB summoned her for questioning for several months on end. They wan
 
 ## Stus’s “sister”
 
-Kotsiubynska wrote letters to friends in the camps. From exile, Stus called her his sister and slipped postcards for her into his letters to his wife. One said: "Mykhasia, if on your birthday you see the sky bending down to you, know that I did it." After his death she compiled The Road of Pain (1990), his first book in Ukraine, and then led the team that published his collected works; two books of its sixth volume hold his letters, with her commentary. She considered this the most important work of her life. With Valentyna Chornovil she also compiled the volume of letters of [Viacheslav Chornovil](/en/people/viacheslav-chornovil/).
+Kotsiubynska wrote letters to friends in the camps. From exile, Stus called her his sister and slipped postcards for her into his letters to his wife. One said: "Mykhasia, if on your birthday you see the sky bending down to you, know that I did it." After his death she compiled The Road of Pain (1990), his first book in Ukraine, and then led the team that published his collected works; two books of its sixth volume hold his letters, with her commentary. She considered this the most important work of her life. With Valentyna Chornovil she also compiled the volume of letters in the 10-volume collected works of [Viacheslav Chornovil](/en/people/viacheslav-chornovil/). She studied letters as a scholar too: her books on letter-writing are Recorded and Imperishable (2001) and Letters and People (2009).
 
 Mykhailyna Kotsiubynska died on 7 January 2011 in Kyiv.
 
