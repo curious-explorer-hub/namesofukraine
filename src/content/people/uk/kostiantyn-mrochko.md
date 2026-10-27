@@ -3,13 +3,22 @@ name: Костянтин Мрочко
 gender: male
 born: 1984-04-09
 died: 2022-03-08
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-27
 era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Танкіст, захисник Київщини"
 summary: "Війна для нього почалася в день народження: 9 квітня 2014 року танкіст із Волині Костянтин Мрочко пішов на фронт. Він виводив танки через мінне поле з-під Дебальцевого, а після кількох років в Ізраїлі 2022-го знову став до бою й боронив шлях на Київ. Герой України (посмертно)."
 fun_fact: "Кілька років Костянтин Мрочко жив в Ізраїлі, де працював на будівництві й на екофермі. Згодом в Ізраїлі випустили серію рожевих вин, названих на його честь."
+image:
+  src: ./images/kostiantyn-mrochko.jpg
+  alt: "Костянтин Мрочко в танкістському шоломі з номером 325 і камуфляжі, усміхається на тлі степу"
+  position: "50% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://uk.wikipedia.org/wiki/Файл:Мрочко_Костянтин_Васильович.jpg"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "З квітня 2014 року навідник танка на Сході України: бої біля Мар'їнки, Маріуполя й Іловайська"
   - "У танковому екіпажі Миколи Тишика виводив колони через мінне поле з околиць Дебальцевого"
@@ -27,7 +36,9 @@ sources:
     url: "https://armyinform.com.ua/2022/03/14/istoriya-geroya-ukrayiny-tankista-kostyantyna-mrochka/"
   - title: "Укрінформ - Пам'яті танкіста Героя України Костянтина Мрочка (13 серпня 2023)"
     url: "https://www.ukrinform.ua/rubric-ato/3746731-pamati-tankista-geroa-ukraini-kostantina-mrocka.html"
-status: draft
+collections: [battle-of-kyiv]
+status: approved
+published: 2026-10-27T23:56:26Z
 ---
 
 ## Війна, що почалася в день народження

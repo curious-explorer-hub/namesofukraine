@@ -9,6 +9,7 @@ key_accomplishments:
   - "In Mykola Tyshyk's tank crew, led columns through a minefield out of the Debaltseve area"
   - "From the first days of the full-scale invasion in 2022, defended the Kyiv region and the road to Kyiv with the 14th Separate Mechanised Brigade"
   - "Hero of Ukraine (posthumously; decree No. 127/2022 of 12 March 2022)"
+image_alt: "Kostiantyn Mrochko in a tank crew helmet marked 325 and camouflage, smiling against the steppe"
 birthplace_name: "Zhovtneve (now Blahodatne), Volyn region"
 ---
 
