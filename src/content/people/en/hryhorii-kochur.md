@@ -11,7 +11,7 @@ key_accomplishments:
   - "Compiler of Mykola Zerov’s Selected Works (1966, with Maksym Rylskyi) and co-compiler of his two-volume works (1990, with Dmytro Pavlychko)"
   - "The Maksym Rylskyi Prize (1989); posthumously, the Shevchenko National Prize (1995)"
 birthplace_name: "Feskivka"
-image_alt: "Hryhorii Kochur with greying swept-back hair, in a dark jacket and light shirt, in front of trees, black-and-white photograph"
+image_alt: "Hryhorii Kochur with greying swept-back hair, in a dark jacket and light blue shirt, in front of trees"
 ---
 
 ## Shakespeare inside a Party textbook

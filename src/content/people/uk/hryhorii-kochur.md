@@ -3,7 +3,7 @@ name: Григорій Кочур
 gender: male
 born: 1908-11-17
 died: 1994-12-15
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-28
 era: 20th-century
 group: literature
 tags: [writer, poet, human-rights]
@@ -18,11 +18,12 @@ places:
   - { name: "Ірпінь", lat: 50.522, lon: 30.25, note: "дім, куди приходили шістдесятники (1962–1994); тепер літературний музей Кочура; місце поховання" }
 image:
   src: ./images/hryhorii-kochur.jpg
-  alt: "Григорій Кочур із сивуватим зачесаним волоссям, у темному піджаку й світлій сорочці, на тлі дерев, чорно-біле фото"
+  alt: "Григорій Кочур із сивуватим зачесаним волоссям, у темному піджаку й блакитній сорочці, на тлі дерев"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://knpu.gov.ua/dyvosvit-hryhoriia-kochura/"
+  ai_edit: colorized
   fair_use: true
 key_accomplishments:
   - "Переклади з 30 національних літератур і 25 мов: від Сапфо й Горація до Петрарки, Війона, Рембо, Еліота, Пессоа"
@@ -43,7 +44,8 @@ sources:
     url: "https://knpu.gov.ua/dyvosvit-hryhoriia-kochura/"
 related: [mykola-lukash, maksym-rylskyi, mykola-zerov, ivan-svitlychnyi, vasyl-symonenko, yevhen-sverstiuk, ivan-dziuba, vasyl-stus, borys-antonenko-davydovych, dmytro-pavlychko]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-28T04:11:30Z
 ---
 
 ## Шекспір під обкладинкою «Короткого курсу»
