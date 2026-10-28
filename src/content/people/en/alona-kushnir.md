@@ -10,6 +10,10 @@ key_accomplishments:
   - "In spring 2022, in besieged Mariupol, treated the wounded and delivered food and water to civilians"
   - "On 17 March 2022 recorded an appeal from an Azovstal bunker calling for the siege of Mariupol to be broken"
   - "Order for Courage, 3rd class (March 2022), and 2nd class (posthumously; Decree No. 312/2022)"
+image_alt: "Alona Kushnir in a blue National Guard beret with a cockade and an olive uniform, smiling"
+videos:
+  - title: "Report on the death of combat medic Alona Kushnir in Mariupol"
+    source: "Ukrinform"
 birthplace_name: "Moroziv, Khmelnytskyi region"
 quotes:
   - text: "Break the blockade of Mariupol and let us bring in medicine, evacuate the wounded and bury the dead with dignity. This city has fought for the whole country for eight years and is fighting now. We are not martyrs, we are fighters! But right now we need the help of all of Ukraine!"

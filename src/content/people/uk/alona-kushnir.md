@@ -4,13 +4,22 @@ gender: female
 born: 1992-01-01
 born_circa: true
 died: 2022-04-15
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-28
 era: war-for-independence
 group: defenders
 tags: [warrior]
 role: "Бойова медикиня полку «Азов»"
 summary: "«Ми не мученики, ми - борці!» - так навесні 2022 року з бункера «Азовсталі» звернулася до світу Альона Кушнір. Медсестра з хмельницького села стала медичною інструкторкою полку «Азов» і в оточеному Маріуполі рятувала поранених військових і цивільних."
 fun_fact: "Альона важила лише близько 40 кілограмів, але не раз витягувала поранених побратимів із поля бою."
+image:
+  src: ./images/alona-kushnir.jpg
+  alt: "Альона Кушнір у синьому береті з кокардою Національної гвардії й оливковій формі, усміхається"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.khm.gov.ua/uk/node/21052"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Закінчила Чемеровецький медичний коледж (2011) і п'ять років працювала медсестрою у шпиталі в Хмельницькому"
   - "З 2017 року - медична інструкторка полку «Азов» Національної гвардії, старший сержант"
@@ -20,6 +29,13 @@ key_accomplishments:
 birthplace: { name: "Морозів, Хмельниччина", region: khmelnytskyi, country: UA, lat: 48.968, lon: 27.071 }
 places:
   - { name: "Маріуполь", lat: 47.098, lon: 37.613, note: "служила в полку «Азов»; 2022 року рятувала поранених в оточеному місті" }
+videos:
+  - youtube: 15d24-0wDd8
+    title: "Сюжет про загибель бойової медикині Альони Кушнір у Маріуполі"
+    source: "Укрінформ"
+    date: 2022-04-17
+    duration: "2:12"
+    section: 3
 quotes:
   - text: "Деблокуйте Маріуполь і дайте можливість привезти медикаменти, евакуювати поранених і по-людськи поховати мертвих. Місто, яке воювало за всю країну вісім років і воює тепер. Ми не мученики, ми - борці! Але зараз потребуємо допомоги всієї України!"
     source: "Відеозвернення з «Азовсталі», 17 березня 2022 року (за Укрінформом)"
@@ -34,7 +50,8 @@ sources:
     url: "https://suspilne.media/khmelnytskiy/898609-v-nas-nemae-tila-tilki-osobisti-reci-u-hmelnickomu-pohovali-prah-ta-osobisti-reci-vismoh-vijskovih/"
 related: []
 collections: [defenders-mariupol, women-army]
-status: draft
+status: approved
+published: 2026-10-28T01:20:32Z
 ---
 
 ## Перша медикиня в родині
