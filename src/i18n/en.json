@@ -183,8 +183,6 @@
   "admin.deceased": "Deceased",
   "admin.deceased_female": "Deceased",
   "admin.last_reviewed": "Last reviewed",
-  "admin.action": "Action",
-  "admin.view": "View",
   "admin.count": "Total drafts: {n}",
   "admin.no_drafts": "No drafts. All profiles are approved and published.",
   "person.contemporaries": "Alive at the same time",

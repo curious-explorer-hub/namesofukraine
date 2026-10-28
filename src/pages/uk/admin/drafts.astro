@@ -34,21 +34,15 @@ const people = (await getPeople(lang)).filter((p) => p.data.status === 'draft').
               <th>{t('admin.role', lang)}</th>
               <th>{t('admin.life', lang)}</th>
               <th>{t('admin.last_reviewed', lang)}</th>
-              <th>{t('admin.action', lang)}</th>
             </tr>
           </thead>
           <tbody>
             {people.map((p) => (
               <tr>
-                <td>{p.data.name}</td>
+                <td><a href={`${localePath(lang, '/people/')}${p.slug}/`} target="_blank" rel="noopener" class="link-view">{p.data.name}</a></td>
                 <td>{p.data.role}</td>
                 <td>{t(`admin.${p.data.living ? 'living' : 'deceased'}${p.data.gender === 'female' ? '_female' : ''}`, lang)}</td>
                 <td>{new Date(p.data.last_reviewed || '').toLocaleDateString('uk-UA')}</td>
-                <td>
-                  <a href={`${localePath(lang, '/people/')}${p.slug}/`} class="link-view">
-                    {t('admin.view', lang)} →
-                  </a>
-                </td>
               </tr>
             ))}
           </tbody>
