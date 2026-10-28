@@ -64,8 +64,9 @@ Context for AI agents working in this repository. Read it before changing anythi
 ## Content rules (summary of product_vision.md §7)
 
 - **Every new profile is a draft** (`status: draft` in the uk file) until the owner reviews it. Never set `status: approved` or `published` unless the owner tells you to approve that profile; then set `status: approved` and add `published: <current UTC time>` (e.g. `published: 2026-10-07T09:00:00Z`) under it. Drafts are not on the site, and links to them render as plain text.
+- **Research:** for a new profile, read and compare at least 7–10 sources in Ukrainian and/or English, and keep only facts that agree across them ("Research" in [docs/STYLE.md](docs/STYLE.md)).
 - **Facts:** ≥ 2 reputable sources per profile, at least one encyclopedic (ЕСУ esu.com.ua, ЕІУ history.org.ua, Internet Encyclopedia of Ukraine). Wikipedia alone is never enough. Don't invent quotes, numbers or awards.
-- **No Russian sources:** don't search, open or cite Russian media, publishers, institutions or `.ru` sites (ru.wikipedia and ru.wikisource included) for facts, quotes or images; Russia is known for propaganda and disinformation. Verify through Ukrainian, English-language or other international sources.
+- **No Russian sources:** don't search, open or cite Russian media, publishers, institutions or `.ru` sites (ru.wikipedia and ru.wikisource included) for facts, quotes or images; Russia is known for propaganda and disinformation that tries to undermine and discredit Ukrainian achievements. Verify through Ukrainian, English-language or other international sources.
 - **Sources listed:** no more than one per website, together backing every fact in the text; as many as the facts need (the list is a collapsible panel; owner decision 2026-10-21, replacing the earlier cap of 4).
 - **Limits:** role ≤ 40 characters, summary ≤ 300, in both languages (the schema enforces them).
 - **Dates:** Gregorian from 1582; `born_circa` / `died_circa` when uncertain. Living people: `living: true`, and no wording that goes stale ("currently", "still lives"); use "as of <month year>" where needed.

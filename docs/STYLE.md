@@ -18,6 +18,15 @@ The site exists to show the people who built Ukraine and those who still fight f
 
 A fact that explains this belongs in the story before one that only fills in a career. The focus never bends the facts: everything stays sourced, contested people keep a neutral «Дискусії та оцінки» section, and a person's ties to Ukraine are stated as precisely as they are (§7).
 
+## Research
+
+How facts for a new profile are found, before any text is written.
+
+- **7–10 sources at least.** Read and compare at least 7–10 sources before drafting, in Ukrainian and/or English: encyclopedias (ЕСУ, ЕІУ, Internet Encyclopedia of Ukraine), UINP, museums, archives, universities, official sites, major Ukrainian and international media. Keep a fact only when it agrees across sources; when they disagree, say so («За різними даними…») or leave it out. Wikipedia and listicles are leads: follow them to a source that can be cited.
+- **No Russian sources, not even as leads** (§7.3). Russian propaganda tries to undermine and discredit Ukrainian achievements, so russian-language material from Russian media, publishers, institutions or `.ru` sites is never searched or used.
+- **Interesting, not dry.** A profile is short, so every fact has to earn its place: something surprising, specific (a name, a number, an object, a place) or telling about the person's character and deeds. Pass over dates and posts that only fill in a career.
+- **Pride and a reason to act.** Prefer facts that show what the person gave Ukraine and the world, so the reader is proud of being Ukrainian and wants to do something good. The facts stay accurate and sourced: pride comes from what really happened, not from praise.
+
 ## Quotes
 
 The quote panel is the one place where the reader hears the person directly, so choose words that inspire: words that make a reader want to achieve something and stand up for what is right. A good quote:
@@ -110,11 +119,12 @@ It must be the **last section**, always («Дискусії та оцінки»,
 
 ## Checklist
 
-1. Does the summary make you want to open the profile?
-2. Does each section start with something other than a date?
-3. Is every hook true, sourced and answered?
-4. Could a 15-year-old retell the story after one reading?
-5. Is anything left that nobody would miss?
-6. Do Ukrainian and English say the same things, each in its own voice?
-7. Does the ending say, in five sentences or fewer and without retelling the story, what this person changed, why it matters to Ukraine and the world, and why it should inspire the reader?
-8. Do the sections run in time order after the hook, without jumping back?
+1. Were 7–10 sources compared, none of them Russian, and does every fact add something interesting?
+2. Does the summary make you want to open the profile?
+3. Does each section start with something other than a date?
+4. Is every hook true, sourced and answered?
+5. Could a 15-year-old retell the story after one reading?
+6. Is anything left that nobody would miss?
+7. Do Ukrainian and English say the same things, each in its own voice?
+8. Does the ending say, in five sentences or fewer and without retelling the story, what this person changed, why it matters to Ukraine and the world, and why it should inspire the reader?
+9. Do the sections run in time order after the hook, without jumping back?
