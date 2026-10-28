@@ -3,7 +3,7 @@ name: Михайло Горинь
 gender: male
 born: 1930-06-17
 died: 2013-01-13
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-28
 era: 20th-century
 group: civic
 tags: [human-rights, politician]
@@ -16,10 +16,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "секретаріат Народного Руху України, Верховна Рада 1-го скликання" }
 image:
   src: ./images/mykhailo-horyn.jpg
-  alt: "Михайло Горинь, офіційне фото народного депутата I скликання, 1990"
-  author: "Верховна Рада України"
-  license: "Attribution"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%94%D0%A3_1_%D0%93%D0%BE%D1%80%D0%B8%D0%BD%D1%8C_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%BE%D0%B2%D0%B8%D1%87.jpg"
+  alt: "Михайло Горинь у великих окулярах, із сивим волоссям і вусами, у сірому піджаку, на тлі зелені"
+  position: "50% 35%"
+  author: "Харківська правозахисна група (archive.khpg.org)"
+  license: "CC BY-SA 1.0"
+  source_url: "https://commons.wikimedia.org/wiki/File:Mychajlo_Horyn.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Створив на львівському заводі першу в СРСР експериментальну лабораторію психології і фізіології праці (1961)"
   - "Один з організаторів львівського клубу творчої молоді «Пролісок» (1963) і поширення самвидаву"
@@ -46,7 +48,8 @@ sources:
     url: "https://zaxid.net/disidenti_n1529816"
 related: [bohdan-horyn, ivan-hel, viacheslav-chornovil, ivan-svitlychnyi, ivan-dziuba, ivan-drach, mykola-rudenko, oksana-meshko, oleksa-tykhyi, valerii-marchenko, vasyl-stus]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-28T04:02:47Z
 ---
 
 ## Як з'єднати Львів і Київ без дроту

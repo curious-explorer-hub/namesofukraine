@@ -12,7 +12,7 @@ key_accomplishments:
   - "A founder of the People’s Movement of Ukraine (Rukh) and head of its secretariat (1989); proposed the Lviv–Kyiv human chain (1990)"
   - "Member of the first Verkhovna Rada (1990–1994); leader of the Ukrainian Republican Party (1992–1995)"
 birthplace_name: "Kniselo, Lviv region"
-image_alt: "Mykhailo Horyn, official portrait as a member of the first Verkhovna Rada, 1990"
+image_alt: "Mykhailo Horyn in large glasses, with grey hair and a moustache, in a grey jacket, against greenery"
 ---
 
 ## How to link Lviv and Kyiv without a wire
