@@ -3,7 +3,7 @@
 name: "Leonid Bykov"
 role: "Director of the classic “Old Men” film"
 summary: "He was thrown out of flight school after a month, yet he made the best-known film about pilots. Leonid Bykov directed and starred in Only “Old Men” Are Going to Battle and became one of the most beloved figures of Ukrainian cinema."
-fun_fact: "In 1994 a minor planet discovered in 1973 was named after Bykov."
+fun_fact: "In 1994 the minor planet 4682 Bykov was named after him. It was discovered in 1973, the year Only “Old Men” Are Going to Battle came out."
 key_accomplishments:
   - "The film Only “Old Men” Are Going to Battle (1973; as Captain Titarenko)"
   - "The film Aty-Baty, the Soldiers Were Marching... (1977; as Sviatkin)"
@@ -16,7 +16,7 @@ image_alt: "Leonid Bykov in the film Tamer of Tigers"
 
 ## A pilot who never got to fly
 
-Leonid Bykov was born in 1928 into a working-class family in the village of Znamianka in the Donetsk region and grew up in Kramatorsk. He dreamed of flying and tried twice to get into flight school. After eighth grade he was taken into a flight school in Kryvyi Rih, but he was expelled after a month: he had added a year to his age. So Bykov went to the Kharkiv Theatre Institute instead. While still a student he was invited by the director Marian Krushelnytskyi to join the Shevchenko Drama Theatre in Kharkiv, where he acted until 1960.
+Leonid Bykov was born in 1928 into a working-class family in the village of Znamianka in the Donetsk region and grew up in Kramatorsk. In fourth grade he was already putting on his first play, Tania the Revolutionary. He dreamed of flying and tried twice to get into flight school. After eighth grade he was taken into a flight school in Kryvyi Rih, but he was expelled after a month: he had added a year to his age. So Bykov went to the Kharkiv Theatre Institute instead, graduating in 1951. While still a student he was invited by the director Marian Krushelnytskyi to join the Shevchenko Drama Theatre in Kharkiv, where he acted until 1960.
 
 ## From Maksym Perepelytsia to Zaichik
 
@@ -24,11 +24,11 @@ Film fame came in the 1950s with roles in Tamer of Tigers and Maksym Perepelytsi
 
 ## The sky on screen
 
-His best-known film is Only “Old Men” Are Going to Battle, about Second World War pilots. Bykov directed it and played Captain Titarenko. With his co-writers he questioned veteran pilots, Ivan Kozhedub among them, and he took the hero's name from Kozhedub's comrade-in-arms Dmytro Tytorenko, changing one letter. The pilot nicknamed Smuglianka was modelled on Bykov's childhood friend from Kramatorsk, the pilot Viktor Shchedronov, who was killed in the war on 11 April.
+His best-known film is Only “Old Men” Are Going to Battle, about Second World War pilots. Bykov directed it and played Captain Titarenko. With his co-writers he questioned veteran pilots, Ivan Kozhedub among them, and he took the hero's name from Kozhedub's comrade-in-arms Dmytro Tytorenko, changing one letter. During filming Bykov decided to fly the plane himself and wasn't even afraid of a barrel roll, one of the hardest aerobatic figures. The pilot nicknamed Smuglianka was modelled on Bykov's childhood friend from Kramatorsk, the pilot Viktor Shchedronov, who was killed in the war on 11 April.
 
 The film was a huge hit. At the 1974 film festival in Baku, officials wanted to give it the top prize so that Vasyl Shukshyn's The Red Snowball Tree would not win it. Bykov refused, and his film took the second prize. In 1977 his film Aty-Baty, the Soldiers Were Marching... came out, and that same year Bykov won the Shevchenko State Prize of the Ukrainian SSR for both films.
 
-On 11 April 1979, the day Viktor Shchedronov had been killed, Bykov died in a car crash on a highway near Kyiv. He had left a letter, a kind of will, for his friends Ivan Mykolaichuk and Mykola Mashchenko, and as he asked, he was buried at Baikove Cemetery without official speeches or a brass band: instead, the "second squadron" sang Smuglianka.
+Bykov had several heart attacks during his life. On 11 April 1979, the day Viktor Shchedronov had been killed, Bykov died in a car crash on a highway near Kyiv. He had left a letter, a kind of will, for his friends Ivan Mykolaichuk and Mykola Mashchenko, and as he asked, he was buried at Baikove Cemetery without official speeches or a brass band: instead, the "second squadron" sang Smuglianka.
 
 ## Why it matters today
 
