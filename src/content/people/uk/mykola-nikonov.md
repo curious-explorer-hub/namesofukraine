@@ -3,7 +3,7 @@ name: Микола Ніконов
 gender: male
 born: 1985-08-09
 died: 2022-03-12
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-28
 era: war-for-independence
 group: defenders
 tags: [warrior]
@@ -13,6 +13,15 @@ fun_fact: "Микола Ніконов був не лише командиром
 birthplace: { name: "Кривий Ріг", region: dnipropetrovsk, country: UA, lat: 47.910, lon: 33.392 }
 places:
   - { name: "Маріуполь", lat: 47.096, lon: 37.549, note: "12 діб обороняв місто; загинув 12 березня 2022, виводячи групу з оточення" }
+image:
+  src: ./images/mykola-nikonov.jpg
+  alt: "Микола Ніконов в оливковому лонгсліві на світлому тлі, легко усміхається"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorial.ua/obituaries/militaries/nikonov-mykola-6667"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Командир першого загону спеціальних операцій 73-го морського центру спеціального призначення імені Антіна Головатого Сил спеціальних операцій (Очаків); інструктор зі стрибків з парашутом, водолаз-розвідник"
   - "З 2014 року воював на сході України: розвідувальний рейд до кордону з росією під Новоазовськом (2014), атака на російський опорний пункт під Чермаликом (2015)"
@@ -30,7 +39,8 @@ sources:
     url: "https://memorial.ua/obituaries/militaries/nikonov-mykola-6667"
 related: []
 collections: [defenders-mariupol]
-status: draft
+status: approved
+published: 2026-10-28T01:40:38Z
 ---
 
 ## 70 кілометрів у тил ворога

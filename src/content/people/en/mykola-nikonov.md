@@ -10,6 +10,7 @@ key_accomplishments:
   - "After the full-scale invasion in 2022, his group went 70 km behind enemy lines to occupied Novoazovsk and blew up enemy military supplies"
   - "In 12 days of defending Mariupol his unit destroyed 6 enemy vehicles"
   - "Order of Bohdan Khmelnytskyi, 3rd class (2016); Hero of Ukraine, posthumously (decree No. 148/2022 of 19 March 2022)"
+image_alt: "Mykola Nikonov in an olive long-sleeved top against a light background, with a slight smile"
 birthplace_name: "Kryvyi Rih"
 ---
 
