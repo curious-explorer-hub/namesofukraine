@@ -4,7 +4,7 @@ name: "Ivan Hel"
 role: "Dissident, twice a political prisoner"
 summary: "For 100 days Ivan Hel went on hunger strike in a Soviet camp to be allowed to register his marriage, and he won. A Lviv Sixtier, he spent 18 years in captivity, wrote a book there that came out in London as Stepan Hoverlia, and once free led the fight to legalise the Greek Catholic Church."
 fun_fact: "KGB investigators drove Hel around the city, showed him how people lived and promised he could become a manager. As soon as they started trying to recruit him, he said, he would start “recruiting” them, and that kind of nerve scared them."
-image_alt: "Ivan Hel with grey hair combed back and a grey beard, in a dark jacket and tie, black-and-white portrait photograph"
+image_alt: "Ivan Hel with grey hair combed back and a grey beard, in a dark jacket, white shirt and blue tie, portrait photograph"
 key_accomplishments:
   - "Prepared and spread samvydav; after his first sentence he printed 11 samvydav books, among them works by Ivan Dziuba and Valentyn Moroz"
   - "The book Facets of Culture, written in captivity (London, 1984, as Stepan Hoverlia; Lviv, 1993)"

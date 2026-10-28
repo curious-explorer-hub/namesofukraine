@@ -3,7 +3,7 @@ name: Іван Гель
 gender: male
 born: 1937-07-17
 died: 2011-03-16
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-28
 era: 20th-century
 group: civic
 tags: [human-rights, writer, politician]
@@ -17,11 +17,12 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.032, note: "навчання, самвидав, Комітет захисту УГКЦ, обласна рада; місце смерті" }
 image:
   src: ./images/ivan-hel.jpg
-  alt: "Іван Гель із сивим зачесаним назад волоссям і сивою бородою, у темному піджаку й краватці, чорно-білий фотопортрет"
+  alt: "Іван Гель із сивим зачесаним назад волоссям і сивою бородою, у темному піджаку, білій сорочці й синій краватці, фотопортрет"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://esu.com.ua/article-28997"
+  ai_edit: colorized
   fair_use: true
 key_accomplishments:
   - "Готував і поширював самвидав; після першого ув'язнення надрукував 11 самвидавних книжок, серед них твори Івана Дзюби й Валентина Мороза"
@@ -44,7 +45,8 @@ sources:
     url: "https://risu.org.ua/en/ukrainian-dissident-ivan-hel-has-died_n45812"
 related: [mykhailo-horyn, bohdan-horyn, mykhailo-kosiv, alla-horska, viacheslav-chornovil, ivan-dziuba, taras-shevchenko]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-28T03:56:04Z
 ---
 
 ## Хто такий Степан Говерля?
