@@ -28,8 +28,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Володимир Зеленський | | State (statehood) | 🟢 | Current leader (see Editorial notes) |
 | Олександр Сирський |  | Commander-in-Chief (military) | 🟢 | Current leader (see Editorial notes). Led the defence of Kyiv and commanded the September 2022 Kharkiv offensive; Hero of Ukraine (Decree 213/2022). The Irpin dam order is not tied to him personally in sources. Fits both battle-of-kyiv and kharkiv-counteroffensive |
 | Кирило Буданов | | Military (statehood) | 🟢 | Head of military intelligence (HUR); Hero of Ukraine (2024). Serving leader |
-| Володимир Блаватський | 1900–1953 | Actor, director (performing-arts) | 🌍 | Owner request 2026-10-19 for «Березіль» people. From the Kurbas school, but he emigrated after the war and wasn't repressed: a theatre profile, not the Executed Renaissance? |
-| Олександр Білецький | 1884–1961 | Literary scholar (literature) | | Owner request 2026-10-19. A Soviet academician who wasn't repressed: does he fit «people who made Ukraine» (§7), and not the Executed Renaissance collection? |
 | «Григорій Тарасенко» | | Composer? (performing-arts) | | Owner request 2026-10-19: named among repressed avant-garde composers, but no such composer is known. Who is meant? |
 | Жан Беленюк | b. 1991 | Greco-Roman wrestler (sport) | 🟢 | Owner request 2026-10-12. From Kyiv; Olympic champion (Tokyo 2020), silver (Rio 2016) and bronze (Paris 2024); world champion 2015 and 2019. But he is also an MP («Слуга народу», since 2019): a current partisan politician by §7.6 (see Editorial notes). Profile the sports career now, or wait? |
 | Віктор Ющенко | b. 1954 | State (statehood) | 🟢 | Owner decision 2026-09-29: not yet, but will be added later. When? |
