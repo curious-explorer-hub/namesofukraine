@@ -3,7 +3,7 @@ name: Галина Зубченко
 gender: female
 born: 1929-07-19
 died: 2000-08-04
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-29
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -17,11 +17,30 @@ places:
   - { name: "Немішаєве", lat: 50.557, lon: 30.090, note: "місце поховання" }
 image:
   src: ./images/halyna-zubchenko.jpg
-  alt: "Літня Галина Зубченко в коричневому капелюшку, білому светрі з високим коміром і довгому вовняному кожушку з червоним геометричним орнаментом, на тлі гірського краєвиду в золотій рамі"
-  position: "50% 15%"
-  author: "Olexchest"
-  license: "CC BY-SA 3.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:ZubchenkoGO_Better.jpg"
+  alt: "Молода Галина Зубченко з темним волоссям, укладеним у косу, у чорному жакеті з високим коміром, усміхається, підперши щоку рукою, за столом; на стіні - розписні тарілки"
+  position: "50% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://sovietmosaicsinukraine.org/ua/artists/3"
+  ai_edit: colorized
+  fair_use: true
+gallery:
+  - src: ./images/halyna-zubchenko-tree-of-life.jpg
+    alt: "«Дерево життя»: дерево з темно-червоним стовбуром і синьо-зеленою кроною з геометричних шматочків, обабіч яскраві квіти-птахи, угорі жовтий птах, на тлі червоних променів і темної землі"
+    caption: "«Дерево життя»"
+    section: 6
+    author: "Галина Зубченко"
+    license: "Fair use"
+    source_url: "https://treasures.ui.org.ua/zubchenko_ua"
+    fair_use: true
+  - src: ./images/halyna-zubchenko-legend-of-fidelity.jpg
+    alt: "«Легенда про вірність»: два птахи, жовто-золотий і блакитний, сплетені шиями в одне ціле, на тлі червоних і помаранчевих кіл"
+    caption: "«Легенда про вірність»"
+    section: 7
+    author: "Галина Зубченко"
+    license: "Fair use"
+    source_url: "https://treasures.ui.org.ua/zubchenko_ua"
+    fair_use: true
 key_accomplishments:
   - "Дипломна картина «Гуцульське весілля» (1959), тепер у Музеї Івана Гончара в Києві"
   - "Співзасновниця образотворчої секції Клубу творчої молоді в Києві (1962)"
@@ -50,7 +69,8 @@ sources:
     url: "https://kyivhistorymuseum.org.ua/en/exhibitions/ukrainskyy-donbas-shistdesiatnykiv/"
 related: [alla-horska, opanas-zalyvakha, halyna-sevruk, liudmyla-semykina, viktor-zaretskyi, les-taniuk, ivan-svitlychnyi, mykhailo-boichuk]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-29T02:02:00Z
 ---
 
 ## Скринька зі смальтою

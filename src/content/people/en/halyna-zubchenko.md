@@ -12,7 +12,12 @@ key_accomplishments:
   - "With Hryhorii Pryshedko, the mosaics Blooming Ukraine (Mariupol, 1967), Movement (1969), Blacksmiths of Modernity (1974) and Masters of Time (Institute of Cybernetics, Kyiv)"
   - "Carpathian paintings, Crimean Watercolours, the Lavra cycle and the icon The Saviour Not Made by Hands"
 birthplace_name: "Kyiv"
-image_alt: "An elderly Halyna Zubchenko in a brown hat, a white turtleneck and a long woollen coat with red geometric patterns, in front of a mountain landscape in a gold frame"
+image_alt: "A young Halyna Zubchenko with dark hair in a braid, in a black high-collared jacket, smiling with her cheek resting on her hand at a table; painted plates hang on the wall behind her"
+gallery:
+  - alt: "Tree of Life: a tree with a dark red trunk and a blue-green crown of geometric pieces, bright flower-birds on either side and a yellow bird above, against red rays and dark earth"
+    caption: "Tree of Life"
+  - alt: "The Legend of Fidelity: two birds, one golden yellow and one light blue, their necks intertwined into one, against red and orange circles"
+    caption: "The Legend of Fidelity"
 ---
 
 ## A box of glass
