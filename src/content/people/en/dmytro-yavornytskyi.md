@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/dmytro-yavornytskyi.md
 name: "Dmytro Yavornytskyi"
 role: "Historian of the Zaporozhian Cossacks"
-summary: "Look at the scribe at the centre of Illia Riepin’s Zaporozhian Cossacks: the historian Dmytro Yavornytskyi posed for him. The “Cossack Father” wrote a three-volume history of the Zaporozhians, gathered about 80,000 objects in Katerynoslav and saved relics of the Dnipro Rapids before they were flooded."
+summary: "Look at the scribe at the centre of Illia Riepin’s Zaporozhian Cossacks: the historian Dmytro Yavornytskyi posed for him. The “Cossack Father” wrote a three-volume history of the Zaporozhians, gathered about 80,000 objects in Katerynoslav and saved relics of the Dnipro Rapids before the flood."
 fun_fact: "For almost half a century Yavornytskyi signed his name “Evarnytskyi”, after a clerk misspelled it; only in 1918 did he take back his real name."
 key_accomplishments:
   - "The three-volume History of the Zaporozhian Cossacks (1892–1897)"
