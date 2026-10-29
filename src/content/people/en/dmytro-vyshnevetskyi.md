@@ -11,6 +11,7 @@ key_accomplishments:
   - "Starosta of Cherkasy and Kaniv from the 1540s; relied on the Cossacks to defend the southern frontier"
   - "Built a fortification on the island of Mala Khortytsia (1550s), a forerunner of the Zaporozhian Sich"
   - "Campaigns against the Turkish fortress of Ochakiv and the Tatar Islam-Kermen"
+  - "Campaigns against Azov and along the lower Don (1559)"
   - "Took part in campaigns against the Crimean Khanate in the service of Muscovite Tsar Ivan IV (1557–1561)"
   - "Hero of the folk song (duma) about the Cossack Baida"
 birthplace_name: "Unknown"
@@ -32,6 +33,8 @@ The angry Crimean khan first tried to win the prince over, sending him gifts and
 ## Between tsar, king and sultan
 
 When the help the Lithuanian and Polish authorities had promised never came, Vyshnevetskyi entered the service of Muscovite Tsar Ivan IV and fought against the Crimean Khanate. He later returned to the allegiance of Sigismund II.
+
+In 1559 Vyshnevetskyi twice marched on the Turkish fortress of Azov at the mouth of the Don and fought along the lower Don and near Kerch, acting there practically on his own. Some historians believe that the Ukrainian Cossacks who came to the Don with him gave rise to the Don Cossacks and to their capital, the town of Cherkassk. The town’s name is linked to the “Cherkasy”, as Ukrainian Cossacks were then called, and according to tradition it was first built by Ukrainians. There are no direct records of Vyshnevetskyi’s own role, so the question remains open.
 
 In 1563 Vyshnevetskyi set out for Moldavia: some Moldavian boyars who did not want Tomșa as their ruler had invited him to take the throne. During the campaign he was wounded and captured, then taken to Istanbul. On 15 October 1563 the French ambassador in Istanbul wrote that "poor Dimitrashko", as the prince was called there, would arrive that day or the next morning. Historians write that Vyshnevetskyi refused to enter Turkish service. On 29 October 1563, on the sultan's orders, he was executed together with the Polish nobleman Piasecki.
 
