@@ -5,6 +5,7 @@ describe('continent cards', () => {
   it('puts each birthplace on the card of its part of the world', () => {
     expect(continentOf(30.32, 59.95)).toBe('europe'); // Saint Petersburg
     expect(continentOf(44.79, 41.72)).toBe('europe'); // Tbilisi: the Caucasus goes with Europe
+    expect(continentOf(49.11, 55.8)).toBe('europe'); // Kazan
     expect(continentOf(-73.83, 40.71)).toBe('north-america'); // New York
     expect(continentOf(-58.4, -34.6)).toBe('south-america'); // Buenos Aires
     expect(continentOf(151.2, -33.9)).toBe('oceania'); // Sydney

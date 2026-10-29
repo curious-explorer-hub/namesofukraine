@@ -14,7 +14,7 @@ type Point = [number, number];
 // Each card frames one part of the world (degrees). A birthplace goes to the first frame that holds it,
 // so Europe takes the Caucasus and the Middle East edge before Asia does.
 export const CONTINENTS = [
-  { id: 'europe', west: 2, east: 48, south: 38, north: 62 },
+  { id: 'europe', west: 2, east: 50, south: 38, north: 62 },
   { id: 'north-america', west: -128, east: -60, south: 14, north: 56 },
   { id: 'south-america', west: -85, east: -33, south: -56, north: 13 },
   { id: 'africa', west: -19, east: 52, south: -36, north: 34 },
