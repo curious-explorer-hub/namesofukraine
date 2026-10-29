@@ -12,10 +12,10 @@ key_accomplishments:
   - "Founder of the Simferopol studio that grew into the Crimean art school named after him"
   - "More than 10,000 paintings and drawings"
 birthplace_name: "Nizhyn"
-image_alt: "An elderly Mykola Samokysh in a light peaked cap and round glasses, with a grey moustache, holding a pipe; he wears a jacket and bow tie, black-and-white photo"
+image_alt: "An elderly Mykola Samokysh in a light peaked cap with a black visor and round glasses, with a full grey moustache, holding a pipe; he wears a green tweed jacket and a plaid bow tie"
 gallery:
-  - alt: "Bohdan Khmelnytskyi on a white horse rides through a city gate, surrounded by a crowd of Kyivans and Cossacks greeting him, black-and-white reproduction"
-    caption: "Bohdan Khmelnytskyi Entering Kyiv in 1648 (1929)"
+  - alt: "Kryvonos in a red zhupan on a white horse swings his sabre at Wiśniowiecki in armour on a bay horse, while Cossacks and peasants with scythes and axes charge into battle around them"
+    caption: "Maksym Kryvonos Fighting Jeremi Wiśniowiecki (1934), National Art Museum of Ukraine"
 ---
 
 ## Punished for horses

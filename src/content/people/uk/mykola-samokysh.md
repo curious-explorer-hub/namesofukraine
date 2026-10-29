@@ -18,19 +18,20 @@ places:
   - { name: "Сімферополь", lat: 44.952, lon: 34.102, note: "з 1922 року; заснував студію, з якої виросло художнє училище; тут помер 1944 року" }
 image:
   src: ./images/mykola-samokysh.jpg
-  alt: "Літній Микола Самокиш у світлому кашкеті й круглих окулярах, із сивими вусами, тримає люльку; на ньому піджак і краватка-метелик, чорно-біле фото"
+  alt: "Літній Микола Самокиш у світлому кашкеті з чорним козирком і круглих окулярах, із пишними сивими вусами, тримає люльку; на ньому зелений твідовий піджак і картата краватка-метелик"
   position: "50% 35%"
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Mykola_Samokysh_-_photo-portrait.jpg"
+  ai_edit: colorized
 gallery:
-  - src: ./images/mykola-samokysh-khmelnytskyi-kyiv.jpg
-    alt: "Богдан Хмельницький на білому коні в'їжджає крізь міську браму, довкола натовп киян і козаків вітає його, чорно-біла репродукція"
-    caption: "«В'їзд Богдана Хмельницького в Київ у 1648 році» (1929)"
+  - src: ./images/mykola-samokysh-kryvonis.jpg
+    alt: "Кривоніс у червоному жупані на білому коні замахується шаблею на Вишневецького в латах на гнідому коні, довкола в бій біжать козаки й селяни з косами та сокирами"
+    caption: "«Бій Максима Кривоноса з Яремою Вишневецьким» (1934), Національний художній музей України"
     section: 5
     author: "Микола Самокиш"
     license: "Public domain"
-    source_url: "https://commons.wikimedia.org/wiki/File:Bohdan_Khmelnytskyi_in_Kyiv.jpg"
+    source_url: "https://localhistory.org.ua/rubrics/painting/dvobii-iakogo-ne-bulo-istoriia-kartini-bii-maksima-krivonosa-z-iaremoiu-vishnevetskim/"
 key_accomplishments:
   - "Академік (1890) і професор Петербурзької академії мистецтв, керівник її батальної майстерні"
   - "Картини з історії козацтва: «В'їзд Богдана Хмельницького в Київ у 1648 р.» (1929), «Битва під Жовтими Водами» (1930), «Бій Івана Богуна з Чарнецьким під Монастирищем» (1931), «Бій Максима Кривоноса з Ієремією Вишневецьким» (1934)"
@@ -54,7 +55,8 @@ sources:
   - title: "Харківський національний університет імені В. Н. Каразіна - Н. Проц, «Книжкові шедеври М. С. Самокиша у ЦНБ» (2022)"
     url: "https://periodicals.karazin.ua/uahistory/article/view/21028"
 related: [serhii-vasylkivskyi, dmytro-yavornytskyi, bohdan-khmelnytskyi, ivan-bohun, mykola-hohol, marko-vovchok, ivan-nechui-levytskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-29T04:29:46Z
 ---
 
 ## Покараний за коней
