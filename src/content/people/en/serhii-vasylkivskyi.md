@@ -11,10 +11,10 @@ key_accomplishments:
   - "Panels for the Poltava provincial zemstvo building, among them The Election of Martyn Pushkar as Colonel"
   - "About 3,000 works; he left 1,348 of them to a museum in Kharkiv"
 birthplace_name: "Izium"
-image_alt: "Serhii Vasylkivskyi in a wide-brimmed hat, with a moustache, in a dark high-collared coat, black-and-white photo"
+image_alt: "Self-portrait of Serhii Vasylkivskyi: an older man with thick chestnut hair and a moustache, in dark clothes, smiling"
 gallery:
-  - alt: "Three horses graze on the steppe at dawn, a Cossack sits by a campfire beside them, under a lilac-blue sky"
-    caption: "Cossack Picket (1888), Kharkiv Art Museum"
+  - alt: "A white thatched cottage with a porch, a barn and a shed beside it; in the yard a woman in a red skirt and Cossacks stand by a cart under a blue sky"
+    caption: "Cossack Yard"
 ---
 
 ## The Salon without a jury
@@ -27,7 +27,7 @@ Vasylkivskyi studied at the Academy from 1876 to 1885 and graduated with a gold 
 
 ## Cossacks and the steppe
 
-In 1888 Vasylkivskyi returned to Kharkiv and lived there for the rest of his life. He painted the steppe, the Donets and the Dnipro floodplains, chumaks and fairs, and [Dmytro Yavornytskyi](/en/people/dmytro-yavornytskyi/) urged him to paint the Zaporozhian Cossacks. Out of this came Cossack Picket (1888), Skirmish of Zaporozhians with Tatars (1892) and Cossack Levada (1893).
+In 1888 Vasylkivskyi returned to Kharkiv and lived there for the rest of his life. He painted the steppe, the Donets and the Dnipro floodplains, chumaks and fairs, and [Dmytro Yavornytskyi](/en/people/dmytro-yavornytskyi/) urged him to paint the Zaporozhian Cossacks. Out of this came Cossack Picket (1888), Skirmish of Zaporozhians with Tatars (1892), Cossack Levada (1893) and Cossack Yard.
 
 ## Ukraine in ornament
 

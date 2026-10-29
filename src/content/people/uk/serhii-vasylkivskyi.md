@@ -18,19 +18,20 @@ places:
   - { name: "Харків", lat: 49.994, lon: 36.230, note: "жив і працював з 1888 року; тут помер 1917 року" }
 image:
   src: ./images/serhii-vasylkivskyi.jpg
-  alt: "Сергій Васильківський у широкому капелюсі, з вусами, у темному пальті з високим коміром, чорно-біле фото"
+  alt: "Автопортрет Сергія Васильківського: літній чоловік із густим каштановим волоссям і вусами, у темному одязі, усміхається"
   position: "50% 30%"
-  author: "Невідомий автор"
+  author: "Сергій Васильківський (автопортрет)"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Vasylkivsky_Serhiy.png"
+  source_url: "https://nakypilo.ua/teksty/vasylkivskyi-ospivuvach-ukrainy-z-kharkova/"
+  ai_edit: restored
 gallery:
-  - src: ./images/serhii-vasylkivskyi-kozachyi-picket.jpg
-    alt: "Троє коней пасуться в степу на світанку, поруч біля вогнища сидить козак, над ними бузково-блакитне небо"
-    caption: "«Козачий пікет» (1888), Харківський художній музей"
+  - src: ./images/serhii-vasylkivskyi-cossack-yard.jpg
+    alt: "Біла хата під солом'яною стріхою з ґанком, поруч клуня й повітка, на подвір'ї біля воза стоять жінка в червоній плахті й козаки, над ними синє небо"
+    caption: "«Козацький двір»"
     section: 3
     author: "Сергій Васильківський"
     license: "Public domain"
-    source_url: "https://commons.wikimedia.org/wiki/File:Vasylkivsky_kozachyi_picket.jpg"
+    source_url: "https://uain.press/blogs/sergij-vasilkivskij-poet-ukrayinskogo-malyarstva-1096474"
 key_accomplishments:
   - "Право виставлятися в Паризькому Салоні без журі"
   - "Картини «Козачий пікет» (1888), «Козача левада» (1893), «Дніпровські плавні» (1896), «По Донцю» (1901), «Ярмарок у Полтаві» (1902)"
@@ -59,7 +60,8 @@ sources:
   - title: "Укрінформ - Викрадене мистецтво, збережене в артпринтах (2026)"
     url: "https://www.ukrinform.ua/rubric-culture/4123383-vikradene-mistectvo-zberezene-v-artprintah.html"
 related: [mykola-samokysh, dmytro-yavornytskyi, illia-riepin, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-29T04:19:04Z
 ---
 
 ## Салон без журі
@@ -72,7 +74,7 @@ status: draft
 
 ## Козаки й степ
 
-1888 року Васильківський повернувся до Харкова й прожив там до кінця життя. Він писав степ, Дінець і дніпровські плавні, чумаків і ярмарки, а [Дмитро Яворницький](/uk/people/dmytro-yavornytskyi/) заохочував його малювати запорожців. Так з'явилися «Козачий пікет» (1888), «Сутичка запорожців з татарами» (1892) і «Козача левада» (1893).
+1888 року Васильківський повернувся до Харкова й прожив там до кінця життя. Він писав степ, Дінець і дніпровські плавні, чумаків і ярмарки, а [Дмитро Яворницький](/uk/people/dmytro-yavornytskyi/) заохочував його малювати запорожців. Так з'явилися «Козачий пікет» (1888), «Сутичка запорожців з татарами» (1892), «Козача левада» (1893) і «Козацький двір».
 
 ## Україна в орнаментах
 
