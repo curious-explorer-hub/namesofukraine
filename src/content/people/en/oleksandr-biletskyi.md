@@ -12,6 +12,7 @@ key_accomplishments:
   - "Editor of the two-volume History of Ukrainian Literature (1954–1957) and a reader of Old Ukrainian literature"
   - "More than 600 works; a prize for literary and art criticism bears his name"
 birthplace_name: "Near Kazan (russia)"
+image_alt: "Oleksandr Biletskyi in round thin metal-framed glasses, balding, with short grey hair, in a navy jacket, white shirt and burgundy tie"
 ---
 
 ## A province or the world?

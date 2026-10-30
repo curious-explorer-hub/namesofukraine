@@ -3,7 +3,7 @@ name: Олександр Білецький
 gender: male
 born: 1884-11-01
 died: 1961-08-02
-last_reviewed: 2026-10-29
+last_reviewed: 2026-10-30
 era: 20th-century
 group: literature
 tags: [scientist, writer]
@@ -14,6 +14,15 @@ birthplace: { name: "Поблизу Казані (росія)", region: abroad, 
 places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "гімназія й університет; професор Харківського університету, 1920–1941" }
   - { name: "Київ", lat: 50.450, lon: 30.523, note: "директор Інституту літератури, 1939–1941 і 1944–1961; тут помер 1961 року" }
+image:
+  src: ./images/oleksandr-biletskyi.jpg
+  alt: "Олександр Білецький у круглих окулярах у тонкій металевій оправі, лисуватий, із коротким сивим волоссям, у темно-синьому піджаку, білій сорочці й бордовій краватці"
+  position: "50% 35%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://www.ukrlib.com.ua/bio/printit.php?tid=1503"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Огляд «Двадцять років нової української лірики» (1924) і статті про нову прозу 1920-х"
   - "Один із засновників Харківського театру казки, згодом театру юного глядача"
@@ -35,7 +44,8 @@ sources:
   - title: "Харківський національний університет імені В. Н. Каразіна - День народження вченого-славіста, вихованця та почесного доктора університету"
     url: "https://karazin.ua/en/news/den-narodzhennia-vchenoho-slavista-vykhovantsia-ta-nbsp-poc/"
 related: [mykola-khvylovyi, mykola-zerov, mykhailyna-kotsiubynska, yurii-shevelov, ivan-dziuba, maik-yohansen, hryhorii-kosynka, taras-shevchenko, ivan-franko]
-status: draft
+status: approved
+published: 2026-10-30T04:48:44Z
 ---
 
 ## Провінція чи світ?
