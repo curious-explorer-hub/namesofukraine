@@ -21,11 +21,11 @@ quotes:
 
 ## The prisoner Vienna made a doctor
 
-The Austrian authorities jailed Ivan Franko several times for his political views, the first time in 1877. Yet in 1893 he defended a dissertation at the University of Vienna and became a doctor of philosophy. He wrote it under the Slavist Vatroslav Jagić, on the early Christian spiritual romance Barlaam and Josaphat. Yet when Lviv University’s commission approved Franko as a lecturer in 1894, the governor of Galicia, Count Kazimierz Badeni, refused to confirm it. The road there began in the village of Nahuievychi in the Lviv region, in the family of a village blacksmith. By 16 he had lost both parents, but he kept studying: the Drohobych gymnasium, then the universities of Lviv and Chernivtsi.
+The Austrian authorities jailed Ivan Franko several times for his political views, the first time in 1877. Yet in 1893 he defended a dissertation at the University of Vienna and became a doctor of philosophy. He wrote it under the Slavist Vatroslav Jagić, on the early Christian spiritual romance Barlaam and Josaphat. Yet when Lviv University’s commission approved Franko as a lecturer in 1894, the governor of Galicia, Count Kazimierz Badeni, refused to confirm it. Since 1940 that university has borne Franko’s name. The road there began in the village of Nahuievychi in the Lviv region, in the family of a village blacksmith. By 16 he had lost both parents, but he kept studying: the Drohobych gymnasium, then the universities of Lviv and Chernivtsi.
 
 ## Thousands of works under a hundred names
 
-Franko is one of the most prolific authors in the history of Ukrainian literature: he left more than 6,000 works. He wrote poetry, prose, plays, scholarship, criticism and journalism. He translated about 200 authors from 14 languages, Shakespeare and Goethe among them.
+Franko is one of the most prolific authors in the history of Ukrainian literature: he left more than 6,000 works. He wrote poetry, prose, plays, scholarship, criticism and journalism. He translated about 200 authors from 14 languages, Shakespeare and Goethe among them, and Franko scholars say he knew about 19.
 
 He signed his work with more than a hundred pen names: his first poems, in 1874, as “Dzhedzhalyk”, and later ones include “Myron”, “Ivan Zhyvyi” (“Ivan the Living”), “Virshorob Holopupenko” (“Versifier Holopupenko”) and “Khoma Brut”. In Polish alone he published more than 1,150 articles, and about 150 in German. He called his years at the Polish newspaper Kurjer Lwowski “Hired Labour for the Neighbours”, the title also meant for a three-volume Ukrainian edition of those articles, though only one volume came out.
 
@@ -45,4 +45,4 @@ In 1915 the process of nominating Franko for the Nobel Prize in Literature began
 
 ## Why it matters today
 
-Franko brought literature, scholarship and public life together and became one of the most influential Ukrainian intellectuals of his time. His Zakhar Berkut and Moses still teach that a people must defend its own freedom and find its own road to it. He was one of the first to argue for a politically independent Ukraine when it still seemed “beyond the limits of the possible”, and in less than a century it became a state. “Only to struggle is to live” still reads as advice not to give up.
+Franko brought literature, scholarship and public life together and became one of the most influential Ukrainian intellectuals of his time. His Zakhar Berkut and Moses still teach that a people must defend its own freedom and find its own road to it. He was one of the first to argue for a politically independent Ukraine when it still seemed “beyond the limits of the possible”, and in less than a century it became a state. In 1962 a city was renamed in his honour: Stanislav became Ivano-Frankivsk. “Only to struggle is to live” still reads as advice not to give up.
