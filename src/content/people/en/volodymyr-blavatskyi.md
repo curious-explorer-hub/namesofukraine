@@ -12,7 +12,7 @@ key_accomplishments:
   - "Founder of the Ensemble of Ukrainian Actors in a refugee camp in Augsburg (1945–1949)"
   - "Roles as Malakhii in Mykola Kulish’s The People’s Malakhii, Mazepa in Baturyn and Judas in Lesya Ukrainka’s On the Field of Blood"
 birthplace_name: "Kosiv"
-image_alt: "Volodymyr Blavatskyi as Malakhii: in a straw hat, with a moustache and wide-open eyes, black-and-white photo"
+image_alt: "Young Volodymyr Blavatskyi with smoothly combed dark hair, in a navy jacket, white shirt and tartan bow tie"
 ---
 
 ## Who first played Hamlet in Ukrainian?

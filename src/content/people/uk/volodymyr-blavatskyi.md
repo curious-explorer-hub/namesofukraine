@@ -3,7 +3,7 @@ name: Володимир Блавацький
 gender: male
 born: 1900-11-15
 died: 1953-01-08
-last_reviewed: 2026-10-28
+last_reviewed: 2026-10-30
 era: 20th-century
 group: performing-arts
 tags: [actor]
@@ -19,11 +19,13 @@ places:
   - { name: "Філадельфія (США)", lat: 39.953, lon: -75.165, note: "з 1949 року; тут помер 1953 року" }
 image:
   src: ./images/volodymyr-blavatskyi.jpg
-  alt: "Володимир Блавацький у ролі Малахія: у солом'яному капелюсі, з вусами й широко розплющеними очима, чорно-біле фото"
+  alt: "Молодий Володимир Блавацький із гладко зачесаним темним волоссям, у темно-синьому піджаку, білій сорочці й картатій краватці-метелику"
   position: "50% 35%"
-  author: "Невідомий автор (програмка вистави «Народний Малахій»)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Blavatsky_Volodymyr.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-35429"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Перший виконавець ролі Гамлета на українській сцені (Львівський оперний театр, 1943, вистава Йосипа Гірняка)"
   - "Засновник і керівник театру «Заграва» в Перемишлі (з 1933 року)"
@@ -45,7 +47,8 @@ sources:
   - title: "Центр міської історії Центрально-Східної Європи - спогади про Львівський оперний театр"
     url: "https://edu.lvivcenter.org/?p=2094"
 related: [les-kurbas, yosyp-hirniak, mykola-kulish, lesya-ukrainka]
-status: draft
+status: approved
+published: 2026-10-30T04:44:08Z
 ---
 
 ## Хто першим зіграв Гамлета українською?
