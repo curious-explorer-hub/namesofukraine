@@ -12,7 +12,7 @@ key_accomplishments:
   - "In 1973 offered to serve Ivan Dziuba’s prison sentence; expelled from the Writers’ Union (reinstated in 1987)"
   - "The Maksym Rylskyi Prize (1988); posthumously, the Mykola Zerov Prize (1993)"
 birthplace_name: "Krolevets"
-image_alt: "Mykola Lukash in round-rimmed glasses, jacket and tie, black-and-white portrait photograph"
+image_alt: "Mykola Lukash in round glasses with thin gold-toned frames, a dark grey tweed jacket, light blue shirt and patterned burgundy tie"
 ---
 
 ## The letter his friends begged him not to send

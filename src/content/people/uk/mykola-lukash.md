@@ -3,7 +3,7 @@ name: Микола Лукаш
 gender: male
 born: 1919-12-19
 died: 1988-08-29
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-30
 era: 20th-century
 group: literature
 tags: [writer, scientist]
@@ -16,11 +16,12 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "журнал «Всесвіт», роки перекладів і опали; місце смерті" }
 image:
   src: ./images/mykola-lukash.jpg
-  alt: "Микола Лукаш в окулярах у круглій оправі, у піджаку й краватці, чорно-білий фотопортрет"
+  alt: "Микола Лукаш у круглих окулярах у тонкій золотистій оправі, у темно-сірому твідовому піджаку, блакитній сорочці й бордовій краватці з візерунком"
   position: "50% 25%"
   author: "Невідомий автор"
   license: "Fair use"
   source_url: "https://uk.wikipedia.org/wiki/Файл:Mykola_Lukasz_01.jpg"
+  ai_edit: colorized
   fair_use: true
 key_accomplishments:
   - "Переклади з близько 20 мов: «Фауст» Гете, «Пані Боварі» Флобера, «Декамерон» Боккаччо, «Дон Кіхот» Сервантеса (завершив Анатолій Перепадя, 1995)"
@@ -42,7 +43,8 @@ sources:
     url: "https://zn.ua/ukr/SOCIUM/geniy_i_tayinstvo_mikoli_lukasha.html"
 related: [ivan-dziuba, hryhorii-kochur, maksym-rylskyi, borys-hrinchenko, ahatanhel-krymskyi]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-30T04:34:36Z
 ---
 
 ## Лист, від якого його відмовляли
