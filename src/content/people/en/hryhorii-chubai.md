@@ -4,7 +4,7 @@ name: "Hryhorii Chubai"
 role: "Poet of the Lviv underground"
 summary: "His journal Skrynia came out just once, typed partly on cigarette paper. For the KGB that was enough. Hryhorii Chubai, a legend of Lviv’s 1970s underground, worked as a loader after his arrest, died at 33, and today his son Taras sings his poems."
 fun_fact: "Three portraits hung in Chubai’s room: the American poets Ezra Pound and T. S. Eliot, and Chubai himself. Because, as he put it, those three were the best poets."
-image_alt: "Hryhorii Chubai with long wavy hair and a beard, holding a cigarette, black-and-white photograph"
+image_alt: "Young Hryhorii Chubai with thick wavy dark hair, in a mustard turtleneck and a blue-green check jacket"
 key_accomplishments:
   - "Initiator and editor of the samvydav almanac Skrynia (The Chest, 1971)"
   - "The long poems Vertep (The Nativity Play), Maria, Seeking the One Involved, Light and Confession, and To Speak, To Be Silent, and To Speak Again"

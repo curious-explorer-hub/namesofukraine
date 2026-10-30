@@ -3,7 +3,7 @@ name: Григорій Чубай
 gender: male
 born: 1949-01-23
 died: 1982-05-16
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-30
 era: 20th-century
 group: literature
 tags: [poet]
@@ -15,11 +15,12 @@ places:
   - { name: "Львів", lat: 49.842, lon: 24.032, note: "з 1969: помешкання на Погулянці, центр неформального мистецького гурту; «Скриня» (1971); місце смерті, поховання на Личаківському цвинтарі" }
 image:
   src: ./images/hryhorii-chubai.jpg
-  alt: "Григорій Чубай з довгим хвилястим волоссям і бородою, з цигаркою в руці, чорно-біле фото"
+  alt: "Молодий Григорій Чубай із густим хвилястим темним волоссям, у гірчичному светрі з високим коміром і синьо-зеленому картатому піджаку"
   position: "55% 40%"
   author: "Невідомий автор"
   license: "Fair use"
-  source_url: "https://zaxid.net/a_svit__vertep_u_lvovi_vidznachayut_richnitsyu_gritska_chubaya_n1556531"
+  source_url: "https://gazeta.ua/articles/history/_4-citati-gricka-cubaya/747903"
+  ai_edit: colorized
   fair_use: true
 key_accomplishments:
   - "Ініціатор і редактор самвидавного альманаху «Скриня» (1971)"
@@ -40,7 +41,8 @@ sources:
     url: "https://starylev.com.ua/news/andruhovych-pro-grycka-chubaya-konspekt-lekciyi"
 related: [ihor-kalynets, iryna-kalynets, viacheslav-chornovil, ivan-dziuba, mykola-vinhranovskyi]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-30T04:38:44Z
 ---
 
 ## Журнал, що вийшов лише раз
