@@ -12,7 +12,7 @@ key_accomplishments:
   - "First president of the National Council of Ukrainian Women; represented Ukrainian women at international women’s conferences"
   - "Theory and Practice of Preschool Education (1924), Didactics (1925), Our Prominent Women (1934), My Memoirs (1937)"
 birthplace_name: "Oleshnia (Chernihiv region)"
-image_alt: "Sofiia Rusova in a dark high-collared dress and a bead necklace, against a brick wall, 1893"
+image_alt: "An elderly Sofiia Rusova in round thin metal-framed glasses, with grey hair pinned up, in a dark dress with a brooch at the collar"
 ---
 
 ## The kindergarten a fifteen-year-old opened

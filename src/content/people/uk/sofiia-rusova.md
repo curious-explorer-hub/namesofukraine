@@ -3,7 +3,7 @@ name: Софія Русова
 gender: female
 born: 1856-03-01
 died: 1940-02-05
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-30
 era: 20th-century
 group: civic
 tags: [politician, writer]
@@ -17,11 +17,13 @@ places:
   - { name: "Кам'янець-Подільський", lat: 48.678, lon: 26.585, note: "1920: викладала педагогіку в університеті" }
 image:
   src: ./images/sofiia-rusova.jpg
-  alt: "Софія Русова в темній сукні з високим коміром і намистом, на тлі цегляної стіни, 1893 рік"
+  alt: "Літня Софія Русова в круглих окулярах у тонкій металевій оправі, із сивим зібраним волоссям, у темній сукні з брошкою біля коміра"
   position: "50% 35%"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Фотографія_С._Русової.jpg"
+  license: "Fair use"
+  source_url: "https://odnb.odessa.ua/view_post.php?id=5331"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "1871 року разом із сестрою Марією відкрила в Києві дитячий садок, один із перших у місті"
   - "«Український буквар» (1906), «Початкова географія» (1911), «Перша читанка для дорослих для вечірніх та недільних шкіл» (1918)"
@@ -39,7 +41,8 @@ sources:
   - title: "ZAXID.NET - Реформаторка в Міністерстві освіти УНР, яка видала «Український буквар»"
     url: "https://zaxid.net/sofiya_rusova_biografiya_tsikavi_fakti_pro_zhittya_vnesok_v_ukrayinsku_osvitu_n1612638"
 related: [mykola-lysenko, mykhailo-drahomanov, olena-pchilka, pavlo-chubynskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-10-30T04:55:50Z
 ---
 
 ## Дитсадок, який відкрила п'ятнадцятирічна
