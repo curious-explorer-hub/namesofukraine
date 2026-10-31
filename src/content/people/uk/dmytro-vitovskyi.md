@@ -3,7 +3,7 @@ name: Дмитро Вітовський
 gender: male
 born: 1887-11-08
 died: 1919-08-04
-last_reviewed: 2026-11-01
+last_reviewed: 2026-10-31
 era: 20th-century
 group: statehood
 tags: [warrior, politician]
@@ -19,11 +19,12 @@ places:
   - { name: "Рацибуж (Ратибор)", lat: 50.092, lon: 18.219, note: "тут розбився літак 4 серпня 1919 року" }
 image:
   src: ./images/dmytro-vitovskyi.jpg
-  alt: "Сотник Дмитро Вітовський у військовому однострої Українських січових стрільців, 1915"
-  position: "50% 25%"
+  alt: "Дмитро Вітовський на повний зріст у військовому однострої, кашкеті й чоботах, із шаблею, студійне фото"
+  position: "50% 12%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE_%D0%92%D1%96%D1%82%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9,_1915.jpg"
+  source_url: "https://localhistory.org.ua/texts/statti/prirechenii-stati-advokatom-svogo-narodu-istoriia-legendarnogo-viiskovika-ta-politika-dmitra-vitovskogo/"
+  ai_edit: colorized
 key_accomplishments:
   - "Очолив Український генеральний військовий комітет і Листопадовий чин у Львові (1 листопада 1918)"
   - "Перший державний секретар військових справ ЗУНР (з 9 листопада 1918), полковник"
@@ -45,7 +46,8 @@ sources:
     url: "https://zaxid.net/vitovskiy_matura_vektora_shepli_n1529334"
 related: []
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-10-31T21:08:22Z
 ---
 
 ## Студент, якого виключили за українську мову

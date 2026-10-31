@@ -11,7 +11,7 @@ key_accomplishments:
   - "Sich Riflemen commissar in Volhynia (1916–1917), setting up Ukrainian schools"
   - "Member of the Western Ukrainian delegation to the Paris Peace Conference (1919)"
 birthplace_name: "Medukha, Ivano-Frankivsk region"
-image_alt: "Captain Dmytro Vitovskyi in the uniform of the Ukrainian Sich Riflemen, 1915"
+image_alt: "Dmytro Vitovskyi standing full-length in military uniform, cap and boots, with a sabre, studio photo"
 ---
 
 ## The student expelled for a Ukrainian university
