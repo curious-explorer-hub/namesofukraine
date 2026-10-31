@@ -20,7 +20,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
-| Вікторія Рощина | 1996–2024 | Journalist (civic) | 👩 | | Owner request 2026-10-31. From Kryvyi Rih; wrote for «Українська правда» and Радіо Свобода; reported from occupied territories. Detained by russian forces near Berdiansk in March 2022, released after about 10 days; captured again in August 2023 and died in russian captivity (russia reported 19 September 2024). Order of Freedom, posthumously (Decree 569/2025, 1 August 2025). Birth year 1996 vs 1997 in sources: check. Fallen in captivity: deeds only, no graphic detail (see Editorial notes) |
 
 ## Needs a decision
 
