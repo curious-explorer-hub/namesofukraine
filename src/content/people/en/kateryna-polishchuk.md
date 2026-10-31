@@ -10,6 +10,11 @@ key_accomplishments:
   - "Order for Courage, 3rd class (Decree No. 823/2022)"
   - "Honorary citizen of Ternopil (2022)"
   - "Sang in the final of season 12 of the TV show “The Voice of the Country” (2022)"
+  - "Forbes Ukraine “30 Under 30” (2022) and “50 Women Leaders of Ukraine” (2023)"
+  - "Lord Ashcroft’s award for courage (2026)"
+videos:
+  - title: "Kateryna “Ptashka” Polishchuk sings “Zrodylys my velykoi hodyny” (“We were born in a great hour”) at Azovstal"
+    source: "Andrii Shevchuk"
 birthplace_name: "Sosnivka, Ternopil region"
 image_alt: "Kateryna Polishchuk after her return from captivity, on the night of 21 September 2022"
 quotes:
@@ -23,7 +28,7 @@ In spring 2022 videos spread across social media of a young woman singing Ukrain
 
 ## From the Ternopil region to Mariupol
 
-Kateryna was born in 2001 in the village of Sosnivka in the Ternopil region of western Ukraine. In 2020 she graduated from the vocal department of the Ternopil arts college. From 2021 she was a volunteer medic with the Hospitallers battalion in the Donetsk region. In the first days of the full-scale invasion she went to Mariupol and worked in a military hospital. When the hospital was bombed, she and other medics and patients took shelter at Azovstal.
+Kateryna was born in 2001 in the village of Sosnivka in the Ternopil region of western Ukraine. In 2020 she graduated from the vocal department of the Ternopil arts college named after [Solomiia Krushelnytska](/en/people/solomiia-krushelnytska/), then moved to Kyiv and worked at a motorcycle school. From 2021 she was a volunteer medic with the Hospitallers battalion in the Donetsk region. In the first days of the full-scale invasion she went to Mariupol and worked in a military hospital. When the hospital was bombed, she and other medics and patients took shelter at Azovstal.
 
 ## Captivity and return
 
@@ -31,7 +36,7 @@ Following orders from command, Kateryna left the plant with the other defenders 
 
 ## Back in the army
 
-That same year Kateryna was awarded the Order for Courage, 3rd class, and Ternopil made her an honorary citizen. In November 2022 she sang the lullaby “Spy, malenkyi kozachok” (“Sleep, little Cossack”) in the final of the TV talent show “The Voice of the Country”. And in September 2025, after four and a half years as a volunteer, Ptashka signed a contract and became a service member of the Armed Forces of Ukraine. She says she is proud of it.
+That same year Kateryna was awarded the Order for Courage, 3rd class, and Ternopil made her an honorary citizen. In November 2022 she sang the lullaby “Spy, malenkyi kozachok” (“Sleep, little Cossack”) in the final of the TV talent show “The Voice of the Country”. And in September 2025, after four and a half years as a volunteer, Ptashka signed a contract and became a service member of the Armed Forces of Ukraine, in the “Predators of the Heights” drone unit of the 59th Assault Brigade. She says she is proud of it. In 2026, at the Warsaw Security Forum, Kateryna received the award for courage of the British philanthropist Lord Ashcroft.
 
 ## Why it matters today
 
