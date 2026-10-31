@@ -1,4 +1,4 @@
-andrei-sheptytskyi      # died 1 November 1944
+fedir-stryhun           # born 1 November 1939; was andrei-sheptytskyi
 dmytro-kotsiubailo
 les-kurbas              # shot 3 November 1937 at Sandarmokh
 kateryna-handziuk       # died 4 November 2018
@@ -8,7 +8,7 @@ mykola-vinhranovskyi    # born 7 November 1936
 mykola-zerov
 taras-shevchenko        # Day of Ukrainian Writing and Language
 ivan-kotliarevskyi      # died 10 November 1838
-ivan-zubkov
+borys-baranov           # born 11 November 1940; was ivan-zubkov
 petro-kalnyshevskyi     # died 12 November 1803
 ostap-vyshnia           # born 13 November 1889
 vasyl-makukh            # born 14 November 1927
@@ -19,10 +19,10 @@ mustafa-dzhemiliev
 petro-doroshenko        # died 19 November 1698
 kazymyr-malevych
 roman-ratushnyi         # Day of Dignity and Freedom
-anna-yaroslavna
+mykhailo-maksymovych    # died 22 November 1873; was anna-yaroslavna
 iryna-tsvila
 mykola-amosov
-oleksandr-dovzhenko     # died 25 November 1956
+ivan-nechui-levytskyi   # born 25 November 1838; was oleksandr-dovzhenko
 opanas-zalyvakha        # born 26 November 1925
 borys-paton             # born 27 November 1918
 alla-horska             # died 28 November 1970

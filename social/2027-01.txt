@@ -1,4 +1,4 @@
-stepan-bandera          # born 1 January 1909
+hnat-khotkevych         # born 31 December 1877 (31 December goes to Kostenko); was stepan-bandera
 vsevolod-petriv         # born 2 January 1883
 vladyslav-horodetskyi   # died 3 January 1930
 olena-viter             # born 4 January 1904
@@ -10,19 +10,19 @@ serhii-paradzhanov      # born 9 January 1924
 valentyn-hlushko        # died 10 January 1989
 petro-mohyla            # died 11 January 1647
 mariia-prymachenko      # born 12 January 1909
-danylo-halytskyi        # moved from 17 December
+mykhailo-horyn          # died 13 January 2013; was danylo-halytskyi
 yevhen-hutsalo          # born 14 January 1937, 90th anniversary
 ahatanhel-krymskyi      # born 15 January 1871
 yaryna-chornohuz        # moved from 23 December
-oleksandr-usyk          # born 17 January 1987, 40th birthday
+hryhorii-epik           # born 17 January 1901; was oleksandr-usyk
 nataliia-kobrynska      # no anniversary today; died 22 January 1920 (Unity Day goes to Ohiienko)
 mykhailo-drai-khmara    # died 19 January 1939
 ihor-zinych             # died 20 January 2015, defence of Donetsk airport
 oleksa-hirnyk           # died 21 January 1978
 ivan-ohiienko           # Unity Day, 22 January (Act of Union, 1919)
 ihor-branovytskyi       # no anniversary today; died 21 January 2015, defence of Donetsk airport
-hryhorii-epik           # no anniversary today; born 17 January 1901 (17 January goes to Usyk)
-kyrylo-rozumovskyi      # no anniversary today; died 15 January 1803 (15 January goes to Krymskyi)
+hryhorii-chubai         # born 23 January 1949 (23 January goes to Branovytskyi); was hryhorii-epik, moved to 17 January
+serhii-nihoian          # died 22 January 2014, first killed on the Maidan (22 January goes to Ohiienko); was kyrylo-rozumovskyi
 pavlo-chubynskyi        # died 26 January 1884
 oleksa-tykhyi           # born 27 January 1927, 100th anniversary
 leonid-kadeniuk         # born 28 January 1951, 75th anniversary
