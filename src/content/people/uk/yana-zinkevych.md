@@ -52,6 +52,7 @@ sources:
   - title: "Тексти - Депутатка Яна Зінкевич стала моделлю для ляльки Barbie (15.04.2021)"
     url: "https://texty.org.ua/fragments/103385/deputatka-yana-zinkevych-stala-modellyu-dlya-lyalky-barbie/"
 related: []
+audio: { duration: "1:40" }
 collections: [women-army]
 status: approved
 published: 2026-10-31T20:23:29Z
