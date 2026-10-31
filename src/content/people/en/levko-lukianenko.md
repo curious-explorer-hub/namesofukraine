@@ -11,7 +11,7 @@ key_accomplishments:
   - "Ukraine's first Ambassador Extraordinary and Plenipotentiary to Canada (1992–1993)"
   - "Hero of Ukraine (2005), Shevchenko Prize (2016)"
 birthplace_name: "Khrypivka"
-image_alt: "Levko Lukianenko in an embroidered shirt at the Shevchenko Prize award ceremony, 2016"
+image_alt: "Grey-haired Levko Lukianenko with a long moustache, in an embroidered shirt and grey jacket with a tryzub pin and the Hero of Ukraine star, at the Shevchenko Prize award ceremony, 2016"
 quotes:
   - text: "Those who go against the system are always few, but they win."
     source: "Words quoted by Radio Svoboda in its obituary, July 2018"

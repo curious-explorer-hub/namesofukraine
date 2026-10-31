@@ -13,11 +13,12 @@ fun_fact: "Верховна Рада ухвалила написаний Лук'
 birthplace: { name: "Хрипівка", region: chernihiv, country: UA, lat: 51.867, lon: 31.62 }
 image:
   src: ./images/levko-lukianenko.jpg
-  alt: "Левко Лук'яненко у вишиванці на церемонії вручення Шевченківської премії, 2016 рік"
-  position: "45% 20%"
+  alt: "Сивий Левко Лук'яненко з довгими вусами, у вишиванці й сірому піджаку з тризубом і зіркою Героя України, на церемонії вручення Шевченківської премії, 2016 рік"
+  position: "50% 30%"
   author: "Адміністрація Президента України"
   license: "CC BY 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:Shevchenko_National_Prize_award_ceremony_2016_Levko_Lukyanenko.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:Shevchenko_National_Prize_award_ceremony_2016_Levko_Lukyanenko_cropped_(cropped).jpg"
+  ai_edit: restored
 key_accomplishments:
   - Співзасновник підпільної Української робітничо-селянської спілки (кінець 1950-х), яка обстоювала вихід України з СРСР через референдум
   - Член-засновник Української Гельсінської групи (1976), згодом голова Української Гельсінської спілки та Української республіканської партії
