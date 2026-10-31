@@ -10,6 +10,7 @@ key_accomplishments:
   - "Political prisoner: ten years in camps in the Kemerovo and Irkutsk regions and in Mordovia (1954–1964)"
   - "Her life inspired Taras Khymych’s film Zhyva (2016)"
 birthplace_name: "Zelena, Ivano-Frankivsk region"
+image_alt: "Hanna Popovych with dark hair drawn back, in a dark knitted jacket and a patterned blouse tied at the collar, photo portrait"
 ---
 
 ## The girl from Zelena

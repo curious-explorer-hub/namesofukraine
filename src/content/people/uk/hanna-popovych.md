@@ -3,7 +3,7 @@ name: Ганна Попович
 gender: female
 born: 1925-05-29
 died: 2015-03-12
-last_reviewed: 2026-11-01
+last_reviewed: 2026-10-31
 era: 20th-century
 group: statehood
 tags: [warrior]
@@ -14,6 +14,15 @@ birthplace: { name: "Зелена, Івано-Франківщина", region: i
 places:
   - { name: "Надвірна", lat: 48.634, lon: 24.571, note: "1944: тут її тримали після облави; 1951: лікарня, звідки її визволили повстанці" }
   - { name: "Івано-Франківськ (Станислав)", lat: 48.922, lon: 24.711, note: "1954–1956: в'язниця і суд військового трибуналу" }
+image:
+  src: ./images/hanna-popovych.jpg
+  alt: "Ганна Попович із темним зачесаним назад волоссям, у темному в'язаному жакеті й візерунчастій блузі із зав'язками під комір, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://localhistory.org.ua/texts/statti/virna-svoyii-zemli-istoriia-ganni-popovich/"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Зв'язкова українського підпілля з 1943 року; очолювала жіночу мережу зв'язку в селі Черник"
   - "Друкарка в криївці Луки Гринішака «Довбуша»; 1951 року затулила командира собою під час облави"
@@ -38,7 +47,8 @@ sources:
     url: "https://armyinform.com.ua/2020/07/16/najkrashhi-filmy-pro-geroyiv-ukrayinskoyi-povstanskoyi-armiyi/"
 related: []
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-31T19:43:16Z
 ---
 
 ## Дівчина із Зеленої
