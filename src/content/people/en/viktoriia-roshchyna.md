@@ -9,12 +9,12 @@ key_accomplishments:
   - "At least four trips into the occupied territories (2022–2023), reporting on filtration, illegal detentions and deported children"
   - "Courage in Journalism Award of the International Women’s Media Foundation (IWMF), 2022"
   - "Order of Freedom (posthumously, 2025); IPI-IMS World Press Freedom Hero (posthumously, 2025)"
-birthplace_name: "Kryvyi Rih (other sources: Zaporizhzhia)"
+birthplace_name: "Kryvyi Rih"
 ---
 
 ## A reporter at sixteen
 
-Viktoriia Roshchyna was born on 6 October 1996; sources name either Kryvyi Rih or Zaporizhzhia as her birthplace. She grew up in Kryvyi Rih, took up journalism at school and was working as a reporter by 16. She wrote for hromadske, Ukrainska Pravda and Radio Svoboda, and worked for Ukrainian Radio. She covered the courts, including the Maidan trials and the case of [Kateryna Handziuk](/en/people/kateryna-handziuk/), reported on the Ukrainian sailors russia held in Moscow, and made films about juvenile prisons and post-traumatic stress.
+Viktoriia Roshchyna was born on 6 October 1996 in Kryvyi Rih. She took up journalism at school and was working as a reporter by 16. She wrote for hromadske, Ukrainska Pravda and Radio Svoboda, and worked for Ukrainian Radio. She covered the courts, including the Maidan trials and the case of [Kateryna Handziuk](/en/people/kateryna-handziuk/), reported on the Ukrainian sailors russia held in Moscow, and made films about juvenile prisons and post-traumatic stress.
 
 ## Four trips across the front line
 
