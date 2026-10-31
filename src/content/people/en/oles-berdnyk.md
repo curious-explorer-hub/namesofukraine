@@ -10,7 +10,7 @@ key_accomplishments:
   - "The idea of an “Alternative Evolution”: open letters to the UN, the US Congress and the Vatican (1970s)"
   - "Founder and leader of the humanist association Ukrainian Spiritual Republic (1989)"
 birthplace_name: "Vavylove"
-image_alt: "Grey-bearded Oles Berdnyk speaking into a microphone at a conference, 1988"
+image_alt: "A young Oles Berdnyk with dark wavy hair and a moustache, in an embroidered shirt with a tasselled collar tie and a green jacket, photo portrait"
 ---
 
 ## A hunger strike that ended in an apology

@@ -3,7 +3,7 @@ name: Олесь Бердник
 gender: male
 born: 1926-11-27
 died: 2003-03-18
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-31
 era: 20th-century
 group: literature
 tags: [writer, human-rights]
@@ -17,11 +17,13 @@ places:
   - { name: "Гребені", lat: 50.021, lon: 30.974, note: "місце поховання" }
 image:
   src: ./images/oles-berdnyk.jpg
-  alt: "Сивобородий Олесь Бердник говорить у мікрофон на конференції, 1988"
-  position: "52% 35%"
-  author: "Краюхин Дмитрий Александрович"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BB%D0%B5%D1%81%D1%8C_%D0%91%D0%B5%D1%80%D0%B4%D0%BD%D0%B8%D0%BA_-_%D0%92%D1%81%D0%B5%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%9A%D0%BB%D1%83%D0%B1%D0%BE%D0%B2_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8,_%D0%9A%D0%B8%D0%B5%D0%B2,_1988.jpg"
+  alt: "Молодий Олесь Бердник із темним хвилястим волоссям і вусами, у вишиванці із зав'язками під комір і зеленому піджаку, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://nashformat.ua/authors/oles-berdnyk-books"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Один із засновників наукової фантастики в українській літературі: близько 30 книжок, зокрема «Зоряний корсар» (1971) і дилогія «Камертон Дажбога» (1996)"
   - "Член-засновник Української Гельсінської групи (1976), від 1977 - її керівник; автор програмних документів групи, зокрема «Маніфесту українського правозахисного руху» (1977)"
@@ -44,7 +46,8 @@ sources:
     url: "https://amnesia.in.ua/berdnyk"
 related: [mykola-rudenko, oksana-meshko, levko-lukianenko, les-taniuk, ivan-dziuba, mykhailo-horyn, mykola-lukash, hryhorii-kochur]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-31T03:49:19Z
 ---
 
 ## Голодування, яке закінчилося вибаченням
