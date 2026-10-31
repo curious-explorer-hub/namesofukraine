@@ -3,7 +3,7 @@
 name: "Yana Zinkevych"
 role: "Founder of the Hospitallers battalion"
 summary: "At 19, with no medical training, she set up a volunteer medical battalion and carried the wounded out under fire herself. Yana Zinkevych founded the Hospitallers, and after a 2015 car crash she kept leading them from a wheelchair. By October 2026 the battalion had evacuated over 46,000 people."
-fun_fact: "In 2021 the doll maker Anastasiia Nedoluzhenko made a Barbie doll modelled on Yana, in a wheelchair."
+fun_fact: "In 2021 the doll maker Anastasiia Nedoluzhenko made a Barbie doll modelled on Yana for the “Barbie: Pani Ukrainy” (Ladies of Ukraine) project, in a wheelchair and wearing her awards."
 key_accomplishments:
   - "Founded the volunteer medical battalion Hospitallers (2014); more than 46,000 people evacuated as of October 2026, by the battalion’s count"
   - "Personally carried about 200 wounded from the battlefield before December 2015"
@@ -16,7 +16,7 @@ image_alt: "Yana Zinkevych with short pink hair, glasses and a black T-shirt, ph
 
 ## Nineteen, and no medical degree
 
-Yana Zinkevych was born in 1995 in Rivne. When russia’s aggression in the east began in the spring of 2014, she had no medical training. Even so, that summer, at 19, she went to the front as a volunteer medic with a Right Sector battalion and learned on the job. Soon she was heading the medical service of the Volunteer Ukrainian Corps, and out of it grew a separate medical battalion: the Hospitallers.
+Yana Zinkevych was born in 1995 in Rivne. When russia’s aggression in the east began in the spring of 2014, she had no medical training. Even so, that summer, at 19, she went to the front as a volunteer medic with a Right Sector battalion and learned on the job. Soon she was heading the medical service of the Volunteer Ukrainian Corps, and out of it grew a separate medical battalion: the Hospitallers. It was named after the medieval Knights Hospitaller, a monastic order of knights who cared for pilgrims to the Holy Land, and took as its motto “For the sake of every life!”
 
 ## Under fire
 
