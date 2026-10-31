@@ -3,7 +3,7 @@ name: Михайло Косів
 gender: male
 born: 1934-12-28
 living: true
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-31
 era: 20th-century
 group: civic
 tags: [writer, human-rights, politician]
@@ -16,10 +16,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "Верховна Рада: народний депутат 1990–2006 і 2007–2012 років" }
 image:
   src: ./images/mykhailo-kosiv.jpg
-  alt: "Михайло Косів, офіційне фото народного депутата I скликання, 1990"
-  author: "Верховна Рада України"
-  license: "Attribution"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%94%D0%A3_1_%D0%9A%D0%BE%D1%81%D1%96%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BE%D0%B2%D0%B8%D1%87.jpg"
+  alt: "Михайло Косів із темним волоссям і вусами, в окулярах у великій прозорій оправі, у темному піджаку, білій сорочці й візерунчастій краватці, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-3811"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Президент львівського клубу творчої молоді «Пролісок» (1963–1965)"
   - "Член редколегії самвидавного журналу «Український вісник» (1970–1972)"
@@ -41,7 +44,8 @@ sources:
     url: "http://resource.history.org.ua/cgi-bin/eiu/history.exe?Z21ID=&I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN=&S21COLORTERMS=0&S21STR=Ukrainskyj_visnyk_1970_z"
 related: [mykhailo-horyn, bohdan-horyn, ivan-hel, iryna-kalynets, ihor-kalynets, hryhorii-chubai, viacheslav-chornovil, atena-pashko, taras-shevchenko, ivan-franko]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-31T01:52:57Z
 ---
 
 ## Сторінка, яку вирізали

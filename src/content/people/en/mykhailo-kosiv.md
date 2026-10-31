@@ -13,7 +13,7 @@ key_accomplishments:
   - "Books About Ukraine (1990), Let Us Return to the Sources (1996, 2004), Bilingualism or Languagelessness? (1998)"
   - "Honoured Art Worker of Ukraine (1995); Order of Merit, 3rd class (2005)"
 birthplace_name: "Vilkhivka"
-image_alt: "Mykhailo Kosiv, official portrait as a People’s Deputy of the 1st convocation, 1990"
+image_alt: "Mykhailo Kosiv with dark hair and a moustache, in large clear-framed glasses, a dark jacket, white shirt and patterned tie, photo portrait"
 ---
 
 ## The page that was cut out
