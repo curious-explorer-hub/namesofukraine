@@ -9,7 +9,9 @@ key_accomplishments:
   - "At least four trips into the occupied territories (2022–2023), reporting on filtration, illegal detentions and deported children"
   - "Courage in Journalism Award of the International Women’s Media Foundation (IWMF), 2022"
   - "Order of Freedom (posthumously, 2025); IPI-IMS World Press Freedom Hero (posthumously, 2025)"
+  - "RAW in WAR Anna Politkovskaya Award and the Washington OXI Day Foundation’s OXI Courage Award (posthumously, 2026)"
 birthplace_name: "Kryvyi Rih"
+image_alt: "Viktoriia Roshchyna with fair hair in a ponytail, in a white T-shirt and a silver earring, looking over her shoulder against a dark background"
 ---
 
 ## A reporter at sixteen
@@ -26,7 +28,7 @@ In late July 2023 Viktoriia set off through Poland and Latvia into russia, to re
 
 ## The investigation others carried on
 
-In April 2025, 45 journalists from 13 newsrooms around the world published the Viktoriia Project, an investigation into the Ukrainian civilians russia holds in secret in its prisons. They took up the story she never got to finish. That same year she was posthumously awarded the Order of Freedom, and the International Press Institute named her a World Press Freedom Hero.
+In April 2025, 45 journalists from 13 newsrooms around the world published the Viktoriia Project, an investigation into the Ukrainian civilians russia holds in secret in its prisons. They took up the story she never got to finish. That same year she was posthumously awarded the Order of Freedom, and the International Press Institute named her a World Press Freedom Hero. In October 2026 two more international honours followed: the RAW in WAR Anna Politkovskaya Award, shared with Ukrainian women journalists held by russia, and the Washington OXI Day Foundation’s OXI Courage Award, presented at Washington National Cathedral.
 
 ## Why it matters today
 

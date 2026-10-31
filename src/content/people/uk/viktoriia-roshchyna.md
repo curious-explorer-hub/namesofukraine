@@ -16,11 +16,21 @@ places:
   - { name: "Бердянськ", lat: 46.756, lon: 36.799, note: "березень 2022: близько 10 днів у полоні" }
   - { name: "Енергодар", lat: 47.499, lon: 34.656, note: "серпень 2023: звідси востаннє зв'язалася з рідними" }
   - { name: "Таганрог", lat: 47.236, lon: 38.897, note: "слідчий ізолятор, де її тримали в 2023–2024 роках" }
+image:
+  src: ./images/viktoriia-roshchyna.jpg
+  alt: "Вікторія Рощина зі світлим волоссям, зібраним у хвіст, у білій футболці й зі срібною сережкою, оглядається через плече, на темному тлі"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorial.ua/obituaries/people-who-brought-victory-closer/roshchyna-viktoriia-3270"
+  ai_edit: restored
+  fair_use: true
 key_accomplishments:
   - "Репортерка з 16 років: hromadske, «Українська правда», Радіо Свобода, Українське радіо"
   - "Щонайменше чотири поїздки на окуповані території (2022–2023): матеріали про фільтрацію, незаконні затримання й вивезених дітей"
   - "Премія Міжнародного жіночого медійного фонду (IWMF) «За мужність у журналістиці» (2022)"
   - "Орден Свободи (посмертно, 2025); Героїня свободи преси за версією IPI та IMS (посмертно, 2025)"
+  - "Премія імені Анни Політковської від RAW in WAR і премія «За мужність» фонду Washington OXI Day (посмертно, 2026)"
 sources:
   - title: "Українська правда - In Memoriam: журналістка Вікторія Рощина, в якій було все, крім байдужості (11.10.2024)"
     url: "https://www.pravda.com.ua/articles/2024/10/11/7479270/"
@@ -46,9 +56,18 @@ sources:
     url: "https://memorial.ua/obituaries/people-who-brought-victory-closer/roshchyna-viktoriia-3270"
   - title: "ZAXID.NET - Загиблу у полоні журналістку Вікторію Рощину нагородили орденом Свободи (2025)"
     url: "https://zaxid.net/zagiblu_u_poloni_zhurnalistku_viktoriyu_roshhinu_nagorodili_ordenom_svobodi_n1616098"
+  - title: "RAW in WAR - Recipients of the 2026 RAW in WAR Anna Politkovskaya Award"
+    url: "https://www.rawinwar.org/recipients-of-the-2026-raw-in-war-anna-politkovskaya-award/"
+  - title: "Детектор медіа - Увʼязнених Росією українських журналісток відзначили Премією імені Анни Політковської (06.10.2026)"
+    url: "https://detector.media/infospace/article/253062/2026-10-06-uvyaznenykh-rosiieyu-ukrainskykh-zhurnalistok-vidznachyly-premiieyu-imeni-anny-politkovskoi/"
+  - title: "The Washington OXI Day Foundation - 2026 Celebration"
+    url: "https://oxidayfoundation.org/about-the-annual-celebration/2026-celebration/"
+  - title: "Громадське радіо - Вікторію Рощину посмертно відзначили премією «За мужність» у Вашингтоні (31.10.2026)"
+    url: "https://hromadske.radio/news/2026/10/31/viktoriiu-roshchynu-posmertno-vidznachyly-premiieiu-za-muzhnist-u-vashynhtoni"
 related: [kateryna-handziuk]
 collections: [civic-icons]
-status: draft
+status: approved
+published: 2026-10-31T19:26:57Z
 ---
 
 ## Репортерка з шістнадцяти років
@@ -65,7 +84,7 @@ status: draft
 
 ## Розслідування, яке продовжили інші
 
-У квітні 2025 року 45 журналістів із 13 редакцій світу оприлюднили «Проєкт Вікторія» - розслідування про цивільних українців, яких росія таємно тримає у в'язницях. Так вони продовжили тему, яку вона не встигла дописати. Того ж року Вікторію посмертно нагородили орденом Свободи, а Міжнародний інститут преси назвав її Героїнею свободи преси.
+У квітні 2025 року 45 журналістів із 13 редакцій світу оприлюднили «Проєкт Вікторія» - розслідування про цивільних українців, яких росія таємно тримає у в'язницях. Так вони продовжили тему, яку вона не встигла дописати. Того ж року Вікторію посмертно нагородили орденом Свободи, а Міжнародний інститут преси назвав її Героїнею свободи преси. У жовтні 2026 року її відзначили ще двома міжнародними преміями: імені Анни Політковської - разом з українськими журналістками, яких тримає росія, - і премією «За мужність» фонду Washington OXI Day, яку вручили у Вашингтонському національному соборі.
 
 ## Чому це важливо сьогодні
 
