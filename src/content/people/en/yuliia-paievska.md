@@ -6,10 +6,12 @@ summary: "She was given a camera for a Prince Harry documentary and used it to f
 fun_fact: "Yuliia picked her call sign, “Taira”, in the video game World of Warcraft."
 key_accomplishments:
   - "From 2014, taught tactical medicine and rescued the wounded in Donbas; led the volunteer paramedic team “Taira’s Angels”"
-  - "Military medic in 2018-2020"
+  - "Served in the Armed Forces in 2018-2020, heading the evacuation unit of the 61st Mobile Hospital in Mariupol"
   - "256 gigabytes of bodycam footage of medics at work in besieged Mariupol (2022)"
   - "US State Department International Women of Courage Award (2023)"
   - "Order of Freedom (Decree No. 616/2025)"
+  - "Competed at the Invictus Games in Düsseldorf (2023)"
+  - "Poetry collection “Nazhyvo” (Live, 2025)"
 birthplace_name: "Kyiv"
 image_alt: "Yuliia Paievska in a helmet and body armor on a seashore"
 quotes:
@@ -19,7 +21,7 @@ quotes:
 
 ## A camera meant for Netflix
 
-Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol hidden in a tampon.
+Yuliia Paievska was given a body camera in 2021 to film material for a Netflix documentary series produced by Britain’s Prince Harry, who founded the Invictus Games for wounded service members. When russia launched its full-scale invasion, “Taira” was in Mariupol. She used the camera to record her work: in two weeks she filmed 256 gigabytes of her team saving the wounded. She handed the clips to an Associated Press team, the last international journalists in the city, and on 15 March 2022 one of them got the memory card out of Mariupol through 15 russian checkpoints, hidden in a tampon.
 
 ## Treating the enemy too
 
@@ -27,9 +29,13 @@ One clip shows two wounded russian soldiers being brought into a hospital. A wom
 
 ## From aikido to the front line
 
-Yuliia was born in 1968 in Kyiv. Until 2014 she worked as a designer and taught aikido for more than 20 years. During the Revolution of Dignity, the 2013–2014 protests on Kyiv’s Maidan, she began giving first aid to the injured, and from 2014 she ran tactical medicine training in Donbas and led a volunteer paramedic team, “Taira’s Angels”. From 2018 to 2020 she served as a military medic.
+Yuliia was born in 1968 in Kyiv and was raised by her grandparents; her grandfather was a Second World War veteran. A coach by training, she taught aikido for more than 20 years, holds a 5th dan and headed the Mutokukai Ukraine federation. She also worked as a designer and made art ceramics. During the Revolution of Dignity, the 2013–2014 protests on Kyiv’s Maidan, she began giving first aid to the injured, and from 2014 she ran tactical medicine training in Donbas and led a volunteer paramedic team, “Taira’s Angels”. From 2018 to 2020 she served in the Armed Forces and headed the evacuation unit of the 61st Mobile Hospital in Mariupol.
 
 On 16 March 2022 russian troops detained Taira as she was trying to evacuate women and children from Mariupol to Zaporizhzhia. She spent three months in russian captivity and came home on 17 June 2022.
+
+## After captivity
+
+Because of injuries from her service, both of Taira’s hips were replaced with titanium implants. Even so, in 2023 she competed at the Invictus Games in Düsseldorf, in archery, powerlifting and swimming. In 2025 she published her first poetry collection, “Nazhyvo” (Live), with poems written after her captivity.
 
 ## Why it matters today
 
