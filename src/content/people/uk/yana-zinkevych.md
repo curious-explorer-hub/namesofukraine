@@ -17,11 +17,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.524, note: "народна депутатка IX скликання (з 2019 року)" }
 image:
   src: ./images/yana-zinkevych.jpg
-  alt: "Яна Зінкевич у панамі, окулярах і чорній футболці з нашивкою «Госпітальєри», з кулоном-тризубом, на Марші захисників у Києві, 2019"
-  position: "45% 30%"
-  author: "ReAl"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:March_of_Ukraine%27s_Defenders_in_Kiev,_2019.08.24_-_36crop.jpg"
+  alt: "Яна Зінкевич із коротким рожевим волоссям, в окулярах і чорній футболці, фотопортрет"
+  position: "50% 35%"
+  author: "Невідомий автор (через Forbes Україна)"
+  license: "Fair use"
+  source_url: "https://forbes.ua/profile/yana-zinkevich-339"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Заснувала добровольчий медичний батальйон «Госпітальєри» (2014), за даними батальйону - понад 46 тисяч евакуйованих станом на жовтень 2026 року"
   - "Особисто винесла з поля бою близько 200 поранених до грудня 2015 року"
@@ -49,7 +51,8 @@ sources:
     url: "https://texty.org.ua/fragments/103385/deputatka-yana-zinkevych-stala-modellyu-dlya-lyalky-barbie/"
 related: []
 collections: [women-army]
-status: draft
+status: approved
+published: 2026-10-31T20:23:29Z
 ---
 
 ## Дев'ятнадцять років і жодного медичного диплома

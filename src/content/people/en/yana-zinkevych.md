@@ -11,7 +11,7 @@ key_accomplishments:
   - "Order For Merit, 3rd class (2015); Forbes 30 Under 30 (2020); BBC 100 Women (2022); TIME100 Next (2023)"
   - "Member of parliament of the 9th convocation; heads the subcommittee on military medicine"
 birthplace_name: "Rivne"
-image_alt: "Yana Zinkevych in a bush hat, glasses and a black Hospitallers T-shirt with a tryzub pendant, at the Defenders’ March in Kyiv, 2019"
+image_alt: "Yana Zinkevych with short pink hair, glasses and a black T-shirt, photo portrait"
 ---
 
 ## Nineteen, and no medical degree
