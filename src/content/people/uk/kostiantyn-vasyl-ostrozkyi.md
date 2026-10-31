@@ -4,7 +4,7 @@ gender: male
 born: 1526-01-01
 born_circa: true
 died: 1608-02-29
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-31
 era: lithuanian-polish
 group: statehood
 tags: [politician]
@@ -20,11 +20,12 @@ places:
   - { name: "Острог", lat: 50.329, lon: 26.514, note: "резиденція з 1574 року; академія (бл. 1576), друкарня, Острозька Біблія (1581); тут помер і похований" }
 image:
   src: ./images/kostiantyn-vasyl-ostrozkyi.jpg
-  alt: "Портрет князя Костянтина-Василя Острозького: сивобородий чоловік у темно-червоній шапці й хутряному плащі тримає в руках золоті монети, вгорі латинський напис «Constantinus Dux in Ostrog et in Tarnow»"
+  alt: "Портрет князя Костянтина-Василя Острозького: бородатий чоловік у темно-червоній шапці, хутряному плащі й зеленому жупані із золотим поясом тримає в руках золоті монети"
   position: "50% 25%"
   author: "Теофіл Копистинський (копія XIX ст. з портрета XVI ст.)"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Kanstantyn_Vasil_Astroski._Канстантын_Васіль_Астроскі_(XVI,_XIX).jpg"
+  ai_edit: restored
 key_accomplishments:
   - "Київський воєвода майже 50 років (1559–1608); староста володимирський і маршалок Волинської землі з 1550 року"
   - "Заснував Острозьку академію (бл. 1576), першу вищу школу в Україні, і Острозьку друкарню"
@@ -41,7 +42,8 @@ sources:
   - title: "ZAXID.NET - Євген Гулюк. «Олігархи» минулого. Хто вони і чому не все так однозначно (2024)"
     url: "https://zaxid.net/oligarhi_minulogo_n1583898"
 related: [kostiantyn-ostrozkyi, halshka-ostrozka, ivan-fedorov, severyn-nalyvaiko]
-status: draft
+status: approved
+published: 2026-10-31T01:31:55Z
 ---
 
 ## Василь, який став Костянтином

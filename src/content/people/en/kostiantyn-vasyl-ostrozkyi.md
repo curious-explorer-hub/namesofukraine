@@ -11,7 +11,7 @@ key_accomplishments:
   - "Founded schools in Turiv (1572) and Volodymyr (1577) and a press at the Derman Monastery (1602)"
   - "Led the resistance to the 1596 Union of Brest"
 birthplace_name: "Dubno"
-image_alt: "Portrait of Prince Kostiantyn-Vasyl Ostrozkyi: a grey-bearded man in a dark red cap and fur-lined cloak holding gold coins, with the Latin inscription “Constantinus Dux in Ostrog et in Tarnow” at the top"
+image_alt: "Portrait of Prince Kostiantyn-Vasyl Ostrozkyi: a bearded man in a dark red cap, a fur-lined cloak and a green robe with a gold belt, holding gold coins"
 ---
 
 ## Vasyl who became Kostiantyn
