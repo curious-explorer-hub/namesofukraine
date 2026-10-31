@@ -12,7 +12,7 @@ key_accomplishments:
   - "A three-volume memoir, Not Only About Myself (2006–2010); books on Ivan Severa, Opanas Zalyvakha, Sofiia Karaffa-Korbut and Sviatoslav Hordynskyi"
   - "Shevchenko National Prize (2019) for an essay-collage on Sviatoslav Hordynskyi"
 birthplace_name: "Kniselo, Lviv region"
-image_alt: "Bohdan Horyn in a light trench coat at a tribute to Borys Antonenko-Davydovych, 2019"
+image_alt: "Bohdan Horyn with dark swept-back hair and a moustache, in a light tweed jacket, white shirt and a patterned blue-and-yellow tie, photo portrait"
 ---
 
 ## Shevchenko’s birthday behind barbed wire

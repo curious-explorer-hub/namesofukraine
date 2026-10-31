@@ -3,7 +3,7 @@ name: Богдан Горинь
 gender: male
 born: 1936-02-10
 living: true
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-31
 era: 20th-century
 group: civic
 tags: [human-rights, politician, writer]
@@ -16,11 +16,13 @@ places:
   - { name: "Київ", lat: 50.45, lon: 30.523, note: "Верховна Рада 1-го і 2-го скликань" }
 image:
   src: ./images/bohdan-horyn.jpg
-  alt: "Богдан Горинь у світлому плащі на вшануванні Бориса Антоненка-Давидовича, 2019"
-  position: "30% 25%"
-  author: "Анастасія Буртелей"
-  license: "CC BY-SA 4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD_%D0%93%D0%BE%D1%80%D0%B8%D0%BD%D1%8C_120-_%D1%80%D1%96%D1%87%D1%87%D1%8F_%D0%B2%D1%96%D0%B4_%D0%B4%D0%BD%D1%8F_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%91._%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%B0-%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.jpg"
+  alt: "Богдан Горинь із зачесаним назад темним волоссям і вусами, у світлому твідовому піджаку, білій сорочці й візерунчастій синьо-жовтій краватці, фотопортрет"
+  position: "50% 30%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-31257"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Заступник президента львівського клубу творчої молоді «Пролісок» (1963), організатор поширення самвидаву"
   - "У мордовському таборі налагодив передачу на волю вироків і заяв політв'язнів, які згодом видали за кордоном"
@@ -45,7 +47,8 @@ sources:
     url: "https://armyinform.com.ua/2021/06/17/vin-organizuvav-lanczyug-yednosti-yakyj-pereduvav-progoloshennyu-nezalezhnosti-ukrayiny/"
 related: [mykhailo-horyn, opanas-zalyvakha, taras-shevchenko, halyna-sevruk, levko-lukianenko, ivan-hel, viacheslav-chornovil, ivan-svitlychnyi, yevhen-sverstiuk, ivan-dziuba, ivan-drach, mykola-vinhranovskyi]
 collections: [sixtiers]
-status: draft
+status: approved
+published: 2026-10-31T01:13:52Z
 ---
 
 ## Свято Шевченка за колючим дротом
