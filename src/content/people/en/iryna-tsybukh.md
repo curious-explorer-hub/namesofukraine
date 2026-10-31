@@ -9,7 +9,9 @@ key_accomplishments:
   - "Manager at Suspilne public broadcasting (from 2017); educational media projects for children in remote villages of Donetsk and Luhansk regions"
   - "The documentary “Distance” about children from remote villages in Donbas (2022)"
   - "Order of Merit, 3rd class (2023) and Order for Courage, 3rd class (posthumously, 2024)"
+  - "Co-founder of the civic organization Vshanui (“Honor”), which builds a culture of honoring the fallen"
   - "Hero of Ukraine (posthumously, Decree No. 144/2025)"
+  - "Righteous of the Polish Garden of the Righteous (posthumously, 2025)"
 birthplace_name: "Lviv"
 image_alt: "Photo portrait of Iryna Tsybukh in uniform"
 quotes:
@@ -28,6 +30,10 @@ Iryna was born in 1998 in Lviv, graduated from Lviv Polytechnic and later studie
 The front was part of her life long before 2022: at seventeen she began traveling to Donbas as a paramedic. After the invasion Iryna, call sign “Cheka”, went back to the volunteer Hospitallers battalion and took charge of its 5th crew, which carried the wounded straight from the front line. She chose to stay a volunteer, because the Hospitallers fill the gaps wherever units are short of medics or vehicles. She spoke often in the media about the work of combat medics and about remembering the fallen. In 2023 she was awarded the Order of Merit, 3rd class.
 
 Iryna Tsybukh was killed on 29 May 2024 during a rotation on the Kharkiv front. She was 25.
+
+## Remembrance as action
+
+Iryna co-founded Vshanui (“Honor”), a civic organization that teaches people how to honor the fallen. She dreamed that the daily national minute of silence at 9:00 would become a living ritual rather than a formality, a moment to remember real people by name. She had described her own farewell in advance: she asked people to come in vyshyvankas, Ukrainian embroidered shirts, and soldiers in uniform, and for everyone to learn at least ten meaningful Ukrainian songs and sing them together. Her farewell took place on 2 June 2024 on Maidan Nezalezhnosti in Kyiv. In Lviv the ChekaFest festival is held in her honor, and in 2025 she was posthumously named a Righteous of the Polish Garden of the Righteous in Warsaw.
 
 ## Why it matters today
 
