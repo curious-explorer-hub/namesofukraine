@@ -3,7 +3,7 @@ name: Шолом-Алейхем
 gender: male
 born: 1859-03-02
 died: 1916-05-13
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-31
 era: 19th-century
 group: literature
 tags: [writer]
@@ -48,7 +48,8 @@ sources:
   - title: "Київ: минуле і майбутнє - Пам'ятник Шолом-Алейхему. Історія (21.12.2020)"
     url: "https://kyivpastfuture.com.ua/pamyatnyk-sholom-alejhemu-istoriya/"
 related: [bohdan-stupka, taras-shevchenko, ivan-franko, maksym-rylskyi]
-status: draft
+status: approved
+published: 2026-10-31T03:49:19Z
 ---
 
 ## Хлопчик із Переяслава
