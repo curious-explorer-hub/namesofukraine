@@ -8,7 +8,7 @@ key_accomplishments:
   - "First General Secretary for Military Affairs of the Ukrainian Central Rada (1917): laid the foundations of the Ukrainian armed forces"
   - "Chief Otaman of the UPR Army (from November 1918) and Head of the UPR Directory (from 1919)"
   - "Led the UPR Army in the war against the Bolsheviks and Denikin’s forces; ordered the start of the First Winter Campaign (1919)"
-  - "Founded the weekly Tryzub in Paris and led the UPR government in exile"
+  - "Founded the weekly Tryzub in Paris and led the UPR in exile"
 birthplace_name: "Poltava"
 image_alt: "Symon Petliura in Kamianets-Podilskyi, 1919: the photograph turned by AI into a photo-like image; uniform and insignia changed"
 quotes:
@@ -30,7 +30,7 @@ Under Hetman Skoropadskyi, Petliura headed the All-Ukrainian Union of Zemstvos a
 
 ## Exile
 
-Because the Bolsheviks were demanding his extradition, Petliura left Poland, and in 1924 he settled in Paris. There he founded the weekly Tryzub and led the UPR government in exile. On 25 May 1926 he was shot dead on the Rue Racine by Sholem (Samuel) Schwartzbard. Petliura was buried in Montparnasse Cemetery.
+Because the Bolsheviks were demanding his extradition, Petliura left Poland, and in 1924 he settled in Paris. There he founded the weekly Tryzub and led the UPR in exile, with [Andrii Livytskyi](/en/people/andrii-livytskyi/) heading its government. On 25 May 1926 he was shot dead on the Rue Racine by Sholem (Samuel) Schwartzbard. Petliura was buried in Montparnasse Cemetery.
 
 ## Debates and assessments
 

@@ -26,7 +26,7 @@ When the First World War began in 1914, Olha joined the first women’s platoon 
 
 ## Diplomat and courier
 
-Under the Ukrainian People’s Republic, Basarab served as secretary of the Ukrainian embassy in Finland and travelled to Sweden and Norway. She then worked for the government of the West Ukrainian People’s Republic, which operated from Vienna. In 1920 she joined the underground Ukrainian Military Organization (UVO) and became the personal courier of its leader, [Yevhen Konovalets](/en/people/yevhen-konovalets/).
+Under the Ukrainian People’s Republic, Basarab served as secretary of the Ukrainian embassy in Finland and travelled to Sweden and Norway. She then worked for the government of the West Ukrainian People’s Republic, which [Yevhen Petrushevych](/en/people/yevhen-petrushevych/) led from Vienna. In 1920 she joined the underground Ukrainian Military Organization (UVO) and became the personal courier of its leader, [Yevhen Konovalets](/en/people/yevhen-konovalets/).
 
 In 1923 Olha returned to Lviv. By day she worked in the office of an oil company and gave private language lessons; in secret she gathered information for UVO intelligence.
 

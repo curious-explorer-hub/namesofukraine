@@ -41,7 +41,7 @@ sources:
     url: "https://armyinform.com.ua/2021/09/01/1-veresnya-narodylasya-olga-basarab-nezlamna-ukrayinska-rozvidnyczya-ta-zvyazkova-yevgena-konovalczya/"
   - title: "ZAXID.NET - Легендарна розвідниця, повішена на вишиваному рушнику (2025)"
     url: "https://zaxid.net/legendarna_rozvidnitsya_povishana_na_vishivanomu_rushniku_n1618147"
-related: [yevhen-konovalets, olena-stepaniv]
+related: [yevhen-konovalets, olena-stepaniv, yevhen-petrushevych]
 collections: [women-army]
 status: approved
 published: 2026-10-15T23:12:10Z
@@ -57,7 +57,7 @@ published: 2026-10-15T23:12:10Z
 
 ## Дипломатка і зв'язкова
 
-За часів УНР Басараб працювала секретаркою українського посольства у Фінляндії, бувала у Швеції та Норвегії. Потім служила в уряді Західноукраїнської Народної Республіки, який діяв у Відні. 1920 року вона вступила до підпільної Української військової організації (УВО) і стала особистою зв'язковою її керівника [Євгена Коновальця](/uk/people/yevhen-konovalets/).
+За часів УНР Басараб працювала секретаркою українського посольства у Фінляндії, бувала у Швеції та Норвегії. Потім служила в уряді Західноукраїнської Народної Республіки, який [Євген Петрушевич](/uk/people/yevhen-petrushevych/) очолював у Відні. 1920 року вона вступила до підпільної Української військової організації (УВО) і стала особистою зв'язковою її керівника [Євгена Коновальця](/uk/people/yevhen-konovalets/).
 
 1923 року Ольга повернулася до Львова. Удень вона працювала в конторі нафтової фірми й давала приватні уроки мов, а потай збирала відомості для розвідки УВО.
 

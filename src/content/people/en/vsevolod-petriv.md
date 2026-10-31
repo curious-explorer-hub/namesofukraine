@@ -28,7 +28,7 @@ In 1919 Petriv headed the military cadet school in Zhytomyr, then commanded the 
 
 ## A historian in exile
 
-From November 1920 Petriv lived in exile: first in the camp for interned UNR soldiers in Kalisz, then from 1923 in Prague. There he taught at the Ukrainian Higher Pedagogical Institute and wrote on Ukrainian military history. His Memoirs from the Times of the Ukrainian Revolution (1917–1921) came out in Lviv in four parts. From 1929 Petriv worked with the Organization of Ukrainian Nationalists, and on 30 June 1941 he became war minister in Yaroslav Stetsko’s government. He spent his last years in Augsburg, Germany, where he died in 1948.
+From November 1920 Petriv lived in exile: first in the camp for interned UNR soldiers in Kalisz, then from 1923 in Prague. There he taught at the Ukrainian Higher Pedagogical Institute and wrote on Ukrainian military history. His Memoirs from the Times of the Ukrainian Revolution (1917–1921) came out in Lviv in four parts. From 1929 Petriv worked with the Organization of Ukrainian Nationalists, and on 30 June 1941 he became war minister in [Yaroslav Stetsko](/en/people/yaroslav-stetsko/)’s government. He spent his last years in Augsburg, Germany, where he died in 1948.
 
 ## Why it matters today
 

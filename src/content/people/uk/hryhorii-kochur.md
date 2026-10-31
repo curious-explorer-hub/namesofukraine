@@ -43,7 +43,7 @@ sources:
   - title: "Комітет з Національної премії України імені Тараса Шевченка - «Дивосвіт Григорія Кочура»"
     url: "https://knpu.gov.ua/dyvosvit-hryhoriia-kochura/"
 related: [mykola-lukash, maksym-rylskyi, mykola-zerov, ivan-svitlychnyi, vasyl-symonenko, yevhen-sverstiuk, ivan-dziuba, vasyl-stus, borys-antonenko-davydovych, dmytro-pavlychko]
-collections: [sixtiers]
+collections: [sixtiers, neoclassicists]
 status: approved
 published: 2026-10-28T04:11:30Z
 ---

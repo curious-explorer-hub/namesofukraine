@@ -24,7 +24,7 @@ In 1914 Vitovskyi volunteered for the Ukrainian Sich Riflemen and commanded firs
 
 ## One night that changed Lviv
 
-In the autumn of 1918 Austria-Hungary was falling apart, and Vitovskyi headed the Ukrainian General Military Committee. When the politicians hesitated, he persuaded them to act at once: either Ukrainians took Lviv that night, or the Poles would take it the next day. On the night of 1 November a few dozen officers and a few hundred soldiers took control of the city without bloodshed, and the blue-and-yellow flag went up over the town hall. That was the start of the Western Ukrainian People’s Republic. On 9 November Vitovskyi became its first State Secretary of Military Affairs, and later a colonel. On 22 January 1919 he was in Kyiv for the proclamation of the Act of Union.
+In the autumn of 1918 Austria-Hungary was falling apart, and Vitovskyi headed the Ukrainian General Military Committee. When the politicians hesitated, he persuaded them to act at once: either Ukrainians took Lviv that night, or the Poles would take it the next day. On the night of 1 November a few dozen officers and a few hundred soldiers took control of the city without bloodshed, and the blue-and-yellow flag went up over the town hall. That was the start of the Western Ukrainian People’s Republic. On 9 November Vitovskyi became its first State Secretary of Military Affairs in [Kost Levytskyi](/en/people/kost-levytskyi/)’s government, and later a colonel. On 22 January 1919 he was in Kyiv for the proclamation of the Act of Union.
 
 ## The flight he never came back from
 

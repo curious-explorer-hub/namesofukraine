@@ -49,6 +49,7 @@ sources:
   - title: "CEU Press / Amsterdam University Press - V. Domontovych, On Shaky Ground (переклад Оксани Розенблюм, 2024)"
     url: "https://www.aup.nl/en/book/9789633867587"
 related: [mykola-zerov, yurii-klen, maksym-rylskyi, mykhailo-drai-khmara, pavlo-fylypovych, panteleimon-kulish, valerian-pidmohylnyi, yurii-shevelov]
+collections: [neoclassicists]
 status: approved
 published: 2026-10-26T22:27:07Z
 ---

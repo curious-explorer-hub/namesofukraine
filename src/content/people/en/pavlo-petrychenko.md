@@ -27,7 +27,7 @@ Pavlo was born in Kyiv in 1992 and graduated from the Kyiv Economic University. 
 
 ## Eyes in the sky
 
-Pavlo was mobilized into the Armed Forces in April 2022. He served as an aerial scout in the 59th Separate Motorized Infantry Brigade named after Yakiv Handziuk: flying drones, he spotted enemy equipment and troops and adjusted artillery fire. He helped liberate the Kherson region, defended the Donbas, and later became commander of a drone squad. In 2023 he was awarded the Order for Courage, 3rd class.
+Pavlo was mobilized into the Armed Forces in April 2022. He served as an aerial scout in the 59th Separate Motorized Infantry Brigade named after [Yakiv Handziuk](/en/people/yakiv-handziuk/): flying drones, he spotted enemy equipment and troops and adjusted artillery fire. He helped liberate the Kherson region, defended the Donbas, and later became commander of a drone squad. In 2023 he was awarded the Order for Courage, 3rd class.
 
 Pavlo Petrychenko was killed on 15 April 2024 near Krasnohorivka in the Donetsk region, a day before his 32nd birthday.
 

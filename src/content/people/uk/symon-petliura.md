@@ -27,7 +27,7 @@ key_accomplishments:
   - "Перший генеральний секретар військових справ Української Центральної Ради (1917): заклав основи українських збройних сил"
   - "Головний отаман Армії УНР (з листопада 1918) і Голова Директорії УНР (з 1919)"
   - "Керував Армією УНР у війні проти більшовиків і денікінців, наказав розпочати Перший Зимовий похід (1919)"
-  - "Заснував у Парижі тижневик «Тризуб» і керував урядом УНР в екзилі"
+  - "Заснував у Парижі тижневик «Тризуб» і очолював Державний центр УНР в екзилі"
 quotes:
   - text: "В українську державність ми віруємо, українську державність ми ісповідуємо, – в її неминучості ми переконані."
     source: "Тижневик «Тризуб», перше число, 1925"
@@ -40,7 +40,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CO%5CPogrom.htm"
   - title: Wikipedia (EN) - Symon Petliura
     url: https://en.wikipedia.org/wiki/Symon_Petliura
-related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko, averkii-honcharenko, mykhailo-omelianovych-pavlenko, yurii-tiutiunnyk, marko-bezruchko]
+related: [mykhailo-hrushevskyi, pavlo-skoropadskyi, nestor-makhno, volodymyr-vynnychenko, averkii-honcharenko, mykhailo-omelianovych-pavlenko, yurii-tiutiunnyk, marko-bezruchko, andrii-livytskyi]
 collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
@@ -60,7 +60,7 @@ published: 2026-10-07T06:23:13Z
 
 ## Еміграція
 
-Через вимоги більшовиків видати його Петлюра залишив Польщу й 1924 року оселився в Парижі. Там він заснував тижневик «Тризуб» і керував урядом УНР в екзилі. 25 травня 1926 року на вулиці Расін його застрелив Самуїл (Шолом) Шварцбард. Петлюру поховали на цвинтарі Монпарнас.
+Через вимоги більшовиків видати його Петлюра залишив Польщу й 1924 року оселився в Парижі. Там він заснував тижневик «Тризуб» і очолював Державний центр УНР в екзилі; уряд тоді очолював [Андрій Лівицький](/uk/people/andrii-livytskyi/). 25 травня 1926 року на вулиці Расін його застрелив Самуїл (Шолом) Шварцбард. Петлюру поховали на цвинтарі Монпарнас.
 
 ## Дискусії та оцінки
 

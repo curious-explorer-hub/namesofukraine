@@ -33,7 +33,7 @@ In 1923–1929 Olena studied at the Mykhailo Drahomanov Ukrainian Higher Pedagog
 
 ## Kyiv, 1941
 
-She arrived in Nazi-occupied Kyiv with the OUN expeditionary groups on 22 October 1941. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She saved the poet Yakiv Halperin, who was of Jewish origin, from arrest and execution: he was given papers under a new surname, Yakiv Halych, and a job at the Litavry office. Teliha also set up a food station. Despite hunger and cold, she arrived at the Union on Trokhsviatytelska Street at exactly 9 every morning, “neatly combed, elegantly dressed, shivering with cold, her fingers blue,” as a comrade recalled.
+She arrived in Nazi-occupied Kyiv with the expeditionary groups of [Andrii Melnyk](/en/people/andrii-melnyk/)’s OUN on 22 October 1941. There Teliha headed the Union of Ukrainian Writers and edited Litavry, the literary and arts supplement to the newspaper Ukrainske Slovo. She saved the poet Yakiv Halperin, who was of Jewish origin, from arrest and execution: he was given papers under a new surname, Yakiv Halych, and a job at the Litavry office. Teliha also set up a food station. Despite hunger and cold, she arrived at the Union on Trokhsviatytelska Street at exactly 9 every morning, “neatly combed, elegantly dressed, shivering with cold, her fingers blue,” as a comrade recalled.
 
 When the occupation authorities closed Ukrainske Slovo and replaced it with the loyal Nove Ukrainske Slovo, Teliha refused to cooperate. When mass arrests of nationalists began, she did not obey an order from the OUN leadership to leave Kyiv. “I won’t go into emigration from Kyiv again! I can’t…” she told a friend.
 

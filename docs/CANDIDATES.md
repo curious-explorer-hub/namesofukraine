@@ -20,6 +20,10 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
+| Ананій Лебідь | 1898–1937 | Literary scholar (literature) | | `neoclassicists`, `executed-renaissance` | Owner suggestion 2026-10-31. Close associate of Микола Зеров; co-author of literary studies and anthologies that promoted a European direction for Ukrainian literature |
+| Борис Якубський | 1889–1944 | Literary scholar (literature) | | `neoclassicists` | Owner suggestion 2026-10-31. One of the leading scholars of the formal method in Ukraine, close to Зеров and Филипович; argued for the aesthetic value of neoclassical verse |
+| Михайло Могилянський | 1873–1942 | Literary critic (literature) | | `neoclassicists` | Owner suggestion 2026-10-31. Older contemporary and supporter of the neoclassicists; defended their "Europeanism" in the press during the literary discussion of 1925–1928 |
+| Олег Ольжич | 1907–1944 | Poet, archaeologist (literature) | ⚖️ 🌍 | | Owner suggestion 2026-10-31. Poet of the Prague school, not a Kyiv neoclassicist (follower of their style); also an OUN(m) leader, died in Sachsenhausen. Fit for `neoclassicists` is an owner question |
 
 ## Needs a decision
 
@@ -37,6 +41,9 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | «Хант», «Фрост» | | Defender (defenders) | 👥 | Owner request 2026-10-16: "fighters of special units / RDK / HUR". Call signs only, no names or verifiable public record found; possibly RDK members (Russian citizens). Owner: who are they (names, a link)? Recommend dropping |
 | Антон Радько («Берсерк») | | Defender (defenders) | 🟢 | Owner request 2026-10-16: "serviceman of the 3rd Separate Assault Brigade". No article or reputable coverage found (uk.wikipedia, 2026-10-16). Owner: a link? |
 | «Віхор» | | Defender (defenders) | | Owner request 2026-10-16: "SSO fighter". Call sign only, nothing found. Owner: who is he (name, a link)? Recommend dropping |
+| Софія Зерова | | Zerov's wife (literature) | 👩 | Owner suggestion 2026-10-31, described as the muse of the neoclassicists whose Kyiv home was the group's meeting place. A private figure with no public deeds of her own found so far; better mentioned in Микола Зеров's profile. Recommend dropping |
+| Микола Бажан | 1904–1983 | Poet, translator (literature) | | Owner suggestion 2026-10-31 for `neoclassicists` (started as a futurist, influenced by the neoclassicists). Also a Soviet-establishment figure: deputy head of the Council of Ministers of the Ukrainian SSR, Stalin Prizes (see Editorial notes, and Малишко left out of the sixtiers). Add? |
+| Катерина Мешко | | OUN (statehood) | 👩 | Owner suggestion 2026-10-31, described as an OUN figure, UHVR member and organizer of the OUN underground in southern and eastern Ukraine (Kryvyi Rih, Dnipropetrovsk). No such person is known; possibly a mix-up with Оксана Мешко (has a profile). Owner: who is meant (a link)? |
 | «Шаман» | | Defender (defenders) | 🟢 | Owner request 2026-10-16: commander of the HUR special unit «Шаманбат». The unit has a uk.wikipedia article, but the commander's identity is not established in reputable sources. Profile only with a confirmed name; recommend dropping for now |
 
 
