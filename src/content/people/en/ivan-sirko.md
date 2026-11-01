@@ -18,11 +18,11 @@ image_alt: "Ivan Sirko: an imagined portrait made with AI"
 
 ## Two thousand people set free
 
-The Zaporozhian Cossacks under Ivan Sirko reached Kaffa (today Feodosiia) in Crimea in 1667 and freed about 2,000 Christian captives. It was only one of his campaigns. Sirko raided Crimea several times, once reaching Bakhchysarai, and in 1670–1671 he attacked the Turkish fortresses of Ochakiv and Islam-Kermen.
+The Zaporozhian Cossacks under Ivan Sirko reached Kaffa (today Feodosiia) in Crimea in 1667 and freed about 2,000 Christian captives. It was only one of his campaigns. Sirko raided Crimea several times, once reaching Bakhchysarai, and in 1670–1671 he attacked the Turkish fortresses of Ochakiv and Islam-Kermen. By researchers’ count, he won at least 65 victories.
 
 ## Where did he come from?
 
-Nobody knows for sure. Sources give different birth years, from 1605–1610 to about 1618. Sirko’s first biographer, Dmytro Yavornytskyi, believed he was born in Merefa in Sloboda Ukraine; the modern historian Yurii Mytsyk points to Murafa in Podillia. Sirko first appears in documents in 1653. In the late 1650s he was colonel of Kalnyk (Vinnytsia), and in the autumn of 1662 he was elected kish otaman for the first time.
+Nobody knows for sure. Sources give different birth years, from 1605–1610 to about 1618. When his remains were examined in 1967, experts found he had lived 70–75 years, which puts his birth between 1605 and 1610. Documents link him to the petty Orthodox nobility of Podillia. Sirko’s first biographer, Dmytro Yavornytskyi, believed he was born in Merefa in Sloboda Ukraine; the modern historian Yurii Mytsyk points to Murafa in Podillia. Sirko first appears in documents in 1653. In the late 1650s he was colonel of Kalnyk (Vinnytsia), and in the autumn of 1662 he was elected kish otaman for the first time. The Zaporozhians went on to elect him many more times - at least 15, by Yurii Mytsyk’s count.
 
 ## Allies that kept changing
 
@@ -32,9 +32,11 @@ Sirko died in August 1680 at his apiary in Hrushivka. He was buried near the Cho
 
 ## Debates and assessments
 
-Legends about Sirko began while he was still alive. He is the hero of folk tales and dumas; according to legend, he was a kharakternyk, a Cossack with supernatural powers. This is folklore, not documented fact.
+Legends about Sirko began while he was still alive. He is the hero of folk tales and dumas; according to legend, he was a kharakternyk, a Cossack with supernatural powers. It was said he was born with teeth, a sign that he would “gnaw enemies” all his life. His enemies called him “Urus-Shaitan,” and according to the Polish chronicler Wespazjan Kochowski, Crimean Tatars hushed crying children with the words “Sirko is coming.” A tale recorded by Dmytro Yavornytskyi says that after the otaman’s death the Cossacks cut off his right hand and carried it on campaigns, believing it brought victory. This is folklore, not documented fact.
 
-The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan,” made famous by [Ilya Repin](/en/people/illia-riepin/)’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also judged in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians read his motives differently.
+Two famous stories are also considered legends. Sirko and his Cossacks are said to have helped the French take the Spanish fortress of Dunkirk in 1646. There is no documentary evidence for this, and researchers suggest Sirko was confused with a French general, Baron de Sirot. The chronicle of Samiilo Velychko tells how, on Christmas night 1674/75, the Zaporozhians under Sirko beat off a janissary attack on the Sich, but some historians regard the story as a legend.
+
+The best-known legend links Sirko to the “Letter of the Zaporozhian Cossacks to the Turkish Sultan” Mehmed IV, made famous by [Ilya Repin](/en/people/illia-riepin/)’s painting (1891). Many versions of the text are known, with different dates and signatures; most researchers regard it as a literary work rather than an authentic document. Sirko’s politics are also judged in different ways: he repeatedly changed allies and his stance toward Moscow, Warsaw and the hetmans, so historians read his motives differently.
 
 ## Why it matters today
 
