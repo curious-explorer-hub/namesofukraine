@@ -23,6 +23,7 @@ image:
   author: "Невідомий фотограф"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Sholem_Aleichem_1907.jpg"
+  ai_edit: colorized
 key_accomplishments:
   - "Цикл оповідань «Тев'є-молочник» (1894–1914)"
   - "Повість «Хлопчик Мотл» і автобіографічний роман «З ярмарку»"
