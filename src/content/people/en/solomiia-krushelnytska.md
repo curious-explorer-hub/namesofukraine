@@ -18,17 +18,17 @@ image_alt: "Photograph of Solomiia Krushelnytska by Mario Nunes Vais, c. 1905–
 
 ## How do you rescue an opera that flopped?
 
-Giacomo Puccini’s new opera Madama Butterfly failed loudly at its 1904 premiere at La Scala in Milan. That same year the composer invited Solomiia Krushelnytska to sing the title role. On 28 May 1904 she sang Butterfly brilliantly at the Teatro Grande in Brescia, and Puccini considered her “the most beautiful and most charming Butterfly.”
+Giacomo Puccini’s new opera Madama Butterfly failed loudly at its premiere in February 1904 at La Scala in Milan. That same year the composer invited Solomiia Krushelnytska to sing the title role. On 28 May 1904 she sang Butterfly brilliantly at the Teatro Grande in Brescia. This time the audience was delighted: the singer and the composer were called to the stage 17 times. Puccini gave her his portrait inscribed “To the most beautiful and most charming Butterfly.”
 
 ## From Biliavyntsi to Buenos Aires
 
-Krushelnytska was born in 1872 in the village of Biliavyntsi in the Ternopil region and grew up in the village of Bila. In 1893 she graduated from the Lviv Conservatory and made her debut in Lviv that same year in Gaetano Donizetti’s La Favorita. She went on to study in Milan and Vienna.
+Krushelnytska was born in 1872 in the village of Biliavyntsi in the Ternopil region, into the family of Amvrosii Krushelnytskyi, a Greek Catholic priest from the old noble Sas clan. She grew up in the village of Bila, took piano lessons in Ternopil and finished the Ternopil gymnasium as an external student. In 1893 she graduated from the Lviv Conservatory and made her debut in Lviv that same year in Gaetano Donizetti’s La Favorita. She went on to study in Milan and Vienna.
 
-Her soprano was heard in Odesa, Warsaw, Saint Petersburg, Paris, Naples, at La Scala and at the Teatro Colón in Buenos Aires. Her voice spanned three octaves, and she sang every work in its original language. In Italy she was the first to sing the title roles in Richard Strauss’s Salome (1906) and Elektra (1909). From the very first performance of Salome she danced the “Dance of the Seven Veils” herself instead of handing it to a professional dancer.
+Her soprano was heard in Odesa, Warsaw, Saint Petersburg, Paris, Naples, at La Scala and at the Teatro Colón in Buenos Aires. Her stage partners included Enrico Caruso and Titta Ruffo, and her repertoire had more than 60 opera roles. Her voice spanned three octaves, and she sang every work in its original language: she spoke eight languages fluently. In Italy she was the first to sing the title roles in Richard Strauss’s Salome (1906) and Elektra (1909). From the very first performance of Salome she danced the “Dance of the Seven Veils” herself instead of handing it to a professional dancer.
 
 ## Ukrainian song on the world stage
 
-She sang Ukrainian folk songs and works by Stanyslav Liudkevych, Denys Sichynskyi and [Mykola Lysenko](/en/people/mykola-lysenko/), who dedicated several pieces to her, including “Do Not Forget the Days of Youth.” In 1910 she married the Italian lawyer Cesare Riccioni and lived in Viareggio, where she drove her own car, a rare thing for a woman at the time. In the mid-1920s she left the opera stage and gave chamber concerts in Western Europe, Canada and the United States.
+She sang Ukrainian folk songs and works by Stanyslav Liudkevych, Denys Sichynskyi and [Mykola Lysenko](/en/people/mykola-lysenko/), who dedicated several pieces to her, including “Do Not Forget the Days of Youth.” She ended every concert with a Ukrainian song. In 1899, when she sang for the family of the russian emperor, Nicholas II asked what language the songs were in, and she answered in French: her native one. In 1910 she married the Italian lawyer Cesare Riccioni and lived in Viareggio in Tuscany, where she drove her own car, a rare thing for a woman at the time. She is considered the first woman driver in Galicia. In the mid-1920s she left the opera stage and gave chamber concerts in Western Europe, Canada and the United States.
 
 ## Why did she never go back to Italy?
 
