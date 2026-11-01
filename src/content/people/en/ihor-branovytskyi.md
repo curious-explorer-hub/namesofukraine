@@ -23,7 +23,7 @@ Ihor Branovytskyi was born on 25 April 1976 in Pushcha-Vodytsia, now a part of K
 
 Branovytskyi arrived for a second rotation defending Donetsk airport in January 2015. Ukrainian troops had held it for more than 240 days by then, earning them the nickname "cyborgs". When the fighters blew up the ceiling of the new terminal, Branovytskyi pulled wounded comrades from the rubble and gave them first aid, applying tourniquets. When some of the defenders were taken prisoner, he was the one who identified himself as the machine gunner, to draw the blow away from the others.
 
-Ihor Branovytskyi was killed in captivity on 21 January 2015. He was 38.
+Ihor Branovytskyi was killed in captivity on 21 January 2015. He was 38. That same day the militants also killed a gunner of his battalion, [Andrii Havryliuk](/en/people/andrii-havryliuk/), who had held the new terminal with him.
 
 ## Why it matters today
 

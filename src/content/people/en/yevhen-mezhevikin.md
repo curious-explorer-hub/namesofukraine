@@ -25,7 +25,7 @@ Yevhen was born in russia and decided as a teenager that he wanted to be a soldi
 
 ## A tank with a “backpack”
 
-Adam’s tank led a battalion of the 79th Brigade into the terminals of Donetsk airport as reinforcements at the end of September 2014. The defenders there at the time were special forces of the 3rd Regiment, under the command of [Oleksandr Trepak](/en/people/oleksandr-trepak/). Around the same time, by the old terminal, Mezhevikin’s crew knocked out two enemy tanks; the burnt-out hull of one of them stood on the runway for a long time afterwards.
+Adam’s tank led a battalion of the 79th Brigade into the terminals of Donetsk airport as reinforcements at the end of September 2014. The defenders there at the time were special forces of the 3rd Regiment, under the command of [Oleksandr Trepak](/en/people/oleksandr-trepak/). Around the same time, by the old terminal, Mezhevikin’s crew knocked out two enemy tanks; the burnt-out hull of one of them stood on the runway for a long time afterwards. Among the airport’s defenders then was his former classmate, 93rd Brigade company commander [Serhii Kolodii](/en/people/serhii-kolodii/), who was killed there on 28 September 2014.
 
 Then came the supply runs under fire. Behind the turret the crews built a huge “backpack”: weapons, grenades, mines, fuel and water, all lashed down with rope. The tank led the convoy, and while the soldiers unloaded, it drew the enemy’s fire. Later Mezhevikin pulled the tanks out of the terminals to positions nearby and started “tank carousels”: several groups took turns rolling out to fire on the enemy. Five destroyed enemy tanks could be confirmed for certain, along with armored vehicles and mortars.
 
