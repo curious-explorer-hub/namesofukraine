@@ -23,7 +23,7 @@ How do you become an artist after losing a leg as a teenager? Nil Khasevych was 
 
 ## From a painting to woodcuts
 
-In Warsaw Khasevych co-founded the Ukrainian art circle Spokii, and in 1935 he graduated from the academy's graphics department. His work was shown from Lviv to Chicago. His painting Washing won a Vatican prize distinction (1931), and his portrait of Hetman [Ivan Mazepa](/en/people/ivan-mazepa/) a diploma from the Warsaw academy (1932). In the late 1930s he took up the woodcut, and in 1937 he won a prize at an international woodcut exhibition in Warsaw. His talent is compared with that of Ivan Trush, [Heorhii Narbut](/en/people/heorhii-narbut/) and Vasyl Krychevskyi.
+In Warsaw Khasevych co-founded the Ukrainian art circle Spokii, and in 1935 he graduated from the academy's graphics department. His work was shown from Lviv to Chicago. His painting Washing won a Vatican prize distinction (1931), and his portrait of Hetman [Ivan Mazepa](/en/people/ivan-mazepa/) a diploma from the Warsaw academy (1932). In the late 1930s he took up the woodcut, and in 1937 he won a prize at an international woodcut exhibition in Warsaw. His talent is compared with that of Ivan Trush, [Heorhii Narbut](/en/people/heorhii-narbut/) and [Vasyl Krychevskyi](/en/people/vasyl-krychevskyi/).
 
 ## A cutting tool instead of a rifle
 

@@ -42,7 +42,7 @@ sources:
     url: "https://zaxid.net/nataliya_kobrinska_persha_ukrayinska_feministka_tsikavi_fakti_foto_n1631917"
   - title: "Гендер в деталях - «„Бути собою і лиш собою“: 10 тез українського фемінізму від Наталії Кобринської»"
     url: "https://genderindetail.org.ua/post/nataliia-kobrynska-10-tez-ukrainskoho-feminizmu/"
-related: [olena-pchilka, ivan-franko, lesya-ukrainka]
+related: [olena-pchilka, ivan-franko, lesya-ukrainka, olha-kobylianska]
 audio: { duration: "2:02" }
 status: approved
 published: 2026-10-19T18:30:21Z

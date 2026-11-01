@@ -44,7 +44,7 @@ sources:
     url: "https://uinp.gov.ua/istorychnyy-kalendar/gruden/7/pomer-myhaylo-verbyckyy"
   - title: "Радіо Свобода - 4 березня виповнюється 200 років від дня народження отця Михайла Вербицького"
     url: "https://www.radiosvoboda.org/a/26881139.html"
-related: [pavlo-chubynskyi, dmytro-bortnianskyi, taras-shevchenko, ivan-kotliarevskyi]
+related: [pavlo-chubynskyi, dmytro-bortnianskyi, taras-shevchenko, ivan-kotliarevskyi, markiian-shashkevych, avhustyn-voloshyn]
 status: approved
 published: 2026-10-13T23:01:08Z
 ---

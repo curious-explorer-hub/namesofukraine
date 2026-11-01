@@ -28,7 +28,7 @@ Nikovskyi sat in the Ukrainian Central Rada, and on 23 June 1917 he was elected 
 
 ## Coming home to a dictionary
 
-Imagine a former minister of the exiled UNR government going home to Soviet Ukraine. In 1924 Nikovskyi was allowed to return. He worked at the All-Ukrainian Academy of Sciences, headed its orthography and terminology commission, and in 1927 published a Ukrainian–russian dictionary. He wrote introductions to editions of [Lesya Ukrainka](/en/people/lesya-ukrainka/), [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/), Olha Kobylianska and Hryhorii Kvitka-Osnovianenko, worked on a Ukrainian edition of Shakespeare’s Hamlet, and translated Mykola Gogol and Jack London into Ukrainian.
+Imagine a former minister of the exiled UNR government going home to Soviet Ukraine. In 1924 Nikovskyi was allowed to return. He worked at the All-Ukrainian Academy of Sciences, headed its orthography and terminology commission, and in 1927 published a Ukrainian–russian dictionary. He wrote introductions to editions of [Lesya Ukrainka](/en/people/lesya-ukrainka/), [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/), [Olha Kobylianska](/en/people/olha-kobylianska/) and Hryhorii Kvitka-Osnovianenko, worked on a Ukrainian edition of Shakespeare’s Hamlet, and translated Mykola Gogol and Jack London into Ukrainian.
 
 ## The SVU trial and Solovki
 

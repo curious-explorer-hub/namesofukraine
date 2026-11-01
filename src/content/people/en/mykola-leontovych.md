@@ -27,7 +27,7 @@ Leontovych was born in the village of Monastyrok in Podillia, the son of a villa
 
 How does a piece of homework become a world hit? Professor Boleslav Yavorskyi, with whom Leontovych studied composition, set a piece built on ostinato, a motif that keeps repeating. Leontovych took four notes of a children’s New Year’s song, and then rewrote the piece five times.
 
-“Shchedryk” was first sung by the Kyiv University student choir under Oleksandr Koshyts at the turn of 1917, and it made the composer famous. Later Koshyts’s Ukrainian Republic Capella, set up with the backing of the Ukrainian People’s Republic, took it on tour across Europe and the Americas, and on 5 October 1922 the melody rang out in New York’s Carnegie Hall. In 1936 Peter Wilhousky wrote English words for it, and “Carol of the Bells” was born.
+“Shchedryk” was first sung by the Kyiv University student choir under [Oleksandr Koshyts](/en/people/oleksandr-koshyts/) at the turn of 1917, and it made the composer famous. Later Koshyts’s Ukrainian Republic Capella, set up with the backing of the Ukrainian People’s Republic, took it on tour across Europe and the Americas, and on 5 October 1922 the melody rang out in New York’s Carnegie Hall. In 1936 Peter Wilhousky wrote English words for it, and “Carol of the Bells” was born.
 
 ## The first church service in Ukrainian
 

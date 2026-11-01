@@ -41,7 +41,7 @@ sources:
     url: "https://www.ukrinform.ua/rubric-society/2765006-ukraina-se-ne-vmerla-i-ne-vmre-dopoki-spivatime.html"
   - title: "Верховна Рада України - Закон «Про Державний Гімн України» від 6 березня 2003 року № 602-IV"
     url: "https://zakon.rada.gov.ua/laws/show/602-15"
-related: [mykhailo-verbytskyi, mykhailo-drahomanov, taras-shevchenko]
+related: [mykhailo-verbytskyi, mykhailo-drahomanov, taras-shevchenko, avhustyn-voloshyn]
 status: approved
 published: 2026-10-13T23:08:39Z
 ---

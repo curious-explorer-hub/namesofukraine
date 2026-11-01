@@ -23,7 +23,7 @@ quotes:
 
 ## Scholar and popularizer
 
-Farion studied the history of the Ukrainian language, language norms and spelling. She wrote on Ukrainian surnames and on the language of Markiian Shashkevych and Ivan Puluj, published a monograph on Old Ukrainian in the 14th–17th centuries and a book on [Stepan Bandera](/en/people/stepan-bandera/). From 2015 to 2024 she chaired the supervisory board of the International Ukrainian Language Competition named after the philanthropist [Petro Yatsyk](/en/people/petro-yatsyk/).
+Farion studied the history of the Ukrainian language, language norms and spelling. She wrote on Ukrainian surnames and on the language of [Markiian Shashkevych](/en/people/markiian-shashkevych/) and Ivan Puluj, published a monograph on Old Ukrainian in the 14th–17th centuries and a book on [Stepan Bandera](/en/people/stepan-bandera/). From 2015 to 2024 she chaired the supervisory board of the International Ukrainian Language Competition named after the philanthropist [Petro Yatsyk](/en/people/petro-yatsyk/).
 
 On the evening of 19 July 2024 Iryna Farion was shot dead outside her home in Lviv.
 

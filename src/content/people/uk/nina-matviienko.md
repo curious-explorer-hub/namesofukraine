@@ -37,7 +37,7 @@ sources:
     url: "https://www.ukrinform.ua/rubric-culture/3771346-pomerla-nina-matvienko.html"
   - title: Вікіпедія - Матвієнко Ніна Митрофанівна
     url: https://uk.wikipedia.org/wiki/Матвієнко_Ніна_Митрофанівна
-related: [raisa-kyrychenko, nazarii-yaremchuk, kateryna-bilokur, oleh-skrypka, yurii-rybchynskyi]
+related: [raisa-kyrychenko, nazarii-yaremchuk, kateryna-bilokur, oleh-skrypka, yurii-rybchynskyi, pavlo-tychyna]
 collections: [chervona-ruta]
 status: approved
 published: 2026-10-07T06:23:13Z
@@ -45,7 +45,7 @@ published: 2026-10-07T06:23:13Z
 
 ## Голос, для якого писали композитори
 
-Голос Ніни Матвієнко описують як «срібного флейтового тембру». Композитори писали спеціально для нього. Євген Станкович створив для неї пісні, що ввійшли до фольк-опери «Цвіт папороті», Мирослав Скорик - обробку «Засвічу свічку», Олександр Кива - камерні кантати на слова Тичини й Шевченка.
+Голос Ніни Матвієнко описують як «срібного флейтового тембру». Композитори писали спеціально для нього. Євген Станкович створив для неї пісні, що ввійшли до фольк-опери «Цвіт папороті», Мирослав Скорик - обробку «Засвічу свічку», Олександр Кива - камерні кантати на слова [Тичини](/uk/people/pavlo-tychyna/) й Шевченка.
 
 ## Від інтернату до Хору Верьовки
 

@@ -42,7 +42,7 @@ sources:
     url: "https://localhistory.org.ua/texts/interviu/mikhailo-kosiv-mi-zaklali-osnovi-vidnovlennia-ukrayinskoyi-derzhavi/"
   - title: "Енциклопедія історії України - «Український вісник»"
     url: "http://resource.history.org.ua/cgi-bin/eiu/history.exe?Z21ID=&I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN=&S21COLORTERMS=0&S21STR=Ukrainskyj_visnyk_1970_z"
-related: [mykhailo-horyn, bohdan-horyn, ivan-hel, iryna-kalynets, ihor-kalynets, hryhorii-chubai, viacheslav-chornovil, atena-pashko, taras-shevchenko, ivan-franko]
+related: [mykhailo-horyn, bohdan-horyn, ivan-hel, iryna-kalynets, ihor-kalynets, hryhorii-chubai, viacheslav-chornovil, atena-pashko, taras-shevchenko, ivan-franko, pavlo-tychyna]
 collections: [sixtiers]
 status: approved
 published: 2026-10-31T01:52:57Z
@@ -58,7 +58,7 @@ published: 2026-10-31T01:52:57Z
 
 ## Розмова з генералом
 
-1965 року за кордоном вийшла і по Радіо Свобода прозвучала ще одна його праця, про Шевченка і Франка. 27 серпня агенти КДБ затримали Косова біля університету й відвезли до тюрми на Лонцького. За його спогадами, взимку в'язня повезли до самого голови КДБ УРСР, генерала Нікітченка. Той вимагав публічно виступити проти націоналістів і Радіо Свобода. Косів відмовився. Він згадує, що за нього заступився поет Павло Тичина: звернувся до першого секретаря компартії України Петра Шелеста, а той - до Нікітченка. У березні 1966 року Косова звільнили через хворобу і брак доказів, але шлях у науку закрився.
+1965 року за кордоном вийшла і по Радіо Свобода прозвучала ще одна його праця, про Шевченка і Франка. 27 серпня агенти КДБ затримали Косова біля університету й відвезли до тюрми на Лонцького. За його спогадами, взимку в'язня повезли до самого голови КДБ УРСР, генерала Нікітченка. Той вимагав публічно виступити проти націоналістів і Радіо Свобода. Косів відмовився. Він згадує, що за нього заступився поет [Павло Тичина](/uk/people/pavlo-tychyna/): звернувся до першого секретаря компартії України Петра Шелеста, а той - до Нікітченка. У березні 1966 року Косова звільнили через хворобу і брак доказів, але шлях у науку закрився.
 
 ## Машинка на дні озера
 

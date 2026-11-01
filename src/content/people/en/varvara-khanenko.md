@@ -27,7 +27,7 @@ What can a couple collect in 40 years? Paintings by Velázquez, Rubens, van Dyck
 
 ## Workshops for villagers
 
-Varvara cared about more than paintings. On the family estates she opened craft workshops, schools, hospitals and orphanages for villagers. With the writer Olena Pchilka and the patron Nataliia Yashvil she started the craft movement in Ukraine, which backed folk artisans to keep the traditions of folk art alive. At the Khanenkos’ workshop in Olenivka near Kyiv people wove kilims and printed cloth, and from 1912 to 1915 the artist Vasyl Krychevskyi taught there.
+Varvara cared about more than paintings. On the family estates she opened craft workshops, schools, hospitals and orphanages for villagers. With the writer Olena Pchilka and the patron Nataliia Yashvil she started the craft movement in Ukraine, which backed folk artisans to keep the traditions of folk art alive. At the Khanenkos’ workshop in Olenivka near Kyiv people wove kilims and printed cloth, and from 1912 to 1915 the artist [Vasyl Krychevskyi](/en/people/vasyl-krychevskyi/) taught there.
 
 ## The choice of 1918
 

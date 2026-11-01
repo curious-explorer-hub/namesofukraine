@@ -28,7 +28,7 @@ The meeting that mattered most was with [Les Kurbas](/en/people/les-kurbas/). Va
 
 ## Thirty years at the head of theaters
 
-In 1926 Vasylko took charge of the Ukrainian drama theater in Odesa, and he came back to lead it twice more, until the mid-1950s. In between he ran theaters in Kharkiv, Donetsk (then Stalino), Lviv and Chernivtsi, and in Kharkiv he also taught. In Odesa he staged more than thirty productions. Among his productions were The Land, after Olha Kobylianska (1947), Haidamaky, after [Taras Shevchenko](/en/people/taras-shevchenko/) (1961), and Shadows of Forgotten Ancestors, after [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/) (1969). As an actor he played character parts, from Shelmenko to Banquo in Macbeth. In 1969 he wrote the foreword to the memoir collection Les Kurbas, the first overview of what the Berezil had achieved. He died in Odesa in 1972.
+In 1926 Vasylko took charge of the Ukrainian drama theater in Odesa, and he came back to lead it twice more, until the mid-1950s. In between he ran theaters in Kharkiv, Donetsk (then Stalino), Lviv and Chernivtsi, and in Kharkiv he also taught. In Odesa he staged more than thirty productions. Among his productions were The Land, after [Olha Kobylianska](/en/people/olha-kobylianska/) (1947), Haidamaky, after [Taras Shevchenko](/en/people/taras-shevchenko/) (1961), and Shadows of Forgotten Ancestors, after [Mykhailo Kotsiubynskyi](/en/people/mykhailo-kotsiubynskyi/) (1969). As an actor he played character parts, from Shelmenko to Banquo in Macbeth. In 1969 he wrote the foreword to the memoir collection Les Kurbas, the first overview of what the Berezil had achieved. He died in Odesa in 1972.
 
 ## Why it matters today
 

@@ -43,7 +43,7 @@ sources:
     url: "https://osvita.ua/school/literature/f/76550/list-13.html"
   - title: "Study in Ukraine (МОН України) - 150 років із дня народження Лесі Українки"
     url: "https://studyinukraine.gov.ua/uk/150-rokiv-iz-dnya-narodzhennya-lesi-ukrainki/"
-related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov, ahatanhel-krymskyi, liudmyla-starytska-cherniakhivska]
+related: [ivan-franko, taras-shevchenko, mykola-lysenko, mykhailo-drahomanov, ahatanhel-krymskyi, liudmyla-starytska-cherniakhivska, olha-kobylianska]
 collections: [money-people]
 audio: { duration: "1:34" }
 status: approved

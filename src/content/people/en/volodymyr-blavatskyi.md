@@ -29,7 +29,7 @@ In 1927 Blavatskyi went to Kharkiv and joined [Les Kurbas’s](/en/people/les-ku
 
 ## Zahrava in Przemyśl
 
-In 1933, in Przemyśl, Blavatskyi founded the Zahrava theater, considered the leading theater of Western Ukraine between the two world wars. There he carried on the Berezil’s experiments: Vasyl Stefanyk’s The Land had a chorus on stage, and Bohdan Lepkyi’s Baturyn, with Blavatskyi as Mazepa, had sweeping, choreographed crowd scenes. He also staged [Mykola Kulish’s](/en/people/mykola-kulish/) The People’s Malakhii, playing Malakhii himself, and played Judas in [Lesya Ukrainka’s](/en/people/lesya-ukrainka/) On the Field of Blood.
+In 1933, in Przemyśl, Blavatskyi founded the Zahrava theater, considered the leading theater of Western Ukraine between the two world wars. There he carried on the Berezil’s experiments: [Vasyl Stefanyk](/en/people/vasyl-stefanyk/)’s The Land had a chorus on stage, and Bohdan Lepkyi’s Baturyn, with Blavatskyi as Mazepa, had sweeping, choreographed crowd scenes. He also staged [Mykola Kulish’s](/en/people/mykola-kulish/) The People’s Malakhii, playing Malakhii himself, and played Judas in [Lesya Ukrainka’s](/en/people/lesya-ukrainka/) On the Field of Blood.
 
 ## The Opera Theater in wartime
 

@@ -55,7 +55,7 @@ sources:
     url: "https://ukrainianjewishencounter.org/en/the-ukrainian-auxiliary-police-in-kyiv-and-adjacent-areas-pt-1-formation-and-activities/"
   - title: "Історична правда - Б. Червак, «Він склав жертву, а ми лишилися в живих». До 80-річчя загибелі Олега Ольжича (2024)"
     url: "https://www.istpravda.com.ua/columns/2024/06/10/163996/"
-related: [yevhen-malaniuk, olena-teliha, yevhen-konovalets, andrii-melnyk, dokiia-humenna]
+related: [yevhen-malaniuk, olena-teliha, yevhen-konovalets, andrii-melnyk, dokiia-humenna, avhustyn-voloshyn]
 status: draft
 ---
 

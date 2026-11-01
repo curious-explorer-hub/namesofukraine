@@ -26,7 +26,7 @@ Kosiv was born in 1934 into a peasant family in Vilkhivka, in the Ivano-Frankivs
 
 ## Face to face with the general
 
-In 1965 another of his works, on Shevchenko and Franko, was printed abroad and read out on Radio Liberty. On 27 August KGB officers picked Kosiv up outside the university and drove him to the prison on Lontskoho Street. As he recalls, one winter day the prisoner was taken to the head of the Ukrainian KGB himself, General Nikitchenko. The general demanded that he speak out publicly against the nationalists and Radio Liberty. Kosiv refused. He recalls that the poet Pavlo Tychyna stood up for him by appealing to Petro Shelest, the head of Ukraine’s Communist Party, who then got in touch with Nikitchenko. In March 1966 Kosiv was released because of illness and lack of evidence, but the road to an academic career was closed.
+In 1965 another of his works, on Shevchenko and Franko, was printed abroad and read out on Radio Liberty. On 27 August KGB officers picked Kosiv up outside the university and drove him to the prison on Lontskoho Street. As he recalls, one winter day the prisoner was taken to the head of the Ukrainian KGB himself, General Nikitchenko. The general demanded that he speak out publicly against the nationalists and Radio Liberty. Kosiv refused. He recalls that the poet [Pavlo Tychyna](/en/people/pavlo-tychyna/) stood up for him by appealing to Petro Shelest, the head of Ukraine’s Communist Party, who then got in touch with Nikitchenko. In March 1966 Kosiv was released because of illness and lack of evidence, but the road to an academic career was closed.
 
 ## A typewriter at the bottom of a lake
 

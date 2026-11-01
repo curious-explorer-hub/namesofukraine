@@ -38,7 +38,7 @@ sources:
     url: "https://uinp.gov.ua/istorychnyy-kalendar/lystopad/29/1899-narodyvsya-grygoriy-strilec-pysmennyk"
   - title: "ZAXID.NET - «Буржуазний націоналіст», який узяв за псевдонім назву квітки і був знищений НКВС"
     url: "https://zaxid.net/burzhuazniy_natsionalist_yakiy_vzyav_za_psevdonim_nazvu_kvitki_i_buv_znishheniy_nkvs_n1621686"
-related: [yevhen-pluzhnyk, valerian-pidmohylnyi, mykola-zerov, mykola-khvylovyi, mykhailo-kotsiubynskyi, mykola-hohol, dmytro-falkivskyi, oleksa-vlyzko, kost-burevii]
+related: [yevhen-pluzhnyk, valerian-pidmohylnyi, mykola-zerov, mykola-khvylovyi, mykhailo-kotsiubynskyi, mykola-hohol, dmytro-falkivskyi, oleksa-vlyzko, kost-burevii, vasyl-stefanyk]
 collections: [executed-renaissance]
 status: approved
 published: 2026-10-15T20:08:20Z
@@ -54,7 +54,7 @@ published: 2026-10-15T20:08:20Z
 
 ## Село в бурі революції
 
-За життя Косинка видав близько 20 збірок оповідань, серед них «На золотих богів» (1922), «В житах» (1926) і «Політика» (1927). Він писав про те, як жило, думало й змінювалося українське село в роки революції й війни 1917–1921 років. Радянські критики вважали його лише наслідувачем [Михайла Коцюбинського](/uk/people/mykhailo-kotsiubynskyi/), Степана Васильченка й Василя Стефаника, але в його новелах багато експерименту, як і в його сучасника [Миколи Хвильового](/uk/people/mykola-khvylovyi/). У Києві Косинка належав до літературних груп «Гроно», «Аспис» і «Ланка» (згодом МАРС). В «Асписі» поруч із ним були [Микола Зеров](/uk/people/mykola-zerov/) і [Валер'ян Підмогильний](/uk/people/valerian-pidmohylnyi/), а в «Ланці» - ще й поет [Євген Плужник](/uk/people/yevhen-pluzhnyk/).
+За життя Косинка видав близько 20 збірок оповідань, серед них «На золотих богів» (1922), «В житах» (1926) і «Політика» (1927). Він писав про те, як жило, думало й змінювалося українське село в роки революції й війни 1917–1921 років. Радянські критики вважали його лише наслідувачем [Михайла Коцюбинського](/uk/people/mykhailo-kotsiubynskyi/), Степана Васильченка й [Василя Стефаника](/uk/people/vasyl-stefanyk/), але в його новелах багато експерименту, як і в його сучасника [Миколи Хвильового](/uk/people/mykola-khvylovyi/). У Києві Косинка належав до літературних груп «Гроно», «Аспис» і «Ланка» (згодом МАРС). В «Асписі» поруч із ним були [Микола Зеров](/uk/people/mykola-zerov/) і [Валер'ян Підмогильний](/uk/people/valerian-pidmohylnyi/), а в «Ланці» - ще й поет [Євген Плужник](/uk/people/yevhen-pluzhnyk/).
 
 ## Заборонене «Серце»
 

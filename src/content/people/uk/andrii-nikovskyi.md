@@ -37,7 +37,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CI%5CNikovskyAndrii.htm"
   - title: Вікіпедія - Ніковський Андрій Васильович
     url: https://uk.wikipedia.org/wiki/Ніковський_Андрій_Васильович
-related: [mykhailo-hrushevskyi, liudmyla-starytska-cherniakhivska, lesya-ukrainka, ivan-nechui-levytskyi]
+related: [mykhailo-hrushevskyi, liudmyla-starytska-cherniakhivska, lesya-ukrainka, ivan-nechui-levytskyi, olha-kobylianska]
 collections: [executed-renaissance, ukrainian-revolution]
 status: approved
 published: 2026-10-14T00:20:29Z
@@ -57,7 +57,7 @@ published: 2026-10-14T00:20:29Z
 
 ## Повернення і словник
 
-Уявіть: колишній міністр уряду УНР в еміграції повертається додому, у радянську Україну. 1924 року Ніковському дозволили повернутися. Він працював у Всеукраїнській академії наук, очолював її правописно-термінологічну комісію і 1927 року видав «Словник українсько-російський». Він писав передмови до видань [Лесі Українки](/uk/people/lesya-ukrainka/), [Івана Нечуя-Левицького](/uk/people/ivan-nechui-levytskyi/), Ольги Кобилянської й Григорія Квітки-Основ'яненка, працював над українським виданням «Гамлета» Шекспіра, а також перекладав українською Миколу Гоголя і Джека Лондона.
+Уявіть: колишній міністр уряду УНР в еміграції повертається додому, у радянську Україну. 1924 року Ніковському дозволили повернутися. Він працював у Всеукраїнській академії наук, очолював її правописно-термінологічну комісію і 1927 року видав «Словник українсько-російський». Він писав передмови до видань [Лесі Українки](/uk/people/lesya-ukrainka/), [Івана Нечуя-Левицького](/uk/people/ivan-nechui-levytskyi/), [Ольги Кобилянської](/uk/people/olha-kobylianska/) й Григорія Квітки-Основ'яненка, працював над українським виданням «Гамлета» Шекспіра, а також перекладав українською Миколу Гоголя і Джека Лондона.
 
 ## Процес «СВУ» і Соловки
 

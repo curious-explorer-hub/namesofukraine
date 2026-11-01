@@ -42,7 +42,7 @@ sources:
     url: "https://www.history.org.ua/?termin=Narbut_H"
   - title: "Internet Encyclopedia of Ukraine - Narbut, Heorhii"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CA%5CNarbutHeorhii.htm"
-related: [pavlo-skoropadskyi, mykhailo-boichuk, hryhorii-skovoroda, petro-doroshenko, ivan-kotliarevskyi]
+related: [pavlo-skoropadskyi, mykhailo-boichuk, hryhorii-skovoroda, petro-doroshenko, ivan-kotliarevskyi, vasyl-krychevskyi]
 collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-19T20:20:22Z
@@ -58,7 +58,7 @@ published: 2026-10-19T20:20:22Z
 
 ## Як намалювати державу
 
-Навесні 1917 року Нарбут повернувся до Києва. Він став одним з організаторів, професором, а з 1918 року - ректором Української академії мистецтв. Разом із [Михайлом Бойчуком](/uk/people/mykhailo-boichuk/) і Василем Кричевським Нарбут, як вважають, заклав риси українського мистецтва 1920–1930-х років. Він розробив проєкти державного герба й печатки, а в липні 1918 року гетьман [Павло Скоропадський](/uk/people/pavlo-skoropadskyi/) затвердив його малу державну печатку: козак із пищаллю на плечі й тризуб угорі. За проєктами Нарбута в 1918–1920 роках випустили 12 грошових знаків: банкноти на 100 карбованців, 10, 100 і 500 гривень, поштові марки та облігації. Серед інших його проєктів - марки з портретами [Григорія Сковороди](/uk/people/hryhorii-skovoroda/) та гетьмана [Петра Дорошенка](/uk/people/petro-doroshenko/).
+Навесні 1917 року Нарбут повернувся до Києва. Він став одним з організаторів, професором, а з 1918 року - ректором Української академії мистецтв. Разом із [Михайлом Бойчуком](/uk/people/mykhailo-boichuk/) і [Василем Кричевським](/uk/people/vasyl-krychevskyi/) Нарбут, як вважають, заклав риси українського мистецтва 1920–1930-х років. Він розробив проєкти державного герба й печатки, а в липні 1918 року гетьман [Павло Скоропадський](/uk/people/pavlo-skoropadskyi/) затвердив його малу державну печатку: козак із пищаллю на плечі й тризуб угорі. За проєктами Нарбута в 1918–1920 роках випустили 12 грошових знаків: банкноти на 100 карбованців, 10, 100 і 500 гривень, поштові марки та облігації. Серед інших його проєктів - марки з портретами [Григорія Сковороди](/uk/people/hryhorii-skovoroda/) та гетьмана [Петра Дорошенка](/uk/people/petro-doroshenko/).
 
 ## Абетка і незакінчена «Енеїда»
 

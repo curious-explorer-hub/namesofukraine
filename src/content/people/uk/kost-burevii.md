@@ -38,7 +38,7 @@ sources:
     url: "https://localhistory.org.ua/texts/statti/sopliak-burevii-i-strikha-ukrayinskii-natsionalist-v-osobi-rosiiskogo-esera/"
   - title: "Збруч - І. Мельник, «„Кіровські“ розстріли у Києві» (2014)"
     url: "https://zbruc.eu/node/30591"
-related: [mykola-khvylovyi, mykhail-semenko, mykhailo-boichuk, oleksa-vlyzko, dmytro-falkivskyi, hryhorii-kosynka]
+related: [mykola-khvylovyi, mykhail-semenko, mykhailo-boichuk, oleksa-vlyzko, dmytro-falkivskyi, hryhorii-kosynka, pavlo-polubotok]
 collections: [executed-renaissance]
 status: approved
 published: 2026-10-18T17:25:16Z

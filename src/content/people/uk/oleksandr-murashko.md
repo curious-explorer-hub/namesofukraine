@@ -47,7 +47,7 @@ sources:
     url: "https://zn.ua/ukr/SOCIUM/karusel_oleksandr_murashko__hudozhnik_koloru.html"
   - title: "Український інститут національної пам'яті - 1875 - народився Олександр Мурашко, живописець"
     url: "https://uinp.gov.ua/istorychnyy-kalendar/veresen/7/1875-narodyvsya-oleksandr-murashko-zhyvopysec"
-related: [illia-riepin, heorhii-narbut, mykhailo-boichuk]
+related: [illia-riepin, heorhii-narbut, mykhailo-boichuk, vasyl-krychevskyi]
 status: approved
 published: 2026-10-19T19:37:46Z
 ---
