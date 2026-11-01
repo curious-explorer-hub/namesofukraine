@@ -12,7 +12,7 @@ key_accomplishments:
   - "Head of the UNR government in exile (1920–1921, 1922–1926), head of the Directory (from 1926) and president of the UNR in exile (from 1948)"
   - "Initiated the Ukrainian National Council in exile (1948)"
 birthplace_name: "Krasnyi Kut near Lipliave, Cherkasy region"
-image_alt: "Andrii Livytskyi in round glasses, a suit and tie, portrait photograph"
+image_alt: "Andrii Livytskyi in later life, with a grey beard and moustache, in a dark suit and tie"
 quotes:
   - text: "Let history judge Us. We will gladly accept the verdict, even a harsh verdict, so long as it is passed by a free Ukrainian people in an Independent Ukrainian State."
     source: "Letter to Count Mykhailo Tyshkevych, 27 April 1920"

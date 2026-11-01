@@ -3,7 +3,7 @@ name: Андрій Лівицький
 gender: male
 born: 1879-04-08 # ЕСУ, ЕІУ: 8 April (27 March O.S.) 1879; IEU and Знай.ua: 9 April; УІНП (І. Файзулін), uk.wikipedia: 12 April (31 March O.S.)
 died: 1954-01-17 # ЕСУ, ЕІУ, IEU: 17 January 1954, Karlsruhe (Історична правда: 20 January)
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-01
 era: 20th-century
 group: statehood
 tags: [politician]
@@ -19,11 +19,13 @@ places:
   - { name: "Саут-Баунд-Брук", lat: 40.553, lon: -74.531, note: "перепохований на українському цвинтарі 1965 року" }
 image:
   src: ./images/andrii-livytskyi.jpg
-  alt: "Андрій Лівицький у круглих окулярах, костюмі й краватці, портретне фото"
+  alt: "Андрій Лівицький у літньому віці, із сивою бородою й вусами, у темному костюмі й краватці"
   position: "50% 30%"
-  author: "Невідомий автор (журнал «За державність», вип. 7, Варшава, 1937)"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Andrij_Liwycki.jpg"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://esu.com.ua/article-55406"
+  ai_edit: colorized
+  fair_use: true
 key_accomplishments:
   - "Один з керівників «Лубенської республіки» і громадської самооборони в Лубнах (1905)"
   - "Полтавський губернський комісар і член Української Центральної Ради (1917)"
@@ -53,7 +55,8 @@ sources:
     url: "https://www.uinp.gov.ua/elektronni-vydannya/andriy-livyckyy-lystuvannya-1919-1953-roky/andriy-livyckyy-lystuvannya-1919-1953-roky/andriy-livyckyy-lystuvannya-1919-1953-roky1"
 related: [symon-petliura, pavlo-skoropadskyi, volodymyr-vynnychenko]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-11-01T23:19:59Z
 ---
 
 ## Держава, якої не було на мапі
