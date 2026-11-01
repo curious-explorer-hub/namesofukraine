@@ -26,7 +26,7 @@ From November 1917 Malaniuk served in the army of the Ukrainian People’s Repub
 
 Malaniuk became a poet in an internment camp, yet the camp where he spent several years never appears in his poems. At Kalisz, he and other former soldiers founded the journal Veselka in 1922. In 1922 or 1923 (sources differ) he moved to Czechoslovakia and graduated as a hydraulic engineer from the Ukrainian Husbandry Academy in Poděbrady. The academy was then headed by Ivan Shovheniv, [Olena Teliha](/en/people/olena-teliha/)’s father. In 1925 Malaniuk’s first collection came out there: Stiletto and Stylus. The next year, in Soviet Kyiv, Mykola Zerov reviewed it: he saw Malaniuk as an ideological opponent, yet called him the most talented young poet of the emigration.
 
-In Lviv, [Dmytro Dontsov](/en/people/dmytro-dontsov/) printed his poems. Malaniuk is counted, with Olena Teliha, Oleh Olzhych and Leonid Mosendz, among the Prague school of émigré poets. His verse was stern and chiselled, and in “Inscription on a Book of Poems” (1925) he called himself “the emperor of iron stanzas”. Scholars call him that too.
+In Lviv, [Dmytro Dontsov](/en/people/dmytro-dontsov/) printed his poems. Malaniuk is counted, with Olena Teliha, [Oleh Olzhych](/en/people/oleh-olzhych/) and Leonid Mosendz, among the Prague school of émigré poets. His verse was stern and chiselled, and in “Inscription on a Book of Poems” (1925) he called himself “the emperor of iron stanzas”. Scholars call him that too.
 
 ## Russian lessons for Polish officers
 

@@ -30,7 +30,7 @@ In 1929 his sister was arrested. To keep clear of repression, Marko turned to ch
 
 ## Solovky and Sandarmokh
 
-In 1933, trying to escape repression, Marko moved to Moscow and worked for almost a year at a magazine. In 1934 his father was arrested, and Marko came back to Ukraine to press for a review of his father’s case. In 1935, on his very birthday, the NKVD arrested him too, in a fabricated case of a “counter-revolutionary nationalist” organization that also named [Mykola Zerov](/en/people/mykola-zerov/) and [Pavlo Fylypovych](/en/people/pavlo-fylypovych/). After a forced “confession” he was sentenced to eight years in the camps, which he served on the Solovetsky Islands. In 1937 the NKVD reviewed his case and sentenced him to death. Marko Voronyi was shot in the Sandarmokh forest in Karelia on 3 November 1937, aged 33. His sentence was quashed in 1958.
+In 1933, trying to escape repression, Marko moved to Moscow and worked for almost a year at a magazine. In 1934 his father was arrested, and Marko came back to Ukraine to press for a review of his father’s case. In 1935, on his very birthday, the NKVD arrested him too, in a fabricated case of a “counter-revolutionary nationalist” organization that also named [Mykola Zerov](/en/people/mykola-zerov/), [Pavlo Fylypovych](/en/people/pavlo-fylypovych/) and [Ananii Lebid](/en/people/ananii-lebid/). After a forced “confession” he was sentenced to eight years in the camps, which he served on the Solovetsky Islands. In 1937 the NKVD reviewed his case and sentenced him to death. Marko Voronyi was shot in the Sandarmokh forest in Karelia on 3 November 1937, aged 33. His sentence was quashed in 1958.
 
 ## Why it matters today
 

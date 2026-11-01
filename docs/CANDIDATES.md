@@ -20,10 +20,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
-| Ананій Лебідь | 1898–1937 | Literary scholar (literature) | | `neoclassicists`, `executed-renaissance` | Owner suggestion 2026-10-31. Close associate of Микола Зеров; co-author of literary studies and anthologies that promoted a European direction for Ukrainian literature |
-| Борис Якубський | 1889–1944 | Literary scholar (literature) | | `neoclassicists` | Owner suggestion 2026-10-31. One of the leading scholars of the formal method in Ukraine, close to Зеров and Филипович; argued for the aesthetic value of neoclassical verse |
-| Михайло Могилянський | 1873–1942 | Literary critic (literature) | | `neoclassicists` | Owner suggestion 2026-10-31. Older contemporary and supporter of the neoclassicists; defended their "Europeanism" in the press during the literary discussion of 1925–1928 |
-| Олег Ольжич | 1907–1944 | Poet, archaeologist (literature) | ⚖️ 🌍 | | Owner suggestion 2026-10-31. Poet of the Prague school, not a Kyiv neoclassicist (follower of their style); also an OUN(m) leader, died in Sachsenhausen. Fit for `neoclassicists` is an owner question |
 
 ## Needs a decision
 

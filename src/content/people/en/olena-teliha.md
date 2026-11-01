@@ -29,7 +29,7 @@ Her verse is known for its subtle lyricism, love of life and the theme of heroic
 
 ## A poet of Vistnyk
 
-In 1923–1929 Olena studied at the Mykhailo Drahomanov Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw. At first they were poor, and by some accounts Olena performed musical numbers in night-time cabarets and even worked as a fashion model before she became a teacher at a Ukrainian school. From 1933 she published poems and essays in [Dmytro Dontsov](/en/people/dmytro-dontsov/)’s journal Vistnyk. In December 1939 Teliha joined the OUN and in Cracow worked with Oleh Olzhych in its cultural section, heading the Zarevo arts society.
+In 1923–1929 Olena studied at the Mykhailo Drahomanov Ukrainian Higher Pedagogical Institute in Prague, and in 1926 she married Mykhailo Teliha. In 1929–1939 the Telihas lived in Warsaw. At first they were poor, and by some accounts Olena performed musical numbers in night-time cabarets and even worked as a fashion model before she became a teacher at a Ukrainian school. From 1933 she published poems and essays in [Dmytro Dontsov](/en/people/dmytro-dontsov/)’s journal Vistnyk. In December 1939 Teliha joined the OUN and in Cracow worked with [Oleh Olzhych](/en/people/oleh-olzhych/) in its cultural section, heading the Zarevo arts society.
 
 ## Kyiv, 1941
 
