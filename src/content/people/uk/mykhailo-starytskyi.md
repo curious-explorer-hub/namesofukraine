@@ -52,6 +52,7 @@ sources:
   - title: "Еспресо - Пивоваров і KOLA записали дует «Ніч яка місячна» за віршем Михайла Старицького (2024)"
     url: "https://espreso.tv/kultura-pivovarov-i-kola-zapisali-duet-nich-yaka-misyachna-za-virshem-mikhayla-staritskogo"
 related: [mykola-lysenko, marko-kropyvnytskyi, mykola-sadovskyi, ivan-nechui-levytskyi, mykola-hohol, liudmyla-starytska-cherniakhivska, olena-pchilka, mykola-kostomarov, mariia-zankovetska]
+collections: [theatre-of-luminaries]
 status: approved
 published: 2026-10-25T01:28:22Z
 ---

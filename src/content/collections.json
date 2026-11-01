@@ -338,6 +338,131 @@
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:Tennessee_Army_National_Guard_participates_in_the_Ukrainian_Independence_Day_parade_Aug._24,_2018_(29366943467).jpg"
       }
+    },
+    {
+      "id": "chervona-ruta",
+      "draft": true,
+      "label": {
+        "uk": "Червона рута",
+        "en": "Chervona Ruta"
+      },
+      "description": {
+        "uk": "1960–70-ті роки: композитори, поети й виконавці, які поєднали український фольклор із сучасною естрадою та роком і зробили українську пісню модною.",
+        "en": "The 1960s and 70s: composers, poets and performers who blended Ukrainian folk music with modern pop and rock and made Ukrainian song fashionable."
+      },
+      "image": {
+        "file": "chervona-ruta.jpg",
+        "caption": {
+          "uk": "Червона рута",
+          "en": "Chervona Ruta"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "science-founders",
+      "draft": true,
+      "label": {
+        "uk": "Засновники науки та коду",
+        "en": "Founders of Science and Code"
+      },
+      "description": {
+        "uk": "Науковці, інженери й винахідники, які народилися або працювали в Україні і чиї відкриття стали основою сучасної космонавтики, авіації, медицини й комп'ютерів.",
+        "en": "Scientists, engineers and inventors, born or working in Ukraine, whose discoveries laid the foundations of modern spaceflight, aviation, medicine and computing."
+      },
+      "image": {
+        "file": "science-founders.jpg",
+        "caption": {
+          "uk": "Засновники науки та коду",
+          "en": "Founders of Science and Code"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "independence-1991",
+      "draft": true,
+      "label": {
+        "uk": "Акт 1991",
+        "en": "The 1991 Act"
+      },
+      "description": {
+        "uk": "Кінець 1980-х - початок 1990-х: політики, дисиденти, митці й студенти, які виборювали незалежність - від Революції на граніті до Акта проголошення незалежності України.",
+        "en": "The late 1980s and early 1990s: politicians, dissidents, artists and students who fought for independence, from the Revolution on Granite to the Act of Declaration of Independence of Ukraine."
+      },
+      "image": {
+        "file": "independence-1991.jpg",
+        "caption": {
+          "uk": "Акт 1991",
+          "en": "The 1991 Act"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "cossack-state",
+      "draft": true,
+      "label": {
+        "uk": "Козацька держава",
+        "en": "The Cossack State"
+      },
+      "description": {
+        "uk": "1648–1709: гетьмани, кошові отамани й дипломати, які будували козацьку державу, творили козацьку ідентичність і боролися проти іноземного панування.",
+        "en": "1648–1709: hetmans, Zaporozhian otamans and diplomats who built the Cossack state, shaped Cossack identity and fought foreign rule."
+      },
+      "image": {
+        "file": "cossack-state.jpg",
+        "caption": {
+          "uk": "Козацька держава",
+          "en": "The Cossack State"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
+    },
+    {
+      "id": "theatre-of-luminaries",
+      "draft": true,
+      "label": {
+        "uk": "Театр корифеїв",
+        "en": "The Theatre of Luminaries"
+      },
+      "description": {
+        "uk": "1880–1900-ті: митці, які попри заборони української мови - Валуєвський циркуляр і Емський указ - створили перший професійний український театр.",
+        "en": "The 1880s to 1900s: artists who, despite the bans on the Ukrainian language (the Valuev Circular and the Ems Decree), created the first professional Ukrainian theatre."
+      },
+      "image": {
+        "file": "theatre-of-luminaries.jpg",
+        "caption": {
+          "uk": "Театр корифеїв",
+          "en": "The Theatre of Luminaries"
+        },
+        "author": {
+          "uk": "",
+          "en": ""
+        },
+        "license": "",
+        "source_url": ""
+      }
     }
   ]
 }

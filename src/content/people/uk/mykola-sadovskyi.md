@@ -59,6 +59,7 @@ sources:
   - title: Вікіпедія - Садовський Микола Карпович
     url: https://uk.wikipedia.org/wiki/Садовський_Микола_Карпович
 related: [ivan-karpenko-karyi, panas-saksahanskyi, mariia-zankovetska, marko-kropyvnytskyi, mykhailo-starytskyi, liudmyla-starytska-cherniakhivska, lesya-ukrainka, mykola-lysenko, les-kurbas, symon-petliura]
+collections: [theatre-of-luminaries]
 status: approved
 published: 2026-10-24T04:14:23Z
 ---

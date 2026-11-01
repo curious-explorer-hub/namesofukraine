@@ -41,7 +41,7 @@ sources:
     url: "https://www.radiosvoboda.org/a/29310829.html"
 audio: { duration: "1:54" }
 related: [ivan-dziuba, lina-kostenko, viacheslav-chornovil, serhii-paradzhanov, vasyl-symonenko, mykola-vinhranovskyi, myroslav-popovych, lesya-ukrainka, mykola-hohol]
-collections: [sixtiers]
+collections: [sixtiers, independence-1991]
 status: approved
 published: 2026-10-09T20:29:36Z
 ---

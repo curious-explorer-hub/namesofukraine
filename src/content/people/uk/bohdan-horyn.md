@@ -46,7 +46,7 @@ sources:
   - title: "АрміяInform - Він організував «Ланцюг єдності», який передував проголошенню незалежності України (17.06.2021)"
     url: "https://armyinform.com.ua/2021/06/17/vin-organizuvav-lanczyug-yednosti-yakyj-pereduvav-progoloshennyu-nezalezhnosti-ukrayiny/"
 related: [mykhailo-horyn, opanas-zalyvakha, taras-shevchenko, halyna-sevruk, levko-lukianenko, ivan-hel, viacheslav-chornovil, ivan-svitlychnyi, yevhen-sverstiuk, ivan-dziuba, ivan-drach, mykola-vinhranovskyi]
-collections: [sixtiers]
+collections: [sixtiers, independence-1991]
 status: approved
 published: 2026-10-31T01:13:52Z
 ---

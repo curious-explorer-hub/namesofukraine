@@ -49,6 +49,7 @@ sources:
   - title: "А. Новиков - «…Зветься мій хутір Затишок»: останні роки життя Марка Кропивницького (Літератури світу, 2018)"
     url: "https://journal.kdpu.edu.ua/world_lit/article/view/2065"
 related: [mykhailo-starytskyi, mariia-zankovetska, mykola-sadovskyi, panas-saksahanskyi, ivan-karpenko-karyi, hryhorii-kvitka-osnovianenko, ivan-kotliarevskyi, taras-shevchenko]
+collections: [theatre-of-luminaries]
 status: approved
 published: 2026-10-24T04:22:42Z
 ---

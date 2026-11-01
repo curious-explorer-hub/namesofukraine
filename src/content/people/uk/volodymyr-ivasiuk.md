@@ -42,6 +42,7 @@ sources:
   - title: Вікіпедія - Івасюк Володимир Михайлович
     url: https://uk.wikipedia.org/wiki/Івасюк_Володимир_Михайлович
 related: [nazarii-yaremchuk, oles-honchar, kuzma-skriabin, sviatoslav-vakarchuk, sofiia-rotaru]
+collections: [chervona-ruta]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

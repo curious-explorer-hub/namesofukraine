@@ -43,6 +43,7 @@ sources:
   - title: Вікіпедія - Марія Заньковецька
     url: https://uk.wikipedia.org/wiki/Марія_Заньковецька
 related: [solomiia-krushelnytska, vira-kholodna, ivan-kotliarevskyi]
+collections: [theatre-of-luminaries]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

@@ -42,6 +42,7 @@ sources:
   - title: Вікіпедія - Яремчук Назарій Назарович
     url: https://uk.wikipedia.org/wiki/Яремчук_Назарій_Назарович
 related: [nina-matviienko, raisa-kyrychenko, ruslana-lyzhychko, volodymyr-ivasiuk]
+collections: [chervona-ruta]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

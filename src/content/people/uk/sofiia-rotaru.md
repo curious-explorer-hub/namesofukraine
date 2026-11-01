@@ -36,6 +36,7 @@ sources:
   - title: "Настоящее Время - В аннексированном Крыму певицу Софию Ротару предложили лишить отеля и звания «Почетный гражданин Ялты» (06.02.2024)"
     url: "https://www.currenttime.tv/a/rotaru-krym/32807477.html"
 related: [volodymyr-ivasiuk, yurii-rybchynskyi, ivan-marchuk, oleh-blokhin]
+collections: [chervona-ruta]
 status: draft
 ---
 

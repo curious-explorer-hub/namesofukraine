@@ -43,7 +43,7 @@ sources:
   - title: "Еспресо - У Туреччині спустили на воду новий український корвет «Гетьман Іван Мазепа» (2022)"
     url: "https://espreso.tv/u-turechchini-spustili-na-vodu-noviy-ukrainskiy-korvet-getman-ivan-mazepa-zelenska"
 related: [petro-sahaidachnyi, pylyp-orlyk, petro-doroshenko, feofan-prokopovych]
-collections: [money-people]
+collections: [money-people, cossack-state]
 audio: { duration: "1:59" }
 status: approved
 published: 2026-10-07T06:23:13Z

@@ -36,6 +36,7 @@ sources:
   - title: Вікіпедія - Іван Виговський
     url: https://uk.wikipedia.org/wiki/Іван_Виговський
 related: [bohdan-khmelnytskyi, ivan-bohun, ivan-sirko, mykola-kostomarov]
+collections: [cossack-state]
 status: approved
 published: 2026-10-12T23:34:13Z
 ---

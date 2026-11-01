@@ -38,6 +38,7 @@ sources:
   - title: Вікіпедія - Петро Дорошенко
     url: https://uk.wikipedia.org/wiki/Петро_Дорошенко
 related: [bohdan-khmelnytskyi, ivan-vyhovskyi, ivan-sirko]
+collections: [cossack-state]
 status: approved
 published: 2026-10-12T23:34:13Z
 ---

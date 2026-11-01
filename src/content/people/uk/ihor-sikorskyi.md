@@ -47,6 +47,7 @@ sources:
     url: "https://thisdayinaviation.com/?p=39564"
 related: [serhii-korolov]
 audio: { duration: "2:13" }
+collections: [science-founders]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

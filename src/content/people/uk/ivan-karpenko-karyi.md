@@ -52,6 +52,7 @@ sources:
   - title: Вікіпедія - Іван Карпенко-Карий
     url: https://uk.wikipedia.org/wiki/Іван_Карпенко-Карий
 related: [mykola-sadovskyi, panas-saksahanskyi, marko-kropyvnytskyi, mykhailo-starytskyi, mariia-zankovetska, taras-shevchenko, ivan-kotliarevskyi, ivan-franko]
+collections: [theatre-of-luminaries]
 status: approved
 published: 2026-10-24T04:01:51Z
 ---

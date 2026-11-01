@@ -55,7 +55,7 @@ sources:
   - title: "Kyiv Post - Kvitka Cisyk, the Singing Flower of Ukraine"
     url: "https://www.kyivpost.com/post/30450"
 related: [ivan-drach, mykhailo-horyn, levko-lukianenko, ivan-svitlychnyi, kvitka-tsisyk, maksym-rylskyi, bohdan-havrylyshyn]
-collections: [sixtiers]
+collections: [sixtiers, independence-1991]
 status: approved
 published: 2026-10-26T00:43:50Z
 ---

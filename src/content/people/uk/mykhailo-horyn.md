@@ -47,7 +47,7 @@ sources:
   - title: "ZAXID.NET - Вахтанг Кіпіані, «Дисиденти»: Михайло Горинь (08.11.2021)"
     url: "https://zaxid.net/disidenti_n1529816"
 related: [bohdan-horyn, ivan-hel, viacheslav-chornovil, ivan-svitlychnyi, ivan-dziuba, ivan-drach, mykola-rudenko, oksana-meshko, oleksa-tykhyi, valerii-marchenko, vasyl-stus]
-collections: [sixtiers]
+collections: [sixtiers, independence-1991]
 status: approved
 published: 2026-10-28T04:02:47Z
 ---

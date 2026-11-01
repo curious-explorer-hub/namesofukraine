@@ -40,6 +40,7 @@ sources:
   - title: Вікіпедія - Іван Сірко
     url: https://uk.wikipedia.org/wiki/Іван_Сірко
 related: [ivan-bohun, bohdan-khmelnytskyi, petro-kalnyshevskyi, ivan-vyhovskyi, petro-doroshenko]
+collections: [cossack-state]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

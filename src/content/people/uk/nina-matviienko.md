@@ -38,6 +38,7 @@ sources:
   - title: Вікіпедія - Матвієнко Ніна Митрофанівна
     url: https://uk.wikipedia.org/wiki/Матвієнко_Ніна_Митрофанівна
 related: [raisa-kyrychenko, nazarii-yaremchuk, kateryna-bilokur, oleh-skrypka, yurii-rybchynskyi]
+collections: [chervona-ruta]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

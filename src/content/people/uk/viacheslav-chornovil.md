@@ -44,7 +44,7 @@ sources:
   - title: "Вікіцитати - Чорновіл В'ячеслав Максимович"
     url: "https://uk.wikiquote.org/wiki/Чорновіл_В'ячеслав_Максимович"
 related: [vasyl-stus, bohdan-havrylyshyn, levko-lukianenko, ivan-dziuba, ivan-drach]
-collections: [sixtiers]
+collections: [sixtiers, independence-1991]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

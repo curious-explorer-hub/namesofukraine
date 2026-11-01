@@ -35,6 +35,7 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Hlushkov, Viktor (author - L. Onyshkevych)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CH%5CL%5CHlushkovViktor.htm"
 related: []
+collections: [science-founders]
 status: approved
 published: 2026-10-16T17:17:14Z
 ---

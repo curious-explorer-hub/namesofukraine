@@ -37,6 +37,7 @@ sources:
   - title: Вікіпедія - Мечников Ілля Ілліч
     url: https://uk.wikipedia.org/wiki/Мечников_Ілля_Ілліч
 related: [oleksandr-bohomolets, danylo-zabolotnyi]
+collections: [science-founders]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

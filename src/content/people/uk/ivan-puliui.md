@@ -42,6 +42,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CU%5CPuliuiIvan.htm"
   - title: "Енциклопедичний вісник України - В. Жовтянський, «Іван Пулюй - перший український учений нобелівського рівня» (2025)"
     url: "https://evu.encyclopedia.kyiv.ua/article/1717"
+collections: [science-founders]
 status: approved
 published: 2026-10-15T22:58:49Z
 ---

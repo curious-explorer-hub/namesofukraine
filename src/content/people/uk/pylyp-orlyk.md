@@ -39,6 +39,7 @@ sources:
   - title: Вікіпедія - Пилип Орлик
     url: https://uk.wikipedia.org/wiki/Пилип_Орлик
 related: [ivan-mazepa]
+collections: [cossack-state]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

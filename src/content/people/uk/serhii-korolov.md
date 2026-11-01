@@ -33,6 +33,7 @@ sources:
   - title: Wikipedia (EN) - Sergei Korolev
     url: https://en.wikipedia.org/wiki/Sergei_Korolev
 related: [ihor-sikorskyi, volodymyr-vernadskyi, valentyn-hlushko]
+collections: [science-founders]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---

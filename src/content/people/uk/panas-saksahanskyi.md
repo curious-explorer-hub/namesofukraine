@@ -48,6 +48,7 @@ sources:
   - title: Вікіпедія - Саксаганський Панас Карпович
     url: https://uk.wikipedia.org/wiki/Саксаганський_Панас_Карпович
 related: [ivan-karpenko-karyi, mykola-sadovskyi, marko-kropyvnytskyi, mykhailo-starytskyi, ivan-kotliarevskyi, hryhorii-kvitka-osnovianenko, yevhen-chykalenko, mariia-zankovetska]
+collections: [theatre-of-luminaries]
 status: approved
 published: 2026-10-24T04:06:50Z
 ---
