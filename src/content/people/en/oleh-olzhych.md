@@ -14,6 +14,9 @@ key_accomplishments:
   - "Deputy head of the Leadership of Ukrainian Nationalists (from 1942); acting head from January 1944"
 birthplace_name: "Zhytomyr"
 image_alt: "Portrait photograph of a young Oleh Olzhych in a jacket and tie"
+quotes:
+  - text: "If you will it, you will be. In a person, remember, / Lies an unguessed strength."
+    source: "Poem “If You Will It, You Will Be!..”"
 ---
 
 ## Three surnames, one man

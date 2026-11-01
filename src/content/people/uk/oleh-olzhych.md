@@ -33,6 +33,9 @@ image:
   author: "Невідомий автор"
   license: "Public domain"
   source_url: "https://commons.wikimedia.org/wiki/File:Ольжич_Олег.jpg"
+quotes:
+  - text: "Захочеш - і будеш. В людині, затям, / Лежить невідгадана сила."
+    source: "Вірш «Захочеш і будеш!..»"
 sources:
   - title: "Енциклопедія сучасної України - Ольжич Олег"
     url: "https://esu.com.ua/article-76571"

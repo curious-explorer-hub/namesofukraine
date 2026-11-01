@@ -12,6 +12,9 @@ key_accomplishments:
   - "Backed the European orientation of Khvylovy and the Neoclassicists in the Literary Discussion of 1925–1928"
 birthplace_name: "Chernihiv"
 image_alt: "Mykhailo Mohylianskyi, photographic portrait"
+quotes:
+  - text: "The impression made by Khvylovy’s article is as if, in a room so stuffy that it was hard to breathe, someone had opened the windows, and the lungs suddenly felt fresh air…"
+    source: "Speech at the debate “Paths of Development of Contemporary Literature”, 24 May 1925"
 ---
 
 ## A window in a stuffy room

@@ -11,6 +11,9 @@ key_accomplishments:
   - "Forewords to Taras Shevchenko’s Kobzar and to the editions Galician Prose Writers and Leonid Hlibov and the Ukrainian Fable (1927)"
   - "With Mykola Zerov and Pavlo Fylypovych, ran a student circle on the culture of the Ukrainian word and a seminar in literary studies"
 birthplace_name: "Vertiivka"
+quotes:
+  - text: "The one thing he kept in himself from his youth, and that was always the foundation of his worldview, was the idea of national revival."
+    source: "On Mykhailo Kotsiubynskyi; the book “M. Kotsiubynskyi: Life and Work”, 1929"
 ---
 
 ## Kotsiubynskyi’s manuscripts

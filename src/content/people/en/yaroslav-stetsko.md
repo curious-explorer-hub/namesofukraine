@@ -10,6 +10,9 @@ key_accomplishments:
   - "President of the Anti-Bolshevik Bloc of Nations (1946–1986) and leader of the OUN-B (1968–1986)"
 birthplace_name: "Ternopil"
 image_alt: "Photograph of Yaroslav Stetsko wearing glasses"
+quotes:
+  - text: "The meaning of my whole life was, is and will be a free Ukraine, a Ukraine without serf and without lord. I believe in victory."
+    source: "His last word at the Lviv trial, 26 June 1936 (as reported by the newspaper Dilo)"
 ---
 
 ## A government that lasted under two weeks

@@ -13,6 +13,9 @@ key_accomplishments:
   - "Head of the Ukrainian National Council in Lviv (1941)"
 birthplace_name: "Tysmenytsia, Ivano-Frankivsk region"
 image_alt: "Kost Levytskyi in pince-nez, with a full moustache, in a dark suit and tie, studio photo"
+quotes:
+  - text: "We rose by ourselves, by the strength of our national spirit and the Ukrainian nation’s right to life. And the day of 1 November 1918 did not come to us by the grace of mighty victors; it came from our own resolve and organisation."
+    source: "His book “The Great Upheaval”, Lviv, 1931"
 ---
 
 ## The lawyer who wrote to the courts in Ukrainian

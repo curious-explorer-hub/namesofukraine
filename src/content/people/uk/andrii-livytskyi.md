@@ -31,6 +31,9 @@ key_accomplishments:
   - "Очолював дипломатичну місію УНР у Польщі й підписав Варшавський договір (квітень 1920)"
   - "Голова уряду УНР в екзилі (1920–1921, 1922–1926), голова Директорії (з 1926) і президент УНР в екзилі (з 1948)"
   - "Ініціатор Української Національної Ради в еміграції (1948)"
+quotes:
+  - text: "Хай судить Нас історія, Ми з радістю приймемо вирок, навіть жорстокий вирок, аби він був винесений вільним українським народом в Незалежній Українській Державі."
+    source: "Лист до графа Михайла Тишкевича, 27 квітня 1920 року"
 sources:
   - title: "Енциклопедія сучасної України - Лівицький Андрій Миколайович (автор - Р. М. Коваль)"
     url: "https://esu.com.ua/article-55406"
@@ -46,6 +49,8 @@ sources:
     url: "https://poltava.to/project/9067/"
   - title: "Радіо Свобода - Д. Шурхало, 30 років тому: як УНР возз'єдналася з Україною (23.08.2022)"
     url: "https://www.radiosvoboda.org/a/unr-nezalezhna-ukrayina-vozyednannya/31999704.html"
+  - title: "Український інститут національної пам'яті - «Андрій Лівицький. Листування (1919–1953 роки)»"
+    url: "https://www.uinp.gov.ua/elektronni-vydannya/andriy-livyckyy-lystuvannya-1919-1953-roky/andriy-livyckyy-lystuvannya-1919-1953-roky/andriy-livyckyy-lystuvannya-1919-1953-roky1"
 related: [symon-petliura, pavlo-skoropadskyi, volodymyr-vynnychenko]
 collections: [ukrainian-revolution]
 status: draft

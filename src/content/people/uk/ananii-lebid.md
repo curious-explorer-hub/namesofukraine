@@ -21,6 +21,9 @@ key_accomplishments:
   - "Разом із Максимом Рильським уклав літературну хрестоматію «За 25 літ» (1926)"
   - "Передмови до «Кобзаря» Тараса Шевченка, видань «Галицькі прозаїки» та «Леонід Глібов і українська байка» (1927)"
   - "Разом із Миколою Зеровим і Павлом Филиповичем вів студентський гурток культури українського слова й літературознавчий семінар"
+quotes:
+  - text: "Єдине, що він з юнацьких днів зберіг у собі і що завжди було для нього основою світогляду, була ідея національного відродження."
+    source: "Про Михайла Коцюбинського; книжка «М. Коцюбинський. Життя і творчість», 1929"
 sources:
   - title: "Енциклопедія Сучасної України - Лебідь Ананій Дмитрович (автор - Т. В. Андрійчук)"
     url: "https://esu.com.ua/article-53607"
@@ -40,6 +43,8 @@ sources:
     url: "https://libkor.com.ua/calendar-of-significant-dates?year=2023"
   - title: Вікіпедія - Лебідь Ананій Дмитрович
     url: https://uk.wikipedia.org/wiki/Лебідь_Ананій_Дмитрович
+  - title: "Т. Андрійчук - матеріали конференції в Чернігівському музеї М. Коцюбинського (2009)"
+    url: "https://www.library.vspu.edu.ua/vistavki/kocubinskiy/publik_pro/material/konf1.pdf"
 related: [mykhailo-kotsiubynskyi, serhii-yefremov, ahatanhel-krymskyi, maksym-rylskyi, mykola-zerov, pavlo-fylypovych, marko-voronyi]
 collections: [executed-renaissance, neoclassicists]
 status: draft
