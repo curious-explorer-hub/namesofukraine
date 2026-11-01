@@ -10,12 +10,8 @@ key_accomplishments:
   - "Head of the Leadership of Ukrainian Nationalists (from 1938), lifelong leader of the OUN-M (from 1947)"
   - "Proposed a world congress of Ukrainians in 1957; the World Congress of Free Ukrainians was founded in 1967"
 birthplace_name: "Volia Yakubova"
-image_alt: "Photograph of Andrii Melnyk in the uniform of the Ukrainian Sich Riflemen"
+image_alt: "Portrait photograph of Andrii Melnyk in later life"
 ---
-
-## Coming home after 60 years
-
-Why were two coffins carried from Luxembourg to Kyiv in May 2026? They held the remains of Andrii Melnyk, one of the leaders of the Ukrainian nationalist movement, and his wife Sofia. For more than 60 years they had lain in a cemetery in Luxembourg. On 25 May 2026 they were reburied with state honours at the National Military Memorial Cemetery near Kyiv. Some welcomed the decision; others criticized it sharply.
 
 ## The forester who became a rifleman
 
@@ -36,6 +32,10 @@ In 1941, after Germany attacked the USSR, Melnyk's expeditionary groups set out 
 ## A voice for the emigration
 
 After the war Melnyk settled in Luxembourg. In 1947 he was elected the OUN's leader for life. In 1957 he proposed calling a world congress of Ukrainians. The World Congress of Free Ukrainians was founded in 1967, after his death. Melnyk died on 1 November 1964.
+
+## Coming home after 60 years
+
+Why were two coffins carried from Luxembourg to Kyiv in May 2026? They held the remains of Andrii Melnyk, one of the leaders of the Ukrainian nationalist movement, and his wife Sofia. For more than 60 years they had lain in a cemetery in Luxembourg. On 25 May 2026 they were reburied with state honours at the National Military Memorial Cemetery near Kyiv. Some welcomed the decision; others criticized it sharply.
 
 ## Debates and assessments
 

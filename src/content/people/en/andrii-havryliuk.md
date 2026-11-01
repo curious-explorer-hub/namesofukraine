@@ -12,6 +12,7 @@ key_accomplishments:
   - "Order For Courage, 3rd class, posthumously (decree No. 270/2015 of 15 May 2015); badge “For the Defense of Donetsk Airport”, posthumously"
   - "Memorial plaque on Specialized School No. 71 in Kyiv (2016); portrait on the Wall of Remembrance of those who fell for Ukraine in Kyiv"
 birthplace_name: "Kyiv"
+image_alt: "Andrii Havryliuk in pixel-pattern military uniform and a black knit cap"
 ---
 
 ## A volunteer from Solomianka
