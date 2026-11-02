@@ -14,7 +14,7 @@ key_accomplishments:
   - "Reformed the courts of the Hetmanate"
   - "Compiled a short chronicle of events from 1452 to 1715"
 birthplace_name: "Unknown"
-image_alt: "Pavlo Polubotok, a portrait by Stepan Zemliukov, 1840s"
+image_alt: "Imagined portrait of Pavlo Polubotok with a long moustache, in a turquoise zhupan with a sash and a fur-trimmed red cloak, holding a sabre, made by AI"
 ---
 
 ## The treasure that never was
@@ -39,7 +39,7 @@ In the spring of 1723 Peter I summoned Polubotok and the senior officers to St P
 
 ## Debates and assessments
 
-Ukrainian historians see Polubotok as a defender of the Hetmanate’s autonomy, while Soviet historians wrote harshly of him as a greedy magnate. Accounts of his death differ: some say he died of a serious illness, others that he did not survive torture. His fiery speech to Peter I is known only from the anonymous History of the Rus, and scholars consider it apocryphal.
+Ukrainian historians see Polubotok as a defender of the Hetmanate’s autonomy, while Soviet historians wrote harshly of him as a greedy magnate: Soviet scholarship judged champions of the Hetmanate’s autonomy by the official ideology and played down their role. Accounts of his death differ: some say he died of a serious illness, others that he did not survive torture. His fiery speech to Peter I is known only from the anonymous History of the Rus, and scholars consider it apocryphal.
 
 ## Why it matters today
 
