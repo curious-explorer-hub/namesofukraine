@@ -22,11 +22,21 @@ places:
   - { name: "Чернівці", lat: 48.292, lon: 25.936, note: "жила тут з 1891 року, місце смерті, 1942" }
 image:
   src: ./images/olha-kobylianska.jpg
-  alt: "Фотопортрет молодої Ольги Кобилянської з гладко зачесаним волоссям, у сукні з білим комірцем і бантом"
+  alt: "Фотопортрет молодої Ольги Кобилянської з гладко зачесаним волоссям, у картатій сукні з білим комірцем і бордовим бантом"
   position: "50% 25%"
   author: "Теодор Багринович"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Ольга_Кобилянська.jpg"
+gallery:
+  - src: ./images/olha-kobylianska-lesya-ukrainka.jpg
+    alt: "Ольга Кобилянська стоїть, схрестивши руки, у темно-синій сукні; поруч сидить Леся Українка в зеленій сукні, біля різьбленого крісла"
+    caption: "Ольга Кобилянська (стоїть) і Леся Українка, Чернівці, 1901"
+    section: 3
+    author: "Фотоательє Яна Кржановського"
+    license: "Public domain"
+    ai_edit: colorized
+    source_url: "https://zbruc.eu/node/103415"
 sources:
   - title: "Енциклопедія Сучасної України - Кобилянська Ольга Юліанівна (автор - Т. І. Гундорова)"
     url: "https://esu.com.ua/article-8859"
@@ -57,7 +67,8 @@ sources:
   - title: "Укрінформ - У столичному театрі Лесі Українки відбулася прем'єра вистави «Земля»"
     url: "https://www.ukrinform.ua/rubric-culture/4021437-u-stolicnomu-teatri-lesi-ukrainki-vidbulasa-premera-vistavi-zemla.html"
 related: [lesya-ukrainka, nataliia-kobrynska, ivan-franko, mykhailo-kotsiubynskyi, vasyl-vasylko]
-status: draft
+status: approved
+published: 2026-11-02T00:01:04Z
 ---
 
 ## Класикиня, яка починала німецькою

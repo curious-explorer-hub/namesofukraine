@@ -4,13 +4,16 @@ name: "Olha Kobylianska"
 role: "Writer, author of The Land"
 summary: "She wrote her first stories in German and became a classic of Ukrainian prose. Olha Kobylianska of Bukovyna, author of The Land and The Princess, was among the first in Ukrainian literature to speak up for a woman’s right to her own life, and a friend of Lesya Ukrainka for 14 years."
 fun_fact: "Olha Kobylianska and Lesya Ukrainka were friends for 14 years, until 1913, but met only a few times: their friendship lived mostly in letters."
+gallery:
+  - alt: "Olha Kobylianska standing with her arms folded, in a dark blue dress; beside her Lesya Ukrainka sits in a green dress, next to a carved chair"
+    caption: "Olha Kobylianska (standing) and Lesya Ukrainka, Chernivtsi, 1901"
 key_accomplishments:
   - "The novella The Land (1902), about a brother killing his brother over land in a Bukovynian village"
   - "The novellas A Person and The Princess, about educated women who want an independent life"
   - "The novella On Sunday Morning She Gathered Herbs"
   - "A co-founder of the Society of Ruthenian Women in Bukovyna (1894)"
 birthplace_name: "Gura Humora (now Gura Humorului, Romania)"
-image_alt: "Photo portrait of young Olha Kobylianska with her hair smoothed back, in a dress with a white collar and a bow"
+image_alt: "Photo portrait of young Olha Kobylianska with her hair smoothed back, in a plaid dress with a white collar and a burgundy bow"
 ---
 
 ## A classic who started out in German
