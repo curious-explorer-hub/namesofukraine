@@ -11,7 +11,7 @@ key_accomplishments:
   - "Skovoroda, an unfinished philosophical symphony-poem (published 1971)"
   - "Member of the Academy of Sciences (1929); education minister of the Ukrainian SSR (1943–1948), chairman of its Supreme Soviet (1953–1959)"
 birthplace_name: "Pisky"
-image_alt: "Pavlo Tychyna in glasses and a dark suit, a photograph from 1928"
+image_alt: "A grey-haired Pavlo Tychyna in a brown tweed jacket and a burgundy tie, holding a pen"
 ---
 
 ## From a requiem to “The Party Leads”

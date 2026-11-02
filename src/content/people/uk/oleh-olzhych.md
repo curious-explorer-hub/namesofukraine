@@ -3,7 +3,7 @@ name: Олег Ольжич
 gender: male
 born: 1907-07-21
 died: 1944-06-10
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-01
 era: 20th-century
 group: literature
 tags: [poet, scientist, politician]
@@ -28,11 +28,12 @@ places:
   - { name: "Заксенгаузен", lat: 52.766, lon: 13.264, note: "загинув у нацистському концтаборі, 1944" }
 image:
   src: ./images/oleh-olzhych.jpg
-  alt: "Фотопортрет молодого Олега Ольжича в піджаку й краватці"
+  alt: "Фотопортрет Олега Ольжича з вусами, у темному костюмі й синій краватці з візерунком"
   position: "50% 30%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Ольжич_Олег.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Olzhych.jpg"
 quotes:
   - text: "Захочеш - і будеш. В людині, затям, / Лежить невідгадана сила."
     source: "Вірш «Захочеш і будеш!..»"
@@ -56,7 +57,8 @@ sources:
   - title: "Історична правда - Б. Червак, «Він склав жертву, а ми лишилися в живих». До 80-річчя загибелі Олега Ольжича (2024)"
     url: "https://www.istpravda.com.ua/columns/2024/06/10/163996/"
 related: [yevhen-malaniuk, olena-teliha, yevhen-konovalets, andrii-melnyk, dokiia-humenna, avhustyn-voloshyn]
-status: draft
+status: approved
+published: 2026-11-02T04:09:10Z
 ---
 
 ## Три прізвища одного чоловіка

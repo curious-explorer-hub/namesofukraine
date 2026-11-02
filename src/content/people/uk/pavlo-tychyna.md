@@ -16,11 +16,13 @@ places:
   - { name: "Харків", lat: 49.993, lon: 36.231, note: "журнал «Червоний шлях», 1920-ті роки" }
 image:
   src: ./images/pavlo-tychyna.jpg
-  alt: "Павло Тичина в окулярах і темному костюмі, світлина 1928 року"
+  alt: "Сивий Павло Тичина в коричневому твідовому піджаку й бордовій краватці тримає в руках ручку"
   position: "50% 25%"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Pavlo_Tychyna.png"
+  license: "Fair use"
+  ai_edit: colorized
+  source_url: "https://ukrainian-nation.org.ua/ukraintsi/578-pavlo-tychyna/"
+  fair_use: true
 key_accomplishments:
   - "Збірка «Сонячні кларнети» (1918), що започаткувала «кларнетизм»"
   - "Збірки «Плуг» і «Замісць сонетів і октав» (1920), «Вітер з України» (1924)"
@@ -49,7 +51,8 @@ sources:
   - title: Wikipedia (EN) - Pavlo Tychyna
     url: https://en.wikipedia.org/wiki/Pavlo_Tychyna
 related: [mykhailo-kotsiubynskyi, mykola-sadovskyi, andrii-nikovskyi, mykola-leontovych, mykola-khvylovyi, vasyl-stus, lina-kostenko, ivan-drach, yevhen-malaniuk]
-status: draft
+status: approved
+published: 2026-11-02T04:12:48Z
 ---
 
 ## Від реквієму до «Партія веде»
