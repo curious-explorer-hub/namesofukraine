@@ -3,13 +3,21 @@ name: Руслан Боровик
 gender: male
 born: 1981-04-19
 died: 2022-04-30
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-01
 era: war-for-independence
 group: defenders
 tags: [warrior, artist]
 role: "Гранатометник і фотограф «кіборгів»"
 summary: "Чому гранатометника з Донецького аеропорту звали «Багдад»? Бо до війни на Донбасі Руслан Боровик двічі побував в Іраку. В аеропорту він фотографував «кіборгів» під обстрілами, і його знімки вийшли книгою «ДАП». 2022 року він знову пішов на фронт і загинув під Ізюмом."
 fun_fact: "Кулю калібру 7,62, яка прошила йому ногу в боях за Донецький аеропорт, Руслан Боровик після лікування залишив собі на згадку."
+image:
+  src: ./images/ruslan-borovyk.jpg
+  alt: "Руслан Боровик у блакитному береті десантника й камуфляжі з нагородами"
+  position: "50% 25%"
+  author: "Невідомий автор"
+  license: "Fair use"
+  source_url: "https://memorybook.org.ua/soldiers/ruslan-a-borovyk"
+  fair_use: true
 key_accomplishments:
   - "Двічі брав участь у місіях в Іраку (2004-2005)"
   - "Гранатометник 90-го окремого аеромобільного батальйону; двічі обороняв Донецький аеропорт (листопад 2014 - січень 2015)"
@@ -40,7 +48,8 @@ sources:
     url: "https://uk.wikipedia.org/wiki/Боровик_Руслан_Анатолійович"
 related: [ivan-zubkov, ihor-branovytskyi]
 collections: [donetsk-airport]
-status: draft
+status: approved
+published: 2026-11-02T03:59:27Z
 ---
 
 ## Чому «Багдад»?

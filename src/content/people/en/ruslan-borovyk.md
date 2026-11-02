@@ -11,6 +11,7 @@ key_accomplishments:
   - "Order for Courage, 3rd class (decree No. 76/2016); medal “For Military Service to Ukraine” (decree No. 429/2022); Order for Courage, 2nd class, posthumously (decree No. 468/2022)"
   - "In 2022, junior sergeant and squad leader in the 95th Separate Air Assault Brigade; killed in the fighting for Izium"
 birthplace_name: "Kropyvnia, Zhytomyr region"
+image_alt: "Ruslan Borovyk in a paratrooper's blue beret and camouflage uniform with his awards"
 ---
 
 ## Why “Bahdad”?
