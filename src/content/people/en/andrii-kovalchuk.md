@@ -24,15 +24,15 @@ How many photos are left after 146 days of fighting? For Andrii Kovalchuk, who l
 
 ## From a village in Volyn
 
-Andrii Kovalchuk was born on 28 April 1974 in the village of Shchytyn in Volyn. In 1997 he graduated from the Kharkiv tank command school. Later he served as a peacekeeper: in Kosovo in 2005–2006, and in 2011 as chief of staff of a helicopter unit with the UN mission in Liberia.
+Andrii Kovalchuk was born on 28 April 1974 in the village of Shchytyn in Volyn. In 1997 he graduated from the Kharkiv tank command school. He started as a platoon commander in the 51st Mechanized Division in Volodymyr-Volynskyi, served as chief of staff of a tank battalion, and later as chief of staff of an airmobile regiment. Later he served as a peacekeeper: in Kosovo in 2005–2006, and in 2011 as chief of staff of a helicopter unit with the UN mission in Liberia.
 
 ## Luhansk airport
 
-In April 2014 Colonel Kovalchuk, chief of staff of the 80th Separate Airmobile Brigade, went east. His brigade freed Sloviansk, Mykolaivka and Shchastia. In the spring the paratroopers took Luhansk airport under guard, and on 13 July Kovalchuk himself led one of the detachments that fought their way through to the encircled airfield.
+In April 2014 Colonel Kovalchuk, chief of staff of the 80th Separate Airmobile Brigade, went east. His brigade freed Sloviansk and Mykolaivka in the Donetsk region and, in the Luhansk region, Shchastia, Lutuhyne, Heorhiivka, Novosvitlivka, Khriashchuvate, Trokhizbenka and other places. In the spring the paratroopers took Luhansk airport under guard, and on 13 July Kovalchuk himself led one of the detachments that fought their way through to the encircled airfield.
 
 He was wounded in the shoulder that same day, but he did not go to hospital. "How could you leave them? They're like your own children by then," the general explained. In August he was made commander of the brigade, and the paratroopers held the airfield until the end of the summer.
 
-In 2016 Kovalchuk was made a Hero of Ukraine and promoted to major general.
+In 2016 Kovalchuk was promoted to major general and made a Hero of Ukraine; he received the award on the Maidan, during the celebrations of the 25th anniversary of Independence. In 2018 he took a master's degree in public administration at the National Defence University, and in June that year he received the sword of Queen Elizabeth II of the United Kingdom.
 
 ## The counteroffensive in the south
 

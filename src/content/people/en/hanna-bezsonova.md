@@ -7,7 +7,7 @@ fun_fact: "The Bezsonov family has three Olympic bronze medals: two for Hanna (2
 key_accomplishments:
   - "World all-around champion in rhythmic gymnastics (Patras, 2007), where she also won the prize for elegance"
   - "Olympic all-around bronze medallist (Athens, 2004; Beijing, 2008)"
-  - "World champion in the team and group events (2002), world all-around silver medallist (2003)"
+  - "World champion in the team and group events (2002), world champion in hoop and clubs and all-around silver medallist (2003)"
   - "European champion in hoop, clubs and ribbon (2003)"
   - "10 gold medals at four Universiades (2003-2009)"
   - "Order For Merit, 3rd class (2007), and Order of Princess Olga, 3rd class (2003)"
@@ -17,15 +17,15 @@ birthplace_name: "Kyiv"
 
 ## The one gold russia didn't take
 
-In September 2007, at the Rhythmic Gymnastics World Championships in Patras, Greece, russian gymnasts won seven of the eight gold medals. The eighth, the all-around title, went to Hanna Bezsonova from Kyiv. She beat the defending world champion, Olga Kapranova of russia, and also took a separate prize for elegance.
+In September 2007, at the Rhythmic Gymnastics World Championships in Patras, Greece, russian gymnasts won seven of the eight gold medals. The eighth, the all-around title, went to Hanna Bezsonova from Kyiv. She won three of the four apparatus and scored 73.950, just 0.050 ahead of Vera Sessina of russia. She also beat the defending world champion, Olga Kapranova, and took a separate prize for elegance.
 
 ## A gymnastics family
 
-Hanna Bezsonova was born in 1984 in Kyiv, into a family of athletes. Her father, Volodymyr Bezsonov, played for Dynamo Kyiv and won Olympic bronze in football in 1980. Her mother, Viktoriia Bezsonova, was a world champion in group rhythmic gymnastics. It was her mother who first coached her. From 1994 Hanna trained with Albina and Iryna Deriugina.
+Hanna Bezsonova was born in 1984 in Kyiv, into a family of athletes. Her father, Volodymyr Bezsonov, played for Dynamo Kyiv and won Olympic bronze in football in 1980. Her mother, Viktoriia Bezsonova, was a world champion in group rhythmic gymnastics. From the age of three Hanna went to the Kyianka ballet school, and at five she took up gymnastics. It was her mother who first coached her. From 1994 Hanna trained with Albina and Iryna Deriugina, and in 1996, before she turned 13, she became a Master of Sport, International Class.
 
 ## Two Olympic bronzes
 
-In 2002 Bezsonova became world champion in the group event, and the next year world all-around silver medallist and triple European champion, in hoop, clubs and ribbon. At the 2004 Athens Olympics she won all-around bronze, and in Beijing in 2008 she did it again. She also won 10 gold medals at four World University Games (Universiades). Abroad she was known as Anna Bessonova, and fans called her "the Queen of Elegance".
+In 2002 Bezsonova became world champion in the group event. The next year she won world titles in hoop, performed to music from *Swan Lake*, and in clubs. A mistake in her ball routine cost her the all-around title, and she took silver. That year she also became triple European champion, in hoop, clubs and ribbon. At the 2004 Athens Olympics she won all-around bronze, and in Beijing in 2008 she did it again. She also won 10 gold medals at four World University Games (Universiades), though at her first, in Daegu in 2003, she won no gold at all: four silvers and a bronze. Abroad she was known as Anna Bessonova, and fans called her "the Queen of Elegance".
 
 ## After the mat
 

@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/faina-melnyk.md
 name: "Faina Melnyk"
 role: "Discus thrower, 11 world records"
-summary: "She took up athletics at almost 25, then broke the world record 11 times and became the first woman to throw the discus beyond 70 metres. Faina Melnyk, from the village of Bakota in Podillia, was the 1972 Olympic champion and was named the greatest female discus thrower of all time."
+summary: "She came to athletics late, as a young adult, then broke the world record 11 times and became the first woman to throw the discus beyond 70 metres. Faina Melnyk, from the village of Bakota in Podillia, was the 1972 Olympic champion and was named the greatest female discus thrower of all time."
 fun_fact: "In 2010 Armenia issued a postage stamp in honour of Faina Melnyk: early in her career she competed for the Yerevan club Sevan."
 key_accomplishments:
   - "Olympic discus champion (Munich, 1972); also competed at the 1976 and 1980 Olympics"
@@ -20,9 +20,11 @@ Until 1975 no woman in the world had thrown the discus beyond 70 metres. Faina M
 
 ## From Bakota to Munich
 
-Faina was born in 1945 into a Jewish family in Bakota, a village on the Dniester in Podillia, western Ukraine. The village no longer exists. She came to athletics late, at almost 25. She competed for the Sevan club in Yerevan, graduated from the Yerevan Institute of Physical Culture and was coached by Kim Bukhantsov.
+Faina was born in 1945 into a Jewish family in Bakota, a village on the Dniester in Podillia, western Ukraine. The village no longer exists: it vanished under the Dniester when the Novodnistrovsk hydroelectric dam was built, and the Melnyk family moved to Donetsk Oblast.
 
-Her rise was fast. In 1971 she became European champion, and in 1972 in Munich, Olympic champion. From 1973 she competed for Spartak Moscow, and in 1974 she won the European title again. At the 1976 Olympics in Montreal, despite her records, she finished only fourth. There she also entered the shot put and placed tenth; her best in that event was 20.03 m.
+She found her sport by chance, and late, as a young adult. She was on her way to Kyiv to study economics and wanted to be an accountant. But in a park she watched decathletes training at a stadium, and their coach invited her to Moscow. The first time she picked up a discus, she met the Master of Sport standard. Later she competed for the Sevan club in Yerevan, graduated from the Yerevan Institute of Physical Culture and was coached by Kim Bukhantsov.
+
+She trained hard: up to 200 discus throws a day, and in the gym up to 36 tonnes of barbell lifts per session, like unloading a coal wagon by hand. Her rise was fast. In 1971 she became European champion, and in 1972 in Munich, Olympic champion. In the early 1970s she was married to the Bulgarian discus thrower Velko Velev, but marriages to foreigners were frowned upon then, and her coach made sure the couple's training schedules never matched. From 1973 she competed for Spartak Moscow, and in 1974 she won the European title again. At the 1976 Olympics in Montreal, despite her records, she finished only fourth. There she also entered the shot put and placed tenth; her best in that event was 20.03 m.
 
 ## A second career
 
@@ -34,4 +36,4 @@ Her home region has not forgotten her. Since 2010, Kamianets-Podilskyi has held 
 
 ## Why it matters today
 
-A girl from a small village in Podillia that is no longer on the map became the greatest female discus thrower of all time and the first woman to break the 70-metre barrier. She started late, at almost 25, and showed that it is never too late for top-level sport. Her knowledge outlived her career: she raised Olympic champions, and her training diaries pass that experience on to a new generation of throwers in Ukraine. Anyone who wonders whether it's too late to start can think of the girl from Bakota.
+A girl from a small village in Podillia that is no longer on the map became the greatest female discus thrower of all time and the first woman to break the 70-metre barrier. She started late, as a young adult, and showed that it is never too late for top-level sport. Her knowledge outlived her career: she raised Olympic champions, and her training diaries pass that experience on to a new generation of throwers in Ukraine. Anyone who wonders whether it's too late to start can think of the girl from Bakota.

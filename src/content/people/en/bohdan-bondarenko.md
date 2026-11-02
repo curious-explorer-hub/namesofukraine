@@ -21,15 +21,15 @@ How many people in history have high-jumped higher than 2.42 metres? Just two. O
 
 ## A decathlete's son
 
-Bohdan Bondarenko was born on 30 August 1989 in Kharkiv. His father was a decathlete who later became his son's coach. Bohdan took up athletics at 13. In 2008, in Bydgoszcz, Poland, he won the World Junior Championships, and in 2011 he won the Summer Universiade.
+Bohdan Bondarenko was born on 30 August 1989 in Kharkiv. His father was a decathlete who later became his son's coach. Bohdan took up athletics at 13; before that he did folk dancing and underwater swimming. In 2008, in Bydgoszcz, Poland, he won the World Junior Championships, and in 2011 he won the Summer Universiade.
 
 ## The year he took off
 
-In 2013 Bondarenko won the Diamond League, the season-long series of athletics' top meetings. In Lausanne he jumped 2.41 metres, the first man of the 21st century to do so. That summer, at the World Championships in Moscow, he cleared 2.41 again, the best mark in the world that season, took the title and made three attempts at Sotomayor's world record. European Athletics named him European Athlete of the Year.
+In 2013 Bondarenko won the Diamond League, the season-long series of athletics' top meetings. In Lausanne he jumped 2.41 metres, the first man of the 21st century to do so. It broke a Ukrainian record that had stood for 28 years, since 1985. That summer, at the World Championships in Moscow, he cleared 2.41 again, the best mark in the world that season, took the title and made three attempts at Sotomayor's world record. European Athletics named him European Athlete of the Year.
 
 ## Zurich, Beijing, Rio
 
-In 2014 Bondarenko became European champion in Zurich, and in 2015 he took silver at the World Championships in Beijing. At the 2016 Olympic Games in Rio de Janeiro he won bronze with 2.33 metres. It was the only medal Ukraine's track and field athletes won at those Games.
+In 2014 Bondarenko became European champion in Zurich, and in 2015 he took silver at the World Championships in Beijing. That year the National Olympic Committee of Ukraine honoured Bohdan and his father Viktor as its best athlete and best coach. At the 2016 Olympic Games in Rio de Janeiro he won bronze with 2.33 metres. It was the only medal Ukraine's track and field athletes won at those Games.
 
 ## Injury and comeback
 

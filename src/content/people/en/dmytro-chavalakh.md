@@ -27,15 +27,15 @@ Dmytro Chavalakh was born on 19 August 1994 in the village of Sokolivka in the K
 
 ## From sergeant to company commander
 
-After the east, Chavalakh decided to become an infantry officer, and in 2019 he graduated from the National Army Academy in Lviv. The young lieutenant chose the 11th “Kyivska Rus” Battalion of the 59th Motorised Infantry Brigade, and in 2020 he took command of a company.
+After the east, Chavalakh decided to become an infantry officer, and in 2019 he graduated from the National Army Academy in Lviv. The young lieutenant chose the 11th “Kyivska Rus” Battalion of the 59th Motorised Infantry Brigade, and in 2020 he took command of a company. In 2021, at the Ukrainian-American Rapid Trident exercise, the company practised attacking behind armoured vehicles. Some of the soldiers wondered why: motorised infantry holds defences, doesn't it?
 
 ## Breaking out across the Antonivskyi Bridge
 
-On 24 February 2022 the battalion was at the Oleshky Sands in the Kherson region. Russian troops pushed north from Crimea, and russian paratroopers landed on the Antonivskyi Bridge, which links Kherson with the left bank of the Dnipro. The only way out of the encirclement was to break through across the bridge. For about three hours the infantry fought their way along a kilometre and a half of bridge, covered by tanks. Chavalakh’s company dug in on the far side to cover the rest of the brigade as it pulled back to Kherson, and there a sniper badly wounded him. The brigade got out of the encirclement.
+On 24 February 2022 the battalion was at the Oleshky Sands in the Kherson region. Russian troops pushed north from Crimea, and russian paratroopers landed on the Antonivskyi Bridge, which links Kherson with the left bank of the Dnipro. The only way out of the encirclement was to break through across the bridge: exactly the attack behind armour they had practised at the exercise. A tank company went first, commanded by Chavalakh’s namesake and fellow cadet, Dmytro Dozirchyi. Covered by the tanks, the infantry fought their way along a kilometre and a half of bridge for about three hours. Chavalakh’s company crossed to the far side and was moving up to cover the rest of the brigade’s breakout when a sniper badly wounded him. The brigade got out of the encirclement.
 
 ## Almost three months under occupation
 
-Dmytro was taken to hospital in time, and a few days later russian troops entered the city. Medical staff hid the wounded soldiers, and after he was discharged, local people in Kherson took him in at the risk of their own lives. Only in May 2022 was he brought out to Ukrainian-held territory.
+Dmytro was taken to hospital in time, and a few days later russian troops entered the city. Medical staff hid the wounded soldiers. After about a month, when the occupiers began searching the wards, the singer and volunteer Liubov Chernetska found him a hiding place: for almost two months a man from Kherson she knew hid Dmytro in his flat, at the risk of his own life. In all that time Dmytro went outside only once, when he secretly moved from the hospital to the flat. In May 2022 he was brought out to Ukrainian-held territory. The code word for the operation was “going fishing”, and a journey of an hour and a half to two by the main road took a day and a half to get round the russian checkpoints.
 
 ## A history teacher
 
