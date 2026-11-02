@@ -9,7 +9,7 @@ misconception:
   truth: "The term “biosphere” was introduced in 1875 by the Austrian geologist Eduard Suess. Vernadskyi (who published the book “The Biosphere” in 1926) turned it into a full scientific theory of Earth’s living shell as a geological force, but he did not coin the term itself."
 key_accomplishments:
   - "First president of the Ukrainian Academy of Sciences (1918)"
-  - "One of the founders of geochemistry and biogeochemistry; developed radiogeology"
+  - "Founder of genetic mineralogy, one of the founders of geochemistry and biogeochemistry; developed radiogeology"
   - "The Biosphere (1926) and the theory of the noosphere"
   - "A co-founder of the National Library of Ukraine (1918)"
 birthplace_name: "Saint Petersburg (russia)"
@@ -21,15 +21,15 @@ quotes:
 
 ## A Petersburger with Poltava summers
 
-Volodymyr Vernadskyi was born in 1863 in Saint Petersburg into a family with Ukrainian Cossack roots; his father, the economist Ivan Vernadskyi, was from Kyiv. Volodymyr spent his childhood in Ukraine: in 1868 the family moved to Kharkiv, and in 1873 he started first grade at the Kharkiv classical gymnasium. He studied at Saint Petersburg University, was a professor at Moscow University and an academician. In 1911 Vernadskyi resigned from Moscow University in protest against the oppression of students and the violation of university autonomy. Much tied him to Ukraine: from 1889 to 1918 he spent almost every summer in the Poltava region.
+Volodymyr Vernadskyi was born in 1863 in Saint Petersburg into a family with Ukrainian Cossack roots: both his parents were from Kyiv, and, as the scientist recalled, Ukrainian national traditions were alive in both families. His father, Ivan Vernadskyi, was an economist. Volodymyr spent his childhood in Ukraine: in 1868 the family moved to Kharkiv, and in 1873 he started first grade at the Kharkiv classical gymnasium. In 1878, back in St Petersburg, 15-year-old Volodymyr wrote in his diary that Ukrainians were “terribly oppressed” and that printing books in his native language was completely banned in Russia. He studied at Saint Petersburg University, was a professor at Moscow University and an academician. In 1886 he married Nataliia Starytska, who translated and edited his articles; they were together for almost 56 years. In 1911 Vernadskyi resigned from Moscow University in protest against the oppression of students and the violation of university autonomy. Much tied him to Ukraine: from 1889 to 1918 he spent almost every summer in the Poltava region.
 
 ## The Academy’s first president
 
-Under the Ukrainian State of Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), in 1918, Vernadskyi headed the commission to establish the Ukrainian Academy of Sciences and became its first president. That same year he was among the founders of the National Library of Ukraine. He later returned to Petrograd, and in July 1921 the first president of the Ukrainian Academy of Sciences was jailed by the Cheka; he was released soon after.
+Under the Ukrainian State of Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/), in 1918, Vernadskyi headed the commission to establish the Ukrainian Academy of Sciences and became its first president. That same year he was among the founders of the National Library of Ukraine, which bears his name today. He later returned to Petrograd, and in July 1921 the first president of the Ukrainian Academy of Sciences was jailed by the Cheka; he was released soon after.
 
 ## Life as a geological force
 
-Vernadskyi was one of the founders of new sciences, geochemistry and biogeochemistry, and he developed radiogeology. He was one of the first to understand that life on Earth is a geological force. In his book The Biosphere (1926) he described the Earth’s envelope that life creates and changes. Later he developed the theory of the noosphere: a stage when human reason becomes the main force changing the planet. The word “noosphere” itself was not his: it came from the Frenchmen Édouard Le Roy and Pierre Teilhard de Chardin, who attended Vernadskyi’s geochemistry lectures at the Sorbonne in 1922–1923, and those lectures inspired their new theory.
+Vernadskyi founded genetic mineralogy and was one of the founders of new sciences, geochemistry and biogeochemistry, and he developed radiogeology. He was one of the first to understand that life on Earth is a geological force. In his book The Biosphere (1926) he described the Earth’s envelope that life creates and changes. Later he developed the theory of the noosphere: a stage when human reason becomes the main force changing the planet. The word “noosphere” itself was not his: it came from the Frenchmen Édouard Le Roy and Pierre Teilhard de Chardin, who attended Vernadskyi’s geochemistry lectures at the Sorbonne in 1922–1923, and those lectures inspired their new theory.
 
 Vernadskyi wrote more than 400 scientific works, yet his most important ones went unpublished in his lifetime: the totalitarian state called his philosophical ideas “anti-scientific”. His summing-up work on the biosphere came out, in censored form, only in 1965, 20 years after his death.
 
@@ -39,4 +39,4 @@ Vernadskyi’s views on the Ukrainian question were moderate: he was a liberal, 
 
 ## Why it matters today
 
-Vernadskyi helped the world see that life is a force that changes a whole planet, and that human reason has itself become such a force. He did as much for Ukraine: in 1918, as the country was building its own state, he became the first president of the Ukrainian Academy of Sciences and helped found the National Library. His words about the future still read like a task for each of us: “It is in our hands.”
+Vernadskyi helped the world see that life is a force that changes a whole planet, and that human reason has itself become such a force. He did as much for Ukraine: in 1918, as the country was building its own state, he became the first president of the Ukrainian Academy of Sciences and helped found the National Library. Today the highest award of the National Academy of Sciences, the Vernadskyi Gold Medal, bears his name, and his portrait is on the 1000-hryvnia banknote. Late in life he wrote: “I believe in the enormous future of both Ukraine and the Ukrainian Academy of Sciences.” His words about the future still read like a task for each of us: “It is in our hands.”

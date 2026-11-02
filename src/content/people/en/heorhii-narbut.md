@@ -19,7 +19,7 @@ gallery:
 
 ## A boy from a Cossack homestead
 
-Heorhii Narbut was born in 1886 at the Narbutivka homestead near Hlukhiv, into a family descended from the old Cossack officer class. He learned to draw mostly on his own. As a gymnasium student in Hlukhiv he was already studying Ukrainian antiquities, and in 1904 he showed his drawings for the first time at a district exhibition.
+Heorhii Narbut was born in 1886 at the Narbutivka homestead near Hlukhiv, into an impoverished gentry family descended from the old Cossack officer class. He learned to draw mostly on his own: as a child he had no paints or pencils, so he cut figures out of coloured paper with scissors and glued them down. As a gymnasium student in Hlukhiv he was already studying Ukrainian antiquities, and in 1904 he showed his drawings for the first time at a district exhibition.
 
 ## Books in St Petersburg
 
@@ -27,11 +27,13 @@ In 1906 Narbut moved to St Petersburg. There he worked in the studios of Mstisla
 
 ## How to draw a state
 
-In the spring of 1917 Narbut returned to Kyiv. He became one of the organizers and a professor of the Ukrainian Academy of Arts, and in 1918 its rector. Together with [Mykhailo Boichuk](/en/people/mykhailo-boichuk/) and [Vasyl Krychevskyi](/en/people/vasyl-krychevskyi/), he is credited with shaping the style of Ukrainian art in the 1920s and 1930s. He drafted designs for the state coat of arms and seal, and in July 1918 Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/) approved his small state seal: a Cossack with a musket on his shoulder, with the trident above. Twelve issues of money and securities were printed to Narbut’s designs in 1918–1920: notes of 100 karbovantsi and 10, 100 and 500 hryvnias, postage stamps and bonds. Among his other designs were stamps with portraits of [Hryhorii Skovoroda](/en/people/hryhorii-skovoroda/) and Hetman [Petro Doroshenko](/en/people/petro-doroshenko/).
+In the spring of 1917 Narbut returned to Kyiv. He became one of the organizers and a professor of the Ukrainian Academy of Arts, and in 1918 its rector. When the Bolsheviks took the academy’s premises, Narbut taught his students in his own flat. Together with [Mykhailo Boichuk](/en/people/mykhailo-boichuk/) and [Vasyl Krychevskyi](/en/people/vasyl-krychevskyi/), he is credited with shaping the style of Ukrainian art in the 1920s and 1930s. He drafted designs for the state coat of arms and seal, and in July 1918 Hetman [Pavlo Skoropadskyi](/en/people/pavlo-skoropadskyi/) approved his small state seal: a Cossack with a musket on his shoulder, with the trident above. His designs also included military uniforms. Twelve issues of money and securities were printed to Narbut’s designs in 1918–1920: notes of 100 karbovantsi and 10, 100 and 500 hryvnias, postage stamps and bonds. The 500-hryvnia note, with a girl’s head in a wreath, his favourite allegory of “Young Ukraine”, was jokingly nicknamed “horpynka” by the public. Among his other designs were stamps with portraits of [Hryhorii Skovoroda](/en/people/hryhorii-skovoroda/) and Hetman [Petro Doroshenko](/en/people/petro-doroshenko/).
+
+In revolutionary Kyiv Narbut had a Cossack zhupan coat and yellow boots made for himself, and in company he sometimes even wore a prop sabre. With friends he invented a nobleman, Lupa Hrabuzdov, gave him a family tree and wrote humorous texts in his name. He is said to have drawn equally well with his right and left hand and to have had a phenomenal visual memory: he could reproduce a complex ornament he had seen once, without a mistake, years later.
 
 ## An alphabet and an unfinished Aeneid
 
-Narbut’s best-known book is the Ukrainian Alphabet (1917, 1919), considered a masterpiece of Ukrainian graphic art. In 1919 he began illustrating [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/)’s Eneida but did not live to finish it. Narbut died of typhus in Kyiv on 23 May 1920 and was buried at the Baikove Cemetery.
+Narbut’s best-known book is the Ukrainian Alphabet (1917, 1919), which joins the traditions of Ukrainian manuscript and printed books with the innovations of Western European artists, and Cossack, baroque and folk motifs with new graphic design. It is considered a masterpiece of Ukrainian graphic art. In 1919 he began illustrating [Ivan Kotliarevskyi](/en/people/ivan-kotliarevskyi/)’s Eneida but did not live to finish it. Narbut died of typhus in Kyiv on 23 May 1920 and was buried at the Baikove Cemetery.
 
 ## Why it matters today
 
