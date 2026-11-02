@@ -3,7 +3,7 @@ name: Михайло Остроградський
 gender: male
 born: 1801-09-24
 died: 1862-01-01
-last_reviewed: 2026-11-01
+last_reviewed: 2026-11-02
 era: 19th-century
 group: science
 tags: [scientist]
@@ -32,6 +32,7 @@ image:
   position: "50% 20%"
   author: "Петро Борель (літографія за фото Андрія Деньєра)"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:PGRS_2_069_Ostrogradski_-_crop.jpg"
 sources:
   - title: "Енциклопедія історії України - Остроградський Михайло Васильович (автор - Л. О. Гаврилюк)"
@@ -54,7 +55,8 @@ sources:
     url: "https://arxiv.org/html/2608.24941"
 related: [ivan-kotliarevskyi, taras-shevchenko]
 collections: [science-founders]
-status: draft
+status: approved
+published: 2026-11-02T22:00:38Z
 ---
 
 ## Хлопець, який міряв криниці
