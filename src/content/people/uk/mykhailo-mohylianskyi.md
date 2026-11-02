@@ -3,7 +3,7 @@ name: Михайло Могилянський
 gender: male
 born: 1873-12-04
 died: 1942-03-22
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-01
 era: 20th-century
 group: literature
 tags: [writer]
@@ -22,6 +22,7 @@ image:
   position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Михаил_Могилянский.jpg"
 key_accomplishments:
   - "Збірка «Оповідання» (1916); роман «Честь» (1929, надрукований 1990)"
@@ -49,7 +50,8 @@ sources:
     url: https://uk.wikipedia.org/wiki/Могилянський_Михайло_Михайлович
 related: [mykola-khvylovyi, mykola-zerov, pavlo-fylypovych, mykhailo-drai-khmara, mykhailo-kotsiubynskyi, mykhailo-hrushevskyi]
 collections: [neoclassicists]
-status: draft
+status: approved
+published: 2026-11-02T03:58:08Z
 ---
 
 ## Вікно в задушливій кімнаті
