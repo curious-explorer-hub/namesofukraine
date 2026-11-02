@@ -99,6 +99,7 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 | Стефанія Шабатура | 1938–2014 | Tapestry artist (visual-arts) | 👩 | sixtiers | Gap research 2026-11-01. Lviv artist; political prisoner (1972–1979), refused to recant. Check against Mokryk's roster |
 | Ніна Строката-Караванська | 1925–1998 | Microbiologist, dissident (civic) | 👩 🌍 | sixtiers | Gap research 2026-11-01. Odesa; political prisoner (1972–1976); wife of Sviatoslav Karavanskyi (`sviatoslav-karavanskyi`); Ukrainian Helsinki Group (check). Already mentioned in three profiles |
 | Сергій Прокоф'єв | 1891–1953 | Composer (performing-arts) | 🌍 | | Gap research 2026-11-01; owner: go (2026-11-01). Born in Sontsivka (Donetsk oblast); a world-famous Russian and Soviet composer. State the connection precisely (§7.5): born in Ukraine |
+| Таїсія Онофрійчук | b. c. 2008 | Rhythmic gymnast (sport) | 👩 🟢 | | Owner suggestion 2026-11-01. World champion with hoop (Frankfurt, 2026, 30.700), Ukraine's first world gold in rhythmic gymnastics since 2013 (Суспільне Спорт, champion.com.ua); European all-around champion (2025); world bronze (2025). Check the birth date and spelling (some sites give «Онуфрійчук») against the NOC or the national federation; no Olympic medal, so not `olympians` |
 
 ## Needs a decision
 
