@@ -52,6 +52,7 @@ sources:
     url: "https://uamodna.com/articles/georgiy-narbut-try-desyatyrichchya/"
 related: [pavlo-skoropadskyi, mykhailo-boichuk, hryhorii-skovoroda, petro-doroshenko, ivan-kotliarevskyi, vasyl-krychevskyi]
 collections: [ukrainian-revolution]
+audio: { duration: "1:47" }
 status: approved
 published: 2026-10-19T20:20:22Z
 ---

@@ -50,6 +50,7 @@ sources:
     url: "https://zaxid.net/nbu_zaprovadzhuye_v_obig_kupyuri_u_1000_grn_n1484096"
 related: [serhii-korolov, mykola-amosov, pavlo-skoropadskyi, ahatanhel-krymskyi, oleksandr-bohomolets]
 collections: [money-people]
+audio: { duration: "2:11" }
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
