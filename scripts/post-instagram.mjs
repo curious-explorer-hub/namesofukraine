@@ -111,8 +111,11 @@ async function main() {
   };
 
   const { user_id } = await api('me', { fields: 'user_id' }, 'GET');
+  // Meta keeps images it fetched for up to a day (our max-age), so a repost would reuse old cards; a fresh query
+  // string makes it fetch them again. Pages ignores the query and serves the same file.
+  const version = `?v=${Date.now()}`;
   const children = [];
-  for (const image_url of slides) children.push(await ready((await api(`${user_id}/media`, { image_url, is_carousel_item: 'true' })).id));
+  for (const url of slides) children.push(await ready((await api(`${user_id}/media`, { image_url: url + version, is_carousel_item: 'true' })).id));
   const { id: carousel } = await api(`${user_id}/media`, { media_type: 'CAROUSEL', children: children.join(','), caption: text });
   const { id } = await api(`${user_id}/media_publish`, { creation_id: await ready(carousel) });
   const { permalink } = await api(id, { fields: 'permalink' }, 'GET');
