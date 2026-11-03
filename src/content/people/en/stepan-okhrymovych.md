@@ -9,7 +9,7 @@ key_accomplishments:
   - "Delegate to the First Congress of Ukrainian Nationalists in Vienna (1929), which founded the OUN"
   - "First organizational officer (1929–1930) and propaganda officer (1930–1931) of the OUN’s regional executive; wrote the “Oath of the Ukrainian Nationalist”"
 birthplace_name: "Skole"
-image_alt: "Black-and-white photo portrait of young Stepan Okhrymovych with thick hair combed to the side and a small moustache, in a jacket and an open-collared shirt"
+image_alt: "Photo portrait of young Stepan Okhrymovych with thick dark hair and a small moustache, in a navy jacket, white shirt and grey tie, with a fleur-de-lis pin on his lapel"
 ---
 
 ## Who brought Bandera into the underground?
@@ -32,7 +32,7 @@ In spring 1931 the Polish police arrested Okhrymovych. He was tortured during th
 
 ## Debates and assessments
 
-Sources describe his highest post in different ways. Some say that after the regional leader Yuliian Holovinskyi was killed in autumn 1930, Okhrymovych headed the OUN in the western Ukrainian lands until his arrest. Others call him only an officer of the regional executive. In those years the OUN fought the Polish authorities, including by terrorist methods, among them political killings. Okhrymovych worked mainly as an organizer and ideologist of the youth movement, and historians still judge the OUN ideology he helped shape in different ways.
+Sources describe his highest post in different ways. Some say that after the regional leader Yuliian Holovinskyi was killed in autumn 1930, Okhrymovych headed the OUN in the western Ukrainian lands until his arrest. Others call him only an officer of the regional executive. In those years the OUN fought the Polish authorities, including by radical methods, among them political killings. Okhrymovych worked mainly as an organizer and ideologist of the youth movement, and historians still judge the OUN ideology he helped shape in different ways.
 
 ## Why it matters today
 
