@@ -173,10 +173,11 @@ export function instagramSlides(p: Person): Slide[] {
 }
 
 export async function instagramSlide(p: Person, slide: Slide, n: number, total: number) {
-  const size = (chars: number) => (chars > 560 ? 36 : chars > 400 ? 40 : slide.text?.includes('\n') || chars > 220 ? 46 : chars > 140 ? 54 : 62);
+  const size = (chars: number) => (chars > 960 ? 32 : chars > 560 ? 36 : chars > 400 ? 40 : slide.text?.includes('\n') || chars > 220 ? 46 : chars > 140 ? 54 : 62);
   const length = slide.text?.length ?? slide.items?.join('').length ?? 0;
   return render(
-    h('div', { display: 'flex', flexDirection: 'column', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink, borderTop: `16px solid ${C.wheat}`, padding: '72px 80px 64px' }, [
+    // border-box: Satori adds padding and border to width and height otherwise, pushing the text past the right edge.
+    h('div', { display: 'flex', flexDirection: 'column', boxSizing: 'border-box', width: IG_W, height: IG_H, background: C.paper, fontFamily: 'Fixel Text', color: C.ink, borderTop: `16px solid ${C.wheat}`, padding: '72px 80px 64px' }, [
       h('div', { display: 'flex', justifyContent: 'space-between', fontSize: 30, color: C.slate }, [h('div', {}, t('site.title', 'uk')), h('div', {}, `${n}/${total}`)]),
       h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }, [
         h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 44, color: C.cobalt, marginBottom: 36 }, slide.label),
@@ -199,7 +200,7 @@ export async function siteCard(lang: Lang, people: Person[]) {
     people.filter((p) => freeImage(p)).slice(0, 6).map((p) => tintedPortrait(p.slug, 180, 180)),
   );
   return render(
-    h('div', { display: 'flex', flexDirection: 'column', width: W, height: H, background: C.paper, padding: '64px 72px', fontFamily: 'Fixel Text', color: C.ink, borderBottom: `12px solid ${C.wheat}` }, [
+    h('div', { display: 'flex', flexDirection: 'column', boxSizing: 'border-box', width: W, height: H, background: C.paper, padding: '64px 72px', fontFamily: 'Fixel Text', color: C.ink, borderBottom: `12px solid ${C.wheat}` }, [
       h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 30 }, t('site.title', lang)),
       h('div', { display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }, [
         h('div', { fontFamily: 'Fixel Display', fontWeight: 700, fontSize: 84, lineHeight: 1, letterSpacing: -3, maxWidth: 900 }, t('home.title', lang)),
