@@ -12,6 +12,7 @@ key_accomplishments:
   - "Order of Bohdan Khmelnytskyi, 3rd class (decree No. 754/2014 of 6 October 2014, posthumously)"
   - "Hero of Ukraine with the Order of the Gold Star (decree No. 350/2016 of 23 August 2016, posthumously); promoted to major posthumously in 2021"
 birthplace_name: "Peresichne, Kharkiv region"
+image_alt: "Serhii Kolodii in a dark green military uniform with shoulder boards, a white shirt and a black tie"
 ---
 
 ## Where the call sign “Rubizh” came from
