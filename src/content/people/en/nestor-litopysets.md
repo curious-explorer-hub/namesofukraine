@@ -12,7 +12,7 @@ key_accomplishments:
   - "Traditionally, the compiler of the Tale of Bygone Years (c. 1113), the chronicle’s first redaction"
   - "The Tale became the basis of most later chronicles, including the Kyiv and the Galician-Volhynian Chronicles"
 birthplace_name: "Unknown"
-image_alt: "Nestor the Chronicler, a grey-bearded monk in a black hood bent over a manuscript; painting by Kornylo Ustyianovych, 1901"
+image_alt: "Nestor the Chronicler, a grey-bearded monk in a dark hood bent over a manuscript; painting by Kornylo Ustyianovych, 1901"
 ---
 
 ## A night in the cave with a hoe

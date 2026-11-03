@@ -5,7 +5,7 @@ born: 1056-01-01
 born_circa: true
 died: 1114-01-01
 died_circa: true
-last_reviewed: 2026-11-01
+last_reviewed: 2026-11-02
 era: kyivan-rus
 group: literature
 tags: [writer, religious]
@@ -18,10 +18,11 @@ misconception:
 birthplace: { name: "Невідомо", region: unknown, country: UA }
 image:
   src: ./images/nestor-litopysets.jpg
-  alt: "Нестор Літописець - сивобородий чернець у чорному каптурі схилився над рукописом; картина Корнила Устияновича, 1901"
+  alt: "Нестор Літописець - сивобородий чернець у темному каптурі схилився над рукописом; картина Корнила Устияновича, 1901"
   position: "50% 35%"
   author: "Корнило Устиянович, «Літописець Нестор» (1901), Національний музей у Львові"
   license: "Public domain"
+  ai_edit: restored
   source_url: "https://commons.wikimedia.org/wiki/File:%D0%9B%D1%96%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D0%B5%D1%86%D1%8C_%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80_(1901).jpg"
 key_accomplishments:
   - "Житія Бориса і Гліба та Феодосія Печерського - твори, авторство яких вважають безсумнівним"
@@ -43,7 +44,8 @@ sources:
   - title: Вікіпедія - Нестор Літописець
     url: https://uk.wikipedia.org/wiki/Нестор_Літописець
 related: [volodymyr-velykyi, kniahynia-olha, sviatoslav-khorobryi, yaroslav-mudryi, volodymyr-monomakh]
-status: draft
+status: approved
+published: 2026-11-03T02:36:41Z
 ---
 
 ## Ніч із мотикою в печері
