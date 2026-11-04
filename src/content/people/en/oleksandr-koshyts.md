@@ -15,7 +15,7 @@ key_accomplishments:
   - "Five liturgies and dozens of choral arrangements of folk songs"
   - "Memoirs and the diary “With a Song Around the World”"
 birthplace_name: "Romashky"
-image_alt: "Oleksandr Koshyts in a dinner jacket and bow tie, a black-and-white photograph from the 1920s"
+image_alt: "Oleksandr Koshyts with a moustache, in a dinner jacket and bow tie, in a study; a photograph from the 1920s"
 ---
 
 ## The choir that told the world about Ukraine

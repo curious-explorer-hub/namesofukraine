@@ -3,7 +3,7 @@ name: Олександр Кошиць
 gender: male
 born: 1875-09-12
 died: 1944-09-21
-last_reviewed: 2026-11-01
+last_reviewed: 2026-11-04
 era: 20th-century
 group: performing-arts
 tags: [musician]
@@ -16,9 +16,10 @@ misconception:
 birthplace: { name: "Ромашки", region: kyiv, country: UA, lat: 49.909, lon: 31.276 }
 image:
   src: ./images/oleksandr-koshyts.jpg
-  alt: "Олександр Кошиць у смокінгу з метеликом, чорно-біла світлина 1920-х років"
+  alt: "Олександр Кошиць з вусами, у смокінгу з метеликом, у кабінеті, світлина 1920-х років"
   author: "Bain News Service"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Oleksander_Koshetz.jpg"
 key_accomplishments:
   - "Керівник Української республіканської капели (згодом Український національний хор), яка з 1919 року виступила в 17 країнах Європи та Америки"
@@ -53,7 +54,8 @@ sources:
   - title: Wikipedia (EN) - Alexander Koshetz
     url: https://en.wikipedia.org/wiki/Alexander_Koshetz
 related: [mykola-leontovych, symon-petliura, mykola-lysenko, mykola-sadovskyi, taras-shevchenko]
-status: draft
+status: approved
+published: 2026-11-04T23:17:59Z
 ---
 
 ## Хор, який розповідав світові про Україну
