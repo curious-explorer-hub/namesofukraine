@@ -3,7 +3,7 @@ name: Ананій Лебідь
 gender: male
 born: 1898-01-11
 died: 1937-12-08
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-04
 era: 20th-century
 group: literature
 tags: [scientist, writer]
@@ -47,7 +47,8 @@ sources:
     url: "https://www.library.vspu.edu.ua/vistavki/kocubinskiy/publik_pro/material/konf1.pdf"
 related: [mykhailo-kotsiubynskyi, serhii-yefremov, ahatanhel-krymskyi, maksym-rylskyi, mykola-zerov, pavlo-fylypovych, marko-voronyi]
 collections: [executed-renaissance, neoclassicists]
-status: draft
+status: approved
+published: 2026-11-04T22:17:08Z
 ---
 
 ## Рукописи Коцюбинського
