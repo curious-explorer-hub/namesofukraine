@@ -14,7 +14,7 @@ key_accomplishments:
   - "Rector of the Ukrainian Free University in Prague (1945)"
   - "Hero of Ukraine with the Order of the State (posthumously, decree No. 257/2002 of 15 March 2002)"
 birthplace_name: "Kelechyn, Zakarpattia"
-image_alt: "A young Avhustyn Voloshyn in clerical dress with a white collar, black-and-white photograph"
+image_alt: "Avhustyn Voloshyn in round glasses and clerical dress with a white collar"
 ---
 
 ## The president who taught children to read

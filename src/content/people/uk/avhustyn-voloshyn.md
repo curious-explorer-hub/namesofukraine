@@ -3,7 +3,7 @@ name: Августин Волошин
 gender: male
 born: 1874-03-17 # ЕСУ, ЕІУ, IEU: 17 March 1874, Kelechyn (some school biographies: 18 March)
 died: 1945-07-19 # ЕСУ, ЕІУ, IEU, Закарпаття онлайн: 19 July 1945, Moscow prison (ЕСУ: Lefortovo, then Butyrka; ДНПБ: Butyrka prison hospital)
-last_reviewed: 2026-11-01
+last_reviewed: 2026-11-04
 era: 20th-century
 group: statehood
 tags: [politician, religious]
@@ -18,11 +18,12 @@ places:
   - { name: "Москва", lat: 55.756, lon: 37.617, note: "помер у радянській в'язниці 1945 року" }
 image:
   src: ./images/avhustyn-voloshyn.jpg
-  alt: "Молодий Августин Волошин у священницькому вбранні з білим комірцем, чорно-біле фото"
+  alt: "Августин Волошин у круглих окулярах і священницькому вбранні з білим комірцем"
   position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%BB%D0%BE%D1%88%D0%B8%D0%BD_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD.jpg"
+  ai_edit: colorized
+  source_url: "https://commons.wikimedia.org/wiki/File:Avgustyn_Voloshyn.jpg"
 key_accomplishments:
   - "Учитель, а з 1917 до 1938 року директор Ужгородської учительської семінарії"
   - "Автор понад 40 книжок: букварів, читанок, граматик, підручників з педагогіки"
@@ -56,7 +57,8 @@ sources:
   - title: "Указ Президента України № 257/2002 «Про присвоєння звання Герой України» (15 березня 2002)"
     url: "https://zakon.rada.gov.ua/laws/show/257/2002"
 related: [mykhailo-verbytskyi, pavlo-chubynskyi, oleh-olzhych]
-status: draft
+status: approved
+published: 2026-11-04T16:43:55Z
 ---
 
 ## Президент, який учив дітей читати
