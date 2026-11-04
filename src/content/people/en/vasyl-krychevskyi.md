@@ -13,7 +13,7 @@ key_accomplishments:
   - "The Taras Shevchenko memorial museum by his grave in Kaniv (co-designer)"
   - "Book design, including Mykhailo Hrushevskyi’s Illustrated History of Ukraine"
 birthplace_name: "Vorozhba"
-image_alt: "Vasyl Krychevskyi with a moustache, in a dark high-collared jacket, seated with his hands folded; black-and-white photo from the early 1910s"
+image_alt: "Vasyl Krychevskyi with a moustache, in a dark blue jacket and a high-collared shirt, seated with his hands folded; photo from the early 1910s"
 ---
 
 ## An architect with no diploma

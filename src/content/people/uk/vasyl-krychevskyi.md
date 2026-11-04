@@ -3,7 +3,7 @@ name: Василь Кричевський
 gender: male
 born: 1873-01-12
 died: 1952-11-15
-last_reviewed: 2026-11-01
+last_reviewed: 2026-11-04
 era: 20th-century
 group: visual-arts
 tags: [artist]
@@ -19,10 +19,11 @@ places:
   - { name: "Каракас", lat: 10.481, lon: -66.904, note: "останні роки життя (1948–1952), місце смерті" }
 image:
   src: ./images/vasyl-krychevskyi.jpg
-  alt: "Василь Кричевський з вусами, у темній куртці з високим коміром, сидить, склавши руки, чорно-біле фото початку 1910-х років"
+  alt: "Василь Кричевський з вусами, у темно-синій куртці й сорочці з високим коміром, сидить, склавши руки, фото початку 1910-х років"
   position: "50% 25%"
   author: "Невідомий автор"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Krychevsky_Vasyl_1910s-early.jpg"
 key_accomplishments:
   - "Великий і Малий державні герби та печатки УНР, затверджені 22 березня 1918 року"
@@ -53,7 +54,8 @@ sources:
     url: "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%87%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
 related: [mykhailo-hrushevskyi, heorhii-narbut, mykhailo-boichuk, oleksandr-murashko, varvara-khanenko, mykola-sadovskyi, oleksandr-dovzhenko, mykola-hohol, taras-shevchenko, volodymyr-velykyi]
 collections: [ukrainian-revolution]
-status: draft
+status: approved
+published: 2026-11-04T22:19:57Z
 ---
 
 ## Архітектор без диплома
