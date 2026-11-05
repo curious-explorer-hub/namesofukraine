@@ -10,7 +10,7 @@ key_accomplishments:
   - "One of the first sermons in Ukrainian (Lviv, 1836)"
   - "The first Ukrainian sonnets; translations from The Tale of Ihor’s Campaign and of the Gospels into living Ukrainian (1842)"
 birthplace_name: "Pidlyssia"
-image_alt: "Pencil portrait of Markiian Shashkevych by Ivan Trush"
+image_alt: "Pencil portrait of Markiian Shashkevych by Ivan Trush, in colour"
 ---
 
 ## A thousand books, and the police took eight hundred

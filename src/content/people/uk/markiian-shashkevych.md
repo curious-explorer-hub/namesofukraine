@@ -3,7 +3,7 @@ name: Маркіян Шашкевич
 gender: male
 born: 1811-11-06
 died: 1843-06-07
-last_reviewed: 2026-11-01
+last_reviewed: 2026-11-04
 era: 19th-century
 group: literature
 tags: [poet, writer, religious]
@@ -18,9 +18,10 @@ key_accomplishments:
 birthplace: { name: "Підлисся", region: lviv, country: UA, lat: 49.934, lon: 24.819 }
 image:
   src: ./images/markiian-shashkevych.jpg
-  alt: "Портрет Маркіяна Шашкевича роботи Івана Труша, олівець"
+  alt: "Портрет Маркіяна Шашкевича роботи Івана Труша, олівець, у кольорі"
   author: "Іван Труш"
   license: "Public domain"
+  ai_edit: colorized
   source_url: "https://commons.wikimedia.org/wiki/File:Markian_Shashkevych.jpg"
 sources:
   - title: "Енциклопедія історії України - Шашкевич Маркіян Семенович"
@@ -42,7 +43,8 @@ sources:
   - title: Вікіпедія - Маркіян Шашкевич
     url: https://uk.wikipedia.org/wiki/Маркіян_Шашкевич
 related: [ivan-kotliarevskyi, mykhailo-verbytskyi]
-status: draft
+status: approved
+published: 2026-11-05T01:49:08Z
 ---
 
 ## Тисяча книжок, і вісімсот забрала поліція
