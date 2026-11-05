@@ -33,7 +33,7 @@ After the First World War Zakarpattia became part of Czechoslovakia. Voloshyn le
 
 In autumn 1938 Czechoslovakia granted the region autonomy, and on 26 October Voloshyn became head of its government, which later worked from Khust. On 14 March 1939 Voloshyn proclaimed the independence of Carpatho-Ukraine. The next day the Diet in Khust confirmed it: Ukrainian became the state language, blue and yellow the colours of the flag, and “Shche ne vmerla Ukraina”, with words by [Pavlo Chubynskyi](/en/people/pavlo-chubynskyi/) and music by [Mykhailo Verbytskyi](/en/people/mykhailo-verbytskyi/), the anthem. The deputies elected Voloshyn president unanimously.
 
-By then the Hungarian army was already advancing. On 16 March the Carpathian Sich fought their biggest battle at Krasne Pole near Khust. That same day Voloshyn left with part of the government through Romania, and on 18 March the last defenders stopped resisting.
+By then the Hungarian army was already advancing. On 16 March the Carpathian Sich fought their biggest battle at Krasne Pole near Khust. That same day Voloshyn left with part of the government through Romania, and on 18 March the last defenders stopped resisting. Among those killed was the Carpathian Sich's chief of staff, [Mykhailo Kolodzinskyi](/en/people/mykhailo-kolodzinskyi/).
 
 ## Prague and Moscow
 

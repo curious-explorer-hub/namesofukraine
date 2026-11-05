@@ -24,7 +24,7 @@ Stepan Bandera was born in 1909 in the village of Staryi Uhryniv in Prykarpattia
 
 The OUN split in 1940, as younger radicals refused to accept the leadership of [Andrii Melnyk](/en/people/andrii-melnyk/), and Bandera became leader of its revolutionary wing, the OUN-B. On 30 June 1941 in Lviv his followers, led by [Yaroslav Stetsko](/en/people/yaroslav-stetsko/), proclaimed the Act of Restoration of the Ukrainian State. Berlin reacted sharply, but Bandera refused to revoke the Act. He was imprisoned first in Berlin and then, from 1942 until the autumn of 1944, in the Zellenbau, a special block for political prisoners at Sachsenhausen concentration camp. His family suffered too: in 1941 a Soviet court sentenced his father, the priest Andrii Bandera, to be shot, and three of his sisters spent many years in Stalin’s camps. Two of his brothers, Oleksandr and Vasyl, died in Auschwitz in 1942.
 
-After the war Bandera lived in exile in Munich under the name Stefan Popel and headed the OUN’s Foreign Units. On 15 October 1959 he was killed by KGB agent Bohdan Stashynskyi, with a special pistol that fired a cyanide-based poison, hidden in a newspaper.
+After the war Bandera lived in exile in Munich under the name Stefan Popel and headed the OUN’s Foreign Units. On 15 October 1959 he was killed by KGB agent Bohdan Stashynskyi, with a special pistol that fired a cyanide-based poison, hidden in a newspaper. Two years earlier the same agent had killed [Lev Rebet](/en/people/lev-rebet/) in Munich the same way.
 
 ## Debates and assessments
 

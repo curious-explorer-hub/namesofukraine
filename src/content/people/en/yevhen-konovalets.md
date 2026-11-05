@@ -30,7 +30,7 @@ The Riflemen helped put down a Bolshevik uprising in Kyiv and, in the spring of 
 
 After the defeat of the independence struggle, Konovalets did not stop fighting. In 1920 the Ukrainian Military Organization (UVO) was founded with his participation, together with [Andrii Melnyk](/en/people/andrii-melnyk/), and he became its leader. In 1922, facing arrest, he left the country and lived in Czechoslovakia, Germany, Switzerland and Italy. In 1929 he became the first leader of the Organization of Ukrainian Nationalists (OUN). From exile he built an underground network, set up Ukrainian information bureaus across Europe and tried to bring the Ukrainian question, including the Holodomor, before the League of Nations.
 
-On 23 May 1938 Konovalets was killed in Rotterdam by the Soviet agent Pavel Sudoplatov.
+On 23 May 1938 Konovalets was killed in Rotterdam by the Soviet agent Pavel Sudoplatov. His tombstone in Rotterdam (1939) was made by the sculptor and poet [Oksana Liaturynska](/en/people/oksana-liaturynska/).
 
 ## Debates and assessments
 

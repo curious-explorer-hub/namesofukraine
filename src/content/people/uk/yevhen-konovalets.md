@@ -35,7 +35,7 @@ sources:
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CO%5CKonovaletsYevhen.htm"
   - title: Wikipedia (EN) - Yevhen Konovalets
     url: https://en.wikipedia.org/wiki/Yevhen_Konovalets
-related: [stepan-bandera, roman-shukhevych, olena-teliha, marko-bezruchko, andrii-melnyk]
+related: [stepan-bandera, roman-shukhevych, olena-teliha, marko-bezruchko, andrii-melnyk, oksana-liaturynska]
 collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-07T06:23:13Z
@@ -53,7 +53,7 @@ published: 2026-10-07T06:23:13Z
 
 Після поразки визвольних змагань Коновалець не припинив боротьби. 1920 року за його участі разом з [Андрієм Мельником](/uk/people/andrii-melnyk/) створили Українську військову організацію (УВО), яку він очолив. 1922-го через загрозу арешту він виїхав за кордон і жив у Чехо-Словаччині, Німеччині, Швейцарії та Італії. 1929 року став першим головою Організації українських націоналістів (ОУН). З еміграції він будував підпільну мережу, засновував українські інформаційні бюро в Європі й намагався винести українське питання, зокрема Голодомор, на розгляд Ліги Націй.
 
-23 травня 1938 року Коновальця вбив у Роттердамі агент радянських спецслужб Павло Судоплатов.
+23 травня 1938 року Коновальця вбив у Роттердамі агент радянських спецслужб Павло Судоплатов. Надгробок на його могилі в Роттердамі (1939) створила скульпторка й поетеса [Оксана Лятуринська](/uk/people/oksana-liaturynska/).
 
 ## Дискусії та оцінки
 

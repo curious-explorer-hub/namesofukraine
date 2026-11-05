@@ -22,7 +22,7 @@ Dmytro Dontsov was born on 29 August 1883 in Melitopol, into a well-off russian-
 
 ## Against the “Little Russians”
 
-At a student congress in Lviv in 1913, Dontsov attacked the “Little Russian” outlook of the Ukrainian intelligentsia and called for political separation from russia. Socialists criticized the speech, and so did Lenin. Soon afterwards Dontsov broke with the social democrats, and in 1914 he became the first head of the Union for the Liberation of Ukraine, but left it within a month. In Kyiv in 1918 he ran the Ukrainian Telegraph Agency and the state press bureau of the Ukrainian State, but he left when the Hetman’s government proclaimed a federation with russia.
+At a student congress in Lviv in 1913, Dontsov attacked the “Little Russian” outlook of the Ukrainian intelligentsia and called for political separation from russia. Socialists criticized the speech, and so did Lenin. Soon afterwards Dontsov broke with the social democrats, and in 1914 he became the first head of the Union for the Liberation of Ukraine, which [Andrii Zhuk](/en/people/andrii-zhuk/) also co-founded, but left it within a month. In Kyiv in 1918 he ran the Ukrainian Telegraph Agency and the state press bureau of the Ukrainian State, but he left when the Hetman’s government proclaimed a federation with russia.
 
 ## The editor in Lviv
 
