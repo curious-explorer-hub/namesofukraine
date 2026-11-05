@@ -18,11 +18,12 @@ key_accomplishments:
 birthplace: { name: "Русів", region: ivano-frankivsk, country: UA, lat: 48.515, lon: 25.525 }
 image:
   src: ./images/vasyl-stefanyk.jpg
-  alt: "Портрет Василя Стефаника роботи Івана Труша, 1896 рік: молодий чоловік з бородою, у темному піджаку"
+  alt: "Фотопортрет Василя Стефаника кінця XIX століття, у кольорі: чоловік з густою бородою, у темному твідовому піджаку й синій краватці"
   position: "50% 30%"
-  author: "Іван Труш"
+  author: "Брунон Калішевський"
   license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8%D0%BA.jpg"
+  source_url: "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8%D0%BA_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C.jpg"
+  ai_edit: colorized
 sources:
   - title: "Енциклопедія історії України - Стефаник Василь Семенович"
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Stefanyk_V"
@@ -43,7 +44,8 @@ sources:
   - title: Вікіпедія - Стефаник Василь Семенович
     url: https://uk.wikipedia.org/wiki/Стефаник_Василь_Семенович
 related: [ivan-franko, andrei-sheptytskyi, ivan-kotliarevskyi, lesya-ukrainka, mykhailo-kotsiubynskyi, olena-pchilka, hnat-khotkevych, mykhailo-starytskyi, hryhorii-kosynka, oles-honchar, hryhir-tiutiunnyk, ivan-drach, volodymyr-blavatskyi]
-status: draft
+status: approved
+published: 2026-11-05T02:57:46Z
 ---
 
 ## Пенсія, роздана мідяками

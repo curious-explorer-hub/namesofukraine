@@ -10,7 +10,7 @@ key_accomplishments:
   - "Vice-president of the Ukrainian National Rada of the West Ukrainian People’s Republic; part of its delegation to Kyiv for the Act of Union (1919)"
   - "Turned down a Soviet personal pension in protest against the Holodomor (1933)"
 birthplace_name: "Rusiv"
-image_alt: "Portrait of Vasyl Stefanyk by Ivan Trush, 1896: a young bearded man in a dark jacket"
+image_alt: "Photograph of Vasyl Stefanyk from the late 19th century, in colour: a man with a thick beard in a dark tweed jacket and a blue tie"
 ---
 
 ## A pension handed out in coppers
