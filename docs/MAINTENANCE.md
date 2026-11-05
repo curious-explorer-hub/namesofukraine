@@ -10,7 +10,7 @@ Readers send messages through «Зворотний зв'язок» / "Feedback" 
 
 #### 1. Pull the submissions
 
-**Every Monday at 07:00 UTC an email digest** of the past week's messages arrives (workflow `.github/workflows/feedback-digest.yml`, the same summary as below, with emails shown); in a week without messages nothing is sent. There's no email per message. To read messages at any other time, or if a digest didn't come:
+**Every Monday at 07:00 UTC an email digest** of the past week's messages arrives (workflow `.github/workflows/feedback-digest.yml`, the same summary as below, with emails shown); in a week without messages it still comes, with the subject "no new messages", so a missing Monday email means the digest is broken. There's no email per message. To read messages at any other time, or if a digest didn't come:
 
 - **Terminal (the usual way)**, from the repository folder; the first time, run `npx wrangler login`:
 

@@ -1,7 +1,8 @@
 name: Weekly feedback digest
 
 # Every Monday, emails the owner the past week's feedback-form messages (D19): the same summary as
-# `npm run feedback -- --show-email` (docs/MAINTENANCE.md). Nothing is sent in a week without messages.
+# `npm run feedback -- --show-email` (docs/MAINTENANCE.md). A week without messages still gets an email,
+# so a missing one means the digest itself is broken.
 # The repository is public and so are run logs: the messages go only into the email, never to the log.
 on:
   schedule:
@@ -35,10 +36,10 @@ jobs:
           MAIL_TO: ${{ secrets.FEEDBACK_MAIL_TO }}
         run: |
           digest="$RUNNER_TEMP/digest.md"
-          if grep -q '^Nothing new' "$digest"; then echo "No new messages this week; nothing sent."; exit 0; fi
-          count=$(head -1 "$digest" | sed -E 's/.*: ([0-9]+) message.*/\1/')
+          if grep -q '^Nothing new' "$digest"; then count=0; else count=$(head -1 "$digest" | sed -E 's/.*: ([0-9]+) message.*/\1/'); fi
+          if [ "$count" = 0 ]; then subject='Feedback digest: no new messages'; else subject="Feedback digest: $count new message(s)"; fi
           {
-            printf 'From: Know Your Own <%s>\r\nTo: %s\r\nSubject: Feedback digest: %s new message(s)\r\n' "$MAIL_USER" "$MAIL_TO" "$count"
+            printf 'From: Know Your Own <%s>\r\nTo: %s\r\nSubject: %s\r\n' "$MAIL_USER" "$MAIL_TO" "$subject"
             printf 'Content-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n'
             cat "$digest"
           } > "$RUNNER_TEMP/mail.txt"
