@@ -3,7 +3,7 @@
 name: "Danylo of Halych"
 role: "First king of Rus’"
 summary: "He lost his father and became a refugee at four, and half a century later he received the crown of the King of Rus’ from the pope. Danylo of Halych spent thirty years winning back his father’s state and kept it alive between the Horde and Europe."
-fun_fact: "Lviv appeared in Danylo’s time: its founding is dated to 1256, and the city was named after Danylo’s son Lev."
+fun_fact: "The name “Halytskyi” (“of Halych”) appeared in writing only in the early 19th century. Danylo himself had to take Halych by force at least six times."
 key_accomplishments:
   - "Unified Volhynia (by 1229) and Galicia (1238), restoring his father’s Galician-Volhynian state"
   - "Victory at the Battle of Yaroslav (1245) over a coalition of rivals, boyars and their Hungarian and Polish allies"
@@ -20,11 +20,11 @@ Danylo was the elder son of Prince Roman Mstyslavych, who first united Galicia a
 
 ## Thirty years for his father’s inheritance
 
-Danylo started with Volhynia: by the end of the 1220s he and his brother had united its lands. Halych took longer. He won it only in 1238, when the townspeople backed him. In 1240 the Mongols took Kyiv, then held for Danylo by his voivode Dmytro, and destroyed the main cities of Rus’. Yet in 1245, at Yaroslav, Danylo defeated a coalition of the Chernihiv prince Rostyslav, rebellious boyars and their Hungarian and Polish allies. Galicia was finally his.
+Danylo started with Volhynia: by the end of the 1220s he and his brother had united its lands. In 1223 he fought the Mongols at the Battle of the Kalka and was wounded there. In spring 1238 he took back the Volhynian town of Dorohychyn from the knights of the Order of Dobrzyń. Halych took longer: he won it for good that same year, when the townspeople backed him. In 1240 the Mongols took Kyiv, then held for Danylo by his voivode Dmytro, and destroyed the main cities of Rus’. Yet in 1245, at Yaroslav, Danylo defeated a coalition of the Chernihiv prince Rostyslav, rebellious boyars and their Hungarian and Polish allies. Galicia was finally his.
 
 ## A crown from Rome
 
-To keep his state alive, in 1246 Danylo went to the Horde and accepted the khan’s overlordship. At the same time he prepared to resist: he built the fortresses of Kholm and Kremenets, moved his capital to Kholm, created an infantry of peasants and looked for allies in the West. In 1253, in Dorohychyn, a papal envoy handed him a crown and scepter from Pope Innocent IV, and Danylo became the first king of Rus’. The promised crusade against the Horde never came, and in 1260 the Mongol commander Burundai forced him to tear down the walls of many towns. Danylo died in 1264 in Kholm and was buried in its cathedral.
+To keep his state alive, in 1246 Danylo went to the Horde and accepted the khan’s overlordship. At the same time he prepared to resist: he built the fortresses of Kholm and Kremenets, moved his capital to Kholm, created an infantry of peasants and looked for allies in the West. Late in 1253, in Dorohychyn, the papal envoy Opizo handed him a crown and scepter from Pope Innocent IV, and Danylo became the first king of Rus’. In 1256 the chronicle first mentions Lviv: the city arose in Danylo’s time and was named after his son Lev. The promised crusade against the Horde never came, and in 1260 the Mongol commander Burundai forced him to tear down the walls of many towns. Danylo died in 1264 in Kholm and was buried in its cathedral.
 
 ## Why it matters today
 
