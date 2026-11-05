@@ -20,15 +20,15 @@ image_alt: "Portrait of Petro Konashevych-Sahaidachnyi by Havrylo Vasko, mid-19t
 
 About 4,000 Cossacks landed near Kaffa in Crimea in the summer of 1616. It was a strong Turkish fortress and a great slave market. The Cossacks took the city, home to some 80,000 people, and freed many Christian captives. They were led by their newly elected hetman, Petro Konashevych-Sahaidachnyi.
 
-He was born in the village of Kulchytsi near Sambir in the Lviv region; the exact date is unknown, and about 1582 is usually given. He studied at the Ostroh school and then left for the Zaporozhian Sich.
+He was born in the village of Kulchytsi near Sambir in the Lviv region; the exact date is unknown, and about 1582 is usually given. He studied at the Ostroh school and then left for the Zaporozhian Sich. That is probably where he got the nickname Sahaidachnyi: it is linked to the word sahaidak, a quiver for arrows, and explained by his skill as an archer.
 
 ## From a free host to an army
 
-Sahaidachnyi reformed the Cossack forces: he divided them into companies and regiments, imposed strict discipline and banned drinking on sea campaigns. In 1618 he led a 20,000-strong army to support Prince Władysław’s campaign against Moscow.
+Sahaidachnyi reformed the Cossack forces: he divided them into companies and regiments, imposed strict discipline and banned drinking on sea campaigns. In 1618 he led a 20,000-strong army to support Prince Władysław’s campaign against Moscow. The Cossacks reached the city itself and on 11 October took part in an assault on its fortifications, but Moscow was not taken.
 
 The hetman cared about more than the army. He joined the Kyiv Brotherhood together with the entire Zaporozhian Host, supported the brotherhood school, and in 1620 helped restore the Orthodox hierarchy.
 
-In 1621 at Khotyn about 40,000 Cossacks under Sahaidachnyi, together with the Polish-Lithuanian army, stopped the Ottoman forces. This wrecked Sultan Osman II’s offensive against the Commonwealth. The hetman was badly wounded in the war and died in Kyiv the following year.
+In 1621 Sultan Osman II brought an army of almost 160,000 to Khotyn, along with thousands of camels and even four war elephants. About 40,000 Cossacks under Sahaidachnyi, together with the Polish-Lithuanian army, stopped it. The Sultan’s offensive against the Commonwealth collapsed, and he had to make the Peace of Khotyn with it. The hetman was badly wounded in the war and died in Kyiv the following year. Before he died he left a large fortune to education and the Church, including the brotherhood schools of Kyiv, Lviv and Lutsk.
 
 ## Debates and assessments
 
