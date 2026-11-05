@@ -3,7 +3,7 @@
 name: "Oksana Liaturynska"
 role: "Poet and sculptor of the Prague school"
 summary: "The monument that stood on Yevhen Konovalets’s grave in Rotterdam for 87 years was designed by a poet. Oksana Liaturynska ran away from home to escape an arranged marriage, became a sculptor and one of the first Prague school poets, and spent her last years in Minneapolis."
-fun_fact: "Besides her poems and sculptures, Oksana Liaturynska painted pysanky, Easter eggs decorated with old folk symbols going back to pre-Christian times, and made puppets for children’s theatres and ceramics."
+fun_fact: "Besides her poems and sculptures, Oksana Liaturynska painted pysanky, Easter eggs decorated with old folk symbols going back to pre-Christian times, and made puppets for children’s theatres and ceramics. In 1986 a book called Velykodnii peredzvin (Easter Chimes) came out in Toronto: 20 of her poems together with 28 reproductions."
 key_accomplishments:
   - "The poetry collections Husla (1938) and Kniazha emal (The Princely Enamel, 1941), which made her one of the first Prague school poets"
   - "The monument on Yevhen Konovalets’s grave in Rotterdam (1939) and a monument to fallen Ukrainian soldiers in Pardubice (1932)"
@@ -23,15 +23,15 @@ Oksana (Zinaida) Liaturynska was born in 1902 in Volhynia, on the Lisky farmstea
 
 ## A sculptor in Prague
 
-In Prague Liaturynska studied philosophy at Charles University and sculpture at the Ukrainian Studio of Plastic Arts, in the class of Kost Stakhovskyi, and at the Czech School of Applied Arts. She modelled animals, portraits and monuments: in 1932 she made a monument to fallen Ukrainian soldiers in Pardubice, and she sculpted busts of [Taras Shevchenko](/en/people/taras-shevchenko/), [Symon Petliura](/en/people/symon-petliura/) and Konovalets. Her work was shown at exhibitions in London, Paris and Berlin. Many of her sculptures were lost during the Second World War.
+In Prague Liaturynska studied philosophy at Charles University and sculpture at the Ukrainian Studio of Plastic Arts, in the class of Kost Stakhovskyi, and at the Czech School of Applied Arts. She modelled animals, portraits and monuments: in 1932 she made a monument to fallen Ukrainian soldiers in Pardubice, and she sculpted busts of [Taras Shevchenko](/en/people/taras-shevchenko/), [Symon Petliura](/en/people/symon-petliura/) and Konovalets. She left out the sheepskin coat and hat that Shevchenko usually wore in sculpture, and the art historian Volodymyr Sichynskyi counted her bust among the best ever made of him. Her work was shown at exhibitions in London, Paris and Berlin. Almost all of her sculptures were destroyed after a Soviet air raid on Prague.
 
 ## A poet of the Prague school
 
-Liaturynska found her voice as a poet in Prague. Her poems are short and spare, and she took her themes from Ukraine’s distant past and its myths. Her collections Husla (1938) and Kniazha emal (The Princely Enamel, 1941) placed her among the first poets of the Prague school, a circle that also includes [Yevhen Malaniuk](/en/people/yevhen-malaniuk/), [Olena Teliha](/en/people/olena-teliha/) and [Oleh Olzhych](/en/people/oleh-olzhych/). She met all three in Prague. She also wrote under pen names, among them Roksana Vyshnevetska and Oksana Cherlenivna.
+Liaturynska found her voice as a poet in Prague. One of her first published poems, "A Duma of the Bloodied Shirt", signed with the pen name Oksana Pechenih, honours the schoolboys who were killed at Kruty. Her poems are short and spare, and she took her themes from Ukraine’s distant past and its myths. Her collections Husla (1938) and Kniazha emal (The Princely Enamel, 1941) placed her among the first poets of the Prague school, a circle that also includes [Yevhen Malaniuk](/en/people/yevhen-malaniuk/), [Olena Teliha](/en/people/olena-teliha/) and [Oleh Olzhych](/en/people/oleh-olzhych/). She met all three in Prague. She also wrote under pen names, among them Roksana Vyshnevetska and Oksana Cherlenivna.
 
 ## From a camp to Minneapolis
 
-After the war Liaturynska ended up in a camp for displaced persons in Aschaffenburg, Germany, where she made a gravestone for Professor Arkadii Zhyvotko. In 1946 her story collection Materynky came out. In 1949 she moved to the United States and settled in Minneapolis, where she published the children’s verse Bedryk (1956) and a second edition of The Princely Enamel. Oksana Liaturynska died in Minneapolis on 13 June 1970. Her collection Yahilka appeared after her death, in 1971, and her Collected Works were published in Toronto in 1983.
+After the war Liaturynska ended up in a camp for displaced persons in Aschaffenburg, Germany, where she made a gravestone for Professor Arkadii Zhyvotko. In 1946 her story collection Materynky came out. In 1949 she moved to the United States and settled in Minneapolis, where she published the children’s verse Bedryk (1956) and a second edition of The Princely Enamel. She had begun losing her hearing while still in Europe, and in America even a hearing aid no longer helped: to talk with her, people wrote on paper. Oksana Liaturynska died in Minneapolis on 13 June 1970. Her collection Yahilka appeared after her death, in 1971, and her Collected Works were published in Toronto in 1983.
 
 ## Why it matters today
 

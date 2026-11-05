@@ -22,17 +22,21 @@ As a young man he played football for a team called Khortytsia, joined Plast, th
 
 ## An officer stripped of his rank
 
-Kolodzinskyi served in the Polish army and graduated from its officer cadet school. In 1928 he entered the law faculty of Lviv University, but the underground came first. From 1929 he was in charge of military training in the regional leadership of the Organization of Ukrainian Nationalists (OUN). The Polish authorities stripped him of his officer’s rank and arrested him several times; in all he spent almost three years in prison.
+Kolodzinskyi served in the Polish army and graduated from its officer cadet school. He entered the law faculty of Lviv University (in 1927 or 1928; sources differ), but the underground came first. On 1 November 1928, the tenth anniversary of the November Uprising, a blue-and-yellow flag embroidered with the letters UVO appeared over St George’s Cathedral in Lviv. Two UVO members had hung it, and Kolodzinskyi was one of them. From then on the Polish police kept a close watch on him.
+
+His pamphlet “The Polish Uprising of 1863” came out under the pen name “M. Budzhak”. Investigators said it urged Ukrainians to fight Poland the way the Poles themselves had once risen against Moscow’s rule. From 1929 he was in charge of military training in the regional leadership of the Organization of Ukrainian Nationalists (OUN). The Polish authorities stripped him of his officer’s rank and arrested him several times; in all he spent almost three years in prison.
 
 ## A teacher of guerrilla war
 
-In 1933 Kolodzinskyi went abroad to work for the OUN leadership in exile, headed by [Yevhen Konovalets](/en/people/yevhen-konovalets/). In Italy he taught guerrilla warfare at the courses of the Croatian revolutionaries, the Ustaše, with whom the OUN was then cooperating. After 1934 the Italian authorities interned the Ukrainians, and it was then that Kolodzinskyi began his main work, the “Military Doctrine of Ukrainian Nationalists”. He finished it in 1938. Its first part was printed only after his death, and the full text was not published until 2019.
+In 1933 Kolodzinskyi went abroad to work for the OUN leadership in exile, headed by [Yevhen Konovalets](/en/people/yevhen-konovalets/). In Italy he taught guerrilla warfare at the courses of the Croatian revolutionaries, the Ustaše, with whom the OUN was then cooperating. After 1934 the Italian authorities interned the Ukrainians. From 1935 Kolodzinskyi worked on his main work, the “Military Doctrine of Ukrainian Nationalists”.
+
+On 10 March 1938 [Yaroslav Stetsko](/en/people/yaroslav-stetsko/) sent him an official letter asking for a paper on Ukrainian military doctrine for an OUN journal by 1 June. What Kolodzinskyi wrote was far longer than any journal article. In its typescript, the mention of Konovalets’s death on 23 May 1938 is added by hand, so the work was mostly finished that spring. Its first part was printed only after his death, and the full text was not published until 2019.
 
 ## Colonel “Huzar” in Khust
 
-In 1938 Kolodzinskyi wrote a study of the military importance of Transcarpathia, and in January 1939 he arrived in Khust himself as Colonel “Huzar”. He became chief of staff of the Carpathian Sich: he formed its units, trained volunteers and drew up a plan for the region’s armed forces. On 14 March he led the defence of Khust in a clash with Czechoslovak troops.
+In 1938 Kolodzinskyi wrote a study of the military importance of Transcarpathia, and in January 1939 he arrived in Khust himself as Colonel “Huzar”. He became chief of staff of the Carpathian Sich: he formed its units, trained volunteers and drew up a plan for the region’s armed forces. On 13–14 March he led the defence of Khust in a clash with Czechoslovak troops, and laid down arms only when [Avhustyn Voloshyn](/en/people/avhustyn-voloshyn/) ordered it.
 
-On 15 March Carpatho-Ukraine declared independence, [Avhustyn Voloshyn](/en/people/avhustyn-voloshyn/) became its president, and Kolodzinskyi took command of its armed forces. The Hungarian army was already advancing. He refused to lay down arms and withdrew into the mountains with some of the Sich men to wage a guerrilla fight. On 18 March Hungarian troops captured his group and took them to Solotvyno. The next day, 19 March 1939, they shot Kolodzinskyi together with fifteen Sich men, among them his aide Zenon Kossak. He was 36. Some sources say he was killed in combat on 18 March.
+On 15 March Carpatho-Ukraine declared independence, Voloshyn became its president, and Kolodzinskyi took command of its armed forces. The Hungarian army was already advancing. The Hungarian envoy demanded that the Sich men lay down their arms, but Kolodzinskyi refused and withdrew into the mountains with some of them to wage a guerrilla fight. On 18 March Hungarian troops captured his group and took them to Solotvyno. Kolodzinskyi himself was badly wounded when he was taken prisoner. The next day, 19 March 1939, they shot Kolodzinskyi together with fifteen Sich men, among them his aide Zenon Kossak. He was 36. Some sources say he was killed in combat on 18 March.
 
 ## Debates and assessments
 

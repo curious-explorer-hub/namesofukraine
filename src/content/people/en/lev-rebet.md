@@ -26,11 +26,11 @@ Lev Rebet was born on 3 March 1912 in Stryi, in the Lviv region, the son of a po
 
 ## Summer 1941 and Auschwitz
 
-When the OUN split in 1940, Rebet sided with Bandera rather than [Andrii Melnyk](/en/people/andrii-melnyk/). On 30 June 1941 the Act of Restoration of the Ukrainian State was proclaimed in Lviv, and Rebet became one of the deputies of [Yaroslav Stetsko](/en/people/yaroslav-stetsko/), head of the Ukrainian State Administration. The Germans refused to recognize the Act and that summer arrested Stetsko and Bandera. Rebet then took over their duties in Lviv. In September 1941 the Nazis arrested him too, and until 1944 he was a prisoner in the Auschwitz concentration camp.
+After Poland was carved up in 1939, Rebet moved to Kraków, joined the OUN’s Central Executive and ran its intelligence work. When the OUN split in 1940, Rebet sided with Bandera rather than [Andrii Melnyk](/en/people/andrii-melnyk/). On 30 June 1941 the Act of Restoration of the Ukrainian State was proclaimed in Lviv, and Rebet became one of the deputies of [Yaroslav Stetsko](/en/people/yaroslav-stetsko/), head of the Ukrainian State Administration. The Germans refused to recognize the Act and that summer arrested Stetsko and Bandera. Rebet then took over their duties in Lviv. On 14 September 1941 the Nazis arrested him too, and until 1944 he was a prisoner in the Auschwitz concentration camp.
 
 ## A scholar in exile
 
-After the war Rebet settled in Munich. He was chief judge of the OUN abroad, earned a doctorate and taught constitutional law at the Ukrainian Free University, where he became a professor. He wrote about how the Ukrainian nation took shape and about what a nation and a state are. From 1955 he edited the journal “Ukrainskyi Samostiinyk”. Working beside him was his wife, Dariia Rebet, herself a prominent OUN figure.
+After the war Rebet settled in Munich. He was chief judge of the OUN abroad, in 1949 earned a doctorate with a thesis on “The State and the Nation”, and taught constitutional law at the Ukrainian Free University, where he became a professor. He wrote about how the Ukrainian nation took shape and about what a nation and a state are: his “Theory of the Nation” came out in 1955, and his book “Lights and Shadows of the OUN” only after his death, in 1964. From 1955 he edited the journal “Ukrainskyi Samostiinyk”. He wrote most of it himself, under various pen names, because there was no one else to write it. The family was poor, and he mended his own shoes. Working beside him was his wife, Dariia Rebet, herself a prominent OUN figure.
 
 ## The break with Bandera
 
@@ -38,7 +38,7 @@ Rebet wanted the OUN to become more democratic, as its own programme had promise
 
 ## Murder in Munich
 
-On 12 October 1957 Rebet was found dead on the stairs of the Munich building that housed his journal’s office. The doctors concluded that his heart had stopped. In fact he had been killed by the KGB agent Bohdan Stashynskyi, who sprayed poison into his face from a special device hidden in a newspaper. Rebet was 45. The truth came out only in 1961, when Stashynskyi fled to the West and confessed to killing both Rebet and Bandera. In 1962 a court in Karlsruhe sentenced him to eight years in prison, and placed the main blame on those in Moscow who had given the order. In 2010 Lev and Dariia Rebet were reburied in Lviv’s Lychakiv Cemetery.
+Soviet intelligence tried several times to kidnap Rebet. The agent Bohdan Stashynskyi was even told to find out whether a man at Rebet’s journal could slip something into his food, but the man was not close to the editor, and the idea was dropped. On 12 October 1957 Rebet was found dead on the stairs of the Munich building that housed his journal’s office. The doctors concluded that his heart had stopped. In fact he had been killed by Stashynskyi, who sprayed poison into his face from a special device hidden in a newspaper. Rebet was 45. The truth came out only in 1961, when Stashynskyi fled to the West and confessed to killing both Rebet and Bandera. For Rebet the KGB had rewarded him with a Contax camera; for Bandera, with the Order of the Red Banner. In 1962 a court in Karlsruhe sentenced him to eight years in prison, and placed the main blame on those in Moscow who had given the order. In 2010 Lev and Dariia Rebet were reburied in Lviv’s Lychakiv Cemetery.
 
 ## Debates and assessments
 
