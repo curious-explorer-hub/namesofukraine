@@ -20,15 +20,17 @@ quotes:
 
 ## Why wouldn’t they let her study?
 
-Kateryna Bilokur was born in 1900 in the village of Bohdanivka (then in Poltava Governorate, now Kyiv Oblast) and lived there all her life. Her parents didn’t want her to paint. In the early 1920s she set off for the Myrhorod College of Ceramic Art with two of her drawings, but she was turned away because she had no school certificate. She walked all the way home.
+Kateryna Bilokur was born in 1900 in the village of Bohdanivka (then in Poltava Governorate, now Kyiv Oblast) and lived there all her life. Her parents kept her out of school to save on clothes and shoes, so she taught herself to read and write. They forbade her to paint, scolded and punished her and destroyed her drawings: once a drawing of hers was thrown into the stove, for fear that no one would ever want to marry her. In the early 1920s she set off for the Myrhorod College of Ceramic Art with two of her drawings, but she was turned away because she had no school certificate. She walked all the way home. Later the Kyiv Theatre College turned her down for the same reason.
 
-So she taught herself, from nature. She made her first drawings with charcoal on a scrap of homespun linen, and she mixed her paints from beetroot, elderberry, viburnum, onion and herbs.
+So she taught herself, from nature. She made her first drawings with charcoal on a scrap of homespun linen, and she mixed her paints from beetroot, elderberry, viburnum, onion and herbs. She never picked flowers: she took her easel to living flowers and painted them from life.
+
+In the autumn of 1934, in despair at being forbidden to paint, Kateryna walked into a cold river; her mother reached her in time. After that her parents no longer stopped her from painting, but her legs, chilled that autumn, ached for the rest of her life.
 
 ## The letter that changed everything
 
-It began with a song on the radio. In the spring of 1940 Bilokur heard the singer Oksana Petrusenko and wrote her a letter. The letter reached specialists, and that same year Bilokur’s paintings were shown in Poltava, then in Kyiv in 1941.
+It began with a song on the radio. In the spring of 1940 Bilokur heard the singer Oksana Petrusenko and wrote her a letter, slipping into the envelope a scrap of cloth with a painted bunch of viburnum. The letter reached specialists, and that same year Bilokur’s paintings were shown in Poltava, then in Kyiv in 1941. In 1947 she was asked to paint a portrait of Stalin, which could have opened every door for her, but she refused. In 1949 she was admitted to the Union of Artists of Ukraine.
 
-In 1954 three of her canvases, among them “Tsar Kolos”, were shown at an international exhibition in Paris. Pablo Picasso is said to have praised them highly, though his words about her are reported in different ways. Two of those paintings never came back to Ukraine. In 1956 Bilokur was named People’s Artist of the Ukrainian SSR.
+In 1954 three of her canvases, “Tsar Kolos”, “Little Birch” and “Collective Farm Field”, were shown at an international exhibition in Paris. Pablo Picasso is said to have praised them highly, though his words about her are reported in different ways. Two of those paintings never came back to Ukraine. In 1956 Bilokur was named People’s Artist of the Ukrainian SSR. And on 14 November 2024 the International Astronomical Union named a crater on Mercury after her.
 
 ## Why it matters today
 
