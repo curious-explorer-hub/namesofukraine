@@ -34,7 +34,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/site.ts` | Site settings (feedback-form site key, social and donation URLs) |
 | `functions/api/feedback.ts`, `db/feedback.sql` | The feedback form's Pages Function and its D1 table (D19) |
 | `public/_headers`, `public/_redirects` | CSP and security headers; redirects |
-| `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), the weekly token check (`check-tokens.mjs`), feedback pull, readers' numbers for the Stats page (`pull-readers.mjs`, into the untracked `src/data/`), Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`; `preview-social.mjs` previews a post) |
+| `scripts/` | CI checks (`check-dist.mjs`, `check-audit.mjs`), the weekly token check (`check-tokens.mjs`), which names already have a profile or a candidate row (`check-names.mjs`), feedback pull, readers' numbers for the Stats page (`pull-readers.mjs`, into the untracked `src/data/`), Threads and Instagram posting (`post-threads.mjs`, `post-instagram.mjs`, shared `social.mjs`; `preview-social.mjs` previews a post) |
 
 ## Docs
 
@@ -49,7 +49,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How outside people contribute: principles, pull requests, licensing |
 | [docs/SECURITY.md](docs/SECURITY.md) | Repository protections, secrets, reporting, access model for collaborators |
 | [docs/LICENSE-CONTENT.md](docs/LICENSE-CONTENT.md) | Licenses for text, images, map data, fonts; the fair-use exceptions |
-| [docs/skills/](docs/skills/) | Claude Code skills for this repo (linked from `.claude/skills`): `fact-hunt` finds verified interesting facts for profiles before review |
+| [docs/skills/](docs/skills/) | Claude Code skills for this repo (linked from `.claude/skills`): `fact-hunt` finds verified interesting facts for profiles before review; `scout-people` finds candidates in Threads history accounts |
 
 ## Contribution principles
 
