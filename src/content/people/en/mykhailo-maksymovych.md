@@ -19,7 +19,7 @@ image_alt: "Imagined portrait of an elderly Mykhailo Maksymovych with glasses an
 
 ## Twenty-one days
 
-Can one holiday change a whole field of study? Mykhailo Maksymovych was born in 1804 on the Tymkivshchyna farmstead in the Poltava region (now the village of Bohuslavets in Cherkasy Oblast), into an impoverished noble family with Cossack roots. After secondary school in Novhorod-Siverskyi he graduated from Moscow University and stayed on as a botanist, running the botanical garden and teaching.
+Can one holiday change a whole field of study? Mykhailo Maksymovych was born in 1804 on the Tymkivshchyna farmstead in the Poltava region (now the village of Bohuslavets in Cherkasy Oblast), into an impoverished noble family with Cossack roots. His mother came from the Tymkovskyi family, and all five of her brothers became well-known scholars. After secondary school in Novhorod-Siverskyi he graduated from Moscow University and stayed on as a botanist, running the botanical garden and teaching.
 
 Worn out after his master’s exam, Maksymovych took 21 days’ leave and went home to his parents in Ukraine. He came back to Moscow with a rich “harvest” of folk songs. In 1827 he published Little Russian Songs, 127 Ukrainian songs. He saw in them proof of a people’s own identity, and wrote them down in a spelling of his own, the maksymovychivka.
 
@@ -42,6 +42,8 @@ After retiring, Maksymovych settled on his estate of Mykhailova Hora near Zoloto
 ## Who lived in ancient Kyiv?
 
 The russian historian Mikhail Pogodin claimed that the people of princely Kyiv were “Great Russians”. After the Mongol invasion, he said, they moved north, the land stood empty, and in the 14th and 15th centuries settlers from Transcarpathia filled it again. Maksymovych answered with his essay On the Alleged Desolation of Ukraine (1857) and with letters to Pogodin. He showed that the theory rested on faulty ground: life on the Kyiv land had never been broken off, and princely Rus’ and Cossack Ukraine were one history.
+
+As early as 1837 Maksymovych spoke out against the Normanist theory, which held that Rus’ was founded by Scandinavians: the founders of the Kyivan state, he argued, were Slavic tribes. In his Philological Letters to Pogodin (1856) he used folk songs and The Tale of Igor’s Campaign to show that Ukrainian is an old language in its own right, not a spoiled “dialect” of russian.
 
 ## A gift from Shevchenko
 
