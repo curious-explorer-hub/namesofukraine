@@ -20,7 +20,7 @@ Did you know that of all the regiments Ukrainianized at the front, only one made
 
 ## The Haidamaky
 
-After the revolution of 1917, Petriv set about Ukrainianizing units on the Western Front. From the Ukrainians of the 7th Turkestan Rifle Division he formed the Kost Hordiienko Haidamaka Regiment. The regiment reached Kyiv and fought the Bolsheviks in its streets. In the spring of 1918 his mounted haidamaky helped free Left-Bank Ukraine from the Bolsheviks and rode in the Crimean campaign of the Zaporozhian Corps.
+After the revolution of 1917, Petriv set about Ukrainianizing units on the Western Front. From the Ukrainians of the 7th Turkestan Rifle Division he formed the [Kost Hordiienko](/en/people/kost-hordiienko/) Haidamaka Regiment. The regiment reached Kyiv and fought the Bolsheviks in its streets. In the spring of 1918 his mounted haidamaky helped free Left-Bank Ukraine from the Bolsheviks and rode in the Crimean campaign of the Zaporozhian Corps.
 
 ## General and minister
 

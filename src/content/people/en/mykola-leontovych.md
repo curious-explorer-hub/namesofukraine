@@ -33,7 +33,7 @@ How does a piece of homework become a world hit? Professor Boleslav Yavorskyi, w
 
 In May 1919, at St Nicholas Cathedral in Kyiv, a church service was held to Leontovych’s music, his Liturgy of St John Chrysostom. It was the first church service in the Ukrainian language. He then began a fantasy opera, “On Rusalka Easter”, based on a fairy tale by Borys Hrinchenko, but did not live to finish it.
 
-On 23 January 1921, in his parents’ home in the village of Markivka, Leontovych was murdered by Afanasii Hryshchenko, an agent of the Haisyn Cheka, whom he had let stay the night. The composer Myroslav Skoryk completed the opera, and it premiered in December 1977, 100 years after Leontovych was born.
+On 23 January 1921, in his parents’ home in the village of Markivka, Leontovych was murdered by Afanasii Hryshchenko, an agent of the Haisyn Cheka, whom he had let stay the night. The composer [Myroslav Skoryk](/en/people/myroslav-skoryk/) completed the opera, and it premiered in December 1977, 100 years after Leontovych was born.
 
 ## Why it matters today
 

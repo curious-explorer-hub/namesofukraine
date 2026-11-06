@@ -34,7 +34,7 @@ sources:
     url: "https://resource.history.org.ua/cgi-bin/eiu/history.exe?Z21ID=&I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Petriv_V"
   - title: "Internet Encyclopedia of Ukraine - Petriv, Vsevolod"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CE%5CPetrivVsevolod.htm"
-related: [bohdan-khmelnytskyi, yaroslav-stetsko]
+related: [bohdan-khmelnytskyi, yaroslav-stetsko, kost-hordiienko]
 collections: [ukrainian-revolution]
 status: approved
 published: 2026-10-18T00:31:11Z
@@ -46,7 +46,7 @@ published: 2026-10-18T00:31:11Z
 
 ## Гайдамаки
 
-Після революції 1917 року Петрів узявся українізувати війська Західного фронту. З українців 7-ї Туркестанської стрілецької дивізії він сформував Гайдамацький полк імені Костя Гордієнка. Полк дістався Києва й узяв участь у вуличних боях із більшовиками. Навесні 1918 року кінні гайдамаки під його командуванням звільняли від більшовиків Лівобережжя і ходили в Кримський похід Запорізького корпусу.
+Після революції 1917 року Петрів узявся українізувати війська Західного фронту. З українців 7-ї Туркестанської стрілецької дивізії він сформував Гайдамацький полк імені [Костя Гордієнка](/uk/people/kost-hordiienko/). Полк дістався Києва й узяв участь у вуличних боях із більшовиками. Навесні 1918 року кінні гайдамаки під його командуванням звільняли від більшовиків Лівобережжя і ходили в Кримський похід Запорізького корпусу.
 
 ## Генерал і міністр
 

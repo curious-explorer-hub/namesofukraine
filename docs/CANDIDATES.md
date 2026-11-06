@@ -20,16 +20,6 @@ Facts in Notes are **unverified** unless a source is named: check each against t
 
 | Person | Years | Field (group) | Flags | For | Notes |
 |---|---|---|---|---|---|
-| Василь Зінкевич | b. 1945 | Singer (performing-arts) | 🟢 | chervona-ruta | Owner suggestion 2026-10-31. Sang with «Смерічка» alongside Назарій Яремчук; songs by Івасюк |
-| Мирослав Скорик | 1938–2020 | Composer (performing-arts) | | chervona-ruta | Owner suggestion 2026-10-31. «Мелодія»; music for «Тіні забутих предків». Check how far he belongs to the 1960–70s pop scene |
-| Катерина Ющенко | 1919–2001 | Computer scientist (science) | 👩 | science-founders | Owner suggestion 2026-10-31. Created the Address programming language (1955), one of the first high-level languages |
-| Олесь Доній | b. 1969 | Student leader (civic) | 🟢 | independence-1991 | Owner suggestion 2026-10-31. A leader of the 1990 student hunger strike (Revolution on Granite). Later an MP: public role only (§7.6) |
-| Кость Гордієнко | ?–1733 | Koshovyi otaman (statehood) | | cossack-state | Owner suggestion 2026-10-31. Led the Zaporozhian Sich to side with Mazepa in 1709 |
-| Олександра Екстер | 1882–1949 | Painter, stage designer (visual-arts) | 👩 🌍 | avant-garde (idea) | Owner suggestion 2026-10-31. Cubo-futurism; her Kyiv studio trained a generation of avant-garde artists; emigrated to Paris in 1924. State the Ukrainian connection precisely |
-| Олександр Богомазов | 1880–1930 | Painter, theorist (visual-arts) | | avant-garde (idea) | Owner suggestion 2026-10-31. Kyiv cubo-futurist; treatise «Живопис та елементи» |
-| Ганна Собачко-Шостак | 1883–1965 | Decorative painter (visual-arts) | 👩 | avant-garde (idea) | Owner suggestion 2026-10-31. Folk decorative painting from the Kyiv region, shown alongside the avant-garde. Check the "inspired European artists" claim |
-| Мелетій Смотрицький | c. 1577–1633 | Linguist, churchman (literature) | ⚖️ | academy founders (idea) | Owner suggestion 2026-10-31. «Граматика» (1619), the standard Church Slavonic grammar for two centuries. Moved to the Uniate Church in 1627: needs a debates section |
-| Єлисей Плетенецький | c. 1550–1624 | Archimandrite (faith) | | academy founders (idea) | Owner suggestion 2026-10-31. Head of the Kyiv Pechersk Lavra from 1599; founded the Lavra printing house. Check the Radomyshl paper mill claim |
 | Іван Кучугура-Кучеренко | 1878–1937 | Kobzar (performing-arts) | | executed kobzars (idea) | Owner suggestion 2026-10-31. Shot in 1937. Check the "People's Artist of the Ukrainian SSR (1925)" claim |
 | Михайло Кравченко | 1858–1917 | Kobzar (performing-arts) | | executed kobzars (idea) | Owner suggestion 2026-10-31. Myrhorod kobzar, dumas about 1905. Died in 1917, so not a victim of the 1930s repressions: fits a kobzar collection only if it is wider than the repressions |
 | Єгор Мовчан | 1898–1968 | Kobzar (performing-arts) | | executed kobzars (idea) | Owner suggestion 2026-10-31. Blind kobzar who kept the classical duma repertoire. Survived the 1930s: same scope question as Кравченко |
