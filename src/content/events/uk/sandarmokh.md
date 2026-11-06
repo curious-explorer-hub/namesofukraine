@@ -1,6 +1,5 @@
 ---
 name: "Сандармох"
-collection: sandarmokh
 start: 1937-10-27
 end: 1937-11-04
 era: 20th-century
@@ -22,6 +21,7 @@ timeline:
   - { when: "1 липня 1997", text: "Почалися перші розкопки: у лісі знайшли 236 розстрільних ям" }
   - { when: "27 жовтня 1997", text: "Перші Дні пам'яті в Сандармосі, з делегацією з України" }
   - { when: "2004", text: "Постав гранітний козацький хрест «Убієнним синам України»" }
+people: [les-kurbas, mykola-kulish, mykola-zerov, valerian-pidmohylnyi, pavlo-fylypovych, valerian-polishchuk, marko-voronyi, hryhorii-epik, oleksa-slisarenko, myroslav-irchan, stepan-rudnytskyi]
 sources:
   - title: "Енциклопедія Сучасної України - Соловецькі розстріли 1937—38 (автор - Ю. І. Шаповал)"
     url: "https://esu.com.ua/article-889386"

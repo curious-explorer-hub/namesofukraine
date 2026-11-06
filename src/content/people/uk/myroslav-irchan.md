@@ -37,7 +37,7 @@ sources:
   - title: "Internet Encyclopedia of Ukraine - Irchan, Myroslav (автори - I. Koshelivets, R. Senkus)"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CI%5CR%5CIrchanMyroslav.htm"
 related: [mykola-kulish, les-kurbas, ivan-franko, vasyl-stefanyk]
-collections: [executed-renaissance, sandarmokh]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-18T17:19:38Z
 ---

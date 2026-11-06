@@ -38,7 +38,7 @@ sources:
   - title: "Локальна історія - Я. Цимбал, «Олекса Слісаренко. Опонент великодержавного шовінізму»"
     url: "https://sandarmoh.localhistory.org.ua/slisarenko"
 related: [mykola-khvylovyi, mykola-kulish, valerian-pidmohylnyi, valerian-polishchuk]
-collections: [executed-renaissance, sandarmokh]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-18T02:23:06Z
 ---

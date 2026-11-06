@@ -463,22 +463,6 @@
         "license": "",
         "source_url": ""
       }
-    },
-    {
-      "id": "sandarmokh",
-      "draft": true,
-      "label": { "uk": "Сандармох", "en": "Sandarmokh" },
-      "description": {
-        "uk": "Українці, яких 1937 року вивезли із Соловків і розстріляли в карельському лісі Сандармох, - письменники, митці, вчені й діячі УНР.",
-        "en": "Ukrainians taken from the Solovki prison in 1937 and shot in Sandarmokh, a forest in Karelia: writers, artists, scholars and leaders of the Ukrainian People's Republic."
-      },
-      "image": {
-        "file": "sandarmokh.jpg",
-        "caption": { "uk": "Козацький хрест «Убієнним синам України» в урочищі Сандармох", "en": "The Cossack cross “To the murdered sons of Ukraine” at Sandarmokh" },
-        "author": { "uk": "Оксана Юркова", "en": "Oksana Yurkova" },
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Wikiexpedition_to_Solovki_Yurkova_06.JPG"
-      }
     }
   ]
 }

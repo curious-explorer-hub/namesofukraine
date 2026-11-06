@@ -38,7 +38,7 @@ sources:
   - title: Вікіпедія - Вороний Марко Миколайович
     url: https://uk.wikipedia.org/wiki/Вороний_Марко_Миколайович
 related: [mykola-voronyi, mykhailo-kotsiubynskyi, volodymyr-sosiura, maksym-rylskyi, mykola-zerov, pavlo-fylypovych, ananii-lebid]
-collections: [executed-renaissance, sandarmokh]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-16T00:06:46Z
 ---

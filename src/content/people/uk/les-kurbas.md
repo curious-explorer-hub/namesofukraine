@@ -42,7 +42,7 @@ sources:
     url: "https://armyinform.com.ua/2021/02/25/pro-zhyttya-genialnogo-rezhysera-rozstrilyanogo-vidrodzhennya-lesya-kurbasa/"
 related: [oleksandr-dovzhenko, lesya-ukrainka, mykola-khvylovyi, ostap-vyshnia, mykola-zerov, myroslav-irchan, maik-yohansen, yosyp-hirniak]
 audio: { duration: "1:47" }
-collections: [executed-renaissance, sandarmokh]
+collections: [executed-renaissance]
 status: approved
 published: 2026-10-07T06:23:13Z
 ---
