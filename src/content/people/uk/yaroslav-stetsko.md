@@ -3,7 +3,7 @@ name: Ярослав Стецько
 gender: male
 born: 1912-01-19
 died: 1986-07-05
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-05
 era: 20th-century
 group: statehood
 tags: [politician]
@@ -17,10 +17,12 @@ places:
   - { name: "Мюнхен", lat: 48.137, lon: 11.575, note: "жив в еміграції з 1944; тут помер 1986 року" }
 image:
   src: ./images/yaroslav-stetsko.jpg
-  alt: "Фотопортрет Ярослава Стецька в окулярах"
-  author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Stecko.jpg"
+  alt: "Фотопортрет Ярослава Стецька в окулярах, з вусами, у темно-синьому двобортному костюмі й бордовій краватці, руки схрещені, у кольорі"
+  position: "50% 25%"
+  author: "Український інститут національної пам'яті"
+  license: "CC BY 4.0"
+  ai_edit: colorized
+  source_url: "https://uinp.gov.ua/istorychnyy-kalendar/sichen/19/1912-narodyvsya-yaroslav-stecko"
 key_accomplishments:
   - Ідеолог ОУН і член її Крайової екзекутиви на західноукраїнських землях (з 1932)
   - 30 червня 1941 року у Львові проголосив Акт відновлення Української держави й очолив Українське державне правління
@@ -50,7 +52,8 @@ sources:
   - title: Wikipedia (UK) - Стецько Ярослав Семенович
     url: "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%86%D1%8C%D0%BA%D0%BE_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
 related: [stepan-bandera, yevhen-konovalets, andrei-sheptytskyi, vasyl-kuk, yosyf-slipyi]
-status: draft
+status: approved
+published: 2026-11-06T01:30:19Z
 ---
 
 ## Уряд, що протримався менше двох тижнів

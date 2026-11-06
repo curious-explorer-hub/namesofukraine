@@ -9,7 +9,7 @@ key_accomplishments:
   - "Proclaimed the Act of Restoration of the Ukrainian State in Lviv on 30 June 1941 and headed the Ukrainian State Administration"
   - "President of the Anti-Bolshevik Bloc of Nations (1946–1986) and leader of the OUN-B (1968–1986)"
 birthplace_name: "Ternopil"
-image_alt: "Photograph of Yaroslav Stetsko wearing glasses"
+image_alt: "Photograph of Yaroslav Stetsko in glasses, with a moustache, in a dark blue double-breasted suit and burgundy tie, arms folded, in colour"
 quotes:
   - text: "The meaning of my whole life was, is and will be a free Ukraine, a Ukraine without serf and without lord. I believe in victory."
     source: "His last word at the Lviv trial, 26 June 1936 (as reported by the newspaper Dilo)"
