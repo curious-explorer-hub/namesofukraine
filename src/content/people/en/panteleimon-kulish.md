@@ -8,7 +8,7 @@ key_accomplishments:
   - "The novel The Black Council (in full, 1857), the first Ukrainian historical novel"
   - "The phonetic Kulishivka spelling, the basis of modern Ukrainian orthography"
   - "Hramatka (1857), the first Ukrainian-language primer in the russian empire"
-  - "A founder of the Brotherhood of Saints Cyril and Methodius (1845)"
+  - "A member of the circle of the Brotherhood of Saints Cyril and Methodius (1845–1847)"
   - "Translations of Shakespeare, Schiller, Goethe and Byron; a Ukrainian translation of the Bible"
 birthplace_name: "Voronizh"
 image_alt: "Panteleimon Kulish in profile, with a moustache, in a dark frock coat and bow tie, a photo from about 1869"
@@ -23,19 +23,21 @@ For his Notes on Southern Rus (1856–1857), Panteleimon Kulish invented a spell
 
 ## A boy with no money and no papers
 
-Kulish was born in 1819 in the small town of Voronizh in the Chernihiv region (now the Sumy region). He left the gymnasium in Novhorod-Siverskyi after the fifth form because he had no money. He got into Kyiv University as an auditing student, but in 1840 he was expelled: he had no papers proving noble birth.
+Kulish was born in 1819 in the small town of Voronizh in the Chernihiv region (now the Sumy region). His father was a well-off farmer from a family of Cossack officers, and his mother, a Cossack captain’s daughter, sang him old songs and told him stories of the past. The boy was sickly and did not speak until he was two, and from early on he loved to draw. He left the gymnasium in Novhorod-Siverskyi after the fifth form because he had no money. He got into Kyiv University as an auditing student, but in 1840 he was expelled: he had no papers proving noble birth.
 
 ## The brotherhood and exile
 
-In Kyiv Kulish grew close to Shevchenko and [Mykola Kostomarov](/en/people/mykola-kostomarov/), and at the end of 1845 he became one of the founders of the secret Brotherhood of Saints Cyril and Methodius. In 1847 he married Oleksandra Bilozerska, who later wrote as Hanna Barvinok. That same year he was arrested in Warsaw and exiled to Tula for three years, banned from writing.
+In Kyiv Kulish grew close to Shevchenko and [Mykola Kostomarov](/en/people/mykola-kostomarov/), and at the end of 1845 he became one of the founders of the secret Brotherhood of Saints Cyril and Methodius. Even so, he took no direct part in its work: from November 1845 he worked in St Petersburg and only wrote letters to its members. In 1846 a children’s magazine printed his Tale of the Ukrainian People, a popular history of Ukraine for children; during the investigation it became the main charge against him. In 1847 he married Oleksandra Bilozerska, who later wrote as Hanna Barvinok. That same year he was arrested in Warsaw and exiled to Tula for three years, banned from writing.
 
 ## The first historical novel
 
-In 1857 The Black Council came out in full, the first Ukrainian historical novel, in Ukrainian and in russian. In the russian edition Kulish argued for the political unity of Ukraine and russia, while stressing that Ukrainians were a distinct people. The same year he published Hramatka, the first Ukrainian-language primer in the russian empire. At his own press in St Petersburg he printed Shevchenko and edited the works of [Marko Vovchok](/en/people/marko-vovchok/).
+In 1857 The Black Council came out in full, the first Ukrainian historical novel, in Ukrainian and in russian. Kulish worked on it for about 14 years: the first mention of the idea dates from 1843. In the russian edition Kulish argued for the political unity of Ukraine and russia, while stressing that Ukrainians were a distinct people. The same year he published Hramatka, the first Ukrainian-language primer in the russian empire. At his own press in St Petersburg he printed Shevchenko and edited the works of [Marko Vovchok](/en/people/marko-vovchok/).
 
 ## Shakespeare and the Bible in Ukrainian
 
-Kulish translated Othello and other Shakespeare plays, as well as Schiller, Goethe and Byron; he is considered the father of Ukrainian literary translation. He brought [Ivan Puliui](/en/people/ivan-puliui/) into his translation of the Bible, and late in life he learned Hebrew for the Old Testament. The translation was finished after his death by Puliui and [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/).
+Kulish translated 13 Shakespeare plays, among them Othello, as well as works by Schiller, Goethe, Heine and Byron and ballads by Mickiewicz; he is considered the father of Ukrainian literary translation. He brought [Ivan Puliui](/en/people/ivan-puliui/) into his translation of the Bible, and late in life he learned Hebrew for the Old Testament, so as to translate from the original. In 1885 a fire on his Motronivka homestead destroyed nearly all his property and manuscripts, part of the Bible translation among them, and Kulish began the translation again. The translation was finished after his death by Puliui and [Ivan Nechui-Levytskyi](/en/people/ivan-nechui-levytskyi/).
+
+In his “homestead philosophy” Kulish saw the khutir, the farmstead, as the original home of Ukrainians, which gave them strength to resist russification and city life. He published under many pen names: Panko Kaziuka, Kozak Belében, Danylo Yus, Khutorianyn and others.
 
 Kulish spent his last years on the Motronivka homestead in the Chernihiv region, where he died in 1897 and is buried.
 
