@@ -21,19 +21,19 @@ image_alt: "Borys Baranov with a beard, in a white shirt and a dark jacket"
 
 ## From Kirov to Kryvyi Rih
 
-Borys Baranov was born in 1940 in the village of Sozinovy, now in russia’s Kirov Oblast. In 1966 he began working in Ukraine, at the combined heat and power plant of the steelworks in Kryvyi Rih. He spent ten years there and earned an engineering degree by correspondence.
+Borys Baranov was born in 1940 in the village of Sozinovy, now in russia’s Kirov Oblast. His mother was a village teacher, and his father was killed at the front in the Second World War, leaving two young sons, Borys and his older brother Viktor. After his military service Borys moved to Kryvyi Rih. In 1966 he began working at the steelworks’ combined heat and power plant, stayed there ten years, and in 1974 graduated by correspondence from the Ukrainian Correspondence Polytechnic Institute as a heat-power engineer.
 
 ## Shift supervisor
 
-In 1976 Baranov moved to the Chornobyl Nuclear Power Plant, where for many years he was a shift supervisor. He was working there when Unit 4 exploded on 26 April 1986.
+In 1976 Baranov moved to the Chornobyl Nuclear Power Plant: he worked as a senior turbine control engineer, then deputy shift supervisor, and from 1983 as the station’s shift supervisor. That same year, 1976, he lost his wife and raised their one-year-old son and six-year-old daughter on his own. Colleagues remembered him as calm, tactful and modest, but highly principled and level-headed. He was working there when Unit 4 exploded on 26 April 1986.
 
 ## Water under the reactor
 
-There was still water under the wrecked reactor. If the molten nuclear fuel had reached it, a second, even more powerful explosion could have followed. Baranov, with the engineers [Oleksii Ananenko](/en/people/oleksii-ananenko/) and [Valerii Bespalov](/en/people/valerii-bespalov/), went down into the flooded space beneath the unit and opened the valves by hand to drain the water. A legend later grew around them: three divers swimming in the dark who soon died. In fact, research suggests the water was only about knee-deep, and all three survived. Baranov worked at the plant for another 19 years.
+There was still water under the wrecked reactor. If the molten nuclear fuel had reached it, a second, even more powerful explosion could have followed. Baranov, with the engineers [Oleksii Ananenko](/en/people/oleksii-ananenko/) and [Valerii Bespalov](/en/people/valerii-bespalov/), went down into the flooded space beneath the unit in early May 1986. Baranov led the group to the spot and held the lamp, while Ananenko and Bespalov, almost in the dark, found and opened the valves by hand to drain the water. A legend later grew around them: three divers swimming in the dark who soon died. In fact, research suggests the water was only about knee-deep, and all three survived. Their descent is shown in HBO’s series Chernobyl (2019), where Baranov appears under his own name. Baranov worked at the plant for another 19 years.
 
 ## Remembered
 
-Borys Baranov died in Kyiv on 6 April 2005. In 2018 he was posthumously awarded the Order for Courage, 3rd class, and on 27 June 2019 the president made him a Hero of Ukraine (posthumously), together with Oleksii Ananenko and Valerii Bespalov, for heroism during the clean-up of the Chornobyl disaster.
+Borys Baranov died in Kyiv on 6 April 2005. In 2018 he was posthumously awarded the Order for Courage, 3rd class, and on 27 June 2019 the president made him a Hero of Ukraine with the Order of the Golden Star (posthumously), together with Oleksii Ananenko and Valerii Bespalov, for heroism during the clean-up of the Chornobyl disaster.
 
 ## Why it matters today
 
