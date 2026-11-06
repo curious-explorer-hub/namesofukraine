@@ -13,7 +13,7 @@ key_accomplishments:
   - "Professor of constitutional law at the Ukrainian Free University in Munich, author of “The Formation of the Ukrainian Nation” (1951)"
   - "In 1954, with Zynovii Matla, led a separate wing of the OUN, known from 1956 as the OUN Abroad"
 birthplace_name: "Stryi"
-image_alt: "Camp photograph of Lev Rebet, front view: shaved head, striped uniform of an Auschwitz prisoner, 1941"
+image_alt: "Photograph of Lev Rebet in tortoiseshell glasses, a dark jacket, white shirt and blue patterned tie, in colour"
 ---
 
 ## Can an enslaved country still be a state?

@@ -3,7 +3,7 @@ name: Лев Ребет
 gender: male
 born: 1912-03-03
 died: 1957-10-12
-last_reviewed: 2026-11-04
+last_reviewed: 2026-11-05
 era: 20th-century
 group: statehood
 tags: [politician]
@@ -25,11 +25,13 @@ places:
   - { name: "Мюнхен", lat: 48.137, lon: 11.575, note: "жив в еміграції з 1945 року; тут убитий 1957 року" }
 image:
   src: ./images/lev-rebet.jpg
-  alt: "Табірне фото Лева Ребета анфас: голена голова, смугаста роба в'язня концтабору Аушвіц, 1941"
+  alt: "Фотопортрет Лева Ребета в черепахових окулярах, темному піджаку, білій сорочці й синій візерунчастій краватці, у кольорі"
   position: "50% 30%"
   author: "Невідомий автор"
-  license: "Public domain"
-  source_url: "https://commons.wikimedia.org/wiki/File:Lev_Rebet_in_Auschwitz.png"
+  license: "Fair use"
+  source_url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CE%5CRebetLev.htm"
+  ai_edit: colorized
+  fair_use: true
 sources:
   - title: "Internet Encyclopedia of Ukraine - Rebet, Lev"
     url: "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CE%5CRebetLev.htm"
@@ -56,7 +58,8 @@ sources:
   - title: "Вісник Львівського університету. Серія юридична - Н. Пирій, «Політико-правові погляди Лева Ребета про суверенітет народу» (2026)"
     url: "https://publications.lnu.edu.ua/bulletins/index.php/law/article/download/14138/14712"
 related: [stepan-bandera, yaroslav-stetsko, andrii-melnyk]
-status: draft
+status: approved
+published: 2026-11-06T01:24:48Z
 ---
 
 ## Чи може поневолена країна бути державою?
