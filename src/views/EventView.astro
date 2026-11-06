@@ -1,0 +1,126 @@
+---
+import { Image } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PersonCard from '../components/PersonCard.astro';
+import License from '../components/License.astro';
+import { collections, eraLabel, fullDate, localePath, byBirth, type Person } from '../lib/people';
+import type { HistoricEvent } from '../lib/events';
+import { t } from '../i18n';
+
+interface Props {
+  event: HistoricEvent;
+  people: Person[];
+}
+
+const { event, people } = Astro.props;
+const { data, lang } = event;
+// As on profiles: a link to someone not published in this build (a draft) becomes plain text.
+const published = new Set(people.map((p) => p.slug));
+const story = (event.body.rendered?.html ?? '').replace(
+  /<a href="\/(?:uk|en)\/people\/([^/"]+)\/">(.*?)<\/a>/g,
+  (link, slug, text) => (published.has(slug) ? link : text),
+);
+// The people of the event are its collection's members, oldest first.
+const members = people.filter((p) => p.data.collections.includes(data.collection)).sort(byBirth);
+const collection = collections.find((c) => c.id === data.collection);
+const dates = data.end ? `${fullDate(data.start, false, lang)} – ${fullDate(data.end, false, lang)}` : fullDate(data.start, false, lang);
+const years = data.end && data.end.getUTCFullYear() !== data.start.getUTCFullYear() ? `${data.start.getUTCFullYear()}–${data.end.getUTCFullYear()}` : `${data.start.getUTCFullYear()}`;
+---
+
+<BaseLayout lang={lang} title={data.name} description={data.summary}>
+  {data.status === 'draft' && <p class="draft-banner" role="note">{t('event.draft_banner', lang)}</p>}
+  <article class="profile event" data-collection={data.collection}>
+    <header class="profile-head">
+      <p class="profile-years">{years}</p>
+      <h1 class="profile-name">{data.name}</h1>
+      <p class="profile-role">{data.place.name}</p>
+    </header>
+
+    <aside class="profile-facts" aria-labelledby="facts-title">
+      {
+        data.image && (
+          <Image
+            src={data.image.src}
+            alt={data.image.alt}
+            class="event-image"
+            widths={[320, 480, 720]}
+            sizes="(min-width: 64rem) 20rem, 100vw"
+            loading="eager"
+            style={data.image.position && `object-position: ${data.image.position}`}
+          />
+        )
+      }
+      <h2 id="facts-title" class="visually-hidden">{t('person.facts', lang)}</h2>
+      <dl>
+        <div>
+          <dt>{t('event.dates', lang)}</dt>
+          <dd>{dates}</dd>
+        </div>
+        <div>
+          <dt>{t('event.place', lang)}</dt>
+          <dd>{data.place.name}</dd>
+        </div>
+        <div>
+          <dt>{t('person.era', lang)}</dt>
+          <dd><a href={localePath(lang, `/?era=${data.era}`)}>{eraLabel(data.era, lang)}</a></dd>
+        </div>
+        {
+          collection && (
+            <div>
+              <dt>{t('explore.tab_collections', lang)}</dt>
+              <dd><a href={localePath(lang, `/?collection=${collection.id}`)}>{collection.label[lang]}</a></dd>
+            </div>
+          )
+        }
+      </dl>
+    </aside>
+
+    <div class="profile-body">
+      <p class="profile-summary">{data.summary}</p>
+
+      <section aria-labelledby="timeline-title">
+        <h2 id="timeline-title">{t('event.timeline', lang)}</h2>
+        <ol class="event-timeline">
+          {data.timeline.map((step) => (
+            <li><span class="event-when">{step.when}</span> {step.text}</li>
+          ))}
+        </ol>
+      </section>
+
+      <div class="prose">
+        <Fragment set:html={story} />
+      </div>
+
+      <footer class="profile-sources">
+        <details>
+          <summary><h2>{t('person.sources', lang)} <span class="sources-count">({data.sources.length})</span></h2></summary>
+          <ul>
+            {data.sources.map((s) => (
+              <li><a href={s.url}>{s.title}</a></li>
+            ))}
+          </ul>
+          {
+            data.image && (
+              <p>{t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, <License name={data.image.license} /></p>
+            )
+          }
+          <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>
+        </details>
+        <p class="profile-report"><a href={localePath(lang, '/feedback/?type=correction')}>{t('person.report', lang)}</a></p>
+      </footer>
+    </div>
+  </article>
+
+  {
+    members.length > 0 && (
+      <section class="related" aria-labelledby="people-title">
+        <h2 id="people-title" class="section-title">{t('event.people', lang)}</h2>
+        <ul class="shelf shelf-wrap" role="list">
+          {members.map((p) => (
+            <PersonCard person={p} />
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</BaseLayout>

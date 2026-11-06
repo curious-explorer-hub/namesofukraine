@@ -1,0 +1,8 @@
+---
+import EventView from '../../../views/EventView.astro';
+import { eventPaths } from '../../../lib/paths';
+
+export const getStaticPaths = () => eventPaths('uk');
+---
+
+<EventView {...Astro.props} />

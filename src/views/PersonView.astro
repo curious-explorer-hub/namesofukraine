@@ -19,6 +19,7 @@ import {
   freeImage,
   type Person,
 } from '../lib/people';
+import { getEvents, eventUrl } from '../lib/events';
 import { t } from '../i18n';
 import { personLd, breadcrumbLd } from '../lib/structured-data';
 import { contemporaries } from '../lib/timeline';
@@ -33,9 +34,11 @@ const { data, lang } = person;
 // The long bio as rendered HTML. A link to someone not published in this build (a draft) becomes plain
 // text, so the site never links to a page that doesn't exist.
 const published = new Set(people.map((p) => p.slug));
+const events = await getEvents(lang);
+const liveEvents = new Set(events.map((e) => e.slug));
 const bio = (person.body.rendered?.html ?? '').replace(
-  /<a href="\/(?:uk|en)\/people\/([^/"]+)\/">(.*?)<\/a>/g,
-  (link, slug, text) => (published.has(slug) ? link : text),
+  /<a href="\/(?:uk|en)\/(people|events)\/([^/"]+)\/">(.*?)<\/a>/g,
+  (link, kind, slug, text) => ((kind === 'people' ? published : liveEvents).has(slug) ? link : text),
 );
 // Story photos (`gallery`): each one closes its section of the bio, under the text it illustrates.
 const escape = (text: string) => text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
@@ -87,6 +90,8 @@ const structuredData = [
 ];
 const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birthplace.region, lang);
 const memberOf = collections.filter((c) => data.collections.includes(c.id));
+// A collection that tells an event's story also links to that event's page.
+const storyOf = (id: string) => events.find((e) => e.data.collection === id);
 // "The story in N minutes": the readout's length rounded to the nearest minute (at least 1), with the right plural form.
 const minutes = data.audio && Math.max(1, Math.round(data.audio.duration.split(':').reduce((s, part) => s * 60 + Number(part), 0) / 60));
 const plural = minutes && new Intl.PluralRules(lang).select(minutes);
@@ -139,7 +144,7 @@ const audioTitle = minutes && t(plural === 'one' ? 'audio.title_one' : plural ==
               <dt>{t('explore.tab_collections', lang)}</dt>
               <dd>
                 {memberOf.map((c, i) => (
-                  <>{i > 0 && ', '}<a href={localePath(lang, `/?collection=${c.id}`)}>{c.label[lang]}</a></>
+                  <>{i > 0 && ', '}<a href={localePath(lang, `/?collection=${c.id}`)}>{c.label[lang]}</a>{storyOf(c.id) && <> (<a href={eventUrl(storyOf(c.id)!)}>{t('event.read_story', lang).toLowerCase()}</a>)</>}</>
                 ))}
               </dd>
             </div>

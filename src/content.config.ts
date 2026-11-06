@@ -126,10 +126,48 @@ const people_en = defineCollection({
   }),
 });
 
+// Historic events (battles, mass executions, turning points): src/content/events/uk/<id>.md holds the facts
+// and the Ukrainian text, like a profile. Each event tells the story of one collection; its people are that
+// collection's members, so they are listed in one place only (each profile's `collections:`).
+const events = defineCollection({
+  loader: glob({ base: './src/content/events', pattern: 'uk/[^_]*.md' }),
+  schema: ({ image }) =>
+    z
+      .object({
+        name: z.string(),
+        collection: z.enum(ids(collectionsData.collections)),
+        start: z.coerce.date(),
+        end: z.coerce.date().optional(),
+        era: z.enum(ids(eras)),
+        place: z.object({ name: z.string(), country: z.string().length(2), lat: z.number().optional(), lon: z.number().optional() }),
+        last_reviewed: z.coerce.date(),
+        summary: z.string().max(300),
+        image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ...credit }).optional(),
+        // Key moments, in order; the en file has the same items in the same order.
+        timeline: z.array(z.object({ when: z.string(), text: z.string() })).min(1),
+        sources: z.array(z.object({ title: z.string(), url: webUrl })).min(2),
+        status: z.enum(['draft', 'approved']).default('draft'),
+        published: z.coerce.date().optional(),
+      })
+      .refine((e) => e.status !== 'approved' || e.published, { message: 'An approved event needs `published: <current time>`' }),
+});
+
+// English text of an event; facts come from the Ukrainian file, as for profiles.
+const events_en = defineCollection({
+  loader: glob({ base: './src/content/events/en', pattern: '[^_]*.md' }),
+  schema: z.object({
+    name: z.string(),
+    summary: z.string().max(300),
+    place_name: z.string(),
+    image_alt: z.string().optional(),
+    timeline: z.array(z.object({ when: z.string(), text: z.string() })).min(1),
+  }),
+});
+
 // Editorial pages (About, Suggest), one Markdown file per language: src/content/pages/<lang>/<page>.md
 const pages = defineCollection({
   loader: glob({ base: './src/content/pages', pattern: '*/[^_]*.md' }),
   schema: z.object({ title: z.string(), description: z.string() }),
 });
 
-export const collections = { people, people_en, pages };
+export const collections = { people, people_en, events, events_en, pages };

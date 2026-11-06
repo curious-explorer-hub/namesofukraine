@@ -3,6 +3,7 @@ import { getImage } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
 import Portrait from './Portrait.astro';
 import { collections, mostLinked, type Person } from '../lib/people';
+import { getEvents, eventUrl } from '../lib/events';
 import { t, type Lang } from '../i18n';
 
 interface Props {
@@ -26,6 +27,9 @@ const cards = (
     }),
   )
 ).filter((c) => c.members.length > 0);
+// A collection that tells the story of an event links to that event's page from its description.
+const events = await getEvents(lang);
+const story = (id: string) => events.find((e) => e.data.collection === id);
 ---
 
 <nav class="ribbon" aria-labelledby="collections-title">
@@ -62,7 +66,7 @@ const cards = (
   <div class="collection-notes" aria-live="polite">
     {cards.map((c) => (
       <div class="collection-note" data-collection={c.id} data-collection-note={c.id} hidden>
-        <p>{c.description[lang]}</p>
+        <p>{c.description[lang]}{story(c.id) && <> <a class="collection-story" href={eventUrl(story(c.id)!)}>{t('event.read_story', lang)} →</a></>}</p>
       </div>
     ))}
   </div>

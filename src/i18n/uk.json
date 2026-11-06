@@ -278,5 +278,11 @@
   "stats.persons.one": "людина",
   "stats.persons.few": "людини",
   "stats.persons.many": "людей",
-  "stats.persons.other": "людини"
+  "stats.persons.other": "людини",
+  "event.dates": "Дати",
+  "event.place": "Місце",
+  "event.timeline": "Хронологія",
+  "event.people": "Люди цієї історії",
+  "event.read_story": "Читати історію",
+  "event.draft_banner": "Чернетка: цієї сторінки ще немає на сайті. Вона з’явиться після перевірки й схвалення."
 }

@@ -1,0 +1,50 @@
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { collections, localePath } from './people';
+import type { Lang } from '../i18n';
+
+type EventEntry = CollectionEntry<'events'>;
+type EventTranslation = CollectionEntry<'events_en'>;
+
+// An event page in one language: facts from the Ukrainian file, text from the translation.
+export interface HistoricEvent {
+  slug: string;
+  lang: Lang;
+  data: EventEntry['data'];
+  body: EventEntry | EventTranslation;
+}
+
+const slugOf = (e: EventEntry) => e.id.split('/').slice(1).join('/');
+
+const localize = (entry: EventEntry, translation: EventTranslation | undefined, lang: Lang): HistoricEvent => {
+  const slug = slugOf(entry);
+  if (lang === 'uk' || !translation) return { slug, lang, data: entry.data, body: entry };
+  const tr = translation.data;
+  const { image, place, timeline } = entry.data;
+  return {
+    slug,
+    lang,
+    data: {
+      ...entry.data,
+      name: tr.name,
+      summary: tr.summary,
+      place: { ...place, name: tr.place_name },
+      image: image && { ...image, alt: tr.image_alt ?? image.alt },
+      timeline: timeline.map((step, i) => ({ ...step, ...tr.timeline[i] })),
+    },
+    body: translation,
+  };
+};
+
+// As for profiles: drafts only in dev; in production an event is published once approved, with both
+// language files, and only while its collection is published too.
+export const getEvents = async (lang: Lang = 'uk'): Promise<HistoricEvent[]> => {
+  const [entries, translations] = await Promise.all([getCollection('events'), getCollection('events_en')]);
+  const bySlug = new Map(translations.map((tr) => [tr.id, tr]));
+  const live = new Set(collections.map((c) => c.id));
+  return entries
+    .filter((e) => import.meta.env.DEV || (e.data.status === 'approved' && bySlug.has(slugOf(e)) && live.has(e.data.collection)))
+    .map((e) => localize(e, bySlug.get(slugOf(e)), lang))
+    .sort((a, b) => a.data.start.getTime() - b.data.start.getTime());
+};
+
+export const eventUrl = (e: HistoricEvent) => localePath(e.lang, `/events/${e.slug}/`);

@@ -1252,6 +1252,16 @@ main:focus { outline: none; }
   .profile-facts > .profile-quotes { grid-area: quotes; margin-top: 0; }
 }
 .profile-portrait { aspect-ratio: 4 / 5; border-radius: 4px; margin-bottom: 1rem; }
+/* Event page: the profile layout, with a landscape picture and the key moments as a dated list.
+   Small screens: only the grid rows an event has, so no empty gaps for a read toggle or quotes. */
+@media (max-width: 63.99rem) { .event { grid-template-areas: 'head' 'portrait' 'facts' 'body'; } }
+.event-image { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px; margin-bottom: 1rem; }
+@media (max-width: 63.99rem) { .profile-facts > .event-image { grid-area: portrait; max-width: 32rem; } }
+.event-timeline { list-style: none; margin: 0; padding: 0 0 0 1.25rem; border-left: 3px solid var(--era, var(--accent)); }
+.event-timeline li { position: relative; margin: 0 0 0.9rem; }
+.event-timeline li::before { content: ''; position: absolute; left: calc(-1.25rem - 7.5px); top: 0.45em; width: 12px; height: 12px; border-radius: 50%; background: var(--paper); border: 3px solid var(--era, var(--accent)); }
+.event-when { display: block; font-weight: 500; font-variant-numeric: tabular-nums; }
+.collection-note .collection-story { color: inherit; font-weight: 500; }
 @media (max-width: 63.99rem) { .profile-portrait { max-width: 22rem; } }
 .profile-facts dl { margin: 0; border-top: 3px solid var(--accent); }
 @media (max-width: 63.99rem) {
