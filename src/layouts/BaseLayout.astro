@@ -87,6 +87,7 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
           <span class="logo-text">{t('site.title', lang)}</span>
         </a>
         <nav class="site-nav" aria-label={t('nav.label', lang)}>
+          <a class="site-nav-link" href={localePath(lang, '/events/')}>{t('nav.events', lang)}</a>
           <!-- Two pill switches with a thumb that slides to the active option (styles: global.css, "Header switches") -->
           <button class="switch theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label={t('theme.dark', lang)} title={t('theme.dark', lang)}>
             <span class="switch-thumb" aria-hidden="true"></span>
@@ -114,6 +115,7 @@ const langShort: Record<Lang, string> = { uk: 'УКР', en: 'EN' };
           <a href={localePath(lang, '/feedback/')}>{t('footer.suggest', lang)}</a>
           <a href={localePath(lang, '/support/')}>{t('footer.support', lang)}</a>
           <a href={localePath(lang, '/new/')}>{t('nav.new', lang)}</a>
+          <a href={localePath(lang, '/events/')}>{t('nav.events', lang)}</a>
           <a href={localePath(lang, '/stats/')}>{t('footer.stats', lang)}</a>
           <a href={localePath(lang, '/credits/')}>{t('footer.credits', lang)}</a>
           {import.meta.env.DEV && (

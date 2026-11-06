@@ -1262,7 +1262,20 @@ main:focus { outline: none; }
 .event-timeline li { position: relative; margin: 0 0 0.9rem; }
 .event-timeline li::before { content: ''; position: absolute; left: calc(-1.25rem - 7.5px); top: 0.45em; width: 12px; height: 12px; border-radius: 50%; background: var(--paper); border: 3px solid var(--era, var(--accent)); }
 .event-when { display: block; font-weight: 500; font-variant-numeric: tabular-nums; }
-.collection-note .collection-story { color: inherit; font-weight: 500; }
+/* Events page: one list per era, each item a picture, years, name and summary */
+.events-era { margin-top: 2.5rem; }
+.events-era .section-title { color: var(--era, var(--accent)); }
+.events-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; }
+.event-item { display: grid; grid-template-columns: 8rem 1fr; gap: 1rem; align-items: start; padding: 0.75rem; color: inherit; text-decoration: none; border: 1px solid var(--mist); border-left: 6px solid var(--era, var(--accent)); border-radius: 6px; }
+.event-item:hover { background: color-mix(in srgb, var(--mist) 45%, transparent); }
+.event-item-image { width: 8rem; height: 6rem; object-fit: cover; border-radius: 4px; }
+@media (max-width: 30rem) { .event-item { grid-template-columns: 5rem 1fr; } .event-item-image { width: 5rem; height: 5rem; } }
+.event-item-text { display: grid; gap: 0.2rem; min-width: 0; }
+.event-item-years { font-size: 0.875rem; color: var(--slate); font-variant-numeric: tabular-nums; }
+.event-item-name { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); line-height: 1.2; }
+.event-item-summary { color: var(--slate); }
+.site-nav-link { font-weight: 500; color: var(--ink); text-decoration: none; padding: 0.35rem 0.25rem; }
+.site-nav-link:hover { text-decoration: underline; }
 @media (max-width: 63.99rem) { .profile-portrait { max-width: 22rem; } }
 .profile-facts dl { margin: 0; border-top: 3px solid var(--accent); }
 @media (max-width: 63.99rem) {

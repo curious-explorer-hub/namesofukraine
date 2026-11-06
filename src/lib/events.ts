@@ -1,5 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { collections, localePath } from './people';
+import { localePath } from './people';
 import type { Lang } from '../i18n';
 
 type EventEntry = CollectionEntry<'events'>;
@@ -35,16 +35,17 @@ const localize = (entry: EventEntry, translation: EventTranslation | undefined, 
   };
 };
 
-// As for profiles: drafts only in dev; in production an event is published once approved, with both
-// language files, and only while its collection is published too.
+// As for profiles: drafts only in dev; in production an event is published once approved, with both language files.
 export const getEvents = async (lang: Lang = 'uk'): Promise<HistoricEvent[]> => {
   const [entries, translations] = await Promise.all([getCollection('events'), getCollection('events_en')]);
   const bySlug = new Map(translations.map((tr) => [tr.id, tr]));
-  const live = new Set(collections.map((c) => c.id));
   return entries
-    .filter((e) => import.meta.env.DEV || (e.data.status === 'approved' && bySlug.has(slugOf(e)) && live.has(e.data.collection)))
+    .filter((e) => import.meta.env.DEV || (e.data.status === 'approved' && bySlug.has(slugOf(e))))
     .map((e) => localize(e, bySlug.get(slugOf(e)), lang))
     .sort((a, b) => a.data.start.getTime() - b.data.start.getTime());
 };
+
+// Events that list this person, oldest first.
+export const eventsOf = (events: HistoricEvent[], slug: string) => events.filter((e) => e.data.people.includes(slug));
 
 export const eventUrl = (e: HistoricEvent) => localePath(e.lang, `/events/${e.slug}/`);

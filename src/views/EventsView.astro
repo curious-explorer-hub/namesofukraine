@@ -1,0 +1,48 @@
+---
+import { Image } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { eras } from '../lib/people';
+import { getEvents, eventUrl } from '../lib/events';
+import { t, type Lang } from '../i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+// Every event in time order, grouped by era (in the eras' own colours); eras without events are left out.
+const events = await getEvents(lang);
+const groups = eras.map((era) => ({ era, events: events.filter((e) => e.data.era === era.id) })).filter((g) => g.events.length > 0);
+const years = (start: Date, end?: Date) =>
+  end && end.getUTCFullYear() !== start.getUTCFullYear() ? `${start.getUTCFullYear()}–${end.getUTCFullYear()}` : `${start.getUTCFullYear()}`;
+---
+
+<BaseLayout lang={lang} title={t('events.title', lang)} description={t('events.description', lang)}>
+  <header class="page-head">
+    <h1 class="page-title">{t('events.title', lang)}</h1>
+    <p class="page-lead">{t('events.description', lang)}</p>
+  </header>
+
+  {groups.length === 0 && <p class="page-lead">{t('events.none', lang)}</p>}
+  {
+    groups.map((g) => (
+      <section class="events-era" data-era={g.era.id} aria-labelledby={`era-${g.era.id}`}>
+        <h2 id={`era-${g.era.id}`} class="section-title">{g.era.label[lang]} <span class="section-count">{g.era.span[lang]}</span></h2>
+        <ol class="events-list" role="list">
+          {g.events.map((e) => (
+            <li>
+              <a class="event-item" href={eventUrl(e)}>
+                {e.data.image && <Image src={e.data.image.src} alt="" class="event-item-image" widths={[160, 320]} sizes="8rem" />}
+                <span class="event-item-text">
+                  <span class="event-item-years">{years(e.data.start, e.data.end)}{e.data.status === 'draft' && ` · ${t('events.draft', lang)}`}</span>
+                  <span class="event-item-name">{e.data.name}</span>
+                  <span class="event-item-summary">{e.data.summary}</span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+</BaseLayout>

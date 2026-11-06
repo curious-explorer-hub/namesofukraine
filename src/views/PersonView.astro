@@ -19,7 +19,7 @@ import {
   freeImage,
   type Person,
 } from '../lib/people';
-import { getEvents, eventUrl } from '../lib/events';
+import { getEvents, eventsOf, eventUrl } from '../lib/events';
 import { t } from '../i18n';
 import { personLd, breadcrumbLd } from '../lib/structured-data';
 import { contemporaries } from '../lib/timeline';
@@ -90,8 +90,8 @@ const structuredData = [
 ];
 const region = data.birthplace.region === 'unknown' ? '' : regionLabel(data.birthplace.region, lang);
 const memberOf = collections.filter((c) => data.collections.includes(c.id));
-// A collection that tells an event's story also links to that event's page.
-const storyOf = (id: string) => events.find((e) => e.data.collection === id);
+// Events whose pages list this person.
+const partOf = eventsOf(events, person.slug);
 // "The story in N minutes": the readout's length rounded to the nearest minute (at least 1), with the right plural form.
 const minutes = data.audio && Math.max(1, Math.round(data.audio.duration.split(':').reduce((s, part) => s * 60 + Number(part), 0) / 60));
 const plural = minutes && new Intl.PluralRules(lang).select(minutes);
@@ -144,7 +144,19 @@ const audioTitle = minutes && t(plural === 'one' ? 'audio.title_one' : plural ==
               <dt>{t('explore.tab_collections', lang)}</dt>
               <dd>
                 {memberOf.map((c, i) => (
-                  <>{i > 0 && ', '}<a href={localePath(lang, `/?collection=${c.id}`)}>{c.label[lang]}</a>{storyOf(c.id) && <> (<a href={eventUrl(storyOf(c.id)!)}>{t('event.read_story', lang).toLowerCase()}</a>)</>}</>
+                  <>{i > 0 && ', '}<a href={localePath(lang, `/?collection=${c.id}`)}>{c.label[lang]}</a></>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          partOf.length > 0 && (
+            <div>
+              <dt>{t('nav.events', lang)}</dt>
+              <dd>
+                {partOf.map((e, i) => (
+                  <>{i > 0 && ', '}<a href={eventUrl(e)}>{e.data.name}</a></>
                 ))}
               </dd>
             </div>

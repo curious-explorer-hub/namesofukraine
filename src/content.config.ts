@@ -127,15 +127,14 @@ const people_en = defineCollection({
 });
 
 // Historic events (battles, mass executions, turning points): src/content/events/uk/<id>.md holds the facts
-// and the Ukrainian text, like a profile. Each event tells the story of one collection; its people are that
-// collection's members, so they are listed in one place only (each profile's `collections:`).
+// and the Ukrainian text, like a profile. An event lists its own people; their profiles show it without
+// listing it back. Events and collections are separate: collections group people, events are moments in time.
 const events = defineCollection({
   loader: glob({ base: './src/content/events', pattern: 'uk/[^_]*.md' }),
   schema: ({ image }) =>
     z
       .object({
         name: z.string(),
-        collection: z.enum(ids(collectionsData.collections)),
         start: z.coerce.date(),
         end: z.coerce.date().optional(),
         era: z.enum(ids(eras)),
@@ -145,6 +144,7 @@ const events = defineCollection({
         image: z.object({ src: image(), alt: z.string(), position: z.string().optional(), ...credit }).optional(),
         // Key moments, in order; the en file has the same items in the same order.
         timeline: z.array(z.object({ when: z.string(), text: z.string() })).min(1),
+        people: z.array(z.string()).default([]),
         sources: z.array(z.object({ title: z.string(), url: webUrl })).min(2),
         status: z.enum(['draft', 'approved']).default('draft'),
         published: z.coerce.date().optional(),

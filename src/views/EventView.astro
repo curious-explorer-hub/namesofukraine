@@ -3,7 +3,7 @@ import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PersonCard from '../components/PersonCard.astro';
 import License from '../components/License.astro';
-import { collections, eraLabel, fullDate, localePath, byBirth, type Person } from '../lib/people';
+import { eraLabel, fullDate, localePath, type Person } from '../lib/people';
 import type { HistoricEvent } from '../lib/events';
 import { t } from '../i18n';
 
@@ -20,16 +20,15 @@ const story = (event.body.rendered?.html ?? '').replace(
   /<a href="\/(?:uk|en)\/people\/([^/"]+)\/">(.*?)<\/a>/g,
   (link, slug, text) => (published.has(slug) ? link : text),
 );
-// The people of the event are its collection's members, oldest first.
-const members = people.filter((p) => p.data.collections.includes(data.collection)).sort(byBirth);
-const collection = collections.find((c) => c.id === data.collection);
+// The people the event lists, in its order; drafts (not in this build) are left out.
+const members = data.people.map((slug) => people.find((p) => p.slug === slug)).filter((p): p is Person => Boolean(p));
 const dates = data.end ? `${fullDate(data.start, false, lang)} – ${fullDate(data.end, false, lang)}` : fullDate(data.start, false, lang);
 const years = data.end && data.end.getUTCFullYear() !== data.start.getUTCFullYear() ? `${data.start.getUTCFullYear()}–${data.end.getUTCFullYear()}` : `${data.start.getUTCFullYear()}`;
 ---
 
 <BaseLayout lang={lang} title={data.name} description={data.summary}>
   {data.status === 'draft' && <p class="draft-banner" role="note">{t('event.draft_banner', lang)}</p>}
-  <article class="profile event" data-collection={data.collection}>
+  <article class="profile event" data-era={data.era}>
     <header class="profile-head">
       <p class="profile-years">{years}</p>
       <h1 class="profile-name">{data.name}</h1>
@@ -64,14 +63,6 @@ const years = data.end && data.end.getUTCFullYear() !== data.start.getUTCFullYea
           <dt>{t('person.era', lang)}</dt>
           <dd><a href={localePath(lang, `/?era=${data.era}`)}>{eraLabel(data.era, lang)}</a></dd>
         </div>
-        {
-          collection && (
-            <div>
-              <dt>{t('explore.tab_collections', lang)}</dt>
-              <dd><a href={localePath(lang, `/?collection=${collection.id}`)}>{collection.label[lang]}</a></dd>
-            </div>
-          )
-        }
       </dl>
     </aside>
 
