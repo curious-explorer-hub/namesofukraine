@@ -25,6 +25,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 | `src/content/people/en/<slug>.md` | English text only (same slug); facts are never repeated here |
 | `src/content/people/uk/images/` | Portraits (self-hosted, credited per file) |
 | `public/audio/{uk,en}/<slug>.m4a` | Optional spoken readouts, one per language; set `audio: { duration }` in that language's file (D21, tested) |
+| `src/content/events/{uk,en}/<id>.md` | Event pages (battles, repressions, turning points) at `/events/<id>/`, listed by era at `/events/`: facts, timeline, `people:` (slugs) and Ukrainian text in the uk file, English text only in the en file. Same editorial rules and draft gate as profiles; independent of collections |
 | `src/content/aliases.json` | Name stems per profile for cross-profile link checks (one entry per profile, tested) |
 | `src/content/{categories,eras,regions}.json` | Allowed groups/tags, eras, map regions |
 | `src/content/pages/{uk,en}/` | Text of About, Support, Feedback, Credits |
@@ -40,7 +41,7 @@ Context for AI agents working in this repository. Read it before changing anythi
 
 | Doc | Read it for |
 |---|---|
-| [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D21 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
+| [product_vision.md](product_vision.md) | Vision, audiences, capabilities with ACs (§3), architecture (§4), decisions D1–D22 (§5), roadmap, **editorial policy (§7)**, risks, what's been built (§10) |
 | [docs/BACKLOG.md](docs/BACKLOG.md) | Current status and open items (**start here to resume work**) |
 | [docs/STYLE.md](docs/STYLE.md) | How profiles are written: hook first, short, for readers of all ages |
 | [docs/CANDIDATES.md](docs/CANDIDATES.md) | People planned for future batches, with flags and editorial notes |
