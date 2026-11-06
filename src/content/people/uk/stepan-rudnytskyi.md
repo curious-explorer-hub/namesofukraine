@@ -44,7 +44,7 @@ sources:
   - title: "Український інститут національної пам'яті - 1937 - початок наймасовіших розстрілів у Сандармосі"
     url: "https://uinp.gov.ua/istorychnyy-kalendar/zhovten/27/1937-pochatok-naymasovishyh-rozstriliv-u-sandarmosi"
 related: [mykhailo-hrushevskyi, les-kurbas, mykola-zerov, mykola-kulish]
-collections: [executed-renaissance]
+collections: [executed-renaissance, sandarmokh]
 status: approved
 published: 2026-10-18T04:31:04Z
 ---

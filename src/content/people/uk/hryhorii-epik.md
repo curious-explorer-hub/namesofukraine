@@ -38,7 +38,7 @@ sources:
   - title: "Національна бібліотека України імені В. І. Вернадського - «Народився Григорій Епік, український письменник, представник Розстріляного Відродження»"
     url: "https://nbuv.gov.ua/node/4576"
 related: [mykola-khvylovyi, mykola-kulish, valerian-pidmohylnyi, valerian-polishchuk, mykola-zerov, les-kurbas]
-collections: [executed-renaissance]
+collections: [executed-renaissance, sandarmokh]
 status: approved
 published: 2026-10-18T23:15:09Z
 ---

@@ -40,7 +40,7 @@ sources:
   - title: "Рівненська обласна рада - Видатні діячі: письменники"
     url: "https://ror.gov.ua/vidatni-diyachi/pismenniki"
 related: [valerian-pidmohylnyi, hryhorii-skovoroda, mykola-khvylovyi, mykola-zerov, mykola-kulish, oleksa-slisarenko]
-collections: [executed-renaissance]
+collections: [executed-renaissance, sandarmokh]
 status: approved
 published: 2026-10-18T02:24:24Z
 ---

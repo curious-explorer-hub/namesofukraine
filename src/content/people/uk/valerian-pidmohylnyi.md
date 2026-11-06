@@ -41,7 +41,7 @@ sources:
   - title: "Локальна історія - Я. Цимбал, «36 зі 120: парадокси Валер'яна Підмогильного» (2021)"
     url: "https://localhistory.org.ua/texts/statti/36-zi-120-paradoksi-valeriana-pidmogilnogo/"
 related: [mykola-kulish, mykola-zerov, les-kurbas, yevhen-pluzhnyk, hryhorii-kosynka, valerian-polishchuk]
-collections: [executed-renaissance]
+collections: [executed-renaissance, sandarmokh]
 status: approved
 published: 2026-10-13T03:20:22Z
 ---
