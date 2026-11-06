@@ -23,11 +23,11 @@ Ivan Nechui-Levytskyi published most of his work far from where he lived. Becaus
 
 ## A priest’s son from Stebliv
 
-He was born in 1838 in the small town of Stebliv in the Kyiv region (now the Cherkasy region), into a priest’s family. He studied in Bohuslav, at the Kyiv seminary and at the Kyiv Theological Academy, which he finished as a master of theology. Then he taught for almost twenty years: at the Poltava seminary, and later at gymnasiums in Kalisz and Siedlce (now in Poland) and in Kishinev. In 1885 he retired and settled in Kyiv to write.
+He was born in 1838 in the small town of Stebliv in the Kyiv region (now the Cherkasy region), into a priest’s family. He learned to read at the village school his father had founded, then studied in Bohuslav, at the Kyiv seminary and at the Kyiv Theological Academy, which he finished as a master of theology. Then he taught for almost twenty years: at the Poltava seminary, and later at gymnasiums in Kalisz and Siedlce (now in Poland) and in Kishinev. In 1885 he retired and settled in Kyiv to write. People who knew him remembered his habits: every day he walked the same route, always with an umbrella, and he went to bed at the same hour. Even at the celebration of his own jubilee he went home to bed before the speeches were over.
 
 ## The village in a mirror
 
-Nechui-Levytskyi saw literature as a mirror of life. In Mykola Dzheria (1878) a serf goes looking for freedom: from the landlord’s estate, through work at a sugar mill, to the free lands of Bessarabia. The story was filmed in 1927. In Kaidash’s Family (1879) he showed, with irony, the old village world colliding with the new.
+Nechui-Levytskyi saw literature as a mirror of life. He was the first Ukrainian writer to portray the intelligentsia in fiction, from students and teachers to civil servants. His novella Khmary (Clouds, 1874) was the first Ukrainian work of fiction about young people trying to put national liberation on the agenda. In Mykola Dzheria (1878) a serf goes looking for freedom: from the landlord’s estate, through work at a sugar mill, to the free lands of Bessarabia. The story was filmed in 1927. In Kaidash’s Family (1879) he showed, with irony, the old village world colliding with the new.
 
 ## A literature of its own, even without a state
 
