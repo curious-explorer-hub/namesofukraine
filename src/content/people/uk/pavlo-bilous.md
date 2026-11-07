@@ -33,7 +33,8 @@ sources:
   - title: "АрміяInform - Глава держави вручив ордени «Золота Зірка»"
     url: "https://armyinform.com.ua/2022/05/06/glava-derzhavy-vruchyv-ordeny-zolota-zirka/"
 related: []
-status: draft
+status: approved
+published: 2026-11-07T04:12:02Z
 ---
 
 ## Пластун, сотник, сировар
