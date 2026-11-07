@@ -20,6 +20,7 @@ import {
   type Person,
 } from '../lib/people';
 import { getEvents, eventsOf, eventUrl } from '../lib/events';
+import { withMedia } from '../lib/story-media';
 import { t } from '../i18n';
 import { personLd, breadcrumbLd } from '../lib/structured-data';
 import { contemporaries } from '../lib/timeline';
@@ -40,26 +41,8 @@ const bio = (person.body.rendered?.html ?? '').replace(
   /<a href="\/(?:uk|en)\/(people|events)\/([^/"]+)\/">(.*?)<\/a>/g,
   (link, kind, slug, text) => ((kind === 'people' ? published : liveEvents).has(slug) ? link : text),
 );
-// Story photos (`gallery`): each one closes its section of the bio, under the text it illustrates.
-const escape = (text: string) => text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
-const sections = bio.split(/(?=<h2)/);
-const offset = sections[0].startsWith('<h2') ? 1 : 0;
-for (const g of data.gallery) {
-  const img = await getImage({ src: g.src, widths: [480, 720, 1080], format: 'webp' });
-  const i = Math.min(g.section - offset, sections.length - 1);
-  // Shown at its own pixel width, but no taller than 640px; CSS keeps it within half to all of the column.
-  const width = Math.round(Math.min(g.src.width, (g.src.width * 640) / g.src.height));
-  const height = Math.round((width * g.src.height) / g.src.width);
-  sections[i] += `<figure class="story-photo"><img src="${img.src}" srcset="${img.srcSet.attribute}" sizes="(min-width: 48rem) 42rem, 100vw" width="${width}" height="${height}" alt="${escape(g.alt)}" loading="lazy" decoding="async"><figcaption>${escape(g.caption)}</figcaption></figure>`;
-}
-// Story videos (`videos`): placed like the photos. Without JS the card is a plain link to YouTube; with JS
-// it becomes a player in place, but only after the reader presses play (src/scripts/video.ts, D18).
-for (const v of data.videos) {
-  const i = Math.min(v.section - offset, sections.length - 1);
-  const meta = [v.source, fullDate(v.date, false, lang), v.duration].join(' · ');
-  sections[i] += `<figure class="story-video"><a class="story-video-play" href="https://www.youtube.com/watch?v=${v.youtube}" data-youtube="${v.youtube}" data-title="${escape(v.title)}" aria-label="${escape(t('video.play', lang, { title: v.title }))}"><span class="story-video-icon" aria-hidden="true"></span><span class="story-video-note">${t('video.note', lang)}</span></a><figcaption><span class="story-video-title">${escape(v.title)}</span><span class="story-video-meta">${escape(meta)}</span></figcaption></figure>`;
-}
-const story = sections.join('');
+// Story photos and videos, each at the end of its section of the bio
+const story = await withMedia(bio, data.gallery, data.videos, lang);
 // Only link related people that are published in this build.
 const related = data.related
   .map((slug) => people.find((p) => p.slug === slug))

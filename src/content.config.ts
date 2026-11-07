@@ -145,6 +145,11 @@ const events = defineCollection({
         // Key moments, in order; the en file has the same items in the same order.
         timeline: z.array(z.object({ when: z.string(), text: z.string() })).min(1),
         people: z.array(z.string()).default([]),
+        // Photos and YouTube videos in the story, placed as on profiles (each closes its `section`-th `##` section)
+        gallery: z.array(z.object({ src: image(), alt: z.string(), caption: z.string(), section: z.number().int().min(1), ...credit })).default([]),
+        videos: z
+          .array(z.object({ youtube: z.string().regex(/^[\w-]{11}$/), title: z.string(), source: z.string(), date: z.coerce.date(), duration: z.string().regex(/^(\d+:)?\d{1,2}:\d{2}$/), section: z.number().int().min(1) }))
+          .default([]),
         sources: z.array(z.object({ title: z.string(), url: webUrl })).min(2),
         status: z.enum(['draft', 'approved']).default('draft'),
         published: z.coerce.date().optional(),
@@ -161,6 +166,9 @@ const events_en = defineCollection({
     place_name: z.string(),
     image_alt: z.string().optional(),
     timeline: z.array(z.object({ when: z.string(), text: z.string() })).min(1),
+    // Same order as `gallery` and `videos` in the Ukrainian file
+    gallery: z.array(z.object({ alt: z.string(), caption: z.string() })).default([]),
+    videos: z.array(z.object({ title: z.string(), source: z.string().optional() })).default([]),
   }),
 });
 

@@ -19,7 +19,7 @@ const localize = (entry: EventEntry, translation: EventTranslation | undefined, 
   const slug = slugOf(entry);
   if (lang === 'uk' || !translation) return { slug, lang, data: entry.data, body: entry };
   const tr = translation.data;
-  const { image, place, timeline } = entry.data;
+  const { image, place, timeline, gallery, videos } = entry.data;
   return {
     slug,
     lang,
@@ -30,6 +30,8 @@ const localize = (entry: EventEntry, translation: EventTranslation | undefined, 
       place: { ...place, name: tr.place_name },
       image: image && { ...image, alt: tr.image_alt ?? image.alt },
       timeline: timeline.map((step, i) => ({ ...step, ...tr.timeline[i] })),
+      gallery: gallery.map((g, i) => ({ ...g, ...tr.gallery[i] })),
+      videos: videos.map((v, i) => ({ ...v, ...tr.videos[i] })),
     },
     body: translation,
   };

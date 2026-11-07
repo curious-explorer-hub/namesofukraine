@@ -5,6 +5,7 @@ import PersonCard from '../components/PersonCard.astro';
 import License from '../components/License.astro';
 import { eraLabel, fullDate, localePath, type Person } from '../lib/people';
 import type { HistoricEvent } from '../lib/events';
+import { withMedia } from '../lib/story-media';
 import { t } from '../i18n';
 
 interface Props {
@@ -16,10 +17,11 @@ const { event, people } = Astro.props;
 const { data, lang } = event;
 // As on profiles: a link to someone not published in this build (a draft) becomes plain text.
 const published = new Set(people.map((p) => p.slug));
-const story = (event.body.rendered?.html ?? '').replace(
+const text = (event.body.rendered?.html ?? '').replace(
   /<a href="\/(?:uk|en)\/people\/([^/"]+)\/">(.*?)<\/a>/g,
   (link, slug, text) => (published.has(slug) ? link : text),
 );
+const story = await withMedia(text, data.gallery, data.videos, lang);
 // The people the event lists, in its order; drafts (not in this build) are left out.
 const members = data.people.map((slug) => people.find((p) => p.slug === slug)).filter((p): p is Person => Boolean(p));
 const dates = data.end ? `${fullDate(data.start, false, lang)} – ${fullDate(data.end, false, lang)}` : fullDate(data.start, false, lang);
@@ -95,6 +97,9 @@ const years = data.end && data.end.getUTCFullYear() !== data.start.getUTCFullYea
               <p>{t('person.image_credit', lang)}: <a href={data.image.source_url}>{data.image.author}</a>, <License name={data.image.license} /></p>
             )
           }
+          {data.gallery.map((g) => (
+            <p>{t('person.photo_credit', lang)}: <a href={g.source_url}>{g.author}</a>, <License name={g.license} /></p>
+          ))}
           <p>{t('person.last_reviewed', lang)} {fullDate(data.last_reviewed, false, lang)}</p>
         </details>
         <p class="profile-report"><a href={localePath(lang, '/feedback/?type=correction')}>{t('person.report', lang)}</a></p>
@@ -115,3 +120,8 @@ const years = data.end && data.end.getUTCFullYear() !== data.start.getUTCFullYea
     )
   }
 </BaseLayout>
+
+<script>
+  import { initVideos } from '../scripts/video';
+  initVideos();
+</script>

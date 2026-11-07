@@ -3,19 +3,20 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 
-// Event pages (src/content/events): an en file per uk file, the same number of timeline steps, and links
+// Event pages (src/content/events): an en file per uk file, the same number of timeline steps, photos and videos, and links
 // only to profiles and events that exist, in the same language.
 const root = dirname(fileURLToPath(import.meta.url));
 const eventsDir = join(root, 'events');
 const list = (dir: string) => (existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.md')) : []);
 const events = list(join(eventsDir, 'uk'));
-const steps = (text: string) => text.match(/^timeline:\n((?: .*\n)*)/m)?.[1].match(/^ {2}- /gm)?.length ?? 0;
+const entries = (text: string, field: string) => text.match(new RegExp(`^${field}:\\n((?: .*\\n)*)`, 'm'))?.[1].match(/^ {2}- /gm)?.length ?? 0;
 
 describe('events', () => {
-  it.each(events)('%s: has an en file with one timeline step per uk step', (file) => {
+  it.each(events)('%s: has an en file with one timeline step, photo and video per uk entry', (file) => {
     const en = join(eventsDir, 'en', file);
     expect(existsSync(en), 'en file missing').toBe(true);
-    expect(steps(readFileSync(en, 'utf8'))).toBe(steps(readFileSync(join(eventsDir, 'uk', file), 'utf8')));
+    const [enText, ukText] = [readFileSync(en, 'utf8'), readFileSync(join(eventsDir, 'uk', file), 'utf8')];
+    for (const field of ['timeline', 'gallery', 'videos']) expect(entries(enText, field), field).toBe(entries(ukText, field));
   });
 
   // Links from events to people and events; from profiles, only those to events (people.test.ts checks the rest).
