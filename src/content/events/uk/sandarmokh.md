@@ -22,6 +22,8 @@ timeline:
   - { when: "27 жовтня 1997", text: "Перші Дні пам'яті в Сандармосі, з делегацією з України" }
   - { when: "2004", text: "Постав гранітний козацький хрест «Убієнним синам України»" }
 people: [les-kurbas, mykola-kulish, mykola-zerov, valerian-pidmohylnyi, pavlo-fylypovych, valerian-polishchuk, marko-voronyi, hryhorii-epik, oleksa-slisarenko, myroslav-irchan, stepan-rudnytskyi]
+videos:
+  - { youtube: X6bF7gCe8f8, title: "Розстріли в урочищі Сандармох: як у 1937 році вбивали цвіт української нації", source: "Стежками історії", date: 2023-05-06, duration: "6:50", section: 2 }
 sources:
   - title: "Енциклопедія Сучасної України - Соловецькі розстріли 1937—38 (автор - Ю. І. Шаповал)"
     url: "https://esu.com.ua/article-889386"

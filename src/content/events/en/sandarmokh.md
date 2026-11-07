@@ -13,6 +13,8 @@ timeline:
   - { when: "1 July 1997", text: "The first excavations begin: 236 execution pits are found in the forest" }
   - { when: "27 October 1997", text: "The first Days of Remembrance at Sandarmokh, with a delegation from Ukraine" }
   - { when: "2004", text: "A granite Cossack cross, “To the murdered sons of Ukraine”, is put up" }
+videos:
+  - { title: "The Sandarmokh executions: how the flower of the Ukrainian nation was killed in 1937", source: "Stezhkamy istorii" }
 ---
 
 What happened to the prisoners secretly taken off the Solovetsky Islands in the autumn of 1937? For almost sixty years nobody knew, and some believed they had been drowned in the White Sea. The truth was found in 1997 in Sandarmokh, a forest in Karelia 19 kilometres from the town of Medvezhyegorsk. Here, between 27 October and 4 November 1937, the Soviet secret police (NKVD) shot 1,111 prisoners of the Solovki prison. Sources give between 287 and about 300 of them as Ukrainians or people whose lives were tied to Ukraine.
