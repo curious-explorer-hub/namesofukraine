@@ -28,7 +28,7 @@ In the autumn of 1918 Austria-Hungary was falling apart, and Vitovskyi headed th
 
 ## The flight he never came back from
 
-In the spring of 1919 Vitovskyi joined the Western Ukrainian delegation to the Paris Peace Conference as its military expert. With Mykhailo Lozynskyi he pressed for a truce between Ukrainians and Poles, but in vain. On 4 August 1919 the plane taking him from Breslau to Kamianets-Podilskyi crashed near Ratibor in Silesia. His adjutant Yulian Chuchman died with him. The likely cause was a technical failure; rumours of an assassination were never proven. They were buried in Berlin, and on 1 November 2002 they were reburied at Lychakiv Cemetery in Lviv.
+In the spring of 1919 Vitovskyi joined the Western Ukrainian delegation to the Paris Peace Conference as its military expert. With [Mykhailo Lozynskyi](/en/people/mykhailo-lozynskyi/) he pressed for a truce between Ukrainians and Poles, but in vain. On 4 August 1919 the plane taking him from Breslau to Kamianets-Podilskyi crashed near Ratibor in Silesia. His adjutant Yulian Chuchman died with him. The likely cause was a technical failure; rumours of an assassination were never proven. They were buried in Berlin, and on 1 November 2002 they were reburied at Lychakiv Cemetery in Lviv.
 
 ## Why it matters today
 

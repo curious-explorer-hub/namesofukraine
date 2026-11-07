@@ -33,7 +33,7 @@ On 12 January 1972 Svitlychnyi was arrested again, for “anti-Soviet agitation 
 
 ## The light that stayed
 
-His first and only collection of poems published in his lifetime, A Heart for Bullets and Rhymes, came out only in 1990, with a foreword by Dziuba. Ivan Svitlychnyi died in Kyiv on 25 October 1992. He was buried at Baikove Cemetery in an embroidered shirt that Stus had given him. His gravestone carries words from the Gospel of John: he was a lamp that burned and gave light. For years Svitlychnyi worked on a dictionary of synonyms, and thousands of handwritten cards survive in his archive. His sister Nadiia Svitlychna tried to finish it, and gave his library of 10,000 volumes to Karazin Kharkiv University. In 1994 he was posthumously awarded the Shevchenko Prize.
+His first and only collection of poems published in his lifetime, A Heart for Bullets and Rhymes, came out only in 1990, with a foreword by Dziuba. Ivan Svitlychnyi died in Kyiv on 25 October 1992. He was buried at Baikove Cemetery in an embroidered shirt that Stus had given him. His gravestone carries words from the Gospel of John: he was a lamp that burned and gave light. For years Svitlychnyi worked on a dictionary of synonyms, and thousands of handwritten cards survive in his archive. His sister [Nadiia Svitlychna](/en/people/nadiia-svitlychna/) tried to finish it, and gave his library of 10,000 volumes to Karazin Kharkiv University. In 1994 he was posthumously awarded the Shevchenko Prize.
 
 ## Why it matters today
 

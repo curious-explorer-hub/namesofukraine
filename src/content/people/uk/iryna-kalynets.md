@@ -45,7 +45,7 @@ sources:
     url: "https://museum.khpg.org/1113999436"
   - title: "ZAXID.NET - Сьогодні - рік, як померла Ірина Калинець (2013)"
     url: "https://zaxid.net/sogodni__rik_yak_pomerla_irina_kalinets_n1290449"
-related: [ihor-kalynets, viacheslav-chornovil, yevhen-sverstiuk, alla-horska, ivan-drach, vasyl-stus]
+related: [ihor-kalynets, viacheslav-chornovil, yevhen-sverstiuk, alla-horska, ivan-drach, vasyl-stus, nina-strokata-karavanska]
 collections: [sixtiers]
 status: approved
 published: 2026-10-21T03:16:32Z
@@ -59,7 +59,7 @@ published: 2026-10-21T03:16:32Z
 
 Ірина Стасів народилася 1940 року у Львові, у греко-католицькій родині. Після війни вона бачила, як українців масово вивозять до Сибіру, і змалку мріяла про незалежну Україну. 1961 року, ще студенткою Львівського університету, вийшла заміж за поета [Ігоря Калинця](/uk/people/ihor-kalynets/). Того ж року в Києві познайомилася з [Євгеном Сверстюком](/uk/people/yevhen-sverstiuk/), [Аллою Горською](/uk/people/alla-horska/) та [Іваном Драчем](/uk/people/ivan-drach/).
 
-Вона вчителювала, але зі шкіл її не раз виживали, бо розповідала учням про визвольний рух. 1970 року підписала протест проти арешту Валентина Мороза, а 1971-го стала однією із засновниць комітету на захист Ніни Строкатої.
+Вона вчителювала, але зі шкіл її не раз виживали, бо розповідала учням про визвольний рух. 1970 року підписала протест проти арешту Валентина Мороза, а 1971-го стала однією із засновниць комітету на захист [Ніни Строкатої](/uk/people/nina-strokata-karavanska/).
 
 ## Шість років таборів і три заслання
 

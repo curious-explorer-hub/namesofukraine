@@ -24,7 +24,7 @@ An art institute in Leningrad. A Czech classmate asks Panas what nationality he 
 
 The institute expelled him in 1947 for “behaviour unworthy of a Soviet student”: with a few other students, he had skipped a meeting with a candidate for the Supreme Soviet. He only graduated in 1960, and his diploma said just that: entered 1946, graduated 1960. “Fourteen years of study!” the painter joked. On a work placement in Kosiv, in the Hutsul highlands, Zalyvakha saw living Ukrainian village life for the first time, and in 1961 he moved to Ivano-Frankivsk. In 1962 his solo exhibition at the local history museum was closed after a week for “lacking ideological content”.
 
-In Kyiv he painted in [Alla Horska](/en/people/alla-horska/)’s studio, while [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/) handed him one book after another. He met [Ivan Dziuba](/en/people/ivan-dziuba/) in a hospital garden, where Dziuba sat over a pile of books by Lesia Ukrainka. Zalyvakha learned Ukrainian with a notebook for new words, and in Horska’s studio Nadiia Svitlychna read dictations to the friends. He was 35, the oldest in that “class”.
+In Kyiv he painted in [Alla Horska](/en/people/alla-horska/)’s studio, while [Ivan Svitlychnyi](/en/people/ivan-svitlychnyi/) handed him one book after another. He met [Ivan Dziuba](/en/people/ivan-dziuba/) in a hospital garden, where Dziuba sat over a pile of books by Lesia Ukrainka. Zalyvakha learned Ukrainian with a notebook for new words, and in Horska’s studio [Nadiia Svitlychna](/en/people/nadiia-svitlychna/) read dictations to the friends. He was 35, the oldest in that “class”.
 
 ## A window that lasted one night
 

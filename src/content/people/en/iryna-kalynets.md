@@ -26,7 +26,7 @@ On 12 January 1972 Iryna Kalynets was searched. An essay by [Vasyl Stus](/en/peo
 
 Iryna Stasiv was born in Lviv in 1940 into a Greek Catholic family. After the war she watched Ukrainians being deported en masse to Siberia, and from childhood she dreamed of an independent Ukraine. In 1961, still a student at Lviv University, she married the poet [Ihor Kalynets](/en/people/ihor-kalynets/). That same year in Kyiv she met [Yevhen Sverstiuk](/en/people/yevhen-sverstiuk/), [Alla Horska](/en/people/alla-horska/) and [Ivan Drach](/en/people/ivan-drach/).
 
-She became a teacher, but schools kept pushing her out for telling pupils about Ukraine’s liberation movement. In 1970 she signed a protest against the arrest of Valentyn Moroz, and in 1971 she helped found a committee to defend Nina Strokata.
+She became a teacher, but schools kept pushing her out for telling pupils about Ukraine’s liberation movement. In 1970 she signed a protest against the arrest of Valentyn Moroz, and in 1971 she helped found a committee to defend [Nina Strokata](/en/people/nina-strokata-karavanska/).
 
 ## Six years in the camps, three in exile
 
