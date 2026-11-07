@@ -21,7 +21,7 @@ timeline:
   - { when: "1 липня 1997", text: "Почалися перші розкопки: у лісі знайшли 236 розстрільних ям" }
   - { when: "27 жовтня 1997", text: "Перші Дні пам'яті в Сандармосі, з делегацією з України" }
   - { when: "2004", text: "Постав гранітний козацький хрест «Убієнним синам України»" }
-people: [les-kurbas, mykola-kulish, mykola-zerov, valerian-pidmohylnyi, pavlo-fylypovych, valerian-polishchuk, marko-voronyi, hryhorii-epik, oleksa-slisarenko, myroslav-irchan, stepan-rudnytskyi]
+people: [les-kurbas, mykola-kulish, mykola-zerov, valerian-pidmohylnyi, pavlo-fylypovych, valerian-polishchuk, marko-voronyi, hryhorii-epik, oleksa-slisarenko, myroslav-irchan, stepan-rudnytskyi, matvii-yavorskyi, serhii-hrushevskyi, volodymyr-chekhivskyi, antin-krushelnytskyi, mykhailo-lozynskyi]
 videos:
   - { youtube: X6bF7gCe8f8, title: "Розстріли в урочищі Сандармох: як у 1937 році вбивали цвіт української нації", source: "Стежками історії", date: 2023-05-06, duration: "6:50", section: 2 }
 sources:
@@ -59,7 +59,7 @@ published: 2026-11-07T02:19:39Z
 
 Наприкінці жовтня в'язнів таємно перевезли на материк, а звідти потягом до Медвежої Гори, нинішнього Медвеж'єгорська. Групами їх вивозили в ліс і там розстрілювали; більшість вироків виконав капітан держбезпеки Михайло Матвєєв. Один засуджений помер у лікарні, а чотирьох розстріляли пізніше деінде.
 
-3 листопада 1937 року тут розстріляли режисера [Леся Курбаса](/uk/people/les-kurbas/), драматурга [Миколу Куліша](/uk/people/mykola-kulish/), поета [Миколу Зерова](/uk/people/mykola-zerov/), прозаїка [Валер'яна Підмогильного](/uk/people/valerian-pidmohylnyi/), поетів [Павла Филиповича](/uk/people/pavlo-fylypovych/), [Валер'яна Поліщука](/uk/people/valerian-polishchuk/) і [Марка Вороного](/uk/people/marko-voronyi/), письменників [Григорія Епіка](/uk/people/hryhorii-epik/), [Олексу Слісаренка](/uk/people/oleksa-slisarenko/) і [Мирослава Ірчана](/uk/people/myroslav-irchan/), географа [Степана Рудницького](/uk/people/stepan-rudnytskyi/). Тут загинули також історики Матвій Яворський і Сергій Грушевський, колишній голова уряду УНР Володимир Чехівський і колишній міністр УНР Антін Крушельницький.
+3 листопада 1937 року тут розстріляли режисера [Леся Курбаса](/uk/people/les-kurbas/), драматурга [Миколу Куліша](/uk/people/mykola-kulish/), поета [Миколу Зерова](/uk/people/mykola-zerov/), прозаїка [Валер'яна Підмогильного](/uk/people/valerian-pidmohylnyi/), поетів [Павла Филиповича](/uk/people/pavlo-fylypovych/), [Валер'яна Поліщука](/uk/people/valerian-polishchuk/) і [Марка Вороного](/uk/people/marko-voronyi/), письменників [Григорія Епіка](/uk/people/hryhorii-epik/), [Олексу Слісаренка](/uk/people/oleksa-slisarenko/) і [Мирослава Ірчана](/uk/people/myroslav-irchan/), географа [Степана Рудницького](/uk/people/stepan-rudnytskyi/). Тут загинули також історики [Матвій Яворський](/uk/people/matvii-yavorskyi/) і [Сергій Грушевський](/uk/people/serhii-hrushevskyi/), колишній голова уряду УНР [Володимир Чехівський](/uk/people/volodymyr-chekhivskyi/) і колишній міністр УНР [Антін Крушельницький](/uk/people/antin-krushelnytskyi/).
 
 ## Як ліс заговорив
 
