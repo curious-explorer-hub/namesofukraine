@@ -41,7 +41,8 @@ sources:
     url: "https://armyinform.com.ua/2022/10/27/27-zhovtnya-den-pamyati-zhertv-rozstriliv-u-sandarmohu/"
   - title: "RFE/RL - Dig Near Stalin-Era Mass Grave Looks To Some Like Kremlin Dirty Work (2018)"
     url: "https://www.rferl.org/a/dig-near-stalin-era-mass-grave-looks-to-some-like-kremlin-dirty-work/29470518.html"
-status: draft
+status: approved
+published: 2026-11-07T02:19:39Z
 ---
 
 Що сталося з в'язнями, яких восени 1937 року таємно вивезли із Соловків? Майже шістдесят років цього не знав ніхто, а дехто вважав, що людей утопили в Білому морі. Правду знайшли 1997 року в карельському лісі Сандармох, за 19 кілометрів від міста Медвеж'єгорськ. Тут із 27 жовтня по 4 листопада 1937 року радянська таємна поліція (НКВС) розстріляла 1111 в'язнів Соловецької в'язниці. За різними даними, від 287 до близько 300 із них були українцями або людьми, чиє життя пов'язане з Україною.
