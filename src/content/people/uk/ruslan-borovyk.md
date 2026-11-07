@@ -47,7 +47,6 @@ sources:
   - title: "Вікіпедія - Боровик Руслан Анатолійович"
     url: "https://uk.wikipedia.org/wiki/Боровик_Руслан_Анатолійович"
 related: [ivan-zubkov, ihor-branovytskyi]
-collections: [donetsk-airport]
 status: approved
 published: 2026-11-02T03:59:27Z
 ---

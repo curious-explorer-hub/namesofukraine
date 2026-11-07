@@ -47,7 +47,6 @@ sources:
   - title: "Вікіпедія - Колодій Сергій Володимирович"
     url: "https://uk.wikipedia.org/wiki/Колодій_Сергій_Володимирович"
 related: [yevhen-mezhevikin, oleh-mikats]
-collections: [donetsk-airport]
 status: approved
 published: 2026-11-03T03:03:06Z
 ---

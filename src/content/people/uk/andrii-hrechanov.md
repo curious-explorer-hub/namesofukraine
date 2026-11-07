@@ -34,7 +34,6 @@ sources:
   - title: "Вікіпедія - Гречанов Андрій Анатолійович"
     url: "https://uk.wikipedia.org/wiki/Гречанов_Андрій_Анатолійович"
 related: [ivan-zubkov, ihor-branovytskyi]
-collections: [donetsk-airport]
 status: draft
 ---
 

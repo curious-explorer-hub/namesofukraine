@@ -36,7 +36,6 @@ sources:
   - title: "АрміяInform - «Кіборгу» солдату Петру Полицяку присвоєно звання Героя України посмертно (7 грудня 2021)"
     url: "https://armyinform.com.ua/2021/12/07/kiborgu-soldatu-petru-polyczyaku-prysvoyeno-zvannya-geroya-ukrayiny-posmertno/"
 related: [ihor-zinych, ivan-zubkov]
-collections: [donetsk-airport]
 status: approved
 published: 2026-10-11T16:50:28Z
 ---

@@ -35,7 +35,6 @@ sources:
   - title: "Український меморіал - Зінич Ігор Вікторович"
     url: "https://ukraine-memorial.org/ua/biography/zinich-igor-viktorovich/"
 related: [ivan-zubkov, ihor-branovytskyi, petro-polytsiak]
-collections: [donetsk-airport]
 status: approved
 published: 2026-10-11T16:50:28Z
 ---

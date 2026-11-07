@@ -28,7 +28,6 @@ sources:
   - title: "Тексти - У ССО новий командувач: що відомо про Олександра Трепака «Редута»"
     url: "https://texty.org.ua/fragments/112428/u-sso-novyj-komanduvach-sho-vidomo-pro-oleksandra-trepaka-reduta/"
 related: []
-collections: [donetsk-airport]
 status: approved
 published: 2026-10-12T18:50:38Z
 ---

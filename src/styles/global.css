@@ -436,7 +436,6 @@ main:focus { outline: none; }
 [data-collection='women-army'] { --era: light-dark(#8c2f61, #f49ac7); }
 [data-collection='money-people'] { --era: light-dark(#2c5a2e, #8fd18f); }
 [data-collection='defenders-mariupol'] { --era: light-dark(#4b4e8f, #b3b6f5); }
-[data-collection='donetsk-airport'] { --era: light-dark(#5c4a3a, #d4b89c); }
 [data-collection='sixtiers'] { --era: light-dark(#1f5f63, #8fd3d6); }
 [data-collection='executed-renaissance'] { --era: light-dark(#7d2a2a, #f2a0a0); }
 [data-collection='civic-icons'] { --era: light-dark(#6a5000, #e9c75c); }

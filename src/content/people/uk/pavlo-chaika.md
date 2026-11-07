@@ -37,7 +37,6 @@ sources:
   - title: "Фокус - На Волині у ДТП загинув «кіборг», повний кавалер ордену «За мужність» Павло Чайка"
     url: "https://focus.ua/uk/ukraine/670771-na-volini-u-dtp-zaginuv-kiborg-povniy-kavaler-ordenu-za-muzhnist-pavlo-chayka-podrobici"
 related: [valerii-chybinieiev, viacheslav-zaitsev]
-collections: [donetsk-airport]
 status: approved
 published: 2026-10-11T16:50:28Z
 ---

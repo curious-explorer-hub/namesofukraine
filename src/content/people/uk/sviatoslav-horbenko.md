@@ -42,7 +42,7 @@ sources:
   - title: "ЗМІСТ - Вулиці й провулки Полтави, які назвали на честь полеглих героїв війни (2024)"
     url: "https://zmist.pl.ua/news/vulyczi-j-provulky-poltavy-yaki-nazvaly-na-chest-poleglyh-geroyiv-vijny"
 related: [serhii-tabala]
-collections: [donetsk-airport, civic-icons]
+collections: [civic-icons]
 status: approved
 published: 2026-10-11T19:07:13Z
 ---

@@ -37,7 +37,6 @@ sources:
   - title: "Радіо Свобода - На Хортиці відкрили пам'ятний знак «запорізькому кіборгу» В'ячеславу Зайцеву"
     url: "https://www.radiosvoboda.org/a/news-khortytsia-pamyatnyi-znak-zaporizkyi-kiborh-vyacheslav-zaitsev/33449954.html"
 related: [valerii-chybinieiev, pavlo-chaika]
-collections: [donetsk-airport]
 status: approved
 published: 2026-10-11T19:07:13Z
 ---

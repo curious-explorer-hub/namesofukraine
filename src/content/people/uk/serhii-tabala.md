@@ -40,7 +40,7 @@ sources:
   - title: "Урядовий кур'єр - Кіборг Сергій Табала"
     url: "https://ukurier.gov.ua/uk/articles/kiborg-sergij-tabala/"
 related: [sviatoslav-horbenko]
-collections: [donetsk-airport, civic-icons]
+collections: [civic-icons]
 status: approved
 published: 2026-10-11T19:17:10Z
 ---

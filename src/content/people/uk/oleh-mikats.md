@@ -40,7 +40,6 @@ sources:
   - title: "Центральна виборча комісія - Відомості про кандидата в народні депутати: Мікац Олег Михайлович (вибори 2014 року, архівна копія)"
     url: "https://web.archive.org/web/20141217001928/http://www.cvk.gov.ua/pls/vnd2014/WP407?PT001F01=910&pf7201=12598"
 related: [oleksii-otserklevych]
-collections: [donetsk-airport]
 status: approved
 published: 2026-10-11T19:07:13Z
 ---

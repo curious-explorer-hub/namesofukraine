@@ -50,7 +50,6 @@ sources:
   - title: "Вікіпедія - Оцерклевич Олексій Ярославович"
     url: "https://uk.wikipedia.org/wiki/Оцерклевич_Олексій_Ярославович"
 related: [oleh-mikats]
-collections: [donetsk-airport]
 status: draft
 ---
 

@@ -29,7 +29,7 @@ sources:
     url: "https://novynarnia.com/2017/11/30/vitrina-dlya-separiv-donetskiy-biznesmen-buv-biytsem-duk-a-teper-ocholyuye-patrulnu-politsiyu-mariupolya/"
   - title: "Суспільне - О. Папіна, «У Маріуполі суд відсторонив Вершиніна від посади без права апеляції» (17 листопада 2020)"
     url: "https://suspilne.media/80537-u-mariupoli-sud-vidstoroniv-versinina-vid-posadi-bez-prava-apelacii/"
-collections: [defenders-mariupol, donetsk-airport]
+collections: [defenders-mariupol]
 status: draft
 ---
 

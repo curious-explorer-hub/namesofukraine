@@ -42,7 +42,6 @@ sources:
   - title: "Вікіпедія - Гаврилюк Андрій Петрович"
     url: "https://uk.wikipedia.org/wiki/Гаврилюк_Андрій_Петрович"
 related: [ihor-branovytskyi, ivan-zubkov]
-collections: [donetsk-airport]
 status: approved
 published: 2026-11-01T23:12:27Z
 ---

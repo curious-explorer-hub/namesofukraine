@@ -42,7 +42,8 @@ sources:
     url: "https://www.ukrinform.net/rubric-society/4082163-ukraine-honors-defenders-of-donetsk-airport-today.html"
   - title: "Kyiv Post - Remembering Ukraine's 'Cyborg' Warriors (2023)"
     url: "https://www.kyivpost.com/post/11191"
-status: draft
+status: approved
+published: 2026-11-07T02:28:32Z
 ---
 
 Чому зруйновану диспетчерську вежу в Донецьку знає вся Україна? Під нею 242 дні, з 26 травня 2014-го до 22 січня 2015 року, українські воїни тримали аеропорт, хоча саме місто вже захопили бойовики. Ворог так і не зміг їх зламати і прозвав «кіборгами». Наприкінці обвалилися бетонні термінали, і про оборонців відтоді кажуть: «Вони вистояли - не вистояв бетон».
