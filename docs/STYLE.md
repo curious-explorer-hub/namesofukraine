@@ -70,7 +70,7 @@ Keep «Дискусії та оцінки» / "Debates and assessments" as it is
 
 ## russia in lowercase
 
-Write «росія», «російська імперія» and, in English, "russia", "russian empire", "russian", "russians" in lowercase, in the text and in frontmatter (summary, fun_fact, alt text, notes). Keep the capital at the start of a sentence or heading, inside quoted words («…», “…”), in `quotes:` and `sources:` (quotes and source titles stay as published), and in titles of works ("Little Russian Tales", "Russian-Ukrainian Dictionary").
+Write «росія», «російська імперія» and, in English, "russia", "russian empire", "russian", "russians" in lowercase, in the text and in frontmatter (summary, fun_fact, timeline, alt text, notes). At the start of a sentence or heading the capital stays, but rephrase so the word doesn't open it («Лише навесні 2024 року росія визнала…», «Москва оголосила…», «Окупанти відступали…»), so the capital is as rare as possible (owner decision 2026-11-07). Labels that aren't sentences (a birthplace name) stay lowercase. Keep the capital also inside quoted words («…», “…”), in `quotes:` and `sources:` (quotes and source titles stay as published), in titles of works ("Little Russian Tales", "Russian-Ukrainian Dictionary") and in names of organizations («Російське географічне товариство»).
 
 ## Writing
 

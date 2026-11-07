@@ -28,7 +28,7 @@ Malaniuk became a poet in an internment camp, yet the camp where he spent severa
 
 In Lviv, [Dmytro Dontsov](/en/people/dmytro-dontsov/) printed his poems. Malaniuk is counted, with Olena Teliha, [Oleh Olzhych](/en/people/oleh-olzhych/) and [Leonid Mosendz](/en/people/leonid-mosendz/), among the Prague school of émigré poets. His verse was stern and chiselled, and in “Inscription on a Book of Poems” (1925) he called himself “the emperor of iron stanzas”. Scholars call him that too.
 
-## Russian lessons for Polish officers
+## Teaching russian to Polish officers
 
 In 1929 Malaniuk settled in Warsaw and, with Yurii Lypa, founded the literary group Tank. Its programme was a decisive break with russian culture and the idea of a Ukrainian state. At the same time the poet taught russian at the Polish General Staff Academy. His work was translated into Polish, and from 1930 to 1937 he corresponded with the Czech poet Josef Svatopluk Machar.
 

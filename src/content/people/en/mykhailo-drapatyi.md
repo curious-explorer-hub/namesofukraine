@@ -35,7 +35,7 @@ On 22 July 2026 President Volodymyr Zelenskyy appointed Mykhailo Drapatyi Comman
 
 ## Debates and assessments
 
-Soon after the appointment, Ukrainian and russian media circulated an excerpt from a 2023 interview in which Drapatyi had called some Donbas residents “envious, lazy migrants and criminals” and criticized the lack of Ukrainianization of the region since 1991. Russian propaganda used the remarks to brand the new commander-in-chief as hostile to Donbas Ukrainians; Ukrainian outlets covered it as an old, controversial comment unrelated to his combat record or decisions in office.
+Soon after the appointment, Ukrainian and russian media circulated an excerpt from a 2023 interview in which Drapatyi had called some Donbas residents “envious, lazy migrants and criminals” and criticized the lack of Ukrainianization of the region since 1991. The remarks were used by russian propaganda to brand the new commander-in-chief as hostile to Donbas Ukrainians; Ukrainian outlets covered it as an old, controversial comment unrelated to his combat record or decisions in office.
 
 ## Why it matters today
 

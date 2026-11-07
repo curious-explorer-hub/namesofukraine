@@ -58,4 +58,4 @@ Only in 1985, after a long break, did she go back to the Carpathians and return 
 
 ## Why it matters today
 
-Halyna Zubchenko believed Ukrainian art could be built on folk art, and she looked for it where it still lived: in Hutsul villages, in ornament, in the glass of old Kyiv. She did not give up when her paintings were “corrected” and her window destroyed, and with her Sixtiers friends she gave Soviet walls a Ukrainian voice. Russia has destroyed some of those mosaics in Mariupol, so each one that survives is memory worth protecting. Anyone who looks for themselves in folk art today is walking her path.
+Halyna Zubchenko believed Ukrainian art could be built on folk art, and she looked for it where it still lived: in Hutsul villages, in ornament, in the glass of old Kyiv. She did not give up when her paintings were “corrected” and her window destroyed, and with her Sixtiers friends she gave Soviet walls a Ukrainian voice. Some of those mosaics in Mariupol have been destroyed by russia, so each one that survives is memory worth protecting. Anyone who looks for themselves in folk art today is walking her path.

@@ -5,7 +5,7 @@ role: "Mathematician, academician"
 summary: "A theorem often named after Gauss was first proved in its general form by a 24-year-old from Poltava, in Paris. Mykhailo Ostrohradskyi was refused his university degree and went on to become one of the finest mathematicians of the 19th century."
 fun_fact: "As a boy, Ostrohradskyi measured everything with a weight on a string: carts, trees, ravines and the depth of wells."
 misconception:
-  claim: "Ostrohradskyi was a Russian mathematician."
+  claim: "Ostrohradskyi was a russian mathematician."
   truth: "He was a subject of the russian empire and worked in St Petersburg, but he was born in the Poltava region into the Ostrohradskyi family of Cossack officers, spoke Ukrainian at home, and by his own wish was buried in his native Pashenna."
 key_accomplishments:
   - "The first general proof of the theorem that turns an integral over a volume into an integral over its surface (1826; the Gauss-Ostrogradsky or divergence theorem)"

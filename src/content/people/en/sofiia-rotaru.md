@@ -31,7 +31,7 @@ In 1988 Rotaru became a People’s Artist of the USSR. She was made an honorary 
 
 Rotaru built much of her career on the stages of the USSR and later russia, and her performances there after 2014 are judged in different ways. In 2014, after russia occupied Crimea, she was photographed with a Ukrainian flag, and her concerts in russia began to be cancelled. Yet she kept appearing at russia’s televised Song of the Year festival: she stayed away in 2018 but set off for Moscow again in 2019. That trip set off a campaign against her in russia, and her concert director defended her on the russian propaganda talk show 60 Minutes.
 
-After the full-scale invasion of 2022, Rotaru spoke out against the war on Instagram, and in August 2022 she urged people to support a fund that helps the wives and children of Ukrainian soldiers. Russia’s occupation authorities in Crimea have since demanded that her hotel in Yalta and her honorary citizenship of the city be taken from her; one Crimean official said she “takes an anti-Russian position.”
+After the full-scale invasion of 2022, Rotaru spoke out against the war on Instagram, and in August 2022 she urged people to support a fund that helps the wives and children of Ukrainian soldiers. The russian occupation authorities in Crimea have since demanded that her hotel in Yalta and her honorary citizenship of the city be taken from her; one Crimean official said she “takes an anti-Russian position.”
 
 ## Why it matters today
 

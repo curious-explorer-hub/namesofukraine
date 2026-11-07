@@ -10,7 +10,7 @@ key_accomplishments:
   - "Hero of Ukraine with the Gold Star order (decree No. 584/2015 of 14 October 2015)"
   - "Holder of all three classes of the Order of Bohdan Khmelnytskyi"
   - "From March 2022, commander of Tactical Group “Adam”, which fought in the Kyiv region, around Bakhmut and in the Kharkiv counteroffensive"
-birthplace_name: "Russia"
+birthplace_name: "russia"
 image_alt: "Yevhen Mezhevikin in a cap and digital camouflage, with the Hero of Ukraine star on his chest"
 quotes:
   - text: "It's time to do something so that our children live better. Everyone has to join in this work, not look for excuses […]. And one more thing, the most important of all: the unity of the nation. Then everything will be fine for us."

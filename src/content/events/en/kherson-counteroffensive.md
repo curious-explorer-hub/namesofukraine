@@ -5,12 +5,12 @@ summary: "Kherson was the only regional capital russia captured after 24 Februar
 place_name: "Kherson and the right bank of the Kherson region"
 image_alt: "Two Kherson residents wrapped in blue-and-yellow flags look up at the Ukrainian flag on the central square of liberated Kherson, among flowers, a watermelon and handmade posters, 14 November 2022"
 timeline:
-  - { when: "1–2 March 2022", text: "Russian troops take Kherson, the only regional capital occupied after 24 February" }
+  - { when: "1–2 March 2022", text: "The russian army takes Kherson, the only regional capital occupied after 24 February" }
   - { when: "5 March 2022", text: "Thousands of Kherson residents gather on Freedom Square, chanting “Kherson is Ukraine!”" }
   - { when: "July 2022", text: "Ukrainian strikes damage the Antonivskyi bridge, russia’s supply route to its troops on the right bank" }
   - { when: "29 August 2022", text: "Ukraine’s forces begin the offensive in the Kherson region" }
   - { when: "Early October 2022", text: "A breakthrough along the Dnipro in the north of the region" }
-  - { when: "9 November 2022", text: "Russia announces it is pulling its troops off the right bank of the Dnipro" }
+  - { when: "9 November 2022", text: "Moscow announces it is pulling its troops off the right bank of the Dnipro" }
   - { when: "11 November 2022", text: "Ukrainian troops enter Kherson" }
   - { when: "14 November 2022", text: "The State Flag of Ukraine is raised in a ceremony in the centre of Kherson" }
 ---

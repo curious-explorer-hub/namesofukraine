@@ -24,7 +24,7 @@ After 24 February 2022 Viktoriia didn’t wait for assignments. By July 2023 she
 
 ## The last trip
 
-In late July 2023 Viktoriia set off through Poland and Latvia into russia, to reach occupied Enerhodar from there. On 3 August she was last in touch with her family. Investigators later found that she was held without any charge in Enerhodar, then Melitopol, then a pre-trial detention centre in Taganrog. Russia admitted holding her only in the spring of 2024. In September 2024 she was expected in a prisoner exchange, but she wasn’t handed over. According to russia, Viktoriia Roshchyna died in captivity on 19 September 2024, at the age of 27. Her body was returned to Ukraine in February 2025, and prosecutors found signs of torture. On 8 August 2025 people said goodbye to her in Kyiv, on Maidan Nezalezhnosti.
+In late July 2023 Viktoriia set off through Poland and Latvia into russia, to reach occupied Enerhodar from there. On 3 August she was last in touch with her family. Investigators later found that she was held without any charge in Enerhodar, then Melitopol, then a pre-trial detention centre in Taganrog. Only in the spring of 2024 did russia admit holding her. In September 2024 she was expected in a prisoner exchange, but she wasn’t handed over. According to russia, Viktoriia Roshchyna died in captivity on 19 September 2024, at the age of 27. Her body was returned to Ukraine in February 2025, and prosecutors found signs of torture. On 8 August 2025 people said goodbye to her in Kyiv, on Maidan Nezalezhnosti.
 
 ## The investigation others carried on
 

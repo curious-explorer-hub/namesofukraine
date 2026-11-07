@@ -19,7 +19,7 @@ image_alt: "Andrii Havryliuk in pixel-pattern military uniform and a black knit 
 
 Andrii Havryliuk was born on 3 February 1980 in Kyiv. He went to Specialized School No. 71 in the Solomianka district, then to Kyiv Vocational School No. 3, and in 1998-2000 did his conscript service at the Poltava Military Institute of Communications.
 
-When Russia's aggression began, Andrii didn't wait to be called up: on 23 August 2014 he volunteered. He was assigned to the 90th Separate Airborne Battalion of the 81st Separate Airborne Brigade, to the fire-support company, the same one in which [Ivan Zubkov](/en/people/ivan-zubkov/) served. Andrii became a senior gunner of a platoon and took the call sign "Bur."
+When russia's aggression began, Andrii didn't wait to be called up: on 23 August 2014 he volunteered. He was assigned to the 90th Separate Airborne Battalion of the 81st Separate Airborne Brigade, to the fire-support company, the same one in which [Ivan Zubkov](/en/people/ivan-zubkov/) served. Andrii became a senior gunner of a platoon and took the call sign "Bur."
 
 ## The new terminal
 

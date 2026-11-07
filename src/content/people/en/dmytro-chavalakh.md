@@ -31,7 +31,7 @@ After the east, Chavalakh decided to become an infantry officer, and in 2019 he 
 
 ## Breaking out across the Antonivskyi Bridge
 
-On 24 February 2022 the battalion was at the Oleshky Sands in the Kherson region. Russian troops pushed north from Crimea, and russian paratroopers landed on the Antonivskyi Bridge, which links Kherson with the left bank of the Dnipro. The only way out of the encirclement was to break through across the bridge: exactly the attack behind armour they had practised at the exercise. A tank company went first, commanded by Chavalakh’s namesake and fellow cadet, Dmytro Dozirchyi. Covered by the tanks, the infantry fought their way along a kilometre and a half of bridge for about three hours. Chavalakh’s company crossed to the far side and was moving up to cover the rest of the brigade’s breakout when a sniper badly wounded him. The brigade got out of the encirclement.
+On 24 February 2022 the battalion was at the Oleshky Sands in the Kherson region. From Crimea russian troops pushed north, and russian paratroopers landed on the Antonivskyi Bridge, which links Kherson with the left bank of the Dnipro. The only way out of the encirclement was to break through across the bridge: exactly the attack behind armour they had practised at the exercise. A tank company went first, commanded by Chavalakh’s namesake and fellow cadet, Dmytro Dozirchyi. Covered by the tanks, the infantry fought their way along a kilometre and a half of bridge for about three hours. Chavalakh’s company crossed to the far side and was moving up to cover the rest of the brigade’s breakout when a sniper badly wounded him. The brigade got out of the encirclement.
 
 ## Almost three months under occupation
 

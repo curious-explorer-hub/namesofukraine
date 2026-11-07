@@ -5,7 +5,7 @@ summary: "For 86 days, 82 of them fully encircled, Azov fighters, marines, Natio
 place_name: "Mariupol, Donetsk region"
 image_alt: "The Azovstal iron and steel works in Mariupol: blast furnaces and chimneys above the coast, August 2021, half a year before the siege"
 timeline:
-  - { when: "24 February 2022", text: "russia launches its full-scale invasion; its troops close in on Mariupol from the east, north and west" }
+  - { when: "24 February 2022", text: "The full-scale russian invasion begins; russian troops close in on Mariupol from the east, north and west" }
   - { when: "Early March 2022", text: "The city is fully encircled, without power, water or heating" }
   - { when: "9 March 2022", text: "An airstrike hits the maternity hospital and a hospital in the city centre" }
   - { when: "16 March 2022", text: "An aerial bomb hits the Drama Theatre, where hundreds of civilians were sheltering" }

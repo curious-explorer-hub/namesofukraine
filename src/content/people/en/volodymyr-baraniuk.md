@@ -2,7 +2,7 @@
 # English text only; facts (dates, places, group, sources, image) live in ../uk/volodymyr-baraniuk.md
 name: "Volodymyr Baraniuk"
 role: "Commander of the 36th Marine Brigade"
-summary: "Russian troops captured him once before, in Crimea in 2014, and left him with broken ribs. Eight years later, as a colonel and Hero of Ukraine, he commanded the 36th Marine Brigade's defence of Mariupol - and was taken prisoner again."
+summary: "Once before, in Crimea in 2014, russian troops had captured him and left him with broken ribs. Eight years later, as a colonel and Hero of Ukraine, he commanded the 36th Marine Brigade's defence of Mariupol - and was taken prisoner again."
 fun_fact: "After Baraniuk was captured in a failed breakout from Mariupol, about 500 of his soldiers fought their way through to the Azovstal plant under the command of Serhii Volynskyi."
 key_accomplishments:
   - "During russia's seizure of Crimea in 2014, then a major, took command of his besieged marine battalion in Feodosia"
@@ -15,7 +15,7 @@ image_alt: "Colonel Volodymyr Baraniuk in Marine field uniform and a boonie hat"
 
 ## The first time they caught him
 
-As russia seized Crimea in March 2014, Major Volodymyr Baraniuk was deputy commander of a marine battalion in Feodosia. When russian troops surrounded the base and flew the senior officers out by helicopter, Baraniuk took charge of the encircled unit. Russian troops fired on the unarmed marines and threw flash grenades at them; Baraniuk came away with broken ribs and a head injury. He was released on 26 March 2014, along with the other captured marines.
+As russia seized Crimea in March 2014, Major Volodymyr Baraniuk was deputy commander of a marine battalion in Feodosia. When russian troops surrounded the base and flew the senior officers out by helicopter, Baraniuk took charge of the encircled unit. The occupiers fired on the unarmed marines and threw flash grenades at them; Baraniuk came away with broken ribs and a head injury. He was released on 26 March 2014, along with the other captured marines.
 
 ## Mariupol
 
@@ -25,7 +25,7 @@ In early April 2022 Baraniuk led a column trying to break out of the besieged ci
 
 ## Captivity since
 
-Russian state media showed Baraniuk alive in captivity on 8 May 2022.
+On 8 May 2022 russian state media showed Baraniuk alive in captivity.
 
 ## Why it matters today
 

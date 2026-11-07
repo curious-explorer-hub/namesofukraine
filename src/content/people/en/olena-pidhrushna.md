@@ -20,7 +20,7 @@ image_alt: "A smiling Olena Pidhrushna in a turquoise jacket with a relay bib, c
 
 ## The anchor leg
 
-On 21 February 2014, shortly after the bloodshed on the Maidan in Kyiv, Ukraine's women's biathlon team lined up for the Olympic relay in Sochi. Russia and Norway were the favourites; Ukraine was given an outside chance of bronze at best. Vita Semerenko, Yuliia Dzhyma and Valia Semerenko handed the anchor leg to Olena Pidhrushna with a lead of almost half a minute, and she brought the team home to gold. None of the four had the fastest time on her leg, but all of them skied steadily: it was a team win. It was Ukraine's first Winter Olympic gold in 20 years, since the figure skater [Oksana Baiul](/en/people/oksana-baiul/) won in 1994. The russian relay team was later disqualified for doping.
+On 21 February 2014, shortly after the bloodshed on the Maidan in Kyiv, Ukraine's women's biathlon team lined up for the Olympic relay in Sochi. The favourites were russia and Norway; Ukraine was given an outside chance of bronze at best. Vita Semerenko, Yuliia Dzhyma and Valia Semerenko handed the anchor leg to Olena Pidhrushna with a lead of almost half a minute, and she brought the team home to gold. None of the four had the fastest time on her leg, but all of them skied steadily: it was a team win. It was Ukraine's first Winter Olympic gold in 20 years, since the figure skater [Oksana Baiul](/en/people/oksana-baiul/) won in 1994. The russian relay team was later disqualified for doping.
 
 The athletes knew little of what was happening at home during the Games. “If we had known the whole truth, who knows what state of mind we'd have been in, and it's not certain we could have won the relay,” Pidhrushna recalled.
 

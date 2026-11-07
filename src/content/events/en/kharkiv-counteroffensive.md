@@ -5,7 +5,7 @@ summary: "On 6 September 2022 Ukraine’s Defence Forces struck without warning 
 place_name: "Kharkiv region"
 image_alt: "A burnt-out russian truck marked with a Z on a street in liberated Balakliia, under autumn trees, 14 September 2022"
 timeline:
-  - { when: "May 2022", text: "Russian troops pull back from Kharkiv, which they could neither surround nor take" }
+  - { when: "May 2022", text: "The russian army pulls back from Kharkiv, which it could neither surround nor take" }
   - { when: "Late August 2022", text: "Ukraine announces an offensive in the Kherson region, and russia moves part of its forces south" }
   - { when: "6 September 2022", text: "The Defence Forces go on the offensive in the Kharkiv region" }
   - { when: "8 September 2022", text: "The Ukrainian flag flies over Balakliia again" }

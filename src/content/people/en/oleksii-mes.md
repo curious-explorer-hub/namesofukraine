@@ -28,7 +28,7 @@ After russia’s full-scale invasion, “Moonfish” and “Juice” became the 
 
 ## The sky over Ukraine
 
-Russia launched one of its most powerful combined missile strikes on Ukraine on 26 August 2024. That day Oleksii, flying an F-16, destroyed three cruise missiles and an attack drone. Oleksii Mes was killed at the age of 30 when his F-16 crashed while fighting off the attack.
+On 26 August 2024 russia launched one of its most powerful combined missile strikes on Ukraine. That day Oleksii, flying an F-16, destroyed three cruise missiles and an attack drone. Oleksii Mes was killed at the age of 30 when his F-16 crashed while fighting off the attack.
 
 ## Why it matters today
 
