@@ -28,7 +28,7 @@ gallery:
     license: "CC BY 4.0"
     source_url: "https://commons.wikimedia.org/wiki/File:Working_trip_of_the_President_of_Ukraine_to_the_Kyiv_region_02.jpg"
 videos:
-  - { youtube: tqUFzOeVRDU, title: "Відео знищення російської колони під Києвом", source: "Телеканал Прямий", date: 2022-03-10, duration: "0:45", section: 2 }
+  - { youtube: R6D22jsNi5o, title: "ЗСУ поширили відео «бою в Броварському районі»", source: "BBC News Україна", date: 2022-03-10, duration: "0:46", section: 2 }
 people: [oleksandr-oksanchenko, iryna-tsvila, valerii-chybinieiev, kostiantyn-mrochko, kateryna-stupnytska, andrii-norov, roman-ratushnyi, serhii-mishchenko, robert-brovdi, ihor-dykun, pavlo-bilous, yevhen-mezhevikin, oleksandr-hrianyk]
 sources:
   - title: "АрміяInform - Уся Київська область звільнена від окупантів! (2022)"
@@ -55,7 +55,8 @@ sources:
     url: "https://rusaggression.gov.ua/ua/event-article.html?object=cef2e673efa74fab7f2d8dcd069d2be4"
   - title: "Тиждень - Оборона Броварів і битва за Київ: як українські військові знищили танковий полк РФ (2026)"
     url: "https://tyzhden.ua/oborona-brovariv-i-bytva-za-kyiv-iak-ukrainski-vijskovi-znyshchyly-tankovyj-polk-rf-interv-iu-z-romanom-darmohraiem/"
-status: draft
+status: approved
+published: 2026-11-07T04:08:00Z
 ---
 
 Чи можна за кілька днів захопити столицю великої країни? У лютому 2022 року в росії вважали, що можна. Але на підступах до Києва, у Гостомелі, Ірпені, Мощуні, під Броварами та Макаровим, її війська зупинили військові, тероборона й добровольці. Оборона тривала 38 днів, а 2 квітня 2022 року Міноборони оголосило: уся Київська область звільнена.

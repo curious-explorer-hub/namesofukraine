@@ -37,7 +37,6 @@ sources:
   - title: "Книга пам'яті полеглих за Україну - Норов Андрій Олексійович (Космос)"
     url: "https://memorybook.org.ua/soldiers/andrii-o-norov"
 related: []
-collections: [battle-of-kyiv]
 status: approved
 published: 2026-10-26T02:14:08Z
 ---

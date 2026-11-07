@@ -36,7 +36,6 @@ sources:
     url: "https://armyinform.com.ua/2022/03/14/istoriya-geroya-ukrayiny-tankista-kostyantyna-mrochka/"
   - title: "Укрінформ - Пам'яті танкіста Героя України Костянтина Мрочка (13 серпня 2023)"
     url: "https://www.ukrinform.ua/rubric-ato/3746731-pamati-tankista-geroa-ukraini-kostantina-mrocka.html"
-collections: [battle-of-kyiv]
 status: approved
 published: 2026-10-27T23:56:26Z
 ---

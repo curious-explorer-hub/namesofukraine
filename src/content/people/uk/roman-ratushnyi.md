@@ -62,7 +62,7 @@ sources:
   - title: "AVELLUM - Four law students receive Roman Ratushnyi Scholarship (2024)"
     url: "https://avellum.com/four-law-students-receive-roman-ratushnyi-scholarship/"
 related: [viacheslav-chornovil, kazymyr-malevych, iryna-tsybukh]
-collections: [civic-icons, battle-of-kyiv]
+collections: [civic-icons]
 audio: { duration: "2:16" }
 status: approved
 published: 2026-10-07T06:23:13Z

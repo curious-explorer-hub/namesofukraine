@@ -15,7 +15,7 @@ gallery:
   - alt: "Ukrainian soldiers examine a burnt-out russian armoured vehicle on a street in Bucha, with dozens more wrecked vehicles behind"
     caption: "Destroyed russian vehicles in Bucha after its liberation, 4 April 2022"
 videos:
-  - { title: "Video of a russian column destroyed near Kyiv", source: "Pryamyi TV" }
+  - { title: "Ukraine’s Armed Forces release video of “a battle in the Brovary district”", source: "BBC News Ukrainian" }
 ---
 
 Can the capital of a large country be taken in a few days? In February 2022, russia believed it could. But on the approaches to Kyiv, at Hostomel, Irpin and Moshchun, near Brovary and Makariv, its troops were stopped by soldiers, territorial defence units and volunteers. The defence lasted 38 days, and on 2 April 2022 the Ministry of Defence announced that the whole Kyiv region had been liberated.

@@ -42,7 +42,7 @@ sources:
   - title: "Суспільне Тернопіль - О. Цвик, «Герой України з Тернопільщини очолив 32-гу окрему механізовану бригаду» (20 лютого 2026)"
     url: "https://suspilne.media/ternopil/1245912-geroj-ukraini-z-ternopilsini-ocoliv-32-gu-okremu-mehanizovanu-brigadu/"
 related: []
-collections: [battle-of-kyiv, bakhmut]
+collections: [bakhmut]
 status: draft
 ---
 

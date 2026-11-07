@@ -38,7 +38,6 @@ sources:
   - title: "Книга пам'яті полеглих за Україну - Міщенко Сергій Олексійович (Бугор)"
     url: "https://memorybook.org.ua/soldiers/serhii-o-mishchenko"
 related: []
-collections: [battle-of-kyiv]
 status: approved
 published: 2026-10-26T02:17:51Z
 ---

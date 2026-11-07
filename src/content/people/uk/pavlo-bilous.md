@@ -33,7 +33,6 @@ sources:
   - title: "АрміяInform - Глава держави вручив ордени «Золота Зірка»"
     url: "https://armyinform.com.ua/2022/05/06/glava-derzhavy-vruchyv-ordeny-zolota-zirka/"
 related: []
-collections: [battle-of-kyiv]
 status: draft
 ---
 

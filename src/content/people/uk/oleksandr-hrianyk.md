@@ -38,7 +38,7 @@ sources:
   - title: "hromadske - «У нього був шанс вижити, але він обрав своїх побратимів»"
     url: "https://hromadske.ua/posts/u-nogo-buv-shans-vizhiti-ale-vin-obrav-svoyih-pobratimiv"
 related: []
-collections: [battle-of-kyiv, defenders-mariupol]
+collections: [defenders-mariupol]
 status: approved
 published: 2026-10-26T01:53:22Z
 ---

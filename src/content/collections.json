@@ -169,30 +169,6 @@
       }
     },
     {
-      "id": "battle-of-kyiv",
-      "label": {
-        "uk": "Битва за Київ",
-        "en": "The Battle of Kyiv"
-      },
-      "description": {
-        "uk": "Щит столиці: Люди, які відстояли Київщину (Лютий – березень 2022)",
-        "en": "Shield of the Capital: The People Who Held the Kyiv Region (February – March 2022)"
-      },
-      "image": {
-        "file": "battle-of-kyiv.jpg",
-        "caption": {
-          "uk": "Евакуація цивільних під зруйнованим мостом через Ірпінь, 8 березня 2022",
-          "en": "Civilians evacuating under the destroyed bridge over the Irpin River, 8 March 2022"
-        },
-        "author": {
-          "uk": "Ян Боечат / VOA",
-          "en": "Yan Boechat / VOA"
-        },
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Civilian_evacuation_across_Irpin_River_2022-03-08_4.jpg"
-      }
-    },
-    {
       "id": "kharkiv-counteroffensive",
       "draft": true,
       "label": {
